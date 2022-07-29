@@ -138,6 +138,12 @@ namespace UserMgmt
             return encryptdata.ToString();
         }
 
+        /// <summary>
+        /// Redirects to Forgot password Page
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+
         protected void btnForgotPassword_ServerClick(object sender, EventArgs e)
         {
             Response.Redirect("ForgotPassword");
