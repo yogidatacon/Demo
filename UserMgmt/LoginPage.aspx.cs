@@ -109,6 +109,7 @@ namespace UserMgmt
 
             catch (Exception ex)
             {
+                //shows error message
                 Response.Write("Contact Admin : " + ex.Message.ToString());
             }
 
