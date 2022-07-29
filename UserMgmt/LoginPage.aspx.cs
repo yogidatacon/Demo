@@ -116,6 +116,11 @@ namespace UserMgmt
 
 
         }
+        /// <summary>
+        /// this method encrypts the Password to enhance the confidentiality of credentials
+        /// </summary>
+        /// <param name="password"></param>
+        /// <returns></returns>
 
         public string encryption(String password)
         {

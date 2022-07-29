@@ -44,3 +44,8 @@ E:\UserMgmt\UserMgmt\Usermngt.Entities.pdb
 E:\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
 E:\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
 E:\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+E:\Githubdemo\Demo\UserMgmt\Usermngt.Entities.dll
+E:\Githubdemo\Demo\UserMgmt\Usermngt.Entities.pdb
+E:\Githubdemo\Demo\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+E:\Githubdemo\Demo\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+E:\Githubdemo\Demo\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb

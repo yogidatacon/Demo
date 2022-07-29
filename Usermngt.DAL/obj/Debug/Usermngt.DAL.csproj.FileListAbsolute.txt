@@ -55,3 +55,9 @@ E:\UserMgmt\UserMgmt\Usermngt.DAL.pdb
 E:\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
 E:\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
 E:\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+E:\Githubdemo\Demo\UserMgmt\NLog.config
+E:\Githubdemo\Demo\UserMgmt\Usermngt.DAL.dll
+E:\Githubdemo\Demo\UserMgmt\Usermngt.DAL.pdb
+E:\Githubdemo\Demo\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+E:\Githubdemo\Demo\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+E:\Githubdemo\Demo\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb

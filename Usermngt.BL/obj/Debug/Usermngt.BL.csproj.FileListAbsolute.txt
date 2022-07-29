@@ -55,3 +55,9 @@ E:\UserMgmt\UserMgmt\Usermngt.BL.pdb
 E:\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
 E:\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
 E:\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+E:\Githubdemo\Demo\UserMgmt\NLog.config
+E:\Githubdemo\Demo\UserMgmt\Usermngt.BL.dll
+E:\Githubdemo\Demo\UserMgmt\Usermngt.BL.pdb
+E:\Githubdemo\Demo\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+E:\Githubdemo\Demo\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+E:\Githubdemo\Demo\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
