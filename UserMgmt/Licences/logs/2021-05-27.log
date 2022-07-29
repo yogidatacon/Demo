@@ -1,0 +1,144 @@
+2021-05-27 09:24:59.2607 INFO Get User Success :44-Administrator
+2021-05-27 09:25:14.1447 INFO Get User Success :44-Administrator
+2021-05-27 09:25:14.6138 INFO Get User Success :Admin
+2021-05-27 09:25:22.6602 INFO Get License_Type List Success
+2021-05-27 09:25:22.9282 INFO Get User Success :Admin
+2021-05-27 09:25:26.4750 INFO Get License_Type List Success
+2021-05-27 09:25:26.5889 INFO Get User Success :Admin
+2021-05-27 09:25:29.0828 INFO Get License Fee List Success
+2021-05-27 09:25:29.1938 INFO Get User Success :Admin
+2021-05-27 09:25:31.3456 INFO Get License Fee List Success
+2021-05-27 09:25:31.7076 INFO Get License_Type List Success
+2021-05-27 09:25:31.8186 INFO Get User Success :Admin
+2021-05-27 09:25:33.9955 INFO Get License_Type List Success
+2021-05-27 09:25:34.1415 INFO Get User Success :Admin
+2021-05-27 09:25:45.0708 INFO Get License Fee List Success
+2021-05-27 09:25:45.1728 INFO Get User Success :Admin
+2021-05-27 09:25:54.1432 INFO Get License Fee List Success
+2021-05-27 09:25:54.5982 INFO Get License_Type List Success
+2021-05-27 09:25:54.7092 INFO Get License_Type List Success
+2021-05-27 09:25:54.8292 INFO Get User Success :Admin
+2021-05-27 09:26:06.9134 INFO Get Existing data Fail :lic_fee_master
+2021-05-27 09:28:45.3335 INFO Insert license_type Success :C-A
+2021-05-27 09:28:45.4275 INFO Update License Type Fail :C-A
+2021-05-27 09:37:32.0641 INFO Insert license_type Fail :C-A-23505: duplicate key value violates unique constraint "lic_fee_master_pkey"
+2021-05-27 09:37:32.1601 INFO Update License Type Fail :C-A
+2021-05-27 09:38:32.1730 INFO Get Existing data Fail :lic_fee_master
+2021-05-27 09:38:39.5275 INFO Insert license_type Success :D-A
+2021-05-27 09:38:39.6335 INFO Update License Type Fail :D-A
+2021-05-27 10:38:20.8621 INFO Get User Success :44-Administrator
+2021-05-27 10:38:21.4621 INFO Get User Success :44-Administrator
+2021-05-27 10:38:21.8860 INFO Get User Success :Admin
+2021-05-27 10:38:28.0396 INFO Get License_Type List Success
+2021-05-27 10:38:28.1566 INFO Get User Success :Admin
+2021-05-27 10:38:30.8734 INFO Get License Fee List Success
+2021-05-27 10:38:30.9924 INFO Get User Success :Admin
+2021-05-27 10:38:44.0815 INFO Get License Fee List Success
+2021-05-27 10:38:44.4075 INFO Get License_Type List Success
+2021-05-27 10:38:44.4975 INFO Get License_Type List Success
+2021-05-27 10:38:44.7196 INFO Get User Success :Admin
+2021-05-27 10:38:48.8152 INFO Get License Fee List Success
+2021-05-27 10:38:48.9202 INFO Get User Success :Admin
+2021-05-27 10:38:51.3571 INFO Get License Fee List Success
+2021-05-27 10:38:51.6351 INFO Get License_Type List Success
+2021-05-27 10:38:51.7241 INFO Get License_Type List Success
+2021-05-27 10:38:51.8991 INFO Get User Success :Admin
+2021-05-27 10:39:00.1315 INFO Get License Fee List Success
+2021-05-27 10:39:00.2485 INFO Get User Success :Admin
+2021-05-27 10:39:13.6307 INFO Get License Fee List Success
+2021-05-27 10:39:14.4907 INFO Get License Fee List Success
+2021-05-27 10:39:15.5615 INFO Get License_Type List Success
+2021-05-27 10:39:15.7915 INFO Get User Success :Admin
+2021-05-27 10:39:16.5055 INFO Get License Fee List Success
+2021-05-27 10:39:16.8135 INFO Get License Fee List Success
+2021-05-27 10:39:17.0405 INFO Get User Success :Admin
+2021-05-27 10:39:17.5264 INFO Get License Fee List Success
+2021-05-27 10:44:44.2322 INFO Get User Success :353-M and TP Unit
+2021-05-27 10:44:53.8756 INFO Get User Success :353-M and TP Unit
+2021-05-27 10:44:54.3806 INFO Get User Success :mtp1
+2021-05-27 10:45:10.7365 INFO Get User Success :353-M and TP Unit
+2021-05-27 10:45:11.2505 INFO Get User Success :mtp1
+2021-05-27 10:45:14.1633 INFO Get User Success :353-M and TP Unit
+2021-05-27 10:45:56.3086 INFO Get User Success :353-M and TP Unit
+2021-05-27 10:45:56.4836 INFO Get User Success :mtp1
+2021-05-27 11:51:51.1136 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:51:51.5836 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:52:01.0020 INFO Get User Success :sonasati_dis
+2021-05-27 11:52:39.4896 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:52:40.6675 INFO Get User Success :sonasati_dis
+2021-05-27 11:52:48.6540 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:52:49.2619 INFO Get Form84 List Success
+2021-05-27 11:52:49.5189 INFO Get User Success :sonasati_dis
+2021-05-27 11:53:01.4602 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:53:01.6721 INFO Get Form84 List Success
+2021-05-27 11:53:01.9191 INFO Get User Success :sonasati_dis
+2021-05-27 11:53:11.3525 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:53:11.7715 INFO Get User Success :sonasati_dis
+2021-05-27 11:53:14.9323 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:53:15.0163 INFO Get VAT Master List Success
+2021-05-27 11:53:15.1793 INFO Get User Success :sonasati_dis
+2021-05-27 11:53:20.5949 INFO Get VAT Master List Success
+2021-05-27 11:53:34.4455 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:53:34.8494 INFO Get Form84 List Success
+2021-05-27 11:53:35.0484 INFO Get User Success :sonasati_dis
+2021-05-27 11:53:41.0110 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:53:41.1750 INFO Get Form84 List Success
+2021-05-27 11:53:41.3591 INFO Get User Success :sonasati_dis
+2021-05-27 11:53:49.2145 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:53:49.3145 INFO Get VAT Master List Success
+2021-05-27 11:53:49.5565 INFO Get User Success :sonasati_dis
+2021-05-27 11:54:07.5945 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:54:07.9385 INFO Get Form84 List Success
+2021-05-27 11:54:08.1525 INFO Get User Success :sonasati_dis
+2021-05-27 11:54:15.1790 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:54:15.8070 INFO Get Form84 List Success
+2021-05-27 11:54:15.9880 INFO Get User Success :sonasati_dis
+2021-05-27 11:55:05.7448 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:55:06.5478 INFO Get VAT Master List Success
+2021-05-27 11:55:06.7738 INFO Get User Success :sonasati_dis
+2021-05-27 11:55:32.7682 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:55:33.1512 INFO Get Form84 List Success
+2021-05-27 11:55:33.3171 INFO Get User Success :sonasati_dis
+2021-05-27 11:55:42.4335 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:55:42.6325 INFO Get Form84 List Success
+2021-05-27 11:55:42.8345 INFO Get User Success :sonasati_dis
+2021-05-27 11:56:04.1102 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:56:04.8471 INFO Get User Success :sonasati_dis
+2021-05-27 11:56:12.5726 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:56:13.0856 INFO Get Form84 List Success
+2021-05-27 11:56:13.2886 INFO Get User Success :sonasati_dis
+2021-05-27 11:56:16.9753 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:56:17.1983 INFO Get Form84 List Success
+2021-05-27 11:56:17.4963 INFO Get User Success :sonasati_dis
+2021-05-27 11:56:25.0298 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:56:25.1428 INFO Get VAT Master List Success
+2021-05-27 11:56:25.4098 INFO Get User Success :sonasati_dis
+2021-05-27 11:57:24.3310 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:57:25.1770 INFO Get VAT Master List Success
+2021-05-27 11:57:25.4050 INFO Get User Success :sonasati_dis
+2021-05-27 11:57:29.0917 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:57:29.4887 INFO Get Form84 List Success
+2021-05-27 11:57:29.6617 INFO Get User Success :sonasati_dis
+2021-05-27 11:57:34.3104 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:57:34.5144 INFO Get Form84 List Success
+2021-05-27 11:57:34.6874 INFO Get User Success :sonasati_dis
+2021-05-27 11:58:18.2337 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:58:19.0066 INFO Get User Success :sonasati_dis
+2021-05-27 11:58:22.3763 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:58:22.4623 INFO Get VAT Master List Success
+2021-05-27 11:58:22.7003 INFO Get User Success :sonasati_dis
+2021-05-27 11:59:02.1239 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:59:02.6708 INFO Get Form84 List Success
+2021-05-27 11:59:02.8948 INFO Get User Success :sonasati_dis
+2021-05-27 11:59:07.7145 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:59:07.9715 INFO Get Form84 List Success
+2021-05-27 11:59:08.1994 INFO Get User Success :sonasati_dis
+2021-05-27 11:59:11.8372 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 11:59:12.0682 INFO Get VAT Master List Success
+2021-05-27 11:59:12.4072 INFO Get User Success :sonasati_dis
+2021-05-27 12:24:01.5319 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-27 12:24:06.3666 INFO Get Report  Success
+2021-05-27 12:24:10.9324 INFO Get Party Master List Success
+2021-05-27 12:24:11.1263 INFO Get User Success :sonasati_dis
+2021-05-27 12:24:18.2005 INFO Get VAT Master List Success
+2021-05-27 12:25:19.6321 INFO Get GetSeverList Success

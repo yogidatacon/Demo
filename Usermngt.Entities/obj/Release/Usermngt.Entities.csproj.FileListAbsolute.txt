@@ -1,0 +1,12 @@
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.Entities\bin\Release\Usermngt.Entities.dll
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.Entities\bin\Release\Usermngt.Entities.pdb
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.Entities\obj\Release\Usermngt.Entities.dll
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.Entities\obj\Release\Usermngt.Entities.pdb
+D:\BHIHAR\UserMgmt\Usermngt.Entities\bin\Release\Usermngt.Entities.dll
+D:\BHIHAR\UserMgmt\Usermngt.Entities\bin\Release\Usermngt.Entities.pdb
+D:\BHIHAR\UserMgmt\Usermngt.Entities\obj\Release\Usermngt.Entities.dll
+D:\BHIHAR\UserMgmt\Usermngt.Entities\obj\Release\Usermngt.Entities.pdb
+D:\IEMS\UserMgmt\Usermngt.Entities\bin\Release\Usermngt.Entities.dll
+D:\IEMS\UserMgmt\Usermngt.Entities\bin\Release\Usermngt.Entities.pdb
+D:\IEMS\UserMgmt\Usermngt.Entities\obj\Release\Usermngt.Entities.dll
+D:\IEMS\UserMgmt\Usermngt.Entities\obj\Release\Usermngt.Entities.pdb

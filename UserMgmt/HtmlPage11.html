@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    
+    <script type="text/javascript" src="//code.jquery.com/jquery.min.js"></script>
+    <script type="text/javascript">
+        window.onload = function CallPKI() {
+            debugger;;
+            var reqxml = GetRequestData();
+            reqxml = encodeURIComponent(reqxml);
+            const Http = new XMLHttpRequest();
+            const url = 'http://127.0.0.1:1620';
+            Http.open("POST", url);
+
+            Http.send(escape(reqxml));
+
+            Http.onreadystatechange = (e) => {
+
+                var xml = Http.responseText;
+                document.getElementById("txtResponsetxt").innerHTML = Http.responseText;
+
+                console.log(Http.responseText)
+                var i = 1;
+
+                if (xml != "" ) {
+                    i++;
+                    parser = new DOMParser();
+                    xmlDoc = parser.parseFromString(xml, "text/xml");
+                    var x = xmlDoc.getElementsByTagName("data")[0].childNodes[0].nodeValue;
+                    var status = xmlDoc.getElementsByTagName("status")[0].childNodes[0].nodeValue;
+                    if (status == "ok") {
+                        alert("Record Approved");
+                        window.close();
+
+                       
+
+                        let pdfWindow = window.open("HtmlPage11.html");
+                            pdfWindow.document.write(
+                                "<iframe width='100%' height='100%' src='data:application/pdf;base64, " +
+                                encodeURI(x) + "'></iframe>"
+                            )
+
+                        
+
+                    }
+                }
+
+
+            }
+        };
+    </script>
+       
+   
+    <script>
+
+
+
+        function GetRequestData() {
+            debugger;;
+            data = localStorage.getItem("storageName");
+            command = "pkiNetworkSign";
+            type = "pdf";
+            var rq = "<request>";
+            rq += "<command>" + command + "</command>";
+            rq += "<ts>"+localStorage.getItem("dtime")+"</ts>";
+            rq += "<txn>1522</txn>";
+            rq += "<certificate>";
+            rq += " <attribute name='CN'></attribute>";
+            rq += " <attribute name='O'></attribute>";
+            rq += " <attribute name='OU'></attribute>";
+            rq += " <attribute name='T'></attribute>";
+            rq += " <attribute name='E'></attribute>";
+            rq += " <attribute name='SN'>03053c41</attribute>";
+            rq += " <attribute name='CA'>Capricorn CA 2014</attribute>";
+            rq += " <attribute name='TC'>SG</attribute>";
+            rq += " <attribute name='AP'>1</attribute>";
+            rq += "</certificate>";
+            rq += "<file>";
+            rq += "<attribute name='type'>" + type + "</attribute>";
+            rq += "</file>";
+            rq += "<pdf>";
+            rq += " <page>1</page>";
+            rq += " <cood>" + localStorage.getItem("xy") + "</cood>";
+            rq += " <size>" + localStorage.getItem("HW") + "</size>";
+            rq += "</pdf>";
+            rq += "<data>" + data + "</data>";
+            rq += "</request>";
+
+            return rq;
+
+        }
+
+
+
+        function CallPKI() {
+
+            debugger;;
+            var reqxml = GetRequestData();
+            reqxml = encodeURIComponent(reqxml);
+            const Http = new XMLHttpRequest();
+            const url = 'http://127.0.0.1:1620';
+            Http.open("POST", url);
+            Http.send(escape(reqxml));
+            var i = 1;
+            Http.onreadystatechange = (e) => {
+            var xml = Http.responseText;
+          
+                if (xml != "") {
+                    i++;
+                    parser = new DOMParser();
+                    xmlDoc = parser.parseFromString(xml, "text/xml");
+                    var status = xmlDoc.getElementsByTagName("status")[0].childNodes[0].nodeValue;
+                    var x = xmlDoc.getElementsByTagName("data")[0].childNodes[0].nodeValue;
+                   //Http.responseText.getElementsByTagName("status");
+                    //document.getElementById("txtResponse").value = xmlDoc.getElementsByTagName("data")[0].childNodes[0].nodeValue;
+                  
+                    if (status == "ok" )
+                    {
+                       
+                        //alert("Approved");
+                        
+                        //location.href = "https://www.google.com/";
+                        //var objbuilder = '';
+                        //objbuilder += ('<embed width=\'100%\' height=\'100%\'  src="data:application/pdf;base64,');
+                        //objbuilder += (x);
+                        //objbuilder += ('" type="application/pdf" />');
+                        //window.document.write(objbuilder);
+
+
+                                        let pdfWindow = window.open("")
+                                        pdfWindow.document.write(
+                                            "<iframe width='100%' height='100%' src='data:application/pdf;base64, " +
+                                            encodeURI(x) + "'></iframe>"
+                                        )
+                        
+                    }
+                    else if (status == "failed")
+                    {
+                        alert("UserDetails not Matched");
+                        window.close();
+                    }
+                   
+                }
+
+
+            }
+        }
+
+    </script>
+</head>
+<body onload="CallPKI()" >
+    <!--<button id="btnsumbit" onclick="CallPKI();">Submit</button>
+    <div>
+        <input type="hidden" id="hdnSession" />
+        <textarea id="txtResponsetxt"></textarea>
+
+    </div>-->
+</body>
+</html>

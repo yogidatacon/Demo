@@ -1,0 +1,514 @@
+2021-03-18 10:30:00.3984 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:30:00.5125 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:30:00.6378 INFO Get User Success :harinagar_dis
+2021-03-18 10:30:09.8043 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:30:09.8710 INFO Get User Success :harinagar_dis
+2021-03-18 10:30:24.6944 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:30:24.7437 INFO Get Pass List Success
+2021-03-18 10:30:24.7596 INFO Get User Success :harinagar_dis
+2021-03-18 10:30:35.6435 INFO Get Pass List Success
+2021-03-18 10:30:40.7170 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:30:40.7357 INFO Get User Success :harinagar_dis
+2021-03-18 10:30:55.5019 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-18 10:30:55.5268 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-18 10:30:55.5512 INFO Get User Success :newswadeshi_dis
+2021-03-18 10:31:00.8824 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-18 10:31:00.9025 INFO Get User Success :newswadeshi_dis
+2021-03-18 10:31:08.2557 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-18 10:31:08.2986 INFO Get Pass List Success
+2021-03-18 10:31:08.3057 INFO Get User Success :newswadeshi_dis
+2021-03-18 10:31:36.8517 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-18 10:31:36.8762 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-18 10:31:36.8883 INFO Get User Success :hpcl_ec
+2021-03-18 10:31:42.9050 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-18 10:31:42.9260 INFO Get User Success :hpcl_ec
+2021-03-18 10:31:48.5660 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-18 10:31:48.5927 INFO Get RR List Success
+2021-03-18 10:31:50.3286 INFO Get RR List Success
+2021-03-18 10:31:50.3286 INFO Get Balance Request Pass Success
+2021-03-18 10:31:50.3385 INFO Get User Success :hpcl_ec
+2021-03-18 10:31:54.4918 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-18 10:31:54.5353 INFO Get Pass List Success
+2021-03-18 10:31:54.5353 INFO Get User Success :hpcl_ec
+2021-03-18 10:31:58.1037 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-18 10:31:58.1224 INFO Get User Success :hpcl_ec
+2021-03-18 10:32:11.0252 INFO Get User Success :130-HPCL Biofuels Limited, EC
+2021-03-18 10:32:11.0501 INFO Get User Success :130-HPCL Biofuels Limited, EC
+2021-03-18 10:32:11.0501 INFO Get User Success :hpcl_ec_disbo
+2021-03-18 10:32:17.0807 INFO Get User Success :130-HPCL Biofuels Limited, EC
+2021-03-18 10:32:17.1095 INFO Get User Success :130-HPCL Biofuels Limited, EC
+2021-03-18 10:32:17.1554 INFO Get Pass List Success
+2021-03-18 10:32:17.1621 INFO Get User Success :hpcl_ec_disbo
+2021-03-18 10:32:22.2184 INFO Get Pass List Success
+2021-03-18 10:33:02.9581 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:02.9840 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:03.0618 INFO Get User Success :harinagar_dis
+2021-03-18 10:33:08.3212 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:08.3393 INFO Get User Success :harinagar_dis
+2021-03-18 10:33:12.2103 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:12.2532 INFO Get Pass List Success
+2021-03-18 10:33:12.2532 INFO Get User Success :harinagar_dis
+2021-03-18 10:33:16.2322 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:16.2322 INFO Get Dispach Master List Success
+2021-03-18 10:33:16.2490 INFO Get VAT Master List Success
+2021-03-18 10:33:16.2590 INFO Get Pass List Success
+2021-03-18 10:33:16.2816 INFO Get User Success :harinagar_dis
+2021-03-18 10:33:29.6836 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:29.7265 INFO Get Pass List Success
+2021-03-18 10:33:29.7265 INFO Get User Success :harinagar_dis
+2021-03-18 10:33:34.6779 INFO Get Pass List Success
+2021-03-18 10:33:39.3080 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 10:33:39.3080 INFO Get Dispach Master List Success
+2021-03-18 10:33:39.3194 INFO Get VAT Master List Success
+2021-03-18 10:33:39.3194 INFO Get Pass List Success
+2021-03-18 10:33:39.3350 INFO Get User Success :harinagar_dis
+2021-03-18 10:34:04.8531 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:34:04.8810 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:34:04.8960 INFO Get User Success :bdbl_dis
+2021-03-18 10:34:12.7321 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:34:15.7267 INFO Get User Success :bdbl_dis
+2021-03-18 10:36:31.0425 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:36:31.0425 INFO Get Dispach Master List Success
+2021-03-18 10:36:31.1558 INFO Get VAT Master List Success
+2021-03-18 10:36:33.5843 INFO Get User Success :bdbl_dis
+2021-03-18 10:37:17.6847 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:37:17.6923 INFO Get User Success :bdbl_dis
+2021-03-18 10:37:21.6344 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:37:25.1405 INFO Get User Success :bdbl_dis
+2021-03-18 10:37:39.4894 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:37:39.4894 INFO Get Dispach Master List Success
+2021-03-18 10:37:44.2221 INFO Get VAT Master List Success
+2021-03-18 10:42:06.0086 INFO Get VAT Master List Success
+2021-03-18 10:49:31.7202 INFO Get User Success :bdbl_dis
+2021-03-18 10:49:33.2879 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:49:34.3029 INFO Get RR List Success
+2021-03-18 10:49:34.3204 INFO Get User Success :bdbl_dis
+2021-03-18 10:49:44.1330 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:49:44.1330 INFO Get Product Master List Success
+2021-03-18 10:49:44.1330 INFO Get State List Success
+2021-03-18 10:49:44.1330 INFO Get NOC Sucess:69
+2021-03-18 10:49:44.1458 INFO Get NOC Sucess:Req//1
+2021-03-18 10:49:45.3440 INFO Get NOC Details Success
+2021-03-18 10:49:45.3470 INFO Get Customer Details Success
+2021-03-18 10:49:45.3721 INFO Get User Success :bdbl_dis
+2021-03-18 10:50:01.9653 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:50:02.2575 INFO Get RR List Success
+2021-03-18 10:50:02.2575 INFO Get User Success :bdbl_dis
+2021-03-18 10:50:05.3880 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:50:05.3880 INFO Get Product Master List Success
+2021-03-18 10:50:05.3880 INFO Get State List Success
+2021-03-18 10:50:05.3940 INFO Get NOC Sucess:69
+2021-03-18 10:50:05.3940 INFO Get NOC Sucess:Req//1
+2021-03-18 10:50:06.8821 INFO Get NOC Details Success
+2021-03-18 10:50:06.8821 INFO Get Customer Details Success
+2021-03-18 10:50:06.8821 INFO Check WorkFlow List Success
+2021-03-18 10:50:06.9000 INFO Get User Success :bdbl_dis
+2021-03-18 10:50:29.5311 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:50:33.4628 INFO Get User Success :bdbl_dis
+2021-03-18 10:51:09.6076 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:51:09.6076 INFO Get Dispach Master List Success
+2021-03-18 10:58:09.3723 INFO Get VAT Master List Success
+2021-03-18 10:58:09.6138 INFO Get User Success :bdbl_dis
+2021-03-18 10:58:11.3073 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:58:13.4855 INFO Get RR List Success
+2021-03-18 10:58:13.4935 INFO Get User Success :bdbl_dis
+2021-03-18 10:58:20.5565 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 10:58:20.5565 INFO Get Product Master List Success
+2021-03-18 10:58:20.5565 INFO Get State List Success
+2021-03-18 10:58:20.5565 INFO Get NOC Sucess:69
+2021-03-18 10:58:20.5664 INFO Get NOC Sucess:Req//1
+2021-03-18 10:58:20.5664 INFO Get User Success :bdbl_dis
+2021-03-18 11:11:34.3749 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 11:11:52.5953 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 11:11:52.7003 INFO Get User Success :bdbl_dis
+2021-03-18 11:12:03.2809 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 11:12:03.6200 INFO Get RR List Success
+2021-03-18 11:12:03.6633 INFO Get User Success :bdbl_dis
+2021-03-18 11:12:10.7931 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 11:12:10.7931 INFO Get Product Master List Success
+2021-03-18 11:12:10.8014 INFO Get State List Success
+2021-03-18 11:12:10.8014 INFO Get NOC Sucess:69
+2021-03-18 11:12:10.8014 INFO Get NOC Sucess:Req//1
+2021-03-18 11:12:12.2698 INFO Get NOC Details Success
+2021-03-18 11:12:12.2698 INFO Get Customer Details Success
+2021-03-18 11:12:12.3027 INFO Get User Success :bdbl_dis
+2021-03-18 11:12:44.5041 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 11:12:45.0770 INFO Get RR List Success
+2021-03-18 11:12:45.0840 INFO Get User Success :bdbl_dis
+2021-03-18 11:12:50.9676 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 11:12:50.9676 INFO Get Product Master List Success
+2021-03-18 11:12:50.9725 INFO Get State List Success
+2021-03-18 11:12:50.9725 INFO Get NOC Sucess:69
+2021-03-18 11:12:50.9725 INFO Get NOC Sucess:Req//1
+2021-03-18 11:12:54.2023 INFO Get NOC Details Success
+2021-03-18 11:12:54.2063 INFO Get Customer Details Success
+2021-03-18 11:12:54.2063 INFO Get User Success :bdbl_dis
+2021-03-18 12:08:30.1922 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:08:34.7880 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:08:34.9793 INFO Get User Success :harinagar_dis
+2021-03-18 12:08:49.5429 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:08:51.4374 INFO Get User Success :harinagar_dis
+2021-03-18 12:08:54.3164 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:08:54.3164 INFO Get VAT Master List Success
+2021-03-18 12:08:54.3398 INFO Get User Success :harinagar_dis
+2021-03-18 12:08:59.4330 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:08:59.4476 INFO Get Form84 List Success
+2021-03-18 12:08:59.4606 INFO Get User Success :harinagar_dis
+2021-03-18 12:09:09.3242 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:09:09.3242 INFO Get VAT Master List Success
+2021-03-18 12:09:09.3370 INFO Get User Success :harinagar_dis
+2021-03-18 12:09:18.3855 INFO Get VAT Master List Success
+2021-03-18 12:09:20.9147 INFO Get VAT Master List Success
+2021-03-18 12:10:10.1397 INFO Get VAT Master List Success
+2021-03-18 12:11:15.4379 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:11:15.4459 INFO Get Form84 List Success
+2021-03-18 12:11:15.4459 INFO Get User Success :harinagar_dis
+2021-03-18 12:11:24.6982 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:11:24.6982 INFO Get VAT Master List Success
+2021-03-18 12:11:24.6982 INFO Get VAT Master List Success
+2021-03-18 12:11:26.5628 INFO Get VAT Master List Success
+2021-03-18 12:11:26.5698 INFO Get VAT Master List Success
+2021-03-18 12:11:26.5698 INFO Get User Success :harinagar_dis
+2021-03-18 12:12:06.5259 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 12:12:06.5259 INFO Get Form84 List Success
+2021-03-18 12:12:06.5387 INFO Get User Success :harinagar_dis
+2021-03-18 14:12:46.8963 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:13:03.9966 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:13:04.0911 INFO Get User Success :bdbl_dis
+2021-03-18 14:15:05.8478 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:15:06.1704 INFO Get RR List Success
+2021-03-18 14:15:06.2163 INFO Get User Success :bdbl_dis
+2021-03-18 14:15:10.0566 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:15:10.0566 INFO Get Product Master List Success
+2021-03-18 14:15:10.0658 INFO Get State List Success
+2021-03-18 14:15:10.0658 INFO Get NOC Sucess:69
+2021-03-18 14:15:10.0658 INFO Get NOC Sucess:Req//1
+2021-03-18 14:15:12.1341 INFO Get NOC Details Success
+2021-03-18 14:15:12.1341 INFO Get Customer Details Success
+2021-03-18 14:15:12.1660 INFO Get User Success :bdbl_dis
+2021-03-18 14:15:17.2189 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:15:17.7906 INFO Get RR List Success
+2021-03-18 14:15:17.7906 INFO Get User Success :bdbl_dis
+2021-03-18 14:15:25.8681 INFO Get User Success :99-Assistant Commissioner
+2021-03-18 14:15:25.8999 INFO Get User Success :99-Assistant Commissioner
+2021-03-18 14:15:25.8999 INFO Get User Success :wcedo
+2021-03-18 14:15:32.3387 INFO Get User Success :99-Assistant Commissioner
+2021-03-18 14:15:32.6604 INFO Get User Success :99-Assistant Commissioner
+2021-03-18 14:15:33.5624 INFO Check WorkFlow List Success
+2021-03-18 14:15:33.6319 INFO Get RR List Success
+2021-03-18 14:15:34.2148 INFO Get User Success :wcedo
+2021-03-18 14:15:46.7706 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:15:46.7955 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:15:46.8005 INFO Get User Success :bhedo
+2021-03-18 14:15:52.9257 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:15:53.2328 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:15:53.4820 INFO Check WorkFlow List Success
+2021-03-18 14:15:53.5545 INFO Get RR List Success
+2021-03-18 14:15:53.9066 INFO Get User Success :bhedo
+2021-03-18 14:15:57.1019 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:15:57.1019 INFO Get Product Master List Success
+2021-03-18 14:15:57.1248 INFO Get State List Success
+2021-03-18 14:15:57.1248 INFO Get NOC Sucess:69
+2021-03-18 14:15:57.1248 INFO Get NOC Sucess:Req//1
+2021-03-18 14:15:57.1294 INFO Get State List Success
+2021-03-18 14:15:58.1904 INFO Get NOC Details Success
+2021-03-18 14:15:58.1924 INFO Get Customer Details Success
+2021-03-18 14:15:58.2160 INFO Check WorkFlow List Success
+2021-03-18 14:15:58.2247 INFO Get User Success :bhedo
+2021-03-18 14:16:06.7559 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:16:06.9943 INFO NOC Approve Sucess:67
+2021-03-18 14:16:07.2077 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:16:07.7195 INFO Get User Success :341-Assistant Commissioner
+2021-03-18 14:16:08.3202 INFO Check WorkFlow List Success
+2021-03-18 14:16:08.3851 INFO Get RR List Success
+2021-03-18 14:16:08.9575 INFO Get User Success :bhedo
+2021-03-18 14:16:17.7303 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:17.7552 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:18.2498 INFO Get User Success :hodyco
+2021-03-18 14:16:25.1706 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:25.4316 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:25.6422 INFO Check WorkFlow List Success
+2021-03-18 14:16:25.7190 INFO Get RR List Success
+2021-03-18 14:16:25.7241 INFO Get User Success :hodyco
+2021-03-18 14:16:33.3866 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:33.3866 INFO Get Product Master List Success
+2021-03-18 14:16:33.4085 INFO Get State List Success
+2021-03-18 14:16:33.4095 INFO Get NOC Sucess:69
+2021-03-18 14:16:33.4095 INFO Get NOC Sucess:Req//1
+2021-03-18 14:16:33.4095 INFO Get State List Success
+2021-03-18 14:16:34.9905 INFO Get NOC Details Success
+2021-03-18 14:16:34.9905 INFO Get Customer Details Success
+2021-03-18 14:16:35.0086 INFO Check WorkFlow List Success
+2021-03-18 14:16:35.0086 INFO Get User Success :hodyco
+2021-03-18 14:16:52.0195 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:52.3124 INFO NOC Approve Sucess:67
+2021-03-18 14:16:52.5374 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:52.7816 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:16:53.0323 INFO Check WorkFlow List Success
+2021-03-18 14:16:53.1071 INFO Get RR List Success
+2021-03-18 14:16:53.1125 INFO Get User Success :hodyco
+2021-03-18 14:17:01.9984 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:02.0233 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:02.5157 INFO Get User Success :com
+2021-03-18 14:17:08.1394 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:08.4109 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:08.6214 INFO Check WorkFlow List Success
+2021-03-18 14:17:08.6883 INFO Get RR List Success
+2021-03-18 14:17:08.7033 INFO Get User Success :com
+2021-03-18 14:17:11.4406 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:11.4425 INFO Get Product Master List Success
+2021-03-18 14:17:11.4620 INFO Get State List Success
+2021-03-18 14:17:11.4620 INFO Get NOC Sucess:69
+2021-03-18 14:17:11.4620 INFO Get NOC Sucess:Req//1
+2021-03-18 14:17:11.4620 INFO Get State List Success
+2021-03-18 14:17:12.8310 INFO Get NOC Details Success
+2021-03-18 14:17:12.8330 INFO Get Customer Details Success
+2021-03-18 14:17:12.8513 INFO Check WorkFlow List Success
+2021-03-18 14:17:12.8513 INFO Get User Success :com
+2021-03-18 14:17:19.9463 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:20.2100 INFO NOC Approve Sucess:67
+2021-03-18 14:17:20.4280 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:20.6488 INFO Get User Success :101-Commissioner
+2021-03-18 14:17:20.8706 INFO Check WorkFlow List Success
+2021-03-18 14:17:20.9344 INFO Get RR List Success
+2021-03-18 14:17:20.9344 INFO Get User Success :com
+2021-03-18 14:17:30.0499 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:17:30.1321 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:17:30.1453 INFO Get User Success :bdbl_dis
+2021-03-18 14:17:36.4697 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:17:38.4191 INFO Get User Success :bdbl_dis
+2021-03-18 14:17:42.3614 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:17:43.6589 INFO Get RR List Success
+2021-03-18 14:17:44.0608 INFO Get User Success :bdbl_dis
+2021-03-18 14:17:47.5661 INFO Get NOC Details Success
+2021-03-18 14:17:52.4305 INFO Get NOC Details Success
+2021-03-18 14:17:52.4305 INFO Get Balance Request Pass Success
+2021-03-18 14:18:22.0547 INFO Insert Request Pass Success
+2021-03-18 14:18:22.0765 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:18:23.0613 INFO Get User Success :bdbl_dis
+2021-03-18 14:18:36.7637 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:18:36.7877 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:18:36.8023 INFO Get User Success :bdbl_disbo
+2021-03-18 14:18:42.4877 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:18:44.0108 INFO Get User Success :bdbl_disbo
+2021-03-18 14:18:47.3640 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:18:49.0379 INFO Get RR List Success
+2021-03-18 14:18:50.3133 INFO Get NOC Details Success
+2021-03-18 14:18:51.3955 INFO Get NOC Details Success
+2021-03-18 14:18:51.3955 INFO Get Balance Request Pass Success
+2021-03-18 14:18:52.0435 INFO Get User Success :bdbl_disbo
+2021-03-18 14:18:59.3601 INFO Approve Request Pass Success
+2021-03-18 14:18:59.3826 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:19:00.4155 INFO Get User Success :bdbl_disbo
+2021-03-18 14:19:18.3716 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:19:18.3976 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:19:18.8814 INFO Get User Success :hodyco
+2021-03-18 14:19:25.2292 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:19:26.5003 INFO Get User Success :hodyco
+2021-03-18 14:19:29.0626 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:19:32.9013 INFO Get RR List Success
+2021-03-18 14:19:34.2420 INFO Get NOC Details Success
+2021-03-18 14:19:34.6893 INFO Get NOC Details Success
+2021-03-18 14:19:34.6913 INFO Get Balance Request Pass Success
+2021-03-18 14:19:34.9065 INFO Get User Success :hodyco
+2021-03-18 14:19:41.8933 INFO Approve Request Pass Success
+2021-03-18 14:19:41.9132 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:19:42.2766 INFO Get User Success :hodyco
+2021-03-18 14:19:47.9625 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:19:47.9876 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:19:47.9876 INFO Get User Success :bdbl_disbo
+2021-03-18 14:20:26.8137 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:20:28.4250 INFO Get User Success :bdbl_disbo
+2021-03-18 14:20:31.0172 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:20:32.6736 INFO Get RR List Success
+2021-03-18 14:20:33.2834 INFO Get NOC Details Success
+2021-03-18 14:20:33.7003 INFO Get NOC Details Success
+2021-03-18 14:20:33.7003 INFO Get Balance Request Pass Success
+2021-03-18 14:20:33.9074 INFO Get User Success :bdbl_disbo
+2021-03-18 14:20:41.3601 INFO Approve Request Pass Success
+2021-03-18 14:20:41.3840 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:20:42.0104 INFO Get User Success :bdbl_disbo
+2021-03-18 14:20:50.4685 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:20:50.4955 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:20:50.5075 INFO Get User Success :bdbl_dis
+2021-03-18 14:21:18.5493 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:21:21.1030 INFO Get User Success :bdbl_dis
+2021-03-18 14:21:31.0181 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:21:31.0201 INFO Get Dispach Master List Success
+2021-03-18 14:21:31.6605 INFO Get VAT Master List Success
+2021-03-18 14:21:32.1590 INFO Get User Success :bdbl_dis
+2021-03-18 14:21:48.3747 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:21:48.3835 INFO Get User Success :bdbl_dis
+2021-03-18 14:21:52.4948 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:21:55.2360 INFO Get User Success :bdbl_dis
+2021-03-18 14:22:03.1078 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:22:03.1198 INFO Get Dispach Master List Success
+2021-03-18 14:22:08.9292 INFO Get VAT Master List Success
+2021-03-18 14:45:47.5993 INFO Get VAT Master List Success
+2021-03-18 14:45:47.8100 INFO Get User Success :bdbl_dis
+2021-03-18 14:45:48.4550 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:45:48.7234 INFO Get RR List Success
+2021-03-18 14:45:48.7234 INFO Get User Success :bdbl_dis
+2021-03-18 14:45:53.9128 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:45:54.2521 INFO Get RR List Success
+2021-03-18 14:45:54.2585 INFO Get User Success :bdbl_dis
+2021-03-18 14:46:01.9250 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:46:01.9250 INFO Get Product Master List Success
+2021-03-18 14:46:01.9250 INFO Get State List Success
+2021-03-18 14:46:01.9250 INFO Get NOC Sucess:69
+2021-03-18 14:46:01.9250 INFO Get NOC Sucess:Req//1
+2021-03-18 14:46:01.9450 INFO Get User Success :bdbl_dis
+2021-03-18 14:46:47.9394 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:46:48.2701 INFO Get RR List Success
+2021-03-18 14:46:48.2701 INFO Get User Success :bdbl_dis
+2021-03-18 14:46:51.8097 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:46:51.8097 INFO Get Product Master List Success
+2021-03-18 14:46:51.8097 INFO Get State List Success
+2021-03-18 14:46:51.8162 INFO Get NOC Sucess:69
+2021-03-18 14:46:51.8162 INFO Get NOC Sucess:Req//1
+2021-03-18 14:46:53.5130 INFO Get User Success :bdbl_dis
+2021-03-18 14:47:10.7519 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:47:11.6265 INFO Get RR List Success
+2021-03-18 14:47:11.6332 INFO Get User Success :bdbl_dis
+2021-03-18 14:47:16.6185 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:47:16.6185 INFO Get Product Master List Success
+2021-03-18 14:47:16.6185 INFO Get State List Success
+2021-03-18 14:47:16.6185 INFO Get NOC Sucess:69
+2021-03-18 14:47:16.6185 INFO Get NOC Sucess:Req//1
+2021-03-18 14:47:17.7101 INFO Get User Success :bdbl_dis
+2021-03-18 14:47:23.9848 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:47:25.1676 INFO Get RR List Success
+2021-03-18 14:47:25.1676 INFO Get User Success :bdbl_dis
+2021-03-18 14:47:32.5614 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:47:32.5614 INFO Get Product Master List Success
+2021-03-18 14:47:32.5614 INFO Get State List Success
+2021-03-18 14:47:32.5664 INFO Get NOC Sucess:69
+2021-03-18 14:47:32.5664 INFO Get NOC Sucess:Req//1
+2021-03-18 14:47:54.4997 INFO Get User Success :bdbl_dis
+2021-03-18 14:47:59.1284 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:47:59.4952 INFO Get RR List Success
+2021-03-18 14:47:59.5034 INFO Get User Success :bdbl_dis
+2021-03-18 14:48:10.1992 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:48:10.1992 INFO Get Product Master List Success
+2021-03-18 14:48:10.1992 INFO Get State List Success
+2021-03-18 14:48:10.1992 INFO Get NOC Sucess:69
+2021-03-18 14:48:10.2091 INFO Get NOC Sucess:Req//1
+2021-03-18 14:48:12.0727 INFO Get NOC Details Success
+2021-03-18 14:48:12.0727 INFO Get Customer Details Success
+2021-03-18 14:48:12.0727 INFO Check WorkFlow List Success
+2021-03-18 14:48:12.0837 INFO Get User Success :bdbl_dis
+2021-03-18 14:48:23.0089 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:23.0338 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:23.5352 INFO Get User Success :hodyco
+2021-03-18 14:48:29.0633 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:29.3622 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:29.5208 INFO Check WorkFlow List Success
+2021-03-18 14:48:29.6476 INFO Get RR List Success
+2021-03-18 14:48:29.6476 INFO Get User Success :hodyco
+2021-03-18 14:48:34.3393 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:34.3393 INFO Check WorkFlow List Success
+2021-03-18 14:48:34.4085 INFO Get RR List Success
+2021-03-18 14:48:34.4228 INFO Get User Success :hodyco
+2021-03-18 14:48:36.3695 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:36.3695 INFO Check WorkFlow List Success
+2021-03-18 14:48:36.4401 INFO Get RR List Success
+2021-03-18 14:48:36.4545 INFO Get User Success :hodyco
+2021-03-18 14:48:37.1331 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:48:37.1331 INFO Check WorkFlow List Success
+2021-03-18 14:48:37.2010 INFO Get RR List Success
+2021-03-18 14:48:37.2010 INFO Get User Success :hodyco
+2021-03-18 14:48:40.4594 INFO Check WorkFlow List Success
+2021-03-18 14:48:40.4746 INFO NOC Approve Sucess:67
+2021-03-18 14:48:40.5423 INFO Get RR List Success
+2021-03-18 14:48:40.5423 INFO Get Report  Success
+2021-03-18 14:48:40.6833 INFO Get GetSeverList Success
+2021-03-18 14:49:30.6457 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:49:30.6687 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:49:30.6817 INFO Get User Success :bdbl_dis
+2021-03-18 14:49:35.6268 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:49:37.7618 INFO Get User Success :bdbl_dis
+2021-03-18 14:49:45.9999 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:49:47.6032 INFO Get RR List Success
+2021-03-18 14:49:50.5458 INFO Get User Success :bdbl_dis
+2021-03-18 14:49:54.5553 INFO Get NOC Details Success
+2021-03-18 14:49:59.5210 INFO Get NOC Details Success
+2021-03-18 14:49:59.5210 INFO Get Balance Request Pass Success
+2021-03-18 14:50:07.2827 INFO Insert Request Pass Success
+2021-03-18 14:50:07.3046 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:50:08.5400 INFO Get User Success :bdbl_dis
+2021-03-18 14:50:17.6460 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:50:17.6689 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:50:17.6789 INFO Get User Success :bdbl_disbo
+2021-03-18 14:50:21.9664 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:50:23.4174 INFO Get User Success :bdbl_disbo
+2021-03-18 14:50:25.8469 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:50:27.6979 INFO Get RR List Success
+2021-03-18 14:50:28.2885 INFO Get NOC Details Success
+2021-03-18 14:50:28.6955 INFO Get NOC Details Success
+2021-03-18 14:50:28.6955 INFO Get Balance Request Pass Success
+2021-03-18 14:50:28.8972 INFO Get User Success :bdbl_disbo
+2021-03-18 14:50:35.3966 INFO Approve Request Pass Success
+2021-03-18 14:50:35.4188 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:50:35.9704 INFO Get User Success :bdbl_disbo
+2021-03-18 14:50:44.1531 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:50:44.1810 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:50:44.6722 INFO Get User Success :hodyco
+2021-03-18 14:50:47.9179 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:50:49.1867 INFO Get User Success :hodyco
+2021-03-18 14:50:53.6074 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:50:55.5981 INFO Get RR List Success
+2021-03-18 14:50:57.0176 INFO Get NOC Details Success
+2021-03-18 14:50:57.8484 INFO Get NOC Details Success
+2021-03-18 14:50:57.8484 INFO Get Balance Request Pass Success
+2021-03-18 14:50:58.4892 INFO Get User Success :hodyco
+2021-03-18 14:51:11.3458 INFO Approve Request Pass Success
+2021-03-18 14:51:11.3675 INFO Get User Success :100-Deputy Commissioner
+2021-03-18 14:51:11.9864 INFO Get User Success :hodyco
+2021-03-18 14:51:21.6342 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:51:21.6601 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:51:21.6601 INFO Get User Success :bdbl_disbo
+2021-03-18 14:51:24.2109 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:51:25.8064 INFO Get User Success :bdbl_disbo
+2021-03-18 14:51:29.4891 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:51:31.0540 INFO Get RR List Success
+2021-03-18 14:51:31.6461 INFO Get NOC Details Success
+2021-03-18 14:51:32.0770 INFO Get NOC Details Success
+2021-03-18 14:51:32.0770 INFO Get Balance Request Pass Success
+2021-03-18 14:51:32.2900 INFO Get User Success :bdbl_disbo
+2021-03-18 14:51:40.3100 INFO Approve Request Pass Success
+2021-03-18 14:51:40.3317 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-03-18 14:51:40.9368 INFO Get User Success :bdbl_disbo
+2021-03-18 14:51:50.4500 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:51:50.4829 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:51:50.4938 INFO Get User Success :bdbl_dis
+2021-03-18 14:51:53.1377 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:51:55.1697 INFO Get User Success :bdbl_dis
+2021-03-18 14:52:03.1912 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-18 14:52:03.1912 INFO Get Dispach Master List Success
+2021-03-18 14:52:03.4134 INFO Get VAT Master List Success
+2021-03-18 14:52:03.6350 INFO Get User Success :bdbl_dis
+2021-03-18 15:17:42.6201 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:17:42.6521 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:17:42.7438 INFO Get User Success :harinagar_dis
+2021-03-18 15:17:47.7533 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:17:48.1276 INFO Get RR List Success
+2021-03-18 15:17:48.1332 INFO Get User Success :harinagar_dis
+2021-03-18 15:17:56.0980 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:17:56.1340 INFO Get User Success :harinagar_dis
+2021-03-18 15:17:58.2539 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:17:58.3030 INFO Get Pass List Success
+2021-03-18 15:17:58.3205 INFO Get User Success :harinagar_dis
+2021-03-18 15:18:01.8115 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:18:01.8115 INFO Get Dispach Master List Success
+2021-03-18 15:18:01.8247 INFO Get VAT Master List Success
+2021-03-18 15:18:01.8329 INFO Get Pass List Success
+2021-03-18 15:18:01.8475 INFO Get User Success :harinagar_dis
+2021-03-18 15:18:08.1393 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:18:08.1815 INFO Get Pass List Success
+2021-03-18 15:18:08.1815 INFO Get User Success :harinagar_dis
+2021-03-18 15:18:10.8147 INFO Get Pass List Success
+2021-03-18 15:18:12.2525 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-18 15:18:12.2545 INFO Get Dispach Master List Success
+2021-03-18 15:18:12.2545 INFO Get VAT Master List Success
+2021-03-18 15:18:12.2545 INFO Get Pass List Success
+2021-03-18 15:18:12.2816 INFO Get User Success :harinagar_dis

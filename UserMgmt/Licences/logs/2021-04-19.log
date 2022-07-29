@@ -1,0 +1,41 @@
+2021-04-19 15:53:52.7814 INFO Get User Success :44-Administrator
+2021-04-19 15:53:52.9001 INFO Get User Success :44-Administrator
+2021-04-19 15:54:46.9022 INFO Get User Success :44-Administrator
+2021-04-19 15:55:02.7007 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-19 15:55:02.7366 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-19 15:55:02.9470 INFO Get User Success :harinagar_dis
+2021-04-19 15:55:05.6864 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-19 15:55:05.8470 INFO Get User Success :harinagar_dis
+2021-04-19 15:55:27.5511 INFO Get User Success :44-Administrator
+2021-04-19 15:55:27.5840 INFO Get User Success :44-Administrator
+2021-04-19 15:56:00.3566 INFO Get License Fee List Success
+2021-04-19 15:56:02.7524 INFO Get License Fee List Success
+2021-04-19 16:04:59.5073 INFO Get License_Type List Success
+2021-04-19 16:04:59.5296 INFO Get License_Type List Success
+2021-04-19 16:05:37.9366 INFO Get License_Type List Success
+2021-04-19 16:05:37.9366 INFO Get License_Type List Success
+2021-04-19 16:06:26.9387 INFO Get License_Type List Success
+2021-04-19 16:06:26.9387 INFO Get License_Type List Success
+2021-04-19 16:11:26.3702 INFO Get Existing data Fail :lic_fee_master
+2021-04-19 16:12:16.7353 INFO Insert license_type Success :ABC-A
+2021-04-19 16:12:31.8153 INFO Update License Type Fail :ABC-A
+2021-04-19 16:13:27.4415 INFO Insert license_type Fail :ABC-A-23505: duplicate key value violates unique constraint "lic_fee_master_pkey"
+2021-04-19 16:13:27.4415 INFO Update License Type Fail :ABC-A
+2021-04-19 16:13:52.8682 INFO Get License Fee List Success
+2021-04-19 16:13:55.2672 INFO Get License Fee List Success
+2021-04-19 16:13:55.2944 INFO Get License_Type List Success
+2021-04-19 16:13:55.2944 INFO Get License_Type List Success
+2021-04-19 16:14:01.4812 INFO Get License Fee List Success
+2021-04-19 16:14:03.7557 INFO Get License Fee List Success
+2021-04-19 16:14:03.7737 INFO Get License_Type List Success
+2021-04-19 16:14:03.7737 INFO Get License_Type List Success
+2021-04-19 16:14:09.0197 INFO Get Existing data Success :lic_fee_master
+2021-04-19 16:14:22.5287 INFO Get License Fee List Success
+2021-04-19 16:14:26.2403 INFO Get License Fee List Success
+2021-04-19 16:14:26.2648 INFO Get License_Type List Success
+2021-04-19 16:14:26.2648 INFO Get License_Type List Success
+2021-04-19 16:15:17.6077 INFO Update License Type Success :ABC-A
+2021-04-19 16:15:17.6297 INFO Get License Fee List Success
+2021-04-19 16:15:21.3686 INFO Get License Fee List Success
+2021-04-19 16:15:21.3936 INFO Get License_Type List Success
+2021-04-19 16:15:21.3936 INFO Get License_Type List Success

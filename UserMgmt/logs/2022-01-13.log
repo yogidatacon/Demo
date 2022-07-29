@@ -1,0 +1,164 @@
+2022-01-13 11:07:05.0533 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-13 11:07:40.4681 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-13 11:07:40.6628 INFO Get Product Type Master List Success
+2022-01-13 11:07:41.1023 INFO Get User Success :bdbl_dis
+2022-01-13 13:32:01.1115 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:32:04.7312 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:32:06.1512 INFO Get Product Type Master List Success
+2022-01-13 13:32:06.2879 INFO Get User Success :com
+2022-01-13 13:34:29.7265 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:34:30.2294 INFO Get Product Type Master List Success
+2022-01-13 13:34:30.3142 INFO Get User Success :com
+2022-01-13 13:35:02.6526 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:35:03.1716 INFO Get Product Type Master List Success
+2022-01-13 13:35:03.2594 INFO Get User Success :com
+2022-01-13 13:38:20.3919 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:38:30.4215 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:38:31.5043 INFO Get Product Type Master List Success
+2022-01-13 13:38:31.8793 INFO Get User Success :com
+2022-01-13 13:38:40.5318 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:38:46.3869 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:38:47.9258 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:38:48.1836 INFO Get Product Type Master List Success
+2022-01-13 13:38:48.3498 INFO Get User Success :harinagar_dis
+2022-01-13 13:38:53.8762 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:02.4816 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:04.0875 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:04.2719 INFO Get Product Type Master List Success
+2022-01-13 13:39:04.6740 INFO Get User Success :harinagar_sgr
+2022-01-13 13:39:09.7424 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:15.8474 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:17.2303 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:17.4195 INFO Get Product Type Master List Success
+2022-01-13 13:39:17.5471 INFO Get User Success :harinagar_sgrbo
+2022-01-13 13:39:22.6187 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:36.3988 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:37.8308 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:38.0899 INFO Get Product Type Master List Success
+2022-01-13 13:39:38.2677 INFO Get User Success :harinagar_disbo
+2022-01-13 13:39:42.9281 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:48.3973 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:49.7659 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:49.8906 INFO Get Product Type Master List Success
+2022-01-13 13:39:50.0004 INFO Get User Success :shiva_lab
+2022-01-13 13:39:54.3716 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:39:58.7786 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:40:00.0220 INFO Get Product Type Master List Success
+2022-01-13 13:40:00.1920 INFO Get User Success :excise_Rohtas
+2022-01-13 13:40:05.7828 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:40:12.6614 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 13:40:14.1980 INFO Get Product Type Master List Success
+2022-01-13 13:40:14.2638 INFO Get User Success :police_Patna
+2022-01-13 13:40:18.3324 INFO Get User Fail :-Field not found in row: party_type_code
+2022-01-13 15:37:56.4493 INFO Get User Success :168-Police Purnia
+2022-01-13 15:37:58.8549 INFO Get Product Type Master List Success
+2022-01-13 15:37:59.0401 INFO Get User Success :police_Purnia
+2022-01-13 15:38:19.1063 INFO Get Product Type Master List Success
+2022-01-13 15:38:19.1751 INFO Get User Success :police_Purnia
+2022-01-13 15:38:32.8206 INFO Get Thana List Success
+2022-01-13 15:38:33.1123 INFO Get Product Type Master List Success
+2022-01-13 15:38:33.1718 INFO Get User Success :police_Purnia
+2022-01-13 15:38:37.8152 INFO Get Product Type Master List Success
+2022-01-13 15:38:37.8760 INFO Get User Success :police_Purnia
+2022-01-13 15:38:48.6173 INFO Get Product Type Master List Success
+2022-01-13 15:38:48.6776 INFO Get User Success :police_Purnia
+2022-01-13 15:38:52.6600 INFO Get Product Type Master List Success
+2022-01-13 15:38:52.7208 INFO Get User Success :police_Purnia
+2022-01-13 16:20:16.1575 INFO Get User Fail :-A command is already in progress: select * from exciseautomation.view_checkuser where user_id='casereg_patna'
+2022-01-13 16:20:34.1648 INFO Get User Success :2652-Case Registration Patna
+2022-01-13 16:20:36.3482 INFO Get Product Type Master List Success
+2022-01-13 16:20:36.4131 INFO Get User Success :casereg_patna
+2022-01-13 16:20:43.4098 INFO Get User Success :2652-Case Registration Patna
+2022-01-13 16:20:52.1444 INFO Get User Success :378-DM Court Patna
+2022-01-13 16:21:15.6281 INFO Get User Success :378-DM Court Patna
+2022-01-13 16:21:15.9043 INFO Get Product Type Master List Success
+2022-01-13 16:21:15.9734 INFO Get User Success :dm_patna
+2022-01-13 16:21:23.1355 INFO Get User Success :378-DM Court Patna
+2022-01-13 16:21:30.6015 INFO Get User Success :379-ADM Court Patna
+2022-01-13 16:21:33.2006 INFO Get User Success :379-ADM Court Patna
+2022-01-13 16:21:33.2734 INFO Get Product Type Master List Success
+2022-01-13 16:21:33.3422 INFO Get User Success :adm_Patna
+2022-01-13 16:21:39.3227 INFO Get User Success :379-ADM Court Patna
+2022-01-13 16:21:44.2983 INFO Get User Success :101-Commissioner
+2022-01-13 16:21:45.6165 INFO Get User Success :101-Commissioner
+2022-01-13 16:21:46.2805 INFO Get Product Type Master List Success
+2022-01-13 16:21:46.4136 INFO Get User Success :com
+2022-01-13 16:21:52.1043 INFO Get User Success :101-Commissioner
+2022-01-13 16:21:56.9060 INFO Get User Success :207-excise_Rohtas
+2022-01-13 16:21:58.4609 INFO Get Product Type Master List Success
+2022-01-13 16:21:58.6514 INFO Get User Success :excise_Rohtas
+2022-01-13 16:22:03.3107 INFO Get User Success :207-excise_Rohtas
+2022-01-13 16:22:13.2360 INFO Get User Success :167-Police Patna
+2022-01-13 16:22:14.6630 INFO Get Product Type Master List Success
+2022-01-13 16:22:14.7298 INFO Get User Success :police_Patna
+2022-01-13 16:22:21.5100 INFO Get User Success :167-Police Patna
+2022-01-13 16:55:31.8032 INFO Get User Success :101-Commissioner
+2022-01-13 16:55:35.9133 INFO Get User Success :101-Commissioner
+2022-01-13 16:55:36.6409 INFO Get Product Type Master List Success
+2022-01-13 16:55:36.7047 INFO Get User Success :com
+2022-01-13 16:55:51.9094 INFO Get User Success :101-Commissioner
+2022-01-13 16:55:51.9683 INFO Get Report  Success
+2022-01-13 16:55:53.6751 INFO Get Product Type Master List Success
+2022-01-13 16:55:53.7340 INFO Get User Success :com
+2022-01-13 16:56:34.3800 INFO Get Report  Success
+2022-01-13 16:56:34.6881 INFO Get GetSeverList Success
+2022-01-13 17:00:25.9329 INFO Get Report  Success
+2022-01-13 17:00:26.5666 INFO Get GetSeverList Success
+2022-01-13 17:02:37.4624 INFO Get User Success :101-Commissioner
+2022-01-13 17:02:39.1038 INFO Get User Success :101-Commissioner
+2022-01-13 17:02:39.8047 INFO Get Product Type Master List Success
+2022-01-13 17:02:39.8705 INFO Get User Success :com
+2022-01-13 17:02:44.4813 INFO Get User Success :101-Commissioner
+2022-01-13 17:02:44.5422 INFO Get Report  Success
+2022-01-13 17:03:05.2408 INFO Get Product Type Master List Success :Exception while reading from stream
+2022-01-13 17:03:54.7532 INFO Get User Fail :-Exception while writing to stream
+2022-01-13 17:05:43.4313 INFO Get User Success :101-Commissioner
+2022-01-13 17:05:52.8621 INFO Get User Success :101-Commissioner
+2022-01-13 17:05:53.5953 INFO Get Product Type Master List Success
+2022-01-13 17:05:53.6591 INFO Get User Success :com
+2022-01-13 17:06:03.3659 INFO Get User Success :101-Commissioner
+2022-01-13 17:06:03.4776 INFO Get Report  Success
+2022-01-13 17:06:05.2140 INFO Get Product Type Master List Success
+2022-01-13 17:06:05.5256 INFO Get User Success :com
+2022-01-13 17:08:00.6095 INFO Get Report  Success
+2022-01-13 17:08:15.2030 INFO Get Product Type Master List Success
+2022-01-13 17:08:15.3486 INFO Get User Success :com
+2022-01-13 17:08:22.3334 INFO Get User Success :101-Commissioner
+2022-01-13 17:08:22.4640 INFO Get Report  Success
+2022-01-13 17:08:25.0551 INFO Get Product Type Master List Success
+2022-01-13 17:08:25.1927 INFO Get User Success :com
+2022-01-13 17:13:08.8472 INFO Get User Success :101-Commissioner
+2022-01-13 17:13:18.3128 INFO Get User Success :101-Commissioner
+2022-01-13 17:13:19.1512 INFO Get Product Type Master List Success
+2022-01-13 17:13:19.2259 INFO Get User Success :com
+2022-01-13 17:13:26.5938 INFO Get User Success :101-Commissioner
+2022-01-13 17:13:26.6585 INFO Get Report  Success
+2022-01-13 17:13:28.0986 INFO Get Product Type Master List Success
+2022-01-13 17:13:28.1689 INFO Get User Success :com
+2022-01-13 17:15:30.5807 INFO Get User Success :101-Commissioner
+2022-01-13 17:15:30.6439 INFO Check WorkFlow List Success
+2022-01-13 17:15:30.7569 INFO Get User Success :101-Commissioner
+2022-01-13 17:15:30.8166 INFO Check WorkFlow List Success
+2022-01-13 17:15:31.1341 INFO Get Allotment List Success
+2022-01-13 17:15:31.2154 INFO Get Product Type Master List Success
+2022-01-13 17:15:31.2815 INFO Get User Success :com
+2022-01-13 17:15:36.9918 INFO Get User Success :101-Commissioner
+2022-01-13 17:15:37.0535 INFO Get Report  Success
+2022-01-13 17:15:38.3518 INFO Get Product Type Master List Success
+2022-01-13 17:15:38.4172 INFO Get User Success :com
+2022-01-13 17:17:16.5407 INFO Get User Success :101-Commissioner
+2022-01-13 17:17:32.8860 INFO Get User Success :101-Commissioner
+2022-01-13 17:17:34.0109 INFO Get Product Type Master List Success
+2022-01-13 17:17:34.0803 INFO Get User Success :com
+2022-01-13 17:17:51.2731 INFO Get User Success :101-Commissioner
+2022-01-13 17:17:51.3379 INFO Get Report  Success
+2022-01-13 17:17:53.3350 INFO Get Product Type Master List Success
+2022-01-13 17:17:53.4058 INFO Get User Success :com
+2022-01-13 17:18:22.3282 INFO Get Report  Success
+2022-01-13 17:18:22.6244 INFO Get GetSeverList Success
+2022-01-13 17:18:46.2991 INFO Get Report  Success
+2022-01-13 17:18:46.5259 INFO Get GetSeverList Success
+2022-01-13 17:19:38.0907 INFO Get Report  Success
+2022-01-13 17:19:38.2953 INFO Get GetSeverList Success
+2022-01-13 17:20:22.1989 INFO Get Report  Success
+2022-01-13 17:20:22.5420 INFO Get GetSeverList Success

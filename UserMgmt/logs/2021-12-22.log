@@ -1,0 +1,398 @@
+2021-12-22 10:15:17.5147 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:15:17.6195 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:15:17.6753 INFO Get Product Type Master List Success
+2021-12-22 10:15:19.7645 INFO Get User Success :riga_dis
+2021-12-22 10:15:45.1852 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:15:54.5193 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:15:54.5630 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:15:54.5838 INFO Get Product Type Master List Success
+2021-12-22 10:15:56.0134 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:16:02.3240 INFO Sugarcanepurchase Get List Success
+2021-12-22 10:16:02.3240 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:16:02.3669 INFO Get Product Type Master List Success
+2021-12-22 10:16:03.9171 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:16:10.5864 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:16:10.6913 INFO MIR GetList Sucess
+2021-12-22 10:16:10.7230 INFO Get Product Type Master List Success
+2021-12-22 10:16:12.5624 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:17:59.6523 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:17:59.6913 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:17:59.6993 INFO Get Product Type Master List Success
+2021-12-22 10:18:01.2214 INFO Get User Success :riga_dis
+2021-12-22 10:18:10.2888 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:18:13.5159 INFO Get Product Type Master List Success
+2021-12-22 10:18:14.0425 INFO Get User Success :riga_dis
+2021-12-22 10:18:19.9747 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:18:21.5429 INFO Get Product Type Master List Success
+2021-12-22 10:18:21.9700 INFO Get User Success :riga_dis
+2021-12-22 10:18:24.7199 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:21:59.5296 INFO Get Product Type Master List Success
+2021-12-22 10:21:59.9469 INFO Get User Success :riga_dis
+2021-12-22 10:22:07.0027 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:22:08.7906 INFO Get Product Type Master List Success
+2021-12-22 10:22:09.6607 INFO Get User Success :riga_dis
+2021-12-22 10:23:12.1522 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:40:40.1087 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:40:40.2161 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:40:40.2924 INFO Get Product Type Master List Success
+2021-12-22 10:40:46.2449 INFO Get User Success :riga_dis
+2021-12-22 10:40:54.9136 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:40:58.8217 INFO Get Product Type Master List Success
+2021-12-22 10:40:59.0290 INFO Get User Success :riga_dis
+2021-12-22 10:41:02.0786 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:41:04.8926 INFO Get Pass List Success
+2021-12-22 10:41:04.9056 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:41:05.5449 INFO Get Product Type Master List Success
+2021-12-22 10:41:06.4194 INFO Get User Success :riga_dis
+2021-12-22 10:41:21.3476 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:42:48.0885 INFO Get Pass List Success
+2021-12-22 10:42:48.0885 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:49:24.5552 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:49:24.6625 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:49:24.7185 INFO Get Product Type Master List Success
+2021-12-22 10:49:26.9520 INFO Get User Success :riga_dis
+2021-12-22 10:49:33.4661 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:49:35.4575 INFO Get Product Type Master List Success
+2021-12-22 10:49:35.8460 INFO Get User Success :riga_dis
+2021-12-22 10:49:37.6616 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:49:40.6520 INFO Get Pass List Success
+2021-12-22 10:49:40.6520 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:53:59.2996 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:54:13.0164 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:54:13.0732 INFO Get Product Type Master List Success
+2021-12-22 10:54:16.8423 INFO Get User Success :riga_dis
+2021-12-22 10:54:20.3122 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:54:22.5600 INFO Get Product Type Master List Success
+2021-12-22 10:54:22.7561 INFO Get User Success :riga_dis
+2021-12-22 10:54:24.8693 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:54:27.1601 INFO Get Pass List Success
+2021-12-22 10:54:27.1630 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 10:54:27.8959 INFO Get Product Type Master List Success
+2021-12-22 10:54:28.5774 INFO Get User Success :riga_dis
+2021-12-22 10:54:45.6960 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:54:45.7378 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:54:45.7578 INFO Get Product Type Master List Success
+2021-12-22 10:54:49.7288 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:54:54.3020 INFO Sugarcanepurchase Get List Success
+2021-12-22 10:54:54.3020 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:54:54.3247 INFO Get Product Type Master List Success
+2021-12-22 10:54:55.4626 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:54:57.8424 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:54:57.9439 INFO MIR GetList Sucess
+2021-12-22 10:54:57.9653 INFO Get Product Type Master List Success
+2021-12-22 10:55:02.1578 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:56:03.0835 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:56:03.1023 INFO Get VAT Master List Success
+2021-12-22 10:56:03.6653 INFO Get Pass List Success
+2021-12-22 10:56:03.6653 INFO Get Product Type Master List Success
+2021-12-22 10:57:05.7236 INFO Get User Success :newswadeshi_sgr
+2021-12-22 10:57:09.2156 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 10:57:09.3214 INFO MIR GetList Sucess
+2021-12-22 10:57:09.3214 INFO Get Product Type Master List Success
+2021-12-22 10:57:10.6922 INFO Get User Success :newswadeshi_sgr
+2021-12-22 12:29:01.0569 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 12:29:21.0049 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 12:29:21.1271 INFO Get Product Type Master List Success
+2021-12-22 12:29:26.2703 INFO Get User Success :riga_sgr
+2021-12-22 12:29:33.6506 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 12:29:35.9538 INFO Get Product Type Master List Success
+2021-12-22 12:29:36.2989 INFO Get User Success :riga_sgr
+2021-12-22 12:29:38.2933 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:07:10.3561 INFO Get Pass List Success
+2021-12-22 13:07:10.3561 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:07:11.2412 INFO Get Product Type Master List Success
+2021-12-22 13:07:11.4671 INFO Get User Success :riga_sgr
+2021-12-22 13:07:14.4407 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:07:15.9757 INFO Get Product Type Master List Success
+2021-12-22 13:07:16.2082 INFO Get User Success :riga_sgr
+2021-12-22 13:07:18.5869 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:07:18.6275 INFO Get Dispach Master List Success
+2021-12-22 13:10:26.7107 INFO Get VAT Master List Success
+2021-12-22 13:13:10.0384 INFO Get Product Type Master List Success
+2021-12-22 13:13:11.1547 INFO Get User Success :riga_sgr
+2021-12-22 13:23:51.0901 INFO Pass Insertion Sucess:9-RDD
+2021-12-22 13:24:04.5476 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:24:07.8547 INFO Get Pass List Success
+2021-12-22 13:24:07.8547 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:24:08.5970 INFO Get Product Type Master List Success
+2021-12-22 13:24:09.1279 INFO Get User Success :riga_sgr
+2021-12-22 13:28:24.0704 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:28:24.0704 INFO Get Dispach Master List Success
+2021-12-22 13:32:31.4043 INFO Get VAT Master List Success
+2021-12-22 13:32:32.8674 INFO Get Pass List Success
+2021-12-22 13:32:33.7326 INFO Get Product Type Master List Success
+2021-12-22 13:32:34.3106 INFO Get User Success :riga_sgr
+2021-12-22 13:32:37.4064 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:32:39.7583 INFO Get Pass List Success
+2021-12-22 13:32:39.7583 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:32:39.9488 INFO Get Product Type Master List Success
+2021-12-22 13:32:40.3277 INFO Get User Success :riga_sgr
+2021-12-22 13:32:47.7520 INFO Sugarcanepurchase Get List Success
+2021-12-22 13:32:47.7548 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:32:47.7838 INFO Get Product Type Master List Success
+2021-12-22 13:32:48.9565 INFO Get User Success :riga_sgr
+2021-12-22 13:32:51.4575 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 13:32:52.5331 INFO Get Product Type Master List Success
+2021-12-22 13:32:53.0933 INFO Get User Success :riga_sgr
+2021-12-22 13:33:05.7294 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 13:33:05.7703 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 13:33:05.7973 INFO Get Product Type Master List Success
+2021-12-22 13:33:06.8255 INFO Get User Success :newswadeshi_sgr
+2021-12-22 13:33:09.4860 INFO Sugarcanepurchase Get List Success
+2021-12-22 13:33:09.4888 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 13:33:09.4888 INFO Get Product Type Master List Success
+2021-12-22 13:33:10.7284 INFO Get User Success :newswadeshi_sgr
+2021-12-22 13:33:12.7080 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-12-22 13:33:13.9226 INFO Get Product Type Master List Success
+2021-12-22 13:33:14.6698 INFO Get User Success :newswadeshi_sgr
+2021-12-22 14:35:26.1753 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 14:35:36.0554 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 14:35:36.1282 INFO Get Product Type Master List Success
+2021-12-22 14:35:38.8433 INFO Get User Success :riga_sgr
+2021-12-22 14:35:45.4021 INFO Sugarcanepurchase Get List Success
+2021-12-22 14:35:45.4021 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 14:35:45.4415 INFO Get Product Type Master List Success
+2021-12-22 14:35:46.6646 INFO Get User Success :riga_sgr
+2021-12-22 14:35:49.2870 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 14:35:49.3970 INFO MIR GetList Sucess
+2021-12-22 14:35:49.3970 INFO Get Product Type Master List Success
+2021-12-22 14:35:50.6910 INFO Get User Success :riga_sgr
+2021-12-22 14:35:53.0543 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 14:35:53.0733 INFO Get VAT Master List Success
+2021-12-22 14:35:53.5939 INFO Get Pass List Success
+2021-12-22 14:35:53.5939 INFO Get Product Type Master List Success
+2021-12-22 14:35:55.0136 INFO Get User Success :riga_sgr
+2021-12-22 14:35:58.5157 INFO Get Pass List Success
+2021-12-22 15:01:17.2725 INFO MIR Insertion Fail:2-RSM-23505: duplicate key value violates unique constraint "molassesissueregister_pkey"
+2021-12-22 15:01:23.1965 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:01:23.3027 INFO MIR GetList Sucess
+2021-12-22 15:01:23.3027 INFO Get Product Type Master List Success
+2021-12-22 15:01:24.7046 INFO Get User Success :riga_sgr
+2021-12-22 15:01:27.2003 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:01:27.2173 INFO Get VAT Master List Success
+2021-12-22 15:01:27.7360 INFO Get Pass List Success
+2021-12-22 15:01:27.7360 INFO Get Product Type Master List Success
+2021-12-22 15:01:29.1495 INFO Get User Success :riga_sgr
+2021-12-22 15:01:31.8071 INFO Get Pass List Success
+2021-12-22 15:01:53.1609 INFO MIR Insertion Sucess:3-RSM
+2021-12-22 15:01:53.1822 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:01:53.2872 INFO MIR GetList Sucess
+2021-12-22 15:01:53.3131 INFO Get Product Type Master List Success
+2021-12-22 15:01:54.1245 INFO Get User Success :riga_sgr
+2021-12-22 15:02:04.7327 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:02:04.7487 INFO Get VAT Master List Success
+2021-12-22 15:02:05.2583 INFO Get Pass List Success
+2021-12-22 15:02:06.6721 INFO MIR GetDetails Sucess
+2021-12-22 15:02:07.4256 INFO Get Pass List Success
+2021-12-22 15:02:08.1293 INFO Get Product Type Master List Success
+2021-12-22 15:02:08.3685 INFO Get User Success :riga_sgr
+2021-12-22 15:02:17.6662 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:02:17.7732 INFO MIR GetList Sucess
+2021-12-22 15:02:17.7732 INFO Get Product Type Master List Success
+2021-12-22 15:02:19.2585 INFO Get User Success :riga_sgr
+2021-12-22 15:02:25.3062 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:02:25.3232 INFO Get VAT Master List Success
+2021-12-22 15:02:25.8884 INFO Get Pass List Success
+2021-12-22 15:02:54.4948 INFO MIR GetDetails Sucess
+2021-12-22 15:02:55.2236 INFO Get Pass List Success
+2021-12-22 15:02:55.7225 INFO Get Product Type Master List Success
+2021-12-22 15:02:55.9466 INFO Get User Success :riga_sgr
+2021-12-22 15:02:56.7595 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:02:56.7825 INFO Get VAT Master List Success
+2021-12-22 15:02:57.3816 INFO Get Pass List Success
+2021-12-22 15:02:58.8189 INFO MIR GetDetails Sucess
+2021-12-22 15:02:59.4914 INFO Get Pass List Success
+2021-12-22 15:02:59.9388 INFO Get Product Type Master List Success
+2021-12-22 15:03:00.1581 INFO Get User Success :riga_sgr
+2021-12-22 15:03:14.9636 INFO MIR Update Success:RSM-RSMMST0002_2
+2021-12-22 15:03:14.9856 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:03:15.0927 INFO MIR GetList Sucess
+2021-12-22 15:03:15.0927 INFO Get Product Type Master List Success
+2021-12-22 15:03:15.4806 INFO Get User Success :riga_sgr
+2021-12-22 15:03:27.7988 INFO Get User Success :137-Assistant Commissioner, Sitamarhi
+2021-12-22 15:03:27.8381 INFO Get User Success :137-Assistant Commissioner, Sitamarhi
+2021-12-22 15:03:27.8381 INFO Get Product Type Master List Success
+2021-12-22 15:03:29.0625 INFO Get User Success :sitedo
+2021-12-22 15:03:35.3911 INFO Get User Success :137-Assistant Commissioner, Sitamarhi
+2021-12-22 15:03:52.1198 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:03:52.1570 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:03:52.1828 INFO Get Product Type Master List Success
+2021-12-22 15:03:53.3807 INFO Get User Success :riga_sgrbo
+2021-12-22 15:03:58.9248 INFO Sugarcanepurchase Get List Success
+2021-12-22 15:03:58.9278 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:03:58.9278 INFO Get Product Type Master List Success
+2021-12-22 15:04:00.0249 INFO Get User Success :riga_sgrbo
+2021-12-22 15:04:02.0105 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:04:02.1322 INFO MIR GetList Sucess
+2021-12-22 15:04:02.1322 INFO Get Product Type Master List Success
+2021-12-22 15:04:03.5722 INFO Get User Success :riga_sgrbo
+2021-12-22 15:04:05.6339 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:04:05.6519 INFO Get VAT Master List Success
+2021-12-22 15:04:06.1857 INFO Get Pass List Success
+2021-12-22 15:04:10.3835 INFO MIR GetDetails Sucess
+2021-12-22 15:04:12.0015 INFO Get Pass List Success
+2021-12-22 15:04:12.6514 INFO Get Product Type Master List Success
+2021-12-22 15:04:13.0511 INFO Get User Success :riga_sgrbo
+2021-12-22 15:06:05.2457 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:06:05.3510 INFO MIR GetList Sucess
+2021-12-22 15:06:05.3510 INFO Get Product Type Master List Success
+2021-12-22 15:06:08.5857 INFO Get User Success :riga_sgrbo
+2021-12-22 15:06:12.0580 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:06:12.0750 INFO Get VAT Master List Success
+2021-12-22 15:06:12.5739 INFO Get Pass List Success
+2021-12-22 15:06:15.2924 INFO MIR GetDetails Sucess
+2021-12-22 15:06:17.2499 INFO Get Pass List Success
+2021-12-22 15:06:18.3851 INFO Get Product Type Master List Success
+2021-12-22 15:06:19.0285 INFO Get User Success :riga_sgrbo
+2021-12-22 15:06:23.8984 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:06:24.0058 INFO MIR GetList Sucess
+2021-12-22 15:06:24.0058 INFO Get Product Type Master List Success
+2021-12-22 15:06:25.3007 INFO Get User Success :riga_sgrbo
+2021-12-22 15:06:39.6799 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:06:39.7196 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:06:39.7296 INFO Get Product Type Master List Success
+2021-12-22 15:06:40.9925 INFO Get User Success :riga_sgr
+2021-12-22 15:06:44.6931 INFO Sugarcanepurchase Get List Success
+2021-12-22 15:06:44.6931 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:06:44.6931 INFO Get Product Type Master List Success
+2021-12-22 15:06:45.9781 INFO Get User Success :riga_sgr
+2021-12-22 15:07:14.9589 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:07:15.0639 INFO MIR GetList Sucess
+2021-12-22 15:07:15.0639 INFO Get Product Type Master List Success
+2021-12-22 15:07:16.2557 INFO Get User Success :riga_sgr
+2021-12-22 15:07:18.7014 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:07:18.7203 INFO Get VAT Master List Success
+2021-12-22 15:07:19.2694 INFO Get Pass List Success
+2021-12-22 15:07:22.6982 INFO MIR GetDetails Sucess
+2021-12-22 15:07:23.4194 INFO Get Pass List Success
+2021-12-22 15:07:23.8879 INFO Get Product Type Master List Success
+2021-12-22 15:07:24.1151 INFO Get User Success :riga_sgr
+2021-12-22 15:07:29.1694 INFO MIR Update Success:RSM-RSMMST0002_3
+2021-12-22 15:07:29.1902 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-22 15:07:29.2939 INFO MIR GetList Sucess
+2021-12-22 15:07:29.2939 INFO Get Product Type Master List Success
+2021-12-22 15:07:30.0695 INFO Get User Success :riga_sgr
+2021-12-22 15:07:36.5290 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:07:36.5719 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:07:36.5719 INFO Get Product Type Master List Success
+2021-12-22 15:07:41.0735 INFO Get User Success :riga_sgrbo
+2021-12-22 15:07:44.2216 INFO Sugarcanepurchase Get List Success
+2021-12-22 15:07:44.2245 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:07:44.2245 INFO Get Product Type Master List Success
+2021-12-22 15:07:45.7575 INFO Get User Success :riga_sgrbo
+2021-12-22 15:07:47.6084 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:07:47.7145 INFO MIR GetList Sucess
+2021-12-22 15:07:47.7145 INFO Get Product Type Master List Success
+2021-12-22 15:07:49.8656 INFO Get User Success :riga_sgrbo
+2021-12-22 15:07:52.4972 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:07:52.5141 INFO Get VAT Master List Success
+2021-12-22 15:07:53.0790 INFO Get Pass List Success
+2021-12-22 15:08:03.1325 INFO MIR GetDetails Sucess
+2021-12-22 15:08:05.0725 INFO Get Pass List Success
+2021-12-22 15:08:07.2403 INFO Get Product Type Master List Success
+2021-12-22 15:08:08.3025 INFO Get User Success :riga_sgrbo
+2021-12-22 15:09:34.2404 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:09:34.2404 INFO Get Report  Success
+2021-12-22 15:09:34.2404 INFO GetFinacListValues Success
+2021-12-22 15:09:34.2404 INFO Get Party Master List Success
+2021-12-22 15:09:34.2557 INFO Get Product Type Master List Success
+2021-12-22 15:09:35.9004 INFO Get User Success :riga_sgrbo
+2021-12-22 15:33:41.7395 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:33:58.4351 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:33:58.5004 INFO Get Product Type Master List Success
+2021-12-22 15:34:01.4178 INFO Get User Success :riga_sgrbo
+2021-12-22 15:34:41.2792 INFO Sugarcanepurchase Get List Success
+2021-12-22 15:34:41.2792 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:34:41.3211 INFO Get Product Type Master List Success
+2021-12-22 15:34:42.5676 INFO Get User Success :riga_sgrbo
+2021-12-22 15:34:44.5331 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:34:44.6472 INFO MIR GetList Sucess
+2021-12-22 15:34:44.6800 INFO Get Product Type Master List Success
+2021-12-22 15:34:45.8792 INFO Get User Success :riga_sgrbo
+2021-12-22 15:34:48.5265 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:34:48.5484 INFO Get VAT Master List Success
+2021-12-22 15:34:49.0640 INFO Get Pass List Success
+2021-12-22 15:34:50.4598 INFO MIR GetDetails Sucess
+2021-12-22 15:34:52.5563 INFO Get Pass List Success
+2021-12-22 15:34:53.5053 INFO Get Product Type Master List Success
+2021-12-22 15:34:53.7701 INFO Get User Success :riga_sgrbo
+2021-12-22 15:35:35.2799 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:35:35.3980 INFO MIR GetList Sucess
+2021-12-22 15:35:35.3980 INFO Get Product Type Master List Success
+2021-12-22 15:35:37.3822 INFO Get User Success :riga_sgrbo
+2021-12-22 15:35:41.8788 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:35:41.8957 INFO Get VAT Master List Success
+2021-12-22 15:35:42.4115 INFO Get Pass List Success
+2021-12-22 15:35:46.1979 INFO MIR GetDetails Sucess
+2021-12-22 15:35:46.8470 INFO Get Pass List Success
+2021-12-22 15:35:47.3073 INFO Get Product Type Master List Success
+2021-12-22 15:35:47.5300 INFO Get User Success :riga_sgrbo
+2021-12-22 15:37:05.1193 INFO Sugarcanepurchase Get List Success
+2021-12-22 15:37:05.1193 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-12-22 15:37:05.1193 INFO Get Product Type Master List Success
+2021-12-22 15:37:07.7142 INFO Get User Success :riga_sgrbo
+2021-12-22 15:37:18.9500 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:37:18.9898 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:37:18.9898 INFO Get Product Type Master List Success
+2021-12-22 15:37:20.1142 INFO Get User Success :riga_dis
+2021-12-22 15:37:24.3794 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:37:26.6116 INFO Get Product Type Master List Success
+2021-12-22 15:37:26.8401 INFO Get User Success :riga_dis
+2021-12-22 15:37:32.6481 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:37:33.9821 INFO Get Product Type Master List Success
+2021-12-22 15:37:34.2159 INFO Get User Success :riga_dis
+2021-12-22 15:41:37.0505 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:41:40.1207 INFO Get Product Type Master List Success
+2021-12-22 15:41:40.3903 INFO Get User Success :riga_dis
+2021-12-22 15:41:46.4924 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:41:47.3689 INFO Get Product Type Master List Success
+2021-12-22 15:41:47.5987 INFO Get User Success :riga_dis
+2021-12-22 15:52:47.9547 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:52:51.1033 INFO Get Product Type Master List Success
+2021-12-22 15:52:51.6160 INFO Get User Success :riga_dis
+2021-12-22 15:52:55.8320 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:52:57.0846 INFO Get Product Type Master List Success
+2021-12-22 15:52:57.3045 INFO Get User Success :riga_dis
+2021-12-22 15:53:37.2317 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:53:40.1353 INFO Get Product Type Master List Success
+2021-12-22 15:53:40.3576 INFO Get User Success :riga_dis
+2021-12-22 15:53:44.7940 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 15:53:45.7681 INFO Get Product Type Master List Success
+2021-12-22 15:53:46.0294 INFO Get User Success :riga_dis
+2021-12-22 16:12:25.0253 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 16:12:43.8240 INFO Get Product Type Master List Success
+2021-12-22 16:12:44.2499 INFO Get User Success :riga_dis
+2021-12-22 16:12:49.3754 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 16:12:50.3686 INFO Get Product Type Master List Success
+2021-12-22 16:12:50.6221 INFO Get User Success :riga_dis
+2021-12-22 16:16:13.8536 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 16:16:16.3286 INFO Get Product Type Master List Success
+2021-12-22 16:16:16.5437 INFO Get User Success :riga_dis
+2021-12-22 16:16:19.4095 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 16:16:20.6890 INFO Get Product Type Master List Success
+2021-12-22 16:16:21.2611 INFO Get User Success :riga_dis
+2021-12-22 16:16:25.5651 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 16:16:45.8271 INFO Get Product Type Master List Success
+2021-12-22 16:16:49.1488 INFO Get User Success :riga_dis
+2021-12-22 17:32:01.0950 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:32:22.9021 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:32:22.9898 INFO Get Product Type Master List Success
+2021-12-22 17:32:26.9948 INFO Get User Success :riga_dis
+2021-12-22 17:35:10.6715 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:37:08.0163 INFO Get Product Type Master List Success
+2021-12-22 17:37:08.6111 INFO Get User Success :riga_dis
+2021-12-22 17:37:13.1970 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:37:13.2279 INFO Get Product Type Master List Success
+2021-12-22 17:37:13.7870 INFO Get User Success :riga_dis
+2021-12-22 17:37:18.3013 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:37:19.3699 INFO Get Product Type Master List Success
+2021-12-22 17:37:20.0074 INFO Get User Success :riga_dis
+2021-12-22 17:37:23.0177 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:37:23.0227 INFO Get VAT Master List Success
+2021-12-22 17:37:24.4952 INFO Get Product Type Master List Success
+2021-12-22 17:37:24.7702 INFO Get User Success :riga_dis
+2021-12-22 17:37:28.7185 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 17:37:30.3313 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 18:02:01.1112 INFO Get User Success :104-Riga Distillery Division
+2021-12-22 18:02:02.1469 INFO Get Product Type Master List Success
+2021-12-22 18:02:02.7237 INFO Get User Success :riga_dis

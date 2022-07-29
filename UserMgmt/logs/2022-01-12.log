@@ -1,0 +1,125 @@
+2022-01-12 12:52:34.3625 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-12 12:52:38.5313 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-12 12:52:39.0754 INFO Get Product Type Master List Success
+2022-01-12 12:52:39.2546 INFO Get User Success :hpcl_ec
+2022-01-12 12:52:51.9816 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-12 12:52:52.4084 INFO Get Product Type Master List Success
+2022-01-12 12:52:52.6518 INFO Get User Success :hpcl_ec
+2022-01-12 12:53:33.2754 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-12 12:57:06.6529 INFO Get Product Type Master List Success
+2022-01-12 12:57:06.9020 INFO Get User Success :hpcl_ec
+2022-01-12 12:57:24.9142 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 12:57:26.7451 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 12:57:26.9090 INFO Get Product Type Master List Success
+2022-01-12 12:57:27.0613 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 12:57:32.5111 INFO Sugarcanepurchase Get List Success
+2022-01-12 12:57:32.5660 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 12:57:32.6208 INFO Get Product Type Master List Success
+2022-01-12 12:57:32.8163 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 12:57:34.2289 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 12:57:39.3136 INFO MIR GetList Sucess
+2022-01-12 12:57:39.4109 INFO Get Product Type Master List Success
+2022-01-12 12:57:39.5667 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 12:59:14.5225 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 12:59:16.6094 INFO Get VAT Master List Success
+2022-01-12 13:00:06.2156 INFO Get Pass List Success
+2022-01-12 13:00:06.2924 INFO MIR GetDetails Sucess
+2022-01-12 13:00:06.3918 INFO Get Pass List Success
+2022-01-12 13:00:06.8179 INFO Get Product Type Master List Success
+2022-01-12 13:00:06.9594 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:00:21.1325 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:00:28.5200 INFO MIR GetList Sucess
+2022-01-12 13:00:28.5887 INFO Get Product Type Master List Success
+2022-01-12 13:00:28.7242 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:00:34.9579 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:06:16.6067 INFO MIR GetList Sucess
+2022-01-12 13:06:16.6700 INFO Get Product Type Master List Success
+2022-01-12 13:06:16.7909 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:06:19.2550 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:06:19.3297 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:06:19.8974 INFO Get Product Type Master List Success
+2022-01-12 13:06:20.2239 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:06:26.9587 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:06:46.7921 INFO Get Pass List Success
+2022-01-12 13:06:46.8593 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:06:46.9563 INFO Get Product Type Master List Success
+2022-01-12 13:06:47.0768 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:07:33.2928 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:07:33.3757 INFO Get Dispach Master List Success
+2022-01-12 13:07:33.6466 INFO Get VAT Master List Success
+2022-01-12 13:07:33.7184 INFO Get Pass List Success
+2022-01-12 13:07:34.0691 INFO Get Product Type Master List Success
+2022-01-12 13:07:34.2036 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:09:10.1234 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:09:10.1789 INFO Get Dispach Master List Success
+2022-01-12 13:09:10.2958 INFO Get VAT Master List Success
+2022-01-12 13:09:10.3573 INFO Get Pass List Success
+2022-01-12 13:09:10.6920 INFO Get Product Type Master List Success
+2022-01-12 13:09:10.8037 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:09:17.2100 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:09:17.2655 INFO Get Dispach Master List Success
+2022-01-12 13:09:17.3858 INFO Get VAT Master List Success
+2022-01-12 13:09:17.4450 INFO Get Pass List Success
+2022-01-12 13:09:17.7308 INFO Get Product Type Master List Success
+2022-01-12 13:09:18.1493 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:09:20.4040 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:09:42.7173 INFO Get Pass List Success
+2022-01-12 13:09:42.7760 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:09:42.8389 INFO Get Product Type Master List Success
+2022-01-12 13:09:42.9939 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:09:45.3518 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:10:04.9351 INFO Get Pass List Success
+2022-01-12 13:10:04.9952 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:10:05.0607 INFO Get Product Type Master List Success
+2022-01-12 13:10:05.2138 INFO Get User Success :hpcl_ec_sgr
+2022-01-12 13:10:09.9215 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-12 13:10:09.9777 INFO Get Dispach Master List Success
+2022-01-12 13:11:48.6984 INFO Get VAT Master List Success
+2022-01-12 17:01:22.0573 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 17:01:25.7977 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 17:01:25.9422 INFO Get Product Type Master List Success
+2022-01-12 17:01:26.0365 INFO Get User Success :bdbl_dis
+2022-01-12 17:01:33.6449 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 17:01:39.7356 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:01:41.4644 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:01:41.8452 INFO Get Product Type Master List Success
+2022-01-12 17:01:42.0261 INFO Get User Success :bharat_dis
+2022-01-12 17:01:45.2588 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:01:45.4477 INFO Get RR List Success
+2022-01-12 17:03:15.5346 INFO Get User Fail :-Exception while reading from stream
+2022-01-12 17:04:11.1001 INFO Get RR List Fail:Connection is not open
+2022-01-12 17:04:25.2955 INFO Get User Fail :-Exception while writing to stream
+2022-01-12 17:05:04.5159 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:06:10.4165 INFO Get RR List Success
+2022-01-12 17:11:04.9914 INFO Get Product Type Master List Success
+2022-01-12 17:11:05.2004 INFO Get User Success :bharat_dis
+2022-01-12 17:11:33.4288 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:13:19.0793 INFO Get RR List Success
+2022-01-12 17:13:19.1531 INFO Get Product Type Master List Success
+2022-01-12 17:13:19.3797 INFO Get User Success :bharat_dis
+2022-01-12 17:13:24.6715 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:13:26.8272 INFO Get RR List Success
+2022-01-12 17:13:26.8833 INFO Get Product Type Master List Success
+2022-01-12 17:13:27.1063 INFO Get User Success :bharat_dis
+2022-01-12 17:13:33.1753 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-01-12 17:13:37.6262 INFO Get RR List Success
+2022-01-12 17:13:37.7009 INFO Get Product Type Master List Success
+2022-01-12 17:13:37.9488 INFO Get User Success :bharat_dis
+2022-01-12 18:03:57.3695 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:04:00.2001 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:04:00.3261 INFO Get Product Type Master List Success
+2022-01-12 18:04:00.4084 INFO Get User Success :bdbl_dis
+2022-01-12 18:04:03.2344 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:04:03.3009 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:04:03.4790 INFO Get Product Type Master List Success
+2022-01-12 18:04:03.5399 INFO Get User Success :bdbl_dis
+2022-01-12 18:04:06.0667 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:04:13.6522 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:04:17.2671 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:05:43.6735 INFO Get RR List Success
+2022-01-12 18:05:43.9861 INFO Get NOC Details Success
+2022-01-12 18:05:44.2214 INFO Get NOC Details Success
+2022-01-12 18:05:44.2803 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-12 18:05:44.3431 INFO Get Balance Request Pass Success
+2022-01-12 18:05:44.4659 INFO Get Product Type Master List Success
+2022-01-12 18:05:44.5267 INFO Get User Success :bdbl_dis

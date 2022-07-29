@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="NestedMasterCaseMgmt.master.cs" Inherits="UserMgmt.NestedMasterCaseMgmt" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="BodyContent" runat="server">
+    <div role="main">
+        <br />
+        <div class="">
+            <div class="row top_tiles">
+                <div class="">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="x_panel">
+                            <html>
+                            <head>
+                                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                                <title>Basic Information</title>
+                            </head>
+                            <body>
+                                <div class="col-md-2 col-sm-12 col-xs-12 form-inline">
+                                    <span style="font-size: medium;">Raid By : <asp:Label ID="lbRaidBy" runat="server" Font-Bold="true" Text=""></asp:Label></span>
+                                </div>
+                                <div class="col-md-2 col-sm-12 col-xs-12 form-inline">
+                                    <span style="font-size: medium">Division : <asp:Label ID="lbDivision" runat="server" Font-Bold="true" Text=""></asp:Label></span>
+                                </div>
+                                <div class="col-md-2 col-sm-12 col-xs-12 form-inline">
+                                    <span style="font-size: medium">District: <asp:Label ID="lbDistrict" runat="server" Font-Bold="true" Text=""></asp:Label></span>
+                                </div>
+                                <div class="col-md-2 col-sm-12 col-xs-12 form-inline" id="thana" runat="server">
+                                    <span style="font-size: medium">Thana: <asp:Label ID="lblThana" runat="server" Font-Bold="true" Text=""></asp:Label></span>
+                                </div>
+                                 <div class="col-md-2 col-sm-12 col-xs-12 form-inline" id="Div1" runat="server">
+                                    <span style="font-size: medium">Seizure No: <asp:Label ID="lblseizure" runat="server" Font-Bold="true" Text=""></asp:Label></span>
+                                </div>
+                                 <div class="col-md-2 col-sm-12 col-xs-12 form-inline" id="Div2" runat="server">
+                                    <span style="font-size: medium">PR/FIR NO: <asp:Label ID="ldlfir" runat="server" Font-Bold="true" Text=""></asp:Label></span>
+                                </div>
+                                <div class="clearfix"></div>
+                            </body>
+                            </html>
+                            <div role="main">
+                                <asp:ContentPlaceHolder ID="NestedBodyContent" runat="server"></asp:ContentPlaceHolder>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</asp:Content>

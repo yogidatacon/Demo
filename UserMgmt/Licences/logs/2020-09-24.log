@@ -1,0 +1,531 @@
+2020-09-24 10:19:27.5314 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:15:19.2125 INFO Get State List Success
+2020-09-24 11:15:20.8082 INFO Get Division List Success
+2020-09-24 11:16:38.5142 INFO Org Get List Success
+2020-09-24 11:16:39.7850 INFO Module Get List Success
+2020-09-24 11:16:43.2684 INFO Org Get List Success
+2020-09-24 11:16:45.7826 INFO Get Existing data Success :module_master
+2020-09-24 11:16:54.6189 INFO Get Existing data Success :module_master
+2020-09-24 11:18:00.6376 INFO Org Get List Success
+2020-09-24 11:21:06.0833 INFO Get Existing data Fail :org_master
+2020-09-24 11:21:54.1242 INFO Get TabNames List Success
+2020-09-24 11:21:55.4228 INFO Get SubModule Sucess
+2020-09-24 11:21:56.5374 INFO Get TabNames List Success
+2020-09-24 11:21:57.5088 INFO Org Get List Success
+2020-09-24 11:21:57.5088 INFO Module Get List Success
+2020-09-24 11:21:58.9526 INFO Get SubModule Sucess
+2020-09-24 11:21:59.7888 INFO Module Get List Success
+2020-09-24 11:22:00.4633 INFO Get TabNames List Success
+2020-09-24 11:22:01.3885 INFO Org Get List Success
+2020-09-24 11:22:01.3885 INFO Module Get List Success
+2020-09-24 11:22:01.3885 INFO Get SubModule Sucess
+2020-09-24 11:22:02.3178 INFO Get TabNames List Success
+2020-09-24 11:22:04.0809 INFO Org Get List Success
+2020-09-24 11:22:04.0829 INFO Module Get List Success
+2020-09-24 11:22:04.0829 INFO Get SubModule Sucess
+2020-09-24 11:22:04.8677 INFO Get SubModule Sucess
+2020-09-24 11:22:05.5054 INFO Module Get List Success
+2020-09-24 11:23:01.0406 INFO Get TabNames List Success
+2020-09-24 11:23:02.5832 INFO Org Get List Success
+2020-09-24 11:23:02.5832 INFO Module Get List Success
+2020-09-24 11:23:04.1594 INFO Get SubModule Sucess
+2020-09-24 11:23:04.8808 INFO Get TabNames List Success
+2020-09-24 11:23:11.4061 INFO Org Get List Success
+2020-09-24 11:23:11.4141 INFO Module Get List Success
+2020-09-24 11:23:38.0981 INFO Org Get List Success
+2020-09-24 11:23:38.0981 INFO Module Get List Success
+2020-09-24 11:24:27.2091 INFO Org Get List Success
+2020-09-24 11:24:27.2091 INFO Module Get List Success
+2020-09-24 11:24:36.2185 INFO Get Existing data Fail :tabname_master
+2020-09-24 11:24:39.7273 INFO Get TabNames List Success
+2020-09-24 11:24:45.5423 INFO Org Get List Success
+2020-09-24 11:24:45.5423 INFO Module Get List Success
+2020-09-24 11:24:47.7262 INFO Get Existing data Success :tabname_master
+2020-09-24 11:25:59.7608 INFO Get State List Success
+2020-09-24 11:26:02.3689 INFO Get State List Success
+2020-09-24 11:26:05.4001 INFO Get Division List Success
+2020-09-24 11:26:09.8868 INFO Get Existing data Fail :District_Master
+2020-09-24 11:26:14.0429 INFO Get Existing data Fail :District_Master
+2020-09-24 11:26:24.8283 INFO Get State List Success
+2020-09-24 11:26:27.9734 INFO Get Division List Success
+2020-09-24 11:26:38.4399 INFO Get State List Success
+2020-09-24 11:26:40.7104 INFO Get Division List Success
+2020-09-24 11:26:54.8851 INFO Get Existing data Success :District_Master
+2020-09-24 11:29:13.3221 INFO Get Division List Success
+2020-09-24 11:29:14.5876 INFO Get State List Success
+2020-09-24 11:29:21.5273 INFO Get Division List Success
+2020-09-24 11:32:12.0381 INFO Org Get List Success
+2020-09-24 11:32:13.3019 INFO GetFinacListValues Success
+2020-09-24 11:32:19.3428 INFO GetFinacListValues Success
+2020-09-24 11:32:20.0168 INFO Get OrgNames in Financial Form Success
+2020-09-24 11:32:25.5708 INFO GetFinacListValues Success
+2020-09-24 11:32:28.3930 INFO Get OrgNames in Financial Form Success
+2020-09-24 11:32:32.2832 INFO Insertion OrgFinance Success :9
+2020-09-24 11:32:32.3042 INFO GetFinacListValues Success
+2020-09-24 11:32:39.0004 INFO Get OrgNames in Financial Form Success
+2020-09-24 11:34:44.3709 INFO GetFinacListValues Success
+2020-09-24 11:34:48.7025 INFO GetFinacListValues Success
+2020-09-24 11:36:06.3934 INFO Get State List Success
+2020-09-24 11:36:28.8657 INFO Get Party Type Master List Success
+2020-09-24 11:36:31.6405 INFO Get Party Master List Success
+2020-09-24 11:36:49.8173 INFO Get Party Type Master List Success
+2020-09-24 11:36:55.8076 INFO Get Existing data Fail :party_master
+2020-09-24 11:37:35.4245 INFO Get Party Type Master List Success
+2020-09-24 11:38:58.6141 INFO Get Party Type Master List Success
+2020-09-24 11:39:01.1895 INFO Get Party Type Master List Success
+2020-09-24 11:40:04.9827 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:40:08.5463 INFO Get Party Master List Success
+2020-09-24 11:40:08.5524 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:48:42.7688 INFO Org Get List Success
+2020-09-24 11:52:23.1102 INFO Get Party Type Master List Success
+2020-09-24 11:52:27.8144 INFO Get Existing data Fail :party_type_master
+2020-09-24 11:52:29.6277 INFO Get Existing data Fail :party_type_master
+2020-09-24 11:52:35.6083 INFO Insert Party Type Master Success :111-1111
+2020-09-24 11:52:35.6261 INFO Get Party Type Master List Success
+2020-09-24 11:54:04.1631 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:54:09.9005 INFO Get Party Master List Success
+2020-09-24 11:54:13.2864 INFO Get Party Master List Success
+2020-09-24 11:56:07.4691 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:56:09.1545 INFO Get Party Master List Success
+2020-09-24 11:56:09.1545 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:57:29.1243 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:57:35.1673 INFO Sugarcanepurchase Get List Success
+2020-09-24 11:57:41.2712 INFO Get Party Master List Success
+2020-09-24 11:57:41.2712 INFO Sugarcanepurchase Get List Success
+2020-09-24 12:01:10.2608 INFO Org Get List Success
+2020-09-24 12:01:14.4811 INFO Get State List Success
+2020-09-24 12:01:18.9536 INFO Get Party Type Master List Success
+2020-09-24 12:03:27.8144 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:03:29.1645 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:03:30.9824 INFO Insert Party Type Master Success :11111-11111-22001: value too long for type character varying(3)
+2020-09-24 12:04:50.2611 INFO Insert Party Type Master Success :11111-11111-22001: value too long for type character varying(3)
+2020-09-24 12:04:54.2264 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:04:56.3629 INFO Get Existing data Success :party_type_master
+2020-09-24 12:05:00.4355 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:05:30.3569 INFO Insert Party Type Master Success :11111-11111-22001: value too long for type character varying(3)
+2020-09-24 12:05:38.0384 INFO Insert Party Type Master Success :11111-11111-22001: value too long for type character varying(3)
+2020-09-24 12:05:42.5805 INFO Get Party Master List Success
+2020-09-24 12:05:43.8487 INFO Get Party Type Master List Success
+2020-09-24 12:05:48.1066 INFO Get Existing data Success :party_type_master
+2020-09-24 12:05:52.6083 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:05:55.2589 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:06:10.5967 INFO Insert Party Type Master Success :123-123
+2020-09-24 12:06:10.6156 INFO Get Party Type Master List Success
+2020-09-24 12:07:00.0592 INFO Get Party Type Master List Success
+2020-09-24 12:07:05.7548 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:07:06.8758 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:09:10.1412 INFO Get Party Type Master List Success
+2020-09-24 12:09:19.2171 INFO Get Party Type Master List Success
+2020-09-24 12:09:25.8329 INFO Get Existing data Success :party_type_master
+2020-09-24 12:09:30.2552 INFO Get Party Type Master List Success
+2020-09-24 12:09:33.4168 INFO Get Existing data Success :party_type_master
+2020-09-24 12:10:10.6119 INFO Get Party Type Master List Success
+2020-09-24 12:10:17.0772 INFO Get Existing data Fail :party_type_master
+2020-09-24 12:10:17.2629 INFO Insert Party Type Master Success :123-party1-23505: duplicate key value violates unique constraint "party_type_master_pkey"
+2020-09-24 12:11:58.8313 INFO Update Party Type Master Success :123-party1
+2020-09-24 12:11:58.8562 INFO Get Party Type Master List Success
+2020-09-24 12:12:20.5043 INFO Org Get List Success
+2020-09-24 12:12:22.7741 INFO Get State List Success
+2020-09-24 12:12:23.8133 INFO Get Division List Success
+2020-09-24 12:12:25.2501 INFO Get State List Success
+2020-09-24 12:12:27.7347 INFO Get Division List Success
+2020-09-24 12:12:29.0346 INFO Get State List Success
+2020-09-24 12:12:54.0952 INFO Get State List Success
+2020-09-24 12:12:54.0972 INFO Get Division List Success
+2020-09-24 12:13:00.4528 INFO Get State List Success
+2020-09-24 12:13:00.4528 INFO Get Division List Success
+2020-09-24 12:13:19.9685 INFO Get State List Success
+2020-09-24 12:13:19.9685 INFO Get Division List Success
+2020-09-24 12:13:36.5116 INFO Get access_type List Success
+2020-09-24 12:13:37.9275 INFO Get MaxID Success :access_type_master
+2020-09-24 12:13:40.4775 INFO Get Existing data Fail :access_type_master
+2020-09-24 12:13:40.6249 INFO Get access_type List Success
+2020-09-24 12:13:45.2447 INFO Get MaxID Success :access_type_master
+2020-09-24 12:13:47.0788 INFO Get Existing data Success :access_type_master
+2020-09-24 12:14:39.1915 INFO Get access_type List Success
+2020-09-24 12:46:19.2934 INFO Get Report  Success
+2020-09-24 12:46:29.8312 INFO Get GetSeverList Success
+2020-09-24 12:46:44.6562 INFO Get GetSeverList Success
+2020-09-24 12:56:27.2099 INFO Sugarcanepurchase Get List Success
+2020-09-24 12:56:31.5093 INFO Get Party Master List Success
+2020-09-24 12:56:36.6475 INFO Get Party Master List Success
+2020-09-24 12:57:08.0909 INFO Get Party Master List Success
+2020-09-24 13:07:33.5657 INFO Sugarcanepurchase Get List Success
+2020-09-24 13:07:37.7482 INFO Get Party Master List Success
+2020-09-24 13:08:30.5565 INFO Sugarcanepurchase Get List Success
+2020-09-24 13:08:32.9849 INFO Get Party Master List Success
+2020-09-24 13:24:21.9393 INFO Get Party Master List Success
+2020-09-24 13:24:53.0164 INFO Get Party Master List Success
+2020-09-24 14:20:35.6402 INFO Get Party Master List Success
+2020-09-24 14:29:36.6732 INFO Get Party Type Master List Success
+2020-09-24 14:29:40.5750 INFO Sugarcanepurchase Get List Success
+2020-09-24 14:29:42.9301 INFO Get Party Master List Success
+2020-09-24 14:31:30.1931 INFO Sugarcanepurchase Get List Success
+2020-09-24 14:31:34.5652 INFO Get Party Master List Success
+2020-09-24 14:32:48.1124 INFO Sugarcanepurchase Get List Success
+2020-09-24 14:32:51.6532 INFO Get Party Master List Success
+2020-09-24 14:35:12.8239 INFO Sugarcanepurchase Get List Success
+2020-09-24 14:35:17.7943 INFO Get Party Master List Success
+2020-09-24 14:38:03.3598 INFO Sugarcanepurchase Get List Success
+2020-09-24 14:38:07.8549 INFO Get Party Master List Success
+2020-09-24 14:55:56.3624 INFO Get Users List Success
+2020-09-24 14:55:59.6736 INFO Get Users List Success
+2020-09-24 14:55:59.7869 INFO Org Get List Success
+2020-09-24 14:55:59.7869 INFO Get Role Level List Success
+2020-09-24 14:55:59.7869 INFO Get access_type List Success
+2020-09-24 14:55:59.8236 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 14:55:59.8316 INFO Get State List Success
+2020-09-24 14:55:59.8316 INFO Get Dept List Success
+2020-09-24 14:55:59.8316 INFO Get Users List Success
+2020-09-24 14:56:37.1398 INFO Get Existing data Fail :user_registration
+2020-09-24 14:57:17.9413 INFO Get Existing data Fail :user_registration
+2020-09-24 14:57:58.2857 INFO Get Division List Success
+2020-09-24 14:58:28.6836 INFO Insert User Success :0-Harinagar Sugar
+2020-09-24 14:58:28.7105 INFO Get Users List Success
+2020-09-24 15:01:32.5793 INFO Get Users List Success
+2020-09-24 15:01:32.5984 INFO Org Get List Success
+2020-09-24 15:01:32.5984 INFO Get Role Level List Success
+2020-09-24 15:01:32.5984 INFO Get access_type List Success
+2020-09-24 15:01:32.6174 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:01:32.6174 INFO Get State List Success
+2020-09-24 15:01:32.6174 INFO Get Dept List Success
+2020-09-24 15:01:32.6174 INFO Get Users List Success
+2020-09-24 15:01:51.7102 INFO Get Existing data Success :user_registration
+2020-09-24 15:02:04.3015 INFO Get Existing data Fail :user_registration
+2020-09-24 15:02:24.1996 INFO Get Existing data Fail :user_registration
+2020-09-24 15:02:39.2444 INFO Get Division List Success
+2020-09-24 15:02:50.6849 INFO Insert User Success :0-Harinagar Sugar Mill
+2020-09-24 15:02:50.7078 INFO Get Users List Success
+2020-09-24 15:06:27.0005 INFO Sugarcanepurchase Get List Success
+2020-09-24 15:06:28.8544 INFO Get Party Master List Success
+2020-09-24 15:06:32.0224 INFO Sugarcanepurchase Get List Success
+2020-09-24 15:06:34.2491 INFO Get Party Master List Success
+2020-09-24 15:12:52.6104 INFO Get Users List Success
+2020-09-24 15:12:55.1570 INFO Get Users List Success
+2020-09-24 15:12:55.2736 INFO Org Get List Success
+2020-09-24 15:12:55.2736 INFO Get Role Level List Success
+2020-09-24 15:12:55.2736 INFO Get access_type List Success
+2020-09-24 15:12:55.3120 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:12:55.3170 INFO Get State List Success
+2020-09-24 15:12:55.3170 INFO Get Dept List Success
+2020-09-24 15:12:55.3170 INFO Get Users List Success
+2020-09-24 15:12:55.3319 INFO Get User Success :8-Harinagar Sugar Mill
+2020-09-24 15:12:55.3319 INFO Get Division List Success
+2020-09-24 15:13:06.6384 INFO Get Users List Success
+2020-09-24 15:13:10.3156 INFO Get Users List Success
+2020-09-24 15:13:10.3450 INFO Org Get List Success
+2020-09-24 15:13:10.3470 INFO Get Role Level List Success
+2020-09-24 15:13:10.3470 INFO Get access_type List Success
+2020-09-24 15:13:10.3661 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:13:10.3661 INFO Get State List Success
+2020-09-24 15:13:10.3661 INFO Get Dept List Success
+2020-09-24 15:13:10.3661 INFO Get Users List Success
+2020-09-24 15:13:10.3661 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:13:10.3661 INFO Get Division List Success
+2020-09-24 15:14:15.6774 INFO Org Get List Success
+2020-09-24 15:14:15.6774 INFO Get Role Level List Success
+2020-09-24 15:14:15.6774 INFO Get access_type List Success
+2020-09-24 15:14:15.6960 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:14:15.6960 INFO Get State List Success
+2020-09-24 15:14:15.6960 INFO Get Dept List Success
+2020-09-24 15:14:15.6960 INFO Get Users List Success
+2020-09-24 15:14:36.5164 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:14:50.7920 INFO Get Division List Success
+2020-09-24 15:16:27.1762 INFO Org Get List Success
+2020-09-24 15:16:27.1762 INFO Get Role Level List Success
+2020-09-24 15:16:27.1762 INFO Get access_type List Success
+2020-09-24 15:16:27.1965 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:16:27.1965 INFO Get State List Success
+2020-09-24 15:16:27.1965 INFO Get Dept List Success
+2020-09-24 15:16:27.1965 INFO Get Users List Success
+2020-09-24 15:21:07.7527 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:21:07.7547 INFO Get Division List Success
+2020-09-24 15:21:10.7815 INFO Org Get List Success
+2020-09-24 15:21:10.7815 INFO Get Role Level List Success
+2020-09-24 15:21:10.7851 INFO Get access_type List Success
+2020-09-24 15:21:10.8075 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:21:10.8075 INFO Get State List Success
+2020-09-24 15:21:10.8075 INFO Get Dept List Success
+2020-09-24 15:21:10.8075 INFO Get Users List Success
+2020-09-24 15:21:10.8075 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:21:10.8158 INFO Get Division List Success
+2020-09-24 15:27:34.4148 INFO Org Get List Success
+2020-09-24 15:27:34.4148 INFO Get Role Level List Success
+2020-09-24 15:27:34.4148 INFO Get access_type List Success
+2020-09-24 15:27:34.4374 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:27:34.4406 INFO Get State List Success
+2020-09-24 15:27:34.4406 INFO Get Dept List Success
+2020-09-24 15:27:34.4406 INFO Get Users List Success
+2020-09-24 15:27:34.4406 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:27:34.4406 INFO Get Division List Success
+2020-09-24 15:35:42.1564 INFO Get Users List Success
+2020-09-24 15:35:46.3168 INFO Get Users List Success
+2020-09-24 15:35:46.4107 INFO Org Get List Success
+2020-09-24 15:35:46.4107 INFO Get Role Level List Success
+2020-09-24 15:35:46.4107 INFO Get access_type List Success
+2020-09-24 15:35:46.4500 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:35:46.4500 INFO Get State List Success
+2020-09-24 15:35:46.4569 INFO Get Dept List Success
+2020-09-24 15:35:46.4569 INFO Get Users List Success
+2020-09-24 15:35:46.4569 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:35:46.4743 INFO Get Division List Success
+2020-09-24 15:37:42.7664 INFO Org Get List Success
+2020-09-24 15:37:42.7664 INFO Get Role Level List Success
+2020-09-24 15:37:42.7703 INFO Get access_type List Success
+2020-09-24 15:37:42.7872 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:37:42.7872 INFO Get State List Success
+2020-09-24 15:37:42.7872 INFO Get Dept List Success
+2020-09-24 15:37:42.7872 INFO Get Users List Success
+2020-09-24 15:37:42.7872 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:38:01.3019 INFO Get Division List Success
+2020-09-24 15:38:08.5773 INFO Update User Success :7-Harinagar Sugar
+2020-09-24 15:38:08.6025 INFO Get Users List Success
+2020-09-24 15:38:13.8707 INFO Get Users List Success
+2020-09-24 15:38:13.9135 INFO Org Get List Success
+2020-09-24 15:38:13.9135 INFO Get Role Level List Success
+2020-09-24 15:38:13.9135 INFO Get access_type List Success
+2020-09-24 15:38:13.9373 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:38:13.9373 INFO Get State List Success
+2020-09-24 15:38:13.9407 INFO Get Dept List Success
+2020-09-24 15:38:13.9407 INFO Get Users List Success
+2020-09-24 15:38:13.9407 INFO Get User Success :8-Harinagar Sugar Mill
+2020-09-24 15:38:13.9407 INFO Get Division List Success
+2020-09-24 15:38:21.2985 INFO Update User Success :8-Harinagar Sugar1
+2020-09-24 15:38:21.3187 INFO Get Users List Success
+2020-09-24 15:38:23.8620 INFO Get Users List Success
+2020-09-24 15:38:23.8789 INFO Org Get List Success
+2020-09-24 15:38:23.8789 INFO Get Role Level List Success
+2020-09-24 15:38:23.8789 INFO Get access_type List Success
+2020-09-24 15:38:23.9056 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:38:23.9056 INFO Get State List Success
+2020-09-24 15:38:23.9093 INFO Get Dept List Success
+2020-09-24 15:38:23.9093 INFO Get Users List Success
+2020-09-24 15:38:23.9093 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:38:23.9093 INFO Get Division List Success
+2020-09-24 15:38:33.6816 INFO Get Users List Success
+2020-09-24 15:38:37.6998 INFO Get Users List Success
+2020-09-24 15:38:37.7181 INFO Org Get List Success
+2020-09-24 15:38:37.7181 INFO Get Role Level List Success
+2020-09-24 15:38:37.7231 INFO Get access_type List Success
+2020-09-24 15:38:37.7393 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:38:37.7393 INFO Get State List Success
+2020-09-24 15:38:37.7393 INFO Get Dept List Success
+2020-09-24 15:38:37.7393 INFO Get Users List Success
+2020-09-24 15:38:37.7393 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:38:37.7393 INFO Get Division List Success
+2020-09-24 15:38:40.0224 INFO Get Users List Success
+2020-09-24 15:38:43.5081 INFO Get Users List Success
+2020-09-24 15:38:43.5273 INFO Org Get List Success
+2020-09-24 15:38:43.5343 INFO Get Role Level List Success
+2020-09-24 15:38:43.5343 INFO Get access_type List Success
+2020-09-24 15:38:43.5523 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:38:43.5523 INFO Get State List Success
+2020-09-24 15:38:43.5523 INFO Get Dept List Success
+2020-09-24 15:38:43.5523 INFO Get Users List Success
+2020-09-24 15:38:43.5523 INFO Get User Success :7-Harinagar Sugar
+2020-09-24 15:38:43.5523 INFO Get Division List Success
+2020-09-24 15:38:50.6759 INFO Update User Success :7-Harinagar Sugar Mill
+2020-09-24 15:38:50.6943 INFO Get Users List Success
+2020-09-24 15:38:54.0551 INFO Get Users List Success
+2020-09-24 15:38:54.0740 INFO Org Get List Success
+2020-09-24 15:38:54.0740 INFO Get Role Level List Success
+2020-09-24 15:38:54.0740 INFO Get access_type List Success
+2020-09-24 15:38:54.0945 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:38:54.0945 INFO Get State List Success
+2020-09-24 15:38:54.0974 INFO Get Dept List Success
+2020-09-24 15:38:54.0974 INFO Get Users List Success
+2020-09-24 15:38:54.0974 INFO Get User Success :7-Harinagar Sugar Mill
+2020-09-24 15:38:54.0974 INFO Get Division List Success
+2020-09-24 15:41:33.3443 INFO Update User Success :7-Harinagar Sugar
+2020-09-24 15:41:33.3686 INFO Get Users List Success
+2020-09-24 15:41:50.9368 INFO Sugarcanepurchase Get List Success
+2020-09-24 15:41:54.5695 INFO Get Party Master List Success
+2020-09-24 15:46:05.4670 INFO Sugarcanepurchase Get List Success
+2020-09-24 15:46:07.8098 INFO Get Party Master List Success
+2020-09-24 15:51:46.0079 INFO Get Party Master List Success
+2020-09-24 15:54:18.6137 INFO Get Party Master List Success
+2020-09-24 15:54:30.4029 INFO Sugarcanepurchase Get List Success
+2020-09-24 15:54:51.1119 INFO Get Party Master List Success
+2020-09-24 15:56:11.6611 INFO Get Users List Success
+2020-09-24 15:56:14.4332 INFO Get Users List Success
+2020-09-24 15:56:14.5273 INFO Org Get List Success
+2020-09-24 15:56:14.5273 INFO Get Role Level List Success
+2020-09-24 15:56:14.5273 INFO Get access_type List Success
+2020-09-24 15:56:14.5663 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:56:14.5663 INFO Get State List Success
+2020-09-24 15:56:14.5663 INFO Get Dept List Success
+2020-09-24 15:56:14.5663 INFO Get Users List Success
+2020-09-24 15:56:30.8355 INFO Get Existing data Fail :user_registration
+2020-09-24 15:57:01.6394 INFO Get Existing data Fail :user_registration
+2020-09-24 15:57:15.7192 INFO Get Division List Success
+2020-09-24 15:59:16.7804 INFO Insert User Success :0-Admin
+2020-09-24 15:59:19.2895 INFO Get Users List Success
+2020-09-24 15:59:22.6835 INFO Get Users List Success
+2020-09-24 15:59:22.7189 INFO Org Get List Success
+2020-09-24 15:59:22.7189 INFO Get Role Level List Success
+2020-09-24 15:59:22.7232 INFO Get access_type List Success
+2020-09-24 15:59:22.7395 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 15:59:22.7395 INFO Get State List Success
+2020-09-24 15:59:22.7395 INFO Get Dept List Success
+2020-09-24 15:59:22.7395 INFO Get Users List Success
+2020-09-24 15:59:33.5920 INFO Get Users List Success
+2020-09-24 16:00:53.0593 INFO Get Users List Success
+2020-09-24 16:00:55.4170 INFO Get Users List Success
+2020-09-24 16:00:55.4363 INFO Org Get List Success
+2020-09-24 16:00:55.4363 INFO Get Role Level List Success
+2020-09-24 16:00:55.4363 INFO Get access_type List Success
+2020-09-24 16:00:55.4542 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:00:55.4570 INFO Get State List Success
+2020-09-24 16:00:55.4570 INFO Get Dept List Success
+2020-09-24 16:00:55.4570 INFO Get Users List Success
+2020-09-24 16:00:56.5618 INFO Get Users List Success
+2020-09-24 16:00:57.7376 INFO Get Users List Success
+2020-09-24 16:00:57.7575 INFO Org Get List Success
+2020-09-24 16:00:57.7575 INFO Get Role Level List Success
+2020-09-24 16:00:57.7575 INFO Get access_type List Success
+2020-09-24 16:00:57.7745 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:00:57.7745 INFO Get State List Success
+2020-09-24 16:00:57.7745 INFO Get Dept List Success
+2020-09-24 16:00:57.7745 INFO Get Users List Success
+2020-09-24 16:00:57.7895 INFO Get User Success :6-Charan
+2020-09-24 16:00:57.7895 INFO Get Division List Success
+2020-09-24 16:01:28.3305 INFO Org Get List Success
+2020-09-24 16:01:28.3325 INFO Get Role Level List Success
+2020-09-24 16:01:28.3325 INFO Get access_type List Success
+2020-09-24 16:01:28.3514 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:01:28.3514 INFO Get State List Success
+2020-09-24 16:01:28.3514 INFO Get Dept List Success
+2020-09-24 16:01:28.3514 INFO Get Users List Success
+2020-09-24 16:01:28.3514 INFO Get User Success :6-Charan
+2020-09-24 16:01:28.3514 INFO Get Division List Success
+2020-09-24 16:01:34.7702 INFO Get Users List Success
+2020-09-24 16:01:37.0620 INFO Get Users List Success
+2020-09-24 16:01:37.0872 INFO Org Get List Success
+2020-09-24 16:01:37.0872 INFO Get Role Level List Success
+2020-09-24 16:01:37.0872 INFO Get access_type List Success
+2020-09-24 16:01:37.1056 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:01:37.1056 INFO Get State List Success
+2020-09-24 16:01:37.1056 INFO Get Dept List Success
+2020-09-24 16:01:37.1056 INFO Get Users List Success
+2020-09-24 16:01:37.1128 INFO Get User Success :9-Admin
+2020-09-24 16:01:37.1128 INFO Get Division List Success
+2020-09-24 16:04:55.2743 INFO Get Users List Success
+2020-09-24 16:04:57.4519 INFO Get Users List Success
+2020-09-24 16:04:57.5446 INFO Org Get List Success
+2020-09-24 16:04:57.5446 INFO Get Role Level List Success
+2020-09-24 16:04:57.5509 INFO Get access_type List Success
+2020-09-24 16:04:57.5839 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:04:57.5839 INFO Get State List Success
+2020-09-24 16:04:57.5839 INFO Get Dept List Success
+2020-09-24 16:04:57.5839 INFO Get Users List Success
+2020-09-24 16:04:57.6038 INFO Get User Success :9-Admin
+2020-09-24 16:04:57.6038 INFO Get Division List Success
+2020-09-24 16:08:47.9831 INFO Get Users List Success
+2020-09-24 16:08:49.4020 INFO Get Users List Success
+2020-09-24 16:08:49.4282 INFO Org Get List Success
+2020-09-24 16:08:49.4282 INFO Get Role Level List Success
+2020-09-24 16:08:49.4282 INFO Get access_type List Success
+2020-09-24 16:08:49.4498 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:08:49.4498 INFO Get State List Success
+2020-09-24 16:08:49.4498 INFO Get Dept List Success
+2020-09-24 16:08:49.4563 INFO Get Users List Success
+2020-09-24 16:09:17.3471 INFO Get Existing data Fail :user_registration
+2020-09-24 16:09:40.7846 INFO Get Existing data Fail :user_registration
+2020-09-24 16:09:52.6131 INFO Get Division List Success
+2020-09-24 16:10:52.7179 INFO Insert User Success :0-Harinagar Dist
+2020-09-24 16:11:00.8548 INFO Get Users List Success
+2020-09-24 16:11:05.7113 INFO Get Users List Success
+2020-09-24 16:11:05.7307 INFO Org Get List Success
+2020-09-24 16:11:05.7307 INFO Get Role Level List Success
+2020-09-24 16:11:05.7307 INFO Get access_type List Success
+2020-09-24 16:11:05.7505 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:11:05.7529 INFO Get State List Success
+2020-09-24 16:11:05.7529 INFO Get Dept List Success
+2020-09-24 16:11:05.7529 INFO Get Users List Success
+2020-09-24 16:11:05.7529 INFO Get User Success :10-Harinagar Dist
+2020-09-24 16:11:05.7529 INFO Get Division List Success
+2020-09-24 16:11:17.4960 INFO Get Users List Success
+2020-09-24 16:11:21.7188 INFO Get Users List Success
+2020-09-24 16:11:21.7382 INFO Org Get List Success
+2020-09-24 16:11:21.7382 INFO Get Role Level List Success
+2020-09-24 16:11:21.7382 INFO Get access_type List Success
+2020-09-24 16:11:21.7645 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 16:11:21.7645 INFO Get State List Success
+2020-09-24 16:11:21.7645 INFO Get Dept List Success
+2020-09-24 16:11:21.7698 INFO Get Users List Success
+2020-09-24 16:11:21.7698 INFO Get User Success :9-Admin
+2020-09-24 16:11:21.7698 INFO Get Division List Success
+2020-09-24 16:12:52.1499 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:12:54.4330 INFO Get Party Master List Success
+2020-09-24 16:13:18.8086 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:13:21.3309 INFO Get Party Master List Success
+2020-09-24 16:13:24.2868 INFO Get Party Master List Success
+2020-09-24 16:20:20.7328 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:20:23.0933 INFO Get Party Master List Success
+2020-09-24 16:21:43.3152 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:21:45.8965 INFO Get Party Master List Success
+2020-09-24 16:22:11.3734 INFO Get Party Master List Success
+2020-09-24 16:46:43.0330 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:46:45.5286 INFO Get Party Master List Success
+2020-09-24 16:47:07.8190 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:47:10.6660 INFO Get Party Master List Success
+2020-09-24 16:49:34.4185 INFO Sugarcanepurchase Get List Success
+2020-09-24 16:49:36.6826 INFO Get Party Master List Success
+2020-09-24 17:11:06.5807 INFO Sugarcanepurchase Get List Success
+2020-09-24 17:11:12.0795 INFO Get Party Master List Success
+2020-09-24 17:12:17.8906 INFO Get MaxID Success :openingbalance
+2020-09-24 17:13:18.2105 INFO Get MaxID Success :openingbalance
+2020-09-24 17:13:34.5691 INFO Get MaxID Success :openingbalance
+2020-09-24 17:14:30.2761 INFO Get MaxID Success :openingbalance
+2020-09-24 17:14:39.1219 INFO Get MaxID Success :openingbalance
+2020-09-24 17:15:23.0173 INFO Get MaxID Success :openingbalance
+2020-09-24 17:15:26.8836 INFO Get MaxID Success :openingbalance
+2020-09-24 17:15:39.2169 INFO Get MaxID Success :openingbalance
+2020-09-24 17:16:04.1484 INFO Get MaxID Success :openingbalance
+2020-09-24 17:16:34.1856 INFO Get MaxID Success :openingbalance
+2020-09-24 17:16:46.0564 INFO Get Party Master List Success
+2020-09-24 17:16:54.0903 INFO Get Party Master List Success
+2020-09-24 17:17:10.3204 INFO Get Party Master List Success
+2020-09-24 17:33:25.2821 INFO Get Party Master List Success
+2020-09-24 17:33:47.6233 INFO Get Users List Success
+2020-09-24 17:33:49.3225 INFO Get Users List Success
+2020-09-24 17:33:49.4179 INFO Org Get List Success
+2020-09-24 17:33:49.4421 INFO Get Role Level List Success
+2020-09-24 17:33:49.4620 INFO Get access_type List Success
+2020-09-24 17:33:49.5043 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 17:33:49.5043 INFO Get State List Success
+2020-09-24 17:33:49.5268 INFO Get Dept List Success
+2020-09-24 17:33:49.5268 INFO Get Users List Success
+2020-09-24 17:38:00.3308 INFO Get Existing data Fail :user_registration
+2020-09-24 17:38:55.1832 INFO Sugarcanepurchase Get List Success
+2020-09-24 17:39:00.3437 INFO Get Party Master List Success
+2020-09-24 17:40:48.9360 INFO Get Users List Success
+2020-09-24 17:40:51.0104 INFO Get Users List Success
+2020-09-24 17:40:51.0311 INFO Org Get List Success
+2020-09-24 17:40:51.0381 INFO Get Role Level List Success
+2020-09-24 17:40:51.0381 INFO Get access_type List Success
+2020-09-24 17:40:51.0563 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 17:40:51.0563 INFO Get State List Success
+2020-09-24 17:40:51.0563 INFO Get Dept List Success
+2020-09-24 17:40:51.0563 INFO Get Users List Success
+2020-09-24 17:48:12.0309 INFO Sugarcanepurchase Get List Success
+2020-09-24 17:48:14.9359 INFO Get Party Master List Success
+2020-09-24 18:01:03.1104 INFO Get Party Type Master List Success
+2020-09-24 18:01:04.2356 INFO Get VAT Master List Success
+2020-09-24 18:01:05.7712 INFO Get VAT Master List Success
+2020-09-24 18:01:05.8202 INFO Get Party Type Master List Success
+2020-09-24 18:01:05.8202 INFO Get UOM List Success
+2020-09-24 18:01:05.8405 INFO Get Product Type Master List Success
+2020-09-24 18:01:05.8405 INFO Get VAT Type Master List Success
+2020-09-24 18:01:09.6592 INFO Get Party Master List Success
+2020-09-24 18:02:36.2153 INFO Get Users List Success
+2020-09-24 18:02:37.6618 INFO Get Users List Success
+2020-09-24 18:02:37.6799 INFO Org Get List Success
+2020-09-24 18:02:37.6799 INFO Get Role Level List Success
+2020-09-24 18:02:37.6799 INFO Get access_type List Success
+2020-09-24 18:02:37.7065 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-09-24 18:02:37.7065 INFO Get State List Success
+2020-09-24 18:02:37.7065 INFO Get Dept List Success
+2020-09-24 18:02:37.7065 INFO Get Users List Success
+2020-09-24 18:26:16.0896 INFO Sugarcanepurchase Get List Success
+2020-09-24 18:26:20.6192 INFO Get Party Master List Success

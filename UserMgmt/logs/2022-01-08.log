@@ -1,0 +1,274 @@
+2022-01-08 12:52:35.1714 INFO Get User Success :167-Police Patna
+2022-01-08 12:52:35.3669 INFO Get Product Type Master List Success
+2022-01-08 12:52:35.4397 INFO Get User Success :police_Patna
+2022-01-08 12:53:05.2433 INFO Get Product Type Master List Success
+2022-01-08 12:53:05.3101 INFO Get User Success :police_Patna
+2022-01-08 12:53:14.9373 INFO Get Thana List Success
+2022-01-08 12:53:15.2369 INFO Get Product Type Master List Success
+2022-01-08 12:53:15.3038 INFO Get User Success :police_Patna
+2022-01-08 12:53:29.9688 INFO Get Product Type Master List Success
+2022-01-08 12:53:30.0372 INFO Get User Success :police_Patna
+2022-01-08 12:55:03.3568 INFO Get Product Type Master List Success
+2022-01-08 12:55:03.4266 INFO Get User Success :police_Patna
+2022-01-08 12:55:06.3610 INFO Get Product Type Master List Success
+2022-01-08 12:55:06.7522 INFO Get User Success :police_Patna
+2022-01-08 12:55:17.3206 INFO Get Product Type Master List Success
+2022-01-08 12:55:17.3984 INFO Get User Success :police_Patna
+2022-01-08 12:55:20.6650 INFO Get Product Type Master List Success
+2022-01-08 12:55:20.7328 INFO Get User Success :police_Patna
+2022-01-08 12:55:48.3092 INFO Get Product Type Master List Success
+2022-01-08 12:55:48.3780 INFO Get User Success :police_Patna
+2022-01-08 12:55:53.6044 INFO Get Product Type Master List Success
+2022-01-08 12:55:53.6722 INFO Get User Success :police_Patna
+2022-01-08 12:56:02.2754 INFO Get Product Type Master List Success
+2022-01-08 12:56:02.3483 INFO Get User Success :police_Patna
+2022-01-08 16:14:07.9981 INFO Get User Success :44-Administrator
+2022-01-08 16:14:16.4416 INFO Get User Success :44-Administrator
+2022-01-08 16:14:29.5077 INFO Get Product Type Master List Success
+2022-01-08 16:14:29.5785 INFO Get User Success :Admin
+2022-01-08 16:14:33.4503 INFO Get Dept List Success
+2022-01-08 16:14:33.5513 INFO Get Product Type Master List Success
+2022-01-08 16:14:33.6216 INFO Get User Success :Admin
+2022-01-08 16:14:42.8966 INFO Get Users List Success
+2022-01-08 16:14:42.9916 INFO Get Product Type Master List Success
+2022-01-08 16:14:43.4787 INFO Get User Success :Admin
+2022-01-08 16:14:49.6420 INFO Org Get List Success
+2022-01-08 16:14:49.8864 INFO Get Party Master List Success
+2022-01-08 16:14:49.9522 INFO Get Role Level List Success
+2022-01-08 16:14:50.0154 INFO Get access_type List Success
+2022-01-08 16:14:50.1472 INFO Get view_Role_master List Success
+2022-01-08 16:14:50.2746 INFO Get State List Success
+2022-01-08 16:14:50.3374 INFO Get Dept List Success
+2022-01-08 16:14:50.4062 INFO Get Emp List Success
+2022-01-08 16:14:56.1518 INFO Get Users List Success
+2022-01-08 16:14:56.2182 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2022-01-08 16:14:56.2870 INFO Get Division List Success
+2022-01-08 16:14:56.7203 INFO Get Product Type Master List Success
+2022-01-08 16:14:56.7868 INFO Get User Success :Admin
+2022-01-08 16:16:16.4389 INFO Update User Success :97-Harinagar Sugar Mills Ltd
+2022-01-08 16:16:25.8107 INFO Get Users List Success
+2022-01-08 16:16:25.8756 INFO Get Product Type Master List Success
+2022-01-08 16:16:25.9414 INFO Get User Success :Admin
+2022-01-08 16:16:47.6908 INFO Get Users List Success
+2022-01-08 16:16:54.9109 INFO Org Get List Success
+2022-01-08 16:16:55.3376 INFO Get Party Master List Success
+2022-01-08 16:16:55.4042 INFO Get Role Level List Success
+2022-01-08 16:16:55.4650 INFO Get access_type List Success
+2022-01-08 16:16:55.5269 INFO Get view_Role_master List Success
+2022-01-08 16:16:55.5897 INFO Get State List Success
+2022-01-08 16:16:55.6545 INFO Get Dept List Success
+2022-01-08 16:16:55.7164 INFO Get Emp List Success
+2022-01-08 16:17:01.1405 INFO Get Users List Success
+2022-01-08 16:17:01.2021 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2022-01-08 16:17:01.2650 INFO Get Division List Success
+2022-01-08 16:17:01.3926 INFO Get Product Type Master List Success
+2022-01-08 16:17:01.4574 INFO Get User Success :Admin
+2022-01-08 16:17:12.7892 INFO Get Users List Success
+2022-01-08 16:17:12.8531 INFO Get Product Type Master List Success
+2022-01-08 16:17:12.9189 INFO Get User Success :Admin
+2022-01-08 16:17:17.0375 INFO Get Users List Success
+2022-01-08 16:17:17.0999 INFO Get Product Type Master List Success
+2022-01-08 16:17:17.1648 INFO Get User Success :Admin
+2022-01-08 16:17:23.4488 INFO Org Get List Success
+2022-01-08 16:17:23.5690 INFO Get Party Master List Success
+2022-01-08 16:17:23.6319 INFO Get Role Level List Success
+2022-01-08 16:17:23.6947 INFO Get access_type List Success
+2022-01-08 16:17:23.7575 INFO Get view_Role_master List Success
+2022-01-08 16:17:23.8203 INFO Get State List Success
+2022-01-08 16:17:23.8822 INFO Get Dept List Success
+2022-01-08 16:17:23.9460 INFO Get Emp List Success
+2022-01-08 16:17:28.5166 INFO Get Users List Success
+2022-01-08 16:17:28.5790 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-08 16:17:28.6433 INFO Get Division List Success
+2022-01-08 16:17:28.7691 INFO Get Product Type Master List Success
+2022-01-08 16:17:28.8377 INFO Get User Success :Admin
+2022-01-08 16:17:51.6368 INFO Get Users List Success
+2022-01-08 16:17:51.7112 INFO Get Product Type Master List Success
+2022-01-08 16:17:51.7786 INFO Get User Success :Admin
+2022-01-08 16:19:13.7734 INFO Org Get List Success
+2022-01-08 16:19:13.8899 INFO Get Party Master List Success
+2022-01-08 16:19:13.9537 INFO Get Role Level List Success
+2022-01-08 16:19:14.0265 INFO Get access_type List Success
+2022-01-08 16:19:14.0934 INFO Get view_Role_master List Success
+2022-01-08 16:19:14.1559 INFO Get State List Success
+2022-01-08 16:19:14.2178 INFO Get Dept List Success
+2022-01-08 16:19:14.2796 INFO Get Emp List Success
+2022-01-08 16:19:22.0404 INFO Get Users List Success
+2022-01-08 16:19:22.3625 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-08 16:19:22.4243 INFO Get Division List Success
+2022-01-08 16:19:22.5509 INFO Get Product Type Master List Success
+2022-01-08 16:19:22.6187 INFO Get User Success :Admin
+2022-01-08 16:25:19.0579 INFO Get Users List Success
+2022-01-08 16:25:19.1207 INFO Get Product Type Master List Success
+2022-01-08 16:25:19.1856 INFO Get User Success :Admin
+2022-01-08 16:25:33.7182 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:25:33.8728 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:25:36.4030 INFO Get Product Type Master List Success
+2022-01-08 16:25:36.5681 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:25:39.1642 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:25:40.6992 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:25:43.4568 INFO Get Product Type Master List Success
+2022-01-08 16:25:43.5785 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:25:46.4788 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:26:18.2631 INFO Get Pass List Success
+2022-01-08 16:26:18.3269 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:26:19.7600 INFO Get Product Type Master List Success
+2022-01-08 16:26:19.8965 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:26:55.6614 INFO Get Pass List Success
+2022-01-08 16:26:55.7232 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:38:11.5406 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:38:11.7692 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:38:17.7134 INFO Get Product Type Master List Success
+2022-01-08 16:38:17.8600 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:38:20.5076 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:38:22.0143 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:38:24.6421 INFO Get Product Type Master List Success
+2022-01-08 16:38:24.7668 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:38:34.2279 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:39:01.2110 INFO Get Pass List Success
+2022-01-08 16:39:01.2762 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:39:03.2111 INFO Get Product Type Master List Success
+2022-01-08 16:39:03.3916 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:39:31.1152 INFO Get Pass List Success
+2022-01-08 16:39:31.1823 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:40:09.3230 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:40:09.3901 INFO Get Dispach Master List Success
+2022-01-08 16:40:33.1658 INFO Get VAT Master List Success
+2022-01-08 16:40:34.9826 INFO Get Pass List Success
+2022-01-08 16:40:37.2645 INFO Get Product Type Master List Success
+2022-01-08 16:40:37.4031 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:40:43.5198 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:40:43.5806 INFO Get Dispach Master List Success
+2022-01-08 16:41:14.1435 INFO Get VAT Master List Success
+2022-01-08 16:41:15.5746 INFO Get Pass List Success
+2022-01-08 16:42:06.8151 INFO Get Product Type Master List Success
+2022-01-08 16:42:06.9268 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:42:31.0197 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:42:47.1668 INFO Get Pass List Success
+2022-01-08 16:42:47.2274 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:42:52.2583 INFO Get Product Type Master List Success
+2022-01-08 16:42:52.4270 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:43:15.7977 INFO Get Pass List Success
+2022-01-08 16:43:15.8568 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:43:22.4608 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:43:22.5199 INFO Get Dispach Master List Success
+2022-01-08 16:43:23.9421 INFO Get VAT Master List Success
+2022-01-08 16:43:24.3139 INFO Get Pass List Success
+2022-01-08 16:43:26.9904 INFO Get Product Type Master List Success
+2022-01-08 16:43:27.1015 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:43:30.3918 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:43:56.3985 INFO Get Pass List Success
+2022-01-08 16:43:56.4582 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:44:25.8403 INFO Get Product Type Master List Success
+2022-01-08 16:44:25.9510 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:44:53.9644 INFO Get Pass List Success
+2022-01-08 16:44:54.0232 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:45:28.0928 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:45:28.1523 INFO Get Dispach Master List Success
+2022-01-08 16:45:29.9424 INFO Get VAT Master List Success
+2022-01-08 16:45:30.3113 INFO Get Pass List Success
+2022-01-08 16:45:32.8053 INFO Get Product Type Master List Success
+2022-01-08 16:45:32.9218 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:45:36.8918 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:46:01.1291 INFO Get Pass List Success
+2022-01-08 16:46:01.1880 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-08 16:46:02.9956 INFO Get Product Type Master List Success
+2022-01-08 16:46:03.1115 INFO Get User Success :newswadeshi_dis
+2022-01-08 16:46:17.6564 INFO Get User Success :44-Administrator
+2022-01-08 16:46:17.8287 INFO Get User Success :44-Administrator
+2022-01-08 16:46:19.7200 INFO Get Product Type Master List Success
+2022-01-08 16:46:19.7796 INFO Get User Success :Admin
+2022-01-08 16:46:23.4962 INFO Get Dept List Success
+2022-01-08 16:46:23.5647 INFO Get Product Type Master List Success
+2022-01-08 16:46:23.6257 INFO Get User Success :Admin
+2022-01-08 16:46:29.0479 INFO Get Users List Success
+2022-01-08 16:46:29.1206 INFO Get Product Type Master List Success
+2022-01-08 16:46:29.1815 INFO Get User Success :Admin
+2022-01-08 16:46:32.8873 INFO Org Get List Success
+2022-01-08 16:46:32.9977 INFO Get Party Master List Success
+2022-01-08 16:46:33.0573 INFO Get Role Level List Success
+2022-01-08 16:46:33.1332 INFO Get access_type List Success
+2022-01-08 16:46:33.2111 INFO Get view_Role_master List Success
+2022-01-08 16:46:33.2771 INFO Get State List Success
+2022-01-08 16:46:33.3345 INFO Get Dept List Success
+2022-01-08 16:46:33.3975 INFO Get Emp List Success
+2022-01-08 16:46:39.6604 INFO Get Users List Success
+2022-01-08 16:46:39.7476 INFO Get User Fail :97--Field not found in row: designation_code
+2022-01-08 16:46:39.8075 INFO Get Division List Success
+2022-01-08 16:46:39.9254 INFO Get Product Type Master List Success
+2022-01-08 16:46:39.9845 INFO Get User Success :Admin
+2022-01-08 16:48:03.0447 INFO Get Users List Success
+2022-01-08 16:48:03.1016 INFO Get Product Type Master List Success
+2022-01-08 16:48:03.1604 INFO Get User Success :Admin
+2022-01-08 17:07:23.8279 INFO Get User Success :44-Administrator
+2022-01-08 17:07:27.7432 INFO Get User Success :44-Administrator
+2022-01-08 17:09:00.6498 INFO Get Product Type Master List Success
+2022-01-08 17:09:00.7175 INFO Get User Success :Admin
+2022-01-08 17:09:05.7265 INFO Get Dept List Success
+2022-01-08 17:09:05.8242 INFO Get Product Type Master List Success
+2022-01-08 17:09:05.8878 INFO Get User Success :Admin
+2022-01-08 17:09:10.6664 INFO Get Users List Success
+2022-01-08 17:09:10.7393 INFO Get Product Type Master List Success
+2022-01-08 17:09:10.8021 INFO Get User Success :Admin
+2022-01-08 17:09:26.1030 INFO Org Get List Success
+2022-01-08 17:09:26.2277 INFO Get Party Master List Success
+2022-01-08 17:09:26.2905 INFO Get Role Level List Success
+2022-01-08 17:09:26.3543 INFO Get access_type List Success
+2022-01-08 17:09:26.4212 INFO Get view_Role_master List Success
+2022-01-08 17:09:26.4830 INFO Get State List Success
+2022-01-08 17:09:26.5424 INFO Get Dept List Success
+2022-01-08 17:09:26.6025 INFO Get Emp List Success
+2022-01-08 17:09:32.3177 INFO Get Users List Success
+2022-01-08 17:09:32.3795 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-08 17:09:32.4413 INFO Get Division List Success
+2022-01-08 17:09:32.5627 INFO Get Product Type Master List Success
+2022-01-08 17:09:32.6291 INFO Get User Success :Admin
+2022-01-08 17:10:53.4049 INFO Get Users List Success
+2022-01-08 17:10:53.4665 INFO Get Product Type Master List Success
+2022-01-08 17:10:53.5305 INFO Get User Success :Admin
+2022-01-08 17:11:02.5443 INFO Get Product Type Master List Success
+2022-01-08 17:11:02.6081 INFO Get User Success :Admin
+2022-01-08 17:11:32.1032 INFO Get Product Type Master List Success
+2022-01-08 17:11:32.1677 INFO Get User Success :Admin
+2022-01-08 17:11:38.1082 INFO Get Dept List Success
+2022-01-08 17:11:38.1681 INFO Get Product Type Master List Success
+2022-01-08 17:11:38.2314 INFO Get User Success :Admin
+2022-01-08 17:11:44.5254 INFO Get Users List Success
+2022-01-08 17:11:44.5852 INFO Get Product Type Master List Success
+2022-01-08 17:11:44.6485 INFO Get User Success :Admin
+2022-01-08 17:11:50.6963 INFO Org Get List Success
+2022-01-08 17:11:50.8608 INFO Get Party Master List Success
+2022-01-08 17:11:50.9196 INFO Get Role Level List Success
+2022-01-08 17:11:50.9785 INFO Get access_type List Success
+2022-01-08 17:11:51.0383 INFO Get view_Role_master List Success
+2022-01-08 17:11:51.1041 INFO Get State List Success
+2022-01-08 17:11:51.1630 INFO Get Dept List Success
+2022-01-08 17:11:51.2268 INFO Get Emp List Success
+2022-01-08 17:11:56.5340 INFO Get Users List Success
+2022-01-08 17:11:56.5939 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-08 17:11:56.6627 INFO Get Division List Success
+2022-01-08 17:11:56.7804 INFO Get Product Type Master List Success
+2022-01-08 17:11:56.8422 INFO Get User Success :Admin
+2022-01-08 17:16:22.9309 INFO Get User Success :44-Administrator
+2022-01-08 17:16:23.1680 INFO Get User Success :44-Administrator
+2022-01-08 17:16:26.5790 INFO Get Product Type Master List Success
+2022-01-08 17:16:26.6470 INFO Get User Success :Admin
+2022-01-08 17:16:32.1696 INFO Get Dept List Success
+2022-01-08 17:16:32.2683 INFO Get Product Type Master List Success
+2022-01-08 17:16:32.3294 INFO Get User Success :Admin
+2022-01-08 17:16:35.8789 INFO Get Users List Success
+2022-01-08 17:16:35.9586 INFO Get Product Type Master List Success
+2022-01-08 17:16:36.0210 INFO Get User Success :Admin
+2022-01-08 17:16:39.7264 INFO Org Get List Success
+2022-01-08 17:16:39.8394 INFO Get Party Master List Success
+2022-01-08 17:16:39.9006 INFO Get Role Level List Success
+2022-01-08 17:16:39.9607 INFO Get access_type List Success
+2022-01-08 17:16:40.0282 INFO Get view_Role_master List Success
+2022-01-08 17:16:40.0922 INFO Get State List Success
+2022-01-08 17:16:40.1512 INFO Get Dept List Success
+2022-01-08 17:16:40.2166 INFO Get Emp List Success
+2022-01-08 17:16:43.7963 INFO Get Users List Success
+2022-01-08 17:16:43.8570 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-08 17:16:43.9186 INFO Get Division List Success
+2022-01-08 17:16:44.0313 INFO Get Product Type Master List Success
+2022-01-08 17:16:44.3795 INFO Get User Success :Admin

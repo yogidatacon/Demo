@@ -1,0 +1,1296 @@
+2020-11-19 11:50:06.2470 INFO Get Party Type Master List Success
+2020-11-19 11:50:08.5001 INFO Get VAT Type Master List Success
+2020-11-19 11:50:18.6527 INFO Get Existing data Fail :VAT_Type_Master
+2020-11-19 11:50:22.6085 INFO Get Existing data Fail :VAT_Type_Master
+2020-11-19 11:50:22.8324 INFO Insert VAT Type Master Success :VAT01-vat01-22001: value too long for type character varying(3)
+2020-11-19 11:51:36.3503 INFO Insert VAT Type Master Success :VAT01-vat01-22001: value too long for type character varying(3)
+2020-11-19 11:51:45.4971 INFO Get Existing data Fail :VAT_Type_Master
+2020-11-19 11:51:45.9412 INFO Insert VAT Type Master Success :v01-vat01
+2020-11-19 11:51:45.9618 INFO Get VAT Type Master List Success
+2020-11-19 12:05:40.9324 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:43.6337 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:43.6382 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:47.5527 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:47.5577 INFO Get RR List Success
+2020-11-19 12:05:47.5577 INFO Get RR List Success
+2020-11-19 12:05:47.5750 INFO Get Balance Request Pass Success
+2020-11-19 12:05:47.5750 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:49.9577 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:49.9631 INFO Get Pass List Success
+2020-11-19 12:05:49.9631 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:51.7599 INFO Get User Success :17-Bond Officer
+2020-11-19 12:05:51.7977 INFO Get VAT Master List Success
+2020-11-19 12:05:51.7977 INFO Get Pass List Success
+2020-11-19 12:05:51.8153 INFO Get User Success :17-Bond Officer
+2020-11-19 12:08:30.3250 INFO Pass Issued Fail:0-H02 - Exception while reading from stream
+2020-11-19 12:11:44.0897 INFO Get User Success :17-Bond Officer
+2020-11-19 12:11:46.3425 INFO Get User Success :17-Bond Officer
+2020-11-19 12:11:46.3425 INFO Get User Success :17-Bond Officer
+2020-11-19 12:11:49.2495 INFO Get User Success :17-Bond Officer
+2020-11-19 12:11:49.2756 INFO Get Pass List Success
+2020-11-19 12:11:49.3187 INFO Get User Success :17-Bond Officer
+2020-11-19 12:11:50.8922 INFO Get User Success :17-Bond Officer
+2020-11-19 12:11:50.9191 INFO Get VAT Master List Success
+2020-11-19 12:11:50.9191 INFO Get Pass List Success
+2020-11-19 12:11:50.9400 INFO Get User Success :17-Bond Officer
+2020-11-19 12:14:32.6002 INFO Pass Issued Fail:0-H02 - Exception while reading from stream
+2020-11-19 12:15:53.7464 INFO Get User Success :17-Bond Officer
+2020-11-19 12:15:56.6621 INFO Get User Success :17-Bond Officer
+2020-11-19 12:15:56.6661 INFO Get User Success :17-Bond Officer
+2020-11-19 12:15:58.2661 INFO Get User Success :17-Bond Officer
+2020-11-19 12:15:58.2661 INFO Get Pass List Success
+2020-11-19 12:15:58.3240 INFO Get User Success :17-Bond Officer
+2020-11-19 12:15:59.5029 INFO Get User Success :17-Bond Officer
+2020-11-19 12:15:59.5345 INFO Get VAT Master List Success
+2020-11-19 12:15:59.5425 INFO Get Pass List Success
+2020-11-19 12:15:59.5425 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:09.2271 INFO Pass Issued Sucess:0-H02
+2020-11-19 12:17:10.1753 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:10.1753 INFO Get Pass List Success
+2020-11-19 12:17:10.1823 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:12.9432 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:12.9472 INFO Get VAT Master List Success
+2020-11-19 12:17:12.9472 INFO Get Pass List Success
+2020-11-19 12:17:12.9472 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:18.9608 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:18.9638 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:22.6012 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:22.6063 INFO Get RR List Success
+2020-11-19 12:17:22.6063 INFO Get RR List Success
+2020-11-19 12:17:22.6063 INFO Get Balance Request Pass Success
+2020-11-19 12:17:22.6197 INFO Get User Success :17-Bond Officer
+2020-11-19 12:17:40.9924 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:43.9171 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:43.9171 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:47.0633 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:47.0633 INFO Get RR List Success
+2020-11-19 12:17:47.0633 INFO Get RR List Success
+2020-11-19 12:17:47.0633 INFO Get Balance Request Pass Success
+2020-11-19 12:17:47.0736 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:48.7516 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:48.7516 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:53.3967 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:53.3967 INFO Get RR List Success
+2020-11-19 12:17:53.4017 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:17:55.5675 INFO Get RR List Success
+2020-11-19 12:17:55.5675 INFO Get Balance Request Pass Success
+2020-11-19 12:18:03.0347 INFO Get RR List Success
+2020-11-19 12:18:03.0347 INFO Get Balance Request Pass Success
+2020-11-19 12:18:17.7171 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:17.7171 INFO Get Pass List Success
+2020-11-19 12:18:17.7171 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:23.7425 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:23.7455 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:27.4782 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:27.4782 INFO Get RR List Success
+2020-11-19 12:18:27.4782 INFO Get RR List Success
+2020-11-19 12:18:27.4782 INFO Get Balance Request Pass Success
+2020-11-19 12:18:27.4782 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:30.2472 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:30.2472 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:34.3072 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:34.3072 INFO Get RR List Success
+2020-11-19 12:18:34.3072 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:18:35.8265 INFO Get RR List Success
+2020-11-19 12:18:35.8265 INFO Get Balance Request Pass Success
+2020-11-19 12:19:13.7188 INFO Get RR List Success
+2020-11-19 12:19:13.7188 INFO Get Balance Request Pass Success
+2020-11-19 12:19:15.6109 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:19:15.6109 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:19:18.5942 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:19:22.3722 INFO Get RR List Success
+2020-11-19 12:19:32.5876 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:19:40.1110 INFO Get RR List Success
+2020-11-19 12:21:29.0207 INFO Get RR List Success
+2020-11-19 12:22:02.7562 INFO Get Balance Request Pass Success
+2020-11-19 12:22:08.1841 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:08.1841 INFO Get Pass List Success
+2020-11-19 12:22:08.1841 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:16.1008 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:16.1249 INFO Get VAT Master List Success
+2020-11-19 12:22:16.1249 INFO Get Pass List Success
+2020-11-19 12:22:16.1249 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:18.2607 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:18.2607 INFO Get Pass List Success
+2020-11-19 12:22:18.2607 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:19.0319 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:19.0319 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:22.5106 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:22.5106 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:28.5351 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:28.5351 INFO Get Pass List Success
+2020-11-19 12:22:28.5405 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:31.5668 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:31.5748 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:35.6213 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:35.6213 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:22:50.5928 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:32.6454 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:36.3668 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:40.2796 INFO Get VAT Master List Success
+2020-11-19 12:23:40.2796 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:54.3380 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:54.3380 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:59.8988 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:23:59.9058 INFO Get RR List Success
+2020-11-19 12:23:59.9058 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:24:02.0400 INFO Get RR List Success
+2020-11-19 12:24:04.9806 INFO Get RR List Success
+2020-11-19 12:24:04.9806 INFO Get Balance Request Pass Success
+2020-11-19 12:24:10.6812 INFO Get RR List Success
+2020-11-19 12:24:10.6812 INFO Get Balance Request Pass Success
+2020-11-19 12:24:18.4768 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:24:18.4794 INFO Get Pass List Success
+2020-11-19 12:24:18.4794 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:24:23.1261 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:24:25.4052 INFO Get VAT Master List Success
+2020-11-19 12:24:25.4052 INFO Get Pass List Success
+2020-11-19 12:24:25.4052 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:24:58.5837 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:25:29.2132 INFO Get VAT Master List Success
+2020-11-19 12:25:29.2132 INFO Get Pass List Success
+2020-11-19 12:25:29.2132 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:25:51.0568 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:25:52.0385 INFO Get VAT Master List Success
+2020-11-19 12:25:52.0405 INFO Get Pass List Success
+2020-11-19 12:25:52.0405 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:26:02.4871 INFO Pass Insertion Sucess:0-
+2020-11-19 12:26:02.5113 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:26:02.5113 INFO Get Pass List Success
+2020-11-19 12:26:02.5113 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:26:06.6956 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:26:08.8752 INFO Get VAT Master List Success
+2020-11-19 12:26:08.8752 INFO Get Pass List Success
+2020-11-19 12:26:08.8752 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:26:22.8953 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:26:25.0928 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:26:25.0928 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:26:26.1657 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:26:26.1657 INFO Get Pass List Success
+2020-11-19 12:26:26.1657 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:26:29.4311 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:26:29.4311 INFO Get VAT Master List Success
+2020-11-19 12:26:29.4311 INFO Get Pass List Success
+2020-11-19 12:26:29.4311 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:27:23.2273 INFO Pass Issued Sucess:0-D01
+2020-11-19 12:27:23.2549 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:27:23.2549 INFO Get Pass List Success
+2020-11-19 12:27:23.2621 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:27:25.9096 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:27:25.9096 INFO Get VAT Master List Success
+2020-11-19 12:27:25.9172 INFO Get Pass List Success
+2020-11-19 12:27:25.9172 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:27:57.7371 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:29:21.0922 INFO Get VAT Master List Success
+2020-11-19 12:29:21.0922 INFO Get Pass List Success
+2020-11-19 12:29:21.0922 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:29:49.6117 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:16.5947 INFO Get VAT Master List Success
+2020-11-19 12:30:16.5947 INFO Get Pass List Success
+2020-11-19 12:30:16.5947 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:34.8611 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:34.8611 INFO Get Pass List Success
+2020-11-19 12:30:34.8611 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:36.2206 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:39.1718 INFO Get VAT Master List Success
+2020-11-19 12:30:39.1718 INFO Get Pass List Success
+2020-11-19 12:30:39.1718 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:50.7018 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:50.7018 INFO Get Pass List Success
+2020-11-19 12:30:50.7018 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:51.6790 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:51.6829 INFO Get VAT Master List Success
+2020-11-19 12:30:51.6829 INFO Get Pass List Success
+2020-11-19 12:30:51.6829 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:57.6294 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:57.6294 INFO Get Pass List Success
+2020-11-19 12:30:57.6344 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:59.8365 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:30:59.8395 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:31:05.3581 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:31:05.3581 INFO Get RR List Success
+2020-11-19 12:31:05.3581 INFO Get RR List Success
+2020-11-19 12:31:05.3581 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 12:31:19.7840 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:22.3730 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:22.3730 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:26.5953 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:26.5953 INFO Get RR List Success
+2020-11-19 12:31:26.5953 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:28.8837 INFO Get RR List Success
+2020-11-19 12:31:31.4774 INFO Get RR List Success
+2020-11-19 12:31:31.4789 INFO Get Balance Request Pass Success
+2020-11-19 12:31:34.1239 INFO Get RR List Success
+2020-11-19 12:31:34.1239 INFO Get Balance Request Pass Success
+2020-11-19 12:31:37.5247 INFO Get RR List Success
+2020-11-19 12:31:37.5261 INFO Get Balance Request Pass Success
+2020-11-19 12:31:42.8518 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:42.8547 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:48.0763 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:31:48.0763 INFO Get VAT Master List Success
+2020-11-19 12:31:48.0763 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 12:46:41.7464 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:46:45.7633 INFO Sugarcanepurchase Get List Success
+2020-11-19 12:46:45.7633 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:46:45.8079 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:46:47.8113 INFO MIR GetList Sucess
+2020-11-19 12:46:47.8113 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:46:47.8440 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:46:52.4922 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:46:52.4972 INFO Get Party Master List Success
+2020-11-19 12:46:52.4972 INFO Get VAT Master List Success
+2020-11-19 12:46:52.5132 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:49:21.6297 INFO MIR GetList Sucess
+2020-11-19 12:49:21.6297 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:49:21.6346 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:49:23.2413 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:49:23.2435 INFO Get Party Master List Success
+2020-11-19 12:49:23.2435 INFO Get VAT Master List Success
+2020-11-19 12:49:41.1524 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:49:47.8565 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:49:47.8565 INFO Get Party Master List Success
+2020-11-19 12:49:47.8565 INFO Get VAT Master List Success
+2020-11-19 12:50:30.1287 INFO MIR GetPassDetails Sucess
+2020-11-19 12:50:30.1287 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:50:38.2862 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:50:38.2862 INFO Get Party Master List Success
+2020-11-19 12:50:38.2933 INFO Get VAT Master List Success
+2020-11-19 12:54:14.1906 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:54:17.5082 INFO Sugarcanepurchase Get List Success
+2020-11-19 12:54:17.5113 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:54:17.5494 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:54:18.9027 INFO MIR GetList Sucess
+2020-11-19 12:54:18.9027 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:54:18.9176 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:54:20.4519 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 12:54:20.4519 INFO Get Party Master List Success
+2020-11-19 12:54:20.4649 INFO Get VAT Master List Success
+2020-11-19 12:54:26.8204 INFO MIR GetPassDetails Sucess
+2020-11-19 12:54:26.8334 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:01:26.6986 INFO MIR GetList Sucess
+2020-11-19 13:01:26.6986 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:01:26.6986 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:01:27.5867 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:01:27.5887 INFO Get Party Master List Success
+2020-11-19 13:01:27.5887 INFO Get VAT Master List Success
+2020-11-19 13:01:27.5887 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:01:43.0762 INFO MIR GetList Sucess
+2020-11-19 13:01:43.0762 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:01:43.0762 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:05.8048 INFO MIR GetList Sucess
+2020-11-19 13:02:05.8071 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:05.8071 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:08.6680 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:08.6680 INFO Get Party Master List Success
+2020-11-19 13:02:08.6680 INFO Get VAT Master List Success
+2020-11-19 13:02:20.6796 INFO MIR GetPassDetails Sucess
+2020-11-19 13:02:20.6825 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:52.9981 INFO MIR Insertion Sucess:2-H02
+2020-11-19 13:02:53.0298 INFO MIR GetList Sucess
+2020-11-19 13:02:53.0298 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:53.0298 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:56.2697 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:02:56.2697 INFO Get Party Master List Success
+2020-11-19 13:02:56.2747 INFO Get VAT Master List Success
+2020-11-19 13:02:56.2747 INFO MIR GetPassDetails Sucess
+2020-11-19 13:02:56.2747 INFO MIR GetDetails Sucess
+2020-11-19 13:02:56.2747 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:03.4288 INFO MIR GetList Sucess
+2020-11-19 13:03:03.4318 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:03.4318 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:04.2500 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:04.2500 INFO Get Party Master List Success
+2020-11-19 13:03:04.2500 INFO Get VAT Master List Success
+2020-11-19 13:03:04.2500 INFO MIR GetPassDetails Sucess
+2020-11-19 13:03:04.2500 INFO MIR GetDetails Sucess
+2020-11-19 13:03:04.2620 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:06.1247 INFO MIR Update Success:H02-1_2
+2020-11-19 13:03:06.1516 INFO MIR GetList Sucess
+2020-11-19 13:03:06.1516 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:06.1516 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:03:56.0345 INFO Get User Success :17-Bond Officer
+2020-11-19 13:03:59.8835 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:03:59.8866 INFO Get User Success :17-Bond Officer
+2020-11-19 13:03:59.8866 INFO Get User Success :17-Bond Officer
+2020-11-19 13:04:00.8119 INFO MIR GetList Sucess
+2020-11-19 13:04:00.8119 INFO Get User Success :17-Bond Officer
+2020-11-19 13:04:00.8119 INFO Get User Success :17-Bond Officer
+2020-11-19 13:04:02.9458 INFO Get User Success :17-Bond Officer
+2020-11-19 13:04:02.9484 INFO Get Party Master List Success
+2020-11-19 13:04:02.9484 INFO Get VAT Master List Success
+2020-11-19 13:04:02.9484 INFO MIR GetPassDetails Sucess
+2020-11-19 13:04:02.9484 INFO MIR GetDetails Sucess
+2020-11-19 13:04:02.9484 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:31.1739 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:35.3081 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:14:35.3081 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:35.3506 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:38.0485 INFO Get Party Master List Success
+2020-11-19 13:14:38.0485 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:38.0777 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:14:38.1166 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:39.6928 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:14:39.6928 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:39.6978 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:40.5619 INFO Get Party Master List Success
+2020-11-19 13:14:40.5619 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:40.5619 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:14:40.5745 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:44.5666 INFO Sugarcanepurchase Approved By Bond Officer Sucess:3-H02
+2020-11-19 13:14:44.6168 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:14:44.6228 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:44.6228 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:48.2421 INFO Get Party Master List Success
+2020-11-19 13:14:48.2451 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:48.2451 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:14:48.2451 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:50.6539 INFO MIR GetList Sucess
+2020-11-19 13:14:50.6539 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:50.6668 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:52.3401 INFO Get User Success :17-Bond Officer
+2020-11-19 13:14:52.3401 INFO Get Party Master List Success
+2020-11-19 13:14:52.3401 INFO Get VAT Master List Success
+2020-11-19 13:14:52.3529 INFO MIR GetPassDetails Sucess
+2020-11-19 13:14:52.3529 INFO MIR GetDetails Sucess
+2020-11-19 13:14:52.3529 INFO Get User Success :17-Bond Officer
+2020-11-19 13:17:51.2380 INFO MIR Approve Sucess:2
+2020-11-19 13:17:51.2618 INFO MIR GetList Sucess
+2020-11-19 13:17:51.2618 INFO Get User Success :17-Bond Officer
+2020-11-19 13:17:51.2618 INFO Get User Success :17-Bond Officer
+2020-11-19 13:18:02.4178 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:18:05.5357 INFO Sugarcanepurchase Get List Success
+2020-11-19 13:18:05.5357 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:18:05.5427 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:18:06.4803 INFO MIR GetList Sucess
+2020-11-19 13:18:06.4803 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:18:06.4803 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:18:07.6536 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 13:18:07.6536 INFO Get Party Master List Success
+2020-11-19 13:18:07.6536 INFO Get VAT Master List Success
+2020-11-19 13:18:07.6536 INFO MIR GetPassDetails Sucess
+2020-11-19 13:18:07.6536 INFO Get User Success :16-Harinagar Sugar
+2020-11-19 14:18:57.1575 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:18:59.8336 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:18:59.8745 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:01.7171 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:01.7171 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:05.4148 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:05.4625 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:05.5800 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:19:05.5800 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:08.1225 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:08.1225 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:12.0724 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:12.0724 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:14.6869 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:14.7156 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:14.7156 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:15.9026 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:15.9223 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:15.9223 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:26.5939 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:26.6194 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:26.6194 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:19:26.6364 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:27.5320 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:27.5320 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:28.5751 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:28.6340 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.0912 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.1062 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:19:29.1062 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.5215 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.5215 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.8788 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.9014 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:29.9158 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:19:29.9158 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:30.6189 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:30.6189 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:34.8680 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:34.8710 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:43.2659 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:19:43.2659 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:20:54.2878 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:20:54.2914 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:28.3072 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:28.3072 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:30.1428 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:30.1700 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:30.1700 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:35.2042 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:35.3048 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:21:35.3228 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:14.7039 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:14.7039 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:36.4481 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:36.4481 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:39.3872 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:39.3872 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:41.5446 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:41.5446 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:46.7674 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:46.7674 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:50.1411 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:53.5950 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:22:53.5950 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:48.6981 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:54.2682 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:54.2682 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:57.1845 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:57.1845 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:59.8473 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:59.8687 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:23:59.8687 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:23.4326 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:23.4326 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:34.8084 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:34.8084 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:39.1265 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:39.1265 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:40.5445 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:40.5637 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:40.5637 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:43.2084 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:24:43.2264 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:24:43.2294 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:25:28.8805 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:25:28.8805 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:09.8027 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:09.8027 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:11.4720 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:11.4720 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:12.3452 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:14.5912 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:14.6055 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:26:14.6055 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:17.2864 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:17.3112 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:18.5544 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:18.5574 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:19.7045 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:19.7315 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:19.7315 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:20.5533 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:20.5706 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:26:20.5736 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:21.9037 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:21.9037 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:23.2368 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:23.2528 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:26:23.2528 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:24.6833 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:24.6833 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:26.1955 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:26:26.1985 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:13.8926 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:13.8926 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:17.6873 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:17.7029 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:27:17.7029 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:20.4581 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:20.4662 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:21.8950 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:21.9140 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:21.9299 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:27:21.9319 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:22.8004 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:22.8489 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:27:22.8489 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:25.1832 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:25.1832 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:26.6202 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:26.6391 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:27:26.6391 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:27.8812 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:27.9061 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:27:27.9061 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:29.4565 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:29.4565 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:31.8003 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:31.8191 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:31.8351 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:27:31.8382 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:33.0670 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:33.0819 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:27:33.0819 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:34.0839 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:34.0919 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:35.6793 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:46.1634 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:27:46.1664 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:29.8301 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:29.8491 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:28:29.8491 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:31.3655 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:31.3804 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:28:31.3845 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:32.5172 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:32.5172 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:36.0516 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:36.0516 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:36.8394 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:36.8599 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:36.8838 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:28:36.8868 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:39.4281 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:39.4441 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:28:39.4441 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:47.4648 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:49.0703 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:50.4091 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:50.4091 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:52.5851 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:52.6066 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:53.5582 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:56.8028 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:56.8028 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:28:59.7535 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:29:01.1621 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:29:02.4889 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:29:02.4889 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:20.0227 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:20.0350 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:23.2966 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:23.2966 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:25.5820 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:25.6062 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:30:25.6062 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:34.1831 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:34.1831 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:34.8059 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:36.7201 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:36.7342 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:31:36.7342 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:37.4466 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:37.4466 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:31:37.4645 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:38.7222 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:31:41.0999 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:32:28.9784 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:32:33.4725 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:18.4006 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:24.8347 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:24.8775 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:25.8190 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:25.8310 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:26.3743 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:26.4142 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:26.4421 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:33:26.4421 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:26.9843 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:27.0059 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:33:27.0059 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:27.7755 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:28.5199 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:33.4641 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:33.4641 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:36.0011 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:36.9468 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:37.6137 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:37.6287 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:33:37.6287 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:38.1682 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:38.1831 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:33:38.1831 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:38.6048 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:38.6048 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:39.2063 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:39.2253 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:39.2283 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:40.1596 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:33:40.1596 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:49.9116 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:54.0607 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:54.0995 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:55.8220 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:55.8220 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:57.5161 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:57.5161 INFO Get VAT Master List Success
+2020-11-19 14:34:57.5296 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:58.3232 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:59.0955 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:59.7611 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:34:59.7861 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 14:34:59.7861 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:00.2649 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:00.2838 INFO Get VAT Master List Fail :42P01: relation "exciseautomation.form83" does not exist
+2020-11-19 14:35:00.2838 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:00.6349 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:00.6349 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:01.0801 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:01.1037 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 14:35:01.1037 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:31:39.1548 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:41.1903 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:41.1903 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:44.0429 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:44.0644 INFO Get Pass List Success
+2020-11-19 15:31:44.0969 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:46.5659 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:46.5659 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:57.1178 INFO Get User Success :17-Bond Officer
+2020-11-19 15:31:57.1227 INFO Get RR List Success
+2020-11-19 15:31:57.1227 INFO Get RR List Success
+2020-11-19 15:31:57.1412 INFO Get Balance Request Pass Success
+2020-11-19 15:31:57.1412 INFO Get User Success :17-Bond Officer
+2020-11-19 15:32:01.5573 INFO Get User Success :17-Bond Officer
+2020-11-19 15:32:01.5573 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:05.6738 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:09.5428 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:09.5428 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:31.7180 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:50.9683 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:53.0119 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:53.0429 INFO Get Pass List Success
+2020-11-19 15:33:53.1038 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:54.8521 INFO Get User Success :17-Bond Officer
+2020-11-19 15:33:54.8541 INFO Get User Success :17-Bond Officer
+2020-11-19 15:34:07.7344 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:09.8276 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:09.8276 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:13.3478 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:13.3829 INFO Get VAT Master List Success
+2020-11-19 15:34:13.3896 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:22.1717 INFO Pass Insertion Fail:6- - 22P02: invalid input syntax for integer: ""
+2020-11-19 15:34:25.3629 INFO Pass Insertion Sucess:6-D01
+2020-11-19 15:34:25.3840 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:25.3870 INFO Get Pass List Success
+2020-11-19 15:34:25.3870 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:28.6801 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:28.6850 INFO Get VAT Master List Success
+2020-11-19 15:34:28.6850 INFO Get Pass List Success
+2020-11-19 15:34:28.6850 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:35.2508 INFO Pass Insertion Sucess:0-
+2020-11-19 15:34:35.2700 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:34:35.2700 INFO Get Pass List Success
+2020-11-19 15:34:35.2760 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:35:45.5925 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:35:45.5925 INFO Get Pass List Success
+2020-11-19 15:35:45.6042 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:19.3420 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:19.3420 INFO Get VAT Master List Success
+2020-11-19 15:36:19.3420 INFO Get Pass List Success
+2020-11-19 15:36:19.3530 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:28.2007 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:28.2007 INFO Get Pass List Success
+2020-11-19 15:36:28.2007 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:30.2208 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:30.2208 INFO Get VAT Master List Success
+2020-11-19 15:36:30.2208 INFO Get Pass List Success
+2020-11-19 15:36:30.2377 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:34.3077 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:34.3077 INFO Get Pass List Success
+2020-11-19 15:36:34.3077 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:35.2212 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:36:35.2212 INFO Get VAT Master List Success
+2020-11-19 15:36:35.2286 INFO Get Pass List Success
+2020-11-19 15:36:35.2286 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:38:56.8581 INFO Get User Success :17-Bond Officer
+2020-11-19 15:38:59.6309 INFO Get User Success :17-Bond Officer
+2020-11-19 15:38:59.6346 INFO Get User Success :17-Bond Officer
+2020-11-19 15:39:01.6001 INFO Get User Success :17-Bond Officer
+2020-11-19 15:39:01.6413 INFO Get Pass List Success
+2020-11-19 15:39:01.6962 INFO Get User Success :17-Bond Officer
+2020-11-19 15:39:14.9215 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:39:17.4113 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:39:17.4113 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:39:18.9285 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:39:18.9315 INFO Get Pass List Success
+2020-11-19 15:39:18.9315 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:39:40.1820 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:39:40.1820 INFO Get Pass List Success
+2020-11-19 15:40:02.8064 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:07.6697 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:07.7177 INFO Get VAT Master List Success
+2020-11-19 15:40:07.7177 INFO Get Pass List Success
+2020-11-19 15:40:07.7289 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:28.1611 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:28.1668 INFO Get VAT Master List Success
+2020-11-19 15:40:28.1668 INFO Get Pass List Success
+2020-11-19 15:40:28.1668 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:29.7655 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:29.7655 INFO Get VAT Master List Success
+2020-11-19 15:40:29.7655 INFO Get Pass List Success
+2020-11-19 15:40:29.7755 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:29.9870 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:29.9870 INFO Get VAT Master List Success
+2020-11-19 15:40:29.9940 INFO Get Pass List Success
+2020-11-19 15:40:29.9940 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:30.1775 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:30.1815 INFO Get VAT Master List Success
+2020-11-19 15:40:30.1815 INFO Get Pass List Success
+2020-11-19 15:40:30.1815 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:31.4644 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:31.4644 INFO Get Pass List Success
+2020-11-19 15:40:35.6143 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:39.0020 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:40:39.0020 INFO Get VAT Master List Success
+2020-11-19 15:40:39.0099 INFO Get Pass List Success
+2020-11-19 15:40:39.0099 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:41:05.3096 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:04.7643 INFO Get VAT Master List Success
+2020-11-19 15:42:04.7643 INFO Get Pass List Success
+2020-11-19 15:42:04.7852 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:09.6633 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:09.6663 INFO Get Pass List Success
+2020-11-19 15:42:09.6663 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:10.6381 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:12.1790 INFO Get VAT Master List Success
+2020-11-19 15:42:12.1810 INFO Get Pass List Success
+2020-11-19 15:42:12.1810 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:21.1002 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:42:53.2217 INFO Get VAT Master List Success
+2020-11-19 15:42:53.2217 INFO Get Pass List Success
+2020-11-19 15:43:27.9316 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:43:30.9984 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:43:34.6226 INFO Get VAT Master List Success
+2020-11-19 15:43:34.6226 INFO Get Pass List Success
+2020-11-19 15:43:34.6226 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:43:51.2150 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:12.8736 INFO Get VAT Master List Success
+2020-11-19 15:44:12.8736 INFO Get Pass List Success
+2020-11-19 15:44:45.5471 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:48.7658 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:48.7658 INFO Get Pass List Success
+2020-11-19 15:44:48.7658 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:49.7169 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:49.7169 INFO Get VAT Master List Success
+2020-11-19 15:44:49.7169 INFO Get Pass List Success
+2020-11-19 15:44:49.7169 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:52.4121 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:52.4121 INFO Get Pass List Success
+2020-11-19 15:44:52.4171 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:55.1690 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:55.1690 INFO Get VAT Master List Success
+2020-11-19 15:44:55.1810 INFO Get Pass List Success
+2020-11-19 15:44:55.1810 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:57.9158 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:44:57.9158 INFO Get Pass List Success
+2020-11-19 15:44:57.9158 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:01.0043 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:01.0099 INFO Get VAT Master List Success
+2020-11-19 15:45:01.0099 INFO Get Pass List Success
+2020-11-19 15:45:17.1002 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:21.6127 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:21.6127 INFO Get Pass List Success
+2020-11-19 15:45:21.6127 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:23.0005 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:23.0095 INFO Get VAT Master List Success
+2020-11-19 15:45:23.0095 INFO Get Pass List Success
+2020-11-19 15:45:23.0095 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:45:58.4556 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:46:01.2114 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:46:01.2143 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:46:03.5853 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:46:03.5883 INFO Get Pass List Success
+2020-11-19 15:46:55.8160 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:46:59.0546 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:46:59.0596 INFO Get VAT Master List Success
+2020-11-19 15:46:59.0596 INFO Get Pass List Success
+2020-11-19 15:46:59.0596 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:01.4768 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:01.4788 INFO Get Pass List Success
+2020-11-19 15:47:01.4788 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:02.2179 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:02.2179 INFO Get VAT Master List Success
+2020-11-19 15:47:02.2179 INFO Get Pass List Success
+2020-11-19 15:47:02.2278 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:03.2883 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:03.2913 INFO Get Pass List Success
+2020-11-19 15:47:03.2913 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:04.6471 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:04.6511 INFO Get VAT Master List Success
+2020-11-19 15:47:04.6511 INFO Get Pass List Success
+2020-11-19 15:47:04.6511 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:05.7867 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:05.7867 INFO Get Pass List Success
+2020-11-19 15:47:05.7916 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:06.7975 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:06.7975 INFO Get VAT Master List Success
+2020-11-19 15:47:06.7975 INFO Get Pass List Success
+2020-11-19 15:47:06.8085 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:08.4577 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:08.4577 INFO Get Pass List Success
+2020-11-19 15:47:08.4637 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:10.1663 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:10.1663 INFO Get VAT Master List Success
+2020-11-19 15:47:10.1663 INFO Get Pass List Success
+2020-11-19 15:47:10.1663 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:47:22.1662 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:47:24.6504 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:47:24.6504 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:47:26.2432 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:47:26.2452 INFO Get Pass List Success
+2020-11-19 15:47:26.2452 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:47:27.6602 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:47:27.6602 INFO Get VAT Master List Success
+2020-11-19 15:47:27.6671 INFO Get Pass List Success
+2020-11-19 15:47:27.6671 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:48:04.9242 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:48:04.9242 INFO Get Pass List Success
+2020-11-19 15:48:04.9242 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:48:06.0608 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:48:06.0608 INFO Get VAT Master List Success
+2020-11-19 15:48:06.0608 INFO Get Pass List Success
+2020-11-19 15:48:06.0608 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-19 15:57:29.9125 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:35.7916 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:35.8308 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:36.9765 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:36.9864 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:39.2512 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:39.3257 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:57:39.3686 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 15:58:07.6359 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:00:25.3889 INFO Get VAT Master List Success
+2020-11-19 16:00:25.4058 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:01:00.6846 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:01:00.6989 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:01:04.3174 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:01:04.4654 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:02:45.1246 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:02:45.1246 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:02:47.6159 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:02:47.6376 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:09.6154 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:12.0122 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:12.0122 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:16.2581 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:16.2802 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:16.2802 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:21.8928 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:21.8928 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:23.3251 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:23.3477 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:23.3477 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:24.7090 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:24.7290 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:24.7290 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:52.2624 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:52.2624 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:03:54.2248 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:16.6986 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:16.6986 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:25.1522 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:25.1522 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:27.1963 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:27.2272 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:27.2302 INFO Get VAT Master List Success
+2020-11-19 16:05:27.2302 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:27.9476 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:27.9476 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:28.8331 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:28.8569 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:28.8569 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:32.3863 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:32.3863 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:33.4979 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:33.5967 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:33.6177 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:36.5027 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:36.5027 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:37.6959 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:37.7158 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:37.7158 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:05:44.3675 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:06:09.5170 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:06:16.7845 INFO Get VAT Master List Success
+2020-11-19 16:06:16.7845 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:06:23.1981 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:03.6975 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:03.6975 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:06.3439 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:06.3864 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:06.3864 INFO Get VAT Master List Success
+2020-11-19 16:07:06.4005 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:07.8700 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:07.8700 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:10.6352 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:30.7798 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:38.1440 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:38.1440 INFO Get VAT Master List Success
+2020-11-19 16:07:38.1440 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:39.7214 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:07:58.0144 INFO Get VAT Master List Success
+2020-11-19 16:07:58.0144 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:08:02.3961 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:08:15.7453 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:08:17.1374 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:08:17.1374 INFO Get VAT Master List Success
+2020-11-19 16:08:17.1374 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:08:18.2236 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:08:20.5312 INFO Get VAT Master List Success
+2020-11-19 16:09:13.7810 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:09:28.3127 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:10:18.2383 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:00.2009 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:04.2179 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:04.2590 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:07.1559 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:07.1559 INFO Get VAT Master List Success
+2020-11-19 16:12:07.1685 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:09.2831 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:15.6224 INFO Get VAT Master List Success
+2020-11-19 16:12:15.6384 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:18.5715 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:26.0346 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:12:44.3225 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:00.2047 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:00.2583 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 16:20:00.2616 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:02.0838 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:02.0882 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:18.3122 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:18.3122 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:21.5284 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:21.5284 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:37.1462 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:37.1874 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:37.1874 INFO Get VAT Master List Success
+2020-11-19 16:20:37.1874 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:39.3613 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:39.3613 INFO Get VAT Master List Success
+2020-11-19 16:20:39.3613 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:20:41.5113 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:29:52.8681 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:04.8319 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:04.8710 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:08.9257 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:08.9353 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:10.3617 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:10.3996 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:10.4056 INFO Get VAT Master List Success
+2020-11-19 16:30:10.4056 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:12.0674 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:12.0724 INFO Get VAT Master List Success
+2020-11-19 16:30:12.0724 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:14.3958 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:14.3958 INFO Get VAT Master List Success
+2020-11-19 16:30:14.4008 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:16.0798 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:16.0798 INFO Get VAT Master List Success
+2020-11-19 16:30:16.0798 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:18.4626 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:18.4920 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 16:30:18.4956 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:19.6709 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:19.6709 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:21.9687 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:21.9687 INFO Get VAT Master List Success
+2020-11-19 16:30:21.9687 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:23.2090 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:23.2090 INFO Get VAT Master List Success
+2020-11-19 16:30:23.2140 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:24.1190 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:24.1359 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 16:30:24.1359 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:26.5686 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:26.5718 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:27.9806 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:28.0340 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:28.0340 INFO Get VAT Master List Success
+2020-11-19 16:30:28.0732 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:30.3204 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:30.3332 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:31.4545 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:31.4787 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:31.4787 INFO Get VAT Master List Success
+2020-11-19 16:30:31.4787 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:32.6811 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:32.6811 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:34.2697 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:34.2916 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:34.2916 INFO Get VAT Master List Success
+2020-11-19 16:30:34.2916 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:36.9056 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:36.9056 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:38.6937 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:38.7179 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:38.7179 INFO Get VAT Master List Success
+2020-11-19 16:30:38.7179 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:45.8132 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:30:45.8132 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:19.2460 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:19.2460 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:20.7278 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:20.7498 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:20.7498 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:21.7207 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:21.7511 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:21.7511 INFO Get VAT Master List Success
+2020-11-19 16:31:21.7511 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:24.7857 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:24.7857 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:35.6699 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:35.6996 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:35.6996 INFO Get VAT Master List Success
+2020-11-19 16:31:35.6996 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:37.2214 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:37.2214 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:55.4793 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:55.4793 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:58.3343 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:58.3574 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:58.3574 INFO Get VAT Master List Success
+2020-11-19 16:31:58.3574 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:59.3455 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:31:59.3455 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:32:00.6166 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:32:00.6396 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:32:00.6396 INFO Get VAT Master List Success
+2020-11-19 16:32:00.6534 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:38.6663 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:38.6663 INFO Get VAT Master List Success
+2020-11-19 16:33:38.6840 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:40.6187 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:40.6187 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:42.0537 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:42.0966 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:42.0966 INFO Get VAT Master List Success
+2020-11-19 16:33:42.1065 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:43.0926 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:43.1095 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 16:33:43.1095 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:33:44.4269 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:34:10.5431 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:34:12.0673 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:34:43.3223 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:34:44.7820 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:34:44.7942 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:04.8159 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:04.8277 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:07.8175 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:08.7398 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:09.1378 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:09.1547 INFO Get Form84 List Fail :42P01: relation "exciseautomation.form84" does not exist
+2020-11-19 16:35:09.1547 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:09.5337 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:09.5337 INFO Get VAT Master List Success
+2020-11-19 16:35:09.5407 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:10.0910 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:10.0910 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:11.9349 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:11.9565 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:11.9565 INFO Get VAT Master List Success
+2020-11-19 16:35:11.9565 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:13.5620 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:13.5620 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:14.4857 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:14.5083 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:35:14.5113 INFO Get VAT Master List Success
+2020-11-19 16:35:14.5113 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 16:46:44.1821 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:47.6114 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:47.6562 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:48.6503 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:48.6503 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:50.2795 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:50.3783 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:46:50.4434 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 16:46:50.4500 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:18.6336 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:18.6539 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 16:47:49.0544 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:52.2047 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:52.2246 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:54.4303 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:54.4525 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:47:54.4790 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 16:47:59.5244 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:01.5687 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:01.5737 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:16.3570 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:16.4179 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:16.4461 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 16:48:24.1362 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:45.5645 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:48:45.5926 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 16:49:55.8636 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:50:03.7462 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:50:03.7462 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:50:06.4282 INFO Get User Success :87-Majhaulia Sugar Industry Pvt Ltd Distillery Div
+2020-11-19 16:50:06.4596 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 17:03:47.9884 INFO Get User Success :44-Administrator
+2020-11-19 17:04:08.9485 INFO Get Party Type Master List Success
+2020-11-19 17:04:08.9836 INFO Get User Success :44-Administrator
+2020-11-19 17:04:55.9549 INFO Get User Success :44-Administrator
+2020-11-19 17:06:03.8998 INFO Get User Success :44-Administrator
+2020-11-19 17:06:17.4196 INFO Get User Success :44-Administrator
+2020-11-19 17:06:20.0837 INFO Get User Success :44-Administrator
+2020-11-19 17:06:47.6299 INFO Get User Success :44-Administrator
+2020-11-19 17:07:15.2798 INFO Get User Success :44-Administrator
+2020-11-19 17:07:20.5990 INFO Get User Success :44-Administrator
+2020-11-19 17:07:23.3015 INFO Get User Success :44-Administrator
+2020-11-19 17:07:24.6528 INFO Get User Success :44-Administrator
+2020-11-19 17:07:26.3164 INFO Get User Success :44-Administrator
+2020-11-19 17:07:27.1267 INFO Get User Success :44-Administrator
+2020-11-19 17:07:28.1781 INFO Get User Success :44-Administrator
+2020-11-19 17:07:33.7848 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 17:07:33.8206 INFO Get User Success :44-Administrator
+2020-11-19 17:07:35.0264 INFO Get VAT Type Master List Success
+2020-11-19 17:07:35.0264 INFO Get User Success :44-Administrator
+2020-11-19 17:08:15.9674 INFO Get VAT Type Master List Success
+2020-11-19 17:08:15.9674 INFO Get User Success :44-Administrator
+2020-11-19 17:08:17.4404 INFO Get User Success :44-Administrator
+2020-11-19 17:08:18.9435 INFO Get User Success :44-Administrator
+2020-11-19 17:10:02.2553 INFO Get User Success :44-Administrator
+2020-11-19 17:10:04.7801 INFO Get Party Type Master List Success
+2020-11-19 17:10:04.8160 INFO Get User Success :44-Administrator
+2020-11-19 17:10:06.7125 INFO Get Party Master List Success
+2020-11-19 17:10:06.7125 INFO Get User Success :44-Administrator
+2020-11-19 17:10:08.0715 INFO Get Product Type Master List Success
+2020-11-19 17:10:08.0784 INFO Get User Success :44-Administrator
+2020-11-19 17:10:09.3004 INFO Get Product Master List Success
+2020-11-19 17:10:09.3086 INFO Get User Success :44-Administrator
+2020-11-19 17:10:10.3130 INFO Get UOM List Success
+2020-11-19 17:10:10.3130 INFO Get User Success :44-Administrator
+2020-11-19 17:10:11.1833 INFO Get User Success :44-Administrator
+2020-11-19 17:10:11.9927 INFO Get User Success :44-Administrator
+2020-11-19 17:10:12.8300 INFO Get VAT Type Master List Success
+2020-11-19 17:10:12.8300 INFO Get User Success :44-Administrator
+2020-11-19 17:10:13.7805 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 17:10:13.7904 INFO Get User Success :44-Administrator
+2020-11-19 17:10:14.5748 INFO Get User Success :44-Administrator
+2020-11-19 17:10:15.7618 INFO Get User Success :44-Administrator
+2020-11-19 17:10:16.8297 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 17:10:16.8297 INFO Get User Success :44-Administrator
+2020-11-19 17:10:17.5157 INFO Get VAT Type Master List Success
+2020-11-19 17:10:17.5157 INFO Get User Success :44-Administrator
+2020-11-19 17:10:17.9410 INFO Get User Success :44-Administrator
+2020-11-19 17:10:18.3578 INFO Get User Success :44-Administrator
+2020-11-19 17:10:18.8054 INFO Get UOM List Success
+2020-11-19 17:10:18.8084 INFO Get User Success :44-Administrator
+2020-11-19 17:10:19.2322 INFO Get Product Master List Success
+2020-11-19 17:10:19.2322 INFO Get User Success :44-Administrator
+2020-11-19 17:10:19.6828 INFO Get Product Type Master List Success
+2020-11-19 17:10:19.6828 INFO Get User Success :44-Administrator
+2020-11-19 17:10:20.1001 INFO Get Party Master List Success
+2020-11-19 17:10:20.1031 INFO Get User Success :44-Administrator
+2020-11-19 17:10:20.6035 INFO Get Party Type Master List Success
+2020-11-19 17:10:20.6035 INFO Get User Success :44-Administrator
+2020-11-19 17:10:21.7662 INFO Get User Success :44-Administrator
+2020-11-19 17:10:22.5827 INFO Get User Success :44-Administrator
+2020-11-19 17:31:32.7507 INFO Get User Success :44-Administrator
+2020-11-19 17:31:36.3474 INFO Get Party Type Master List Success
+2020-11-19 17:31:36.3841 INFO Get User Success :44-Administrator
+2020-11-19 17:31:37.7018 INFO Get Dispach Master List Success
+2020-11-19 17:33:56.8023 INFO Get User Success :44-Administrator
+2020-11-19 17:33:59.8174 INFO Get Party Type Master List Success
+2020-11-19 17:33:59.8533 INFO Get User Success :44-Administrator
+2020-11-19 17:34:02.1017 INFO Get Dispach Master List Success
+2020-11-19 17:34:02.1077 INFO Get User Success :44-Administrator
+2020-11-19 17:34:04.1628 INFO Get Dispach Master List Success
+2020-11-19 17:34:10.5464 INFO Get Dispach Master List Success
+2020-11-19 17:34:10.5940 INFO Get User Success :44-Administrator
+2020-11-19 17:46:27.2000 INFO Get User Success :44-Administrator
+2020-11-19 17:46:29.2282 INFO Get Party Type Master List Success
+2020-11-19 17:46:29.2658 INFO Get User Success :44-Administrator
+2020-11-19 17:46:31.5742 INFO Get Dispach Master List Success
+2020-11-19 17:46:31.5742 INFO Get User Success :44-Administrator
+2020-11-19 17:46:34.9042 INFO Get Dispach Master List Success
+2020-11-19 17:46:34.9392 INFO Get User Success :44-Administrator
+2020-11-19 17:47:48.1247 INFO Insert Party Master Success :1
+2020-11-19 17:47:48.1467 INFO Get Dispach Master List Success
+2020-11-19 17:47:48.1507 INFO Get User Success :44-Administrator
+2020-11-19 17:47:52.9652 INFO Get Dispach Master List Success
+2020-11-19 17:53:59.1891 INFO Get User Success :44-Administrator
+2020-11-19 17:54:01.8095 INFO Get Party Type Master List Success
+2020-11-19 17:54:01.8474 INFO Get User Success :44-Administrator
+2020-11-19 17:54:04.8620 INFO Get Dispach Master List Success
+2020-11-19 17:54:04.8684 INFO Get User Success :44-Administrator
+2020-11-19 17:54:06.5565 INFO Get Dispach Master List Success
+2020-11-19 17:54:10.4854 INFO Get Dispach Master List Success
+2020-11-19 17:54:10.5225 INFO Get User Success :44-Administrator
+2020-11-19 17:54:12.8041 INFO Get Dispach Master List Success
+2020-11-19 17:54:12.8071 INFO Get User Success :44-Administrator
+2020-11-19 17:54:24.2179 INFO Get Dispach Master List Success
+2020-11-19 17:54:29.7056 INFO Get User Success :44-Administrator
+2020-11-19 17:54:35.7132 INFO Get User Success :44-Administrator
+2020-11-19 17:54:37.0184 INFO Get Dispach Master List Success
+2020-11-19 17:54:37.0184 INFO Get User Success :44-Administrator
+2020-11-19 17:54:38.6267 INFO Get Dispach Master List Success
+2020-11-19 17:54:43.4823 INFO Get User Success :44-Administrator
+2020-11-19 17:55:04.1549 INFO Get User Success :44-Administrator
+2020-11-19 17:55:11.8195 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 17:55:11.8505 INFO Get Dispach Master List Success
+2020-11-19 17:55:11.8538 INFO Get User Success :44-Administrator
+2020-11-19 17:55:14.6342 INFO Get Dispach Master List Success
+2020-11-19 17:55:14.6576 INFO Get User Success :44-Administrator
+2020-11-19 17:55:46.5908 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 17:55:55.6597 INFO Get Dispach Master List Success
+2020-11-19 17:55:55.6597 INFO Get User Success :44-Administrator
+2020-11-19 17:55:58.1873 INFO Get Dispach Master List Success
+2020-11-19 17:55:58.2080 INFO Get User Success :44-Administrator
+2020-11-19 17:56:35.2253 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 17:56:35.2443 INFO Get Dispach Master List Success
+2020-11-19 17:56:35.2443 INFO Get User Success :44-Administrator
+2020-11-19 17:56:38.1270 INFO Get Dispach Master List Success
+2020-11-19 17:56:38.1485 INFO Get User Success :44-Administrator
+2020-11-19 17:57:09.9123 INFO Get User Success :44-Administrator
+2020-11-19 17:58:52.0085 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 17:58:52.0274 INFO Get Dispach Master List Success
+2020-11-19 17:58:52.0274 INFO Get User Success :44-Administrator
+2020-11-19 17:58:54.6826 INFO Get Dispach Master List Success
+2020-11-19 17:58:54.7018 INFO Get User Success :44-Administrator
+2020-11-19 17:58:58.1891 INFO Update Party Master Success :1-Export
+2020-11-19 17:58:58.2075 INFO Get Dispach Master List Success
+2020-11-19 17:58:58.2125 INFO Get User Success :44-Administrator
+2020-11-19 17:59:00.4067 INFO Get Dispach Master List Success
+2020-11-19 17:59:00.4284 INFO Get User Success :44-Administrator
+2020-11-19 17:59:03.2154 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 17:59:03.2337 INFO Get Dispach Master List Success
+2020-11-19 17:59:03.2337 INFO Get User Success :44-Administrator
+2020-11-19 17:59:04.6955 INFO Get Dispach Master List Success
+2020-11-19 17:59:04.7593 INFO Get User Success :44-Administrator
+2020-11-19 18:00:02.0406 INFO Get User Success :44-Administrator
+2020-11-19 18:00:05.2289 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 18:00:05.2504 INFO Get Dispach Master List Success
+2020-11-19 18:00:05.2504 INFO Get User Success :44-Administrator
+2020-11-19 18:00:16.9655 INFO Get Dispach Master List Success
+2020-11-19 18:00:16.9655 INFO Get User Success :44-Administrator
+2020-11-19 18:00:19.9689 INFO Get Dispach Master List Success
+2020-11-19 18:00:38.5978 INFO Get User Success :44-Administrator
+2020-11-19 18:00:44.6765 INFO Update Party Master Success :1-Export1
+2020-11-19 18:00:44.7141 INFO Get Dispach Master List Success
+2020-11-19 18:00:44.7141 INFO Get User Success :44-Administrator
+2020-11-19 18:00:47.4661 INFO Get Dispach Master List Success
+2020-11-19 18:00:47.4866 INFO Get User Success :44-Administrator
+2020-11-19 18:00:50.1275 INFO Update Party Master Success :1-Export
+2020-11-19 18:00:50.1459 INFO Get Dispach Master List Success
+2020-11-19 18:00:50.1459 INFO Get User Success :44-Administrator
+2020-11-19 18:00:51.6392 INFO Get Dispach Master List Success
+2020-11-19 18:00:51.6672 INFO Get User Success :44-Administrator
+2020-11-19 18:00:52.9871 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 18:00:53.0030 INFO Get Dispach Master List Success
+2020-11-19 18:00:53.0030 INFO Get User Success :44-Administrator
+2020-11-19 18:00:55.2423 INFO Get Dispach Master List Success
+2020-11-19 18:00:55.2619 INFO Get User Success :44-Administrator
+2020-11-19 18:03:00.8059 INFO Update Party Master Success :2-Pipe Line
+2020-11-19 18:03:00.8258 INFO Get Dispach Master List Success
+2020-11-19 18:03:00.8258 INFO Get User Success :44-Administrator
+2020-11-19 18:03:05.0661 INFO Get Dispach Master List Success
+2020-11-19 18:03:05.0848 INFO Get User Success :44-Administrator
+2020-11-19 18:03:06.6181 INFO Get Dispach Master List Success
+2020-11-19 18:03:06.6211 INFO Get User Success :44-Administrator
+2020-11-19 18:03:52.4888 INFO Get Dispach Master List Success
+2020-11-19 18:03:52.5521 INFO Get VAT Master List Fail :Input string was not in a correct format.
+2020-11-19 18:03:52.5635 INFO Get User Success :44-Administrator
+2020-11-19 18:08:38.9093 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:41.9092 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:41.9092 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:46.1061 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:48.9020 INFO Get RR List Success
+2020-11-19 18:08:48.9020 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:51.3106 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:51.3106 INFO Get Pass List Success
+2020-11-19 18:08:51.3303 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:56.7028 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:56.7028 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:59.7914 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:08:59.7914 INFO Get Dispach Master List Success
+2020-11-19 18:08:59.8529 INFO Get VAT Master List Success
+2020-11-19 18:08:59.8529 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:09:17.3092 INFO Get User Success :18-Harinagar Distillery
+2020-11-19 18:09:17.3092 INFO Get Dispach Master List Success
+2020-11-19 18:09:32.4972 INFO Get Dispach Master List Success

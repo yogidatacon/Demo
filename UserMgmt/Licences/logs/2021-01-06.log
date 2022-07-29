@@ -1,0 +1,342 @@
+2021-01-06 12:25:26.4454 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-06 12:25:26.5880 INFO Get User Success :harinagar_sgr
+2021-01-06 12:25:32.9755 INFO Get Report  Success
+2021-01-06 12:25:32.9755 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-06 12:25:33.0051 INFO Get Party Master List Success
+2021-01-06 12:25:33.0051 INFO Get User Success :harinagar_sgr
+2021-01-06 12:25:43.6852 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-06 12:25:43.6977 INFO Get User Success :newswadeshi_sgr
+2021-01-06 12:25:45.8287 INFO Get Report  Success
+2021-01-06 12:25:45.8320 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-06 12:25:45.8320 INFO Get Party Master List Success
+2021-01-06 12:25:45.8320 INFO Get User Success :newswadeshi_sgr
+2021-01-06 14:53:30.8809 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-06 14:53:30.9780 INFO Get User Success :harinagar_dis
+2021-01-06 14:53:36.6005 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-06 14:53:36.6316 INFO Get User Success :harinagar_dis
+2021-01-06 14:53:48.5677 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-06 14:53:48.6005 INFO Get Indent List Success
+2021-01-06 14:53:48.6161 INFO Get User Success :harinagar_dis
+2021-01-06 14:54:46.2163 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-06 14:54:46.2163 INFO Get Indent List Success
+2021-01-06 14:54:55.3733 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:54:55.3902 INFO Get User Success :riga_dis
+2021-01-06 14:54:58.3347 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:54:58.3347 INFO Get Indent List Success
+2021-01-06 14:54:58.3660 INFO Get User Success :riga_dis
+2021-01-06 14:55:00.3344 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:55:00.3344 INFO Get Indent List Success
+2021-01-06 14:55:00.4371 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:55:00.4443 INFO Get Allotment List Success
+2021-01-06 14:55:00.4719 INFO Get User Success :riga_dis
+2021-01-06 14:56:45.3868 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:56:45.3868 INFO Get Allotment List Success
+2021-01-06 14:56:45.4117 INFO Get User Success :riga_dis
+2021-01-06 14:57:45.0627 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:57:45.0627 INFO Get Allotment List Success
+2021-01-06 14:57:45.0856 INFO Get User Success :riga_dis
+2021-01-06 14:58:04.0411 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:04.0411 INFO Get Allotment List Success
+2021-01-06 14:58:04.0690 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:04.0690 INFO Get Indent List Success
+2021-01-06 14:58:04.0827 INFO Get User Success :riga_dis
+2021-01-06 14:58:05.6587 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:05.6607 INFO Get Indent List Success
+2021-01-06 14:58:05.7699 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:05.7875 INFO Get Party Master List Success
+2021-01-06 14:58:05.7875 INFO Get Product Master List Success
+2021-01-06 14:58:05.8074 INFO Get Indent Details Success
+2021-01-06 14:58:05.8466 INFO Get User Success :riga_dis
+2021-01-06 14:58:10.2104 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:10.2104 INFO Get Indent List Success
+2021-01-06 14:58:10.2104 INFO Get User Success :riga_dis
+2021-01-06 14:58:10.7491 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:10.7491 INFO Get Indent List Success
+2021-01-06 14:58:10.7779 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:10.7779 INFO Get Party Master List Success
+2021-01-06 14:58:10.7779 INFO Get Product Master List Success
+2021-01-06 14:58:10.7919 INFO Get User Success :riga_dis
+2021-01-06 14:58:54.7970 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:54.7970 INFO Get Allotment List Success
+2021-01-06 14:58:54.8121 INFO Get User Success :riga_dis
+2021-01-06 14:58:57.3100 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:57.3100 INFO Get Allotment List Success
+2021-01-06 14:58:57.3365 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 14:58:57.3365 INFO Get Allotment List Success
+2021-01-06 14:58:57.3480 INFO Get User Success :riga_dis
+2021-01-06 15:08:43.5593 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:08:43.5593 INFO Get Allotment List Success
+2021-01-06 15:08:43.6213 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:08:43.6213 INFO Get Party Master List Success
+2021-01-06 15:08:43.6312 INFO Get Indent List Success
+2021-01-06 15:08:43.6312 INFO Get User Success :riga_dis
+2021-01-06 15:08:48.3087 INFO Get Party Master List Success
+2021-01-06 15:10:05.5163 INFO Get Party Master List Success
+2021-01-06 15:11:59.0693 INFO Get Party Master List Success
+2021-01-06 15:12:59.2360 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:12:59.2392 INFO Get Allotment List Success
+2021-01-06 15:12:59.2392 INFO Get User Success :riga_dis
+2021-01-06 15:13:02.5063 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:13:02.5063 INFO Get Allotment List Success
+2021-01-06 15:13:02.5299 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:13:02.5299 INFO Get Party Master List Success
+2021-01-06 15:13:02.5299 INFO Get Indent List Success
+2021-01-06 15:14:26.6178 INFO Get Party Master List Success
+2021-01-06 15:14:26.6178 INFO Get Indent List Success
+2021-01-06 15:14:26.6298 INFO Get User Success :riga_dis
+2021-01-06 15:15:03.2558 INFO Get Party Master List Success
+2021-01-06 15:15:10.4819 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:15:10.4819 INFO Get Allotment List Success
+2021-01-06 15:15:10.4939 INFO Get User Success :riga_dis
+2021-01-06 15:15:11.1363 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:15:11.1363 INFO Get Allotment List Success
+2021-01-06 15:15:11.1628 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:15:11.1628 INFO Get Party Master List Success
+2021-01-06 15:15:11.1628 INFO Get Indent List Success
+2021-01-06 15:15:11.1767 INFO Get User Success :riga_dis
+2021-01-06 15:15:17.9969 INFO Get Party Master List Success
+2021-01-06 15:15:39.7282 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:15:39.7474 INFO Get RR List Success
+2021-01-06 15:15:39.7671 INFO Get User Success :riga_dis
+2021-01-06 15:15:44.0141 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:15:44.0269 INFO Get RR List Success
+2021-01-06 15:15:44.0467 INFO Get User Success :riga_dis
+2021-01-06 15:15:46.0675 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:15:46.0675 INFO Get RR Details Success
+2021-01-06 15:15:46.0904 INFO Get RR List Success
+2021-01-06 15:15:46.1271 INFO Get User Success :riga_dis
+2021-01-06 15:30:52.6856 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:30:52.7672 INFO Get User Success :riga_dis
+2021-01-06 15:31:04.6096 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:31:04.6530 INFO Get RR List Success
+2021-01-06 15:31:04.6934 INFO Get User Success :riga_dis
+2021-01-06 15:31:07.0859 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:31:07.1067 INFO Get RR List Success
+2021-01-06 15:31:07.1253 INFO Get User Success :riga_dis
+2021-01-06 15:32:19.8067 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:32:19.8067 INFO Get RR Details Success
+2021-01-06 15:32:19.8233 INFO Get RR List Success
+2021-01-06 15:32:19.8607 INFO Get User Success :riga_dis
+2021-01-06 15:32:25.7822 INFO Get MaxID Success :Module_master
+2021-01-06 15:32:25.8911 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:32:25.8981 INFO Get RR List Success
+2021-01-06 15:32:25.8981 INFO Get User Success :riga_dis
+2021-01-06 15:32:39.5503 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 15:32:39.5591 INFO Get User Success :sitedo
+2021-01-06 15:32:42.4105 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 15:32:42.4105 INFO Get RR List Success
+2021-01-06 15:32:42.4391 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 15:32:42.4460 INFO Get RR List Success
+2021-01-06 15:32:42.4460 INFO Get User Success :sitedo
+2021-01-06 15:32:45.0516 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 15:32:45.0516 INFO Get RR Details Success
+2021-01-06 15:32:45.0664 INFO Get RR List Success
+2021-01-06 15:32:45.0664 INFO Get User Success :sitedo
+2021-01-06 15:33:51.8010 INFO RR Approved by Assistant Commissioner  Sucess:1-
+2021-01-06 15:33:51.8372 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 15:33:51.8372 INFO Get RR List Success
+2021-01-06 15:33:51.8525 INFO Get User Success :sitedo
+2021-01-06 15:40:29.9797 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-06 15:40:30.0491 INFO Get User Success :majhaulia_dis
+2021-01-06 15:40:45.8573 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-06 15:40:45.9076 INFO Get Indent List Success
+2021-01-06 15:40:45.9518 INFO Get User Success :majhaulia_dis
+2021-01-06 15:40:47.4995 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-06 15:40:47.4995 INFO Get Indent List Success
+2021-01-06 15:40:47.6011 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-06 15:40:47.6011 INFO Get Allotment List Success
+2021-01-06 15:40:47.6178 INFO Get User Success :majhaulia_dis
+2021-01-06 15:40:49.2901 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-06 15:40:49.2901 INFO Get Allotment List Success
+2021-01-06 15:40:57.5385 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:40:57.5525 INFO Get User Success :riga_dis
+2021-01-06 15:41:00.2264 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:00.2264 INFO Get Indent List Success
+2021-01-06 15:41:00.2584 INFO Get User Success :riga_dis
+2021-01-06 15:41:02.5999 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:02.5999 INFO Get Indent List Success
+2021-01-06 15:41:02.6239 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:02.6239 INFO Get Allotment List Success
+2021-01-06 15:41:02.6470 INFO Get User Success :riga_dis
+2021-01-06 15:41:05.2795 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:05.2795 INFO Get Allotment List Success
+2021-01-06 15:41:05.3836 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:05.3836 INFO Get Party Master List Success
+2021-01-06 15:41:05.3836 INFO Get Indent List Success
+2021-01-06 15:41:05.4046 INFO Get User Success :riga_dis
+2021-01-06 15:41:12.9931 INFO Get Party Master List Success
+2021-01-06 15:41:22.0742 INFO Insert Allotment Success :-RDD
+2021-01-06 15:41:22.1128 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:22.1158 INFO Get Allotment List Success
+2021-01-06 15:41:22.1158 INFO Get User Success :riga_dis
+2021-01-06 15:41:24.6979 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:24.6979 INFO Get Allotment List Success
+2021-01-06 15:41:24.7240 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:24.7240 INFO Get Party Master List Success
+2021-01-06 15:41:24.7240 INFO Get Indent List Success
+2021-01-06 15:41:24.7401 INFO Get Allotment Details Success
+2021-01-06 15:41:24.7401 INFO Get Party Master List Success
+2021-01-06 15:41:24.7915 INFO Get User Success :riga_dis
+2021-01-06 15:41:27.0271 INFO Update Allotment Success :6-RDD
+2021-01-06 15:41:27.0604 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:27.0604 INFO Get Allotment List Success
+2021-01-06 15:41:27.0734 INFO Get User Success :riga_dis
+2021-01-06 15:41:32.3466 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:41:32.3504 INFO Get Allotment List Success
+2021-01-06 15:41:39.7902 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 15:41:39.8150 INFO Get User Success :hodyco
+2021-01-06 15:41:45.0109 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 15:41:45.0109 INFO Check WorkFlow List Success
+2021-01-06 15:41:45.0427 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 15:41:45.0427 INFO Check WorkFlow List Success
+2021-01-06 15:41:45.0427 INFO Get Allotment List Success
+2021-01-06 15:41:45.0579 INFO Get User Success :hodyco
+2021-01-06 15:41:48.4752 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 15:41:48.4752 INFO Check WorkFlow List Success
+2021-01-06 15:41:48.4752 INFO Get Allotment List Success
+2021-01-06 15:41:48.5021 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 15:41:48.5061 INFO Get Party Master List Success
+2021-01-06 15:41:48.5061 INFO Get Indent List Success
+2021-01-06 15:41:48.5061 INFO Get Allotment Details Success
+2021-01-06 15:41:48.5061 INFO Get Party Master List Success
+2021-01-06 15:41:48.5061 INFO Check WorkFlow List Success
+2021-01-06 15:41:48.5281 INFO Get User Success :hodyco
+2021-01-06 15:41:52.6347 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 15:41:52.6347 INFO Check WorkFlow List Success
+2021-01-06 15:41:52.6347 INFO Get Allotment List Success
+2021-01-06 15:41:52.6496 INFO Get User Success :hodyco
+2021-01-06 15:51:21.7645 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:51:21.8453 INFO Get User Success :riga_dis
+2021-01-06 15:51:38.2618 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:51:38.2695 INFO Get Indent List Success
+2021-01-06 15:51:38.3097 INFO Get User Success :riga_dis
+2021-01-06 15:51:46.2491 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:51:46.2568 INFO Get RR List Success
+2021-01-06 15:51:46.2749 INFO Get User Success :riga_dis
+2021-01-06 15:51:48.1467 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:51:48.1679 INFO Get RR List Success
+2021-01-06 15:51:48.1866 INFO Get User Success :riga_dis
+2021-01-06 15:51:50.6742 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:51:50.6823 INFO Get RR Details Success
+2021-01-06 15:51:50.6823 INFO Get RR List Success
+2021-01-06 15:51:50.7389 INFO Get User Success :riga_dis
+2021-01-06 15:52:03.1261 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:52:03.1321 INFO Get RR List Success
+2021-01-06 15:52:03.1321 INFO Get User Success :riga_dis
+2021-01-06 15:52:05.5575 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 15:52:05.5575 INFO Get RR Details Success
+2021-01-06 15:52:05.5714 INFO Get RR List Success
+2021-01-06 15:52:05.5714 INFO Get User Success :riga_dis
+2021-01-06 16:02:42.6591 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 16:02:42.7481 INFO Get User Success :riga_dis
+2021-01-06 16:04:31.6900 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 16:04:31.7015 INFO Get RR List Success
+2021-01-06 16:04:31.7473 INFO Get User Success :riga_dis
+2021-01-06 16:04:33.6134 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 16:04:33.6354 INFO Get RR List Success
+2021-01-06 16:04:33.6547 INFO Get User Success :riga_dis
+2021-01-06 16:04:41.8266 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 16:04:41.8346 INFO Get RR Details Success
+2021-01-06 16:04:56.3851 INFO Get RR List Success
+2021-01-06 16:04:56.4283 INFO Get User Success :riga_dis
+2021-01-06 16:05:04.3693 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 16:05:04.3693 INFO Get RR List Success
+2021-01-06 16:05:04.3844 INFO Get User Success :riga_dis
+2021-01-06 16:05:07.8792 INFO Get User Success :104-Riga Distillery Division
+2021-01-06 16:05:07.8792 INFO Get RR Details Success
+2021-01-06 16:14:45.1940 INFO Get RR List Success
+2021-01-06 16:14:45.1940 INFO Get User Success :riga_dis
+2021-01-06 16:16:13.3327 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 16:16:13.4361 INFO Get User Success :hodyco
+2021-01-06 16:16:32.4224 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 16:16:32.4405 INFO Check WorkFlow List Success
+2021-01-06 16:16:32.5339 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 16:16:32.5359 INFO Check WorkFlow List Success
+2021-01-06 16:16:32.5583 INFO Get Allotment List Success
+2021-01-06 16:16:32.6115 INFO Get User Success :hodyco
+2021-01-06 16:16:36.9277 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 16:16:36.9277 INFO Check WorkFlow List Success
+2021-01-06 16:16:36.9277 INFO Get Allotment List Success
+2021-01-06 16:16:37.0293 INFO Get User Success :100-Deputy Commissioner
+2021-01-06 16:16:37.0356 INFO Get Party Master List Success
+2021-01-06 16:16:37.0356 INFO Get Indent List Success
+2021-01-06 16:16:37.0507 INFO Get Allotment Details Success
+2021-01-06 16:16:37.0507 INFO Get Party Master List Success
+2021-01-06 16:16:37.0979 INFO Check WorkFlow List Success
+2021-01-06 16:16:37.0979 INFO Get User Success :hodyco
+2021-01-06 16:16:47.8239 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:16:47.8426 INFO Get User Success :com
+2021-01-06 16:16:50.9075 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:16:50.9104 INFO Check WorkFlow List Success
+2021-01-06 16:16:50.9385 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:16:50.9385 INFO Check WorkFlow List Success
+2021-01-06 16:16:50.9444 INFO Get Allotment List Success
+2021-01-06 16:16:50.9444 INFO Get User Success :com
+2021-01-06 16:16:52.5090 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:16:52.5090 INFO Check WorkFlow List Success
+2021-01-06 16:16:52.5090 INFO Get Allotment List Success
+2021-01-06 16:16:52.5327 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:16:52.5357 INFO Get Party Master List Success
+2021-01-06 16:16:52.5357 INFO Get Indent List Success
+2021-01-06 16:16:52.5357 INFO Get Allotment Details Success
+2021-01-06 16:16:52.5357 INFO Get Party Master List Success
+2021-01-06 16:16:52.5357 INFO Check WorkFlow List Success
+2021-01-06 16:16:52.5578 INFO Get User Success :com
+2021-01-06 16:17:09.2807 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:17:09.2807 INFO Get Party Master List Success
+2021-01-06 16:17:09.2870 INFO Get Indent List Success
+2021-01-06 16:17:09.2870 INFO Get Allotment Details Success
+2021-01-06 16:17:09.2870 INFO Get Party Master List Success
+2021-01-06 16:17:09.2870 INFO Check WorkFlow List Success
+2021-01-06 16:18:39.7630 INFO Get User Success :com
+2021-01-06 16:18:44.9763 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:18:44.9763 INFO Check WorkFlow List Success
+2021-01-06 16:18:44.9763 INFO Get Allotment List Success
+2021-01-06 16:18:44.9903 INFO Get User Success :com
+2021-01-06 16:18:46.6406 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:18:46.6406 INFO Check WorkFlow List Success
+2021-01-06 16:18:46.6455 INFO Get Allotment List Success
+2021-01-06 16:18:46.6715 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:18:46.6715 INFO Get Party Master List Success
+2021-01-06 16:18:46.6778 INFO Get Indent List Success
+2021-01-06 16:18:46.6778 INFO Get Allotment Details Success
+2021-01-06 16:18:46.6778 INFO Get Party Master List Success
+2021-01-06 16:18:46.6778 INFO Check WorkFlow List Success
+2021-01-06 16:18:46.6983 INFO Get User Success :com
+2021-01-06 16:18:56.4142 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:18:56.4142 INFO Check WorkFlow List Success
+2021-01-06 16:18:56.4396 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:18:56.4416 INFO Check WorkFlow List Success
+2021-01-06 16:18:56.4416 INFO Get Allotment List Success
+2021-01-06 16:18:56.4416 INFO Get User Success :com
+2021-01-06 16:19:04.5811 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-06 16:19:04.5828 INFO Check WorkFlow List Success
+2021-01-06 16:19:04.5828 INFO Get Allotment List Success
+2021-01-06 16:19:15.2460 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 16:19:15.2541 INFO Get User Success :sitedo
+2021-01-06 16:19:17.3731 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 16:19:17.3886 INFO Get RR List Success
+2021-01-06 16:19:17.4461 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 16:19:17.4584 INFO Get RR List Success
+2021-01-06 16:19:17.4775 INFO Get User Success :sitedo
+2021-01-06 16:19:19.4155 INFO Get User Success :137-Assistant Commissioner
+2021-01-06 16:19:19.4155 INFO Get RR Details Success
+2021-01-06 16:19:19.4314 INFO Get RR List Success
+2021-01-06 16:19:19.4515 INFO Get User Success :sitedo
+2021-01-06 17:55:57.8539 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-06 17:55:57.9529 INFO Get User Success :riga_sgr
+2021-01-06 17:56:09.2880 INFO Get Report  Success
+2021-01-06 17:56:09.2880 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-06 17:56:09.3191 INFO Get Party Master List Success
+2021-01-06 17:56:09.3191 INFO Get User Success :riga_sgr
+2021-01-06 17:56:19.4007 INFO Get GetSeverList Success
+2021-01-06 17:58:10.2539 INFO Get GetSeverList Success
+2021-01-06 17:58:47.5402 INFO Get GetSeverList Success
+2021-01-06 17:59:14.9022 INFO Get GetSeverList Success
+2021-01-06 18:00:39.8962 INFO Get GetSeverList Success
+2021-01-06 18:00:55.4432 INFO Get GetSeverList Success
+2021-01-06 18:01:38.9294 INFO Get GetSeverList Success
+2021-01-06 18:01:56.5139 INFO Get GetSeverList Success
+2021-01-06 18:02:17.2465 INFO Get GetSeverList Success
+2021-01-06 18:04:57.5666 INFO Get GetSeverList Success
+2021-01-06 18:13:19.9504 INFO Get GetSeverList Success

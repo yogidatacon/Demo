@@ -1,0 +1,138 @@
+2021-10-26 10:24:15.4296 INFO Get User Success :44-Administrator
+2021-10-26 10:24:15.5462 INFO Get User Success :44-Administrator
+2021-10-26 10:24:15.5802 INFO Get Product Type Master List Success
+2021-10-26 10:24:15.5921 INFO Get User Success :Admin
+2021-10-26 10:25:14.0851 INFO Get User Success :44-Administrator
+2021-10-26 10:25:14.0851 INFO Get Party Master List Success
+2021-10-26 10:26:02.8679 INFO Get Product Type Master List Success
+2021-10-26 10:26:02.8779 INFO Get User Success :Admin
+2021-10-26 10:29:43.6424 INFO Get User Success :44-Administrator
+2021-10-26 10:29:43.6424 INFO Get Party Master List Success
+2021-10-26 10:29:43.6424 INFO Get Product Type Master List Success
+2021-10-26 10:29:43.6424 INFO Get User Success :Admin
+2021-10-26 10:30:22.0889 INFO Get User Success :44-Administrator
+2021-10-26 10:30:22.0889 INFO Get Party Master List Success
+2021-10-26 10:30:22.0939 INFO Get Product Type Master List Success
+2021-10-26 10:30:22.0939 INFO Get User Success :Admin
+2021-10-26 10:35:11.7582 INFO Get User Success :44-Administrator
+2021-10-26 10:35:11.7582 INFO Get Party Master List Success
+2021-10-26 10:35:11.7582 INFO Get Product Type Master List Success
+2021-10-26 10:35:11.7674 INFO Get User Success :Admin
+2021-10-26 10:36:52.2915 INFO Get User Success :44-Administrator
+2021-10-26 10:36:52.2915 INFO Get Party Master List Success
+2021-10-26 10:36:52.2915 INFO Get Product Type Master List Success
+2021-10-26 10:36:52.2994 INFO Get User Success :Admin
+2021-10-26 10:43:11.8158 INFO Get Product Type Master List Success
+2021-10-26 10:43:11.8506 INFO Get Product Type Master List Success
+2021-10-26 10:43:11.8597 INFO Get User Success :Admin
+2021-10-26 10:43:44.8117 INFO Get User Success :44-Administrator
+2021-10-26 10:43:44.8117 INFO Get Party Master List Success
+2021-10-26 10:43:44.8117 INFO Get Product Type Master List Success
+2021-10-26 10:43:44.8117 INFO Get User Success :Admin
+2021-10-26 11:20:57.5427 INFO Get Existing data Fail :rawmaterial_receipt-Object reference not set to an instance of an object.
+2021-10-26 11:33:41.6793 INFO Get User Success :44-Administrator
+2021-10-26 11:33:55.4573 INFO Get User Success :44-Administrator
+2021-10-26 11:33:55.4938 INFO Get Product Type Master List Success
+2021-10-26 11:33:55.5023 INFO Get User Success :Admin
+2021-10-26 11:34:02.2868 INFO Get User Success :44-Administrator
+2021-10-26 11:34:02.2868 INFO Get Party Master List Success
+2021-10-26 11:34:02.3008 INFO Get Product Type Master List Success
+2021-10-26 11:34:02.3008 INFO Get User Success :Admin
+2021-10-26 11:39:18.4968 INFO Get User Fail :-Field not found in row: party_type_name
+2021-10-26 11:51:35.1545 INFO Get Existing data Fail :rawmaterial_receipt-Object reference not set to an instance of an object.
+2021-10-26 11:51:38.4508 INFO Get Existing data Fail :rmreceipt_storage-42703: column "party_code" does not exist
+2021-10-26 11:53:51.3021 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-26 11:53:51.3430 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-26 11:53:51.4041 INFO Get Product Type Master List Success
+2021-10-26 11:53:51.4110 INFO Get User Success :majhaulia_dis
+2021-10-26 11:53:56.7660 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-26 11:53:59.0158 INFO Get Product Type Master List Success
+2021-10-26 11:53:59.0158 INFO Get User Success :majhaulia_dis
+2021-10-26 12:48:38.4096 INFO Get User Success :144-Police Banka
+2021-10-26 12:48:38.4637 INFO Get Product Type Master List Success
+2021-10-26 12:48:38.4728 INFO Get User Success :police_Banka
+2021-10-26 12:48:41.1128 INFO Get User Success :144-Police Banka
+2021-10-26 12:48:41.1271 INFO Get User Success :144-Police Banka
+2021-10-26 14:36:46.4730 INFO Get User Success :44-Administrator
+2021-10-26 14:37:00.0935 INFO Get User Success :44-Administrator
+2021-10-26 14:37:00.1203 INFO Get Product Type Master List Success
+2021-10-26 14:37:00.1287 INFO Get User Success :Admin
+2021-10-26 14:37:09.9762 INFO Get Party Type Master List Success
+2021-10-26 14:37:10.0162 INFO Get Product Type Master List Success
+2021-10-26 14:37:10.0162 INFO Get User Success :Admin
+2021-10-26 14:37:12.6844 INFO Get Party Master List Success
+2021-10-26 14:37:12.6989 INFO Get Product Type Master List Success
+2021-10-26 14:37:12.7038 INFO Get User Success :Admin
+2021-10-26 14:37:16.5730 INFO Get Party Type Master List Success
+2021-10-26 14:37:16.5810 INFO Get Product Type Master List Success
+2021-10-26 14:37:16.5810 INFO Get User Success :Admin
+2021-10-26 14:37:46.0873 INFO Get Party Type Master List Success
+2021-10-26 14:51:29.7199 INFO Get User Success :44-Administrator
+2021-10-26 14:51:29.9765 INFO Get User Success :44-Administrator
+2021-10-26 14:51:30.2950 INFO Get Product Type Master List Success
+2021-10-26 14:51:30.3760 INFO Get User Success :Admin
+2021-10-26 14:51:57.9325 INFO Get State List Success
+2021-10-26 14:51:58.0469 INFO Get Product Type Master List Success
+2021-10-26 14:51:58.1282 INFO Get User Success :Admin
+2021-10-26 15:55:44.2088 INFO Get User Success :44-Administrator
+2021-10-26 15:55:44.3127 INFO Get User Success :44-Administrator
+2021-10-26 15:55:44.3495 INFO Get Product Type Master List Success
+2021-10-26 15:55:44.3586 INFO Get User Success :Admin
+2021-10-26 15:55:56.9945 INFO Org Get List Success
+2021-10-26 15:55:57.0334 INFO Get Product Type Master List Success
+2021-10-26 15:55:57.0334 INFO Get User Success :Admin
+2021-10-26 15:55:58.5050 INFO GetFinacListValues Success
+2021-10-26 15:55:58.5179 INFO Get Product Type Master List Success
+2021-10-26 15:55:58.5179 INFO Get User Success :Admin
+2021-10-26 15:56:03.8378 INFO Get OrgNames in Financial Form Success
+2021-10-26 15:56:03.8378 INFO Get Product Type Master List Success
+2021-10-26 15:56:03.8448 INFO Get User Success :Admin
+2021-10-26 15:56:07.8087 INFO GetFinacListValues Success
+2021-10-26 15:56:07.8442 INFO Insertion OrgFinance Success :1
+2021-10-26 15:56:50.3845 INFO GetFinacListValues Success
+2021-10-26 15:56:50.3845 INFO Get Product Type Master List Success
+2021-10-26 15:56:50.3914 INFO Get User Success :Admin
+2021-10-26 15:56:54.4411 INFO Get OrgNames in Financial Form Success
+2021-10-26 15:56:54.4411 INFO Get Product Type Master List Success
+2021-10-26 15:56:54.4411 INFO Get User Success :Admin
+2021-10-26 15:57:20.3033 INFO GetFinacListValues Success
+2021-10-26 15:57:49.1958 INFO GetFinacListValues Success
+2021-10-26 15:57:49.1958 INFO Get Product Type Master List Success
+2021-10-26 15:57:49.2018 INFO Get User Success :Admin
+2021-10-26 16:00:37.7258 INFO Get OrgNames in Financial Form Success
+2021-10-26 16:00:37.7258 INFO Get Product Type Master List Success
+2021-10-26 16:00:37.7258 INFO Get User Success :Admin
+2021-10-26 16:00:48.1545 INFO Get Party Type Master List Success
+2021-10-26 16:00:48.1545 INFO Get Product Type Master List Success
+2021-10-26 16:00:48.1727 INFO Get User Success :Admin
+2021-10-26 16:00:50.5872 INFO Get Party Master List Success
+2021-10-26 16:00:50.6016 INFO Get Product Type Master List Success
+2021-10-26 16:00:50.6016 INFO Get User Success :Admin
+2021-10-26 16:03:33.8555 INFO Get Party Type Master List Success
+2021-10-26 16:03:35.0098 INFO Get Product Type Master List Success
+2021-10-26 16:03:35.0148 INFO Get User Success :Admin
+2021-10-26 16:03:43.7710 INFO GetFinacListValues Success
+2021-10-26 16:03:43.8020 INFO GetFinacListValues Success
+2021-10-26 16:03:46.0445 INFO GetFinacListValues Success
+2021-10-26 16:03:46.0684 INFO Get Party Master List Success
+2021-10-26 17:00:16.6912 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:00:16.7883 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:00:16.8007 INFO Get Product Type Master List Success
+2021-10-26 17:00:16.8007 INFO Get User Success :globus_dis
+2021-10-26 17:00:27.2318 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:00:27.2408 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:00:32.5217 INFO Get Product Type Master List Success
+2021-10-26 17:00:32.5217 INFO Get User Success :globus_dis
+2021-10-26 17:00:35.4721 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:00:44.7572 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:01:01.5613 INFO Get User Success :350-Globus Spirits Limited
+2021-10-26 17:03:44.5813 INFO Get User Success :341-Globus Spirits Limited
+2021-10-26 17:03:45.0331 INFO Get User Success :341-Globus Spirits Limited
+2021-10-26 17:03:45.2484 INFO Get Product Type Master List Success
+2021-10-26 17:03:45.3651 INFO Get User Success :globus_dis
+2021-10-26 17:03:54.3355 INFO Get User Success :341-Globus Spirits Limited
+2021-10-26 17:03:54.4624 INFO Get User Success :341-Globus Spirits Limited
+2021-10-26 17:03:58.6875 INFO Get Product Type Master List Success
+2021-10-26 17:03:58.8228 INFO Get User Success :globus_dis
+2021-10-26 17:04:01.4446 INFO Get User Success :341-Globus Spirits Limited
+2021-10-26 17:04:53.1420 INFO Get User Success :341-Globus Spirits Limited

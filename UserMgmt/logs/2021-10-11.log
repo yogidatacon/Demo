@@ -1,0 +1,79 @@
+2021-10-11 11:17:28.6898 INFO Get User Success :383-Wholesaler
+2021-10-11 11:17:28.7944 INFO Get User Success :383-Wholesaler
+2021-10-11 11:17:28.8227 INFO Get Product Type Master List Success
+2021-10-11 11:17:28.8227 INFO Get User Success :mtp_who
+2021-10-11 11:17:31.7313 INFO Get User Success :383-Wholesaler
+2021-10-11 11:20:19.3973 INFO Get Allotment List Success
+2021-10-11 11:20:19.4411 INFO Get Product Type Master List Success
+2021-10-11 11:20:19.4411 INFO Get User Success :mtp_who
+2021-10-11 11:20:29.5938 INFO Get User Success :383-Wholesaler
+2021-10-11 11:20:31.2323 INFO Get Party Master List Success
+2021-10-11 11:20:31.2323 INFO Get Product Master List Success
+2021-10-11 11:20:31.2384 INFO Get Product Type Master List Success
+2021-10-11 11:20:31.2384 INFO Get User Success :mtp_who
+2021-10-11 11:20:34.0464 INFO Get User Success :383-Wholesaler
+2021-10-11 11:20:35.4856 INFO Get Allotment List Success
+2021-10-11 11:20:35.4856 INFO Get Product Type Master List Success
+2021-10-11 11:20:35.4915 INFO Get User Success :mtp_who
+2021-10-11 15:43:27.2411 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:43:27.3413 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:43:27.4280 INFO Get Product Type Master List Success
+2021-10-11 15:43:27.4280 INFO Get User Success :mtp1
+2021-10-11 15:43:29.6434 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:43:31.0313 INFO Get Product Type Master List Success
+2021-10-11 15:43:31.0363 INFO Get User Success :mtp1
+2021-10-11 15:43:37.2632 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:43:37.2842 INFO Get Allotment List Success
+2021-10-11 15:43:40.9177 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2
+2021-10-11 15:43:40.9177 INFO Get Product Master List Success
+2021-10-11 15:43:40.9177 INFO Get UOM List Success
+2021-10-11 15:45:02.2794 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:45:04.3614 INFO Get Product Type Master List Success
+2021-10-11 15:45:04.3664 INFO Get User Success :mtp1
+2021-10-11 15:45:08.7010 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:45:08.7130 INFO Get Allotment List Success
+2021-10-11 15:45:10.5642 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2
+2021-10-11 15:45:10.5642 INFO Get Product Master List Success
+2021-10-11 15:45:10.5662 INFO Get UOM List Success
+2021-10-11 15:52:25.6160 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:52:41.5632 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:52:41.6133 INFO Get Product Type Master List Success
+2021-10-11 15:52:41.6133 INFO Get User Success :mtp1
+2021-10-11 15:53:13.6264 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:53:15.7103 INFO Get Product Type Master List Success
+2021-10-11 15:53:15.7103 INFO Get User Success :mtp1
+2021-10-11 15:53:17.7571 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:53:19.6310 INFO Get Product Type Master List Success
+2021-10-11 15:53:19.6310 INFO Get User Success :mtp1
+2021-10-11 15:53:26.5346 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:53:26.5506 INFO Get Allotment List Success
+2021-10-11 15:53:29.3098 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2
+2021-10-11 15:53:29.3098 INFO Get Product Master List Success
+2021-10-11 15:53:29.3098 INFO Get UOM List Success
+2021-10-11 15:53:30.5782 INFO Get Allotment Details Success
+2021-10-11 15:53:30.6178 INFO Get Product Type Master List Success
+2021-10-11 15:53:30.6178 INFO Get User Success :mtp1
+2021-10-11 15:53:39.3200 INFO Get User Success :353-M and TP Unit
+2021-10-11 15:53:39.5194 INFO Get Product Type Master List Success
+2021-10-11 15:53:39.5194 INFO Get User Success :mtp1
+2021-10-11 15:55:47.8578 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:55:47.9276 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:55:47.9276 INFO Get Product Type Master List Success
+2021-10-11 15:55:47.9276 INFO Get User Success :globus_dis
+2021-10-11 15:55:50.7105 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:55:50.7244 INFO Get Product Type Master List Success
+2021-10-11 15:55:50.7244 INFO Get User Success :globus_dis
+2021-10-11 15:55:53.1716 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:55:54.6819 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:55:55.9050 INFO Get Product Type Master List Success
+2021-10-11 15:55:55.9100 INFO Get User Success :globus_dis
+2021-10-11 15:56:00.8980 INFO Get Product Master List Success
+2021-10-11 15:56:00.8980 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:56:00.8980 INFO Get Balance Request Pass Success
+2021-10-11 15:56:09.5809 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:56:09.5839 INFO Get Product Type Master List Success
+2021-10-11 15:56:09.5839 INFO Get User Success :globus_dis
+2021-10-11 15:56:13.7752 INFO Get User Success :350-Globus Spirits Limited
+2021-10-11 15:56:15.4965 INFO Get RR List Success
+2021-10-11 15:56:15.6759 INFO Get Product Type Master List Success
+2021-10-11 15:56:15.6759 INFO Get User Success :globus_dis

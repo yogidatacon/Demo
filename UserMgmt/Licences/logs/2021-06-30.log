@@ -1,0 +1,143 @@
+2021-06-30 11:14:43.5303 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-30 11:15:20.9721 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-30 11:15:21.9721 INFO Get User Success :harinagar_dis
+2021-06-30 11:15:31.5745 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-30 11:15:40.3330 INFO Get User Success :harinagar_dis
+2021-06-30 11:15:44.1928 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-30 11:15:47.7865 INFO Get User Success :harinagar_dis
+2021-06-30 11:15:50.9624 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-30 11:15:51.1294 INFO Get UOM List Success
+2021-06-30 11:15:54.3101 INFO Get User Success :harinagar_dis
+2021-06-30 11:17:05.5089 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-30 11:17:05.6409 INFO Get UOM List Success
+2021-06-30 11:17:08.7287 INFO Get User Success :harinagar_dis
+2021-06-30 11:18:41.3726 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:18:41.6486 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:18:41.7456 INFO Get User Success :mtp1
+2021-06-30 11:18:48.6711 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:18:54.6318 INFO Get User Success :mtp1
+2021-06-30 11:19:03.1193 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:19:07.0531 INFO Get User Success :mtp1
+2021-06-30 11:19:11.3998 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:19:15.4206 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:19:15.5006 INFO Get License_Type List Success
+2021-06-30 11:19:15.5906 INFO Get License Fee List Success
+2021-06-30 11:19:15.7716 INFO Get State List Success
+2021-06-30 11:19:15.9575 INFO Get User Success :mtp1
+2021-06-30 11:44:52.7895 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:45:13.0883 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:45:13.4423 INFO Get User Success :mtp1
+2021-06-30 11:45:54.5688 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:46:03.5713 INFO Get User Success :mtp1
+2021-06-30 11:46:06.9091 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:46:10.5149 INFO Get User Success :353-M and TP Unit
+2021-06-30 11:46:10.5939 INFO Get License_Type List Success
+2021-06-30 11:46:10.6809 INFO Get License Fee List Success
+2021-06-30 11:46:10.7639 INFO Get State List Success
+2021-06-30 11:46:10.9399 INFO Get User Success :mtp1
+2021-06-30 13:27:23.5658 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:27:24.1547 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:27:24.7367 INFO Get User Success :mtp1
+2021-06-30 13:27:33.0722 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:27:38.7838 INFO Get User Success :mtp1
+2021-06-30 13:27:42.7156 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:28:02.0635 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:28:02.1844 INFO Get License_Type List Success
+2021-06-30 13:28:02.3215 INFO Get License Fee List Success
+2021-06-30 13:28:02.4184 INFO Get State List Success
+2021-06-30 13:28:02.5974 INFO Get User Success :mtp1
+2021-06-30 13:28:35.9883 INFO Get Division List Success
+2021-06-30 13:29:02.5071 INFO Get Existing data Fail :lic_application
+2021-06-30 13:29:02.8491 INFO Get License_Type List Success
+2021-06-30 13:34:00.5199 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:34:02.8028 INFO Get User Success :mtp1
+2021-06-30 13:34:10.9363 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:34:14.1691 INFO Get User Success :353-M and TP Unit
+2021-06-30 13:34:14.2322 INFO Get License_Type List Success
+2021-06-30 13:34:14.3031 INFO Get License Fee List Success
+2021-06-30 13:34:14.3822 INFO Get State List Success
+2021-06-30 13:34:14.5341 INFO Get User Success :mtp1
+2021-06-30 13:34:38.0991 INFO Get Division List Success
+2021-06-30 13:35:11.7289 INFO Get Existing data Fail :lic_application
+2021-06-30 13:35:12.9018 INFO Get License_Type List Success
+2021-06-30 17:04:54.3276 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:04:54.8176 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:04:55.2006 INFO Get User Success :mtp1
+2021-06-30 17:05:09.0418 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:05:15.1494 INFO Get User Success :mtp1
+2021-06-30 17:05:21.1470 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:05:42.5318 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:06:20.2855 INFO Get User Success :mtp1
+2021-06-30 17:06:27.6691 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:06:30.2109 INFO Get Allotment List Success
+2021-06-30 17:06:31.3839 INFO Get Product Master List Success
+2021-06-30 17:06:31.4619 INFO Get UOM List Success
+2021-06-30 17:06:31.5529 INFO Get User Success :mtp1
+2021-06-30 17:06:39.1894 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:06:42.2542 INFO Get User Success :mtp1
+2021-06-30 17:06:45.5330 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:06:48.2959 INFO Get User Success :mtp1
+2021-06-30 17:07:16.4192 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:07:27.5605 INFO Get User Success :350-Globus Spirits Limited
+2021-06-30 17:07:31.4703 INFO Get User Success :350-Globus Spirits Limited
+2021-06-30 17:07:32.4433 INFO Get User Success :globus_dis
+2021-06-30 17:08:13.4728 INFO Get User Success :350-Globus Spirits Limited
+2021-06-30 17:08:18.4805 INFO Get User Success :globus_dis
+2021-06-30 17:08:30.2718 INFO Get User Success :350-Globus Spirits Limited
+2021-06-30 17:08:33.6846 INFO Get Pass List Success
+2021-06-30 17:08:33.8096 INFO Get User Success :globus_dis
+2021-06-30 17:08:37.7344 INFO Get User Success :350-Globus Spirits Limited
+2021-06-30 17:08:37.8684 INFO Get Dispach Master List Success
+2021-06-30 17:08:40.9162 INFO Get VAT Master List Success
+2021-06-30 17:08:41.3162 INFO Get Pass List Success
+2021-06-30 17:08:42.3811 INFO Get User Success :globus_dis
+2021-06-30 17:11:33.7080 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:11:33.9920 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:11:34.0850 INFO Get User Success :mtp1
+2021-06-30 17:11:45.0223 INFO Get User Success :353-M and TP Unit
+2021-06-30 17:22:38.6939 INFO Get User Success :mtp1
+2021-06-30 17:23:41.7293 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-30 17:23:42.0573 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-30 17:23:42.9033 INFO Get User Success :newswadeshi_sgr
+2021-06-30 17:23:54.7826 INFO Sugarcanepurchase Get List Success
+2021-06-30 17:23:54.8706 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-30 17:23:55.0706 INFO Get User Success :newswadeshi_sgr
+2021-06-30 17:23:58.3923 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-30 17:23:59.0823 INFO MIR GetList Sucess
+2021-06-30 17:23:59.5283 INFO Get User Success :newswadeshi_sgr
+2021-06-30 17:24:03.3031 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-30 17:24:03.6561 INFO Get VAT Master List Success
+2021-06-30 17:24:06.5649 INFO Get Pass List Success
+2021-06-30 17:24:06.6599 INFO Get User Success :newswadeshi_sgr
+2021-06-30 17:24:22.8993 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:24:23.2183 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:24:23.7473 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:24:28.9480 INFO Sugarcanepurchase Get List Success
+2021-06-30 17:24:29.0300 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:24:29.2010 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:24:32.2338 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:24:33.1197 INFO MIR GetList Sucess
+2021-06-30 17:24:33.2217 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:24:37.5995 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:24:37.9254 INFO Get VAT Master List Success
+2021-06-30 17:24:40.6413 INFO Get Pass List Success
+2021-06-30 17:24:40.7363 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:24:46.9700 INFO Get Pass List Success
+2021-06-30 17:25:05.6598 INFO MIR Insertion Sucess:376-MSI
+2021-06-30 17:25:05.8438 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:25:06.4268 INFO MIR GetList Sucess
+2021-06-30 17:25:06.5528 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:25:10.2426 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:25:10.5185 INFO Get VAT Master List Success
+2021-06-30 17:25:13.5534 INFO Get Pass List Success
+2021-06-30 17:25:14.9953 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2021-06-30 17:25:16.6992 INFO Get Pass List Success
+2021-06-30 17:25:21.3569 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:25:30.3894 INFO MIR Update Success:MSI-MSIMST0001_376
+2021-06-30 17:25:30.6724 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:25:31.4293 INFO MIR GetList Sucess
+2021-06-30 17:25:31.6023 INFO Get User Success :majhaulia_sgr
+2021-06-30 17:25:35.9370 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-06-30 17:25:36.7050 INFO Get VAT Master List Success
+2021-06-30 17:25:39.8438 INFO Get Pass List Success
+2021-06-30 17:25:39.9448 INFO Get User Success :majhaulia_sgr

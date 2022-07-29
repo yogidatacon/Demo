@@ -1,0 +1,97 @@
+2022-03-10 14:00:31.5500 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-03-10 14:00:36.2356 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-03-10 14:00:40.7567 INFO Get Product Type Master List Success
+2022-03-10 14:00:40.8681 INFO Get User Success :newswadeshi_dis
+2022-03-10 14:00:52.0905 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-03-10 14:00:57.5620 INFO Get Product Type Master List Success
+2022-03-10 14:00:57.6168 INFO Get User Success :newswadeshi_dis
+2022-03-10 14:01:06.7427 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-03-10 14:01:06.8345 INFO Get Product Type Master List Success
+2022-03-10 14:01:06.9143 INFO Get User Success :newswadeshi_dis
+2022-03-10 14:01:19.9644 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-03-10 14:01:20.0512 INFO Get VAT Master List Success
+2022-03-10 14:01:20.1350 INFO Get Product Type Master List Success
+2022-03-10 14:01:20.2218 INFO Get User Success :newswadeshi_dis
+2022-03-10 17:06:55.4453 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:07:00.4481 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:07:06.6914 INFO Get Product Type Master List Success
+2022-03-10 17:07:06.7628 INFO Get User Success :bdbl_dis
+2022-03-10 17:07:12.4012 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:07:12.4580 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:07:12.6764 INFO Get Product Type Master List Success
+2022-03-10 17:07:12.7303 INFO Get User Success :bdbl_dis
+2022-03-10 17:07:14.3537 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:13:58.3492 INFO Get Pass List Success
+2022-03-10 17:13:58.3994 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:14:17.7915 INFO Get Product Type Master List Success
+2022-03-10 17:14:17.8480 INFO Get User Success :bdbl_dis
+2022-03-10 17:14:35.6076 INFO Get Pass List Success
+2022-03-10 17:14:35.6590 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:29:45.3169 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:29:45.4106 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:29:45.5493 INFO Get Product Type Master List Success
+2022-03-10 17:29:45.6101 INFO Get User Success :bdbl_dis
+2022-03-10 17:29:48.5702 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:29:57.2309 INFO Get Pass List Success
+2022-03-10 17:29:57.2937 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:30:09.7790 INFO Get Pass List Success
+2022-03-10 17:30:09.8329 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:30:15.5293 INFO Get Product Type Master List Success
+2022-03-10 17:30:15.5917 INFO Get User Success :bdbl_dis
+2022-03-10 17:30:29.9200 INFO Get Pass List Success
+2022-03-10 17:30:29.9741 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:30:38.6213 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:30:38.7354 INFO Get Dispach Master List Success
+2022-03-10 17:30:38.8777 INFO Get VAT Master List Success
+2022-03-10 17:30:38.9452 INFO Get Pass List Success
+2022-03-10 17:30:46.7767 INFO Get Product Type Master List Success
+2022-03-10 17:30:46.8698 INFO Get User Success :bdbl_dis
+2022-03-10 17:32:41.0516 INFO Get User Success :159-police_Katihar
+2022-03-10 17:32:41.1652 INFO Get Product Type Master List Success
+2022-03-10 17:32:41.2205 INFO Get User Success :police_Katihar
+2022-03-10 17:32:56.8432 INFO Get Division List Success
+2022-03-10 17:33:01.2182 INFO Get User Success :159-police_Katihar
+2022-03-10 17:33:06.0694 INFO Get Product Type Master List Success
+2022-03-10 17:33:06.1259 INFO Get User Success :police_Katihar
+2022-03-10 17:35:44.7588 INFO Get User Success :159-police_Katihar
+2022-03-10 17:35:52.8856 INFO Get User Success :159-police_Katihar
+2022-03-10 17:35:56.5336 INFO Get User Success :159-police_Katihar
+2022-03-10 17:36:14.9044 INFO Get Thana List Success
+2022-03-10 17:36:15.0130 INFO Get Product Type Master List Success
+2022-03-10 17:36:15.0694 INFO Get User Success :police_Katihar
+2022-03-10 17:36:18.5866 INFO Get Division List Success
+2022-03-10 17:36:20.6449 INFO Get User Success :159-police_Katihar
+2022-03-10 17:36:26.0611 INFO Get Product Type Master List Success
+2022-03-10 17:36:26.1182 INFO Get User Success :police_Katihar
+2022-03-10 17:44:05.0665 INFO Get User Success :159-police_Katihar
+2022-03-10 17:44:16.0981 INFO Get User Success :159-police_Katihar
+2022-03-10 17:44:36.8189 INFO Get User Success :159-police_Katihar
+2022-03-10 17:44:38.9774 INFO Get Thana List Success
+2022-03-10 17:44:44.4575 INFO Get Product Type Master List Success
+2022-03-10 17:44:44.5163 INFO Get User Success :police_Katihar
+2022-03-10 17:44:48.8178 INFO Get Product Type Master List Success
+2022-03-10 17:44:48.8756 INFO Get User Success :police_Katihar
+2022-03-10 17:45:18.3477 INFO Get State List Success
+2022-03-10 17:45:23.7879 INFO Get Product Type Master List Success
+2022-03-10 17:45:23.8488 INFO Get User Success :police_Katihar
+2022-03-10 17:49:41.9364 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:49:42.1205 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:49:42.2768 INFO Get Product Type Master List Success
+2022-03-10 17:49:42.3585 INFO Get User Success :bdbl_dis
+2022-03-10 17:49:44.9712 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:49:45.0610 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:49:45.1866 INFO Get Product Type Master List Success
+2022-03-10 17:49:45.2709 INFO Get User Success :bdbl_dis
+2022-03-10 17:49:46.6855 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:50:01.7048 INFO Get Pass List Success
+2022-03-10 17:50:01.7607 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:50:06.2656 INFO Get Product Type Master List Success
+2022-03-10 17:50:06.3244 INFO Get User Success :bdbl_dis
+2022-03-10 17:50:20.5198 INFO Get Pass List Success
+2022-03-10 17:50:20.5797 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:50:26.5133 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-10 17:50:26.5721 INFO Get Dispach Master List Success
+2022-03-10 17:50:26.6943 INFO Get VAT Master List Success
+2022-03-10 17:50:26.7741 INFO Get Pass List Success
+2022-03-10 17:50:31.6387 INFO Get Product Type Master List Success
+2022-03-10 17:50:31.7005 INFO Get User Success :bdbl_dis

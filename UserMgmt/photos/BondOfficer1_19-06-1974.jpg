@@ -1,0 +1,2349 @@
+﻿
+
+<!DOCTYPE html>
+
+<html lang="en">
+         <head><meta charset="UTF-8" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <!-- Meta, title, CSS, favicons, etc. -->
+        <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	EXCISE AUTOMATION
+</title><link rel="shortcut icon" href="common/theme/assets/ico/fevicon.png" /><link href="common/theme/css/datatables/tools/css/dataTables.tableTools.css" rel="stylesheet" /><link rel="shortcut icon" type="image/x-icon" href="gobsymbol.ico" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+       
+        <!-- chat style -->
+        <link href="cssres/homestyle.css" rel="stylesheet" type="text/css" /><link href="cssres/chatstyle.css" rel="stylesheet" type="text/css" /><link href="common/theme/css/bootstrap.min.css" rel="stylesheet" /><link href="common/theme/fonts/css/font-awesome.min.css" rel="stylesheet" /><link href="common/theme/css/animate.min.css" rel="stylesheet" />
+
+        <!-- Custom styling plus plugins -->
+        <link href="common/theme/css/custom.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="common/theme/css/maps/jquery-jvectormap-2.0.1.css" /><link href="common/theme/css/icheck/flat/green.css" rel="stylesheet" /><link href="common/theme/css/floatexamples.css" rel="stylesheet" type="text/css" />
+
+        <script src="common/theme/js/jquery.min.js"></script>
+        <script src="common/theme/js/nprogress.js"></script>
+
+        <script src="common/theme/js/jquery.min.js"></script>
+        <script src="common/theme/js/nprogress.js"></script>
+        <script src="common/datepicker/jquery-1.10.2.js"></script>
+        <script src="common/datepicker/jquery-ui.js"></script>
+        <link rel="stylesheet" href="common/datepicker/jquery-ui.css" />
+        <script src="common/datepicker/MonthPicker.min.js"></script>
+        <script src="common/datepicker/jquery.maskedinput.min.js"></script>
+        <link rel="stylesheet" href="common/datepicker/test.css" />
+
+        <!-- Jquery Validation Engine-->
+        <link rel="stylesheet" href="common/validate/validationEngine.jquery.css" type="text/css" />	
+        <script src="common/validate/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">
+        </script>
+        <script src="common/validate/jquery.validationEngine.js" type="text/javascript" charset="utf-8">
+        </script>
+
+        <link rel="stylesheet" type="text/css" href="common/Timepicker/jquery.timepicker.css" /> 
+        <script type="text/javascript" src="common/Timepicker/jquery.timepicker.js"></script> 
+
+        <link href="common/css1/chosen.min.css" rel="stylesheet" type="text/css" />
+        <script src="common/js/chosen1.5.1.jquery.min.js" type="text/javascript"></script>
+        
+        
+        <style>
+            .nav_menu {
+                /*//background-image:  url(common/theme/images/Webtemplate_03.png);*/
+                background-repeat:no-repeat;
+                background-color: #26b8b8;
+                background-attachment: inherit;
+                background-position: top center;
+                background-size: cover;
+                position: relative;
+                height: 100px;
+                border-bottom: 5px solid #ffb400;
+
+            }
+            .dropdown-menu{
+                list-style: none;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                border: 1px solid rgba(0, 0, 0, 0.2);
+                -webkit-border-radius: 5px;
+                /*//-moz-border-radius: 5px;*/
+                border-radius: 0.5em;
+                -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+                /*//-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);*/
+                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+                -webkit-background-clip: padding-box;
+                /*//-moz-background-clip: padding;*/
+                background-clip: padding-box;
+                /*width: 300px;
+                height: 200px;
+                padding-top: 10px;
+                padding-left: 10px;
+                padding-right: 10px;*/
+                margin-right: 5px;
+                border-top-left-radius: 0.5em;
+                border-top-right-radius: 0.5em;
+
+            }
+            .site_title p{
+                width: 125px;
+                margin-top: -85px;
+                line-height: 0.9em;
+                margin-left: 88px;
+                text-align: center;
+            }
+
+
+            .fixed-footer{
+                width: 100%;
+                position: fixed;        
+                background: #333;
+                padding: 10px 0;
+                color: #fff;
+            }
+
+            .fixed-footer{
+                bottom: 0;
+            }
+
+            /*chat box*/
+            #oulist a{
+                color: rgba(82, 179, 217, 0.9);
+            }
+            #chat1{
+                bottom: 50px;
+                /*//float: left;*/
+                right: 10px;
+                position: fixed;
+                z-index: 100001;
+                color: #066061;
+            }
+            .fa-wechat:hover {
+                color: #26b8b8;
+            }
+
+            .chat li:nth-child(2) {
+                /*//margin-top: 60px;*/
+            }
+            #onlineChatBox{
+                overflow-y: auto; 
+                height: 65%; 
+                width: 230px; 
+                background: #fff; 
+                margin-top: 67px; 
+                float: right; 
+                border-radius: 2px; 
+                margin-right: 0px;
+                overflow-y: scroll;
+                border: 1px solid #dbd8d8;
+            }   
+            #chatbox{
+                /*overflow-y: scroll; 
+                height: auto; 
+                width: 350px; 
+                margin-right: 10px; 
+                margin-top: 280px; 
+                background: #e5e5e5; 
+                float: right;
+                bottom: 0;
+                max-height: 200px;*/
+                overflow-y: scroll;
+                height: 38%;
+                width: 333px;
+                margin-right: 10px;
+                /*//margin-top: 265px;*/
+                background: rgb(229, 229, 229) none repeat scroll 0% 0%;
+                float: right;
+                display: block;
+                position: fixed;
+                /*//bottom: -325px;*/
+                right: 225px;
+                bottom: 60px;
+            }
+            #chatbox .menu1{
+                padding-top: 4px; 
+                padding-left: 10px;
+                background-color: #26b8b8;
+                position: fixed;
+                width: 320px;
+                margin-top: -2px;
+            }
+            .text_area{
+                height: 100px;
+                bottom: 60px;
+                position: fixed;
+                z-index: 9;
+            }
+            @media screen and (max-width: 480px) {
+                .nav>li>a.dash_board{
+                    display: none;
+                }
+                .nav>li {
+                    width:fit-content;
+                    /*margin-left: 65px;*/
+                }
+                .open,.profile{
+                    margin-top: -90px;
+                }
+                .toggle {
+                    width: 50px;
+                    margin-top: 10px;
+                }
+                .switch_menu{
+                    margin-top: 12px;
+                    margin-left: 70px;
+                }
+
+                .top_nav .navbar-right li a {
+                    margin-top: -3px;
+                }
+                .site_title img {
+                    margin-top: 2px;
+                    margin-left: -17px;
+                }
+
+                #onlineChatBox{
+                    height: 200px;
+                    width: 230px;
+                }
+                #chatbox{
+                    width: 260px;
+                    margin-right: -210px;
+                    /*//margin-top: 10px;*/
+                    max-height: 210px;
+                    bottom: 105px;
+                }
+                #chatbox .menu1{
+                    width: 250px;
+                }
+                #chat1 {
+                    bottom: 100px;
+                    right: 20px;
+                }
+                .textarea{
+                    width: 190px;
+                    bottom: 0px;
+                    margin-left: 5px;
+                }
+                .sendbtn{
+                    position: absolute;
+                    padding-left: 197px;
+                    bottom: -3px;
+
+                }
+                .main-chatbox {
+                    height: 75%;
+                    margin-top: 25%;
+                }
+                .text_area{
+                    height: 100px;
+                    bottom: 110px;
+                    position: fixed;
+                }
+            }
+
+
+            .auto-style1 {
+                width: 440px;
+            }
+
+
+        </style>
+                <link href="/WebResource.axd?d=Vfq88GPHnLgpA1DfLBXAPJGG1MwTKTtTwxGVfQrZpYSSjKA22VTMCimQ46WRCgXs69c2Bmwn0V6kmBmV76W8ZkHqhMz09JmrHZ17Bs81BzNlUa2uh50_aakHdeU_lJNq-12UuRpo67Cd2rYC9LzDhA2&amp;t=633899716740000000" type="text/css" rel="stylesheet" /></head>  
+               <body class="nav-md">
+        <form method="post" action="./UserRegistrationForm.aspx" id="ctl01">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="GU0IMZW9RYDLogRnj8q1VV+QJ658csvYekTwNK7zoghUnICjCanjvHPaDpmulPQsuY4KWKKjkazVSvy7TcCSkpmgW5D2On2gLC0ZcfP/4foURHFmEn5XnUuk8oT/5on/P5pryTieMsFB7MUU0YOu3W8R9ikPXc9tUr0SVX4yphj89EvTU7Ndphy8l1acmpH3fnD5WC2y8p+K875kpN12Rm+vnT8ZOFQbEZGPgtDqq2D9rfmA6IsF1gwthPEL+/jGh69XaX5FrpAtDQ8k56ExS77kvJVFt3HJY2O4SGaP8w2l+D6gBlawDjtX5apdWLwRMWdgG+Yn6ZoEqxj4XqB9mSjM5oPtYZsT9u9oKZA5gdDXMW3D+6aRqucN7zZfIwjWBHOrGA/p2JLaCspmRHlmyVOw4fDYKKZ7GY0RQhmQahoq4twxNxGHDEyiEKB3R+jX4VQlGfAixRggWTH1Q+fOG4QMcKkzefj5hShXCtE+HYE4t7COa5F14L0EZtXsIrDRBoVYLOHwfhTEkkpsA8kODfz513SRI+pJxWC1mA7AL/0R4kRQiGaPwBB7cfPFhgGRuOV9Ntnsg/0WOzH/qfA5qt0tJvKn5Ev40wptUKFZNKdwqbTjt4/e1/x4ita0r+C3g0u6rDNGmtWwCncNBfoNMHxJImcL2DnXfw9De5hREat+cgncNiajPYFovnT6CnsW8XUJZ3WLh2QKhqgwU/r1nsM+qWJz2tvUkmYaNiQAUvkKotltmt7jLHu/VjMctY2sgk5wzVIKVT8KjT44PN85KF+51yxTkItA9FyyZs74bUfSnx02DeZz6b0mVGIZvjVrH8PMUmhkesWNVRZw8qayDIeHUwhBor6K8GhsGi1kSoaQQO7FBMddgJ2Ss2Ofog//qx3g7mep9DETGAk9vpEiR7JDsax3xTLoLMFZMT/J6nRJHtzO+u4ys+1kBydmeOdPgUfH1kXKsAAUcQRIcrIkuF5IxvRazp35Yjz/g1gilMdoIbUIsKdYIXxdu4NaNhI7dD1Ypdtpafw2FTvXpt0hPgpPkgcwJtEqRIypKmZ+EtgWARuiYTGZ4kMXaUCl83bJpfYd1LBeY0WDlK7lLaGPBK+IV4iyICcve7/10G/AZP8CAI5dzYAqPXXa2OAyy5SeqxP9OVA27NvBTudlbeHd7CveRRcTgD++e9dvsXOWRlGThWAiL/dsqN3sAmca7z6wI1NV0pjNQt7CaaXWym0wpG8rY8FREpjXNQT6ENkcDvznW+d4IAFrjLU+vWXCZNVtnurriWuT0iGaWy+vXVQ04X2P7KNCZV45bJ/uT53kvc5kob3BEYhV3t1NuD91l/fG1wjVbLK0EXEzX1Kn9PDpJAM8itJfH/sByr0n4d0VM/cw1g/A03f+uVrUQxPkI1wL40O71FlWKhUzQ3XfHiOV3/6xDJmTSzb1kJ0iwWC92u7uaI+bbvprAtyZDKwQ3EnHEUj9ESHzCfZk+Jw01yMhfmJCvEaBWw9x7Up2WFu49506u2Ar0zowx92adXoY7kWU6oQxbylf/89fu0sCxyvZP7RRYa+fYrbWpz7/XF5yDlkl59EaOYXNUVDyYYGlN+lortCJTp+BlIxTG/JXHFuVseWJAE8bRDSpklyvT2+MaEcxGYP+oc/nU/jP8Yxu2uiwLGu1nUakH6bP3Dfaq4SnYw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl01'];
+if (!theForm) {
+    theForm = document.ctl01;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZOZ-VUpSLWkmQeUqMt4YCuKNeJYB_7ikYZWuNTGDTIs0EAW_TvNuYQKxmQbnMLDpYA2&amp;t=637101028300000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQsmeIgd3PVUAValEUY20CBTT7kLGWVqbzaz6__-Pferxi51FC7AP-wP7fLW67jrUdO3vm85LYQzrgn34HMrwi54CNe9yWMSUdsiy7YxY2EOQLBvtYs8Fj7M9exfPaSb3jAJ_juA1P17h0xxo_UN1JlU1&amp;t=ffffffff9a9577e8" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tVTj3_8PztLWlaNkLjB408V6REI6PSVrYJQ5EIyxhh4HURgCO28a7kmFUSI_GvMhHvPpkryrJtrE-3RbPNImmK97CGA0MUheWZPN8FwlfwlQISw0nmhmfwAX-0Kg0xOQe02y2p06tBhvX7Kda1GC2pn2HE_ParQhPihOgidhHBy20&amp;t=ffffffff9a9577e8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=8HBMVpJM49mm80uR-ggjY_9vfkK33npU7u3xDKbI-59-my4hDW1aciwr5QTlkvpf4NX-X-3cBwdUglMnBN24XQGhFZMrQrllst53qGFX42mhEo160ZbTMB8vcii6esy2U7jP0zoi48Rn_R715-xmYA2&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=oI-LO-mO-3PZ7n2fuxQdt0MWPmZ6T68jHGVohwb3breRuHbf92bmmRWJsMPbNM1JwlHyQj-VRUSu1o4SMpaeW7gKHUyRdZZ8cxUeLAVlh3w6HTQ1-5t1XMX8JtzkPAZyNza_8vJQ1ByAP_lWLuOE8mCmW5tusoxTCq1hFy5GUe81&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=V7lYofBNDiSYOgSlDiTIShJkZbXdniPt_33axpHsGXYMN8QkRvF8WK--t8emTcwc-DLn-ocLNMIp8J7hDjen7NHTWW3llnfFHDsJdA5yZUZbN9DwAEU2Z9UGEbd6J0DA4vWe48O9gk1cB0Uqm3s5Bnwo3b_UKYLasuDrA1gfB741&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vQR2N7McTtmzjONdj8pDQBIbTf8Mrmx-dU0hY3vKWVniLvLJd0e7sTlN-WYUIJeuQbH81n_uo-otiQDH7ry0IswWDNv67E-Rzb1tYBMcXL_fbSlW7_mjG7I14VxXsr6buzp8k93wvseUf3qREGQ-pwvfl8ZzaL0JrV0pkMMKA5U1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=8CjII1v0OLoMNKf5zGXmerK2QoTQ8amqaNdtHyNc3rtTeyGdNoTUHX42xphvmlI0dLmNOhSVPuzN1-Nv84Z98h8Hy0nmAjEofUMhDgfW2xDqAmpxXkQ1WaGC97DutbqBomoIwU5vV18ckBDXbwzFl7GlCzyRYoxHZlImGimGl2I1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=lVTIgZkkU_S0PU8lJsHdM36eHR4owBu8nQ-vk2SmHBF1kn5cQUdj4Ib0YN4QwlHKZ2pJBXPojxEndxf7I2_GzxSdUDcuPYrd7ooZhkTwFevVa_g30XhXPMC-rdl-8RV2nLgPSAQcp7Mh2FTZ2Ivrrby8h4rWvsE_ZPXHcEIc3js1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=M4DnOVx-b7HLwMYQyyRkpYVEKlQJiAy9Jvwij-0NSEMUifPb-qPMo7docTYn8-ZeA_yNrFft8-SbLEDTcuHaafA-2NW1evuZwrcWu5P8VKr2N3jf4mdZ1_79YqoEaDrU39oOwwkP8kgLRxh1o9RCnXkyXL-6wChAm_VnCCCPRXg1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cU4EWaOS9ZT8_crcOUSc3yPs2Yd_ctgc04BoQRSuFEFqpQd3EUllUzwMconZorAcjr_Xb5uSYeX-diT4VhKrwMhw3YU5VbnKfcvNkTtsNhHfR_jH8UV279wAkvFvf7U18uNQAXeoFblPOzH-ZK8yO_LqqJ3MDx0JpK0BjiJu7k81&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=AwSRlKHSvQG5mpKc48OJ-JZzggENnP2qTu1SJVp0ScyVbsy0yqeEIeAFZImAhGg5AC2hadhyWb4W5DLhcpugSBbdNvvcXVwZL2Uf3Wh806sWJ2uJxLRfLfIuIgqcPooo6s1dZwkHsol1DL3JLz3ECg6Xc68QtMHB6igwqFQZN4w1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+            <div class="container body">
+                <div class="main_container">
+                    <html>
+                        <body>
+                        <div class="col-md-3 left_col">
+                            <div class="left_col scroll-view">
+                                <div class="navbar nav_title" style="border: 0;">
+                                    <a  class="site_title">
+                                        <img style="" src="common/theme/assets/img/Logo_circle.png" alt="" /><p style="width: 100px;"><span style="font-size: 13px"><b>Integrated Excise Management System</b></span></p>
+                                    </a>
+
+
+                                </div>
+                                <div class="clearfix"></div>
+
+                                <br />
+
+                                <!-- sidebar menu -->
+                                <div id="sidebar-menu" class="main_menu_side hidden-print main_menu" style="margin-top: 23px;">
+
+                                    <div class="menu_section">
+                                        <ul class="nav side-menu">
+
+
+
+                                            <li><a>Excise Automation<span class="fa fa-chevron-down"></span></a>
+                                                <ul id="ulmain"  class="nav child_menu" style="display:normal" style="overflow-style: move">
+                                                    <li >
+                                                        <a id="Organisation" class="&lt;%= SetCssClass(&quot;Home.aspx&quot;) %>" href="javascript:__doPostBack(&#39;ctl00$Organisation&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Organisation</span></a></li>
+                                                    <li>
+                                                        
+                                                    <li >
+                                                        <a id="UserManagementMasters" href="javascript:__doPostBack(&#39;ctl00$UserManagementMasters&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">User Management Masters</span></a></li>
+                                                    <li >
+                                                        <a id="RolePermission" href="javascript:__doPostBack(&#39;ctl00$RolePermission&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Role Permission</span></a></li>
+                                                    <li>
+                                                        <a id="UserRegistration" href="javascript:__doPostBack(&#39;ctl00$UserRegistration&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">User Registration</span></a></li>
+
+                                                     <li>
+                                                        <a id="WorkFlow" href="javascript:__doPostBack(&#39;ctl00$WorkFlow&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Work Flow</span></a></li>
+
+                                                     <li>
+                                                        <a id="UserReport" href="javascript:__doPostBack(&#39;ctl00$UserReport&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">User Report</span></a></li>
+
+                                                </ul>
+                                            </li>
+
+
+
+
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="top_nav" style="font-size: 15px;">
+
+                            <div class="nav_menu">
+                                <nav class="" role="navigation" style="margin-top: 30px;">
+                                    <div class="nav toggle">
+                                        <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                                    </div>
+
+
+
+
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li class="profile">
+                                            <img src="common/theme/images/keonics-logo (1).png" style="float: right; height: 36px; margin-right: 5px;">
+                                            <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="border-radius: 0.3em; margin-right: 110px; font-size: 14px; line-height: 20px">Welcome  
+                                                <span id="lblUser">admin</span>
+                                                <!--                                <span class=" fa fa-angle-down"></span>-->
+                                                <span class="glyphicon glyphicon-chevron-down"></span>
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right" style="border-top-left-radius: 0.5em; border-top-right-radius: 0.5em;">
+
+                                                <li><a href="https://prohibitionbihar.in/IEMSS/LOGINIEMS" style="font-size: 14px;"><i class="fa fa-sign-out pull-right"></i>Log Out</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                        <li style="text-align: center">
+                                            <a></a>
+                                        </li>
+
+
+                                    </ul>
+                                </nav>
+                            </div>
+
+                        </div>
+
+                        <a class="" onclick="showChatBox()" id="chat1" style=""><i class="fa fa-wechat" style="font-size: 50px;"></i></a>
+                        <div class="fixed-footer" style="z-index: 11;">
+                            <div class="loginfooter" style="text-align: center;">
+
+
+
+
+
+                                <p style="color: #FFF; float: left; margin-left: 10px; font-size: 14px;">© Department of Prohibition, Excise and Registration , Govt. of Bihar</p>
+                                <p style="color: #FFF; float: right; margin-right: 10px; font-size: 14px;">Designed, Developed and Maintained by KEONICS</p>
+                            </div>
+                        </div>
+
+                        <div class="main-chatbox" style="display: none">
+                            <div id="onlineChatBox"
+                                style="">
+                                <div class="menu1" style="padding-top: 4px; padding-left: 10px;">
+                                    <span style="color: white; font-weight: bold;">Online User List</span>
+                                    <img
+                                        src="img/40-delete-button.png" onclick="closeChatBox('onlineChatBox');"
+                                        style="width: 16px; height: 20px; float: right; margin-right: 5px; margin-top: 2px; cursor: pointer;" />
+                                </div>
+                                <div id="oulist" style="margin-top: 7px;">
+                                </div>
+                            </div>
+
+                            <div id="chatbox"
+                                style="">
+                                <ol class="chat" id="chatboxol">
+                                    <div class="menu1" style="">
+                                        <span id="chatwith" style="color: white;"></span>
+                                        <img
+                                            src="img/40-delete-button.png" onclick="closeChatBox('chatbox');"
+                                            style="width: 16px; height: 20px; float: right; margin-right: 5px; margin-top: 2px; cursor: pointer;" />
+                                    </div>
+                                </ol>
+
+                                <div class="text_area" style="">
+                                    <div class=""></div>
+                                    <!-- 			<input class="textarea" type="text" rows="1" placeholder="Type here!" /> -->
+                                    <textarea class="textarea" id="sendtext" rows="1" cols="30"
+                                        placeholder="Type here...!"></textarea>
+                                    <div class="sendbtn">
+                                        <img src="img/sendbtn.png"
+                                            style="height: 53px; width: 53px; cursor: pointer"
+                                            onclick="sendMsg();" />
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                        <input type="hidden" id="cuser" value="Superuser" />
+
+                        <script src="common/theme/js/bootstrap.min.js"></script>
+
+                        <!-- gauge js -->
+                        <script type="text/javascript" src="common/theme/js/gauge/gauge.min.js"></script>
+                        <script type="text/javascript" src="common/theme/js/gauge/gauge_demo.js"></script>
+                        <!-- chart js -->
+                        <script src="common/theme/js/chartjs/chart.min.js"></script>
+                        <!-- bootstrap progress js -->
+                        <script src="common/theme/js/progressbar/bootstrap-progressbar.min.js"></script>
+                        <script src="common/theme/js/nicescroll/jquery.nicescroll.min.js"></script>
+                        <!-- icheck -->
+                        <script src="common/theme/js/icheck/icheck.min.js"></script>
+                        <!-- daterangepicker -->
+                        <script type="text/javascript" src="common/theme/js/moment.min.js"></script>
+                        <script type="text/javascript" src="common/theme/js/datepicker/daterangepicker.js"></script>
+
+                        <script src="common/theme/js/custom.js"></script>
+
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.pie.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.orderBars.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.time.min.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/date.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.spline.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.stack.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/curvedLines.js"></script>
+                        <script type="text/javascript" src="common/theme/js/flot/jquery.flot.resize.js"></script>
+
+                        <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-2.0.1.min.js"></script>
+                        <script type="text/javascript" src="common/theme/js/maps/gdp-data.js"></script>
+                        <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+                        <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+                        <script type="text/javascript"  src="js/FormValidations.js"></script>          
+                    
+<!-- Visual Studio Browser Link -->
+<script type="application/json" id="__browserLink_initializationData">
+    {"appName":"Chrome","requestId":"3ae37044caf54da8b5a9753b2b73259d"}
+</script>
+<script type="text/javascript" src="http://localhost:49367/31c0559a34b44797a56317e7f9124ec9/browserLink" async="async"></script>
+<!-- End Browser Link -->
+
+
+<!-- Visual Studio Browser Link -->
+<script type="application/json" id="__browserLink_initializationData">
+    {"appName":"Chrome","requestId":"3cb21c79bc1c4bc780978758460b01d6"}
+</script>
+<script type="text/javascript" src="http://localhost:50392/a3f993d75ad544438539a2b9e3e18058/browserLink" async="async"></script>
+<!-- End Browser Link -->
+
+</body> 
+                        </html>
+                    </div>
+              
+     <div class="right_col" role="main" >
+                       
+                       
+                                       
+                                            
+    <div role="main">
+                    <br />
+                    <div class="">
+                        <div class="row top_tiles">
+                            <div class="">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="x_panel">
+           <html xmlns="http://www.w3.org/1999/xhtml">
+
+   <head >
+       
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>User Management</title>
+        <script src="../common/theme/js/jquery.min.js"></script>
+        <script src="../common/theme/js2/jquery.js"></script>
+       
+        <script src="../common/validate/jquery-1.js" type="text/javascript"></script>
+        <script src="../common/validate/jquery_002.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../common/validate/jquery.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../common/validate/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../common/theme/js/bootstrap.min.js"></script>
+
+        <!-- gauge js -->
+        <script type="text/javascript" src="../common/theme/js/gauge/gauge.min.js"></script>
+        <script type="text/javascript" src="../common/theme/js/gauge/gauge_demo.js"></script>
+        <!-- chart js -->
+        <script src="../common/theme/js/chartjs/chart.min.js"></script>
+        <!-- bootstrap progress js -->
+        <script src="../common/theme/js/progressbar/bootstrap-progressbar.min.js"></script>
+        <script src="../common/theme/js/nicescroll/jquery.nicescroll.min.js"></script>
+        <!-- icheck -->
+        <script src="../common/theme/js/icheck/icheck.min.js"></script>
+        <!-- daterangepicker -->
+        <script type="text/javascript" src="../common/theme/js/moment.min.js"></script>
+        <script type="text/javascript" src="../common/theme/js/datepicker/daterangepicker.js"></script>
+
+        
+
+        <!-- flot js -->
+        <!--[if lte IE 8]><script type="text/javascript" src="../common/theme/js/excanvas.min.js"></script><![endif]-->
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.pie.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.orderBars.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.time.min.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/date.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.spline.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.stack.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/curvedLines.js"></script>
+        <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.resize.js"></script>
+
+        <script type="text/javascript" src="../common/theme/js/maps/jquery-jvectormap-2.0.1.min.js"></script>
+        <script type="text/javascript" src="../common/theme/js/maps/gdp-data.js"></script>
+        <script type="text/javascript" src="../common/theme/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+        <script type="text/javascript" src="../common/theme/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+  
+             
+        
+        <style>
+            .nowrap {
+                white-space: nowrap;
+            }
+            .field-icon {
+                /*float: right;*/
+                margin-left: -25px;
+                margin-top: 8px;
+                position: relative;
+                z-index: 2;
+            }
+
+        </style>
+ <style>
+        .formErrorArrow{
+            display: none !important;
+        }
+        .formErrorContent{
+            display: none !important;
+        }
+    </style>
+         
+        <script>
+function validationMsg() {
+                    if (jQuery("#retilLicenseform").validationEngine('validate') === false) {
+                        jQuery(".formErrorContent").css('display', 'none');
+                        jQuery(".formErrorArrow").css('display', 'none');
+                        alert("Please fill all the mandatory fields");
+                    }
+                }
+            function checkValidations() {
+                var inputs = new Array(valid("userName", "userName"), valid("email", "mail"), valid("userId", "userId"), valid("password", "password"), valid("repassword", "repassword"),
+                        valid("orgid", "orgid"), valid("accesstype", "accesstype"), valid("officelevel", "officelevel"),
+                        valid("mobile", "mobileno"), valid("role", "role"),
+                        valid("dob", "dob"), valid("state", "State"), valid("address", "address"));
+
+                var divs = new Array("userNameError", "emailError", "userIdError", "passwordError", "repasswordError", "orgidError", "accesstypeError", "officelevelError", "mobileError", "roleError", "dobError", "stateError", "addressError");
+
+                $("#mobile").change(function () {
+                    var mobno = $(this).val();
+                    if (parseInt(mobno.length) == 10) {
+                        inputs.push(true);
+                        divs.push('mobileError');
+                    }
+                    else {
+                        inputs.push(false);
+                        divs.push('mobileError');
+                    }
+                });
+               
+                if ($('#divexid').is(':visible')) {
+                    var divChk = valid("division", "division");
+                    inputs.push(divChk);
+                    divs.push('divisionError');
+                }
+
+                if ($('#distexid').is(':visible')) {
+                    var distChk = valid("district", "district");
+                    inputs.push(distChk);
+                    divs.push('districtError');
+                }
+                if (checkFields(inputs, divs) == false) {
+                    return false;
+                }
+            }
+            function calculateAge() {
+                debugger;
+                
+                var yrDif = document.getElementById("txtCONSULTANT_AGE").value
+                if (yrDif < 21) {
+                    document.getElementById("txtDATE_OF_BIRTH").value = "";
+//                    document.getElementById('dobError').style.display = "block";
+                    alert("Age should be greater than 21 years");
+                      document.getElementById("BodyContent_txtDATE_OF_BIRTH").focus();
+                }
+                else {
+//                    document.getElementById('dobError').style.display = "none";
+                    document.getElementById("age").value = yrDif;
+                }
+            }
+            function browseFile(slno) {
+                document.getElementById('field' + slno).click();
+            }
+            function setAttachName(slno) {
+                var filenm = document.getElementById('field' + slno).value;
+                var filenmArr = filenm.split(".");
+                document.getElementById('attachname' + slno).value = filenmArr[0];
+            }
+            function browseImage(image) {
+                document.getElementById(image).click();
+            }
+            function imageUpload(image, imageLbl) {
+                var imgText = document.getElementById(image).value;
+                var filename = imgText.replace(/^.*[\\\/]/, '');
+                var imgTextArr = filename.split(".");
+                var imgTxtFTb = imgTextArr[0];
+                if (parseInt(imgTxtFTb.length) > 45) {
+                    imgTxtFTb = imgTxtFTb.substring(0, 45);
+                }
+                document.getElementById(imageLbl).value = imgTxtFTb;
+            }
+           function chkPassword() {
+                var password = document.getElementById("password").value;
+                var repassword = document.getElementById("repassword").value;
+                if (password) {
+                    var strongRegex = new RegExp("^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-7])(?=.*[!@#\$%\^&\*])(?=.{6,})");
+//                    if(password==null && repassword!=null){
+//                        alert("Pls Enter password first");
+//                          $('#password').val('');
+//                          return true;
+//                    }
+//                    alert(password+"               ---             "+strongRegex.test(password))
+                    if (strongRegex.test(password)) {
+//                        document.getElementById('passwordError').style.display = "none";
+                        if (repassword) {
+                            if (password === repassword) {
+//                                document.getElementById('repasswordError').style.display = "none";
+                                return true;
+                            }
+                            
+                            else {
+//                                document.getElementById('repasswordError').style.display = "block";
+                                alert("Passwords Don't Match");
+                                $('#repassword').val('');
+                                return false;
+                            }
+                        }
+                    }
+                    else {
+                        $('#password').val('');
+                        $('#repassword').val('');
+                        alert("Password should have minimum 8 characters in length. At least one character in upper case, lower case & Numeric and special characters! ");
+//                        document.getElementById('passwordError').style.display = "block";
+                        return false;
+                    }
+                }
+                if(repassword){
+                    if(password==null || repassword!=null){
+                        alert("Please Enter password first");
+                          $('#repassword').val('');
+                          return false;
+                    }
+                }
+           }
+          
+   
+            </script>
+       <script src="http://code.jquery.com/jquery-1.11.3.js" type="text/javascript"></script>
+    <script type="text/javascript">
+       function ShowHidePassword() {
+    var txt = $('#BodyContent_txtpassword');
+    if (txt.prop("type") == "password") {
+        txt.prop("type", "text");
+        $("label[for='cbShowHidePassword1']").text("Hide Password");
+    }
+    else {
+        txt.prop("type", "password");
+        $("label[for='cbShowHidePassword1']").text("Show Password");
+    }
+}
+function ShowHidePassword1() {
+    var txt = $('#BodyContent_txtrepassword');
+    if (txt.prop("type") == "repassword") {
+        txt.prop("type", "text");
+        $("label[for='cbShowHidePassword2']").text("Hide Password");
+    }
+    else {
+        txt.prop("type", "repassword");
+        $("label[for='cbShowHidePassword2']").text("Show Password");
+    }
+}
+    </script>
+
+           <script language="javascript" type="text/javascript">
+              function validationMsg() {
+
+                   if (document.getElementById('BodyContent_txtuserName').value == '') {
+                       alert("Enter  Name");
+                       return false;
+                       document.getElementById("BodyContent_txtuserName").focus();
+                   }
+
+                  if (document.getElementById('BodyContent_txtDATE_OF_BIRTH').value == '') {
+                       alert("Select  DOB");
+                       return false;
+                       document.getElementById("BodyContent_txtDATE_OF_BIRTH").focus();
+                   }
+
+                    if (document.getElementById('BodyContent_txtuserid').value == '') {
+                        alert("Enter  User Name");
+                       return false;
+                       document.getElementById("BodyContent_txtuserid").focus();
+                    } password
+                  if (document.getElementById('BodyContent_txtpassword').value == '') {
+                      alert("Enter  Password");
+                       return false;
+                       document.getElementById("BodyContent_txtpassword").focus();
+                  }
+                   if (document.getElementById('BodyContent_txtrepassword').value == '') {
+                      alert("Enter  Repassword");
+                       return false;
+                       document.getElementById("BodyContent_txtrepassword").focus();
+                   }
+                   
+                   if (document.getElementById('BodyContent_ddOrgnames').value == 'Select') {
+                      alert("Select  Organization");
+                       return false;
+                       document.getElementById("BodyContent_ddOrgnames").focus();
+                   }
+                   if (document.getElementById('BodyContent_ddRole').value == 'Select') {
+                      alert("Select  Role");
+                       return false;
+                       document.getElementById("BodyContent_ddRole").focus();
+                   }
+                   if (document.getElementById('BodyContent_ddAccessType').value == 'Select') {
+                      alert("Select  Access Type");
+                       return false;
+                       document.getElementById("BodyContent_ddAccessType").focus();
+                   }
+                   if (document.getElementById('BodyContent_ddRoleLevel').value == 'Select') {
+                      alert("Select  Role Level");
+                       return false;
+                       document.getElementById("BodyContent_ddRoleLevel").focus();
+                   }
+                   if (document.getElementById('BodyContent_mobile').value == '') {
+                       alert("Enter  Mobile Nuber");
+                       return false;
+                       document.getElementById("BodyContent_mobile").focus();
+                   }
+                  if (document.getElementById('BodyContent_txtemail').value == '') {
+                      alert("Enter  Email ID");
+                       return false;
+                       document.getElementById("BodyContent_txtemail").focus();
+                  }
+                     if (document.getElementById('BodyContent_address').value == '') {
+                      alert("Enter  Address");
+                       return false;
+                       document.getElementById("BodyContent_address").focus();
+                     }
+                   
+                  if (document.getElementById('BodyContent_ddStates').value == 'Select') {
+                      alert("Select State");
+                       return false;
+                       document.getElementById("BodyContent_ddStates").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddDivisions').value == 'Select') {
+                      alert("Select Division");
+                       return false;
+                       document.getElementById("BodyContent_ddDivisions").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddDistricts').value == 'Select') {
+                      alert("Select District");
+                       return false;
+                       document.getElementById("BodyContent_ddDistricts").focus();
+                  }
+                   if (document.getElementById('BodyContent_comments').value == '') {
+                       alert("Enter comments");
+                       return false;
+                       document.getElementById("BodyContent_comments").focus();
+                   }
+               }
+             </script>
+        <script type="text/javascript">
+          
+        function validateExtraDocuments() {
+           
+            var fileInput = document.getElementById('BodyContent_UploadPhoto');
+            var filePath = fileInput.value;
+            var allowedExtensions = /(\.jpg|\.jpeg)$/i;
+            if (!allowedExtensions.exec(filePath)) {
+                alert('Please upload file having extensions .jpeg/.jpg only.');
+                fileInput.value = '';
+                return false;
+            }
+           
+             var uploadControl = document.getElementById('BodyContent_UploadPhoto');
+            if (uploadControl.files[0].size > 5000000) {
+                alert("Document size should be less than or eqaul to 5MB !!!!!")
+                document.getElementById('BodyContent_UploadPhoto').value = "";
+                return false;
+            }
+            else {
+
+                return true;
+            }
+        }
+            
+            function phoneValidate()
+            {
+                    var mobileN = document.getElementById("mobile").value.length;
+
+                    if (mobileN != 10) {
+                        alert("Invalid phone number.")
+                    }
+                }
+
+            
+
+               </script>
+      
+       <script language="javascript" type="text/javascript">
+           function compare()
+           {
+               debugger;;
+               var string1 = document.getElementById('BodyContent_txtpassword').value;
+               var string2 = document.getElementById('BodyContent_txtrepassword').value;
+
+                if (string1 == string2)
+                {
+                    //alert("Both values are same.");
+                }
+                else
+                {
+                    alert("Password not Match.");
+                    return false;
+                    document.getElementById('BodyContent_txtrepassword').focus();
+                }
+               
+           }
+</script>
+    </head>
+    <body>
+          
+        <div >
+
+        <ul class="nav nav-tabs">
+         <li  class="active">  <a id="BodyContent_UserRegistration" href="javascript:__doPostBack(&#39;ctl00$BodyContent$UserRegistration&#39;,&#39;&#39;)"><span style="color:#fff;font-size:14px;">User Registration</span></a></li>
+        </ul>
+        <br/>
+          <a  ><a id="BodyContent_ShowRecords" class="myButton3" href="javascript:__doPostBack(&#39;ctl00$BodyContent$ShowRecords&#39;,&#39;&#39;)" style="float:right"><i class="fa fa-list "> SHOW RECORD LIST</i></a></a>
+             <div class="row">
+            <div class="x_title">
+                                    <h2>User Registration Form</h2>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <div class="x_content">
+                                    <br/>
+                                      <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$BodyContent$ScriptManager1', 'ctl01', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+   
+                                        
+                                      
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Name</label>  
+                                            <input name="ctl00$BodyContent$txtuserName" type="text" value="Siva" maxlength="50" id="BodyContent_txtuserName" disabled="disabled" class="aspNetDisabled" autocomplete="off" data-toggle="tooltip" data-placement="right" title="Name" class="form-control capitalize validate[required]" style="background-color:LightGrey;height:30px;" />                                        
+                                   
+                                        </div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>DOB</label>
+                                        &nbsp;   
+        <script type="text/javascript">
+            function SelectDate(e) {
+             
+                var PresentDay = new Date();
+                var dateOfBirth = e.get_selectedDate();
+                var months = (PresentDay.getMonth() - dateOfBirth.getMonth() + (12 * (PresentDay.getFullYear() - dateOfBirth.getFullYear())));
+                //alert("You Are Of " + Math.round(months / 12) + " Years");
+                if (Math.round(months / 12) < 21) {
+                    alert("Age should be greater than 21 Years");
+                    document.getElementById("BodyContent_txtDATE_OF_BIRTH").value = "";
+                  document.getElementById("BodyContent_txtDATE_OF_BIRTH").focus();
+                }
+                else
+                document.getElementById("txtCONSULTANT_AGE").value = Math.round(months / 12);
+            }
+           
+
+            //function findage()
+            //{
+            //    debugger;;
+            //    var PresentDay = new Date();
+            //    var dateOfBirth = (new Date(document.getElementById("txtDATE_OF_BIRTH").value));
+            //    var months = (PresentDay.getMonth() - dateOfBirth.getMonth() + (12 * (PresentDay.getFullYear() - dateOfBirth.getFullYear())));
+            //    if (Math.round(months / 12) < 21) {
+            //        alert("Age should be greater than" + Math.round(months / 12) + " Years");
+            //    }
+            //    else
+            //        document.getElementById("txtCONSULTANT_AGE").value = Math.round(months / 12);
+            //}
+    </script>
+
+    <input name="ctl00$BodyContent$txtDATE_OF_BIRTH" type="text" value="14-02-1989 00:00:00" id="BodyContent_txtDATE_OF_BIRTH" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="bottom" title="DOB" class="form-control validate[required]" AutoComplete="off" onchange="return findage();" style="background-color:LightGrey;font-size:14px;height:30px;" />
+                                           
+                                        </div> 
+<!--                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Age(Years)</label>
+                                           
+                                        </div>-->
+                                        
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Username</label>  
+                                             <input name="ctl00$BodyContent$txtuserid" type="text" value="siva123" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$txtuserid\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="BodyContent_txtuserid" disabled="disabled" class="aspNetDisabled" class="form-control" data-toggle="tooltip" data-placement="bottom" title="Username" style="background-color:LightGrey;height:30px;" />                                         
+                                        </div>
+<p>&nbsp;</p> 
+                                          
+                   
+                                        
+                                        
+                                        
+
+    
+                                    <p>&nbsp;</p>
+                                     <p>&nbsp;</p>
+                                     <div class="clearfix"></div>
+                                     <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label">Address</label>    
+                                            <textarea name="ctl00$BodyContent$address" rows="3" cols="20" id="BodyContent_address" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Address" class="form-control" name="address" autocomplete="off" style="background-color:LightGrey;resize: none;">
+dasadadada</textarea>      
+                                            
+                                            <p id="addressError" style="color: red; font: bold; display: none; text-align: right;">Address should not be empty</p>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Mobile Number</label>   
+                                           &nbsp; <input name="ctl00$BodyContent$mobile" type="text" value="123" maxlength="10" id="BodyContent_mobile" disabled="disabled" class="aspNetDisabled" name="mobile" data-toggle="tooltip" data-placement="right" title="Mobile Number" class="form-control validate[custom[phone],required]" onkeypress="return onlyDotsAndNumbers(this,event);" onchange="phoneValidate()" style="background-color:LightGrey;height:30px;" />                                        
+                                           
+                                           
+                                        </div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Email ID</label>
+                                           <input name="ctl00$BodyContent$txtemail" type="text" value="aaaaadaaa" id="BodyContent_txtemail" disabled="disabled" class="aspNetDisabled" class="form-control" data-toggle="tooltip" data-placement="right" title="Email ID" onchange="CheckEmailAddress(this.value);" style="background-color:LightGrey;height:30px;" />
+                                        </div>
+                                       
+                                     
+                                        <p>&nbsp;</p>
+                                     <p>&nbsp;</p>
+                                     <div class="clearfix"></div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Organization</label>                                            
+                                            <select name="ctl00$BodyContent$ddOrgnames" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddOrgnames\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddOrgnames" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Role Name" class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option value="Select">Select</option>
+	<option selected="selected" value="1">Prohibition, Excise &amp; Registration, Govt. Of Bihar</option>
+
+</select>
+                                        </div>
+
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Role</label>                                            
+                                           &nbsp; <select name="ctl00$BodyContent$ddRole" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddRole\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddRole" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Role Name" class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option value="Select">Select</option>
+	<option selected="selected" value="1">Assistant commisioner</option>
+
+</select>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Access Type</label>                                            
+                                            <select name="ctl00$BodyContent$ddAccessType" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddAccessType\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddAccessType" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Access Type" class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option value="Select">Select</option>
+	<option selected="selected" value="1">access12</option>
+
+</select>
+                                        </div>
+                                         <p>&nbsp;</p>
+                                     <div class="clearfix"></div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Role Level</label>                                            
+                                           <select name="ctl00$BodyContent$ddRoleLevel" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddRoleLevel\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddRoleLevel" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Role Level" class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option selected="selected" value="Select">Select</option>
+	<option value="1">level1</option>
+
+</select>
+                                        </div>  
+                                       
+                                        <p>&nbsp;</p>
+                                     <p>&nbsp;</p>
+                                     <div class="clearfix"></div>
+                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>State</label>                                            
+                                            <select name="ctl00$BodyContent$ddStates" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddStates\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddStates" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="State " class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option value="Select">Select</option>
+	<option value="BH">Bihar</option>
+	<option selected="selected" value="AR">Arunachal Pradesh</option>
+	<option value="CH">Chandigarh </option>
+
+</select>
+                                        </div>   
+                                        <div id="divexid" class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span> Division</label>
+                                         &nbsp;  <select name="ctl00$BodyContent$ddDivisions" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddDivisions\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddDivisions" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Division " class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option value="Select">Select</option>
+	<option value="02">Patna1</option>
+	<option selected="selected" value="03">Souple</option>
+	<option value="01">Patna_1</option>
+
+</select>
+                                        </div>
+                                          
+                                        <div id="distexid" class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span> District</label>
+                                            <select name="ctl00$BodyContent$ddDistricts" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddDistricts\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddDistricts" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="District " class="form-control validate[required]" style="background-color:LightGrey;height:30px;width:350px;">
+	<option value="Select">Select</option>
+	<option selected="selected" value="02">District2</option>
+	<option value="01">District1</option>
+
+</select>
+                                        </div>
+                                            
+                                             <p>&nbsp;</p>
+                                     <div class="clearfix"></div>    
+                                          <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color:red">*</span> Comments</label>   
+                                              <textarea name="ctl00$BodyContent$comments" rows="3" cols="20" id="BodyContent_comments" disabled="disabled" class="aspNetDisabled" data-toggle="tooltip" data-placement="right" title="Comments" class="form-control validate[required]" name="comments" autocomplete="off" style="background-color:LightGrey;">
+</textarea>                                      
+                                                
+                                            </div><br>
+                                          <p>&nbsp;</p>
+                                     <p>&nbsp;</p>
+                                     <div class="clearfix"></div>   
+                                   
+                                    
+                                        <div id="BodyContent_photo" class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label" >Upload Passport Size Photo</label>
+                                                
+                                            <a id="BodyContent_btnDownload" class="myButton" href="javascript:__doPostBack(&#39;ctl00$BodyContent$btnDownload&#39;,&#39;&#39;)">Download</a>
+                                                                    
+                                                    <p style="font-size: 9px; font-weight:600;">(.jpg, .jpeg  upto 2 MB max)</p>
+                                                         
+                                                     
+                                               
+                                                </div>
+
+
+
+                                          
+                                       
+                                        <p>&nbsp;</p>
+
+                                        <p>&nbsp;</p>
+
+                                        <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+                                        <span id="recaptchaerr" style="color: red;"></span>
+
+
+
+
+                                        <div style="clear: both"><p>&nbsp;</p><p>&nbsp;</p></div>
+                                        <div class="col-md-9 col-sm-9 col-xs-9 form-inline">
+                                            <div class="col-md-9 col-sm-9 col-xs-9">
+                                                  <input type="hidden" name="ctl00$BodyContent$orgid" id="BodyContent_orgid" />
+                                                <input type="submit" name="ctl00$BodyContent$btnSave" value="Save" onclick="javascript:return validationMsg();" id="BodyContent_btnSave" class="btn btn-primary" />
+                                                <input type="submit" name="ctl00$BodyContent$btnCancel" value="Cancel" id="BodyContent_btnCancel" class="btn btn-danger" />                          
+                                            </div>  
+                                        </div>  
+                                        
+                                   
+                                            
+                                        </div>
+                                       
+                                        
+                                   
+                                </div> 
+                                        
+                            </div>
+         <div id="custom_notifications" class="custom-notifications dsp_none">
+                <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group">
+                </ul>
+                <div class="clearfix"></div>
+                <div id="notif-group" class="tabbed_notifications"></div>
+            </div>
+           
+                          
+            
+        </body>
+                 </html>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                          </div>
+        </div>
+     
+
+
+                                          
+                                           
+        </div> 
+    </div>
+       
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="38C231E4" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="100" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="QiMqiT7jUSFPWITdyBZVwYhCZqvPoO1+k5Mpl34icQCuSqSI4lt5jQAkVdxc+OUzEnDKlFyVg/arI8pEsaj7Dttvwldlwh83DSt9o6oLgE1tIQItrapyzA5ATbYAUgDUiqTvWKWtnkvBc3Dt6+DB19Sgd+Mnft1151hMh79DbOX7UUsOhA0PNYdnfTji+0M5aDKd/akk0ldrJeOyAHWFbn96mrzk5PwDyhUO+IgncdsVw8B4HgrHrKiSyb8ZeR6WbdXLr65B7X2YcKpkX9032ozhkVJX96FkeEfzKZxO7UAMack+1S3G7HVAyRGYtTC7nZq30C5Yx2KFO/jn+vxnR/7/ixj9wN3ni+E9bEyqTM3+YZwRYOn6cVrI+yYg73IYXrMlGwHBwlA/IVWJJWxoYtp3EhClF/CmIgOnbEMI5YN02qCQLgKybBb7Kbxk2jaiclkmxH6Bh4KsIEAN0LNoLcBkS4O/lxzTNO4vCWqJv4w2DUyrD+IYLTeh1jucuIUD+QYpd85Avtkgr/G4KG6WzG/gRU7vh0tlQCFEvT9cmKqWpIQDnjdXU/k0wKpTPWIs4jgpL6oRFdSEoF++FD8vNoBAhhnxOvrD+5W0IK/V1tirWlEm2/FKCI+6931EVh5fsXHzHvoJufpEgK5SaPKBKHuGgghhC+PwEzs8ZGexfKd2qGqXyqtJLRAiGnOqznA7ItqqhDBb+6JWbNUFo7PlS/He5eKQwqaSN2rSJCX+mLQzU7S+rVeDtfg9Bfqi+h2nw/f8A2yzXT3Sl+pAHOOb5S++cxpUtqzS327r+Qvm1OILMEiK2qUAHHCawbBbbgGKSHz0G72tSPHZn3dCAQyNC6blQufP9e6yu+87XbPHplkk2xfbuvxvg6uNAbHnueVTQR1JJq6tGnlT/nRgiEctDJ+qDn68D2wfxzM20JcjSewRIwfWBasDqzte3S2Y0uGzsU+QAoJkdqT8Yu9p1n0ViRuvQfYOM7gGM1vFS9W11GXVZW7Dd/nQjhk1HlzKhZbx0qfybnuCrnwp5gh4DXZsU7t5iUx9tcQkZBnQ+LUJFMk=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+theForm.oldOnLoad = window.onload;
+window.onload = WebForm_RestoreScrollPosition;
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CalendarBehavior, {"format":"dd-MM-yyyy","id":"BodyContent_CalendarExtender1"}, {"dateSelectionChanged":SelectDate}, null, $get("BodyContent_txtDATE_OF_BIRTH"));
+});
+//]]>
+</script>
+</form>
+     </body>  
+            </html>
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head><meta charset="UTF-8" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	EXCISE AUTOMATION
+</title><link rel="shortcut icon" href="common/theme/assets/ico/fevicon.png" /><link href="common/theme/css/datatables/tools/css/dataTables.tableTools.css" rel="stylesheet" /><link rel="shortcut icon" type="image/x-icon" href="gobsymbol.ico" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!-- chat style -->
+    <link href="cssres/homestyle.css" rel="stylesheet" type="text/css" /><link href="cssres/chatstyle.css" rel="stylesheet" type="text/css" /><link href="common/theme/css/bootstrap.min.css" rel="stylesheet" /><link href="common/theme/fonts/css/font-awesome.min.css" rel="stylesheet" /><link href="common/theme/css/animate.min.css" rel="stylesheet" />
+
+    <!-- Custom styling plus plugins -->
+    <link href="common/theme/css/custom.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="common/theme/css/maps/jquery-jvectormap-2.0.1.css" /><link href="common/theme/css/icheck/flat/green.css" rel="stylesheet" /><link href="common/theme/css/floatexamples.css" rel="stylesheet" type="text/css" />
+
+    <script src="common/theme/js/jquery.min.js"></script>
+    <script src="common/theme/js/nprogress.js"></script>
+
+    <script src="common/theme/js/jquery.min.js"></script>
+    <script src="common/theme/js/nprogress.js"></script>
+    <script src="common/datepicker/jquery-1.10.2.js"></script>
+    <script src="common/datepicker/jquery-ui.js"></script>
+    <link rel="stylesheet" href="common/datepicker/jquery-ui.css" />
+    <script src="common/datepicker/MonthPicker.min.js"></script>
+    <script src="common/datepicker/jquery.maskedinput.min.js"></script>
+    <link rel="stylesheet" href="common/datepicker/test.css" />
+
+    <!-- Jquery Validation Engine-->
+    <link rel="stylesheet" href="common/validate/validationEngine.jquery.css" type="text/css" />
+    <script src="common/validate/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="common/validate/jquery.validationEngine.js" type="text/javascript" charset="utf-8">
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="common/Timepicker/jquery.timepicker.css" />
+    <script type="text/javascript" src="common/Timepicker/jquery.timepicker.js"></script>
+
+    <link href="common/css1/chosen.min.css" rel="stylesheet" type="text/css" />
+    <script src="common/js/chosen1.5.1.jquery.min.js" type="text/javascript"></script>
+  
+       
+                              
+        
+        <style>
+            .nav_menu {
+                /*//background-image:  url(common/theme/images/Webtemplate_03.png);*/
+                background-repeat: no-repeat;
+                background-color: #26b8b8;
+                background-attachment: inherit;
+                background-position: top center;
+                background-size: cover;
+                position: relative;
+                height: 100px;
+                border-bottom: 5px solid #ffb400;
+            }
+
+            .dropdown-menu {
+                list-style: none;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                border: 1px solid rgba(0, 0, 0, 0.2);
+                -webkit-border-radius: 5px;
+                /*//-moz-border-radius: 5px;*/
+                border-radius: 0.5em;
+                -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+                /*//-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);*/
+                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+                -webkit-background-clip: padding-box;
+                /*//-moz-background-clip: padding;*/
+                background-clip: padding-box;
+                /*width: 300px;
+                height: 200px;
+                padding-top: 10px;
+                padding-left: 10px;
+                padding-right: 10px;*/
+                margin-right: 5px;
+                border-top-left-radius: 0.5em;
+                border-top-right-radius: 0.5em;
+            }
+
+            .site_title p {
+                width: 125px;
+                margin-top: -85px;
+                line-height: 0.9em;
+                margin-left: 88px;
+                text-align: center;
+            }
+
+
+            .fixed-footer {
+                width: 100%;
+                position: fixed;
+                background: #333;
+                padding: 10px 0;
+                color: #fff;
+            }
+
+            .fixed-footer {
+                bottom: 0;
+            }
+
+            /*chat box*/
+            #oulist a {
+                color: rgba(82, 179, 217, 0.9);
+            }
+
+            #chat1 {
+                bottom: 50px;
+                /*//float: left;*/
+                right: 10px;
+                position: fixed;
+                z-index: 100001;
+                color: #066061;
+            }
+
+            .fa-wechat:hover {
+                color: #26b8b8;
+            }
+
+            .chat li:nth-child(2) {
+                /*//margin-top: 60px;*/
+            }
+
+            #onlineChatBox {
+                overflow-y: auto;
+                height: 65%;
+                width: 230px;
+                background: #fff;
+                margin-top: 67px;
+                float: right;
+                border-radius: 2px;
+                margin-right: 0px;
+                overflow-y: scroll;
+                border: 1px solid #dbd8d8;
+            }
+
+            #chatbox {
+                /*overflow-y: scroll; 
+                height: auto; 
+                width: 350px; 
+                margin-right: 10px; 
+                margin-top: 280px; 
+                background: #e5e5e5; 
+                float: right;
+                bottom: 0;
+                max-height: 200px;*/
+                overflow-y: scroll;
+                height: 38%;
+                width: 333px;
+                margin-right: 10px;
+                /*//margin-top: 265px;*/
+                background: rgb(229, 229, 229) none repeat scroll 0% 0%;
+                float: right;
+                display: block;
+                position: fixed;
+                /*//bottom: -325px;*/
+                right: 225px;
+                bottom: 60px;
+            }
+
+                #chatbox .menu1 {
+                    padding-top: 4px;
+                    padding-left: 10px;
+                    background-color: #26b8b8;
+                    position: fixed;
+                    width: 320px;
+                    margin-top: -2px;
+                }
+
+            .text_area {
+                height: 100px;
+                bottom: 60px;
+                position: fixed;
+                z-index: 9;
+            }
+
+            @media screen and (max-width: 480px) {
+                .nav > li > a.dash_board {
+                    display: none;
+                }
+
+                .nav > li {
+                    width: fit-content;
+                    /*margin-left: 65px;*/
+                }
+
+                .open, .profile {
+                    margin-top: -90px;
+                }
+
+                .toggle {
+                    width: 50px;
+                    margin-top: 10px;
+                }
+
+                .switch_menu {
+                    margin-top: 12px;
+                    margin-left: 70px;
+                }
+
+                .top_nav .navbar-right li a {
+                    margin-top: -3px;
+                }
+
+                .site_title img {
+                    margin-top: 2px;
+                    margin-left: -17px;
+                }
+
+                #onlineChatBox {
+                    height: 200px;
+                    width: 230px;
+                }
+
+                #chatbox {
+                    width: 260px;
+                    margin-right: -210px;
+                    /*//margin-top: 10px;*/
+                    max-height: 210px;
+                    bottom: 105px;
+                }
+
+                    #chatbox .menu1 {
+                        width: 250px;
+                    }
+
+                #chat1 {
+                    bottom: 100px;
+                    right: 20px;
+                }
+
+                .textarea {
+                    width: 190px;
+                    bottom: 0px;
+                    margin-left: 5px;
+                }
+
+                .sendbtn {
+                    position: absolute;
+                    padding-left: 197px;
+                    bottom: -3px;
+                }
+
+                .main-chatbox {
+                    height: 75%;
+                    margin-top: 25%;
+                }
+
+                .text_area {
+                    height: 100px;
+                    bottom: 110px;
+                    position: fixed;
+                }
+            }
+
+
+            .auto-style1 {
+                width: 440px;
+            }
+        </style>
+<link href="/WebResource.axd?d=lwgz3BEaFr8V6rnSnqQ4jWDrrQo6sRp_YE6Cz_1NG6rrcppELZKfARHR52ivkaBWYUqJzLUFVf0o_xUnQDfXY6dGdX-BPwtVsZqhPV-yePM9sV1ze7MY-d9AN45xrd0RDKNbigI8efv5WshG3mbxJA2&amp;t=637013846854178799" type="text/css" rel="stylesheet" /><link href="/WebResource.axd?d=UT1Cj7SEzX8U-GEgOjD-q7GJuPH_q3olLIYKGEaKLQTZG09kqo4B92qwtHMEXkca5UVvuZVs6auLYyigX2-YizcmR5pAa1IUfYW1qghTO0D404M9FEyOw9Giqn-Ozd50gOLhZTslI0QMeGl_J880rA2&amp;t=637013846854178799" type="text/css" rel="stylesheet" /></head>
+<body class="nav-md">
+    <form method="post" action="./UserRegistrationForm" id="ctl01" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="gxKp28dpI1i3gjICCLHRrfe2Yz192rkzhCbAFzR6KEbdmQtG9VMRclkLlpGTwj6pB+sZmyxm+8EKpNiCocg/fh4zbWcX3i8oP3r22jE9Ej1damPGizcGYRc48bFzqc43u30f6mks+4KtYh3hAyYjg+Me5UaJwBUnDo4UKOVWicx0C3uVf0iAk0rN9GFQrHgZ99I+U+DbF0x0uo5TUzovj30WZtE0g3BTnOGQgtlOVZwhnrICJnU3hLHcbB13Xbe+QIWfpVCfPSvBU4qy5V2mHkj6irigfZRvAT9j7y3/3014jHYObQZ78TFmH+u4nal9qP13oCyjO8jbcWNELfQVSbhY0PznWFhaszl81nm6YfqmPHP7jq90LRScIfx3scyaC4LKZ5ibrB1YSt7C9RJvJ1NelQAQO0j0MkXqljoYE0k1+12FOlmFxnFvZC0H1HGFo/W3kTOy6tFjG5Kf5crVPvEJgyaY//+uvmMVIdS6I2hG7edL6A07ZBg5ySmhLZWDUQR9+WqBjTUxNBsmyUj/hbFs04ce+ilUqYtUZmH01FeFqjzRlxf2lcfFtEeieNlqNUPMwVRwhxjFyv5XwPDme22kG6eytDedOGRpsRs26Blzjj5C/W22skA3jdzp6clok07yJpiYzYZpYN/KR+XReRHrrljow5rdP7ctaAThboKU40EON29PBXzoVODA1gWaOjkHaz3fxxcQTobcHPcRME3NXGT33jjBWwvi2zHjTLZ2RkEQr90qVjWEebPs8z4KGX9XVWaZFPeR4etNDEhEpKciuLkgmPudCmdhH4jkEfQZ7ltx775yXs2AsQ79VY42BsqEE825QgU+h97rxJkB9zKmLxDqV4Qo5KKEWNgoI3tpbSx0J/iEDij4gihrqzVYnFfe4TNsZC2tdhMyJNV9xG8Vt3ixvpJ8LtN+ztJYcxPEciM07uAcU4z11MVIvcxMkZF2IWtuWkPNqxCXV37Q6LJIAqYHxS5Zcs1PNe/azqq8/VE1eHQwMVSbuuhC7VuxKq8MEnMXvrLcDc5jz3lrFunehN8RVnS7pwpjjVHf8Jal5DKySqF//6PVyl5a2MxQhWj46FpXMmxtOEIiTx/6YX53I8FZhiO4jp9gQH2TZ9GteWMY/DRq08+DuQmSQkK9aFf3c9f0XGwgkN8tfbsqdwV8JFiWRVecuUDq7DPD6nW3B6ASYO71Yv+4ec5flOm1qse1bvFEBVlaHpOekEWdGkYOilScxVEmTQWFolaUmUK8h3P5OoQ1h/IUpi3dXM/UPS286qtY0JEh+VI9J4xkBeR1fsmP3IeIG42TMuEdHQQWsdp1c1eP6nu7nJdaXhuORzTUriZWWS5+xy5c8ISvGmwBDBwXgDbQ1nNfuVOcrWx8Ogzrttr7x8PY4L/j+JtsfBEtFceqVtMtx/l3YWve3gd6hxlVcRugHvw18RlXaSazPWffKqxBKWZJtbltidOEGq0rf3v2O678AELtL2CADB8KDr6hgxyhVSRXLVWrOIDbbCl0niKzUbj4nupQQoCAE76vdPNu61LdYY1fmnOdp9UklDOTc4wP9+8zqao4WWh1Sm/XbqUt8fEudmVpkBLRVrgICbSmv0Nob9+b3vuG5MzA17JeuMMtPBXRihuzrhdO3ZK7hQMllYOORQ5FpC26qzQNIE5/wCwZHF1Qb3lGWq1cx8t3aOfvw2JccT902LrdCizY5oIiBLvwUkpa9RVVJrJpa33jGIn6zkscKGhz1YettiNpMWccJ630aQTNdEVBoRAWbjNYuRJr+9yL37+0Dv9VChEEpjXOLdRZf49rgJNfXO0b1vOkBp3Q/ngguykMWyI/NgJ0OZi+HitNAkMVbrGNlNp03mONrWqtPdYn6/vq00dPqYaO+aMBnxJfqz+kH23Q0kSsjL/JivJDC2tg6t078sRvrCsuADKGMxc4vpnjRM1qWkj6A1JlftoNVqGdNJ4uvlgk9k73zpU0lh5Rs2CGgVS/Uv2BsvufyyD9wg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl01'];
+if (!theForm) {
+    theForm = document.ctl01;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZOZ-VUpSLWkmQeUqMt4YCuKNeJYB_7ikYZWuNTGDTIs0EAW_TvNuYQKxmQbnMLDpYA2&amp;t=637290987560000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQsmeIgd3PVUAValEUY20CBTT7kLGWVqbzaz6__-Pferxi51FC7AP-wP7fLW67jrUdO3vm85LYQzrgn34HMrwi54CNe9yWMSUdsiy7YxY2EOQLBvtYs8Fj7M9exfPaSb3jAJ_juA1P17h0xxo_UN1JlU1&amp;t=2a797f5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tVTj3_8PztLWlaNkLjB408V6REI6PSVrYJQ5EIyxhh4HURgCO28a7kmFUSI_GvMhHvPpkryrJtrE-3RbPNImmK97CGA0MUheWZPN8FwlfwlQISw0nmhmfwAX-0Kg0xOQe02y2p06tBhvX7Kda1GC2pn2HE_ParQhPihOgidhHBy20&amp;t=2a797f5c" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pVdHczR8HTv0TYtXLibFoIOko4hylRVp0CpbiW3IDLarJcsVwHCnddNZZcSL7ZSaMCGKmyS9nqbiR-HvGyEG7XDuKnjwtyVSwYT1q7hBX_CFMxpcTGU4swLwyeH2l46CWHXrcjYjWHxFbWs5q3ENmw2&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-qISl4-OkT-7X02E4Fisr0gvjm-tuycevBm2qMH7X9_coWTuQM3fIOC7bxfKztOO97F68B_FNFIAcKxJpCNbzWv6dY9nWrpkTpafX1tq8w0QUoGAF0zn_KozVWd7ruBi0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LpGQnoKUSgO3ODsBUs8GfSvwkPQz9lDIB8h3f6G_8BNCtIaQAxNIYn1Rk0gLLTzBAIuD9Id7ubLxRmEj072GY-KX7pIwHLyG0Rs30x7D9KSO-9XOy78lNRY06hPk2ePO0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yU8qy6lBkK3tBrsJLcY-rwm9c2foStO2VyEDXWLVuq4wiNBUUDvAW9Etmv7vCiK3MDCzl58kiRxbp0zN3wngFAD53ZC9whiq-_GlA7GePVG3G9lPkM_gp5Tkiqyfq9ym0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=iC2sD0Al8A6ZX4AVmUco0Vi44p0TUj1H4yOn0El8wXMX1G-hbshEBStDF6J4dVtSe5IziwvCTz6-Lu5UXvLzCFcvxFBwiXbsITLO5472JgorR8LE-81qgh7MsbKJrQfL0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=q85rlLsZEVu9loex9kzISK6nufgzqG1mytuld847N7f1nA6lBgZb2aYyEXp4Ta2ruLamxYTm4Ko6Nh-NszoMmSaV3LY1y3mp4jnozoCzURRIM7jIEaWzGeWjd3AKlbNh0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VXG5HWKmJ5VfT6XbkUxKRir2NPLB4-E0kvezIgJnsMypfNEfxm_f6biR2bWkN_EqXrVeLkMbhbfjSO8cDikq6sYnluqtlZkn2uSIdEbl68elbfK_FVQe1WTVdl4EMWKx0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9fVK6SOzqud8-CG5DRcWdZXkEyPIUO8Qp8mBAgdeIKpo-eEEsXpIUqyT0_pqoMrSlBZ81uTpkZZlHJfNVtpUUS-pS3NIFlS_0Yke4ZdH62w2iPpCxtcDDYtQEVQT4iUu0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sjnc2GCx94Cxb1ZyngUXYvRaLkWONGw3OcdY7QflMS957ewsEvbED4GtUvOkHvLFqNLCEpWqYClwegamvf_OBpWneVmRh3ZcuFMgl-O0eGYH1rXEUWyVRmjAo4T9N6qo0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fLmPtwBM7iAqsX1ogwShTzaFs2SSJn_JT8anaIWg7QWt7h_zsTdwrfnF82BSvom36SFFrllkm_jMSgWT4xAW096krlgpO6MOTU_WeAFL8eVGL46EPmbJgRvkFsOitpWw0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=BtVjqlFfNWRQ4Fv4f6wktdakmB-Q8OHJFFXwmfsWe9xva1pfJzj325lvEiJtzmKFtuKuqvOCovdtSXGY0wo0EdMLSiBGnspDA3v0mnt_tnmeUORDwqsDJEV9lNjdhfXd0&amp;t=ffffffffb56adc1f" type="text/javascript"></script>
+        <div class="container body">
+            <div class="main_container">
+                <html>
+                <body>
+                    <div class="col-md-3 left_col">
+                        <div class="left_col scroll-view">
+                            <div class="navbar nav_title" style="border: 0;">
+                                <a  class="site_title">
+                                    <img style="" src="common/theme/assets/img/Logo_circle.png" alt="" /><p style="width: 100px;"><span style="font-size: 13px"><b>Integrated Excise Management System</b></span></p>
+                                </a>
+
+
+                            </div>
+                            <div class="clearfix"></div>
+
+                            <br />
+
+                            <!-- sidebar menu -->
+                            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu" style="margin-top: 23px;">
+
+                                <div class="menu_section">
+                                    <ul class="nav side-menu">
+
+
+                                                                              
+                                        <li><a>Excise Automation<span class="fa fa-chevron-down"></span></a>
+                                            <ul id="ulmain" class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li>
+                                                    <a id="Organisation" href="javascript:__doPostBack(&#39;ctl00$Organisation&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Organisation</span></a></li>
+                                                <li>
+
+                                                <li>
+                                                    <a id="UserManagementMasters" href="javascript:__doPostBack(&#39;ctl00$UserManagementMasters&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">User Management Masters</span></a></li>
+                                                <li>
+                                                    <a id="RolePermission" href="javascript:__doPostBack(&#39;ctl00$RolePermission&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Role Permission</span></a></li>
+                                                <li>
+                                                    <a id="UserRegistration" href="javascript:__doPostBack(&#39;ctl00$UserRegistration&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">User Registration</span></a></li>
+
+                                                <li>
+                                                    <a id="WorkFlow" href="javascript:__doPostBack(&#39;ctl00$WorkFlow&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Work Flow</span></a></li>
+
+                                                
+
+                                            </ul>
+                                        </li>
+                                         <li><a>Reports<span class="fa fa-chevron-down"></span></a>
+                                            <ul id="ulmain" class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li>
+                                                    <a id="btnMasterReports" href="javascript:__doPostBack(&#39;ctl00$btnMasterReports&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">Master Reports</span></a></li>
+                                                <li>
+                                                <li>
+                                                    <a id="btnUserReports" href="javascript:__doPostBack(&#39;ctl00$btnUserReports&#39;,&#39;&#39;)"><span style="color:#fff;font-size:12px;">User Reports</span></a></li>
+                                                <li>
+                                               
+                                            </ul>
+                                        </li>
+
+
+
+
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="top_nav" style="font-size: 15px;">
+
+                        <div class="nav_menu">
+                            <nav class="" role="navigation" style="margin-top: 30px;">
+                                <div class="nav toggle">
+                                    <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                                </div>
+
+
+
+
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li class="profile">
+                                        <img src="common/theme/images/keonics-logo (1).png" style="float: right; height: 36px; margin-right: 5px;">
+                                        <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="border-radius: 0.3em; margin-right: 110px; font-size: 14px; line-height: 20px">Welcome  
+                                                <span id="lblUser">admin</span>
+                                            <!--                                <span class=" fa fa-angle-down"></span>-->
+                                            <span class="glyphicon glyphicon-chevron-down"></span>
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right" style="border-top-left-radius: 0.5em; border-top-right-radius: 0.5em;">
+
+                                            <li><a href="https://prohibitionbihar.in/IEMSS/LOGINIEMS" style="font-size: 14px;"><i class="fa fa-sign-out pull-right"></i>Log Out</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li style="text-align: center">
+                                        <a></a>
+                                    </li>
+
+
+                                </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+
+                    <a class="" onclick="showChatBox()" id="chat1" style=""><i class="fa fa-wechat" style="font-size: 50px;"></i></a>
+                    <div class="fixed-footer" style="z-index: 11;">
+                        <div class="loginfooter" style="text-align: center;">
+
+
+
+
+
+                            <p style="color: #FFF; float: left; margin-left: 10px; font-size: 14px;">© Department of Prohibition, Excise and Registration , Govt. of Bihar</p>
+                            <p style="color: #FFF; float: right; margin-right: 10px; font-size: 14px;">Designed, Developed and Maintained by KEONICS</p>
+                        </div>
+                    </div>
+
+                    <div class="main-chatbox" style="display: none">
+                        <div id="onlineChatBox"
+                            style="">
+                            <div class="menu1" style="padding-top: 4px; padding-left: 10px;">
+                                <span style="color: white; font-weight: bold;">Online User List</span>
+                                <img
+                                    src="img/40-delete-button.png" onclick="closeChatBox('onlineChatBox');"
+                                    style="width: 16px; height: 20px; float: right; margin-right: 5px; margin-top: 2px; cursor: pointer;" />
+                            </div>
+                            <div id="oulist" style="margin-top: 7px;">
+                            </div>
+                        </div>
+
+                        <div id="chatbox"
+                            style="">
+                            <ol class="chat" id="chatboxol">
+                                <div class="menu1" style="">
+                                    <span id="chatwith" style="color: white;"></span>
+                                    <img
+                                        src="img/40-delete-button.png" onclick="closeChatBox('chatbox');"
+                                        style="width: 16px; height: 20px; float: right; margin-right: 5px; margin-top: 2px; cursor: pointer;" />
+                                </div>
+                            </ol>
+
+                            <div class="text_area" style="">
+                                <div class=""></div>
+                                <!-- 			<input class="textarea" type="text" rows="1" placeholder="Type here!" /> -->
+                                <textarea class="textarea" id="sendtext" rows="1" cols="30"
+                                    placeholder="Type here...!"></textarea>
+                                <div class="sendbtn">
+                                    <img src="img/sendbtn.png"
+                                        style="height: 53px; width: 53px; cursor: pointer"
+                                        onclick="sendMsg();" />
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <input type="hidden" id="cuser" value="Superuser" />
+
+                    <script src="common/theme/js/bootstrap.min.js"></script>
+
+                    <!-- gauge js -->
+                    <script type="text/javascript" src="common/theme/js/gauge/gauge.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/gauge/gauge_demo.js"></script>
+                    <!-- chart js -->
+                    <script src="common/theme/js/chartjs/chart.min.js"></script>
+                    <!-- bootstrap progress js -->
+                    <script src="common/theme/js/progressbar/bootstrap-progressbar.min.js"></script>
+                    <script src="common/theme/js/nicescroll/jquery.nicescroll.min.js"></script>
+                    <!-- icheck -->
+                    <script src="common/theme/js/icheck/icheck.min.js"></script>
+                    <!-- daterangepicker -->
+                    <script type="text/javascript" src="common/theme/js/moment.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/datepicker/daterangepicker.js"></script>
+
+                    <script src="common/theme/js/custom.js"></script>
+
+                    <!-- flot js -->
+                    <!--[if lte IE 8]><script type="text/javascript" src="common/theme/js/excanvas.min.js"></script><![endif]-->
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.pie.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.orderBars.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.time.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/date.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.spline.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.stack.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/curvedLines.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.resize.js"></script>
+
+                    <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-2.0.1.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/gdp-data.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+
+                </body>
+                </html>
+            </div>
+
+            <div class="right_col" role="main">
+
+
+
+                
+    <div role="main">
+        <br />
+        <div class="">
+            <div class="row top_tiles">
+                <div class="">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="x_panel">
+                            <html xmlns="http://www.w3.org/1999/xhtml">
+
+                            <head>
+
+                                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                                <title>User Management</title>
+                                <script src="../common/theme/js/jquery.min.js"></script>
+                                <script src="../common/theme/js2/jquery.js"></script>
+                                
+                                <script src="../common/validate/jquery-1.js" type="text/javascript"></script>
+                                <script src="../common/validate/jquery_002.js" type="text/javascript" charset="utf-8"></script>
+                                <script src="../common/validate/jquery.js" type="text/javascript" charset="utf-8"></script>
+                                <script src="../common/validate/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+                                <script src="../common/theme/js/bootstrap.min.js"></script>
+
+                                <!-- gauge js -->
+                                <script type="text/javascript" src="../common/theme/js/gauge/gauge.min.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/gauge/gauge_demo.js"></script>
+                                <!-- chart js -->
+                                <script src="../common/theme/js/chartjs/chart.min.js"></script>
+                                <!-- bootstrap progress js -->
+                                <script src="../common/theme/js/progressbar/bootstrap-progressbar.min.js"></script>
+                                <script src="../common/theme/js/nicescroll/jquery.nicescroll.min.js"></script>
+                                <!-- icheck -->
+                                <script src="../common/theme/js/icheck/icheck.min.js"></script>
+                                <!-- daterangepicker -->
+                                <script type="text/javascript" src="../common/theme/js/moment.min.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/datepicker/daterangepicker.js"></script>
+
+                                
+
+                                <!-- flot js -->
+                                <!--[if lte IE 8]><script type="text/javascript" src="../common/theme/js/excanvas.min.js"></script><![endif]-->
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.pie.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.orderBars.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.time.min.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/date.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.spline.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.stack.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/curvedLines.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/flot/jquery.flot.resize.js"></script>
+
+                                <script type="text/javascript" src="../common/theme/js/maps/jquery-jvectormap-2.0.1.min.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/maps/gdp-data.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+                                <script type="text/javascript" src="../common/theme/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+
+
+
+                                <style>
+                                    .nowrap {
+                                        white-space: nowrap;
+                                    }
+
+                                    .field-icon {
+                                        /*float: right;*/
+                                        margin-left: -25px;
+                                        margin-top: 8px;
+                                        position: relative;
+                                        z-index: 2;
+                                    }
+                                </style>
+                                <style>
+                                    .formErrorArrow {
+                                        display: none !important;
+                                    }
+
+                                    .formErrorContent {
+                                        display: none !important;
+                                    }
+                                </style>
+
+                                <script>
+                                    function validationMsg() {
+                                        if (jQuery("#retilLicenseform").validationEngine('validate') === false) {
+                                            jQuery(".formErrorContent").css('display', 'none');
+                                            jQuery(".formErrorArrow").css('display', 'none');
+                                            alert("Please fill all the mandatory fields");
+                                        }
+                                    }
+                                    function checkValidations() {
+                                        var inputs = new Array(valid("userName", "userName"), valid("email", "mail"), valid("userId", "userId"), valid("password", "password"), valid("repassword", "repassword"),
+                                                valid("orgid", "orgid"), valid("accesstype", "accesstype"), valid("officelevel", "officelevel"),
+                                                valid("mobile", "mobileno"), valid("role", "role"),
+                                                valid("dob", "dob"), valid("state", "State"), valid("address", "address"));
+
+                                        var divs = new Array("userNameError", "emailError", "userIdError", "passwordError", "repasswordError", "orgidError", "accesstypeError", "officelevelError", "mobileError", "roleError", "dobError", "stateError", "addressError");
+
+                                        $("#mobile").change(function () {
+                                            var mobno = $(this).val();
+                                            if (parseInt(mobno.length) == 10) {
+                                                inputs.push(true);
+                                                divs.push('mobileError');
+                                            }
+                                            else {
+                                                inputs.push(false);
+                                                divs.push('mobileError');
+                                            }
+                                        });
+
+                                        if ($('#divexid').is(':visible')) {
+                                            var divChk = valid("division", "division");
+                                            inputs.push(divChk);
+                                            divs.push('divisionError');
+                                        }
+
+                                        if ($('#distexid').is(':visible')) {
+                                            var distChk = valid("district", "district");
+                                            inputs.push(distChk);
+                                            divs.push('districtError');
+                                        }
+                                        if (checkFields(inputs, divs) == false) {
+                                            return false;
+                                        }
+                                    }
+                                    function calculateAge() {
+                                        debugger;
+
+                                        var yrDif = document.getElementById("txtCONSULTANT_AGE").value
+                                        if (yrDif < 21) {
+                                            document.getElementById("txtDATE_OF_BIRTH").value = "";
+                                            //                    document.getElementById('dobError').style.display = "block";
+                                            alert("Age should be greater than 21 years");
+                                            document.getElementById("BodyContent_txtDATE_OF_BIRTH").focus();
+                                        }
+                                        else {
+                                            //                    document.getElementById('dobError').style.display = "none";
+                                            document.getElementById("age").value = yrDif;
+                                        }
+                                    }
+                                    function browseFile(slno) {
+                                        document.getElementById('field' + slno).click();
+                                    }
+                                    function setAttachName(slno) {
+                                        var filenm = document.getElementById('field' + slno).value;
+                                        var filenmArr = filenm.split(".");
+                                        document.getElementById('attachname' + slno).value = filenmArr[0];
+                                    }
+                                    function browseImage(image) {
+                                        document.getElementById(image).click();
+                                    }
+                                    function imageUpload(image, imageLbl) {
+                                        var imgText = document.getElementById(image).value;
+                                        var filename = imgText.replace(/^.*[\\\/]/, '');
+                                        var imgTextArr = filename.split(".");
+                                        var imgTxtFTb = imgTextArr[0];
+                                        if (parseInt(imgTxtFTb.length) > 45) {
+                                            imgTxtFTb = imgTxtFTb.substring(0, 45);
+                                        }
+                                        document.getElementById(imageLbl).value = imgTxtFTb;
+                                    }
+                                    function chkPassword() {
+                                        var password = document.getElementById("password").value;
+                                        var repassword = document.getElementById("repassword").value;
+                                        if (password) {
+                                            var strongRegex = new RegExp("^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-7])(?=.*[!@#\$%\^&\*])(?=.{6,})");
+                                            //                    if(password==null && repassword!=null){
+                                            //                        alert("Pls Enter password first");
+                                            //                          $('#password').val('');
+                                            //                          return true;
+                                            //                    }
+                                            //                    alert(password+"               ---             "+strongRegex.test(password))
+                                            if (strongRegex.test(password)) {
+                                                //                        document.getElementById('passwordError').style.display = "none";
+                                                if (repassword) {
+                                                    if (password === repassword) {
+                                                        document.getElementById("txtpass").value = password;
+                                                        return true;
+                                                    }
+
+                                                    else {
+                                                        //                                document.getElementById('repasswordError').style.display = "block";
+                                                        alert("Passwords Don't Match");
+                                                        $('#repassword').val('');
+                                                        return false;
+                                                    }
+                                                }
+                                            }
+                                            else {
+                                                $('#password').val('');
+                                                $('#repassword').val('');
+                                                alert("Password should have minimum 8 characters in length. At least one character in upper case, lower case & Numeric and special characters! ");
+                                                //                        document.getElementById('passwordError').style.display = "block";
+                                                return false;
+                                            }
+                                        }
+                                        if (repassword) {
+                                            if (password == null || repassword != null) {
+                                                alert("Please Enter password first");
+                                                $('#repassword').val('');
+                                                return false;
+                                            }
+                                        }
+                                    }
+
+
+                                </script>
+                                <script src="http://code.jquery.com/jquery-1.11.3.js" type="text/javascript"></script>
+                                <script type="text/javascript">
+                                    function ShowHidePassword() {
+                                        debugger;
+                                        var txt = $('#BodyContent_txtpassword');
+                                        if (txt.prop("type") == "password") {
+                                            txt.prop("type", "text");
+                                            $("label[for='cbShowHidePassword1']").text("Hide Password");
+                                        }
+                                        else {
+                                            txt.prop("type", "password");
+                                            $("label[for='cbShowHidePassword1']").text("Show Password");
+                                        }
+                                    }
+                                    function ShowHidePassword1() {
+                                        debugger;
+                                        var txt = $('#BodyContent_txtrepassword');
+           if (txt.prop("type") == "password") {
+               txt.prop("type", "text");
+               $("label[for='cbShowHidePassword2']").text("Hide Password");
+           }
+           else {
+               txt.prop("type", "password");
+               $("label[for='cbShowHidePassword2']").text("Show Password");
+           }
+       }
+                                </script>
+
+                                <script language="javascript" type="text/javascript">
+                                    function validationMsg() {
+
+                                        if (document.getElementById('BodyContent_txtuserName').value == '') {
+                                            alert("Enter  Name");
+                                            return false;
+                                            document.getElementById("BodyContent_txtuserName").focus();
+                  }
+
+                  if (document.getElementById('BodyContent_txtDATE_OF_BIRTH').value == '') {
+                                            alert("Select  DOB");
+                                            return false;
+                                            document.getElementById("BodyContent_txtDATE_OF_BIRTH").focus();
+                  }
+
+                  if (document.getElementById('BodyContent_txtuserid').value == '') {
+                                            alert("Enter  User Name");
+                                            return false;
+                                            document.getElementById("BodyContent_txtuserid").focus();
+                  } password
+                  if (document.getElementById('BodyContent_txtpassword').value == '') {
+                       alert("Enter  Password");
+                       return false;
+                       document.getElementById("BodyContent_txtpassword").focus();
+                    }
+                    if (document.getElementById('BodyContent_txtrepassword').value == '') {
+                                            alert("Enter  Repassword");
+                                            return false;
+                                            document.getElementById("BodyContent_txtrepassword").focus();
+                  }
+
+                  if (document.getElementById('BodyContent_ddOrgnames').value == 'Select') {
+                                            alert("Select  Organization");
+                                            return false;
+                                            document.getElementById("BodyContent_ddOrgnames").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddRole').value == 'Select') {
+                                            alert("Select  Role");
+                                            return false;
+                                            document.getElementById("BodyContent_ddRole").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddAccessType').value == 'Select') {
+                                            alert("Select  Access Type");
+                                            return false;
+                                            document.getElementById("BodyContent_ddAccessType").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddRoleLevel').value == 'Select') {
+                                            alert("Select  Role Level");
+                                            return false;
+                                            document.getElementById("BodyContent_ddRoleLevel").focus();
+                  }
+                  if (document.getElementById('BodyContent_mobile').value == '') {
+                                            alert("Enter  Mobile Nuber");
+                                            return false;
+                                            document.getElementById("BodyContent_mobile").focus();
+                  }
+                  if (document.getElementById('BodyContent_txtemail').value == '') {
+                                            alert("Enter  Email ID");
+                                            return false;
+                                            document.getElementById("BodyContent_txtemail").focus();
+                  }
+                  if (document.getElementById('BodyContent_address').value == '') {
+                                            alert("Enter  Address");
+                                            return false;
+                                            document.getElementById("BodyContent_address").focus();
+                  }
+
+                  if (document.getElementById('BodyContent_ddStates').value == 'Select') {
+                                            alert("Select State");
+                                            return false;
+                                            document.getElementById("BodyContent_ddStates").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddDivisions').value == 'Select') {
+                                            alert("Select Division");
+                                            return false;
+                                            document.getElementById("BodyContent_ddDivisions").focus();
+                  }
+                  if (document.getElementById('BodyContent_ddDistricts').value == 'Select') {
+                                            alert("Select District");
+                                            return false;
+                                            document.getElementById("BodyContent_ddDistricts").focus();
+                  }
+
+              }
+                                </script>
+                                <script type="text/javascript">
+
+                                    function validateExtraDocuments() {
+
+                                        var fileInput = document.getElementById('BodyContent_UploadPhoto');
+                                        var filePath = fileInput.value;
+                                        var allowedExtensions = /(\.jpg|\.jpeg)$/i;
+                                        if (!allowedExtensions.exec(filePath)) {
+                                            alert('Please upload file having extensions .jpeg/.jpg only.');
+                                            fileInput.value = '';
+                                            return false;
+                                        }
+
+                                        var uploadControl = document.getElementById('BodyContent_UploadPhoto');
+            if (uploadControl.files[0].size > 5000000) {
+                alert("Document size should be less than or eqaul to 5MB !!!!!")
+                document.getElementById('BodyContent_UploadPhoto').value = "";
+                return false;
+            }
+            else {
+
+                return true;
+            }
+        }
+
+        function phoneValidate() {
+            var mobileN = document.getElementById("mobile").value.length;
+
+            if (mobileN != 10) {
+                alert("Invalid phone number.")
+            }
+        }
+
+
+
+                                </script>
+
+                                <script language="javascript" type="text/javascript">
+                                    function compare() {
+                                        debugger;;
+                                        var string1 = document.getElementById('BodyContent_txtpassword').value;
+                                        var string2 = document.getElementById('BodyContent_txtrepassword').value;
+
+                                        if (string1 == string2) {
+                                            document.getElementById("txtpass").value = string1;
+                                        }
+                                        else {
+                                            alert("Password not Match.");
+                                            return false;
+                                            document.getElementById('BodyContent_txtrepassword').focus();
+               }
+
+           }
+                                </script>
+                            </head>
+                            <body>
+
+                                <div>
+
+                                    <ul class="nav nav-tabs">
+                                        <li class="active">
+                                            <a id="BodyContent_UserRegistration" href="javascript:__doPostBack(&#39;ctl00$BodyContent$UserRegistration&#39;,&#39;&#39;)"><span style="color:#fff;font-size:14px;">User Registration</span></a></li>
+                                    </ul>
+                                    <br />
+                                    <a>
+                                        <a id="BodyContent_ShowRecords" class="myButton3" href="javascript:__doPostBack(&#39;ctl00$BodyContent$ShowRecords&#39;,&#39;&#39;)" style="float: right"><i class="fa fa-list "> SHOW RECORD LIST</i></a></a>
+                                    <div class="row">
+                                        <div class="x_title">
+                                            <h2>User Registration Form</h2>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="x_content">
+                                            <br />
+                                            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$BodyContent$ScriptManager1', 'ctl01', ['tctl00$BodyContent$up123','BodyContent_up123'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                                            
+
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Name</label>
+                                                <input name="ctl00$BodyContent$txtuserName" type="text" value="Dileep Kumar" maxlength="50" id="BodyContent_txtuserName" autocomplete="off" data-toggle="tooltip" data-placement="right" title="Name" class="form-control capitalize validate[required]" style="height:30px;" />
+
+                                            </div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>DOB</label>
+                                                &nbsp;  
+                                                 
+                                                <script type="text/javascript"> 
+                                                   
+                                                    function SelectDate(e) {
+
+                                                        var PresentDay = new Date();
+                                                        var dateOfBirth = e.get_selectedDate();
+                                                        var months = (PresentDay.getMonth() - dateOfBirth.getMonth() + (12 * (PresentDay.getFullYear() - dateOfBirth.getFullYear())));
+                                                        var age11 = Math.round(months / 12);
+                                                     
+                                                      
+
+                                                        if (Math.round(months / 12) < 21) {
+                                                            alert("Age should be greater than 21 Years");
+                                                            document.getElementById("BodyContent_txtDATE_OF_BIRTH").value = "";
+                                                            document.getElementById("BodyContent_txtDATE_OF_BIRTH").focus();
+                                                        }
+                                                     
+                                                    }
+
+
+                                                    //function findage()
+                                                    //{
+                                                    //    debugger;;
+                                                    //    var PresentDay = new Date();
+                                                    //    var dateOfBirth = (new Date(document.getElementById("txtDATE_OF_BIRTH").value));
+                                                    //    var months = (PresentDay.getMonth() - dateOfBirth.getMonth() + (12 * (PresentDay.getFullYear() - dateOfBirth.getFullYear())));
+                                                    //    if (Math.round(months / 12) < 21) {
+                                                    //        alert("Age should be greater than" + Math.round(months / 12) + " Years");
+                                                    //    }
+                                                    //    else
+                                                    //        document.getElementById("txtCONSULTANT_AGE").value = Math.round(months / 12);
+                                                    //}
+                                                </script>
+
+                                                <input name="ctl00$BodyContent$txtDATE_OF_BIRTH" type="text" value="10-06-1980" id="BodyContent_txtDATE_OF_BIRTH" data-toggle="tooltip" data-placement="bottom" title="DOB" class="form-control validate[required]" AutoComplete="off" onchange="return findage();" style="font-size:14px;height:30px;" />  
+                                                <input type="image" name="ctl00$BodyContent$Image1" id="BodyContent_Image1" class="control-label" src="common/theme/image1/calendar-512.png" style="height:30px;width:30px;" />
+                                               
+                                                
+                                                
+                                                
+                                                
+                                            </div>
+                                            <!--                                        <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                            <label class="control-label"><span style="color:red">*</span>Age(Years)</label>
+                                           
+                                        </div>-->
+
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Username</label>
+                                                <input name="ctl00$BodyContent$txtuserid" type="text" value="Dileep" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$txtuserid\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="BodyContent_txtuserid" class="form-control" data-toggle="tooltip" data-placement="bottom" title="Username" style="height:30px;" />
+                                            </div>
+                                            <p>&nbsp;</p>
+                                            
+
+
+                                            
+
+
+
+                                            <p>&nbsp;</p>
+                                            <p>&nbsp;</p>
+                                            <div class="clearfix"></div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label">Address</label>
+                                                <textarea name="ctl00$BodyContent$address" rows="3" cols="20" id="BodyContent_address" data-toggle="tooltip" data-placement="right" title="Address" class="form-control" name="address" autocomplete="off" style="resize: none;">
+Bengalore</textarea>
+                                                
+                                                <p id="addressError" style="color: red; font: bold; display: none; text-align: right;">Address should not be empty</p>
+                                            </div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Mobile Number</label>
+                                                &nbsp;
+                                                <input name="ctl00$BodyContent$mobile" type="text" value="9738212092" maxlength="10" id="BodyContent_mobile" name="mobile" data-toggle="tooltip" data-placement="right" title="Mobile Number" class="form-control validate[custom[phone],required]" onkeypress="return onlyDotsAndNumbers(this,event);" onchange="phoneValidate()" style="height:30px;" />
+                                                
+                                                
+                                            </div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Email ID</label>
+                                                <input name="ctl00$BodyContent$txtemail" type="text" value="sivadatacon2@gmail.com" id="BodyContent_txtemail" class="form-control" data-toggle="tooltip" data-placement="right" title="Email ID" onchange="CheckEmailAddress(this.value);" style="height:30px;" />
+                                            </div>
+
+
+                                            <p>&nbsp;</p>
+                                            <p>&nbsp;</p>
+                                            <div class="clearfix"></div>
+                                            <div id="BodyContent_up123">
+	
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Organization</label>
+                                                <select name="ctl00$BodyContent$ddOrgnames" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddOrgnames\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddOrgnames" data-toggle="tooltip" data-placement="right" title="Role Name" class="form-control validate[required]" style="height:30px;width:350px;">
+		<option value="Select">Select</option>
+		<option selected="selected" value="1">Prohibition, Excise &amp; Registration, Govt. Of Bihar</option>
+		<option value="2">org1</option>
+		<option value="3">
+Org Name	Org Type	Description	Address	Action
+Prohibition, Excise &amp; Registration, Govt. Of Bihar</option>
+		<option value="4">org1</option>
+
+	</select>
+                                            </div>
+
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Role</label>
+                                                &nbsp;
+                                                <select name="ctl00$BodyContent$ddRole" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddRole\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddRole" data-toggle="tooltip" data-placement="right" title="Role Name" class="form-control validate[required]" style="height:30px;width:350px;">
+		<option value="Select">Select</option>
+		<option value="1">Assistant commisioner</option>
+		<option selected="selected" value="2">commisioner</option>
+		<option value="3">Divisional Officer</option>
+		<option value="4">Collecter</option>
+
+	</select>
+                                            </div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Access Type</label>
+                                                <select name="ctl00$BodyContent$ddAccessType" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddAccessType\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddAccessType" data-toggle="tooltip" data-placement="right" title="Access Type" class="form-control validate[required]" style="height:30px;width:350px;">
+		<option value="Select">Select</option>
+		<option value="1">access12</option>
+		<option selected="selected" value="2">Administration</option>
+		<option value="3">Operation</option>
+		<option value="4">Supporting</option>
+
+	</select>
+                                            </div>
+                                            <p>&nbsp;</p>
+                                            <div class="clearfix"></div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>Role Level</label>
+                                                <select name="ctl00$BodyContent$ddRoleLevel" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddRoleLevel\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddRoleLevel" data-toggle="tooltip" data-placement="right" title="Role Level" class="form-control validate[required]" style="height:30px;width:350px;">
+		<option selected="selected" value="Select">Select</option>
+		<option value="1">level1</option>
+		<option value="2">StateLevel</option>
+		<option value="3">Division Level</option>
+		<option value="4">District Level</option>
+		<option value="5">Thana Level</option>
+
+	</select>
+                                            </div>
+
+                                            <p>&nbsp;</p>
+                                            <p>&nbsp;</p>
+                                            <div class="clearfix"></div>
+                                            <div class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span>State</label>
+                                                <select name="ctl00$BodyContent$ddStates" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddStates\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddStates" data-toggle="tooltip" data-placement="right" title="State " class="form-control validate[required]" style="height:30px;width:350px;">
+		<option value="Select">Select</option>
+		<option selected="selected" value="BH">Bihar</option>
+		<option value="AR">Arunachal Pradesh</option>
+		<option value="CH">Chandigarh </option>
+		<option value="AP">Andhra Pradesh</option>
+		<option value="KA">Karnataka</option>
+		<option value="">Select</option>
+		<option value="JH">Jharkhand</option>
+		<option value="HR">Haryana</option>
+		<option value="JK">Jammu and Kashmir</option>
+		<option value="LD">Lakshadweep Islands</option>
+		<option value="CT">Chattisgarh </option>
+		<option value="GA">Goa</option>
+		<option value="jk">Jammu and Kashmir</option>
+
+	</select>
+                                            </div>
+                                            <div id="divexid" class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span> Division</label>
+                                                &nbsp; 
+                                                <select name="ctl00$BodyContent$ddDivisions" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddDivisions\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddDivisions" data-toggle="tooltip" data-placement="right" title="Division " class="form-control validate[required]" style="height:30px;width:350px;">
+		<option value="Select">Select</option>
+		<option value="02">Patna1</option>
+		<option value="03">Souple</option>
+		<option selected="selected" value="01">Patna_1</option>
+		<option value="06">Dharbanga</option>
+		<option value="bk">banka</option>
+		<option value="GJ">gopalagaj</option>
+
+	</select>
+                                            </div>
+
+                                            <div id="distexid" class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label"><span style="color: red">*</span> District</label>
+                                                <select name="ctl00$BodyContent$ddDistricts" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BodyContent$ddDistricts\&#39;,\&#39;\&#39;)&#39;, 0)" id="BodyContent_ddDistricts" data-toggle="tooltip" data-placement="right" title="District " class="form-control validate[required]" style="height:30px;width:350px;">
+		<option value="Select">Select</option>
+		<option value="02">District2</option>
+		<option selected="selected" value="01">District1</option>
+		<option value="08">Dharbanga</option>
+		<option value="1">banka</option>
+		<option value="2">Gopalganj</option>
+
+	</select>
+                                            </div>
+
+                                            <p>&nbsp;</p>
+                                            
+                                            
+</div>
+                                            <p>&nbsp;</p>
+                                            <p>&nbsp;</p>
+                                            <div class="clearfix"></div>
+                                            <div id="BodyContent_photo" class="col-md-4 col-sm-12 col-xs-12 form-inline">
+                                                <label class="control-label">Upload Passport Size Photo</label>
+                                                <input type="file" name="ctl00$BodyContent$UploadPhoto" id="BodyContent_UploadPhoto" class="form-control" />   <input name="ctl00$BodyContent$txtUploadHiden" type="hidden" id="BodyContent_txtUploadHiden" style="text-transform: capitalize" value="~/photos/Dileep_10-06-1980.jpg" />
+                                                <a id="BodyContent_btnDownload" class="myButton" href="javascript:__doPostBack(&#39;ctl00$BodyContent$btnDownload&#39;,&#39;&#39;)">Download</a>
+                                                
+                                                <input type="submit" name="ctl00$BodyContent$btnUpload" value="Upload" onclick="javascript:return validateExtraDocuments();" id="BodyContent_btnUpload" class="btn btn-primary" />
+                                                <p style="font-size: 9px; font-weight: 600;">(.jpg, .jpeg  upto 2 MB max)</p>
+                                                
+                                            </div>
+                                          
+                                            <div style="clear: both">
+                                                <p>&nbsp;</p>
+                                                <p>&nbsp;</p>
+                                            </div>
+                                            <div class="col-md-9 col-sm-9 col-xs-9 form-inline">
+                                                <div class="col-md-9 col-sm-9 col-xs-9">
+                                                    <input type="hidden" name="ctl00$BodyContent$orgid" id="BodyContent_orgid" />
+                                                    <input type="submit" name="ctl00$BodyContent$btnSave" value="Save" onclick="javascript:return validationMsg();" id="BodyContent_btnSave" class="btn btn-primary" />
+                                                    <input type="submit" name="ctl00$BodyContent$btnCancel" value="Cancel" id="BodyContent_btnCancel" class="btn btn-danger" />
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </body>
+                            </html>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+            </div>
+        </div>
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="38C231E4" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="21cOVGj+i7L5tZfaHf9ep9jtEnXh36FKjwe/N0CfdA8N8k8/ONCa5QdPOUEzavrHbn9QI48LjD525IRRJJ83RRnZF8rQBsjNG5ToO42LrbXT6fKCT8WLZvComwJ1d+cVD1JNRd5qiBPI3IoRXvCvTpic37Z6oBtE7/kCmRO5QF+2EJq+s09mknAf/sd3pcaBzoLipnxZbvoS7DzI4tdBHH1R8E1mGRHLYWK3tFWAT+nEasjXY5My/gWHJ0DRWzxz7zU8MQMefhWOYUfNd35Ds2hX8WwrmY5veVuWz5oqgh02zQk5c86+O12QMwVkBW1XrtiSncI6Nk+ZooECDh4VFkXufIHWN0Es3Q3WpoGtqYmIja5vTRIZI4oSGFN3HVkZWcxM3uaVa/+5QX7sitzGpJhoSLZzv7BBX7RGuEvR/5OTTt0qsA6PtyXQDv+bhrynnsb7Wg+rgAEgnAaEThzK1u+BC+J2CbntlCqytQ3cn8F1CNC636FwhDqXNHziOpCI8ecHDu7jlQRMfcQOBPW7BxLWRbPgwe1aM20jyNLUl8972i7GycRWFMtGFftHS7Cd+0gjqK3jvTE82kz6RkJvtC2yuFD0HQ1rTO0HditKiUd4pmGDfxyv3bjwh9jSQx3+8b2M90ceOVCxWQ1ikgrJ+88sqv+mUFqiBMByRS4a8uTucgwWqQney95M9XVbfcM2orbzIwM2VOFBJrS+IRPPxgVuQXYEQsd7v31k6rgJIJCqW8uZi+wzEkJwwaNMMSHsFvnqYx09asQa2shX0K0a3JpB/+LMvxLIVHl3pSMVP4ZGF16RR0dkVtQbLG20Le5laD7TmyaolpUvRJ/bNIkzciC8vSEMqkN5t+LP1qTtfRQKHvfkGZYNZ5yxTDxUxPEX9HtaD7+vd7jvIXUBXJkam5jg/fEV73b0swcZ1QqkOZgDK/pi3KaDRVGfcWhE0KmGHn7xLCsj+QAZx/QAUW3lX7T/PWVP/ETmyAKUkI1VvqLFKYV8INfLmcbs5PAGXVZodOTfz3ssZhujzVYiJqYGs7fAwX3GMvFBOC/0kw22NUIrs/nM1pqfgQesR1T9SaginzKPo7e5ngxfddi+mmtWSaWs7CUfavJKQZLf5uWLcGZiEVH2RzlLzMvdZcU4zKomkY37JnQLL8oi4p9u5wCl+Gd3KOZl7bPO6FZy9Zcm1ZmB5kzBVg7Gfs9T7YMPXfALpy5tJpbinuMn8PFpk/XtVnT1CdJTN6CWhri+vrKkh0o+FtHcWqfZ+dtDf9OQgoxkb42pnKVih2kcCEi47aJG4lD/e5OoCnbE6yPix4loPd4am28JsysNaIug2wEBbANjrQeqkKofJM9eqZYVkhXsE/lZx1ZwKX8Uz1B23GZ/FpIaFsS9C70cT6PFRxAI4I6bg9c2u2F3N7HJZNPT1XuinWTWM0tX1Vhr9kUCR1U2p6rPI9C30IReUYrRb5moPs2UQyMcnk0AkAQikHp5/l2jc5a48TH4i7PRQDayqEx/vVgPayKwevmy+7QQ9r8F9dh2uoXy7l86P8l/jxCqgAEAoW4OqJSx2JOELHQVstB5MLqxrRNLPxFMJi4vha5x08iDeAGEWWCVtKzJWP5DkftD6oD5pFviI3X/nGzC+GchOS7aq8UzpeDsFuL+i/nO470M+mV37MW5BkspozbIkXw6yzkXgZCvsb4bRZoB3sPHL/z7Hk3bLT2MLoJQQD1ZfjY4" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+theForm.oldOnLoad = window.onload;
+window.onload = WebForm_RestoreScrollPosition;
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CalendarBehavior, {"button":$get("BodyContent_Image1"),"format":"dd-MM-yyyy","id":"BodyContent_CalendarExtender1"}, {"dateSelectionChanged":SelectDate}, null, $get("BodyContent_txtDATE_OF_BIRTH"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

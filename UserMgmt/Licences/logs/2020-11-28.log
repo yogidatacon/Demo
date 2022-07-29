@@ -1,0 +1,436 @@
+2020-11-28 10:44:49.0612 INFO Get User Success :44-Administrator
+2020-11-28 10:44:54.7386 INFO Get User Success :44-Administrator
+2020-11-28 10:44:56.8129 INFO Get Users List Success
+2020-11-28 10:44:56.8229 INFO Get User Success :44-Administrator
+2020-11-28 10:44:59.3091 INFO Get User Success :44-Administrator
+2020-11-28 10:45:00.5419 INFO Get State List Success
+2020-11-28 10:45:00.5419 INFO Get Dept List Success
+2020-11-28 10:45:00.5419 INFO Get User Success :44-Administrator
+2020-11-28 11:06:08.2641 INFO Get User Success :44-Administrator
+2020-11-28 11:06:16.2827 INFO Get User Success :44-Administrator
+2020-11-28 11:06:18.0894 INFO Get User Success :44-Administrator
+2020-11-28 11:06:19.3124 INFO Get State List Success
+2020-11-28 11:06:19.3124 INFO Get Dept List Success
+2020-11-28 11:06:19.3124 INFO Get Emp List Success
+2020-11-28 11:06:19.3234 INFO Get User Success :44-Administrator
+2020-11-28 11:07:08.5260 INFO Get Division List Success
+2020-11-28 11:07:35.7149 INFO Get Division List Success
+2020-11-28 11:07:43.1985 INFO Get Division List Success
+2020-11-28 11:08:34.8111 INFO Get Division List Success
+2020-11-28 11:09:36.4538 INFO Get User Success :44-Administrator
+2020-11-28 11:09:39.2737 INFO Get User Success :44-Administrator
+2020-11-28 11:09:40.2819 INFO Get User Success :44-Administrator
+2020-11-28 11:09:41.6860 INFO Get State List Success
+2020-11-28 11:09:41.6860 INFO Get Dept List Success
+2020-11-28 11:09:41.6860 INFO Get Emp List Success
+2020-11-28 11:09:41.6969 INFO Get User Success :44-Administrator
+2020-11-28 11:10:19.1480 INFO Get Division List Success
+2020-11-28 11:10:34.3269 INFO Get Division List Success
+2020-11-28 11:13:57.4849 INFO Get State List Success
+2020-11-28 11:13:57.4849 INFO Get Dept List Success
+2020-11-28 11:13:57.4849 INFO Get Emp List Success
+2020-11-28 11:13:57.4849 INFO Get User Success :44-Administrator
+2020-11-28 11:14:02.5737 INFO Get Division List Success
+2020-11-28 11:14:46.8009 INFO Get State List Success
+2020-11-28 11:14:46.8009 INFO Get Dept List Success
+2020-11-28 11:14:46.8009 INFO Get Emp List Success
+2020-11-28 11:14:46.8061 INFO Get User Success :44-Administrator
+2020-11-28 11:14:47.9098 INFO Get User Success :44-Administrator
+2020-11-28 11:14:48.6222 INFO Get State List Success
+2020-11-28 11:14:48.6222 INFO Get Dept List Success
+2020-11-28 11:14:48.6222 INFO Get Emp List Success
+2020-11-28 11:14:48.6222 INFO Get User Success :44-Administrator
+2020-11-28 11:14:54.6956 INFO Get Division List Success
+2020-11-28 11:20:28.9250 INFO Get User Success :44-Administrator
+2020-11-28 11:20:32.4177 INFO Get User Success :44-Administrator
+2020-11-28 11:20:33.4664 INFO Get User Success :44-Administrator
+2020-11-28 11:26:26.8608 INFO Get User Success :44-Administrator
+2020-11-28 11:26:49.9759 INFO Get User Success :44-Administrator
+2020-11-28 11:26:52.1366 INFO Get User Success :44-Administrator
+2020-11-28 11:26:53.5736 INFO Get State List Success
+2020-11-28 11:26:53.5736 INFO Get Dept List Success
+2020-11-28 11:26:53.5736 INFO Get Emp List Success
+2020-11-28 11:26:53.5736 INFO Get User Success :44-Administrator
+2020-11-28 11:26:59.8114 INFO Get Division List Success
+2020-11-28 11:27:50.1315 INFO Get State List Success
+2020-11-28 11:27:50.1315 INFO Get Dept List Success
+2020-11-28 11:27:50.1369 INFO Get Emp List Success
+2020-11-28 11:27:50.1369 INFO Get User Success :44-Administrator
+2020-11-28 11:27:55.8147 INFO Get Division List Success
+2020-11-28 11:28:43.2592 INFO Get State List Success
+2020-11-28 11:28:43.2592 INFO Get Dept List Success
+2020-11-28 11:28:43.2592 INFO Get Emp List Success
+2020-11-28 11:28:43.2592 INFO Get User Success :44-Administrator
+2020-11-28 11:28:45.0538 INFO Get User Success :44-Administrator
+2020-11-28 11:28:46.7301 INFO Get State List Success
+2020-11-28 11:28:46.7301 INFO Get Dept List Success
+2020-11-28 11:28:46.7301 INFO Get Emp List Success
+2020-11-28 11:28:46.7301 INFO Get User Success :44-Administrator
+2020-11-28 11:28:51.9980 INFO Get Division List Success
+2020-11-28 11:29:26.2623 INFO Get State List Success
+2020-11-28 11:29:26.2623 INFO Get Dept List Success
+2020-11-28 11:29:26.2623 INFO Get Emp List Success
+2020-11-28 11:29:26.2623 INFO Get User Success :44-Administrator
+2020-11-28 11:29:31.1558 INFO Get Division List Success
+2020-11-28 11:35:57.4996 INFO Get State List Success
+2020-11-28 11:35:57.5245 INFO Get Dept List Success
+2020-11-28 11:35:57.5315 INFO Get Emp List Success
+2020-11-28 11:36:14.8060 INFO Get State List Success
+2020-11-28 11:36:14.8060 INFO Get Dept List Success
+2020-11-28 11:36:51.8795 INFO Get Emp List Success
+2020-11-28 11:37:07.4907 INFO Get Division List Success
+2020-11-28 11:37:56.0246 INFO Insert EMP Fail:42601: syntax error at or near "."
+2020-11-28 11:44:47.8356 INFO Insert EMP Fail:22P02: invalid input syntax for integer: ""
+2020-11-28 11:50:55.9161 INFO Insert EMP Fail:23503: insert or update on table "employee_master" violates foreign key constraint "fk_designation_master"
+2020-11-28 11:52:40.0145 INFO Get State List Success
+2020-11-28 11:52:40.0145 INFO Get Dept List Success
+2020-11-28 11:52:40.0145 INFO Get Emp List Success
+2020-11-28 11:52:52.3416 INFO Get Division List Success
+2020-11-28 11:53:33.7035 INFO Insert EMP Sucess:1
+2020-11-28 12:04:27.5695 INFO Get Emp List Fail:42601: syntax error at or near "innner"
+2020-11-28 12:05:43.5477 INFO Get Emp List Success
+2020-11-28 12:06:15.5234 INFO Get Emp List Success
+2020-11-28 12:09:22.6048 INFO Get Emp List Success
+2020-11-28 12:10:52.9356 INFO Get State List Success
+2020-11-28 12:10:52.9356 INFO Get Dept List Success
+2020-11-28 12:10:52.9356 INFO Get Emp List Success
+2020-11-28 12:10:55.9262 INFO Get EMP Details Success
+2020-11-28 12:16:58.4207 INFO Get EMP Details Success
+2020-11-28 12:17:28.4538 INFO Get State List Success
+2020-11-28 12:17:28.4538 INFO Get Dept List Success
+2020-11-28 12:17:28.4538 INFO Get Emp List Success
+2020-11-28 12:17:28.4538 INFO Get EMP Details Success
+2020-11-28 12:18:05.7227 INFO Get Division List Success
+2020-11-28 12:18:25.6468 INFO Get State List Success
+2020-11-28 12:18:25.6468 INFO Get Dept List Success
+2020-11-28 12:18:25.6501 INFO Get Emp List Success
+2020-11-28 12:19:01.4451 INFO Get EMP Details Success
+2020-11-28 12:19:01.4470 INFO Get Division List Success
+2020-11-28 12:19:21.1176 INFO Get State List Success
+2020-11-28 12:19:21.1196 INFO Get Dept List Success
+2020-11-28 12:19:21.1196 INFO Get Emp List Success
+2020-11-28 12:19:21.1196 INFO Get EMP Details Success
+2020-11-28 12:19:21.1196 INFO Get Division List Success
+2020-11-28 12:20:18.0574 INFO Get Emp List Success
+2020-11-28 12:20:38.9075 INFO Get State List Success
+2020-11-28 12:20:38.9075 INFO Get Dept List Success
+2020-11-28 12:20:38.9075 INFO Get Emp List Success
+2020-11-28 12:20:38.9075 INFO Get EMP Details Success
+2020-11-28 12:20:38.9163 INFO Get Division List Success
+2020-11-28 12:22:17.9606 INFO Update EMP Fail:22007: invalid input syntax for type timestamp: ""
+2020-11-28 12:22:20.4767 INFO Get Emp List Success
+2020-11-28 12:22:21.4658 INFO Get State List Success
+2020-11-28 12:22:21.4658 INFO Get Dept List Success
+2020-11-28 12:22:21.4658 INFO Get Emp List Success
+2020-11-28 12:22:21.4658 INFO Get EMP Details Success
+2020-11-28 12:23:07.1525 INFO Get Division List Success
+2020-11-28 12:23:11.4993 INFO Update EMP Fail:42703: column "branch" of relation "employee_master" does not exist
+2020-11-28 12:23:49.3460 INFO Update EMP Sucess:1
+2020-11-28 12:23:49.3660 INFO Get Emp List Success
+2020-11-28 12:23:51.7435 INFO Get State List Success
+2020-11-28 12:23:51.7435 INFO Get Dept List Success
+2020-11-28 12:23:51.7435 INFO Get Emp List Success
+2020-11-28 12:23:51.7435 INFO Get EMP Details Success
+2020-11-28 12:23:51.7435 INFO Get Division List Success
+2020-11-28 12:23:55.7899 INFO Update EMP Sucess:1
+2020-11-28 12:23:55.8193 INFO Get Emp List Success
+2020-11-28 12:23:57.1956 INFO Get State List Success
+2020-11-28 12:23:57.1966 INFO Get Dept List Success
+2020-11-28 12:23:57.1966 INFO Get Emp List Success
+2020-11-28 12:23:57.1966 INFO Get EMP Details Success
+2020-11-28 12:23:57.1966 INFO Get Division List Success
+2020-11-28 12:24:00.8486 INFO Update EMP Sucess:1
+2020-11-28 12:24:00.8735 INFO Get Emp List Success
+2020-11-28 12:24:02.1511 INFO Get State List Success
+2020-11-28 12:24:02.1511 INFO Get Dept List Success
+2020-11-28 12:24:02.1511 INFO Get Emp List Success
+2020-11-28 12:24:02.1511 INFO Get EMP Details Success
+2020-11-28 12:24:02.1700 INFO Get Division List Success
+2020-11-28 12:42:41.2245 INFO Get Emp List Success
+2020-11-28 12:42:41.7451 INFO Get Users List Success
+2020-11-28 12:42:42.2093 INFO Get Emp List Success
+2020-11-28 12:42:43.7793 INFO Get State List Success
+2020-11-28 12:42:43.7793 INFO Get Dept List Success
+2020-11-28 12:42:43.7793 INFO Get Emp List Success
+2020-11-28 12:46:25.7670 INFO Get State List Success
+2020-11-28 12:46:25.7670 INFO Get Dept List Success
+2020-11-28 12:46:25.7670 INFO Get Emp List Success
+2020-11-28 12:47:53.4416 INFO Get State List Success
+2020-11-28 12:47:53.4416 INFO Get Dept List Success
+2020-11-28 12:47:53.4416 INFO Get Emp List Success
+2020-11-28 12:48:00.2347 INFO Get State List Success
+2020-11-28 12:48:00.2347 INFO Get Dept List Success
+2020-11-28 12:48:00.2347 INFO Get Emp List Success
+2020-11-28 12:55:55.4808 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:03.9957 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:03.9957 INFO Check WorkFlow List Success
+2020-11-28 12:56:04.0505 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:04.0505 INFO Check WorkFlow List Success
+2020-11-28 12:56:04.0575 INFO Get Allotment List Success
+2020-11-28 12:56:04.0974 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:06.8337 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:06.8337 INFO Check WorkFlow List Success
+2020-11-28 12:56:06.8379 INFO Get Allotment List Success
+2020-11-28 12:56:06.8379 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:06.8379 INFO Check WorkFlow List Success
+2020-11-28 12:56:06.8379 INFO Get Allotment List Success
+2020-11-28 12:56:09.3022 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:09.3022 INFO Check WorkFlow List Success
+2020-11-28 12:56:09.3067 INFO Get Allotment List Success
+2020-11-28 12:56:09.3067 INFO Get User Success :101-Commissioner
+2020-11-28 12:56:09.3067 INFO Check WorkFlow List Success
+2020-11-28 12:56:09.3067 INFO Get Allotment List Success
+2020-11-28 12:57:20.0688 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:20.0688 INFO Check WorkFlow List Success
+2020-11-28 12:57:20.0734 INFO Get Allotment List Success
+2020-11-28 12:57:20.1497 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:20.1557 INFO Get Party Master List Success
+2020-11-28 12:57:20.1557 INFO Get Indent List Success
+2020-11-28 12:57:20.1738 INFO Get Allotment Details Success
+2020-11-28 12:57:20.2003 INFO Check WorkFlow List Success
+2020-11-28 12:57:20.2003 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:43.8020 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:43.8020 INFO Check WorkFlow List Success
+2020-11-28 12:57:43.8060 INFO Get Allotment List Success
+2020-11-28 12:57:43.8060 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:46.9434 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:46.9434 INFO Check WorkFlow List Success
+2020-11-28 12:57:46.9480 INFO Get Allotment List Success
+2020-11-28 12:57:46.9744 INFO Get User Success :101-Commissioner
+2020-11-28 12:57:46.9744 INFO Get Party Master List Success
+2020-11-28 12:57:46.9805 INFO Get Indent List Success
+2020-11-28 12:57:46.9805 INFO Get Allotment Details Success
+2020-11-28 12:57:46.9805 INFO Check WorkFlow List Success
+2020-11-28 12:57:46.9805 INFO Get User Success :101-Commissioner
+2020-11-28 13:00:22.0027 INFO Allotement Approve Sucess:4
+2020-11-28 13:00:22.0319 INFO Get User Success :101-Commissioner
+2020-11-28 13:00:22.0319 INFO Check WorkFlow List Success
+2020-11-28 13:00:22.0319 INFO Get Allotment List Success
+2020-11-28 13:00:22.0319 INFO Get User Success :101-Commissioner
+2020-11-28 13:00:24.4826 INFO Get User Success :101-Commissioner
+2020-11-28 13:00:24.4826 INFO Check WorkFlow List Success
+2020-11-28 13:00:24.4826 INFO Get Allotment List Success
+2020-11-28 13:00:24.5132 INFO Get User Success :101-Commissioner
+2020-11-28 13:00:24.5132 INFO Get Party Master List Success
+2020-11-28 13:00:24.5132 INFO Get Indent List Success
+2020-11-28 13:00:24.5132 INFO Get Allotment Details Success
+2020-11-28 13:00:24.5132 INFO Check WorkFlow List Success
+2020-11-28 13:00:24.5310 INFO Get User Success :101-Commissioner
+2020-11-28 13:01:28.9377 INFO Get User Success :101-Commissioner
+2020-11-28 13:01:28.9377 INFO Get Party Master List Success
+2020-11-28 13:01:28.9377 INFO Get Indent List Success
+2020-11-28 13:01:28.9477 INFO Get Allotment Details Success
+2020-11-28 13:01:28.9477 INFO Check WorkFlow List Success
+2020-11-28 13:04:03.4079 INFO Get User Success :101-Commissioner
+2020-11-28 13:04:12.0575 INFO Get User Success :101-Commissioner
+2020-11-28 13:04:12.0575 INFO Get Party Master List Success
+2020-11-28 13:04:12.0575 INFO Get Indent List Success
+2020-11-28 13:04:12.0575 INFO Get Allotment Details Success
+2020-11-28 13:04:12.0718 INFO Check WorkFlow List Success
+2020-11-28 13:04:41.4721 INFO Get User Success :101-Commissioner
+2020-11-28 13:04:45.0593 INFO Get User Success :101-Commissioner
+2020-11-28 13:04:45.0593 INFO Get Party Master List Success
+2020-11-28 13:04:45.0593 INFO Get Indent List Success
+2020-11-28 13:04:45.0593 INFO Get Allotment Details Success
+2020-11-28 13:04:45.0720 INFO Check WorkFlow List Success
+2020-11-28 13:04:47.1252 INFO Get User Success :101-Commissioner
+2020-11-28 13:05:02.6666 INFO Get User Success :101-Commissioner
+2020-11-28 13:05:02.6666 INFO Get Party Master List Success
+2020-11-28 13:05:02.6666 INFO Get Indent List Success
+2020-11-28 13:05:02.6666 INFO Get Allotment Details Success
+2020-11-28 13:05:02.6666 INFO Check WorkFlow List Success
+2020-11-28 13:05:29.1504 INFO Get User Success :101-Commissioner
+2020-11-28 13:05:36.3294 INFO Get User Success :101-Commissioner
+2020-11-28 13:05:36.3420 INFO Get Party Master List Success
+2020-11-28 13:05:36.3420 INFO Get Indent List Success
+2020-11-28 13:05:36.3420 INFO Get Allotment Details Success
+2020-11-28 13:05:36.3420 INFO Check WorkFlow List Success
+2020-11-28 13:05:36.3548 INFO Get User Success :101-Commissioner
+2020-11-28 13:05:43.8722 INFO Get User Success :101-Commissioner
+2020-11-28 13:05:43.8722 INFO Get Party Master List Success
+2020-11-28 13:05:43.8722 INFO Get Indent List Success
+2020-11-28 13:05:43.8722 INFO Get Allotment Details Success
+2020-11-28 13:05:43.8722 INFO Check WorkFlow List Success
+2020-11-28 13:06:03.2295 INFO Get User Success :101-Commissioner
+2020-11-28 13:06:06.4168 INFO Get User Success :101-Commissioner
+2020-11-28 13:06:06.4168 INFO Get Party Master List Success
+2020-11-28 13:06:06.4168 INFO Get Indent List Success
+2020-11-28 13:06:06.4168 INFO Get Allotment Details Success
+2020-11-28 13:06:06.4168 INFO Check WorkFlow List Success
+2020-11-28 13:06:23.4515 INFO Get User Success :101-Commissioner
+2020-11-28 13:06:34.2666 INFO Get User Success :101-Commissioner
+2020-11-28 13:06:34.2666 INFO Get Party Master List Success
+2020-11-28 13:06:34.2666 INFO Get Indent List Success
+2020-11-28 13:06:34.2768 INFO Get Allotment Details Success
+2020-11-28 13:06:34.2768 INFO Check WorkFlow List Success
+2020-11-28 13:06:51.9745 INFO Get User Success :101-Commissioner
+2020-11-28 13:07:16.5746 INFO Get User Success :101-Commissioner
+2020-11-28 13:07:16.5746 INFO Check WorkFlow List Success
+2020-11-28 13:07:16.5746 INFO Get Allotment List Success
+2020-11-28 13:07:16.5873 INFO Get User Success :101-Commissioner
+2020-11-28 13:10:20.0037 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:10:28.0610 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:10:28.0610 INFO Get RR List Success
+2020-11-28 13:10:28.0860 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:10:29.8921 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:10:29.8921 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:10:50.8159 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:10:50.8159 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:11:22.0382 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:11:22.0430 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:12:45.5841 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:12:45.5841 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:12:49.7018 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:12:49.7018 INFO Get RR List Success
+2020-11-28 13:13:39.9722 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:47.2405 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:47.2405 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:50.6913 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:50.6913 INFO Get RR List Success
+2020-11-28 13:13:50.7023 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:52.8827 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:52.8857 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:56.3732 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:56.3732 INFO Get RR List Success
+2020-11-28 13:13:56.3732 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:59.2307 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:13:59.2307 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:02.2785 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:02.2785 INFO Get RR List Success
+2020-11-28 13:14:02.2785 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:05.1997 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:05.1997 INFO Get Pass List Success
+2020-11-28 13:14:05.1997 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:06.4083 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:06.4083 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:07.9202 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:07.9202 INFO Get RR List Success
+2020-11-28 13:14:07.9202 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:10.6735 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 13:14:10.6735 INFO Get Product Type Master List Success
+2020-11-28 13:14:10.6815 INFO Get NOC Sucess:1
+2020-11-28 13:14:10.6815 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:17:52.8768 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:18:00.5931 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:18:00.5931 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:18:05.2521 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:18:05.2521 INFO Get RR List Success
+2020-11-28 14:18:05.2668 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:18:07.5138 INFO Get RR List Success
+2020-11-28 14:18:07.5138 INFO Get Balance Request Pass Success
+2020-11-28 14:19:44.9522 INFO Insert Request Pass Success
+2020-11-28 14:19:44.9722 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:19:44.9722 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:20:03.7268 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 14:20:03.7322 INFO Get Pass List Success
+2020-11-28 14:20:03.7322 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:25:29.2799 INFO Get User Success :44-Administrator
+2020-11-28 15:25:35.3844 INFO Get User Success :44-Administrator
+2020-11-28 15:25:36.4272 INFO Get Users List Success
+2020-11-28 15:25:36.4272 INFO Get User Success :44-Administrator
+2020-11-28 15:25:38.0779 INFO Org Get List Success
+2020-11-28 15:25:38.0779 INFO Get Party Master List Success
+2020-11-28 15:25:38.0899 INFO Get Role Level List Success
+2020-11-28 15:25:38.0899 INFO Get access_type List Success
+2020-11-28 15:25:38.1459 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-28 15:25:38.1509 INFO Get State List Success
+2020-11-28 15:25:38.1509 INFO Get Dept List Success
+2020-11-28 15:25:38.1509 INFO Get Emp List Success
+2020-11-28 15:25:38.1688 INFO Get Users List Success
+2020-11-28 15:25:38.1688 INFO Get User Success :44-Administrator
+2020-11-28 15:25:55.4653 INFO Org Get List Success
+2020-11-28 15:25:55.4653 INFO Get Party Master List Success
+2020-11-28 15:25:55.4653 INFO Get Role Level List Success
+2020-11-28 15:25:55.4653 INFO Get access_type List Success
+2020-11-28 15:25:55.4881 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-28 15:25:55.4881 INFO Get State List Success
+2020-11-28 15:25:55.4881 INFO Get Dept List Success
+2020-11-28 15:26:45.0036 INFO Get Emp List Success
+2020-11-28 15:27:17.7551 INFO Get Emp List Success
+2020-11-28 15:27:17.7922 INFO Get Users List Success
+2020-11-28 15:27:17.7922 INFO Get User Success :44-Administrator
+2020-11-28 15:31:43.9933 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:31:46.5564 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:31:46.5564 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:37:27.9592 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:37:27.9638 INFO Get Pass List Success
+2020-11-28 15:37:27.9638 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:42:32.3337 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:43:39.9236 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:43:39.9236 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:43:43.4841 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:43:43.4841 INFO Get Dispach Master List Success
+2020-11-28 15:43:43.5002 INFO Get VAT Master List Success
+2020-11-28 15:43:43.5002 INFO Get VAT Master List Success
+2020-11-28 15:43:43.5002 INFO Get VAT Master List Success
+2020-11-28 15:43:43.5002 INFO Get VAT Master List Success
+2020-11-28 15:43:43.5583 INFO Get VAT Master List Success
+2020-11-28 15:43:43.5583 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:44:28.3904 INFO Pass Insertion Fail:1-RSM - 42703: column "to_dispatch_vatprev_prod_year" of relation "pass" does not exist
+2020-11-28 15:45:43.9215 INFO Pass Insertion Sucess:1-RSM
+2020-11-28 15:45:43.9614 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:45:43.9654 INFO Get Pass List Success
+2020-11-28 15:45:43.9654 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-28 15:58:53.3180 INFO Get Users List Success
+2020-11-28 15:58:56.6199 INFO Org Get List Success
+2020-11-28 15:58:56.6199 INFO Get Party Master List Success
+2020-11-28 15:58:56.6357 INFO Get Role Level List Success
+2020-11-28 15:58:56.6357 INFO Get access_type List Success
+2020-11-28 15:58:56.6766 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-28 15:58:56.6826 INFO Get State List Success
+2020-11-28 15:58:56.6826 INFO Get Dept List Success
+2020-11-28 15:59:00.3097 INFO Get Emp List Success
+2020-11-28 15:59:02.1401 INFO Get Users List Success
+2020-11-28 15:59:05.4903 INFO Get EMP Details Success
+2020-11-28 15:59:05.4953 INFO Get Division List Success
+2020-11-28 15:59:35.7016 INFO Get Division List Success
+2020-11-28 16:01:03.8211 INFO Get EMP Details Success
+2020-11-28 16:01:14.0909 INFO Get Division List Success
+2020-11-28 16:01:46.0155 INFO Get EMP Details Success
+2020-11-28 16:01:47.3350 INFO Get Division List Success
+2020-11-28 16:03:45.1254 INFO Get EMP Details Success
+2020-11-28 16:03:45.1254 INFO Get Division List Success
+2020-11-28 16:04:13.4014 INFO Get EMP Details Success
+2020-11-28 16:04:13.4014 INFO Get Division List Success
+2020-11-28 16:05:10.1354 INFO Get EMP Details Success
+2020-11-28 16:05:10.1354 INFO Get Division List Success
+2020-11-28 16:05:34.2621 INFO Get EMP Details Success
+2020-11-28 16:05:34.2621 INFO Get Division List Success
+2020-11-28 17:01:22.9374 INFO Get Emp List Success
+2020-11-28 17:01:24.2640 INFO Get State List Success
+2020-11-28 17:01:24.2640 INFO Get Dept List Success
+2020-11-28 17:01:24.2750 INFO Get Emp List Success
+2020-11-28 17:01:24.2750 INFO Get EMP Details Success
+2020-11-28 17:01:24.2750 INFO Get Division List Success
+2020-11-28 17:02:44.8389 INFO Get Emp List Success
+2020-11-28 17:02:46.2846 INFO Get State List Success
+2020-11-28 17:02:46.2846 INFO Get Dept List Success
+2020-11-28 17:02:46.2846 INFO Get Emp List Success
+2020-11-28 17:02:46.2925 INFO Get EMP Details Success
+2020-11-28 17:02:46.2925 INFO Get Division List Success
+2020-11-28 17:08:44.0494 INFO Get State List Success
+2020-11-28 17:08:44.0494 INFO Get Dept List Success
+2020-11-28 17:08:44.0494 INFO Get Emp List Success
+2020-11-28 17:08:44.0494 INFO Get EMP Details Success
+2020-11-28 17:08:44.0585 INFO Get Division List Success
+2020-11-28 17:13:02.1352 INFO Update EMP Sucess:1
+2020-11-28 17:13:02.1632 INFO Get Emp List Success
+2020-11-28 17:13:04.8466 INFO Get State List Success
+2020-11-28 17:13:04.8466 INFO Get Dept List Success
+2020-11-28 17:13:04.8466 INFO Get Emp List Success
+2020-11-28 17:13:04.8466 INFO Get EMP Details Success
+2020-11-28 17:13:04.8541 INFO Get Division List Success
+2020-11-28 17:13:21.1388 INFO Get Users List Success
+2020-11-28 17:13:22.6614 INFO Org Get List Success
+2020-11-28 17:13:22.6672 INFO Get Party Master List Success
+2020-11-28 17:13:22.6672 INFO Get Role Level List Success
+2020-11-28 17:13:22.6672 INFO Get access_type List Success
+2020-11-28 17:13:22.7135 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-28 17:13:22.7135 INFO Get State List Success
+2020-11-28 17:13:22.7135 INFO Get Dept List Success
+2020-11-28 17:13:22.7135 INFO Get Emp List Success
+2020-11-28 17:13:22.7135 INFO Get Users List Success
+2020-11-28 17:13:24.8642 INFO Get EMP Details Success
+2020-11-28 17:13:24.8642 INFO Get Division List Success
+2020-11-28 17:22:00.3357 INFO Get EMP Details Success
+2020-11-28 17:22:00.3391 INFO Get Division List Success

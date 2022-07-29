@@ -1,0 +1,46 @@
+2021-08-18 10:30:27.0344 INFO Get User Success :44-Administrator
+2021-08-18 10:31:15.7555 INFO Get User Success :44-Administrator
+2021-08-18 10:31:29.1687 INFO Get Product Type Master List Success
+2021-08-18 10:31:29.2947 INFO Get User Success :Admin
+2021-08-18 10:31:35.9923 INFO Get Dept List Success
+2021-08-18 10:31:36.1133 INFO Get Product Type Master List Success
+2021-08-18 10:31:36.1983 INFO Get User Success :Admin
+2021-08-18 10:31:43.5678 INFO Get Users List Success
+2021-08-18 10:31:43.7469 INFO Get Product Type Master List Success
+2021-08-18 10:31:43.8148 INFO Get User Success :Admin
+2021-08-18 10:52:59.1351 INFO Get Users List Fail :42702: column reference "user_id" is ambiguous
+2021-08-18 10:53:29.5693 INFO Get Users List Success
+2021-08-18 10:54:27.5398 INFO Get Users List Success
+2021-08-18 10:54:43.6369 INFO Get Users List Success
+2021-08-18 10:55:01.8958 INFO Get Users List Success
+2021-08-18 10:58:04.5530 INFO Get WorkFlow List Success
+2021-08-18 10:58:04.6289 INFO Get Product Type Master List Success
+2021-08-18 10:58:04.6849 INFO Get User Success :Admin
+2021-08-18 10:58:23.5018 INFO Get WorkFlow List Success
+2021-08-18 10:58:23.5598 INFO Get Product Type Master List Success
+2021-08-18 10:58:23.6148 INFO Get User Success :Admin
+2021-08-18 10:59:06.1923 INFO Get WorkFlow List Success
+2021-08-18 10:59:22.8663 INFO Get WorkFlow List Success
+2021-08-18 10:59:47.0688 INFO Get WorkFlow List Success
+2021-08-18 14:16:41.5476 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:17:19.2823 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:17:50.4925 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:17:55.7902 INFO Get Product Type Master List Success
+2021-08-18 14:17:55.9521 INFO Get User Success :globus_dis
+2021-08-18 14:17:59.6719 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:18:01.5918 INFO Get Product Type Master List Success
+2021-08-18 14:18:01.7268 INFO Get User Success :globus_dis
+2021-08-18 14:18:10.9653 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:18:25.8334 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:18:30.4811 INFO Get Product Type Master List Success
+2021-08-18 14:18:30.6191 INFO Get User Success :globus_dis
+2021-08-18 14:18:46.5991 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:18:51.4708 INFO Get VAT Master List Success
+2021-08-18 14:18:51.6289 INFO Get Product Type Master List Success
+2021-08-18 14:18:51.8808 INFO Get User Success :globus_dis
+2021-08-18 14:19:01.6092 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:19:01.8632 INFO Get VAT Master List Success
+2021-08-18 14:19:02.4512 INFO Get Product Type Master List Success
+2021-08-18 14:19:02.7062 INFO Get User Success :globus_dis
+2021-08-18 14:19:22.9910 INFO Get User Success :341-Globus Spirits Limited
+2021-08-18 14:19:26.6998 INFO Get User Success :341-Globus Spirits Limited

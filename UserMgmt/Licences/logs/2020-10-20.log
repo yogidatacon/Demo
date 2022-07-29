@@ -1,0 +1,1111 @@
+2020-10-20 10:26:03.1095 INFO Get Users List Success
+2020-10-20 10:26:07.4338 INFO Org Get List Success
+2020-10-20 10:26:07.4465 INFO Get Party Master List Success
+2020-10-20 10:26:07.4607 INFO Get Role Level List Success
+2020-10-20 10:26:07.4607 INFO Get access_type List Success
+2020-10-20 10:26:07.5549 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 10:26:07.5549 INFO Get State List Success
+2020-10-20 10:26:07.5781 INFO Get Dept List Success
+2020-10-20 10:26:07.5781 INFO Get Users List Success
+2020-10-20 10:26:29.5190 INFO Get Existing data Fail :user_registration
+2020-10-20 10:26:47.1604 INFO Get Existing data Fail :user_registration
+2020-10-20 10:27:02.1634 INFO Get Division List Success
+2020-10-20 10:27:35.2288 INFO Insert User Success :0-Commisoner
+2020-10-20 10:27:35.2496 INFO Get Users List Success
+2020-10-20 10:38:05.4911 INFO Get User Success :44-Administrator
+2020-10-20 10:38:17.2951 INFO Org Get List Success
+2020-10-20 10:38:17.3031 INFO Get User Success :44-Administrator
+2020-10-20 10:38:17.8242 INFO Get State List Success
+2020-10-20 10:38:17.8242 INFO Get User Success :44-Administrator
+2020-10-20 10:38:25.5626 INFO Get User Success :44-Administrator
+2020-10-20 10:38:25.6052 INFO Get Division List Success
+2020-10-20 10:38:25.6052 INFO Get User Success :44-Administrator
+2020-10-20 10:38:27.6600 INFO Get User Success :44-Administrator
+2020-10-20 10:38:27.6809 INFO Get State List Success
+2020-10-20 10:38:27.6809 INFO Get User Success :44-Administrator
+2020-10-20 10:38:28.9587 INFO Get User Success :44-Administrator
+2020-10-20 10:38:28.9836 INFO Get Division List Success
+2020-10-20 10:38:28.9836 INFO Get User Success :44-Administrator
+2020-10-20 10:38:30.0141 INFO Get User Success :44-Administrator
+2020-10-20 10:38:30.0360 INFO Get State List Success
+2020-10-20 10:38:30.0360 INFO Get User Success :44-Administrator
+2020-10-20 10:38:41.8317 INFO Get User Success :44-Administrator
+2020-10-20 10:38:41.8629 INFO Get User Success :44-Administrator
+2020-10-20 10:38:56.6778 INFO Get User Success :44-Administrator
+2020-10-20 10:38:56.7016 INFO Get State List Success
+2020-10-20 10:38:56.7016 INFO Get User Success :44-Administrator
+2020-10-20 10:38:57.9698 INFO Get RolePermissions List Success
+2020-10-20 10:38:57.9757 INFO Get User Success :44-Administrator
+2020-10-20 10:39:01.3907 INFO Get Users List Success
+2020-10-20 10:39:01.4007 INFO Get User Success :44-Administrator
+2020-10-20 10:39:04.7491 INFO Get User Success :44-Administrator
+2020-10-20 10:39:04.8395 INFO Org Get List Success
+2020-10-20 10:39:04.8395 INFO Get Party Master List Success
+2020-10-20 10:39:04.8500 INFO Get Role Level List Success
+2020-10-20 10:39:04.8500 INFO Get access_type List Success
+2020-10-20 10:39:04.8500 INFO Get view_Role_master List Success
+2020-10-20 10:39:04.8651 INFO Get State List Success
+2020-10-20 10:39:04.8651 INFO Get Dept List Success
+2020-10-20 10:39:04.8651 INFO Get Users List Success
+2020-10-20 10:39:04.8651 INFO Get User Success :44-Administrator
+2020-10-20 10:39:58.4216 INFO Get Existing data Fail :user_registration
+2020-10-20 10:40:18.6811 INFO Get Existing data Fail :user_registration
+2020-10-20 10:40:21.1869 INFO Get User Success :44-Administrator
+2020-10-20 10:40:22.2883 INFO Get User Success :44-Administrator
+2020-10-20 10:40:24.5517 INFO Get User Success :44-Administrator
+2020-10-20 10:40:32.4474 INFO Get User Success :44-Administrator
+2020-10-20 10:40:36.4194 INFO Get User Success :44-Administrator
+2020-10-20 10:40:39.4792 INFO Get User Success :44-Administrator
+2020-10-20 10:40:41.1039 INFO Get User Success :44-Administrator
+2020-10-20 10:40:41.1039 INFO Get Division List Success
+2020-10-20 10:40:42.7278 INFO Get User Success :44-Administrator
+2020-10-20 10:40:48.5771 INFO Get User Success :44-Administrator
+2020-10-20 10:40:52.9053 INFO Get User Success :44-Administrator
+2020-10-20 10:45:45.8431 INFO Get User Success :44-Administrator
+2020-10-20 10:48:08.4874 INFO Insert User Fail :0-Applicant-23503: insert or update on table "user_registration" violates foreign key constraint "fk_role_master"
+2020-10-20 10:52:22.5940 INFO Get User Success :44-Administrator
+2020-10-20 10:56:00.6899 INFO Insert User Fail :0-Applicant-23503: insert or update on table "user_registration" violates foreign key constraint "fk_role_master"
+2020-10-20 10:56:47.1747 INFO Get User Success :44-Administrator
+2020-10-20 10:56:50.8673 INFO Insert User Fail :0-Applicant-23503: insert or update on table "user_registration" violates foreign key constraint "fk_role_master"
+2020-10-20 10:56:53.8977 INFO Get User Success :44-Administrator
+2020-10-20 10:56:53.9263 INFO Get Users List Success
+2020-10-20 10:56:53.9263 INFO Get User Success :44-Administrator
+2020-10-20 10:56:54.7156 INFO Get User Success :44-Administrator
+2020-10-20 10:56:54.7336 INFO Org Get List Success
+2020-10-20 10:56:54.7336 INFO Get Party Master List Success
+2020-10-20 10:56:54.7336 INFO Get Role Level List Success
+2020-10-20 10:56:54.7336 INFO Get access_type List Success
+2020-10-20 10:57:09.1768 INFO Get view_Role_master List Success
+2020-10-20 10:57:09.1768 INFO Get State List Success
+2020-10-20 10:57:09.1768 INFO Get Dept List Success
+2020-10-20 10:57:09.1768 INFO Get Users List Success
+2020-10-20 10:57:09.1768 INFO Get User Success :44-Administrator
+2020-10-20 10:58:19.0813 INFO Get User Success :44-Administrator
+2020-10-20 10:58:31.8722 INFO Get Users List Success
+2020-10-20 10:58:31.8811 INFO Get User Success :44-Administrator
+2020-10-20 10:58:35.6463 INFO Get User Success :44-Administrator
+2020-10-20 10:58:35.7420 INFO Org Get List Success
+2020-10-20 10:58:35.7420 INFO Get Party Master List Success
+2020-10-20 10:58:35.7626 INFO Get Role Level List Success
+2020-10-20 10:58:35.7626 INFO Get access_type List Success
+2020-10-20 10:58:35.7749 INFO Get view_Role_master List Success
+2020-10-20 10:58:35.7749 INFO Get State List Success
+2020-10-20 10:58:35.7749 INFO Get Dept List Success
+2020-10-20 10:58:35.7749 INFO Get Users List Success
+2020-10-20 10:58:35.7866 INFO Get User Success :44-Administrator
+2020-10-20 10:58:40.4772 INFO Get User Success :44-Administrator
+2020-10-20 10:58:40.5008 INFO Get Users List Success
+2020-10-20 10:58:40.5008 INFO Get User Success :44-Administrator
+2020-10-20 10:58:42.1016 INFO Get User Success :44-Administrator
+2020-10-20 10:58:42.1217 INFO Org Get List Success
+2020-10-20 10:58:42.1217 INFO Get Party Master List Success
+2020-10-20 10:58:42.1217 INFO Get Role Level List Success
+2020-10-20 10:58:42.1217 INFO Get access_type List Success
+2020-10-20 10:58:42.1297 INFO Get view_Role_master List Success
+2020-10-20 10:58:42.1297 INFO Get State List Success
+2020-10-20 10:58:42.1297 INFO Get Dept List Success
+2020-10-20 10:58:42.1297 INFO Get Users List Success
+2020-10-20 10:58:42.1297 INFO Get User Success :59-Hpcl Biofuels Ltd, Distillery Div, Ec, Bo
+2020-10-20 10:58:42.1297 INFO Get Division List Success
+2020-10-20 10:58:42.1474 INFO Get User Success :44-Administrator
+2020-10-20 10:58:46.5040 INFO Get User Success :44-Administrator
+2020-10-20 10:58:46.5370 INFO Update User Success :59-Hpcl Biofuels Ltd, Distillery Div, Ec, Bo
+2020-10-20 10:58:46.5727 INFO Get Users List Success
+2020-10-20 10:58:46.5727 INFO Get User Success :44-Administrator
+2020-10-20 10:58:50.0068 INFO Get User Success :44-Administrator
+2020-10-20 10:58:50.0268 INFO Org Get List Success
+2020-10-20 10:58:50.0268 INFO Get Party Master List Success
+2020-10-20 10:58:50.0268 INFO Get Role Level List Success
+2020-10-20 10:58:50.0268 INFO Get access_type List Success
+2020-10-20 10:58:50.0268 INFO Get view_Role_master List Success
+2020-10-20 10:58:50.0268 INFO Get State List Success
+2020-10-20 10:58:50.0368 INFO Get Dept List Success
+2020-10-20 10:58:50.0368 INFO Get Users List Success
+2020-10-20 10:58:50.0368 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-20 10:58:50.0368 INFO Get Division List Success
+2020-10-20 10:58:50.0368 INFO Get User Success :44-Administrator
+2020-10-20 10:59:02.0084 INFO Get Existing data Fail :user_registration
+2020-10-20 10:59:02.4320 INFO Get User Success :44-Administrator
+2020-10-20 10:59:02.4480 INFO Update User Success :45-Riga Sugar Company Limited
+2020-10-20 10:59:02.4692 INFO Get Users List Success
+2020-10-20 10:59:02.4692 INFO Get User Success :44-Administrator
+2020-10-20 10:59:04.1597 INFO Get User Success :44-Administrator
+2020-10-20 10:59:04.1757 INFO Org Get List Success
+2020-10-20 10:59:04.1787 INFO Get Party Master List Success
+2020-10-20 10:59:04.1787 INFO Get Role Level List Success
+2020-10-20 10:59:04.1787 INFO Get access_type List Success
+2020-10-20 10:59:04.1787 INFO Get view_Role_master List Success
+2020-10-20 10:59:04.1787 INFO Get State List Success
+2020-10-20 10:59:04.1787 INFO Get Dept List Success
+2020-10-20 10:59:04.1787 INFO Get Users List Success
+2020-10-20 10:59:04.1926 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-20 10:59:04.1926 INFO Get Division List Success
+2020-10-20 10:59:04.1926 INFO Get User Success :44-Administrator
+2020-10-20 10:59:06.8635 INFO Get User Success :44-Administrator
+2020-10-20 10:59:06.8836 INFO Get Users List Success
+2020-10-20 10:59:06.8836 INFO Get User Success :44-Administrator
+2020-10-20 10:59:12.6198 INFO Get User Success :44-Administrator
+2020-10-20 10:59:17.8699 INFO Get User Success :44-Administrator
+2020-10-20 10:59:24.1978 INFO GetFinacListValues Success
+2020-10-20 10:59:24.2120 INFO Get User Success :44-Administrator
+2020-10-20 10:59:54.4575 INFO Get User Success :44-Administrator
+2020-10-20 11:00:17.0016 INFO Get User Success :44-Administrator
+2020-10-20 11:00:19.6370 INFO Get User Success :44-Administrator
+2020-10-20 11:00:19.7046 INFO GetFinacListValues Success
+2020-10-20 11:00:19.7101 INFO Get User Success :44-Administrator
+2020-10-20 11:00:23.6653 INFO Get Party Type Master List Success
+2020-10-20 11:00:23.6653 INFO Get User Success :44-Administrator
+2020-10-20 11:00:26.6634 INFO GetFinacListValues Success
+2020-10-20 11:00:26.6634 INFO Get User Success :44-Administrator
+2020-10-20 11:00:27.8364 INFO Get User Success :44-Administrator
+2020-10-20 11:00:27.8775 INFO Get Party Type Master List Success
+2020-10-20 11:00:27.8805 INFO Get User Success :44-Administrator
+2020-10-20 11:03:43.4484 INFO Get Party Type Master List Success
+2020-10-20 11:03:43.4484 INFO Get User Success :44-Administrator
+2020-10-20 11:03:43.4804 INFO GetFinacListValues Success
+2020-10-20 11:03:43.4804 INFO Get User Success :44-Administrator
+2020-10-20 11:03:46.8781 INFO Get Party Type Master List Success
+2020-10-20 11:03:46.8811 INFO Get User Success :44-Administrator
+2020-10-20 11:03:48.3881 INFO Get User Success :44-Administrator
+2020-10-20 11:03:48.4256 INFO Get Party Master List Success
+2020-10-20 11:03:48.4333 INFO Get User Success :44-Administrator
+2020-10-20 11:03:49.5668 INFO Get User Success :44-Administrator
+2020-10-20 11:03:50.4927 INFO Get Party Type Master List Success
+2020-10-20 11:03:50.4927 INFO Get User Success :44-Administrator
+2020-10-20 11:03:53.2685 INFO Get User Success :44-Administrator
+2020-10-20 11:03:55.8230 INFO Get User Success :44-Administrator
+2020-10-20 11:03:55.8230 INFO Get Party Master List Success
+2020-10-20 11:04:15.8310 INFO Get User Success :44-Administrator
+2020-10-20 11:05:24.8664 INFO Get User Success :44-Administrator
+2020-10-20 11:05:54.7155 INFO Get Party Master List Success
+2020-10-20 11:05:54.7155 INFO GetFinacListValues Success
+2020-10-20 11:06:05.4526 INFO GetFinacListValues Success
+2020-10-20 11:06:05.5085 INFO Get User Success :44-Administrator
+2020-10-20 11:06:32.0160 INFO Get User Success :44-Administrator
+2020-10-20 11:06:33.4700 INFO Get User Success :44-Administrator
+2020-10-20 11:06:33.4907 INFO Get Party Master List Success
+2020-10-20 11:06:33.4907 INFO Get User Success :44-Administrator
+2020-10-20 11:06:34.1724 INFO Get User Success :44-Administrator
+2020-10-20 11:06:34.1893 INFO Get Party Type Master List Success
+2020-10-20 11:06:34.1924 INFO Get User Success :44-Administrator
+2020-10-20 11:06:48.7380 INFO Get User Success :44-Administrator
+2020-10-20 11:06:48.7405 INFO Get Party Master List Success
+2020-10-20 11:06:48.7405 INFO GetFinacListValues Success
+2020-10-20 11:06:48.7650 INFO Get Party Master List Success
+2020-10-20 11:06:48.7650 INFO Get User Success :44-Administrator
+2020-10-20 11:06:49.9747 INFO Get User Success :44-Administrator
+2020-10-20 11:06:49.9952 INFO Get Party Type Master List Success
+2020-10-20 11:06:49.9952 INFO Get User Success :44-Administrator
+2020-10-20 11:06:51.3586 INFO GetFinacListValues Success
+2020-10-20 11:06:53.0294 INFO GetFinacListValues Success
+2020-10-20 11:06:57.9330 INFO GetFinacListValues Success
+2020-10-20 11:06:59.0441 INFO Get User Success :44-Administrator
+2020-10-20 11:06:59.0441 INFO Get Party Master List Success
+2020-10-20 11:06:59.0441 INFO GetFinacListValues Success
+2020-10-20 11:06:59.0750 INFO Get Party Master List Success
+2020-10-20 11:06:59.0750 INFO Get User Success :44-Administrator
+2020-10-20 11:07:00.5925 INFO Get User Success :44-Administrator
+2020-10-20 11:07:57.1068 INFO Get User Success :44-Administrator
+2020-10-20 11:08:06.6145 INFO Get Party Type Master List Success
+2020-10-20 11:08:06.6145 INFO Get User Success :44-Administrator
+2020-10-20 11:08:10.0701 INFO Get User Success :44-Administrator
+2020-10-20 11:08:10.1184 INFO Get Party Master List Success
+2020-10-20 11:08:10.1184 INFO Get User Success :44-Administrator
+2020-10-20 11:08:12.3251 INFO Get User Success :44-Administrator
+2020-10-20 11:08:13.6281 INFO Get Party Type Master List Success
+2020-10-20 11:08:13.6449 INFO Get Party Master Details Success
+2020-10-20 11:08:13.6490 INFO Get User Success :44-Administrator
+2020-10-20 11:08:19.6370 INFO Get User Success :44-Administrator
+2020-10-20 11:08:19.6578 INFO Get Party Master List Success
+2020-10-20 11:08:19.6578 INFO Get User Success :44-Administrator
+2020-10-20 11:08:23.9584 INFO Get User Success :44-Administrator
+2020-10-20 11:08:23.9774 INFO Get Party Type Master List Success
+2020-10-20 11:08:23.9774 INFO Get Party Master Details Success
+2020-10-20 11:08:23.9774 INFO Get Party Master List Success
+2020-10-20 11:08:23.9989 INFO GetFinacListValues Success
+2020-10-20 11:08:23.9989 INFO Get User Success :44-Administrator
+2020-10-20 11:08:26.6399 INFO Get User Success :44-Administrator
+2020-10-20 11:08:26.6628 INFO Get Party Master List Success
+2020-10-20 11:08:26.6628 INFO Get User Success :44-Administrator
+2020-10-20 11:08:28.4156 INFO Get User Success :44-Administrator
+2020-10-20 11:08:28.4326 INFO Get Party Type Master List Success
+2020-10-20 11:08:28.4326 INFO Get Party Master Details Success
+2020-10-20 11:08:28.4326 INFO Get User Success :44-Administrator
+2020-10-20 11:08:29.7809 INFO Get User Success :44-Administrator
+2020-10-20 11:08:29.8081 INFO Get Party Master List Success
+2020-10-20 11:08:29.8081 INFO Get User Success :44-Administrator
+2020-10-20 11:08:30.9683 INFO Get User Success :44-Administrator
+2020-10-20 11:08:30.9870 INFO Get Party Type Master List Success
+2020-10-20 11:08:30.9970 INFO Get Party Master Details Success
+2020-10-20 11:08:30.9970 INFO Get User Success :44-Administrator
+2020-10-20 11:08:32.3338 INFO Get User Success :44-Administrator
+2020-10-20 11:08:32.3497 INFO Get Party Master List Success
+2020-10-20 11:08:32.3497 INFO Get User Success :44-Administrator
+2020-10-20 11:08:33.1989 INFO Get User Success :44-Administrator
+2020-10-20 11:08:33.2179 INFO Get Party Type Master List Success
+2020-10-20 11:08:33.2179 INFO Get Party Master Details Success
+2020-10-20 11:08:33.2239 INFO Get User Success :44-Administrator
+2020-10-20 11:08:34.3100 INFO Get User Success :44-Administrator
+2020-10-20 11:08:34.3279 INFO Get Party Master List Success
+2020-10-20 11:08:34.3279 INFO Get User Success :44-Administrator
+2020-10-20 11:08:35.1996 INFO Get User Success :44-Administrator
+2020-10-20 11:08:35.2175 INFO Get Party Type Master List Success
+2020-10-20 11:08:35.2175 INFO Get Party Master Details Success
+2020-10-20 11:08:35.2235 INFO Get User Success :44-Administrator
+2020-10-20 11:08:36.4698 INFO Get User Success :44-Administrator
+2020-10-20 11:08:36.4877 INFO Get Party Master List Success
+2020-10-20 11:08:36.4907 INFO Get User Success :44-Administrator
+2020-10-20 11:08:37.6817 INFO Get User Success :44-Administrator
+2020-10-20 11:08:37.6996 INFO Get Party Type Master List Success
+2020-10-20 11:08:37.6996 INFO Get Party Master Details Success
+2020-10-20 11:08:37.6996 INFO Get Party Master List Success
+2020-10-20 11:08:37.7076 INFO GetFinacListValues Success
+2020-10-20 11:08:37.7076 INFO Get User Success :44-Administrator
+2020-10-20 11:09:42.4595 INFO Get Existing data Fail :party_master-42703: column "email_id" does not exist
+2020-10-20 11:09:43.6915 INFO Get User Success :44-Administrator
+2020-10-20 11:09:46.1518 INFO Get User Success :44-Administrator
+2020-10-20 11:09:46.1661 INFO Update Party Master Success :004-Harinagar Sugar Mills Limited(Distillery Division)
+2020-10-20 11:09:46.1961 INFO Get Party Master List Success
+2020-10-20 11:09:46.1961 INFO Get User Success :44-Administrator
+2020-10-20 11:09:48.4156 INFO Get User Success :44-Administrator
+2020-10-20 11:09:48.4340 INFO Get Party Type Master List Success
+2020-10-20 11:09:48.4430 INFO Get Party Master Details Success
+2020-10-20 11:09:48.4430 INFO Get User Success :44-Administrator
+2020-10-20 11:09:49.7994 INFO Get User Success :44-Administrator
+2020-10-20 11:09:49.8173 INFO Get Party Master List Success
+2020-10-20 11:09:49.8173 INFO Get User Success :44-Administrator
+2020-10-20 11:09:50.6380 INFO Get User Success :44-Administrator
+2020-10-20 11:09:50.6576 INFO Get Party Type Master List Success
+2020-10-20 11:09:50.6616 INFO Get Party Master Details Success
+2020-10-20 11:09:50.6616 INFO Get User Success :44-Administrator
+2020-10-20 11:09:51.7730 INFO Get User Success :44-Administrator
+2020-10-20 11:09:51.7969 INFO Get Party Master List Success
+2020-10-20 11:09:51.7969 INFO Get User Success :44-Administrator
+2020-10-20 11:09:52.9769 INFO Get User Success :44-Administrator
+2020-10-20 11:09:52.9958 INFO Get Party Type Master List Success
+2020-10-20 11:09:52.9958 INFO Get Party Master Details Success
+2020-10-20 11:09:52.9958 INFO Get User Success :44-Administrator
+2020-10-20 11:09:54.3192 INFO Get User Success :44-Administrator
+2020-10-20 11:09:54.3371 INFO Get Party Master List Success
+2020-10-20 11:09:54.3371 INFO Get User Success :44-Administrator
+2020-10-20 11:09:55.3555 INFO Get User Success :44-Administrator
+2020-10-20 11:09:55.3784 INFO Get Party Type Master List Success
+2020-10-20 11:09:55.3834 INFO Get Party Master Details Success
+2020-10-20 11:09:55.3834 INFO Get Party Master List Success
+2020-10-20 11:09:55.3834 INFO GetFinacListValues Success
+2020-10-20 11:09:55.3834 INFO Get User Success :44-Administrator
+2020-10-20 11:09:57.0560 INFO Get User Success :44-Administrator
+2020-10-20 11:09:57.0786 INFO Get Party Master List Success
+2020-10-20 11:09:57.0786 INFO Get User Success :44-Administrator
+2020-10-20 11:09:58.1356 INFO Get User Success :44-Administrator
+2020-10-20 11:09:58.1535 INFO Get Party Type Master List Success
+2020-10-20 11:09:58.1535 INFO Get Party Master Details Success
+2020-10-20 11:09:58.1535 INFO Get Party Master List Success
+2020-10-20 11:09:58.1615 INFO GetFinacListValues Success
+2020-10-20 11:09:58.1615 INFO Get User Success :44-Administrator
+2020-10-20 11:09:59.4565 INFO Get User Success :44-Administrator
+2020-10-20 11:09:59.4745 INFO Get Party Master List Success
+2020-10-20 11:09:59.4745 INFO Get User Success :44-Administrator
+2020-10-20 11:10:00.4966 INFO Get User Success :44-Administrator
+2020-10-20 11:10:00.5153 INFO Get Party Type Master List Success
+2020-10-20 11:10:00.5153 INFO Get Party Master Details Success
+2020-10-20 11:10:00.5213 INFO Get Party Master List Success
+2020-10-20 11:10:00.5213 INFO GetFinacListValues Success
+2020-10-20 11:10:00.5213 INFO Get User Success :44-Administrator
+2020-10-20 11:10:01.7406 INFO Get User Success :44-Administrator
+2020-10-20 11:10:01.7610 INFO Get Party Master List Success
+2020-10-20 11:10:01.7700 INFO Get User Success :44-Administrator
+2020-10-20 11:10:02.4757 INFO Get User Success :44-Administrator
+2020-10-20 11:10:02.4937 INFO Get Party Type Master List Success
+2020-10-20 11:10:02.4937 INFO Get Party Master Details Success
+2020-10-20 11:10:02.4937 INFO Get Party Master List Success
+2020-10-20 11:10:02.4937 INFO GetFinacListValues Success
+2020-10-20 11:10:02.4937 INFO Get User Success :44-Administrator
+2020-10-20 11:10:24.9718 INFO Get User Success :44-Administrator
+2020-10-20 11:15:39.4523 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 11:15:55.6248 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 11:15:55.6248 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 11:16:09.8289 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 11:48:22.3137 INFO Get WorkFlow List Success
+2020-10-20 11:48:24.2739 INFO Get SubModule In WorkFlow Success
+2020-10-20 11:48:24.2739 INFO Get District In WorkFlow Success
+2020-10-20 11:48:24.2739 INFO Get WorkFlow  Success
+2020-10-20 11:48:24.2739 INFO Get TabName In WorkFlow Success
+2020-10-20 11:48:24.2739 INFO Get RoleNames In WorkFlow Success
+2020-10-20 11:48:24.2889 INFO Get Users List Success
+2020-10-20 11:48:24.3286 INFO Get Users List Success
+2020-10-20 11:48:26.6412 INFO Get WorkFlow List Success
+2020-10-20 11:48:27.6066 INFO Get SubModule In WorkFlow Success
+2020-10-20 11:48:27.6066 INFO Get District In WorkFlow Success
+2020-10-20 11:48:27.6066 INFO Get WorkFlow  Success
+2020-10-20 11:48:27.6066 INFO Get TabName In WorkFlow Success
+2020-10-20 11:48:27.6066 INFO Get RoleNames In WorkFlow Success
+2020-10-20 11:48:27.6166 INFO Get Users List Success
+2020-10-20 11:48:27.6166 INFO Get Users List Success
+2020-10-20 11:48:30.4478 INFO Get WorkFlow List Success
+2020-10-20 11:48:48.9856 INFO Org Get List Success
+2020-10-20 11:48:53.1617 INFO Get State List Success
+2020-10-20 11:48:54.3379 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:48:56.2130 INFO Org Get List Success
+2020-10-20 11:48:56.2130 INFO Get Role Level List Success
+2020-10-20 11:48:56.2130 INFO Get access_type List Success
+2020-10-20 11:48:56.2395 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:48:56.2395 INFO Get Users List Success
+2020-10-20 11:48:57.7681 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:48:58.6532 INFO Org Get List Success
+2020-10-20 11:48:58.6532 INFO Get Role Level List Success
+2020-10-20 11:48:58.6532 INFO Get access_type List Success
+2020-10-20 11:48:58.6721 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:48:58.6721 INFO Get Users List Success
+2020-10-20 11:49:00.1432 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:01.1755 INFO Org Get List Success
+2020-10-20 11:49:01.1775 INFO Get Role Level List Success
+2020-10-20 11:49:01.1775 INFO Get access_type List Success
+2020-10-20 11:49:01.1935 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:01.1935 INFO Get Users List Success
+2020-10-20 11:49:02.5192 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:03.3229 INFO Org Get List Success
+2020-10-20 11:49:03.3229 INFO Get Role Level List Success
+2020-10-20 11:49:03.3229 INFO Get access_type List Success
+2020-10-20 11:49:03.3410 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:03.3410 INFO Get Users List Success
+2020-10-20 11:49:04.5258 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:05.5005 INFO Org Get List Success
+2020-10-20 11:49:05.5005 INFO Get Role Level List Success
+2020-10-20 11:49:05.5005 INFO Get access_type List Success
+2020-10-20 11:49:05.5195 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:05.5217 INFO Get Users List Success
+2020-10-20 11:49:07.0950 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:08.1311 INFO Org Get List Success
+2020-10-20 11:49:08.1311 INFO Get Role Level List Success
+2020-10-20 11:49:08.1451 INFO Get access_type List Success
+2020-10-20 11:49:08.1660 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:08.1660 INFO Get Users List Success
+2020-10-20 11:49:09.7471 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:15.0981 INFO Org Get List Success
+2020-10-20 11:49:15.1001 INFO Get Role Level List Success
+2020-10-20 11:49:15.1001 INFO Get access_type List Success
+2020-10-20 11:49:15.1170 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:15.1170 INFO Get Users List Success
+2020-10-20 11:49:17.4775 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:19.4477 INFO Org Get List Success
+2020-10-20 11:49:19.4477 INFO Get Role Level List Success
+2020-10-20 11:49:19.4477 INFO Get access_type List Success
+2020-10-20 11:49:19.4666 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:19.4666 INFO Get Users List Success
+2020-10-20 11:49:20.9000 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:22.6479 INFO Org Get List Success
+2020-10-20 11:49:22.6479 INFO Get Role Level List Success
+2020-10-20 11:49:22.6479 INFO Get access_type List Success
+2020-10-20 11:49:22.6710 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:22.6710 INFO Get Users List Success
+2020-10-20 11:49:23.9408 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:26.0169 INFO Org Get List Success
+2020-10-20 11:49:26.0169 INFO Get Role Level List Success
+2020-10-20 11:49:26.0200 INFO Get access_type List Success
+2020-10-20 11:49:26.0358 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:49:26.0358 INFO Get Users List Success
+2020-10-20 11:52:46.6021 INFO Get Party Type Master List Success
+2020-10-20 11:52:49.1936 INFO Get Party Master List Success
+2020-10-20 11:52:51.0773 INFO Get Party Master List Success
+2020-10-20 11:52:59.8952 INFO Get Party Type Master List Success
+2020-10-20 11:53:00.8773 INFO Get Party Master List Success
+2020-10-20 11:53:18.6475 INFO Get Party Master List Success
+2020-10-20 11:53:45.5994 INFO Get Party Master List Success
+2020-10-20 11:54:01.1060 INFO Get Party Type Master List Success
+2020-10-20 11:54:02.9506 INFO Get Party Master List Success
+2020-10-20 11:54:24.6880 INFO Get Party Type Master List Success
+2020-10-20 11:54:26.3907 INFO Get Party Master List Success
+2020-10-20 11:54:27.8506 INFO Get Party Type Master List Success
+2020-10-20 11:54:54.0280 INFO Get Party Master List Success
+2020-10-20 11:54:56.0478 INFO Get Party Type Master List Success
+2020-10-20 11:54:56.9716 INFO Get Party Master List Success
+2020-10-20 11:54:58.2194 INFO Get Party Type Master List Success
+2020-10-20 11:54:59.0078 INFO Get Party Master List Success
+2020-10-20 11:55:09.0895 INFO Get Party Master List Success
+2020-10-20 11:55:53.1272 INFO Get Party Type Master List Success
+2020-10-20 11:55:54.8246 INFO Get Party Master List Success
+2020-10-20 11:55:56.0509 INFO Get Party Type Master List Success
+2020-10-20 11:55:56.8156 INFO Get Party Master List Success
+2020-10-20 11:55:58.1056 INFO Get Party Type Master List Success
+2020-10-20 11:56:26.5790 INFO Get State List Success
+2020-10-20 11:56:27.9824 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:56:29.2827 INFO Org Get List Success
+2020-10-20 11:56:29.2827 INFO Get Role Level List Success
+2020-10-20 11:56:29.2857 INFO Get access_type List Success
+2020-10-20 11:56:29.2857 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:56:29.3033 INFO Get Users List Success
+2020-10-20 11:56:30.5556 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:56:31.4904 INFO Org Get List Success
+2020-10-20 11:56:31.4904 INFO Get Role Level List Success
+2020-10-20 11:56:31.4904 INFO Get access_type List Success
+2020-10-20 11:56:31.5086 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 11:56:31.5086 INFO Get Users List Success
+2020-10-20 11:56:32.8906 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-20 12:05:26.6356 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:35.6216 INFO Sugarcanepurchase Get List Success
+2020-10-20 12:05:35.6216 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:35.6361 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:38.5570 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:40.7261 INFO MIR GetList Sucess
+2020-10-20 12:05:40.7261 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:40.7443 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:48.3105 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:48.3874 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:05:48.3874 INFO Get Party Master List Success
+2020-10-20 12:05:48.4005 INFO Get VAT Master List Success
+2020-10-20 12:05:48.4005 INFO Get UOM List Success
+2020-10-20 12:05:48.4005 INFO MIR GetPassDetails Sucess
+2020-10-20 12:05:48.4005 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:06:40.0637 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 12:09:50.3618 INFO GetFinacListValues Success
+2020-10-20 12:10:03.8409 INFO GetFinacListValues Success
+2020-10-20 12:10:24.7785 INFO Get Party Type Master List Success
+2020-10-20 12:10:34.1989 INFO Get Party Type Master List Success
+2020-10-20 12:10:34.2209 INFO GetFinacListValues Success
+2020-10-20 12:10:44.3405 INFO Get Party Type Master List Success
+2020-10-20 12:23:53.9827 INFO GetFinacListValues Success
+2020-10-20 12:24:12.5243 INFO GetFinacListValues Success
+2020-10-20 12:24:18.7426 INFO Get Party Type Master List Success
+2020-10-20 12:24:18.7426 INFO GetFinacListValues Success
+2020-10-20 12:24:46.1191 INFO Get Party Type Master List Success
+2020-10-20 12:24:46.1191 INFO GetFinacListValues Success
+2020-10-20 12:25:39.1097 INFO Get Party Type Master List Success
+2020-10-20 12:25:39.1097 INFO GetFinacListValues Success
+2020-10-20 12:25:39.1343 INFO GetFinacListValues Success
+2020-10-20 12:25:42.7718 INFO Get Party Type Master List Success
+2020-10-20 12:25:42.7718 INFO GetFinacListValues Success
+2020-10-20 12:25:58.3937 INFO Get Party Type Master List Success
+2020-10-20 12:25:58.3958 INFO GetFinacListValues Success
+2020-10-20 12:26:23.1159 INFO Get Party Type Master List Success
+2020-10-20 12:26:23.1159 INFO GetFinacListValues Success
+2020-10-20 12:26:23.1415 INFO GetFinacListValues Success
+2020-10-20 12:26:24.2340 INFO Get Party Type Master List Success
+2020-10-20 12:26:24.2340 INFO GetFinacListValues Success
+2020-10-20 12:26:26.1887 INFO Get Party Type Master List Success
+2020-10-20 12:26:26.1887 INFO GetFinacListValues Success
+2020-10-20 12:26:26.2089 INFO GetFinacListValues Success
+2020-10-20 12:26:29.5660 INFO Get Party Type Master List Success
+2020-10-20 12:26:29.5689 INFO GetFinacListValues Success
+2020-10-20 12:26:32.3937 INFO Get Party Type Master List Success
+2020-10-20 12:26:32.3956 INFO GetFinacListValues Success
+2020-10-20 12:26:32.4173 INFO GetFinacListValues Success
+2020-10-20 12:26:34.9608 INFO Get Party Type Master List Success
+2020-10-20 12:26:34.9608 INFO GetFinacListValues Success
+2020-10-20 12:26:37.3716 INFO Get Party Type Master List Success
+2020-10-20 12:26:37.3716 INFO GetFinacListValues Success
+2020-10-20 12:26:37.3962 INFO GetFinacListValues Success
+2020-10-20 12:26:44.6281 INFO Get Party Type Master List Success
+2020-10-20 12:34:23.3691 INFO GetFinacListValues Success
+2020-10-20 12:34:26.3485 INFO Get Party Type Master List Success
+2020-10-20 12:34:37.8300 INFO Get Party Type Master List Success
+2020-10-20 12:35:31.0486 INFO Get Party Type Master List Success
+2020-10-20 12:37:02.9780 INFO Sugarcanepurchase Get List Success
+2020-10-20 12:37:04.8540 INFO MIR GetList Sucess
+2020-10-20 12:37:06.0257 INFO Get Party Master List Success
+2020-10-20 12:37:06.0257 INFO Get VAT Master List Success
+2020-10-20 12:37:06.0257 INFO Get UOM List Success
+2020-10-20 12:37:06.0377 INFO MIR GetPassDetails Sucess
+2020-10-20 12:42:01.8562 INFO Get User Fail :0--22P02: invalid input syntax for integer: "Admin"
+2020-10-20 13:04:09.2486 INFO GetFinacListValues Success
+2020-10-20 13:04:13.8443 INFO Get Party Type Master List Success
+2020-10-20 13:04:13.8502 INFO GetFinacListValues Success
+2020-10-20 13:04:36.0311 INFO Get Party Type Master List Success
+2020-10-20 13:04:36.0311 INFO GetFinacListValues Success
+2020-10-20 13:05:06.6401 INFO Get Party Type Master List Success
+2020-10-20 13:05:06.6401 INFO GetFinacListValues Success
+2020-10-20 13:22:16.0163 INFO GetFinacListValues Success
+2020-10-20 13:22:18.4667 INFO Get Party Type Master List Success
+2020-10-20 13:22:18.4667 INFO GetFinacListValues Success
+2020-10-20 13:22:54.5056 INFO Get Party Type Master List Success
+2020-10-20 13:22:54.5056 INFO GetFinacListValues Success
+2020-10-20 13:22:56.1320 INFO Get Party Type Master List Success
+2020-10-20 13:22:56.1320 INFO GetFinacListValues Success
+2020-10-20 13:22:56.1561 INFO GetFinacListValues Success
+2020-10-20 13:22:57.2096 INFO Get Party Type Master List Success
+2020-10-20 13:22:57.2096 INFO GetFinacListValues Success
+2020-10-20 13:23:54.7485 INFO Get Party Type Master List Success
+2020-10-20 13:23:54.7485 INFO GetFinacListValues Success
+2020-10-20 13:23:57.7089 INFO Get Party Type Master List Success
+2020-10-20 13:23:57.7089 INFO GetFinacListValues Success
+2020-10-20 13:23:57.7432 INFO GetFinacListValues Success
+2020-10-20 13:23:58.4173 INFO Get Party Type Master List Success
+2020-10-20 14:17:58.7514 INFO Get Party Type Master List Success
+2020-10-20 14:17:58.7771 INFO GetFinacListValues Success
+2020-10-20 14:17:59.9029 INFO Get Party Type Master List Success
+2020-10-20 14:17:59.9029 INFO GetFinacListValues Success
+2020-10-20 14:19:10.1629 INFO Get Party Type Master List Success
+2020-10-20 14:19:10.1629 INFO GetFinacListValues Success
+2020-10-20 14:19:24.4290 INFO Get Party Type Master List Success
+2020-10-20 14:19:24.4290 INFO GetFinacListValues Success
+2020-10-20 14:19:26.2356 INFO Get Party Type Master List Success
+2020-10-20 14:19:26.2356 INFO GetFinacListValues Success
+2020-10-20 14:22:14.3648 INFO Get Party Type Master List Success
+2020-10-20 14:22:14.3648 INFO GetFinacListValues Success
+2020-10-20 14:24:40.2838 INFO Get Party Type Master List Success
+2020-10-20 14:26:22.3192 INFO GetFinacListValues Success
+2020-10-20 14:27:19.5271 INFO GetFinacListValues Success
+2020-10-20 14:27:21.7885 INFO Get Party Type Master List Success
+2020-10-20 14:27:21.7885 INFO GetFinacListValues Success
+2020-10-20 14:27:23.5722 INFO Get Party Type Master List Success
+2020-10-20 14:27:23.5722 INFO GetFinacListValues Success
+2020-10-20 14:27:23.5962 INFO GetFinacListValues Success
+2020-10-20 14:27:24.6066 INFO Get Party Type Master List Success
+2020-10-20 14:27:24.6066 INFO GetFinacListValues Success
+2020-10-20 14:27:28.0991 INFO Get Party Type Master List Success
+2020-10-20 14:27:28.0991 INFO GetFinacListValues Success
+2020-10-20 14:27:28.1228 INFO GetFinacListValues Success
+2020-10-20 14:27:43.7119 INFO GetFinacListValues Success
+2020-10-20 14:27:44.9586 INFO Get Party Type Master List Success
+2020-10-20 14:27:44.9586 INFO GetFinacListValues Success
+2020-10-20 14:28:05.6236 INFO Get Party Type Master List Success
+2020-10-20 14:28:05.6236 INFO GetFinacListValues Success
+2020-10-20 14:29:36.3052 INFO Get Party Type Master List Success
+2020-10-20 14:29:36.3052 INFO GetFinacListValues Success
+2020-10-20 14:30:41.9611 INFO Get Party Type Master List Success
+2020-10-20 14:30:41.9611 INFO GetFinacListValues Success
+2020-10-20 14:33:06.4810 INFO Get Party Type Master List Success
+2020-10-20 14:33:06.4810 INFO GetFinacListValues Success
+2020-10-20 14:41:03.2831 INFO GetFinacListValues Success
+2020-10-20 14:41:10.7726 INFO Get Party Type Master List Success
+2020-10-20 14:41:10.7726 INFO GetFinacListValues Success
+2020-10-20 14:42:21.0340 INFO Get Party Type Master List Success
+2020-10-20 14:42:21.0360 INFO GetFinacListValues Success
+2020-10-20 14:42:53.1038 INFO Get Party Type Master List Success
+2020-10-20 14:42:53.1038 INFO GetFinacListValues Success
+2020-10-20 14:49:25.4420 INFO GetFinacListValues Success
+2020-10-20 14:49:33.0325 INFO Get Party Type Master List Success
+2020-10-20 14:49:33.0358 INFO GetFinacListValues Success
+2020-10-20 14:49:49.0635 INFO Get Party Type Master List Success
+2020-10-20 14:49:49.0635 INFO GetFinacListValues Success
+2020-10-20 14:50:30.8217 INFO Get Party Type Master List Success
+2020-10-20 14:50:30.8217 INFO GetFinacListValues Success
+2020-10-20 14:50:49.2878 INFO Get Party Type Master List Success
+2020-10-20 14:50:49.2878 INFO GetFinacListValues Success
+2020-10-20 14:56:37.7280 INFO GetFinacListValues Success
+2020-10-20 14:56:40.1212 INFO Get Party Type Master List Success
+2020-10-20 14:56:40.1212 INFO GetFinacListValues Success
+2020-10-20 14:57:35.9408 INFO Get Party Type Master List Success
+2020-10-20 14:57:35.9425 INFO GetFinacListValues Success
+2020-10-20 14:58:25.7362 INFO Get Party Type Master List Success
+2020-10-20 14:58:25.7362 INFO GetFinacListValues Success
+2020-10-20 14:58:41.6059 INFO Get Party Type Master List Success
+2020-10-20 14:58:41.6059 INFO GetFinacListValues Success
+2020-10-20 14:59:40.3124 INFO Get Party Type Master List Success
+2020-10-20 14:59:40.3124 INFO GetFinacListValues Success
+2020-10-20 15:01:09.6153 INFO Get Party Type Master List Success
+2020-10-20 15:01:09.6153 INFO GetFinacListValues Success
+2020-10-20 15:01:11.0471 INFO Get Party Type Master List Success
+2020-10-20 15:01:11.0471 INFO GetFinacListValues Success
+2020-10-20 15:02:18.3897 INFO Get Party Type Master List Success
+2020-10-20 15:02:18.3897 INFO GetFinacListValues Success
+2020-10-20 15:03:41.2301 INFO Get Party Type Master List Success
+2020-10-20 15:03:41.2301 INFO GetFinacListValues Success
+2020-10-20 15:05:17.2256 INFO Get Party Type Master List Success
+2020-10-20 15:05:17.2256 INFO GetFinacListValues Success
+2020-10-20 15:06:13.0593 INFO Get Party Type Master List Success
+2020-10-20 15:06:13.0593 INFO GetFinacListValues Success
+2020-10-20 15:06:27.7457 INFO Get Party Type Master List Success
+2020-10-20 15:06:27.7457 INFO GetFinacListValues Success
+2020-10-20 15:07:16.0733 INFO Get Party Type Master List Success
+2020-10-20 15:07:16.0733 INFO GetFinacListValues Success
+2020-10-20 15:07:34.9284 INFO Get Party Type Master List Success
+2020-10-20 15:07:34.9284 INFO GetFinacListValues Success
+2020-10-20 15:07:38.5277 INFO Get Party Type Master List Success
+2020-10-20 15:07:38.5277 INFO GetFinacListValues Success
+2020-10-20 15:07:38.7457 INFO Get Party Type Master List Success
+2020-10-20 15:07:38.7457 INFO GetFinacListValues Success
+2020-10-20 15:07:38.9322 INFO Get Party Type Master List Success
+2020-10-20 15:07:38.9322 INFO GetFinacListValues Success
+2020-10-20 15:07:39.1128 INFO Get Party Type Master List Success
+2020-10-20 15:07:39.1158 INFO GetFinacListValues Success
+2020-10-20 15:07:42.7530 INFO Get Party Type Master List Success
+2020-10-20 15:07:42.7548 INFO GetFinacListValues Success
+2020-10-20 15:07:52.1535 INFO Get Party Type Master List Success
+2020-10-20 15:07:52.1535 INFO GetFinacListValues Success
+2020-10-20 15:07:58.8108 INFO Get Party Type Master List Success
+2020-10-20 15:07:58.8108 INFO GetFinacListValues Success
+2020-10-20 15:09:37.9214 INFO GetFinacListValues Success
+2020-10-20 15:09:39.5057 INFO Get Party Type Master List Success
+2020-10-20 15:09:39.5057 INFO GetFinacListValues Success
+2020-10-20 15:10:07.7491 INFO Get Party Type Master List Success
+2020-10-20 15:10:07.7491 INFO GetFinacListValues Success
+2020-10-20 15:10:07.7733 INFO GetFinacListValues Success
+2020-10-20 15:10:08.8290 INFO Get Party Type Master List Success
+2020-10-20 15:10:08.8340 INFO GetFinacListValues Success
+2020-10-20 15:11:54.3279 INFO Get Party Type Master List Success
+2020-10-20 15:11:54.3279 INFO GetFinacListValues Success
+2020-10-20 15:12:00.7033 INFO Sugarcanepurchase Get List Success
+2020-10-20 15:12:03.4642 INFO MIR GetList Sucess
+2020-10-20 15:12:32.3596 INFO Get Party Master List Success
+2020-10-20 15:12:32.3646 INFO Get VAT Master List Success
+2020-10-20 15:12:32.3646 INFO Get UOM List Success
+2020-10-20 15:12:32.3646 INFO MIR GetPassDetails Sucess
+2020-10-20 15:22:04.5420 INFO Sugarcanepurchase Get List Success
+2020-10-20 15:22:09.1229 INFO MIR GetList Sucess
+2020-10-20 15:22:32.2948 INFO Get Party Master List Success
+2020-10-20 15:22:32.2948 INFO Get VAT Master List Success
+2020-10-20 15:22:32.3035 INFO MIR GetPassDetails Sucess
+2020-10-20 15:23:12.2416 INFO Get Party Master List Success
+2020-10-20 15:23:12.2416 INFO Get VAT Master List Success
+2020-10-20 15:23:12.2416 INFO MIR GetPassDetails Sucess
+2020-10-20 15:23:43.0675 INFO Get Party Master List Success
+2020-10-20 15:23:43.0675 INFO Get VAT Master List Success
+2020-10-20 15:25:25.3491 INFO Get VAT Master List Success
+2020-10-20 15:25:25.3491 INFO MIR GetPassDetails Sucess
+2020-10-20 15:27:46.4198 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:27:53.7641 INFO Sugarcanepurchase Get List Success
+2020-10-20 15:27:53.7641 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:27:53.7770 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:10.1348 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:10.1750 INFO MIR GetList Sucess
+2020-10-20 15:28:10.1789 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:10.1789 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:13.8071 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:13.8730 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:13.8804 INFO Get Party Master List Success
+2020-10-20 15:28:13.8804 INFO Get VAT Master List Success
+2020-10-20 15:28:13.8804 INFO MIR GetPassDetails Sucess
+2020-10-20 15:28:13.8804 INFO MIR GetDetails Sucess
+2020-10-20 15:28:13.8980 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:20.9197 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:20.9419 INFO MIR GetList Sucess
+2020-10-20 15:28:20.9419 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:20.9419 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:21.8140 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:21.8430 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:28:21.8430 INFO Get Party Master List Success
+2020-10-20 15:28:21.8486 INFO Get VAT Master List Success
+2020-10-20 15:28:21.8486 INFO MIR GetPassDetails Sucess
+2020-10-20 15:28:21.8486 INFO MIR GetDetails Sucess
+2020-10-20 15:28:21.8486 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:33.0429 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:38.4061 INFO Sugarcanepurchase Get List Success
+2020-10-20 15:29:38.4061 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:38.4170 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:49.5646 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:54.9763 INFO MIR GetList Sucess
+2020-10-20 15:29:54.9763 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:54.9892 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:56.7092 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:56.7753 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:29:56.7753 INFO Get Party Master List Success
+2020-10-20 15:29:56.7894 INFO Get VAT Master List Success
+2020-10-20 15:29:56.7894 INFO MIR GetPassDetails Sucess
+2020-10-20 15:29:56.7894 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:30:48.9863 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:30:48.9863 INFO Get Party Master List Success
+2020-10-20 15:30:48.9914 INFO Get VAT Master List Success
+2020-10-20 15:30:48.9914 INFO MIR GetPassDetails Sucess
+2020-10-20 15:30:48.9914 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:32:52.4151 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:32:52.4151 INFO Get Party Master List Success
+2020-10-20 15:32:52.4151 INFO Get VAT Master List Success
+2020-10-20 15:32:52.4151 INFO MIR GetPassDetails Sucess
+2020-10-20 15:32:52.4151 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:34:11.2287 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:34:11.2287 INFO Get Party Master List Success
+2020-10-20 15:34:11.2287 INFO Get VAT Master List Success
+2020-10-20 15:34:11.2287 INFO MIR GetPassDetails Sucess
+2020-10-20 15:34:11.2389 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:34:57.4401 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:34:57.4423 INFO Get Party Master List Success
+2020-10-20 15:34:57.4423 INFO Get VAT Master List Success
+2020-10-20 15:34:57.4423 INFO MIR GetPassDetails Sucess
+2020-10-20 15:34:57.4423 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:35:45.3521 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:35:45.3521 INFO Get Party Master List Success
+2020-10-20 15:35:45.3521 INFO Get VAT Master List Success
+2020-10-20 15:35:45.3521 INFO MIR GetPassDetails Sucess
+2020-10-20 15:35:45.3521 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:33.6188 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:33.6188 INFO Get Party Master List Success
+2020-10-20 15:36:33.6188 INFO Get VAT Master List Success
+2020-10-20 15:36:33.6188 INFO MIR GetPassDetails Sucess
+2020-10-20 15:36:33.6188 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:39.0267 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:39.0491 INFO MIR GetList Sucess
+2020-10-20 15:36:39.0491 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:39.0541 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:40.1593 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:40.1799 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:40.1799 INFO Get Party Master List Success
+2020-10-20 15:36:40.1799 INFO Get VAT Master List Success
+2020-10-20 15:36:40.1799 INFO MIR GetPassDetails Sucess
+2020-10-20 15:36:40.1799 INFO MIR GetDetails Sucess
+2020-10-20 15:36:40.1966 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:43.3891 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:43.4094 INFO MIR GetList Sucess
+2020-10-20 15:36:43.4114 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:43.4114 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:44.3079 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:44.3300 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:36:44.3380 INFO Get Party Master List Success
+2020-10-20 15:36:44.3380 INFO Get VAT Master List Success
+2020-10-20 15:36:44.3380 INFO MIR GetPassDetails Sucess
+2020-10-20 15:36:44.3380 INFO MIR GetDetails Sucess
+2020-10-20 15:36:44.3380 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:09.6080 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:09.6080 INFO Get Party Master List Success
+2020-10-20 15:37:09.6080 INFO Get VAT Master List Success
+2020-10-20 15:37:09.6151 INFO MIR GetPassDetails Sucess
+2020-10-20 15:37:09.6151 INFO MIR GetDetails Sucess
+2020-10-20 15:37:25.1115 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:43.4984 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:43.4984 INFO Get Party Master List Success
+2020-10-20 15:37:43.4984 INFO Get VAT Master List Success
+2020-10-20 15:37:43.5059 INFO MIR GetPassDetails Sucess
+2020-10-20 15:37:43.5059 INFO MIR GetDetails Sucess
+2020-10-20 15:37:49.8812 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:56.2605 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:56.2802 INFO MIR GetList Sucess
+2020-10-20 15:37:56.2802 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:56.2862 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:58.9415 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:58.9630 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:37:58.9630 INFO Get Party Master List Success
+2020-10-20 15:37:58.9630 INFO Get VAT Master List Success
+2020-10-20 15:37:58.9630 INFO MIR GetPassDetails Sucess
+2020-10-20 15:37:58.9630 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:38:24.3605 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:38:24.3605 INFO Get Party Master List Success
+2020-10-20 15:38:24.3649 INFO Get VAT Master List Success
+2020-10-20 15:38:24.3649 INFO MIR GetPassDetails Sucess
+2020-10-20 15:38:45.7442 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:41:48.8521 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:41:48.8521 INFO Get Party Master List Success
+2020-10-20 15:41:48.8521 INFO Get VAT Master List Success
+2020-10-20 15:41:48.8521 INFO MIR GetPassDetails Sucess
+2020-10-20 15:41:48.8521 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:42:26.6574 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:42:26.6574 INFO Get Party Master List Success
+2020-10-20 15:42:26.6626 INFO Get VAT Master List Success
+2020-10-20 15:42:26.6626 INFO MIR GetPassDetails Sucess
+2020-10-20 15:42:26.6626 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:42:58.3039 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:42:58.3039 INFO Get Party Master List Success
+2020-10-20 15:42:58.3039 INFO Get VAT Master List Success
+2020-10-20 15:42:58.3039 INFO MIR GetPassDetails Sucess
+2020-10-20 15:42:58.3039 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:44:51.6264 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:44:51.6294 INFO Get Party Master List Success
+2020-10-20 15:44:51.6294 INFO Get VAT Master List Success
+2020-10-20 15:44:51.6294 INFO MIR GetPassDetails Sucess
+2020-10-20 15:44:51.6294 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:46:31.2820 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:46:31.2820 INFO Get Party Master List Success
+2020-10-20 15:46:31.2874 INFO Get VAT Master List Success
+2020-10-20 15:46:31.2874 INFO MIR GetPassDetails Sucess
+2020-10-20 15:46:31.2874 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:50:11.4506 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 15:50:17.8773 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 15:50:20.5392 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 15:50:20.5392 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 15:50:42.8058 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 15:59:56.8541 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:13.5859 INFO Sugarcanepurchase Get List Success
+2020-10-20 16:01:13.5859 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:13.5859 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:15.4941 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:18.0125 INFO MIR GetList Sucess
+2020-10-20 16:01:18.0125 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:18.0125 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:19.7325 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:19.8021 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:19.8021 INFO Get Party Master List Success
+2020-10-20 16:01:19.8021 INFO Get VAT Master List Success
+2020-10-20 16:01:19.8191 INFO MIR GetPassDetails Sucess
+2020-10-20 16:01:19.8191 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:01:45.3468 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:02:35.8666 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:02:42.4152 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:02:42.4152 INFO MIR Update Success:H02-2_1
+2020-10-20 16:04:18.8866 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:04:18.9081 INFO MIR GetList Sucess
+2020-10-20 16:04:18.9081 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:04:18.9131 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:04:20.3204 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:04:20.3423 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:04:20.3493 INFO Get Party Master List Success
+2020-10-20 16:04:20.3493 INFO Get VAT Master List Success
+2020-10-20 16:04:20.3493 INFO MIR GetPassDetails Sucess
+2020-10-20 16:04:20.3493 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:05:29.9444 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:05:29.9444 INFO Get Party Master List Success
+2020-10-20 16:05:29.9444 INFO Get VAT Master List Success
+2020-10-20 16:05:29.9444 INFO MIR GetPassDetails Sucess
+2020-10-20 16:05:29.9444 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:06:51.2028 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:06:51.2028 INFO Get Party Master List Success
+2020-10-20 16:06:51.2081 INFO Get VAT Master List Success
+2020-10-20 16:06:51.2081 INFO MIR GetPassDetails Sucess
+2020-10-20 16:06:51.2081 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:07:56.6786 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:07:56.6786 INFO Get Party Master List Success
+2020-10-20 16:07:56.6786 INFO Get VAT Master List Success
+2020-10-20 16:08:21.2997 INFO MIR GetPassDetails Sucess
+2020-10-20 16:08:21.3137 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:09:04.0284 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:09:04.0284 INFO Get Party Master List Success
+2020-10-20 16:09:04.0284 INFO Get VAT Master List Success
+2020-10-20 16:09:04.0367 INFO MIR GetPassDetails Sucess
+2020-10-20 16:09:04.0367 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:09:19.1958 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:09:19.1958 INFO Get Party Master List Success
+2020-10-20 16:09:19.1958 INFO Get VAT Master List Success
+2020-10-20 16:09:19.1958 INFO MIR GetPassDetails Sucess
+2020-10-20 16:09:19.1958 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:11:05.9456 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:11:05.9456 INFO Get Party Master List Success
+2020-10-20 16:11:05.9456 INFO Get VAT Master List Success
+2020-10-20 16:11:05.9456 INFO MIR GetPassDetails Sucess
+2020-10-20 16:11:05.9456 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:12:06.2862 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:12:06.2862 INFO Get Party Master List Success
+2020-10-20 16:12:06.2862 INFO Get VAT Master List Success
+2020-10-20 16:12:28.0830 INFO MIR GetPassDetails Sucess
+2020-10-20 16:12:28.0830 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:12:59.1480 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:13:16.0605 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:13:16.0605 INFO MIR Update Success:H02-2_1
+2020-10-20 16:13:48.3577 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:13:51.2291 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:13:51.2291 INFO MIR Update Success:H02-2_1
+2020-10-20 16:14:01.9020 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:14:01.9156 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:14:01.9156 INFO MIR Update Success:H02-2_1
+2020-10-20 16:14:11.0679 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:14:11.0679 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:14:11.0838 INFO MIR Update Success:H02-2_1
+2020-10-20 16:14:24.5710 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:15:50.5171 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:15:50.5171 INFO MIR Update Success:H02-2_1
+2020-10-20 16:15:57.7718 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:16:00.3552 INFO MIR Insertion Fail:1-H02-23503: insert or update on table "molassesissueregister" violates foreign key constraint "fk_uom_master"
+2020-10-20 16:16:00.3552 INFO MIR Update Success:H02-2_1
+2020-10-20 16:16:15.5611 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:25.8240 INFO MIR Insertion Sucess:1-H02
+2020-10-20 16:17:25.8340 INFO MIR Update Success:H02-2_1
+2020-10-20 16:17:25.8557 INFO MIR GetList Sucess
+2020-10-20 16:17:25.8557 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:25.8666 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:35.9034 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:35.9266 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:35.9266 INFO Get Party Master List Success
+2020-10-20 16:17:35.9266 INFO Get VAT Master List Success
+2020-10-20 16:17:37.4751 INFO MIR GetPassDetails Sucess
+2020-10-20 16:17:37.4751 INFO MIR GetDetails Sucess
+2020-10-20 16:17:37.4751 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:55.8751 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:17:55.8751 INFO Get Party Master List Success
+2020-10-20 16:17:55.8797 INFO Get VAT Master List Success
+2020-10-20 16:17:58.3841 INFO MIR GetPassDetails Sucess
+2020-10-20 16:17:58.3841 INFO MIR GetDetails Sucess
+2020-10-20 16:18:31.4084 INFO MIR GetDetails Sucess
+2020-10-20 16:18:34.6901 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:43.3451 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:43.3663 INFO MIR GetList Sucess
+2020-10-20 16:18:43.3663 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:43.3663 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:46.1741 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:46.1954 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:46.1954 INFO Get Party Master List Success
+2020-10-20 16:18:46.1954 INFO Get VAT Master List Success
+2020-10-20 16:18:46.1954 INFO MIR GetPassDetails Sucess
+2020-10-20 16:18:46.1954 INFO MIR GetDetails Sucess
+2020-10-20 16:18:46.2076 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:49.0663 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:49.0892 INFO MIR Update Success:H02-2_1
+2020-10-20 16:18:49.1127 INFO MIR GetList Sucess
+2020-10-20 16:18:49.1147 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:49.1147 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:50.3663 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:50.3843 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:18:50.3843 INFO Get Party Master List Success
+2020-10-20 16:18:50.3843 INFO Get VAT Master List Success
+2020-10-20 16:18:50.3843 INFO MIR GetPassDetails Sucess
+2020-10-20 16:18:50.3843 INFO MIR GetDetails Sucess
+2020-10-20 16:18:50.3973 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:19:46.5622 INFO Get User Success :16-Harinagar Sugar
+2020-10-20 16:20:28.2379 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:30.8241 INFO Sugarcanepurchase Get List Success
+2020-10-20 16:20:30.8241 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:30.8241 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:32.2128 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:32.2351 INFO MIR GetList Sucess
+2020-10-20 16:20:32.2351 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:32.2391 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:33.7577 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:33.7781 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:33.7781 INFO Get Party Master List Success
+2020-10-20 16:20:33.7781 INFO Get VAT Master List Success
+2020-10-20 16:20:33.7781 INFO MIR GetPassDetails Sucess
+2020-10-20 16:20:33.7871 INFO MIR GetDetails Sucess
+2020-10-20 16:20:33.7871 INFO Get User Success :17-Bond Officer
+2020-10-20 16:20:43.5602 INFO Get User Success :17-Bond Officer
+2020-10-20 16:25:39.6095 INFO MIR Approve Fail:1
+2020-10-20 16:25:56.0778 INFO Get User Success :17-Bond Officer
+2020-10-20 16:25:58.4430 INFO MIR Approve Fail:1
+2020-10-20 16:26:12.1535 INFO Get User Success :17-Bond Officer
+2020-10-20 16:27:36.6616 INFO MIR Approve Sucess:1
+2020-10-20 16:27:36.6906 INFO MIR GetList Sucess
+2020-10-20 16:27:36.6935 INFO Get User Success :17-Bond Officer
+2020-10-20 16:27:36.6935 INFO Get User Success :17-Bond Officer
+2020-10-20 16:27:38.8528 INFO Get User Success :17-Bond Officer
+2020-10-20 16:27:38.8752 INFO Get User Success :17-Bond Officer
+2020-10-20 16:27:38.8752 INFO Get Party Master List Success
+2020-10-20 16:27:38.8802 INFO Get VAT Master List Success
+2020-10-20 16:27:38.8802 INFO MIR GetPassDetails Sucess
+2020-10-20 16:27:38.8802 INFO MIR GetDetails Sucess
+2020-10-20 16:27:38.8802 INFO Get User Success :17-Bond Officer
+2020-10-20 16:28:05.4163 INFO Get User Success :17-Bond Officer
+2020-10-20 16:28:05.4163 INFO Get Party Master List Success
+2020-10-20 16:28:05.4163 INFO Get VAT Master List Success
+2020-10-20 16:28:05.4163 INFO MIR GetPassDetails Sucess
+2020-10-20 16:28:05.4163 INFO MIR GetDetails Sucess
+2020-10-20 16:28:34.1029 INFO Get User Success :17-Bond Officer
+2020-10-20 16:28:45.0967 INFO Get User Success :17-Bond Officer
+2020-10-20 16:28:45.0990 INFO Get Party Master List Success
+2020-10-20 16:28:45.0990 INFO Get VAT Master List Success
+2020-10-20 16:28:45.0990 INFO MIR GetPassDetails Sucess
+2020-10-20 16:28:45.0990 INFO MIR GetDetails Sucess
+2020-10-20 16:31:42.9374 INFO Get User Success :17-Bond Officer
+2020-10-20 16:31:50.6358 INFO Get User Success :17-Bond Officer
+2020-10-20 16:31:59.4244 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:32:05.9983 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:32:06.0079 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:32:11.4163 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:32:11.4649 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:32:11.4743 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:32:51.1952 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:35:39.3527 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:36:31.6931 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:21.9337 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:21.9757 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:22.0125 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:23.4928 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:23.5132 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:23.5132 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:28.1659 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:28.2118 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:28.2118 INFO Get VAT Master List Success
+2020-10-20 16:40:28.2275 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:37.7366 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:37.7583 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:37.7583 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:38.9251 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:38.9500 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:40:38.9500 INFO Get VAT Master List Success
+2020-10-20 16:40:38.9500 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:41:39.6591 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:41:39.6618 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:41:45.0817 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:41:47.5521 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:42:34.2660 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:42:53.6577 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:43:19.0085 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:50:09.3835 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:50:09.3968 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:50:35.2051 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:32.6243 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:32.6243 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:37.6170 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:37.6385 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:37.6456 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:44.3507 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:44.3738 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:44.3738 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:45.4341 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:45.4550 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:51:45.4610 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:06.1144 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:10.8583 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:10.8642 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:14.4003 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:14.4202 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:14.4202 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:18.4635 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:18.5055 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:18.5055 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:20.0855 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:20.1064 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:20.1064 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:52:26.3289 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 16:53:13.8665 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:53:16.3348 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:53:16.3348 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:53:18.3091 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:53:18.3300 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:53:18.3360 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:53:40.3304 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:54:08.1870 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:54:14.8101 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:54:27.7529 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:54:51.4157 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:55:27.4411 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:55:27.4439 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:55:29.7502 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:55:29.7709 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:55:29.7709 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:55:52.8402 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:08.7488 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:15.8651 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:15.8871 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:15.8871 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:19.4070 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:19.4270 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:56:32.4260 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:59:44.8178 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:59:46.4207 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 16:59:47.5765 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-20 17:13:23.1077 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:13:27.5921 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:13:28.8952 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:13:35.9878 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:14:10.8011 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:14:32.1863 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:15:06.3500 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:16:34.6080 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:17:41.3053 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:18:10.7390 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:19:53.0587 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:20:36.7756 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:30:11.3466 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:30:32.6412 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:30:40.4269 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:32:54.1116 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:35:32.7098 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:35:48.2652 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:36:08.3778 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:49:03.1174 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:49:07.4989 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:49:08.8939 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:49:08.9727 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:51:16.9523 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:52:42.8936 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:53:21.9689 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:53:35.1237 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:54:01.7340 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:54:11.4517 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:54:22.1203 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:55:16.0027 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:55:24.3908 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:56:12.4719 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:56:21.0318 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:57:23.2442 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:57:44.2777 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:57:56.6619 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:59:38.9628 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:59:41.6571 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:59:41.6679 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:59:44.3674 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:59:45.8354 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 17:59:45.8603 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:00:04.5438 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:00:24.8692 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:00:39.2801 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:00:56.3068 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:01:24.6222 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:01:40.0312 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:02:36.4334 INFO Get User Success :18-Harinagar Distillery
+2020-10-20 18:04:21.8697 INFO Get User Success :18-Harinagar Distillery

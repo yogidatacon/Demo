@@ -1,0 +1,102 @@
+2021-01-15 10:50:21.2174 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-15 10:50:22.0377 INFO Get User Success :newswadeshi_dis
+2021-01-15 10:50:35.0951 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-15 10:50:38.1359 INFO Get RR List Success
+2021-01-15 10:50:38.3447 INFO Get User Success :newswadeshi_dis
+2021-01-15 10:50:44.8110 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-15 10:50:44.8789 INFO Get Product Master List Success
+2021-01-15 10:50:44.9512 INFO Get State List Success
+2021-01-15 10:50:45.0164 INFO Get NOC Sucess:41
+2021-01-15 10:50:45.1485 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/41
+2021-01-15 10:50:45.2444 INFO Get User Success :newswadeshi_dis
+2021-01-15 10:50:51.4579 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-15 10:50:55.6798 INFO Get RR List Success
+2021-01-15 10:50:55.7635 INFO Get User Success :newswadeshi_dis
+2021-01-15 10:51:05.6779 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-15 10:51:09.4060 INFO Get RR List Success
+2021-01-15 10:52:14.6609 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-15 10:52:14.7224 INFO Get Product Master List Success
+2021-01-15 10:52:14.7918 INFO Get State List Success
+2021-01-15 10:52:14.8527 INFO Get NOC Sucess:41
+2021-01-15 10:53:32.3088 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/13
+2021-01-15 10:53:32.4468 INFO Get User Success :newswadeshi_dis
+2021-01-15 10:55:34.5296 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:55:35.2173 INFO Get User Success :vishnu_sgrbo
+2021-01-15 10:55:47.1774 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:55:47.4782 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:55:48.0018 INFO Get Pass List Success
+2021-01-15 10:55:48.0920 INFO Get User Success :vishnu_sgrbo
+2021-01-15 10:56:23.6526 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:56:23.7370 INFO Get Dispach Master List Success
+2021-01-15 10:56:23.9440 INFO Get VAT Master List Success
+2021-01-15 10:56:24.0547 INFO Get Pass List Success
+2021-01-15 10:56:24.4962 INFO Get User Success :vishnu_sgrbo
+2021-01-15 10:57:12.4613 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:57:12.7482 INFO Get Pass List Success
+2021-01-15 10:57:12.8258 INFO Get User Success :vishnu_sgrbo
+2021-01-15 10:57:17.6454 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:57:17.7069 INFO Get Dispach Master List Success
+2021-01-15 10:57:17.8472 INFO Get VAT Master List Success
+2021-01-15 10:57:17.9259 INFO Get Pass List Success
+2021-01-15 10:57:18.2587 INFO Get User Success :vishnu_sgrbo
+2021-01-15 10:59:58.1687 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 10:59:58.4936 INFO Get Pass List Success
+2021-01-15 10:59:58.5706 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:00:23.4026 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:00:23.4716 INFO Get Dispach Master List Success
+2021-01-15 11:00:23.6322 INFO Get VAT Master List Success
+2021-01-15 11:00:23.7190 INFO Get Pass List Success
+2021-01-15 11:00:24.2250 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:00:28.3441 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:00:28.6607 INFO Get Pass List Success
+2021-01-15 11:00:28.7361 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:00:36.3548 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:00:36.4163 INFO Get Dispach Master List Success
+2021-01-15 11:00:36.5439 INFO Get VAT Master List Success
+2021-01-15 11:00:36.6069 INFO Get Pass List Success
+2021-01-15 11:00:36.9224 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:04:55.5116 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:04:55.8441 INFO Get Pass List Success
+2021-01-15 11:04:55.9227 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:05:39.1474 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:05:39.2410 INFO Get Dispach Master List Success
+2021-01-15 11:05:39.7015 INFO Get VAT Master List Success
+2021-01-15 11:05:39.7632 INFO Get Pass List Success
+2021-01-15 11:05:40.1035 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:05:44.3446 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:05:44.8135 INFO Get Pass List Success
+2021-01-15 11:05:44.9396 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:05:47.5723 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:05:47.6361 INFO Get Dispach Master List Success
+2021-01-15 11:05:47.7660 INFO Get VAT Master List Success
+2021-01-15 11:05:47.8304 INFO Get Pass List Success
+2021-01-15 11:05:48.1627 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:06:33.9905 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:06:34.6910 INFO Get Pass List Success
+2021-01-15 11:06:34.8704 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:07:03.9409 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:07:04.2765 INFO Get Pass List Success
+2021-01-15 11:07:17.2208 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:07:17.2846 INFO Get Dispach Master List Success
+2021-01-15 11:07:17.4245 INFO Get VAT Master List Success
+2021-01-15 11:07:17.4906 INFO Get Pass List Success
+2021-01-15 11:07:17.8093 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:07:36.9391 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:07:37.3166 INFO Get Pass List Success
+2021-01-15 11:07:37.3922 INFO Get User Success :vishnu_sgrbo
+2021-01-15 11:07:43.9976 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2021-01-15 11:07:45.0607 INFO Get Pass List Success
+2021-01-15 12:09:14.9481 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-15 12:09:16.7569 INFO Get User Success :hpcl_ec
+2021-01-15 12:09:17.4752 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-15 12:09:17.8069 INFO Get User Success :hpcl_ec
+2021-01-15 12:09:22.8231 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-15 12:09:23.0293 INFO Get User Success :hpcl_ec
+2021-01-15 12:09:30.9781 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-15 12:09:31.0646 INFO Get Form84 List Success
+2021-01-15 12:09:31.2236 INFO Get User Success :hpcl_ec
+2021-01-15 12:09:33.6761 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-15 12:09:33.7450 INFO Get VAT Master List Success
+2021-01-15 12:09:33.9161 INFO Get User Success :hpcl_ec
+2021-01-15 12:09:44.3249 INFO Get VAT Master List Success
+2021-01-15 12:09:46.2371 INFO Get VAT Master List Success

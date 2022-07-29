@@ -1,0 +1,172 @@
+2021-02-17 10:39:29.6959 INFO Get User Success :44-Administrator
+2021-02-17 10:39:31.4357 INFO Get User Success :44-Administrator
+2021-02-17 10:39:37.6938 INFO Get User Success :44-Administrator
+2021-02-17 10:39:47.2730 INFO Get User Success :337-Administrator
+2021-02-17 10:39:50.3353 INFO Get User Success :337-Administrator
+2021-02-17 10:39:50.3353 INFO Get User Success :337-Administrator
+2021-02-17 10:49:42.7405 INFO Get User Success :144-Police Banka
+2021-02-17 10:49:42.7744 INFO Get User Success :police_Banka
+2021-02-17 10:51:56.4346 INFO Get User Success :144-Police Banka
+2021-02-17 10:51:56.4668 INFO Get User Success :police_Banka
+2021-02-17 10:53:02.0484 INFO Get User Success :police_Banka
+2021-02-17 10:56:37.6106 INFO Get User Success :144-Police Banka
+2021-02-17 10:56:37.6421 INFO Get User Success :police_Banka
+2021-02-17 10:56:47.0294 INFO Get User Success :police_Banka
+2021-02-17 10:57:55.6511 INFO Get Thana List Success
+2021-02-17 10:58:34.1224 INFO Get Thana List Success
+2021-02-17 11:05:15.2194 INFO Get User Success :144-Police Banka
+2021-02-17 11:05:15.2515 INFO Get User Success :police_Banka
+2021-02-17 11:18:21.8627 INFO Get User Success :144-Police Banka
+2021-02-17 11:18:21.9029 INFO Get User Success :police_Banka
+2021-02-17 11:18:25.3868 INFO Get Thana List Success
+2021-02-17 11:18:25.4240 INFO Get User Success :police_Banka
+2021-02-17 11:19:00.7004 INFO Get User Success :police_Banka
+2021-02-17 11:19:11.1524 INFO Get User Success :police_Banka
+2021-02-17 11:26:47.2412 INFO Get User Success :167-Police Patna
+2021-02-17 11:27:32.7821 INFO Get User Success :144-Police Banka
+2021-02-17 11:27:32.7891 INFO Get User Success :police_Banka
+2021-02-17 11:28:05.3962 INFO Get User Success :police_Banka
+2021-02-17 11:28:29.4863 INFO Get User Success :205-Active
+2021-02-17 11:28:29.4923 INFO Get User Success :excise_Patna
+2021-02-17 11:28:31.9285 INFO Get User Success :excise_Patna
+2021-02-17 12:15:21.7998 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:27.4536 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:28.0573 INFO Get User Success :hodyco
+2021-02-17 12:15:31.0735 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:40.6170 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:40.6325 INFO Check WorkFlow List Success
+2021-02-17 12:15:40.7056 INFO Get RR List Success
+2021-02-17 12:15:40.7533 INFO Get User Success :hodyco
+2021-02-17 12:15:43.9947 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:43.9947 INFO Check WorkFlow List Success
+2021-02-17 12:15:44.0580 INFO Get RR List Success
+2021-02-17 12:15:44.1357 INFO Get User Success :hodyco
+2021-02-17 12:15:46.9747 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:46.9747 INFO Get Product Master List Success
+2021-02-17 12:15:46.9999 INFO Get State List Success
+2021-02-17 12:15:46.9999 INFO Get NOC Sucess:62
+2021-02-17 12:15:47.0057 INFO Get NOC Sucess:Req//1
+2021-02-17 12:15:47.0057 INFO Get State List Success
+2021-02-17 12:15:47.0057 INFO Get NOC Details Success
+2021-02-17 12:15:47.0278 INFO Get Customer Details Success
+2021-02-17 12:15:47.0673 INFO Check WorkFlow List Success
+2021-02-17 12:15:47.0804 INFO Get User Success :hodyco
+2021-02-17 12:15:51.6811 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:15:51.6811 INFO Check WorkFlow List Success
+2021-02-17 12:15:51.7471 INFO Get RR List Success
+2021-02-17 12:15:51.7471 INFO Get User Success :hodyco
+2021-02-17 12:15:59.7000 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:15:59.7239 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:15:59.7239 INFO Get User Success :wcedo
+2021-02-17 12:16:02.7350 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:02.8093 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:02.8093 INFO Check WorkFlow List Success
+2021-02-17 12:16:02.8841 INFO Get RR List Success
+2021-02-17 12:16:02.9004 INFO Get User Success :wcedo
+2021-02-17 12:16:32.0305 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:32.0305 INFO Check WorkFlow List Success
+2021-02-17 12:16:32.0985 INFO Get RR List Success
+2021-02-17 12:16:32.1028 INFO Get User Success :wcedo
+2021-02-17 12:16:32.8307 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:32.8307 INFO Check WorkFlow List Success
+2021-02-17 12:16:32.9029 INFO Get RR List Success
+2021-02-17 12:16:32.9029 INFO Get User Success :wcedo
+2021-02-17 12:16:34.0722 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:34.0722 INFO Check WorkFlow List Success
+2021-02-17 12:16:34.1374 INFO Get RR List Success
+2021-02-17 12:16:34.1374 INFO Get User Success :wcedo
+2021-02-17 12:16:36.0075 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:36.0075 INFO Check WorkFlow List Success
+2021-02-17 12:16:36.0756 INFO Get RR List Success
+2021-02-17 12:16:36.0756 INFO Get User Success :wcedo
+2021-02-17 12:16:38.9340 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:38.9340 INFO Check WorkFlow List Success
+2021-02-17 12:16:38.9980 INFO Get RR List Success
+2021-02-17 12:16:38.9980 INFO Get User Success :wcedo
+2021-02-17 12:16:41.0291 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:41.0291 INFO Get Product Master List Success
+2021-02-17 12:16:41.0291 INFO Get State List Success
+2021-02-17 12:16:41.0291 INFO Get NOC Sucess:62
+2021-02-17 12:16:41.0361 INFO Get NOC Sucess:Req//1
+2021-02-17 12:16:41.0361 INFO Get State List Success
+2021-02-17 12:16:41.0361 INFO Get NOC Details Success
+2021-02-17 12:16:41.0361 INFO Get Customer Details Success
+2021-02-17 12:16:41.0361 INFO Check WorkFlow List Success
+2021-02-17 12:16:41.0524 INFO Get User Success :wcedo
+2021-02-17 12:16:44.7163 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:44.7406 INFO NOC Approve Sucess:61
+2021-02-17 12:16:44.7691 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:44.7951 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 12:16:44.7951 INFO Check WorkFlow List Success
+2021-02-17 12:16:44.8658 INFO Get RR List Success
+2021-02-17 12:16:44.8658 INFO Get User Success :wcedo
+2021-02-17 12:16:57.6391 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:16:57.6639 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:16:58.1558 INFO Get User Success :hodyco
+2021-02-17 12:17:01.0161 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:17:01.0410 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:17:01.0410 INFO Check WorkFlow List Success
+2021-02-17 12:17:01.1097 INFO Get RR List Success
+2021-02-17 12:17:01.1143 INFO Get User Success :hodyco
+2021-02-17 12:17:03.0598 INFO Get User Success :100-Deputy Commissioner
+2021-02-17 12:17:03.0598 INFO Get Product Master List Success
+2021-02-17 12:17:03.0698 INFO Get State List Success
+2021-02-17 12:17:03.0698 INFO Get NOC Sucess:62
+2021-02-17 12:17:03.0698 INFO Get NOC Sucess:Req//1
+2021-02-17 12:17:03.0698 INFO Get State List Success
+2021-02-17 12:17:03.0698 INFO Get NOC Details Success
+2021-02-17 12:17:03.0698 INFO Get Customer Details Success
+2021-02-17 12:17:03.0698 INFO Check WorkFlow List Success
+2021-02-17 12:17:03.0888 INFO Get User Success :hodyco
+2021-02-17 13:14:06.4424 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:14:13.9449 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:14:14.3757 INFO Get User Success :wcedo
+2021-02-17 13:14:17.9004 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:14:27.6127 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:14:27.7135 INFO Check WorkFlow List Success
+2021-02-17 13:14:40.5421 INFO Get RR List Success
+2021-02-17 13:14:40.7603 INFO Get User Success :wcedo
+2021-02-17 13:14:43.1290 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:14:43.2114 INFO Check WorkFlow List Success
+2021-02-17 13:14:56.5642 INFO Get RR List Success
+2021-02-17 13:14:56.6590 INFO Get User Success :wcedo
+2021-02-17 13:14:57.8728 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:14:57.9537 INFO Check WorkFlow List Success
+2021-02-17 13:15:10.6573 INFO Get RR List Success
+2021-02-17 13:15:10.7699 INFO Get User Success :wcedo
+2021-02-17 13:15:12.0631 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:15:12.1441 INFO Check WorkFlow List Success
+2021-02-17 13:15:24.8539 INFO Get RR List Success
+2021-02-17 13:15:24.9487 INFO Get User Success :wcedo
+2021-02-17 13:15:26.4526 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:15:26.5348 INFO Check WorkFlow List Success
+2021-02-17 13:15:39.2652 INFO Get RR List Success
+2021-02-17 13:15:39.3540 INFO Get User Success :wcedo
+2021-02-17 13:18:30.0895 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:18:30.1800 INFO Check WorkFlow List Success
+2021-02-17 13:18:43.8952 INFO Get RR List Success
+2021-02-17 13:18:43.9962 INFO Get User Success :wcedo
+2021-02-17 13:18:45.1956 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:18:45.2825 INFO Check WorkFlow List Success
+2021-02-17 13:18:59.0676 INFO Get RR List Success
+2021-02-17 13:18:59.1682 INFO Get User Success :wcedo
+2021-02-17 13:19:01.1791 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:19:01.2667 INFO Check WorkFlow List Success
+2021-02-17 13:19:14.9103 INFO Get RR List Success
+2021-02-17 13:19:15.0080 INFO Get User Success :wcedo
+2021-02-17 13:20:29.1906 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:20:29.2784 INFO Check WorkFlow List Success
+2021-02-17 13:20:42.9427 INFO Get RR List Success
+2021-02-17 13:20:43.0388 INFO Get User Success :wcedo
+2021-02-17 13:20:43.4306 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:20:43.5184 INFO Check WorkFlow List Success
+2021-02-17 13:20:57.1730 INFO Get RR List Success
+2021-02-17 13:20:57.2656 INFO Get User Success :wcedo
+2021-02-17 13:30:41.8940 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:30:42.0677 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:30:42.4791 INFO Get User Success :wcedo
+2021-02-17 13:30:45.8506 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:30:45.9877 INFO Get User Success :99-Assistant Commissioner
+2021-02-17 13:30:46.0818 INFO Check WorkFlow List Success
+2021-02-17 13:31:00.4849 INFO Get RR List Success
+2021-02-17 13:31:00.6289 INFO Get User Success :wcedo

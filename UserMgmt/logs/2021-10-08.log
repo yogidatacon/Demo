@@ -1,0 +1,239 @@
+2021-10-08 12:15:20.5317 INFO Get User Success :44-Administrator
+2021-10-08 12:15:20.6346 INFO Get User Success :44-Administrator
+2021-10-08 12:15:20.6648 INFO Get Product Type Master List Success
+2021-10-08 12:15:20.6648 INFO Get User Success :Admin
+2021-10-08 12:15:24.2165 INFO Get Dept List Success
+2021-10-08 12:15:24.2564 INFO Get Product Type Master List Success
+2021-10-08 12:15:24.2564 INFO Get User Success :Admin
+2021-10-08 12:15:48.9934 INFO Get Users List Success
+2021-10-08 12:15:49.0089 INFO Get Product Type Master List Success
+2021-10-08 12:15:49.0089 INFO Get User Success :Admin
+2021-10-08 12:15:51.1581 INFO Org Get List Success
+2021-10-08 12:15:51.1645 INFO Get Party Master List Success
+2021-10-08 12:15:51.2579 INFO Get Role Level List Success
+2021-10-08 12:15:51.2579 INFO Get access_type List Success
+2021-10-08 12:15:51.2779 INFO Get view_Role_master List Success
+2021-10-08 12:15:51.2779 INFO Get State List Success
+2021-10-08 12:15:51.2779 INFO Get Dept List Success
+2021-10-08 12:15:51.2968 INFO Get Emp List Success
+2021-10-08 12:15:51.3134 INFO Get Users List Success
+2021-10-08 12:15:51.3134 INFO Get Product Type Master List Success
+2021-10-08 12:15:51.3204 INFO Get User Success :Admin
+2021-10-08 12:16:57.3049 INFO Get Existing data Fail :user_registration
+2021-10-08 12:17:42.0123 INFO Get Existing data Fail :user_registration
+2021-10-08 12:17:54.3369 INFO Get Existing data Fail :user_registration
+2021-10-08 14:36:25.2002 INFO Get User Success :44-Administrator
+2021-10-08 14:36:33.4420 INFO Get User Success :44-Administrator
+2021-10-08 14:36:33.4684 INFO Get Product Type Master List Success
+2021-10-08 14:36:33.4782 INFO Get User Success :Admin
+2021-10-08 14:36:41.0525 INFO Get State List Success
+2021-10-08 14:36:41.0904 INFO Get Product Type Master List Success
+2021-10-08 14:36:41.0904 INFO Get User Success :Admin
+2021-10-08 14:36:42.7232 INFO Get access_type List Success
+2021-10-08 14:36:42.7232 INFO Get Product Type Master List Success
+2021-10-08 14:36:42.7410 INFO Get User Success :Admin
+2021-10-08 14:44:17.4160 INFO Get User Success :44-Administrator
+2021-10-08 14:44:17.5170 INFO Get User Success :44-Administrator
+2021-10-08 14:44:17.5445 INFO Get Product Type Master List Success
+2021-10-08 14:44:17.5533 INFO Get User Success :Admin
+2021-10-08 14:44:26.9312 INFO Get State List Success
+2021-10-08 14:44:26.9711 INFO Get Product Type Master List Success
+2021-10-08 14:44:26.9762 INFO Get User Success :Admin
+2021-10-08 14:44:29.0367 INFO Get access_type List Success
+2021-10-08 14:44:29.0367 INFO Get Product Type Master List Success
+2021-10-08 14:44:29.0539 INFO Get User Success :Admin
+2021-10-08 14:44:32.5838 INFO Get MaxID Success :access_type_master
+2021-10-08 14:44:32.5838 INFO Get Product Type Master List Success
+2021-10-08 14:44:32.5838 INFO Get User Success :Admin
+2021-10-08 14:46:00.9026 INFO Get access_type List Success
+2021-10-08 14:46:00.9026 INFO Get Product Type Master List Success
+2021-10-08 14:46:00.9026 INFO Get User Success :Admin
+2021-10-08 14:46:03.9407 INFO Get MaxID Success :access_type_master
+2021-10-08 14:46:03.9417 INFO Get Product Type Master List Success
+2021-10-08 14:46:03.9417 INFO Get User Success :Admin
+2021-10-08 14:46:29.5390 INFO Get Existing data Success :access_type_master
+2021-10-08 14:46:43.8623 INFO Get Existing data Fail :access_type_master
+2021-10-08 14:46:59.3178 INFO Get Existing data Fail :access_type_master
+2021-10-08 14:47:15.5381 INFO Get MaxID Success :access_type_master
+2021-10-08 14:47:15.5715 INFO Insert access_type_master Fail :11-Retailer-23505: duplicate key value violates unique constraint "access_typ_master_pkey"
+2021-10-08 14:48:03.5471 INFO Get MaxID Success :access_type_master
+2021-10-08 14:50:51.0219 INFO Get User Success :44-Administrator
+2021-10-08 14:50:51.1234 INFO Get User Success :44-Administrator
+2021-10-08 14:50:51.1538 INFO Get Product Type Master List Success
+2021-10-08 14:50:51.1645 INFO Get User Success :Admin
+2021-10-08 14:52:11.3569 INFO Get State List Success
+2021-10-08 14:52:11.3977 INFO Get Product Type Master List Success
+2021-10-08 14:52:11.3977 INFO Get User Success :Admin
+2021-10-08 14:52:20.5919 INFO Get access_type List Success
+2021-10-08 14:52:20.6029 INFO Get Product Type Master List Success
+2021-10-08 14:52:20.6029 INFO Get User Success :Admin
+2021-10-08 14:52:23.6120 INFO Get MaxID Success :access_type_master
+2021-10-08 14:52:23.6140 INFO Get Product Type Master List Success
+2021-10-08 14:52:23.6140 INFO Get User Success :Admin
+2021-10-08 14:52:27.0615 INFO Get Existing data Fail :access_type_master
+2021-10-08 14:52:32.5412 INFO Get Existing data Fail :access_type_master
+2021-10-08 14:53:00.3920 INFO Get MaxID Success :access_type_master
+2021-10-08 14:53:06.8872 INFO Insert access_type_master Success :11-Retailer
+2021-10-08 14:53:06.9062 INFO Get access_type List Success
+2021-10-08 14:53:06.9062 INFO Get Product Type Master List Success
+2021-10-08 14:53:06.9132 INFO Get User Success :Admin
+2021-10-08 14:53:32.2632 INFO Get MaxID Success :access_type_master
+2021-10-08 14:53:32.2632 INFO Get Product Type Master List Success
+2021-10-08 14:53:32.2632 INFO Get User Success :Admin
+2021-10-08 14:53:39.8233 INFO Get Existing data Fail :access_type_master
+2021-10-08 14:54:10.5098 INFO Get Existing data Fail :access_type_master
+2021-10-08 14:54:37.4910 INFO Get MaxID Success :access_type_master
+2021-10-08 14:54:37.5114 INFO Insert access_type_master Success :12-Wholesaler
+2021-10-08 14:54:37.5304 INFO Get access_type List Success
+2021-10-08 14:54:37.5304 INFO Get Product Type Master List Success
+2021-10-08 14:54:37.5374 INFO Get User Success :Admin
+2021-10-08 14:54:43.3705 INFO Get State List Success
+2021-10-08 14:54:43.3705 INFO Get Product Type Master List Success
+2021-10-08 14:54:43.3705 INFO Get User Success :Admin
+2021-10-08 14:54:45.6048 INFO Get access_type List Success
+2021-10-08 14:54:45.6048 INFO Get Product Type Master List Success
+2021-10-08 14:54:45.6048 INFO Get User Success :Admin
+2021-10-08 14:54:50.2779 INFO Get Dept List Success
+2021-10-08 14:54:50.2909 INFO Get Product Type Master List Success
+2021-10-08 14:54:50.2909 INFO Get User Success :Admin
+2021-10-08 14:54:51.7705 INFO Get Users List Success
+2021-10-08 14:54:51.7864 INFO Get Product Type Master List Success
+2021-10-08 14:54:51.7864 INFO Get User Success :Admin
+2021-10-08 14:54:54.1519 INFO Org Get List Success
+2021-10-08 14:54:54.1519 INFO Get Party Master List Success
+2021-10-08 14:54:54.1602 INFO Get Role Level List Success
+2021-10-08 14:54:54.1602 INFO Get access_type List Success
+2021-10-08 14:54:54.1602 INFO Get view_Role_master List Success
+2021-10-08 14:54:54.1602 INFO Get State List Success
+2021-10-08 14:54:54.1602 INFO Get Dept List Success
+2021-10-08 14:54:54.1802 INFO Get Emp List Success
+2021-10-08 14:54:54.1802 INFO Get Users List Success
+2021-10-08 14:54:54.1916 INFO Get Product Type Master List Success
+2021-10-08 14:54:54.2155 INFO Get User Success :Admin
+2021-10-08 14:55:26.9626 INFO Get Existing data Fail :user_registration
+2021-10-08 14:56:04.9174 INFO Get Existing data Fail :user_registration
+2021-10-08 14:57:08.2662 INFO Get Division List Success
+2021-10-08 14:58:32.0598 INFO Insert User Success :0-Retailer 
+2021-10-08 14:58:32.0895 INFO Get Users List Success
+2021-10-08 14:58:32.0895 INFO Get Product Type Master List Success
+2021-10-08 14:58:32.0895 INFO Get User Success :Admin
+2021-10-08 14:58:59.7708 INFO Get Users List Success
+2021-10-08 14:59:07.8295 INFO Org Get List Success
+2021-10-08 14:59:07.8325 INFO Get Party Master List Success
+2021-10-08 14:59:07.8325 INFO Get Role Level List Success
+2021-10-08 14:59:07.8325 INFO Get access_type List Success
+2021-10-08 14:59:07.8325 INFO Get view_Role_master List Success
+2021-10-08 14:59:07.8325 INFO Get State List Success
+2021-10-08 14:59:07.8325 INFO Get Dept List Success
+2021-10-08 14:59:07.8325 INFO Get Emp List Success
+2021-10-08 14:59:07.8515 INFO Get Users List Success
+2021-10-08 14:59:07.8515 INFO Get Product Type Master List Success
+2021-10-08 14:59:07.8515 INFO Get User Success :Admin
+2021-10-08 14:59:32.3434 INFO Get Existing data Fail :user_registration
+2021-10-08 15:00:02.1731 INFO Get Existing data Fail :user_registration
+2021-10-08 15:00:48.8776 INFO Get Division List Success
+2021-10-08 15:01:02.0045 INFO Insert User Success :0-Wholesaler
+2021-10-08 15:01:02.0329 INFO Get Users List Success
+2021-10-08 15:01:02.0329 INFO Get Product Type Master List Success
+2021-10-08 15:01:02.0399 INFO Get User Success :Admin
+2021-10-08 15:05:21.7802 INFO Get Users List Success
+2021-10-08 15:05:39.3973 INFO Org Get List Success
+2021-10-08 15:05:39.3973 INFO Get Party Master List Success
+2021-10-08 15:05:39.3973 INFO Get Role Level List Success
+2021-10-08 15:05:39.3973 INFO Get access_type List Success
+2021-10-08 15:05:39.3973 INFO Get view_Role_master List Success
+2021-10-08 15:05:39.3973 INFO Get State List Success
+2021-10-08 15:05:39.3973 INFO Get Dept List Success
+2021-10-08 15:05:39.3973 INFO Get Emp List Success
+2021-10-08 15:05:39.4213 INFO Get Users List Success
+2021-10-08 15:05:39.4213 INFO Get Product Type Master List Success
+2021-10-08 15:05:39.4292 INFO Get User Success :Admin
+2021-10-08 15:10:05.9607 INFO Get Existing data Fail :user_registration
+2021-10-08 15:10:52.6307 INFO Get Existing data Fail :user_registration
+2021-10-08 15:13:57.8640 INFO Get Division List Success
+2021-10-08 15:14:10.6593 INFO Insert User Success :0-Wholesaler
+2021-10-08 15:14:10.6904 INFO Get Users List Success
+2021-10-08 15:14:10.6924 INFO Get Product Type Master List Success
+2021-10-08 15:14:10.6924 INFO Get User Success :Admin
+2021-10-08 15:14:27.2116 INFO Get Users List Success
+2021-10-08 15:17:19.4729 INFO Get User Success :383-Wholesaler
+2021-10-08 15:17:19.5108 INFO Get User Success :383-Wholesaler
+2021-10-08 15:17:19.5108 INFO Get Product Type Master List Success
+2021-10-08 15:17:19.5228 INFO Get User Success :mtp_who
+2021-10-08 15:17:32.6292 INFO Get User Success :383-Wholesaler
+2021-10-08 15:17:47.4357 INFO Get User Success :44-Administrator
+2021-10-08 15:17:47.4716 INFO Get User Success :44-Administrator
+2021-10-08 15:17:47.4726 INFO Get Product Type Master List Success
+2021-10-08 15:17:47.4726 INFO Get User Success :Admin
+2021-10-08 15:17:51.7002 INFO Get State List Success
+2021-10-08 15:17:51.7002 INFO Get Product Type Master List Success
+2021-10-08 15:17:51.7102 INFO Get User Success :Admin
+2021-10-08 15:17:54.7107 INFO Get access_type List Success
+2021-10-08 15:17:54.7107 INFO Get Product Type Master List Success
+2021-10-08 15:17:54.7107 INFO Get User Success :Admin
+2021-10-08 15:18:02.5710 INFO Get Party Type Master List Success
+2021-10-08 15:18:02.5858 INFO Get Product Type Master List Success
+2021-10-08 15:18:02.5858 INFO Get User Success :Admin
+2021-10-08 15:22:45.7099 INFO Get User Success :383-Wholesaler
+2021-10-08 15:22:45.8208 INFO Get User Success :383-Wholesaler
+2021-10-08 15:22:45.8481 INFO Get Product Type Master List Success
+2021-10-08 15:22:45.8481 INFO Get User Success :mtp_who
+2021-10-08 15:26:18.6396 INFO Get User Success :383-Wholesaler
+2021-10-08 15:26:18.7399 INFO Get User Success :383-Wholesaler
+2021-10-08 15:26:18.7696 INFO Get Product Type Master List Success
+2021-10-08 15:26:18.7696 INFO Get User Success :mtp_who
+2021-10-08 16:42:27.9061 INFO Get User Success :383-Wholesaler
+2021-10-08 16:42:28.0076 INFO Get User Success :383-Wholesaler
+2021-10-08 16:42:28.0461 INFO Get Product Type Master List Success
+2021-10-08 16:42:28.0543 INFO Get User Success :mtp_who
+2021-10-08 16:42:51.6579 INFO Get User Success :383-Wholesaler
+2021-10-08 16:42:54.2871 INFO Get Product Type Master List Success
+2021-10-08 16:42:54.2871 INFO Get User Success :mtp_who
+2021-10-08 16:43:00.2405 INFO Get User Success :383-Wholesaler
+2021-10-08 16:45:22.0377 INFO Get Product Type Master List Success
+2021-10-08 16:45:22.0377 INFO Get User Success :mtp_who
+2021-10-08 16:45:27.5670 INFO Get User Success :383-Wholesaler
+2021-10-08 16:45:30.3977 INFO Get Product Type Master List Success
+2021-10-08 16:45:30.3977 INFO Get User Success :mtp_who
+2021-10-08 16:46:10.7334 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:10.7386 INFO Get Allotment List Success
+2021-10-08 16:46:10.7386 INFO Get Product Type Master List Success
+2021-10-08 16:46:10.7386 INFO Get User Success :mtp_who
+2021-10-08 16:46:12.0886 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:12.0886 INFO Get Allotment List Success
+2021-10-08 16:46:12.0886 INFO Get Product Type Master List Success
+2021-10-08 16:46:12.0886 INFO Get User Success :mtp_who
+2021-10-08 16:46:13.1458 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:13.1866 INFO Get Product Type Master List Success
+2021-10-08 16:46:13.1866 INFO Get User Success :mtp_who
+2021-10-08 16:46:18.2121 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:18.2121 INFO Get Allotment List Success
+2021-10-08 16:46:18.2229 INFO Get Product Type Master List Success
+2021-10-08 16:46:18.2229 INFO Get User Success :mtp_who
+2021-10-08 16:46:19.1970 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:20.6790 INFO Get Product Type Master List Success
+2021-10-08 16:46:20.6790 INFO Get User Success :mtp_who
+2021-10-08 16:46:22.7290 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:24.5221 INFO Get Product Type Master List Success
+2021-10-08 16:46:24.5221 INFO Get User Success :mtp_who
+2021-10-08 16:46:27.6017 INFO Get User Success :383-Wholesaler
+2021-10-08 16:46:28.7335 INFO Get Product Type Master List Success
+2021-10-08 16:46:28.7335 INFO Get User Success :mtp_who
+2021-10-08 16:46:44.1812 INFO Get User Success :382-Retailer 
+2021-10-08 16:46:44.2211 INFO Get User Success :382-Retailer 
+2021-10-08 16:46:44.2211 INFO Get Product Type Master List Success
+2021-10-08 16:46:44.2261 INFO Get User Success :mtp_ret
+2021-10-08 16:46:47.9038 INFO Get User Success :382-Retailer 
+2021-10-08 16:46:51.3110 INFO Get Product Type Master List Success
+2021-10-08 16:46:51.3110 INFO Get User Success :mtp_ret
+2021-10-08 16:46:55.0287 INFO Get User Success :382-Retailer 
+2021-10-08 16:46:55.0287 INFO Get Allotment List Success
+2021-10-08 16:46:55.0287 INFO Get Product Type Master List Success
+2021-10-08 16:46:55.0287 INFO Get User Success :mtp_ret
+2021-10-08 16:46:55.7924 INFO Get User Success :382-Retailer 
+2021-10-08 16:46:55.7924 INFO Get Allotment List Success
+2021-10-08 16:46:55.7924 INFO Get Product Type Master List Success
+2021-10-08 16:46:55.7924 INFO Get User Success :mtp_ret
+2021-10-08 16:46:56.3913 INFO Get User Success :382-Retailer 
+2021-10-08 16:46:56.3972 INFO Get Product Type Master List Success
+2021-10-08 16:46:56.3972 INFO Get User Success :mtp_ret

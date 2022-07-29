@@ -1,0 +1,208 @@
+2022-01-18 10:33:52.7515 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 10:34:14.5979 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 10:34:17.2912 INFO Get Product Type Master List Success
+2022-01-18 10:34:17.4248 INFO Get User Success :majhaulia_dis
+2022-01-18 10:34:30.5508 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 10:34:30.6227 INFO Get Product Master List Success
+2022-01-18 10:37:03.6301 INFO Get RR List Success
+2022-01-18 10:37:06.1804 INFO Get Product Type Master List Success
+2022-01-18 10:37:06.4449 INFO Get User Success :majhaulia_dis
+2022-01-18 10:37:23.8658 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 10:37:23.9369 INFO Get Product Master List Success
+2022-01-18 10:37:24.5217 INFO Get State List Success
+2022-01-18 10:37:24.5891 INFO Get NOC Sucess:774
+2022-01-18 10:37:24.7381 INFO Get NOC Sucess:Req/WC/MDD/ETH-NOC/2021-2022/16
+2022-01-18 10:37:25.4573 INFO Get NOC Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='767' and doc_type_code='NOC' and financial_year='2021-2022' order by eascm_docs_id
+2022-01-18 10:37:25.6648 INFO Check WorkFlow List Success
+2022-01-18 10:37:41.6621 INFO Get Product Type Master List Success
+2022-01-18 10:37:41.9185 INFO Get User Success :majhaulia_dis
+2022-01-18 10:42:28.8742 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 10:42:28.9490 INFO Get Product Master List Success
+2022-01-18 10:42:29.4454 INFO Get State List Success
+2022-01-18 10:42:29.5112 INFO Get NOC Sucess:774
+2022-01-18 10:42:29.6510 INFO Get NOC Sucess:Req/WC/MDD/ETH-NOC/2021-2022/16
+2022-01-18 10:42:30.0208 INFO Get NOC Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='767' and doc_type_code='NOC' and financial_year='2021-2022' order by eascm_docs_id
+2022-01-18 10:42:30.1714 INFO Check WorkFlow List Success
+2022-01-18 11:05:13.2457 INFO Get User Success :207-excise_Rohtas
+2022-01-18 11:05:15.9762 INFO Get Product Type Master List Success
+2022-01-18 11:05:16.5231 INFO Get User Success :excise_Rohtas
+2022-01-18 11:11:04.0191 INFO Get User Success :207-excise_Rohtas
+2022-01-18 11:11:30.2475 INFO Get Product Type Master List Success
+2022-01-18 11:11:30.4686 INFO Get User Success :excise_Rohtas
+2022-01-18 11:11:35.1191 INFO Get User Success :207-excise_Rohtas
+2022-01-18 11:11:44.6203 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 11:11:46.2437 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 11:12:38.1066 INFO Get Product Type Master List Success
+2022-01-18 11:12:38.3357 INFO Get User Success :majhaulia_dis
+2022-01-18 11:12:44.9412 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 11:12:45.0239 INFO Get Product Master List Success
+2022-01-18 11:16:24.8810 INFO Get RR List Success
+2022-01-18 11:16:33.7510 INFO Get Product Type Master List Success
+2022-01-18 11:16:34.1369 INFO Get User Success :majhaulia_dis
+2022-01-18 11:16:46.4628 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 11:16:46.6113 INFO Get Product Master List Success
+2022-01-18 11:16:48.0514 INFO Get State List Success
+2022-01-18 11:16:48.1423 INFO Get NOC Sucess:774
+2022-01-18 11:16:48.3149 INFO Get NOC Sucess:Req/WC/MDD/ETH-NOC/2021-2022/16
+2022-01-18 11:18:44.9605 INFO Get NOC Details Success
+2022-01-18 11:18:45.0383 INFO Get Customer Details Success
+2022-01-18 11:18:45.2198 INFO Check WorkFlow List Success
+2022-01-18 11:19:00.5426 INFO Get Product Type Master List Success
+2022-01-18 11:19:00.7442 INFO Get User Success :majhaulia_dis
+2022-01-18 11:22:49.5736 INFO Get User Success :101-Commissioner
+2022-01-18 11:23:01.1159 INFO Get User Success :101-Commissioner
+2022-01-18 11:23:03.5054 INFO Get Product Type Master List Success
+2022-01-18 11:23:03.5923 INFO Get User Success :com
+2022-01-18 11:24:59.5235 INFO Get User Success :101-Commissioner
+2022-01-18 11:25:25.5543 INFO Get User Success :379-ADM Court Patna
+2022-01-18 11:25:27.0634 INFO Get User Success :379-ADM Court Patna
+2022-01-18 11:25:28.1209 INFO Get Product Type Master List Success
+2022-01-18 11:25:28.2047 INFO Get User Success :adm_Patna
+2022-01-18 11:27:42.7957 INFO Get User Success :379-ADM Court Patna
+2022-01-18 11:27:44.3860 INFO Get User Success :379-ADM Court Patna
+2022-01-18 11:27:45.6641 INFO Get Product Type Master List Success
+2022-01-18 11:27:45.7499 INFO Get User Success :adm_Patna
+2022-01-18 11:27:51.0877 INFO Get User Success :379-ADM Court Patna
+2022-01-18 11:27:51.1675 INFO Get Report  Success
+2022-01-18 11:27:52.8428 INFO Get Product Type Master List Success
+2022-01-18 11:27:53.2351 INFO Get User Success :adm_Patna
+2022-01-18 11:28:13.9419 INFO Get User Success :101-Commissioner
+2022-01-18 11:28:15.9881 INFO Get User Success :101-Commissioner
+2022-01-18 11:28:17.8915 INFO Get Product Type Master List Success
+2022-01-18 11:28:17.9753 INFO Get User Success :com
+2022-01-18 11:28:27.9016 INFO Get User Success :101-Commissioner
+2022-01-18 11:28:27.9793 INFO Get Report  Success
+2022-01-18 11:28:31.4028 INFO Get Product Type Master List Success
+2022-01-18 11:28:31.4836 INFO Get User Success :com
+2022-01-18 11:28:38.4487 INFO Get User Success :101-Commissioner
+2022-01-18 11:28:38.8387 INFO Get Report  Success
+2022-01-18 11:28:41.3909 INFO Get Product Type Master List Success
+2022-01-18 11:28:41.4817 INFO Get User Success :com
+2022-01-18 11:28:55.1470 INFO Get User Success :381-Commissioner Court Case Registration
+2022-01-18 11:28:56.8644 INFO Get Product Type Master List Success
+2022-01-18 11:28:56.9492 INFO Get User Success :com_court_reg
+2022-01-18 11:29:00.2672 INFO Get User Success :381-Commissioner Court Case Registration
+2022-01-18 11:29:00.3340 INFO Get Report  Success
+2022-01-18 11:29:01.5945 INFO Get Product Type Master List Success
+2022-01-18 11:29:01.6803 INFO Get User Success :com_court_reg
+2022-01-18 11:29:13.5787 INFO Get User Success :2652-Case Registration Patna
+2022-01-18 11:29:15.2587 INFO Get Product Type Master List Success
+2022-01-18 11:29:15.3295 INFO Get User Success :casereg_patna
+2022-01-18 11:29:18.8368 INFO Get User Success :2652-Case Registration Patna
+2022-01-18 11:29:18.9036 INFO Get Report  Success
+2022-01-18 11:29:20.1942 INFO Get Product Type Master List Success
+2022-01-18 11:29:20.2702 INFO Get User Success :casereg_patna
+2022-01-18 11:41:32.7296 INFO Get User Success :101-Commissioner
+2022-01-18 11:41:34.5153 INFO Get User Success :101-Commissioner
+2022-01-18 11:41:36.2134 INFO Get Product Type Master List Success
+2022-01-18 11:41:36.2887 INFO Get User Success :com
+2022-01-18 11:52:06.3357 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 11:52:11.4885 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 11:52:13.0288 INFO Get Product Type Master List Success
+2022-01-18 11:52:13.1641 INFO Get User Success :vishnu_sgr
+2022-01-18 11:52:22.1564 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 11:52:22.2350 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 11:52:28.3704 INFO Get Product Type Master List Success
+2022-01-18 11:52:28.5040 INFO Get User Success :vishnu_sgr
+2022-01-18 12:02:55.0528 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 12:03:00.5274 INFO Get RR List Success
+2022-01-18 12:03:06.2001 INFO Get RR List Success
+2022-01-18 12:03:06.2665 INFO Get Balance Request Pass Success
+2022-01-18 12:03:07.8091 INFO Get Product Type Master List Success
+2022-01-18 12:03:07.9367 INFO Get User Success :vishnu_sgr
+2022-01-18 12:03:27.9855 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 12:03:28.0684 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 12:03:29.6319 INFO Get Product Type Master List Success
+2022-01-18 12:03:29.7553 INFO Get User Success :vishnu_sgr
+2022-01-18 12:06:30.6147 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-18 12:06:44.8604 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 12:06:46.3371 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 12:06:47.8287 INFO Get Product Type Master List Success
+2022-01-18 12:06:47.9544 INFO Get User Success :majhaulia_dis
+2022-01-18 12:06:54.9068 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 12:06:54.9700 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 12:07:02.5795 INFO Get Product Type Master List Success
+2022-01-18 12:07:02.7053 INFO Get User Success :majhaulia_dis
+2022-01-18 12:07:12.7664 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-18 12:26:20.3181 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:26:21.9209 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:26:22.4168 INFO Get Product Type Master List Success
+2022-01-18 12:26:22.4902 INFO Get User Success :bdbl_dis
+2022-01-18 12:26:32.0902 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:26:32.1610 INFO Get Product Master List Success
+2022-01-18 12:34:03.3827 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:34:30.2200 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:34:38.6197 INFO Get Product Type Master List Success
+2022-01-18 12:34:38.7087 INFO Get User Success :bdbl_dis
+2022-01-18 12:42:45.2262 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:42:46.8289 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:42:47.9235 INFO Get Product Type Master List Success
+2022-01-18 12:42:48.0072 INFO Get User Success :bdbl_dis
+2022-01-18 12:42:58.2098 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:42:58.2806 INFO Get Product Master List Success
+2022-01-18 12:45:23.8835 INFO Get RR List Success
+2022-01-18 12:45:26.1313 INFO Get Product Type Master List Success
+2022-01-18 12:45:26.2749 INFO Get User Success :bdbl_dis
+2022-01-18 12:45:56.3343 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:45:56.4003 INFO Get Product Master List Success
+2022-01-18 12:45:56.8528 INFO Get State List Success
+2022-01-18 12:45:56.9226 INFO Get NOC Sucess:774
+2022-01-18 12:45:57.0514 INFO Get NOC Sucess:Req/BH/BDB/NOC/2021-2022/271
+2022-01-18 12:46:46.1383 INFO Get NOC Details Success
+2022-01-18 12:46:46.2071 INFO Get Customer Details Success
+2022-01-18 12:46:46.3737 INFO Check WorkFlow List Success
+2022-01-18 12:46:48.8185 INFO Get Product Type Master List Success
+2022-01-18 12:46:48.9313 INFO Get User Success :bdbl_dis
+2022-01-18 12:47:15.0136 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:47:15.0790 INFO Get Product Master List Success
+2022-01-18 12:49:41.0389 INFO Get RR List Success
+2022-01-18 12:52:33.9370 INFO Get Product Type Master List Success
+2022-01-18 12:52:34.0657 INFO Get User Success :bdbl_dis
+2022-01-18 12:52:53.7869 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 12:52:53.8537 INFO Get Product Master List Success
+2022-01-18 12:55:16.5220 INFO Get RR List Success
+2022-01-18 13:01:23.2006 INFO Get Product Type Master List Success
+2022-01-18 13:01:23.2753 INFO Get User Success :bdbl_dis
+2022-01-18 13:02:28.5328 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:02:28.5968 INFO Get Product Master List Success
+2022-01-18 13:02:28.8840 INFO Get State List Success
+2022-01-18 13:02:28.9441 INFO Get NOC Sucess:774
+2022-01-18 13:02:29.0543 INFO Get NOC Sucess:Req/BH/BDB/NOC/2021-2022/271
+2022-01-18 13:02:30.2865 INFO Get NOC Details Success
+2022-01-18 13:02:30.3470 INFO Get Customer Details Success
+2022-01-18 13:02:30.4694 INFO Check WorkFlow List Success
+2022-01-18 13:02:31.7783 INFO Get Product Type Master List Success
+2022-01-18 13:02:31.8436 INFO Get User Success :bdbl_dis
+2022-01-18 13:02:48.2209 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:02:48.2823 INFO Get Product Master List Success
+2022-01-18 13:05:03.7295 INFO Get RR List Success
+2022-01-18 13:05:35.5921 INFO Get Product Type Master List Success
+2022-01-18 13:05:35.7907 INFO Get User Success :bdbl_dis
+2022-01-18 13:06:11.4755 INFO Get Report  Success
+2022-01-18 13:06:11.8643 INFO Get GetSeverList Success
+2022-01-18 13:08:54.1616 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:08:54.2240 INFO Get Product Master List Success
+2022-01-18 13:08:54.6822 INFO Get State List Success
+2022-01-18 13:08:54.7405 INFO Get NOC Sucess:901
+2022-01-18 13:08:54.8591 INFO Get NOC Sucess:Req/BH/BDB/NOC/2021-2022/271
+2022-01-18 13:11:09.5700 INFO Get NOC Details Success
+2022-01-18 13:11:15.2397 INFO Get GetSeverList Success
+2022-01-18 13:11:45.1525 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:11:45.2246 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:11:46.8060 INFO Get Product Type Master List Success
+2022-01-18 13:11:46.9244 INFO Get User Success :bdbl_dis
+2022-01-18 13:11:51.0599 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:11:51.1233 INFO Get Product Master List Success
+2022-01-18 13:14:57.4551 INFO Get RR List Success
+2022-01-18 13:14:59.4508 INFO Get Product Type Master List Success
+2022-01-18 13:14:59.6216 INFO Get User Success :bdbl_dis
+2022-01-18 13:15:12.9854 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-18 13:15:13.1028 INFO Get Product Master List Success
+2022-01-18 13:15:13.6585 INFO Get State List Success
+2022-01-18 13:15:13.7223 INFO Get NOC Sucess:901
+2022-01-18 13:15:13.8554 INFO Get NOC Sucess:Req/BH/BDB/NOC/2021-2022/271
+2022-01-18 13:15:15.8524 INFO Get NOC Details Success
+2022-01-18 13:15:15.9165 INFO Get Customer Details Success
+2022-01-18 13:15:16.0462 INFO Check WorkFlow List Success
+2022-01-18 13:15:17.9897 INFO Get Product Type Master List Success
+2022-01-18 13:15:18.1111 INFO Get User Success :bdbl_dis

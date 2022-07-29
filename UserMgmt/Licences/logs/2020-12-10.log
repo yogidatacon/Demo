@@ -1,0 +1,725 @@
+2020-12-10 10:17:19.3117 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:46.6006 INFO Sugarcanepurchase Get List Success
+2020-12-10 10:18:46.6006 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:46.6414 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:50.4275 INFO MIR GetList Sucess
+2020-12-10 10:18:50.4275 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:50.4422 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:53.0994 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:53.0994 INFO Get VAT Master List Success
+2020-12-10 10:18:53.1180 INFO Get Pass List Success
+2020-12-10 10:18:53.1524 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 10:18:53.1603 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:18:53.9162 INFO Get Pass List Success
+2020-12-10 10:19:00.5325 INFO Get Pass List Success
+2020-12-10 10:22:45.7000 INFO MIR Approve Sucess:9
+2020-12-10 10:24:01.5151 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:16.3097 INFO Sugarcanepurchase Get List Success
+2020-12-10 10:24:16.3097 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:16.3465 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:17.8590 INFO MIR GetList Sucess
+2020-12-10 10:24:17.8590 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:17.8740 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:19.9747 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:19.9747 INFO Get VAT Master List Success
+2020-12-10 10:24:19.9966 INFO Get Pass List Success
+2020-12-10 10:24:20.0322 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 10:24:20.0442 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:20.7018 INFO Get Pass List Success
+2020-12-10 10:24:55.3432 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:24:55.3527 INFO Get VAT Master List Success
+2020-12-10 10:24:55.3527 INFO Get Pass List Success
+2020-12-10 10:24:55.3695 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 10:25:09.0602 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-12-10 10:25:09.4162 INFO Get Pass List Success
+2020-12-10 10:39:17.6314 INFO Get User Success :44-Administrator
+2020-12-10 10:40:14.7141 INFO Get User Success :44-Administrator
+2020-12-10 10:40:20.4259 INFO Get User Success :44-Administrator
+2020-12-10 10:40:28.5549 INFO Get User Success :44-Administrator
+2020-12-10 10:40:29.6946 INFO Get User Success :44-Administrator
+2020-12-10 10:40:34.6250 INFO Get User Success :44-Administrator
+2020-12-10 10:40:38.0260 INFO Get User Success :44-Administrator
+2020-12-10 10:40:46.9909 INFO Get User Success :44-Administrator
+2020-12-10 10:40:48.3443 INFO Get User Success :44-Administrator
+2020-12-10 10:41:04.5082 INFO Get User Success :44-Administrator
+2020-12-10 10:41:05.4800 INFO Get User Success :44-Administrator
+2020-12-10 10:41:18.4747 INFO Get User Success :44-Administrator
+2020-12-10 10:41:31.8322 INFO Get User Success :44-Administrator
+2020-12-10 10:58:13.0538 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 10:58:15.6895 INFO Sugarcanepurchase Get List Success
+2020-12-10 10:58:15.6935 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 10:58:15.7344 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 10:58:23.3307 INFO MIR GetList Sucess
+2020-12-10 10:58:23.3367 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 10:58:23.3506 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 10:58:38.2462 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 10:58:38.2573 INFO Get VAT Master List Success
+2020-12-10 11:00:06.6011 INFO Get Pass List Success
+2020-12-10 11:00:06.6670 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:00:06.6862 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:00:23.3274 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:00:23.3378 INFO Get VAT Master List Success
+2020-12-10 11:00:42.8052 INFO Get Pass List Success
+2020-12-10 11:00:42.8205 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:00:42.8205 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:00:43.2176 INFO Get Pass List Success
+2020-12-10 11:04:20.8827 INFO Get User Success :44-Administrator
+2020-12-10 11:04:35.2453 INFO Get User Success :44-Administrator
+2020-12-10 11:04:39.2215 INFO Get User Success :44-Administrator
+2020-12-10 11:04:41.3965 INFO Get User Success :44-Administrator
+2020-12-10 11:04:42.4154 INFO Get User Success :44-Administrator
+2020-12-10 11:04:44.1995 INFO Get User Success :44-Administrator
+2020-12-10 11:04:45.4529 INFO Get User Success :44-Administrator
+2020-12-10 11:04:46.5495 INFO Get User Success :44-Administrator
+2020-12-10 11:04:49.6947 INFO Get User Success :44-Administrator
+2020-12-10 11:04:52.3018 INFO Get User Success :44-Administrator
+2020-12-10 11:04:55.6954 INFO Get User Success :44-Administrator
+2020-12-10 11:04:58.1826 INFO Get User Success :44-Administrator
+2020-12-10 11:05:21.2260 INFO Get User Success :44-Administrator
+2020-12-10 11:05:24.5366 INFO Get User Success :44-Administrator
+2020-12-10 11:05:38.1963 INFO Get User Success :44-Administrator
+2020-12-10 11:05:39.6970 INFO Get User Success :44-Administrator
+2020-12-10 11:05:41.0899 INFO Get User Success :44-Administrator
+2020-12-10 11:06:02.6640 INFO Get User Success :44-Administrator
+2020-12-10 11:06:37.5393 INFO Get User Success :44-Administrator
+2020-12-10 11:06:47.1221 INFO Get User Success :44-Administrator
+2020-12-10 11:06:48.5568 INFO Get User Success :44-Administrator
+2020-12-10 11:20:31.4446 INFO Get User Success :44-Administrator
+2020-12-10 11:20:55.2239 INFO Get User Success :44-Administrator
+2020-12-10 11:27:55.8322 INFO Get Party Type Master List Success
+2020-12-10 11:27:55.8322 INFO Get User Success :44-Administrator
+2020-12-10 11:28:05.9133 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:08.5410 INFO Sugarcanepurchase Get List Success
+2020-12-10 11:28:08.5410 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:08.5539 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:14.8314 INFO MIR GetList Sucess
+2020-12-10 11:28:14.8345 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:14.8345 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:18.1733 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:18.1836 INFO Get VAT Master List Success
+2020-12-10 11:28:18.1924 INFO Get Pass List Success
+2020-12-10 11:28:18.2399 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:28:50.8475 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:51.5560 INFO Get Pass List Success
+2020-12-10 11:28:55.0564 INFO MIR Update Success:RSM-RSMMST0003_9
+2020-12-10 11:28:55.0804 INFO MIR GetList Sucess
+2020-12-10 11:28:55.0833 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:28:55.0833 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:29:49.5294 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:29:49.5384 INFO Get VAT Master List Success
+2020-12-10 11:30:06.0411 INFO Get Pass List Success
+2020-12-10 11:30:06.0572 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:30:06.0572 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:06.4707 INFO Get Pass List Success
+2020-12-10 11:30:14.2009 INFO MIR GetList Sucess
+2020-12-10 11:30:14.2009 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:14.2009 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:15.7058 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:15.7148 INFO Get VAT Master List Success
+2020-12-10 11:30:15.7148 INFO Get Pass List Success
+2020-12-10 11:30:15.7328 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:30:15.7328 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:16.1425 INFO Get Pass List Success
+2020-12-10 11:30:19.6650 INFO MIR GetList Sucess
+2020-12-10 11:30:19.6650 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:19.6650 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:21.8866 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:21.8947 INFO Get VAT Master List Success
+2020-12-10 11:30:21.9448 INFO Get Pass List Success
+2020-12-10 11:30:21.9448 INFO MIR GetDetails Sucess
+2020-12-10 11:30:21.9448 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:47.6207 INFO MIR GetList Sucess
+2020-12-10 11:30:47.6207 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:30:47.6207 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:31:36.0777 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:31:36.0866 INFO Get VAT Master List Success
+2020-12-10 11:32:06.2868 INFO Get Pass List Success
+2020-12-10 11:32:06.3026 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:32:06.3026 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:06.6805 INFO Get Pass List Success
+2020-12-10 11:32:10.3410 INFO MIR GetList Sucess
+2020-12-10 11:32:10.3410 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:10.3410 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:11.5362 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:11.5362 INFO Get VAT Master List Success
+2020-12-10 11:32:11.5362 INFO Get Pass List Success
+2020-12-10 11:32:11.5362 INFO MIR GetDetails Sucess
+2020-12-10 11:32:11.5531 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:11.9170 INFO Get Pass List Success
+2020-12-10 11:32:13.5350 INFO MIR GetList Sucess
+2020-12-10 11:32:13.5350 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:13.5350 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:14.4288 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:14.4288 INFO Get VAT Master List Success
+2020-12-10 11:32:14.4288 INFO Get Pass List Success
+2020-12-10 11:32:14.4424 INFO MIR GetDetails Sucess
+2020-12-10 11:32:14.4424 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:14.7396 INFO Get Pass List Success
+2020-12-10 11:32:15.7585 INFO MIR GetList Sucess
+2020-12-10 11:32:15.7755 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:15.7755 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:16.6502 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:16.6502 INFO Get VAT Master List Success
+2020-12-10 11:32:16.6632 INFO Get Pass List Success
+2020-12-10 11:32:16.6791 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:32:16.6791 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:16.9968 INFO Get Pass List Success
+2020-12-10 11:32:18.5039 INFO MIR GetList Sucess
+2020-12-10 11:32:18.5039 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:18.5039 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:19.3392 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:19.3392 INFO Get VAT Master List Success
+2020-12-10 11:32:19.3493 INFO Get Pass List Success
+2020-12-10 11:32:19.3493 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:32:19.3669 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:32:19.6760 INFO Get Pass List Success
+2020-12-10 11:33:41.2467 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:33:41.2562 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:33:43.1272 INFO MIR GetList Sucess
+2020-12-10 11:33:43.1292 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:33:43.1292 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:32.0220 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:43.4791 INFO Sugarcanepurchase Get List Success
+2020-12-10 11:41:43.4791 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:43.5357 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:44.9330 INFO MIR GetList Sucess
+2020-12-10 11:41:44.9330 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:44.9548 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:47.0636 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:47.0751 INFO Get VAT Master List Success
+2020-12-10 11:41:47.0832 INFO Get Pass List Success
+2020-12-10 11:41:47.0832 INFO MIR GetDetails Sucess
+2020-12-10 11:41:47.1001 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:47.7515 INFO Get Pass List Success
+2020-12-10 11:41:50.7379 INFO MIR GetList Sucess
+2020-12-10 11:41:50.7399 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:50.7399 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:53.1836 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:41:53.1916 INFO Get VAT Master List Success
+2020-12-10 11:41:53.1916 INFO Get Pass List Success
+2020-12-10 11:41:53.1916 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:02.6708 INFO MIR GetList Sucess
+2020-12-10 11:42:02.6708 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:02.6773 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:03.8376 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:03.8476 INFO Get VAT Master List Success
+2020-12-10 11:42:03.8476 INFO Get Pass List Success
+2020-12-10 11:42:03.8476 INFO MIR GetDetails Sucess
+2020-12-10 11:42:03.8476 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:04.1720 INFO Get Pass List Success
+2020-12-10 11:42:06.8387 INFO MIR GetList Sucess
+2020-12-10 11:42:06.8387 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:06.8387 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:08.5637 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:08.5717 INFO Get VAT Master List Success
+2020-12-10 11:42:08.5717 INFO Get Pass List Success
+2020-12-10 11:42:08.5717 INFO MIR GetDetails Sucess
+2020-12-10 11:42:08.5717 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:42:08.9063 INFO Get Pass List Success
+2020-12-10 11:43:15.8427 INFO MIR GetList Sucess
+2020-12-10 11:43:15.8427 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:15.8482 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:19.2572 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:19.2572 INFO Get VAT Master List Success
+2020-12-10 11:43:19.2572 INFO Get Pass List Success
+2020-12-10 11:43:19.2700 INFO MIR GetDetails Sucess
+2020-12-10 11:43:19.2700 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:19.5848 INFO Get Pass List Success
+2020-12-10 11:43:23.6729 INFO MIR GetList Sucess
+2020-12-10 11:43:23.6729 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:23.6779 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:47.8852 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:47.8852 INFO Get VAT Master List Success
+2020-12-10 11:43:47.8957 INFO Get Pass List Success
+2020-12-10 11:43:47.8957 INFO MIR GetDetails Sucess
+2020-12-10 11:43:47.8957 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:48.2372 INFO Get Pass List Success
+2020-12-10 11:43:50.2314 INFO MIR GetList Sucess
+2020-12-10 11:43:50.2314 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:50.2314 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:51.6387 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:51.6467 INFO Get VAT Master List Success
+2020-12-10 11:43:51.6467 INFO Get Pass List Success
+2020-12-10 11:43:51.6467 INFO MIR GetDetails Sucess
+2020-12-10 11:43:51.6467 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:43:51.9818 INFO Get Pass List Success
+2020-12-10 11:44:19.0477 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:19.0571 INFO Get VAT Master List Success
+2020-12-10 11:44:19.0571 INFO Get Pass List Success
+2020-12-10 11:44:19.0571 INFO MIR GetDetails Sucess
+2020-12-10 11:44:19.0669 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:19.4290 INFO Get Pass List Success
+2020-12-10 11:44:21.0225 INFO MIR GetList Sucess
+2020-12-10 11:44:21.0225 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:21.0225 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:22.2691 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:22.2780 INFO Get VAT Master List Success
+2020-12-10 11:44:22.2780 INFO Get Pass List Success
+2020-12-10 11:44:22.2780 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:36.1352 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:36.1442 INFO Get VAT Master List Success
+2020-12-10 11:44:36.1442 INFO Get Pass List Success
+2020-12-10 11:44:48.5293 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:52.4511 INFO MIR GetList Sucess
+2020-12-10 11:44:52.4511 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:52.4571 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:53.4340 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:44:53.4429 INFO Get VAT Master List Success
+2020-12-10 11:44:53.4429 INFO Get Pass List Success
+2020-12-10 11:46:35.3909 INFO Get Pass List Success
+2020-12-10 11:46:35.3909 INFO MIR GetDetails Sucess
+2020-12-10 11:46:35.3982 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:35.7887 INFO Get Pass List Success
+2020-12-10 11:46:38.5180 INFO MIR GetList Sucess
+2020-12-10 11:46:38.5200 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:38.5200 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:39.1662 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:39.1662 INFO Get VAT Master List Success
+2020-12-10 11:46:39.1780 INFO Get Pass List Success
+2020-12-10 11:46:39.1780 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:45.2544 INFO MIR GetList Sucess
+2020-12-10 11:46:45.2544 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:45.2544 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:47.2628 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:47.2707 INFO Get VAT Master List Success
+2020-12-10 11:46:47.2707 INFO Get Pass List Success
+2020-12-10 11:46:47.2707 INFO MIR GetDetails Sucess
+2020-12-10 11:46:47.2707 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:47.6693 INFO Get Pass List Success
+2020-12-10 11:46:55.4397 INFO MIR GetList Sucess
+2020-12-10 11:46:55.4417 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:55.4417 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:56.7002 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:56.7092 INFO Get VAT Master List Success
+2020-12-10 11:46:56.7092 INFO Get Pass List Success
+2020-12-10 11:46:56.7311 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:46:56.7311 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:46:57.0424 INFO Get Pass List Success
+2020-12-10 11:47:07.9423 INFO MIR GetList Sucess
+2020-12-10 11:47:07.9423 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:47:07.9423 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:47:09.6566 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:47:09.6646 INFO Get VAT Master List Success
+2020-12-10 11:47:09.6646 INFO Get Pass List Success
+2020-12-10 11:47:09.6646 INFO MIR GetDetails Sucess
+2020-12-10 11:47:09.6646 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:47:09.9788 INFO Get Pass List Success
+2020-12-10 11:49:07.2680 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:09.9889 INFO Sugarcanepurchase Get List Success
+2020-12-10 11:49:09.9889 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:10.0407 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:15.8108 INFO MIR GetList Sucess
+2020-12-10 11:49:15.8108 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:15.8240 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:18.8360 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:18.8480 INFO Get VAT Master List Success
+2020-12-10 11:49:18.8480 INFO Get Pass List Success
+2020-12-10 11:49:18.8909 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2020-12-10 11:49:18.9008 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:49:19.5527 INFO Get Pass List Success
+2020-12-10 11:49:25.1893 INFO Get Pass List Success
+2020-12-10 11:49:27.8531 INFO Get Pass List Success
+2020-12-10 11:49:29.8454 INFO Get Pass List Success
+2020-12-10 11:59:45.6342 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:59:52.7094 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 11:59:52.7094 INFO Get MF2 List Success
+2020-12-10 11:59:52.7343 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-10 12:00:02.3691 INFO Sugarcanepurchase Get List Success
+2020-12-10 12:08:30.2521 INFO Get User Success :44-Administrator
+2020-12-10 12:08:45.3880 INFO Get User Success :44-Administrator
+2020-12-10 12:08:48.0125 INFO Get User Success :44-Administrator
+2020-12-10 12:09:04.2913 INFO Get User Success :44-Administrator
+2020-12-10 12:09:05.7063 INFO Get User Success :44-Administrator
+2020-12-10 12:13:15.7558 INFO Get User Success :44-Administrator
+2020-12-10 12:13:24.0280 INFO Get User Success :44-Administrator
+2020-12-10 12:13:28.3292 INFO Get User Success :44-Administrator
+2020-12-10 12:13:30.5800 INFO Get User Success :44-Administrator
+2020-12-10 12:19:23.7130 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:31.4921 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:31.5128 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:39.0021 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:39.0238 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:45.2217 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:45.2960 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:45.3026 INFO Get VAT Master List Success
+2020-12-10 12:19:45.3223 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:58.0605 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:19:58.0605 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:20:00.3034 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:20:00.3300 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:20:00.3330 INFO Get VAT Master List Success
+2020-12-10 12:20:00.3646 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 12:40:04.1341 INFO Get User Success :44-Administrator
+2020-12-10 12:40:17.2144 INFO Get User Success :44-Administrator
+2020-12-10 12:41:01.7731 INFO Get User Success :44-Administrator
+2020-12-10 12:47:13.2271 INFO Get User Success :44-Administrator
+2020-12-10 12:47:19.0811 INFO Get User Success :44-Administrator
+2020-12-10 12:47:20.8304 INFO Get User Success :44-Administrator
+2020-12-10 12:49:47.8009 INFO Get User Success :44-Administrator
+2020-12-10 12:49:59.3939 INFO Get User Success :44-Administrator
+2020-12-10 12:50:28.0830 INFO Get User Success :44-Administrator
+2020-12-10 12:50:29.4795 INFO Get User Success :44-Administrator
+2020-12-10 12:50:52.6511 INFO Get User Success :44-Administrator
+2020-12-10 12:50:57.2087 INFO Get User Success :44-Administrator
+2020-12-10 12:52:20.9321 INFO Get User Success :44-Administrator
+2020-12-10 12:52:22.4786 INFO Get User Success :44-Administrator
+2020-12-10 13:10:21.9780 INFO Get User Success :44-Administrator
+2020-12-10 13:10:30.0573 INFO Get User Success :44-Administrator
+2020-12-10 13:10:31.9941 INFO Get User Success :44-Administrator
+2020-12-10 13:12:33.3036 INFO Get User Success :44-Administrator
+2020-12-10 13:12:53.9809 INFO Get User Success :44-Administrator
+2020-12-10 13:22:17.4677 INFO Get User Success :44-Administrator
+2020-12-10 14:24:49.4699 INFO Get User Success :44-Administrator
+2020-12-10 14:25:01.1617 INFO Get User Success :44-Administrator
+2020-12-10 14:25:28.4417 INFO Get User Success :44-Administrator
+2020-12-10 14:51:06.1264 INFO Get User Success :44-Administrator
+2020-12-10 14:51:16.8639 INFO Get User Success :44-Administrator
+2020-12-10 14:51:23.1714 INFO Get User Success :44-Administrator
+2020-12-10 14:51:27.0634 INFO Get User Success :44-Administrator
+2020-12-10 14:51:30.5091 INFO Get Existing data Fail :offence_master
+2020-12-10 14:51:40.3953 INFO Get User Success :44-Administrator
+2020-12-10 14:53:29.0807 INFO Get Existing data Fail :offence_type_master
+2020-12-10 14:59:43.9476 INFO Get Existing data Fail :offence_type_master
+2020-12-10 15:09:14.1485 INFO Get Existing data Fail :offence_master
+2020-12-10 15:50:25.3072 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:50:31.8186 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:50:31.8186 INFO Check WorkFlow List Success
+2020-12-10 15:50:31.8700 INFO Get RR List Success
+2020-12-10 15:50:31.9119 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:50:36.4313 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:50:36.4313 INFO Check WorkFlow List Success
+2020-12-10 15:50:36.4313 INFO Get RR List Success
+2020-12-10 15:50:39.0879 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:50:39.0879 INFO Get Product Type Master List Success
+2020-12-10 15:50:39.1068 INFO Get State List Success
+2020-12-10 15:50:39.1068 INFO Get NOC Sucess:14
+2020-12-10 15:50:39.1068 INFO Get NOC Sucess:1
+2020-12-10 15:50:39.1177 INFO Get State List Success
+2020-12-10 15:50:39.1299 INFO Get NOC Details Success
+2020-12-10 15:50:39.1299 INFO Get Customer Details Success
+2020-12-10 15:50:39.1538 INFO Check WorkFlow List Success
+2020-12-10 15:50:39.1635 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:50:46.5668 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:51:26.1092 INFO NOC Approve Sucess:13
+2020-12-10 15:51:26.1301 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:51:26.1301 INFO Check WorkFlow List Success
+2020-12-10 15:51:26.1301 INFO Get RR List Success
+2020-12-10 15:51:26.1301 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:51:28.8331 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:51:28.8331 INFO Check WorkFlow List Success
+2020-12-10 15:51:28.8331 INFO Get RR List Success
+2020-12-10 15:56:41.7164 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:56:41.7164 INFO Check WorkFlow List Success
+2020-12-10 15:56:41.7164 INFO Get RR List Success
+2020-12-10 15:56:56.3895 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:56:56.3895 INFO Check WorkFlow List Success
+2020-12-10 15:56:56.3895 INFO Get RR List Success
+2020-12-10 15:57:16.4987 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 15:57:16.4987 INFO Check WorkFlow List Success
+2020-12-10 15:57:16.4987 INFO Get RR List Success
+2020-12-10 15:57:35.1609 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:38.0048 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:38.1019 INFO Get RR List Success
+2020-12-10 15:57:38.1019 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:39.3215 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:41.7024 INFO Get RR List Success
+2020-12-10 15:57:41.7024 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:44.9820 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:44.9820 INFO Get Product Type Master List Success
+2020-12-10 15:57:44.9820 INFO Get State List Success
+2020-12-10 15:57:44.9820 INFO Get NOC Sucess:14
+2020-12-10 15:57:44.9879 INFO Get NOC Sucess:6
+2020-12-10 15:57:44.9879 INFO Get NOC Details Success
+2020-12-10 15:57:44.9879 INFO Get Customer Details Success
+2020-12-10 15:57:44.9879 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:51.3083 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:51.3083 INFO Get RR List Success
+2020-12-10 15:57:51.3083 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:59.2926 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:57:59.2926 INFO Get Product Type Master List Success
+2020-12-10 15:57:59.2926 INFO Get State List Success
+2020-12-10 15:57:59.2926 INFO Get NOC Sucess:14
+2020-12-10 15:57:59.2926 INFO Get NOC Sucess:6
+2020-12-10 15:57:59.3016 INFO Get NOC Details Success
+2020-12-10 15:57:59.3016 INFO Get Customer Details Success
+2020-12-10 15:57:59.3016 INFO Check WorkFlow List Success
+2020-12-10 15:57:59.3016 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:58:02.4267 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:58:02.4267 INFO Get RR List Success
+2020-12-10 15:58:02.4267 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:58:03.5686 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 15:58:03.5686 INFO Get Product Type Master List Success
+2020-12-10 15:58:03.5686 INFO Get State List Success
+2020-12-10 15:58:03.5686 INFO Get NOC Sucess:14
+2020-12-10 15:58:03.5686 INFO Get NOC Sucess:6
+2020-12-10 15:58:03.5686 INFO Get NOC Details Success
+2020-12-10 15:58:03.5826 INFO Get Customer Details Success
+2020-12-10 15:58:03.5826 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:01.0324 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:03.4022 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:03.4022 INFO Get RR List Success
+2020-12-10 16:00:03.4022 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:29.0394 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:29.0394 INFO Get Product Type Master List Success
+2020-12-10 16:00:29.0394 INFO Get State List Success
+2020-12-10 16:00:29.0394 INFO Get NOC Sucess:14
+2020-12-10 16:00:29.0394 INFO Get NOC Sucess:6
+2020-12-10 16:00:29.0394 INFO Get NOC Details Success
+2020-12-10 16:00:29.0394 INFO Get Customer Details Success
+2020-12-10 16:00:29.0514 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:31.5523 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:31.5523 INFO Get RR List Success
+2020-12-10 16:00:31.5523 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:33.0356 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:33.0356 INFO Get Product Type Master List Success
+2020-12-10 16:00:33.0356 INFO Get State List Success
+2020-12-10 16:00:33.0356 INFO Get NOC Sucess:14
+2020-12-10 16:00:33.0356 INFO Get NOC Sucess:6
+2020-12-10 16:00:33.0356 INFO Get NOC Details Success
+2020-12-10 16:00:33.0356 INFO Get Customer Details Success
+2020-12-10 16:00:33.0356 INFO Check WorkFlow List Success
+2020-12-10 16:00:33.0506 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:35.8152 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:00:35.8172 INFO Get RR List Success
+2020-12-10 16:00:35.8172 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-10 16:01:09.6605 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:01:26.3337 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:01:26.3337 INFO Check WorkFlow List Success
+2020-12-10 16:01:26.3337 INFO Get RR List Success
+2020-12-10 16:01:26.3337 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:01:31.1397 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:01:31.1397 INFO Get Product Type Master List Success
+2020-12-10 16:01:31.1447 INFO Get State List Success
+2020-12-10 16:01:31.1447 INFO Get NOC Sucess:14
+2020-12-10 16:01:31.1447 INFO Get NOC Sucess:1
+2020-12-10 16:01:31.1447 INFO Get State List Success
+2020-12-10 16:01:31.1447 INFO Get NOC Details Success
+2020-12-10 16:01:31.1447 INFO Get Customer Details Success
+2020-12-10 16:01:31.1447 INFO Check WorkFlow List Success
+2020-12-10 16:01:31.1447 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:01:35.5378 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:01:35.5378 INFO Check WorkFlow List Success
+2020-12-10 16:01:35.5378 INFO Get RR List Success
+2020-12-10 16:01:35.5378 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:02:06.0101 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:02:06.0101 INFO Get Product Type Master List Success
+2020-12-10 16:02:06.0101 INFO Get State List Success
+2020-12-10 16:02:06.0101 INFO Get NOC Sucess:14
+2020-12-10 16:02:06.0101 INFO Get NOC Sucess:1
+2020-12-10 16:02:06.0101 INFO Get State List Success
+2020-12-10 16:02:06.0221 INFO Get NOC Details Success
+2020-12-10 16:02:06.0221 INFO Get Customer Details Success
+2020-12-10 16:02:06.0221 INFO Check WorkFlow List Success
+2020-12-10 16:02:06.0221 INFO Get User Success :99-Assistant Commissioner
+2020-12-10 16:02:17.0484 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:02:20.8178 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:02:20.8178 INFO Check WorkFlow List Success
+2020-12-10 16:02:20.8178 INFO Get RR List Success
+2020-12-10 16:02:20.8178 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:02:32.3227 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:02:32.3227 INFO Check WorkFlow List Success
+2020-12-10 16:02:32.3227 INFO Get RR List Success
+2020-12-10 16:02:35.1075 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:02:35.1075 INFO Get Product Type Master List Success
+2020-12-10 16:02:35.1075 INFO Get State List Success
+2020-12-10 16:02:35.1075 INFO Get NOC Sucess:14
+2020-12-10 16:02:35.1134 INFO Get NOC Sucess:1
+2020-12-10 16:02:35.1134 INFO Get State List Success
+2020-12-10 16:02:35.1134 INFO Get NOC Details Success
+2020-12-10 16:02:35.1134 INFO Get Customer Details Success
+2020-12-10 16:02:35.1134 INFO Check WorkFlow List Success
+2020-12-10 16:02:35.1294 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:03:58.5212 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:03:58.5212 INFO Check WorkFlow List Success
+2020-12-10 16:03:58.5212 INFO Get RR List Success
+2020-12-10 16:03:58.5212 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:04:02.4977 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:04:02.4977 INFO Check WorkFlow List Success
+2020-12-10 16:04:02.4977 INFO Get RR List Success
+2020-12-10 16:04:05.0094 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:04:05.0094 INFO Get Product Type Master List Success
+2020-12-10 16:04:05.0094 INFO Get State List Success
+2020-12-10 16:04:05.0094 INFO Get NOC Sucess:14
+2020-12-10 16:04:05.0094 INFO Get NOC Sucess:1
+2020-12-10 16:04:05.0094 INFO Get State List Success
+2020-12-10 16:04:05.0217 INFO Get NOC Details Success
+2020-12-10 16:04:05.0217 INFO Get Customer Details Success
+2020-12-10 16:04:05.0217 INFO Check WorkFlow List Success
+2020-12-10 16:04:05.0217 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:10:35.1347 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:10:35.1531 INFO NOC Approve Sucess:12
+2020-12-10 16:10:35.1811 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:10:35.1811 INFO Check WorkFlow List Success
+2020-12-10 16:10:35.1811 INFO Get RR List Success
+2020-12-10 16:10:35.1811 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:10:44.8928 INFO Get User Success :101-Commissioner
+2020-12-10 16:10:47.8051 INFO Get User Success :101-Commissioner
+2020-12-10 16:10:47.8051 INFO Check WorkFlow List Success
+2020-12-10 16:10:47.8051 INFO Get RR List Success
+2020-12-10 16:10:47.8051 INFO Get User Success :101-Commissioner
+2020-12-10 16:10:52.9707 INFO Get User Success :101-Commissioner
+2020-12-10 16:10:52.9707 INFO Check WorkFlow List Success
+2020-12-10 16:10:52.9744 INFO Get RR List Success
+2020-12-10 16:10:55.9782 INFO Get User Success :101-Commissioner
+2020-12-10 16:10:55.9782 INFO Get Product Type Master List Success
+2020-12-10 16:10:55.9782 INFO Get State List Success
+2020-12-10 16:10:55.9782 INFO Get NOC Sucess:14
+2020-12-10 16:10:55.9782 INFO Get NOC Sucess:1
+2020-12-10 16:10:55.9782 INFO Get State List Success
+2020-12-10 16:10:55.9902 INFO Get NOC Details Success
+2020-12-10 16:10:55.9902 INFO Get Customer Details Success
+2020-12-10 16:10:55.9902 INFO Check WorkFlow List Success
+2020-12-10 16:10:55.9902 INFO Get User Success :101-Commissioner
+2020-12-10 16:11:01.1747 INFO Get User Success :101-Commissioner
+2020-12-10 16:11:01.1902 INFO NOC Approve Sucess:4
+2020-12-10 16:11:01.2437 INFO Get User Success :101-Commissioner
+2020-12-10 16:11:01.2437 INFO Check WorkFlow List Success
+2020-12-10 16:11:01.2437 INFO Get RR List Success
+2020-12-10 16:11:01.2437 INFO Get User Success :101-Commissioner
+2020-12-10 16:11:16.5986 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:11:18.6780 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:11:18.6780 INFO Check WorkFlow List Success
+2020-12-10 16:11:18.6780 INFO Get RR List Success
+2020-12-10 16:11:18.6780 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:11:20.0748 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:11:20.0748 INFO Check WorkFlow List Success
+2020-12-10 16:11:20.0748 INFO Get RR List Success
+2020-12-10 16:11:26.5945 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:11:26.5945 INFO Check WorkFlow List Success
+2020-12-10 16:11:26.5991 INFO Get RR List Success
+2020-12-10 16:14:07.8684 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:07.8684 INFO Check WorkFlow List Success
+2020-12-10 16:14:07.8684 INFO Get RR List Success
+2020-12-10 16:14:12.2190 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:12.2190 INFO Get Product Type Master List Success
+2020-12-10 16:14:12.2228 INFO Get State List Success
+2020-12-10 16:14:12.2228 INFO Get NOC Sucess:16
+2020-12-10 16:14:12.2228 INFO Get NOC Sucess:1
+2020-12-10 16:14:12.2228 INFO Get State List Success
+2020-12-10 16:14:12.2228 INFO Get NOC Details Success
+2020-12-10 16:14:12.2228 INFO Get Customer Details Success
+2020-12-10 16:14:12.2228 INFO Check WorkFlow List Success
+2020-12-10 16:14:12.2228 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:15.5991 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:15.5991 INFO Check WorkFlow List Success
+2020-12-10 16:14:15.5991 INFO Get RR List Success
+2020-12-10 16:14:15.5991 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:21.9312 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:21.9312 INFO Check WorkFlow List Success
+2020-12-10 16:14:21.9312 INFO Get RR List Success
+2020-12-10 16:14:26.5442 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:26.5442 INFO Get Product Type Master List Success
+2020-12-10 16:14:26.5442 INFO Get State List Success
+2020-12-10 16:14:26.5442 INFO Get NOC Sucess:16
+2020-12-10 16:14:26.5442 INFO Get NOC Sucess:1
+2020-12-10 16:14:26.5517 INFO Get State List Success
+2020-12-10 16:14:26.5517 INFO Get NOC Details Success
+2020-12-10 16:14:26.5517 INFO Get Customer Details Success
+2020-12-10 16:14:26.5517 INFO Check WorkFlow List Success
+2020-12-10 16:14:26.5517 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:29.6784 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:14:29.6784 INFO Check WorkFlow List Success
+2020-12-10 16:14:29.6784 INFO Get RR List Success
+2020-12-10 16:14:29.6784 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:16:56.3652 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:16:56.3652 INFO Check WorkFlow List Success
+2020-12-10 16:17:09.3070 INFO Get RR List Success
+2020-12-10 16:17:09.3070 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:17.5850 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:17.5850 INFO Check WorkFlow List Success
+2020-12-10 16:17:17.5850 INFO Get RR List Success
+2020-12-10 16:17:22.9580 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:22.9580 INFO Get Product Type Master List Success
+2020-12-10 16:17:22.9580 INFO Get State List Success
+2020-12-10 16:17:22.9580 INFO Get NOC Sucess:16
+2020-12-10 16:17:22.9580 INFO Get NOC Sucess:1
+2020-12-10 16:17:22.9580 INFO Get State List Success
+2020-12-10 16:17:22.9580 INFO Get NOC Details Success
+2020-12-10 16:17:22.9580 INFO Get Customer Details Success
+2020-12-10 16:17:22.9780 INFO Check WorkFlow List Success
+2020-12-10 16:17:22.9780 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:38.7580 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:38.7828 INFO NOC Approve Sucess:3
+2020-12-10 16:17:38.8030 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:38.8030 INFO Check WorkFlow List Success
+2020-12-10 16:17:38.8030 INFO Get RR List Success
+2020-12-10 16:17:38.8030 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:43.8593 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:43.8593 INFO Check WorkFlow List Success
+2020-12-10 16:17:43.8637 INFO Get RR List Success
+2020-12-10 16:17:47.3713 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:17:47.3713 INFO Get Product Type Master List Success
+2020-12-10 16:17:47.3713 INFO Get State List Success
+2020-12-10 16:17:47.3713 INFO Get NOC Sucess:16
+2020-12-10 16:17:47.3713 INFO Get NOC Sucess:1
+2020-12-10 16:17:47.3713 INFO Get State List Success
+2020-12-10 16:17:47.3813 INFO Get NOC Details Success
+2020-12-10 16:17:47.3813 INFO Get Customer Details Success
+2020-12-10 16:17:47.3813 INFO Check WorkFlow List Success
+2020-12-10 16:17:47.3813 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:18:50.1667 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:18:52.6269 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:18:52.6288 INFO Check WorkFlow List Success
+2020-12-10 16:18:52.6288 INFO Get RR List Success
+2020-12-10 16:18:52.6288 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:02.3871 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:02.3871 INFO Get Product Type Master List Success
+2020-12-10 16:19:02.3871 INFO Get State List Success
+2020-12-10 16:19:02.3871 INFO Get NOC Sucess:16
+2020-12-10 16:19:02.3871 INFO Get NOC Sucess:1
+2020-12-10 16:19:02.3871 INFO Get State List Success
+2020-12-10 16:19:02.3984 INFO Get NOC Details Success
+2020-12-10 16:19:02.3984 INFO Get Customer Details Success
+2020-12-10 16:19:02.3984 INFO Check WorkFlow List Success
+2020-12-10 16:19:02.3984 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:05.2562 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:05.2562 INFO Check WorkFlow List Success
+2020-12-10 16:19:05.2562 INFO Get RR List Success
+2020-12-10 16:19:05.2562 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:10.3958 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:10.3958 INFO Get Product Type Master List Success
+2020-12-10 16:19:10.3958 INFO Get State List Success
+2020-12-10 16:19:10.3958 INFO Get NOC Sucess:16
+2020-12-10 16:19:10.3958 INFO Get NOC Sucess:1
+2020-12-10 16:19:10.3958 INFO Get State List Success
+2020-12-10 16:19:10.3958 INFO Get NOC Details Success
+2020-12-10 16:19:10.4112 INFO Get Customer Details Success
+2020-12-10 16:19:10.4112 INFO Check WorkFlow List Success
+2020-12-10 16:19:10.4112 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:18.5539 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:18.5915 INFO NOC Approve Sucess:4
+2020-12-10 16:19:18.6124 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:18.6134 INFO Check WorkFlow List Success
+2020-12-10 16:19:18.6134 INFO Get RR List Success
+2020-12-10 16:19:18.6134 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:23.4927 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:23.4927 INFO Get Product Type Master List Success
+2020-12-10 16:19:23.4927 INFO Get State List Success
+2020-12-10 16:19:23.4927 INFO Get NOC Sucess:16
+2020-12-10 16:19:23.4927 INFO Get NOC Sucess:1
+2020-12-10 16:19:23.4927 INFO Get State List Success
+2020-12-10 16:19:23.5054 INFO Get NOC Details Success
+2020-12-10 16:19:23.5054 INFO Get Customer Details Success
+2020-12-10 16:19:23.5054 INFO Check WorkFlow List Success
+2020-12-10 16:19:23.5054 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:27.1984 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:27.1984 INFO Check WorkFlow List Success
+2020-12-10 16:19:27.1984 INFO Get RR List Success
+2020-12-10 16:19:27.1984 INFO Get User Success :100-Deputy Commissioner
+2020-12-10 16:19:41.3922 INFO Get User Success :101-Commissioner
+2020-12-10 16:19:43.4183 INFO Get User Success :101-Commissioner
+2020-12-10 16:19:43.4183 INFO Check WorkFlow List Success
+2020-12-10 16:19:43.4183 INFO Get RR List Success
+2020-12-10 16:19:43.4263 INFO Get User Success :101-Commissioner
+2020-12-10 16:19:45.8573 INFO Get User Success :101-Commissioner
+2020-12-10 16:19:45.8573 INFO Get Product Type Master List Success
+2020-12-10 16:19:45.8633 INFO Get State List Success
+2020-12-10 16:19:45.8633 INFO Get NOC Sucess:17
+2020-12-10 16:19:45.8633 INFO Get NOC Sucess:1
+2020-12-10 16:19:45.8633 INFO Get State List Success
+2020-12-10 16:19:45.8633 INFO Get NOC Details Success
+2020-12-10 16:19:45.8633 INFO Get Customer Details Success
+2020-12-10 16:19:45.8633 INFO Check WorkFlow List Success
+2020-12-10 16:19:45.8633 INFO Get User Success :101-Commissioner
+2020-12-10 16:42:14.0336 INFO Get Party Type Master List Success
+2020-12-10 18:12:26.7276 INFO Get State List Success

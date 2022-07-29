@@ -1,0 +1,192 @@
+2021-10-07 09:38:24.8694 INFO Get User Success :44-Administrator
+2021-10-07 09:38:33.0925 INFO Get User Success :44-Administrator
+2021-10-07 09:38:33.1254 INFO Get Product Type Master List Success
+2021-10-07 09:38:33.1254 INFO Get User Success :Admin
+2021-10-07 09:38:40.7044 INFO Get User Success :44-Administrator
+2021-10-07 09:38:43.6686 INFO Get Product Type Master List Success
+2021-10-07 09:38:43.6733 INFO Get User Success :Admin
+2021-10-07 09:38:46.0724 INFO Get User Success :44-Administrator
+2021-10-07 09:38:46.0975 INFO Get Pass List Success
+2021-10-07 09:38:46.1196 INFO Get Product Type Master List Success
+2021-10-07 09:38:46.1246 INFO Get User Success :Admin
+2021-10-07 09:38:47.9306 INFO Get User Success :44-Administrator
+2021-10-07 09:38:47.9306 INFO Get Dispach Master List Success
+2021-10-07 09:38:53.6837 INFO Get VAT Master List Success
+2021-10-07 09:39:17.0549 INFO Get Pass List Success
+2021-10-07 09:40:02.7704 INFO Get Product Type Master List Success
+2021-10-07 09:40:02.7704 INFO Get User Success :Admin
+2021-10-07 09:43:21.3370 INFO Get User Success :44-Administrator
+2021-10-07 09:43:21.3569 INFO Get Pass List Success
+2021-10-07 09:43:21.3603 INFO Get Product Type Master List Success
+2021-10-07 09:43:21.3603 INFO Get User Success :Admin
+2021-10-07 09:43:23.6551 INFO Get User Success :44-Administrator
+2021-10-07 09:43:23.6561 INFO Get Dispach Master List Success
+2021-10-07 09:43:25.1392 INFO Get VAT Master List Success
+2021-10-07 09:43:25.6031 INFO Get Pass List Success
+2021-10-07 09:43:26.0427 INFO Get Product Type Master List Success
+2021-10-07 09:43:26.0476 INFO Get User Success :Admin
+2021-10-07 10:38:18.7778 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:38:18.8795 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:38:18.9343 INFO Get Product Type Master List Success
+2021-10-07 10:38:18.9424 INFO Get User Success :mtp1
+2021-10-07 10:38:25.7808 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:38:28.0990 INFO Get Product Type Master List Success
+2021-10-07 10:38:28.0990 INFO Get User Success :mtp1
+2021-10-07 10:38:46.7168 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:38:46.7198 INFO Get License_Type List Success
+2021-10-07 10:38:49.9880 INFO Get License Fee List Success
+2021-10-07 10:38:49.9880 INFO Get State List Success
+2021-10-07 10:38:53.8925 INFO Get Division List Success
+2021-10-07 10:38:53.9156 INFO Get Product Type Master List Success
+2021-10-07 10:38:53.9156 INFO Get User Success :mtp1
+2021-10-07 10:40:02.5701 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:40:02.5701 INFO Get License_Type List Success
+2021-10-07 10:42:14.7768 INFO Get License Fee List Success
+2021-10-07 10:42:14.7808 INFO Get State List Success
+2021-10-07 10:42:17.6914 INFO Get Division List Success
+2021-10-07 10:42:17.6914 INFO Get Product Type Master List Success
+2021-10-07 10:42:17.7064 INFO Get User Success :mtp1
+2021-10-07 10:43:31.4079 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:43:31.4079 INFO Get License_Type List Success
+2021-10-07 10:44:03.1852 INFO Get License Fee List Success
+2021-10-07 10:44:03.1872 INFO Get State List Success
+2021-10-07 10:44:57.0420 INFO Get Division List Success
+2021-10-07 10:44:57.0529 INFO Get Product Type Master List Success
+2021-10-07 10:44:57.0529 INFO Get User Success :mtp1
+2021-10-07 10:45:21.6957 INFO Get User Success :353-M and TP Unit
+2021-10-07 10:45:21.6957 INFO Get License_Type List Success
+2021-10-07 10:51:35.4148 INFO Get License Fee List Success
+2021-10-07 10:51:35.4148 INFO Get State List Success
+2021-10-07 11:11:31.9490 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:11:32.0467 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:11:32.0956 INFO Get Product Type Master List Success
+2021-10-07 11:11:32.0956 INFO Get User Success :mtp1
+2021-10-07 11:11:34.9252 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:11:36.5900 INFO Get Product Type Master List Success
+2021-10-07 11:11:36.5950 INFO Get User Success :mtp1
+2021-10-07 11:11:42.2968 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:11:42.2968 INFO Get License_Type List Success
+2021-10-07 11:11:44.7258 INFO Get License Fee List Success
+2021-10-07 11:11:44.7258 INFO Get State List Success
+2021-10-07 11:11:46.2999 INFO Get Division List Success
+2021-10-07 11:11:46.5188 INFO Get Product Type Master List Success
+2021-10-07 11:11:46.5188 INFO Get User Success :mtp1
+2021-10-07 11:13:49.1768 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:13:50.8511 INFO Get Product Type Master List Success
+2021-10-07 11:13:50.8511 INFO Get User Success :mtp1
+2021-10-07 11:13:54.8386 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:13:54.8386 INFO Get License_Type List Success
+2021-10-07 11:13:56.2863 INFO Get License Fee List Success
+2021-10-07 11:13:56.2863 INFO Get State List Success
+2021-10-07 11:13:59.8927 INFO Get Division List Success
+2021-10-07 11:18:02.8151 INFO Get Product Type Master List Success
+2021-10-07 11:18:02.8151 INFO Get User Success :mtp1
+2021-10-07 11:21:16.4904 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:21:17.4598 INFO Get Product Type Master List Success
+2021-10-07 11:21:17.4598 INFO Get User Success :mtp1
+2021-10-07 11:39:53.3486 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:39:55.5682 INFO Get Product Type Master List Success
+2021-10-07 11:39:55.5682 INFO Get User Success :mtp1
+2021-10-07 11:39:58.3032 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:39:58.3032 INFO Get License_Type List Success
+2021-10-07 11:40:00.3597 INFO Get License Fee List Success
+2021-10-07 11:40:00.3597 INFO Get State List Success
+2021-10-07 11:40:01.5343 INFO Get Division List Success
+2021-10-07 11:40:02.0056 INFO Get Product Type Master List Success
+2021-10-07 11:40:02.0056 INFO Get User Success :mtp1
+2021-10-07 11:40:18.4529 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:40:20.7506 INFO Get Product Type Master List Success
+2021-10-07 11:40:20.7506 INFO Get User Success :mtp1
+2021-10-07 11:40:23.2472 INFO Get User Success :353-M and TP Unit
+2021-10-07 11:40:23.2472 INFO Get License_Type List Success
+2021-10-07 11:40:24.8417 INFO Get License Fee List Success
+2021-10-07 11:40:24.8437 INFO Get State List Success
+2021-10-07 11:40:25.6773 INFO Get Division List Success
+2021-10-07 11:40:26.1859 INFO Get Product Type Master List Success
+2021-10-07 11:40:26.1899 INFO Get User Success :mtp1
+2021-10-07 11:40:35.9043 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:03:40.0527 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:03:40.1681 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:03:40.2208 INFO Get Product Type Master List Success
+2021-10-07 12:03:40.2208 INFO Get User Success :mtp1
+2021-10-07 12:04:48.5924 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:04:50.1020 INFO Get Product Type Master List Success
+2021-10-07 12:04:50.1020 INFO Get User Success :mtp1
+2021-10-07 12:04:56.4129 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:04:56.4129 INFO Get License_Type List Success
+2021-10-07 12:04:57.8163 INFO Get License Fee List Success
+2021-10-07 12:04:57.8163 INFO Get State List Success
+2021-10-07 12:04:59.1221 INFO Get Division List Success
+2021-10-07 12:04:59.8525 INFO Get Product Type Master List Success
+2021-10-07 12:04:59.8525 INFO Get User Success :mtp1
+2021-10-07 12:05:12.5284 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:05:15.1709 INFO Get Product Type Master List Success
+2021-10-07 12:05:15.1709 INFO Get User Success :mtp1
+2021-10-07 12:05:17.3570 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:05:17.3570 INFO Get License_Type List Success
+2021-10-07 12:05:18.8453 INFO Get License Fee List Success
+2021-10-07 12:05:18.8453 INFO Get State List Success
+2021-10-07 12:05:20.2935 INFO Get Division List Success
+2021-10-07 12:05:20.5351 INFO Get Product Type Master List Success
+2021-10-07 12:05:20.5351 INFO Get User Success :mtp1
+2021-10-07 12:05:25.2247 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:05:27.6050 INFO Get Product Type Master List Success
+2021-10-07 12:05:27.6100 INFO Get User Success :mtp1
+2021-10-07 12:05:33.0268 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:05:33.0268 INFO Get License_Type List Success
+2021-10-07 12:05:36.7674 INFO Get License Fee List Success
+2021-10-07 12:05:36.7674 INFO Get State List Success
+2021-10-07 12:06:32.3070 INFO Get Division List Success
+2021-10-07 12:06:33.1397 INFO Get Product Type Master List Success
+2021-10-07 12:06:33.1397 INFO Get User Success :mtp1
+2021-10-07 12:06:35.4186 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:06:35.4186 INFO Get License_Type List Success
+2021-10-07 12:06:38.4754 INFO Get License Fee List Success
+2021-10-07 12:06:38.4754 INFO Get State List Success
+2021-10-07 12:08:33.4006 INFO Get Division List Success
+2021-10-07 12:08:33.6209 INFO Get Product Type Master List Success
+2021-10-07 12:08:33.6259 INFO Get User Success :mtp1
+2021-10-07 12:08:38.1246 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:08:38.1246 INFO Get License_Type List Success
+2021-10-07 12:08:39.1661 INFO Get License Fee List Success
+2021-10-07 12:08:39.1661 INFO Get State List Success
+2021-10-07 12:08:40.2614 INFO Get Division List Success
+2021-10-07 12:08:40.6526 INFO Get Product Type Master List Success
+2021-10-07 12:08:40.6565 INFO Get User Success :mtp1
+2021-10-07 12:09:17.7945 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:09:17.7960 INFO Get License_Type List Success
+2021-10-07 12:10:18.6267 INFO Get License Fee List Success
+2021-10-07 12:10:18.6267 INFO Get State List Success
+2021-10-07 12:10:22.1082 INFO Get Division List Success
+2021-10-07 12:10:23.9971 INFO Get Product Type Master List Success
+2021-10-07 12:10:24.0021 INFO Get User Success :mtp1
+2021-10-07 12:10:34.3923 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:10:35.9169 INFO Get Product Type Master List Success
+2021-10-07 12:10:35.9219 INFO Get User Success :mtp1
+2021-10-07 12:12:19.0669 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:18:57.8847 INFO Get Product Type Master List Success
+2021-10-07 12:18:57.8957 INFO Get User Success :mtp1
+2021-10-07 12:19:13.3629 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-07 12:19:13.4015 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-07 12:19:13.4435 INFO Get Product Type Master List Success
+2021-10-07 12:19:13.4435 INFO Get User Success :newswadeshi_dis
+2021-10-07 12:19:21.8093 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-07 12:19:23.5056 INFO Get Product Type Master List Success
+2021-10-07 12:19:23.5056 INFO Get User Success :newswadeshi_dis
+2021-10-07 12:21:12.5605 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:21:12.5973 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:21:12.5973 INFO Get Product Type Master List Success
+2021-10-07 12:21:12.5973 INFO Get User Success :mtp1
+2021-10-07 12:21:15.6538 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:21:17.1657 INFO Get Product Type Master List Success
+2021-10-07 12:21:17.1657 INFO Get User Success :mtp1
+2021-10-07 12:21:21.8402 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:21:21.8402 INFO Get License_Type List Success
+2021-10-07 12:21:23.4843 INFO Get License Fee List Success
+2021-10-07 12:21:23.4843 INFO Get State List Success
+2021-10-07 12:21:25.0281 INFO Get Division List Success
+2021-10-07 12:21:25.5412 INFO Get Product Type Master List Success
+2021-10-07 12:21:25.5412 INFO Get User Success :mtp1
+2021-10-07 12:21:30.5004 INFO Get User Success :353-M and TP Unit
+2021-10-07 12:21:31.9638 INFO Get Product Type Master List Success
+2021-10-07 12:21:31.9688 INFO Get User Success :mtp1

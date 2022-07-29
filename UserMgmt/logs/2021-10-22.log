@@ -1,0 +1,109 @@
+2021-10-22 13:39:21.7621 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:39:35.8765 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:39:36.0042 INFO Get Product Type Master List Success
+2021-10-22 13:39:36.0042 INFO Get User Success :hodyco
+2021-10-22 13:39:51.9995 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:39:51.9995 INFO Get Product Master List Success
+2021-10-22 13:39:53.6149 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:39:53.6149 INFO Get Product Master List Success
+2021-10-22 13:39:53.6149 INFO Check WorkFlow List Success
+2021-10-22 13:39:54.3382 INFO Get RR List Success
+2021-10-22 13:39:54.3801 INFO Get Product Type Master List Success
+2021-10-22 13:39:54.3801 INFO Get User Success :hodyco
+2021-10-22 13:40:28.3542 INFO Get User Success :101-Commissioner
+2021-10-22 13:40:28.3971 INFO Get User Success :101-Commissioner
+2021-10-22 13:40:28.4719 INFO Get Product Type Master List Success
+2021-10-22 13:40:28.4719 INFO Get User Success :com
+2021-10-22 13:40:51.9579 INFO Get User Success :101-Commissioner
+2021-10-22 13:40:51.9579 INFO Get Product Master List Success
+2021-10-22 13:40:53.4158 INFO Get User Success :101-Commissioner
+2021-10-22 13:40:53.4158 INFO Get Product Master List Success
+2021-10-22 13:40:53.4158 INFO Check WorkFlow List Success
+2021-10-22 13:40:54.1021 INFO Get RR List Success
+2021-10-22 13:40:54.1021 INFO Get Product Type Master List Success
+2021-10-22 13:40:54.1077 INFO Get User Success :com
+2021-10-22 13:41:08.7515 INFO Get User Success :101-Commissioner
+2021-10-22 13:41:08.7515 INFO Get Product Master List Success
+2021-10-22 13:41:08.7961 INFO Get State List Success
+2021-10-22 13:41:08.7961 INFO Get NOC Sucess:385
+2021-10-22 13:41:08.7961 INFO Get NOC Sucess:Req//1
+2021-10-22 13:41:08.7961 INFO Get State List Success
+2021-10-22 13:41:08.8120 INFO Get NOC Details Success
+2021-10-22 13:41:09.2014 INFO Get Customer Details Success
+2021-10-22 13:41:09.9469 INFO Check WorkFlow List Success
+2021-10-22 13:41:09.9549 INFO Get Product Type Master List Success
+2021-10-22 13:41:09.9549 INFO Get User Success :com
+2021-10-22 13:41:38.9897 INFO Check WorkFlow List Success
+2021-10-22 13:42:28.8689 INFO NOC Approve Sucess:376
+2021-10-22 13:42:31.3138 INFO Get User Success :101-Commissioner
+2021-10-22 13:42:31.3138 INFO Get Product Master List Success
+2021-10-22 13:42:32.9897 INFO Get User Success :101-Commissioner
+2021-10-22 13:42:32.9897 INFO Get Product Master List Success
+2021-10-22 13:42:32.9897 INFO Check WorkFlow List Success
+2021-10-22 13:42:33.6409 INFO Get RR List Success
+2021-10-22 13:42:33.6409 INFO Get Product Type Master List Success
+2021-10-22 13:42:33.6409 INFO Get User Success :com
+2021-10-22 13:42:45.6135 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:42:45.6484 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:42:45.7232 INFO Get Product Type Master List Success
+2021-10-22 13:42:45.7232 INFO Get User Success :hodyco
+2021-10-22 13:42:49.4916 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:42:49.4916 INFO Get Product Master List Success
+2021-10-22 13:42:51.0456 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:42:51.0456 INFO Get Product Master List Success
+2021-10-22 13:42:51.0456 INFO Check WorkFlow List Success
+2021-10-22 13:42:51.7268 INFO Get RR List Success
+2021-10-22 13:42:51.7268 INFO Get Product Type Master List Success
+2021-10-22 13:42:51.7346 INFO Get User Success :hodyco
+2021-10-22 13:42:56.3132 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:42:56.3132 INFO Get Product Master List Success
+2021-10-22 13:42:56.3132 INFO Check WorkFlow List Success
+2021-10-22 13:42:56.7780 INFO Get RR List Success
+2021-10-22 13:42:56.7960 INFO Get Product Type Master List Success
+2021-10-22 13:42:56.7960 INFO Get User Success :hodyco
+2021-10-22 13:43:08.0456 INFO Get User Success :100-Deputy Commissioner
+2021-10-22 13:43:08.0456 INFO Get Product Master List Success
+2021-10-22 13:43:08.0666 INFO Get State List Success
+2021-10-22 13:43:08.0666 INFO Get NOC Sucess:385
+2021-10-22 13:43:08.0666 INFO Get NOC Sucess:Req//1
+2021-10-22 13:43:08.0666 INFO Get State List Success
+2021-10-22 13:43:08.0771 INFO Get NOC Details Success
+2021-10-22 13:43:09.6567 INFO Get Customer Details Success
+2021-10-22 13:43:09.9136 INFO Check WorkFlow List Success
+2021-10-22 13:43:09.9136 INFO Get Product Type Master List Success
+2021-10-22 13:43:09.9213 INFO Get User Success :hodyco
+2021-10-22 14:52:47.8391 INFO Get User Success :382-Retailer 
+2021-10-22 14:52:56.1061 INFO Get User Success :382-Retailer 
+2021-10-22 14:52:56.1339 INFO Get Product Type Master List Success
+2021-10-22 14:52:56.1417 INFO Get User Success :mtp_ret
+2021-10-22 14:53:21.0952 INFO Get User Success :382-Retailer 
+2021-10-22 14:53:21.0952 INFO Get Report  Success
+2021-10-22 14:53:21.1118 INFO Get Party Master List Success
+2021-10-22 14:53:21.1118 INFO Get Product Type Master List Success
+2021-10-22 14:53:21.1118 INFO Get User Success :mtp_ret
+2021-10-22 14:54:45.8598 INFO Get VAT Master List Success
+2021-10-22 14:54:51.0314 INFO Get GetSeverList Success
+2021-10-22 14:55:10.0057 INFO Get GetSeverList Success
+2021-10-22 14:55:23.6026 INFO Get GetSeverList Success
+2021-10-22 16:41:58.6869 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:42:10.6734 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:42:10.7522 INFO Get Product Type Master List Success
+2021-10-22 16:42:10.7662 INFO Get User Success :newswadeshi_dis
+2021-10-22 16:42:16.0975 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:42:17.6856 INFO Get Product Type Master List Success
+2021-10-22 16:42:17.6908 INFO Get User Success :newswadeshi_dis
+2021-10-22 16:42:22.0593 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:42:22.0772 INFO Get Product Type Master List Success
+2021-10-22 16:42:22.0772 INFO Get User Success :newswadeshi_dis
+2021-10-22 16:42:26.3453 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:42:53.7509 INFO Get Product Type Master List Success
+2021-10-22 16:42:53.7509 INFO Get User Success :newswadeshi_dis
+2021-10-22 16:43:00.2373 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:43:00.2373 INFO Get Product Type Master List Success
+2021-10-22 16:43:00.2373 INFO Get User Success :newswadeshi_dis
+2021-10-22 16:43:01.5191 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:43:03.1844 INFO Get Product Type Master List Success
+2021-10-22 16:43:03.1904 INFO Get User Success :newswadeshi_dis
+2021-10-22 16:44:10.6258 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-10-22 16:44:10.6258 INFO Get Product Type Master List Success
+2021-10-22 16:44:10.6258 INFO Get User Success :newswadeshi_dis

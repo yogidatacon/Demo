@@ -1,0 +1,2529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.props" Condition="Exists('..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.props')" />
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77BAD2E6-B888-4BAF-A6BA-852F8C13C78D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UserMgmt</RootNamespace>
+    <AssemblyName>UserMgmt</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\..\KSEEB_SSLC\PhotoCopy\PhotoCopy\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="CaseMgmt, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CaseMgmt.dll</HintPath>
+    </Reference>
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\EnvDTE.dll</HintPath>
+    </Reference>
+    <Reference Include="EnvDTE80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\EnvDTE80.dll</HintPath>
+    </Reference>
+    <Reference Include="FusionCharts, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\FusionCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="JasperServer.Client.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\JasperServer.Client.1.0.7\lib\JasperServer.Client.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.0.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.0.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.0.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.0.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.0.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.0.0\lib\net46\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.MSXML, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Microsoft.MSXML.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.DataVisualization.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.Design.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.WebDesign.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.ComponentModelHost, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.VisualStudio.ComponentModelHost.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.VisualStudio.TemplateWizardInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Microsoft.VisualStudio.VSHelp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.Design.Extensibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Windows.Design.Extensibility.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.Design.Interaction, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Windows.Design.Interaction.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiDropDown, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\MultiDropDown.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=3.2.5.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql.ConfigureConnection, Version=0.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Npgsql.ConfigureConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\stdole.dll</HintPath>
+    </Reference>
+    <Reference Include="syncfusion.tools.windows, Version=4.402.0.51, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\syncfusion.tools.windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="TimePicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d25e9f59e49c4d2f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\TimePicker.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Chart.js-2.8.0\dist\Chart.bundle.js" />
+    <Content Include="Chart.js-2.8.0\dist\Chart.bundle.min.js" />
+    <Content Include="Chart.js-2.8.0\dist\Chart.css" />
+    <Content Include="Chart.js-2.8.0\dist\Chart.js" />
+    <Content Include="Chart.js-2.8.0\dist\Chart.min.css" />
+    <Content Include="Chart.js-2.8.0\dist\Chart.min.js" />
+    <Content Include="Chart.js-2.8.0\docs\style.css" />
+    <Content Include="Chart.js-2.8.0\gulpfile.js" />
+    <Content Include="Chart.js-2.8.0\karma.conf.js" />
+    <Content Include="Chart.js-2.8.0\rollup.config.js" />
+    <Content Include="Chart.js-2.8.0\rollup.plugins.js" />
+    <Content Include="Chart.js-2.8.0\samples\advanced\content-security-policy.css" />
+    <Content Include="Chart.js-2.8.0\samples\advanced\content-security-policy.html" />
+    <Content Include="Chart.js-2.8.0\samples\advanced\content-security-policy.js" />
+    <Content Include="Chart.js-2.8.0\samples\advanced\progress-bar.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\area\analyser.js" />
+    <Content Include="Chart.js-2.8.0\samples\charts\area\line-boundaries.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\area\line-datasets.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\area\line-stacked.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\area\radar.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\bar\horizontal.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\bar\multi-axis.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\bar\stacked-group.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\bar\stacked.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\bar\vertical.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\bubble.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\combo-bar-line.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\doughnut.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\basic.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\interpolation-modes.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\line-styles.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\multi-axis.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\point-sizes.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\point-styles.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\skip-points.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\line\stepped.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\pie.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\polar-area.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\radar-skip-points.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\radar.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\scatter\basic.html" />
+    <Content Include="Chart.js-2.8.0\samples\charts\scatter\multi-axis.html" />
+    <Content Include="Chart.js-2.8.0\samples\favicon.ico" />
+    <Content Include="Chart.js-2.8.0\samples\index.html" />
+    <Content Include="Chart.js-2.8.0\samples\legend\callbacks.html" />
+    <Content Include="Chart.js-2.8.0\samples\legend\point-style.html" />
+    <Content Include="Chart.js-2.8.0\samples\legend\positioning.html" />
+    <Content Include="Chart.js-2.8.0\samples\logo.svg" />
+    <Content Include="Chart.js-2.8.0\samples\samples.js" />
+    <Content Include="Chart.js-2.8.0\samples\scales\filtering-labels.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\gridlines-display.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\gridlines-style.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\linear\min-max-suggested.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\linear\min-max.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\linear\step-size.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\logarithmic\line.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\logarithmic\scatter.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\multiline-labels.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\non-numeric-y.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\time\combo.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\time\financial.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\time\line-point-data.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\time\line.html" />
+    <Content Include="Chart.js-2.8.0\samples\scales\toggle-scale-type.html" />
+    <Content Include="Chart.js-2.8.0\samples\scriptable\bar.html" />
+    <Content Include="Chart.js-2.8.0\samples\scriptable\bubble.html" />
+    <Content Include="Chart.js-2.8.0\samples\scriptable\line.html" />
+    <Content Include="Chart.js-2.8.0\samples\scriptable\pie.html" />
+    <Content Include="Chart.js-2.8.0\samples\scriptable\polar.html" />
+    <Content Include="Chart.js-2.8.0\samples\scriptable\radar.html" />
+    <Content Include="Chart.js-2.8.0\samples\style.css" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\border.html" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\callbacks.html" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\custom-line.html" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\custom-pie.html" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\custom-points.html" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\interactions.html" />
+    <Content Include="Chart.js-2.8.0\samples\tooltips\positioning.html" />
+    <Content Include="Chart.js-2.8.0\samples\utils.js" />
+    <Content Include="Chart.js-2.8.0\src\adapters\adapter.moment.js" />
+    <Content Include="Chart.js-2.8.0\src\adapters\index.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.bar.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.bubble.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.doughnut.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.horizontalBar.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.line.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.pie.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.polarArea.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.radar.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\controller.scatter.js" />
+    <Content Include="Chart.js-2.8.0\src\controllers\index.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.adapters.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.animation.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.animations.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.controller.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.datasetController.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.defaults.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.element.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.helpers.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.interaction.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.layouts.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.plugins.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.scale.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.scaleService.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.ticks.js" />
+    <Content Include="Chart.js-2.8.0\src\core\core.tooltip.js" />
+    <Content Include="Chart.js-2.8.0\src\elements\element.arc.js" />
+    <Content Include="Chart.js-2.8.0\src\elements\element.line.js" />
+    <Content Include="Chart.js-2.8.0\src\elements\element.point.js" />
+    <Content Include="Chart.js-2.8.0\src\elements\element.rectangle.js" />
+    <Content Include="Chart.js-2.8.0\src\elements\index.js" />
+    <Content Include="Chart.js-2.8.0\src\helpers\helpers.canvas.js" />
+    <Content Include="Chart.js-2.8.0\src\helpers\helpers.core.js" />
+    <Content Include="Chart.js-2.8.0\src\helpers\helpers.easing.js" />
+    <Content Include="Chart.js-2.8.0\src\helpers\helpers.options.js" />
+    <Content Include="Chart.js-2.8.0\src\helpers\index.js" />
+    <Content Include="Chart.js-2.8.0\src\index.js" />
+    <Content Include="Chart.js-2.8.0\src\platforms\platform.basic.js" />
+    <Content Include="Chart.js-2.8.0\src\platforms\platform.dom.css" />
+    <Content Include="Chart.js-2.8.0\src\platforms\platform.dom.js" />
+    <Content Include="Chart.js-2.8.0\src\platforms\platform.js" />
+    <Content Include="Chart.js-2.8.0\src\plugins\index.js" />
+    <Content Include="Chart.js-2.8.0\src\plugins\plugin.filler.js" />
+    <Content Include="Chart.js-2.8.0\src\plugins\plugin.legend.js" />
+    <Content Include="Chart.js-2.8.0\src\plugins\plugin.title.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\index.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\scale.category.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\scale.linear.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\scale.linearbase.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\scale.logarithmic.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\scale.radialLinear.js" />
+    <Content Include="Chart.js-2.8.0\src\scales\scale.time.js" />
+    <Content Include="Chart.js-2.8.0\test\context.js" />
+    <Content Include="Chart.js-2.8.0\test\fixture.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\backgroundColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\backgroundColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\backgroundColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\backgroundColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\backgroundColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\backgroundColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-absolute.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex-offset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex-single-reverse.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex-single.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-max.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-min-interval.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-multiple.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-no-overlap.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-offset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-reverse.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-single-xy.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-single.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-stacked.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderSkipped\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderSkipped\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderSkipped\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderSkipped\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderSkipped\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderSkipped\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\indexable-object.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\indexable-object.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\negative.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\negative.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\object.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\object.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\scriptable-object.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\scriptable-object.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\borderWidth\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\chart-area-clip.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\chart-area-clip.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\horizontal-borders.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\horizontal-borders.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bubble\point-style.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bubble\radius-scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bubble\radius-scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\backgroundColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\backgroundColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\backgroundColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\backgroundColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\backgroundColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\backgroundColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderAlign\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderAlign\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderAlign\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderAlign\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderAlign\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderAlign\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderWidth\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderWidth\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderWidth\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderWidth\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderWidth\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\borderWidth\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\doughnut-border-align-center.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\doughnut-border-align-inner.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\doughnut-weight.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\pie-border-align-center.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\pie-border-align-inner.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\pie-weight.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\backgroundColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\backgroundColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\backgroundColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\backgroundColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\backgroundColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\backgroundColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderWidth\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderWidth\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderWidth\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderWidth\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderWidth\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\borderWidth\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\point-style.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\pointStyle\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\pointStyle\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\pointStyle\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\pointStyle\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\pointStyle\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\pointStyle\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\radius\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\radius\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\radius\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\radius\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\radius\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\radius\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\rotation\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\rotation\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\rotation\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\rotation\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\rotation\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\rotation\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\angle-array.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\angle-undefined.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\indexable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\indexable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\indexable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\indexable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\scriptable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\scriptable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\scriptable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\scriptable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\value-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\value-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\value-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\backgroundColor\value-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\border-align-center.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\border-align-inner.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\indexable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\indexable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\indexable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\indexable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\scriptable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\scriptable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\scriptable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\scriptable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\value-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\value-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\value-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderAlign\value-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\indexable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\indexable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\indexable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\indexable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\scriptable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\scriptable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\scriptable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\scriptable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\value-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\value-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\value-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderColor\value-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\indexable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\indexable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\indexable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\indexable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\scriptable-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\scriptable-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\scriptable-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\scriptable-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\value-dataset.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\value-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\value-element-options.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\borderWidth\value-element-options.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\backgroundColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\backgroundColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\backgroundColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\backgroundColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\backgroundColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\backgroundColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderColor\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderColor\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderColor\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderColor\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderColor\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderColor\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderWidth\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderWidth\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderWidth\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderWidth\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderWidth\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\borderWidth\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\point-style.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\pointStyle\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\pointStyle\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\pointStyle\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\pointStyle\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\pointStyle\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\pointStyle\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\radius\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\radius\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\radius\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\radius\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\radius\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\radius\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\rotation\indexable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\rotation\indexable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\rotation\scriptable.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\rotation\scriptable.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\rotation\value.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\rotation\value.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\core.scale\label-offset-vertical-axes.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\core.scale\tick-drawing.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\core.tooltip\opacity.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\core.tooltip\opacity.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-circle.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-cross-rot.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-cross.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-dash.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-line.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-rect-rot.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-rect-rounded.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-rect.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-star.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-triangle.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\rotation.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\rotation.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\helpers.canvas\rounded-rect.js" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\helpers.canvas\rounded-rect.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-end-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-end.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-spline-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-spline.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-stepped-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-stepped.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-start-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-start.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset-spline-span.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset-spline.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-radar-boundary-origin-spline.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-radar-boundary-origin.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\scale.radialLinear\border-dash.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\scale.radialLinear\circular-border-dash.png" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\scale.radialLinear\indexable-gridlines.png" />
+    <Content Include="Chart.js-2.8.0\test\index.js" />
+    <Content Include="Chart.js-2.8.0\test\matchers.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.bar.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.bubble.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.doughnut.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.line.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.polarArea.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.radar.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\controller.scatter.test.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.controller.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.datasetController.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.element.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.helpers.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.interaction.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.layouts.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.plugin.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.scale.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.scaleService.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.ticks.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\core.tooltip.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\element.arc.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\element.line.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\element.point.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\element.rectangle.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\global.defaults.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\global.deprecations.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\global.namespace.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\helpers.canvas.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\helpers.core.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\helpers.easing.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\helpers.options.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\platform.dom.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\plugin.filler.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\plugin.legend.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\plugin.title.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\scale.category.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\scale.linear.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\scale.logarithmic.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\scale.radialLinear.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\specs\scale.time.tests.js" />
+    <Content Include="Chart.js-2.8.0\test\utils.js" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\chartist.css" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\chartist.js" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\chartist.min.css" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\chartist.min.js" />
+    <Content Include="chartist-js-master\chartist-js-master\Gruntfile.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\404.html" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\1-dimension-values.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\2-dimensions-values.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\aspect-ratio-container.html" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\colour-override-line-chart.css" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\custom-style-bar-chart.css" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\custom-style-donut-chart.css" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\custom-style-line-chart.css" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\custom-style-pie-chart.css" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\plugin-example.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\plugin-include.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\plugin-signature.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\simple-start-aspect-ratio-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\simple-start-cdn.html" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\simple-start-fixed-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\simple-start.html" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\two-charts.html" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\bi-polar-bar-interpolated.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-axis-auto.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-axis-fixed-and-auto.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-bar-distributed-series.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-bar-extreme-responsive.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-bar-horizontal.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-bar-label-position.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-bar-with-circle-modify-drawing.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-bipolar-line-area.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-donut-animation.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-donut-solid-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-dynamic-colours.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-gallery-four.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-gallery-one.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-gallery-three.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-gallery-two.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-gauge-donut-solid-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-area.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-data-fill-holes.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-data-holes.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-modify-drawing.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-months-interpolation.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-only-integer.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-path-animation.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-series-override.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-simple-responsive.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-simple-smoothing.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-line-svg-animation.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-multiline-bar.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-accessibility.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-axistitle.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-fill-donut.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-pointlabel.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-targetline.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-threshold.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-tooltip.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-plugin-zoom.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-simple-bar.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-simple-svg-animation.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\example-timeseries-moment.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\line-scatter-random.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\overlapping-bars.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\pie-with-custom-labels.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\simple-configuration-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\simple-gauge-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\simple-line-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\simple-pie-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\examples\stacked-bar.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\favicon.ico" />
+    <Content Include="chartist-js-master\chartist-js-master\site\helpers\chartist-helpers.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\helpers\common-helpers.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\helpers\dox-helpers.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\helpers\lorem-helper.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\images\chartist-guy.gif" />
+    <Content Include="chartist-js-master\chartist-js-master\site\images\chartist-guy.svg" />
+    <Content Include="chartist-js-master\chartist-js-master\site\images\chartist-icon.svg" />
+    <Content Include="chartist-js-master\chartist-js-master\site\robots.txt" />
+    <Content Include="chartist-js-master\chartist-js-master\site\scripts\chartist-guy.js" />
+    <Content Include="chartist-js-master\chartist-js-master\site\scripts\main.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\axes\auto-scale-axis.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\axes\axis.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\axes\fixed-scale-axis.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\axes\step-axis.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\base.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\charts\bar.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\charts\line.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\charts\pie.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\class.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\core.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\event.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\interpolation.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\svg-path.js" />
+    <Content Include="chartist-js-master\chartist-js-master\src\scripts\svg.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\assemble.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\clean.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\concat.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\concurrent.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\connect.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\copy.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\critical.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\cssmin.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\htmlmin.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\imagemin.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\jasmine.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\jshint.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\sass.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\svgmin.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\template.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\uglify.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\umd.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\usemin.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\useminPrepare.js" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\watch.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\runner.html" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-axes.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-bar-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-base-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-core.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-line-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-pie-chart.js" />
+    <Content Include="chartist-js-master\chartist-js-master\test\spec\spec-svg.js" />
+    <Content Include="common\accordion\plusminus.png" />
+    <Content Include="common\accordion\smk-accordion.css" />
+    <Content Include="common\accordion\smk-accordion.js" />
+    <Content Include="common\css1\bootstrap-classic.css" />
+    <Content Include="common\css1\bootstrap-classic.min.css" />
+    <Content Include="common\css1\bootstrap-multiselect.css" />
+    <Content Include="common\css1\bootstrap-responsive.css" />
+    <Content Include="common\css1\bootstrap-responsive.min.css" />
+    <Content Include="common\css1\charisma-app.css" />
+    <Content Include="common\css1\chosen.css" />
+    <Content Include="common\css1\chosen.min.css" />
+    <Content Include="common\css1\colorbox.css" />
+    <Content Include="common\css1\elfinder.min.css" />
+    <Content Include="common\css1\elfinder.theme.css" />
+    <Content Include="common\css1\fullcalendar.css" />
+    <Content Include="common\css1\fullcalendar.print.css" />
+    <Content Include="common\css1\jquery-ui-1.8.21.custom.css" />
+    <Content Include="common\css1\jquery.cleditor.css" />
+    <Content Include="common\css1\jquery.iphone.toggle.css" />
+    <Content Include="common\css1\jquery.noty.css" />
+    <Content Include="common\css1\multidropdown.css" />
+    <Content Include="common\css1\noty_theme_default.css" />
+    <Content Include="common\css1\opa-icons.css" />
+    <Content Include="common\css1\styles.css" />
+    <Content Include="common\css1\success.png" />
+    <Content Include="common\css1\uniform.default.css" />
+    <Content Include="common\css1\uploadify.css" />
+    <Content Include="common\datepicker\datefortransport.js" />
+    <Content Include="common\datepicker\dateforvehicle.js" />
+    <Content Include="common\datepicker\dateforvehreq1.js" />
+    <Content Include="common\datepicker\datetimepicker_css.js" />
+    <Content Include="common\datepicker\datetimepicker_css_1.js" />
+    <Content Include="common\datepicker\datetimepicker_css_2.js" />
+    <Content Include="common\datepicker\datetimepicker_css_3.js" />
+    <Content Include="common\datepicker\datetimepicker_css_4.js" />
+    <Content Include="common\datepicker\datetimepicker_css_currentDate.js" />
+    <Content Include="common\datepicker\datetimepicker_css_scm.js" />
+    <Content Include="common\datepicker\datetimepicker_css_test.js" />
+    <Content Include="common\datepicker\datetimereq_css.js" />
+    <Content Include="common\datepicker\images2\cal.gif" />
+    <Content Include="common\datepicker\images2\cal_close.gif" />
+    <Content Include="common\datepicker\images2\cal_fastforward.gif" />
+    <Content Include="common\datepicker\images2\cal_fastreverse.gif" />
+    <Content Include="common\datepicker\images2\cal_forward.gif" />
+    <Content Include="common\datepicker\images2\cal_minus.gif" />
+    <Content Include="common\datepicker\images2\cal_plus.gif" />
+    <Content Include="common\datepicker\images2\cal_reverse.gif" />
+    <Content Include="common\datepicker\jquery-1.10.2.js" />
+    <Content Include="common\datepicker\jquery-ui.css" />
+    <Content Include="common\datepicker\jquery-ui.js" />
+    <Content Include="common\datepicker\jquery.maskedinput.min.js" />
+    <Content Include="common\datepicker\MonthPicker.min.js" />
+    <Content Include="common\datepicker\test.css" />
+    <Content Include="common\datepicker\timepicker.min.css" />
+    <Content Include="common\datepicker\timepicker.min.js" />
+    <Content Include="common\googletranslate\googleTranslator.js" />
+    <Content Include="common\headerFooter\Footer landscape.jpg" />
+    <Content Include="common\headerFooter\Footer Portrait.jpg" />
+    <Content Include="common\headerFooter\header landscap.jpg" />
+    <Content Include="common\headerFooter\header landscape_old.jpg" />
+    <Content Include="common\headerFooter\header Portrait.jpg" />
+    <Content Include="common\headerFooter\header Portrait1.jpg" />
+    <Content Include="common\headerFooter\header Portrait_old.jpg" />
+    <Content Include="common\js1\accordion.js" />
+    <Content Include="common\js1\bootstrap-alert.js" />
+    <Content Include="common\js1\bootstrap-button.js" />
+    <Content Include="common\js1\bootstrap-carousel.js" />
+    <Content Include="common\js1\bootstrap-collapse.js" />
+    <Content Include="common\js1\bootstrap-dropdown.js" />
+    <Content Include="common\js1\bootstrap-modal.js" />
+    <Content Include="common\js1\bootstrap-popover.js" />
+    <Content Include="common\js1\bootstrap-scrollspy.js" />
+    <Content Include="common\js1\bootstrap-tab.js" />
+    <Content Include="common\js1\bootstrap-toggle.js" />
+    <Content Include="common\js1\bootstrap-tooltip.js" />
+    <Content Include="common\js1\bootstrap-tour.js" />
+    <Content Include="common\js1\bootstrap-transition.js" />
+    <Content Include="common\js1\bootstrap-typeahead.js" />
+    <Content Include="common\js1\charisma.js" />
+    <Content Include="common\js1\common.js" />
+    <Content Include="common\js1\excanvas.js" />
+    <Content Include="common\js1\fullcalendar.min.js" />
+    <Content Include="common\js1\jquery-1.7.2.min.js" />
+    <Content Include="common\js1\jquery-ui-1.8.21.custom.min.js" />
+    <Content Include="common\js1\jquery.autogrow-textarea.js" />
+    <Content Include="common\js1\jquery.chosen.min.js" />
+    <Content Include="common\js1\jquery.cleditor.min.js" />
+    <Content Include="common\js1\jquery.colorbox.min.js" />
+    <Content Include="common\js1\jquery.cookie.js" />
+    <Content Include="common\js1\jquery.dataTables.min.js" />
+    <Content Include="common\js1\jquery.elfinder.min.js" />
+    <Content Include="common\js1\jquery.flot.min.js" />
+    <Content Include="common\js1\jquery.flot.pie.min.js" />
+    <Content Include="common\js1\jquery.flot.resize.min.js" />
+    <Content Include="common\js1\jquery.flot.stack.js" />
+    <Content Include="common\js1\jquery.history.js" />
+    <Content Include="common\js1\jquery.iphone.toggle.js" />
+    <Content Include="common\js1\jquery.js" />
+    <Content Include="common\js1\jquery.nestedAccordion.js" />
+    <Content Include="common\js1\jquery.noty.js" />
+    <Content Include="common\js1\jquery.raty.min.js" />
+    <Content Include="common\js1\jquery.uniform.min.js" />
+    <Content Include="common\js1\jquery.uploadify-3.1.min.js" />
+    <Content Include="common\js1\moment.js" />
+    <Content Include="common\js\animated.js" />
+    <Content Include="common\js\bootstrap-multiselect.js" />
+    <Content Include="common\js\charts.js" />
+    <Content Include="common\js\chosen1.5.1.jquery.min.js" />
+    <Content Include="common\js\core.js" />
+    <Content Include="common\js\export-data.js" />
+    <Content Include="common\js\exporting.js" />
+    <Content Include="common\js\fusioncharts.theme.fusion.js" />
+    <Content Include="common\js\highcharts.js" />
+    <Content Include="common\js\jquery-1.11.1.min.js" />
+    <Content Include="common\js\jquery-1.7.2.min.js" />
+    <Content Include="common\js\jquery-ui-1.8.21.custom.min.js" />
+    <Content Include="common\js\jquery.canvasjs.min.js" />
+    <Content Include="common\mail_img\happybday.png" />
+    <Content Include="common\print_css\bootstrap.css" />
+    <Content Include="common\print_css\print.css" />
+    <Content Include="common\print_css\styles.css" />
+    <Content Include="common\sc.css" />
+    <Content Include="common\theme\assets\bootstrap\css\bootstrap-theme.css" />
+    <Content Include="common\theme\assets\bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="common\theme\assets\bootstrap\css\bootstrap.css" />
+    <Content Include="common\theme\assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="common\theme\assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="common\theme\assets\bootstrap\js\bootstrap.js" />
+    <Content Include="common\theme\assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="common\theme\assets\bootstrap\js\npm.js" />
+    <Content Include="common\theme\assets\css\form-elements.css" />
+    <Content Include="common\theme\assets\css\style.css" />
+    <Content Include="common\theme\assets\font-awesome\css\font-awesome.css" />
+    <Content Include="common\theme\assets\font-awesome\css\font-awesome.min.css" />
+    <Content Include="common\theme\assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="common\theme\assets\ico\apple-touch-icon-114-precomposed.png" />
+    <Content Include="common\theme\assets\ico\apple-touch-icon-144-precomposed.png" />
+    <Content Include="common\theme\assets\ico\apple-touch-icon-57-precomposed.png" />
+    <Content Include="common\theme\assets\ico\apple-touch-icon-72-precomposed.png" />
+    <Content Include="common\theme\assets\ico\favicon.png" />
+    <Content Include="common\theme\assets\ico\fevicon.png" />
+    <Content Include="common\theme\assets\img\backgrounds\back_ground_ A.jpg" />
+    <Content Include="common\theme\assets\img\backgrounds\back_ground_.png" />
+    <Content Include="common\theme\assets\img\gobsymbol %284%29.png" />
+    <Content Include="common\theme\assets\img\keonics-logo %281%29.png" />
+    <Content Include="common\theme\assets\img\Logo_circle.png" />
+    <Content Include="common\theme\assets\img\slide %281%29.png" />
+    <Content Include="common\theme\assets\img\slide.png" />
+    <Content Include="common\theme\assets\js\jquery-1.11.1.js" />
+    <Content Include="common\theme\assets\js\jquery-1.11.1.min.js" />
+    <Content Include="common\theme\assets\js\jquery.backstretch.js" />
+    <Content Include="common\theme\assets\js\jquery.backstretch.min.js" />
+    <Content Include="common\theme\assets\js\placeholder.js" />
+    <Content Include="common\theme\assets\js\scripts.js" />
+    <Content Include="common\theme\css2\bjqs.css" />
+    <Content Include="common\theme\css2\bootstrap.css" />
+    <Content Include="common\theme\css2\bootstrap.min.css" />
+    <Content Include="common\theme\css2\demo.css" />
+    <Content Include="common\theme\css2\landing-page.css" />
+    <Content Include="common\theme\css2\style.css" />
+    <Content Include="common\theme\css3\bootstrap.min.css" />
+    <Content Include="common\theme\css3\home.css" />
+    <Content Include="common\theme\css\animate.min.css" />
+    <Content Include="common\theme\css\assets\css\font-awesome.min.css" />
+    <Content Include="common\theme\css\assets\css\ie8.css" />
+    <Content Include="common\theme\css\assets\css\ie9.css" />
+    <Content Include="common\theme\css\assets\css\main.css" />
+    <Content Include="common\theme\css\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="common\theme\css\assets\js\ie\html5shiv.js" />
+    <Content Include="common\theme\css\assets\js\ie\respond.min.js" />
+    <Content Include="common\theme\css\assets\js\jquery.min.js" />
+    <Content Include="common\theme\css\assets\js\main.js" />
+    <Content Include="common\theme\css\assets\js\skel.min.js" />
+    <Content Include="common\theme\css\assets\js\util.js" />
+    <Content Include="common\theme\css\bootstrap.min - Copy.css" />
+    <Content Include="common\theme\css\bootstrap.min.css" />
+    <Content Include="common\theme\css\calendar\fullcalendar.css" />
+    <Content Include="common\theme\css\calendar\fullcalendar.min.css" />
+    <Content Include="common\theme\css\calendar\fullcalendar.print.css" />
+    <Content Include="common\theme\css\colorpicker\alpha-horizontal.png" />
+    <Content Include="common\theme\css\colorpicker\alpha.png" />
+    <Content Include="common\theme\css\colorpicker\bootstrap-colorpicker.min.css" />
+    <Content Include="common\theme\css\colorpicker\hue-horizontal.png" />
+    <Content Include="common\theme\css\colorpicker\hue.png" />
+    <Content Include="common\theme\css\colorpicker\saturation.png" />
+    <Content Include="common\theme\css\custom.css" />
+    <Content Include="common\theme\css\customCopy.css" />
+    <Content Include="common\theme\css\datatables\css\demo_page.css" />
+    <Content Include="common\theme\css\datatables\css\demo_table.css" />
+    <Content Include="common\theme\css\datatables\css\demo_table_jui.css" />
+    <Content Include="common\theme\css\datatables\css\jquery.dataTables.css" />
+    <Content Include="common\theme\css\datatables\css\jquery.dataTables_themeroller.css" />
+    <Content Include="common\theme\css\datatables\images\back_disabled.png" />
+    <Content Include="common\theme\css\datatables\images\back_enabled.png" />
+    <Content Include="common\theme\css\datatables\images\back_enabled_hover.png" />
+    <Content Include="common\theme\css\datatables\images\favicon.ico" />
+    <Content Include="common\theme\css\datatables\images\forward_disabled.png" />
+    <Content Include="common\theme\css\datatables\images\forward_enabled.png" />
+    <Content Include="common\theme\css\datatables\images\forward_enabled_hover.png" />
+    <Content Include="common\theme\css\datatables\images\sort_asc.png" />
+    <Content Include="common\theme\css\datatables\images\sort_asc_disabled.png" />
+    <Content Include="common\theme\css\datatables\images\sort_both.png" />
+    <Content Include="common\theme\css\datatables\images\sort_desc.png" />
+    <Content Include="common\theme\css\datatables\images\sort_desc_disabled.png" />
+    <Content Include="common\theme\css\datatables\tools\css\dataTables.tableTools.css" />
+    <Content Include="common\theme\css\editor\external\google-code-prettify\prettify.css" />
+    <Content Include="common\theme\css\editor\index.css" />
+    <Content Include="common\theme\css\floatexamples.css" />
+    <Content Include="common\theme\css\icheck\flat\aero%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\aero.css" />
+    <Content Include="common\theme\css\icheck\flat\aero.png" />
+    <Content Include="common\theme\css\icheck\flat\blue%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\blue.css" />
+    <Content Include="common\theme\css\icheck\flat\blue.png" />
+    <Content Include="common\theme\css\icheck\flat\flat%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\flat.css" />
+    <Content Include="common\theme\css\icheck\flat\flat.png" />
+    <Content Include="common\theme\css\icheck\flat\green%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\green.css" />
+    <Content Include="common\theme\css\icheck\flat\green.png" />
+    <Content Include="common\theme\css\icheck\flat\grey%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\grey.css" />
+    <Content Include="common\theme\css\icheck\flat\grey.png" />
+    <Content Include="common\theme\css\icheck\flat\orange%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\orange.css" />
+    <Content Include="common\theme\css\icheck\flat\orange.png" />
+    <Content Include="common\theme\css\icheck\flat\pink%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\pink.css" />
+    <Content Include="common\theme\css\icheck\flat\pink.png" />
+    <Content Include="common\theme\css\icheck\flat\purple%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\purple.css" />
+    <Content Include="common\theme\css\icheck\flat\purple.png" />
+    <Content Include="common\theme\css\icheck\flat\red%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\red.css" />
+    <Content Include="common\theme\css\icheck\flat\red.png" />
+    <Content Include="common\theme\css\icheck\flat\yellow%402x.png" />
+    <Content Include="common\theme\css\icheck\flat\yellow.css" />
+    <Content Include="common\theme\css\icheck\flat\yellow.png" />
+    <Content Include="common\theme\css\icheck\flat\_all.css" />
+    <Content Include="common\theme\css\ion.rangeSlider.css" />
+    <Content Include="common\theme\css\ion.rangeSlider.skinFlat.css" />
+    <Content Include="common\theme\css\maps\jquery-jvectormap-2.0.1.css" />
+    <Content Include="common\theme\css\mflstyle.css" />
+    <Content Include="common\theme\css\normalize.css" />
+    <Content Include="common\theme\css\nprogress.css" />
+    <Content Include="common\theme\css\popupcustom.css" />
+    <Content Include="common\theme\css\progressbar\bootstrap-progressbar-3.3.0.css" />
+    <Content Include="common\theme\css\rsastyle.css" />
+    <Content Include="common\theme\css\select\select2.min.css" />
+    <Content Include="common\theme\css\switchery\switchery.min.css" />
+    <Content Include="common\theme\fonts\css\font-awesome.css" />
+    <Content Include="common\theme\fonts\css\font-awesome.min.css" />
+    <Content Include="common\theme\fonts\fonts\fontawesome-webfont.svg" />
+    <Content Include="common\theme\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="common\theme\image1\background.png" />
+    <Content Include="common\theme\image1\calendar-512.png" />
+    <Content Include="common\theme\image1\Caption.jpg" />
+    <Content Include="common\theme\image1\caption.png" />
+    <Content Include="common\theme\image1\Case_management.png" />
+    <Content Include="common\theme\image1\cea.jpg" />
+    <Content Include="common\theme\image1\CEA_REPORTS.png" />
+    <Content Include="common\theme\image1\crm.png" />
+    <Content Include="common\theme\image1\Excise_automation.png" />
+    <Content Include="common\theme\image1\finance.jpg" />
+    <Content Include="common\theme\image1\Forward_arrow_button_next_right_media_mail.png" />
+    <Content Include="common\theme\image1\gray1.jpg" />
+    <Content Include="common\theme\image1\hrms.png" />
+    <Content Include="common\theme\image1\iems.png" />
+    <Content Include="common\theme\image1\inventory.png" />
+    <Content Include="common\theme\image1\logo.jpg" />
+    <Content Include="common\theme\image1\mis.jpg" />
+    <Content Include="common\theme\image1\MIS_reports.png" />
+    <Content Include="common\theme\image1\No_image.jpg" />
+    <Content Include="common\theme\image1\purchase.jpg" />
+    <Content Include="common\theme\image1\sales.png" />
+    <Content Include="common\theme\image1\Service level agreement.png" />
+    <Content Include="common\theme\image1\supply1.png" />
+    <Content Include="common\theme\image1\supply2.png" />
+    <Content Include="common\theme\image1\supply3.png" />
+    <Content Include="common\theme\image1\supply4.png" />
+    <Content Include="common\theme\image1\supply5.png" />
+    <Content Include="common\theme\image1\supply6.png" />
+    <Content Include="common\theme\image1\supply7.png" />
+    <Content Include="common\theme\image1\supply8.png" />
+    <Content Include="common\theme\image1\supply9.png" />
+    <Content Include="common\theme\image1\supply_chainpng.png" />
+    <Content Include="common\theme\image1\Supply_Chain_management.png" />
+    <Content Include="common\theme\image1\temp_1.png" />
+    <Content Include="common\theme\image1\temp_2.png" />
+    <Content Include="common\theme\image1\trans.png" />
+    <Content Include="common\theme\image1\Transactional_management.png" />
+    <Content Include="common\theme\image1\Transactional_reports.png" />
+    <Content Include="common\theme\image1\User_management.png" />
+    <Content Include="common\theme\image1\warehouse.jpg" />
+    <Content Include="common\theme\images\001.jpg" />
+    <Content Include="common\theme\images\002.jpg" />
+    <Content Include="common\theme\images\003.jpg" />
+    <Content Include="common\theme\images\004.jpg" />
+    <Content Include="common\theme\images\005.jpg" />
+    <Content Include="common\theme\images\006.jpg" />
+    <Content Include="common\theme\images\007.jpg" />
+    <Content Include="common\theme\images\1.png" />
+    <Content Include="common\theme\images\4.jpg" />
+    <Content Include="common\theme\images\a02.png" />
+    <Content Include="common\theme\images\american-express.png" />
+    <Content Include="common\theme\images\arete-logo.png" />
+    <Content Include="common\theme\images\b03.png" />
+    <Content Include="common\theme\images\back_disabled.png" />
+    <Content Include="common\theme\images\back_enabled.png" />
+    <Content Include="common\theme\images\back_enabled_hover.png" />
+    <Content Include="common\theme\images\back_ground_.png" />
+    <Content Include="common\theme\images\bootstrap-colorpicker\alpha-horizontal.png" />
+    <Content Include="common\theme\images\bootstrap-colorpicker\alpha.png" />
+    <Content Include="common\theme\images\bootstrap-colorpicker\hue-horizontal.png" />
+    <Content Include="common\theme\images\bootstrap-colorpicker\hue.png" />
+    <Content Include="common\theme\images\bootstrap-colorpicker\saturation.png" />
+    <Content Include="common\theme\images\calenderIcon.png" />
+    <Content Include="common\theme\images\call.png" />
+    <Content Include="common\theme\images\channel-management%282%29.jpg" />
+    <Content Include="common\theme\images\Contract.jpg" />
+    <Content Include="common\theme\images\data.png" />
+    <Content Include="common\theme\images\email.png" />
+    <Content Include="common\theme\images\f.png" />
+    <Content Include="common\theme\images\favicon.ico" />
+    <Content Include="common\theme\images\forward_disabled.png" />
+    <Content Include="common\theme\images\forward_enabled.png" />
+    <Content Include="common\theme\images\forward_enabled_hover.png" />
+    <Content Include="common\theme\images\g+.png" />
+    <Content Include="common\theme\images\gobsymbol %281%29.png" />
+    <Content Include="common\theme\images\gobsymbol.jpg" />
+    <Content Include="common\theme\images\gobsymbol.png" />
+    <Content Include="common\theme\images\gobsymbol_1.png" />
+    <Content Include="common\theme\images\gob_symbol.png" />
+    <Content Include="common\theme\images\gob_symbol_imglogo.png" />
+    <Content Include="common\theme\images\header_a.png" />
+    <Content Include="common\theme\images\header_bg.png" />
+    <Content Include="common\theme\images\header_bg_img.png" />
+    <Content Include="common\theme\images\HR.jpg" />
+    <Content Include="common\theme\images\hrms.jpg" />
+    <Content Include="common\theme\images\icons.png" />
+    <Content Include="common\theme\images\images.png" />
+    <Content Include="common\theme\images\img.jpg" />
+    <Content Include="common\theme\images\in.png" />
+    <Content Include="common\theme\images\inventory.jpg" />
+    <Content Include="common\theme\images\Keonics Logo.jpg" />
+    <Content Include="common\theme\images\keonics-logo %281%29.png" />
+    <Content Include="common\theme\images\keonics-logo %282%29.png" />
+    <Content Include="common\theme\images\keonics-logo.png" />
+    <Content Include="common\theme\images\loading-gif.gif" />
+    <Content Include="common\theme\images\loading.gif" />
+    <Content Include="common\theme\images\logo.png" />
+    <Content Include="common\theme\images\logo.svg" />
+    <Content Include="common\theme\images\logo2.png" />
+    <Content Include="common\theme\images\logo_1.png" />
+    <Content Include="common\theme\images\Logo_d-1-old.png" />
+    <Content Include="common\theme\images\Logo_d-1.png" />
+    <Content Include="common\theme\images\l_a.png" />
+    <Content Include="common\theme\images\marcn_park.png" />
+    <Content Include="common\theme\images\mastercard.png" />
+    <Content Include="common\theme\images\mobile_logo.png" />
+    <Content Include="common\theme\images\paypal2.png" />
+    <Content Include="common\theme\images\picture-2.jpg" />
+    <Content Include="common\theme\images\picture.jpg" />
+    <Content Include="common\theme\images\picture2.jpg" />
+    <Content Include="common\theme\images\prod1.jpg" />
+    <Content Include="common\theme\images\prod2.jpg" />
+    <Content Include="common\theme\images\prod3.jpg" />
+    <Content Include="common\theme\images\prod4.jpg" />
+    <Content Include="common\theme\images\prod5.jpg" />
+    <Content Include="common\theme\images\Purchase.jpg" />
+    <Content Include="common\theme\images\pwvGgv.png" />
+    <Content Include="common\theme\images\select.jpg" />
+    <Content Include="common\theme\images\select1.png" />
+    <Content Include="common\theme\images\slide.png" />
+    <Content Include="common\theme\images\slide1.jpg" />
+    <Content Include="common\theme\images\slide2.jpg" />
+    <Content Include="common\theme\images\slide3.jpg" />
+    <Content Include="common\theme\images\slide4.jpg" />
+    <Content Include="common\theme\images\Slide_01.png" />
+    <Content Include="common\theme\images\Slide_02.png" />
+    <Content Include="common\theme\images\Slide_03.png" />
+    <Content Include="common\theme\images\Slide_04.png" />
+    <Content Include="common\theme\images\small_header.png" />
+    <Content Include="common\theme\images\small_header_1.png" />
+    <Content Include="common\theme\images\small_logo.jpg" />
+    <Content Include="common\theme\images\small_logo.png" />
+    <Content Include="common\theme\images\sort_asc.png" />
+    <Content Include="common\theme\images\sort_asc_disabled.png" />
+    <Content Include="common\theme\images\sort_both.png" />
+    <Content Include="common\theme\images\sort_desc.png" />
+    <Content Include="common\theme\images\sort_desc_disabled.png" />
+    <Content Include="common\theme\images\sprite-skin-flat.png" />
+    <Content Include="common\theme\images\sprite-skin-modern.png" />
+    <Content Include="common\theme\images\sprite-skin-nice.png" />
+    <Content Include="common\theme\images\sprite-skin-simple.png" />
+    <Content Include="common\theme\images\store.jpg" />
+    <Content Include="common\theme\images\tanent.jpg" />
+    <Content Include="common\theme\images\texture.png" />
+    <Content Include="common\theme\images\texture_new.jpeg" />
+    <Content Include="common\theme\images\Torque-Logo.jpg" />
+    <Content Include="common\theme\images\Torque-Logo40X40.png" />
+    <Content Include="common\theme\images\training.jpg" />
+    <Content Include="common\theme\images\twr.png" />
+    <Content Include="common\theme\images\user.png" />
+    <Content Include="common\theme\images\visa.png" />
+    <Content Include="common\theme\images\Webtemplate_03.png" />
+    <Content Include="common\theme\images\Webtemplate_03_2.png" />
+    <Content Include="common\theme\images\YYCHLOgo.jpeg" />
+    <Content Include="common\theme\images\yych_logo.png" />
+    <Content Include="common\theme\images\yych_logo1.png" />
+    <Content Include="common\theme\img\1.jpg" />
+    <Content Include="common\theme\img\2.jpg" />
+    <Content Include="common\theme\img\3.jpg" />
+    <Content Include="common\theme\img\4.jpg" />
+    <Content Include="common\theme\img\5.png" />
+    <Content Include="common\theme\img\banner-bg.jpg" />
+    <Content Include="common\theme\img\cms.jpg" />
+    <Content Include="common\theme\img\ebs.png" />
+    <Content Include="common\theme\img\erp.jpg" />
+    <Content Include="common\theme\img\fleets_pdf_icon.gif" />
+    <Content Include="common\theme\img\Footer landscape.jpg" />
+    <Content Include="common\theme\img\Footer Portrait.jpg" />
+    <Content Include="common\theme\img\header landscape.jpg" />
+    <Content Include="common\theme\img\header Portrait.jpg" />
+    <Content Include="common\theme\img\intro-bg.jpg" />
+    <Content Include="common\theme\img\phones.jpg" />
+    <Content Include="common\theme\js2\bjqs-1.3.js" />
+    <Content Include="common\theme\js2\bjqs-1.3.min.js" />
+    <Content Include="common\theme\js2\bootstrap.js" />
+    <Content Include="common\theme\js2\bootstrap.min.js" />
+    <Content Include="common\theme\js2\jquery.js" />
+    <Content Include="common\theme\js2\libs\jquery.secret-source.min.js" />
+    <Content Include="common\theme\js\autocomplete\countries.js" />
+    <Content Include="common\theme\js\autocomplete\jquery.autocomplete.js" />
+    <Content Include="common\theme\js\bootstrap.min.js" />
+    <Content Include="common\theme\js\calendar\fullcalendar.min.js" />
+    <Content Include="common\theme\js\chartjs\chart.min.js" />
+    <Content Include="common\theme\js\colorpicker\bootstrap-colorpicker.js" />
+    <Content Include="common\theme\js\colorpicker\docs.js" />
+    <Content Include="common\theme\js\cropping\cropper.min.js" />
+    <Content Include="common\theme\js\cropping\main.js" />
+    <Content Include="common\theme\js\cropping\main2.js" />
+    <Content Include="common\theme\js\custom.js" />
+    <Content Include="common\theme\js\datatables\images\back_disabled.png" />
+    <Content Include="common\theme\js\datatables\images\back_enabled.png" />
+    <Content Include="common\theme\js\datatables\images\back_enabled_hover.png" />
+    <Content Include="common\theme\js\datatables\images\favicon.ico" />
+    <Content Include="common\theme\js\datatables\images\forward_disabled.png" />
+    <Content Include="common\theme\js\datatables\images\forward_enabled.png" />
+    <Content Include="common\theme\js\datatables\images\forward_enabled_hover.png" />
+    <Content Include="common\theme\js\datatables\images\sort_asc.png" />
+    <Content Include="common\theme\js\datatables\images\sort_asc_disabled.png" />
+    <Content Include="common\theme\js\datatables\images\sort_both.png" />
+    <Content Include="common\theme\js\datatables\images\sort_desc.png" />
+    <Content Include="common\theme\js\datatables\images\sort_desc_disabled.png" />
+    <Content Include="common\theme\js\datatables\js\jquery.dataTables.js" />
+    <Content Include="common\theme\js\datatables\js\jquery.js" />
+    <Content Include="common\theme\js\datatables\src\api\api.internal.js" />
+    <Content Include="common\theme\js\datatables\src\api\api.methods.js" />
+    <Content Include="common\theme\js\datatables\src\api\api.static.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.ajax.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.columns.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.compat.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.constructor.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.data.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.draw.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.filter.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.info.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.init.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.length.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.page.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.processing.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.scrolling.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.sizing.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.sort.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.state.js" />
+    <Content Include="common\theme\js\datatables\src\core\core.support.js" />
+    <Content Include="common\theme\js\datatables\src\DataTables.js" />
+    <Content Include="common\theme\js\datatables\src\ext\ext.classes.js" />
+    <Content Include="common\theme\js\datatables\src\ext\ext.paging.js" />
+    <Content Include="common\theme\js\datatables\src\ext\ext.sorting.js" />
+    <Content Include="common\theme\js\datatables\src\ext\ext.types.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.column.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.defaults.columns.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.defaults.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.ext.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.row.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.search.js" />
+    <Content Include="common\theme\js\datatables\src\model\model.settings.js" />
+    <Content Include="common\theme\js\datatables\tools\examples\alter_buttons.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\bootstrap.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\button_text.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\collection.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\defaults.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\index.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\multiple_tables.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\multi_instance.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\new_init.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\pdf_message.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\plug-in.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\select_column.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\select_multi.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\select_os.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\select_single.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\simple.xml" />
+    <Content Include="common\theme\js\datatables\tools\examples\swf_path.xml" />
+    <Content Include="common\theme\js\datatables\tools\images\background.png" />
+    <Content Include="common\theme\js\datatables\tools\images\collection.png" />
+    <Content Include="common\theme\js\datatables\tools\images\collection_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\images\copy.png" />
+    <Content Include="common\theme\js\datatables\tools\images\copy_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\images\csv.png" />
+    <Content Include="common\theme\js\datatables\tools\images\csv_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\images\pdf.png" />
+    <Content Include="common\theme\js\datatables\tools\images\pdf_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\images\print.png" />
+    <Content Include="common\theme\js\datatables\tools\images\print_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\images\xls.png" />
+    <Content Include="common\theme\js\datatables\tools\images\xls_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\js\dataTables.tableTools.js" />
+    <Content Include="common\theme\js\datatables\tools\Readme.txt" />
+    <Content Include="common\theme\js\datatables\tools\src\dataTables.tableTools.js" />
+    <Content Include="common\theme\js\datatables\tools\src\TableTools.js" />
+    <Content Include="common\theme\js\datatables\tools\src\ZeroClipboard.js" />
+    <Content Include="common\theme\js\datatables\tools\swf\copy_csv_xls.swf" />
+    <Content Include="common\theme\js\datatables\tools\swf\copy_csv_xls_pdf.swf" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\css\dataTables.tableTools.css" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\alter_buttons.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\bootstrap.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\button_text.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\collection.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\defaults.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\index.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\multiple_tables.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\multi_instance.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\new_init.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\pdf_message.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\plug-in.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\select_column.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\select_multi.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\select_os.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\select_single.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\simple.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\examples\swf_path.xml" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\background.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\collection.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\collection_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\copy.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\copy_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\csv.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\csv_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\pdf.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\pdf_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\print.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\print_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\xls.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\xls_hover.png" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\js\dataTables.tableTools.js" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\Readme.txt" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\src\dataTables.tableTools.js" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\src\TableTools.js" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\src\ZeroClipboard.js" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\swf\copy_csv_xls.swf" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\swf\copy_csv_xls_pdf.swf" />
+    <Content Include="common\theme\js\datatables\unit_testing\controller.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\index.html" />
+    <Content Include="common\theme\js\datatables\unit_testing\performance\draw.html" />
+    <Content Include="common\theme\js\datatables\unit_testing\performance\page.html" />
+    <Content Include="common\theme\js\datatables\unit_testing\performance\sort.html" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\-complex_header.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\-iDraw.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2512.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2530-2.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2530.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2569.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2600.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2608.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2635.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2746-stable-sort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2799.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2840-restore-table-width.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\2914-state-save-sort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\5396-fnUpdate-arrays-mData.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\5396-fnUpdate-arrays.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\5508-xscroll-zero-content.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\6776-scrolling-table-grows.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aaSorting.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aaSortingFixed.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.bSearchable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.bSortable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.bUseRendered.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.bVisible.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.bVisible2.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.fnRender.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.iDataSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.sClass.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.sName.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.sTitle.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoColumns.sWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\aoSearchCols.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\asStripClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bAutoWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bInfiniteScroll.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bJQueryUI.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bLengthChange.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bServerSide.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bSortCellsTop.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\bSortClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnCookieCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnCreatedCell.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnCreatedRow.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnDeleteRow.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnDrawCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnFooterCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnHeaderCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnInfoCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnInitComplete.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnRowCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnSetColumnVis.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\fnSetColumnVis2.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\gh125 - stripe stripping.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\html-autodetect-sort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\iDisplayLength.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.oPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sInfoEmpty.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sInfoPostFix.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sLengthMenu.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sUrl.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oLanguage.sZeroRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\oSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\sAjaxSource.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\sDom.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\sPaginationType.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\sScrollXY.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\th_in_body.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\_getDataFunctions.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\_setDataFunctions.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\1_dom\_zero_config.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\39-nested-null.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\6872-default-content-missing-props.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\8549--string-sorting-nonstrings.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aaSorting.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aaSortingFixed.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.bSearchable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.bSortable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.bUseRendered.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.bVisible.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.fnRender.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.iDataSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.sClass.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.sName.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.sTitle.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoColumns.sWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\aoSearchCols.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\asStripClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bAutoWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bLengthChange.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bServerSide.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\bSortClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnCreatedCell.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnCreatedRow.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnDrawCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnFooterCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnHeaderCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnInitComplete.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\fnRowCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\iDisplayLength.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\js_data_mixed_types.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.oPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sInfoEmpty.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sInfoPostFix.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sLengthMenu.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sUrl.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oLanguage.sZeroRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\oSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\sAjaxSource.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\sDom.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\sPaginationType.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\2_js\_zero_config.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aaSorting.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aaSortingFixed.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.bSearchable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.bSortable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.bUseRendered.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.bVisible.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.fnRender.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.iDataSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.sClass.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.sName.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.sTitle.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoColumns.sWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\aoSearchCols.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\asStripClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bAutoWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bLengthChange.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bServerSide.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\bSortClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnCreatedCell.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnCreatedRow.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnDrawCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnHeaderCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnInitComplete.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnRowCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\fnServerData.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\iDisplayLength.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.oPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sInfoEmpty.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sInfoPostFix.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sLengthMenu.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sLoadingRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sUrl.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oLanguage.sZeroRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\oSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\sAjaxDataProp.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\sAjaxDataProp2.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\sAjaxSource.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\sDom.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\sPaginationType.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\3_ajax\_zero_config.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\-iDraw.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\2440.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\2569.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\2600.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aaSorting.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aaSortingFixed.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.bSearchable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.bSortable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.bUseRendered.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.bVisible.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.fnRender.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.sClass.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.sName.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.sTitle.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoColumns.sWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\aoSearchCols.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\asStripClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bAutoWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bInfiniteScroll.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bLengthChange.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bServerSide.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\bSortClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\fnCreatedCell.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\fnCreatedRow.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\fnDrawCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\fnHeaderCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\fnInitComplete.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\fnRowCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\iDeferLoading.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\iDisplayLength.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.oPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sInfoEmpty.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sInfoPostFix.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sLengthMenu.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sUrl.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oLanguage.sZeroRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\oSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\sAjaxDataProp.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\sAjaxSource.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\sDom.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\sPaginationType.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\4_server-side\_zero_config.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aaSorting.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aaSortingFixed.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.bSearchable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.bSortable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.bUseRendered.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.bVisible.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.fnRender.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.iDataSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.sClass.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.sName.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.sTitle.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoColumns.sWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\aoSearchCols.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\asStripClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bAutoWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bLengthChange.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bServerSide.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\bSortClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\fnDrawCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\fnHeaderCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\fnInitComplete.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\fnRowCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\fnServerData.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\iDisplayLength.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.oPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sInfoEmpty.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sInfoPostFix.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sLengthMenu.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sUrl.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oLanguage.sZeroRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\oSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\sAjaxSource.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\sDom.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\sPaginationType.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config_arrays_subobjects.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config_deep.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config_mDataProp.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config_null_source.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config_objects.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\5_ajax_objects\_zero_config_objects_subarrays.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aaSorting.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aaSortingFixed.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.bSearchable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.bSortable.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.bUseRendered.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.bVisible.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.fnRender.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.iDataSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.sClass.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.sName.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.sTitle.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoColumns.sWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\aoSearchCols.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\asStripClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bAutoWidth.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bFilter.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bLengthChange.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bServerSide.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bSort.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\bSortClasses.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\fnDrawCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\fnHeaderCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\fnInitComplete.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\fnRowCallback.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\fnServerData.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\iDisplayLength.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.oPaginate.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sInfo.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sInfoEmpty.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sInfoPostFix.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sLengthMenu.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sProcessing.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sUrl.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oLanguage.sZeroRecords.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\oSearch.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\sAjaxDataProp.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\sAjaxDataProp2.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\sAjaxSource.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\sDom.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\sPaginationType.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\tests_onhold\6_delayed_rendering\_zero_config.js" />
+    <Content Include="common\theme\js\datatables\unit_testing\unit_test.js" />
+    <Content Include="common\theme\js\datepicker\daterangepicker.js" />
+    <Content Include="common\theme\js\dropzone\dropzone.js" />
+    <Content Include="common\theme\js\easypie\jquery.easypiechart.min.js" />
+    <Content Include="common\theme\js\echart\echarts-all.js" />
+    <Content Include="common\theme\js\echart\green.js" />
+    <Content Include="common\theme\js\editor\bootstrap-wysiwyg.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-apollo.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-basic.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-clj.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-css.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-dart.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-erlang.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-go.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-hs.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-lisp.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-llvm.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-lua.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-matlab.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-ml.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-mumps.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-n.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-pascal.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-proto.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-r.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-rd.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-scala.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-sql.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-tcl.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-tex.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-vb.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-vhdl.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-wiki.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-xq.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\lang-yaml.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\prettify.js" />
+    <Content Include="common\theme\js\editor\external\google-code-prettify\run_prettify.js" />
+    <Content Include="common\theme\js\editor\external\jquery.hotkeys.js" />
+    <Content Include="common\theme\js\flot\curvedLines.js" />
+    <Content Include="common\theme\js\flot\date.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.orderBars.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.pie.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.resize.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.spline.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.stack.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.time.min.js" />
+    <Content Include="common\theme\js\flot\jquery.flot.tooltip.min.js" />
+    <Content Include="common\theme\js\gauge\gauge.min.js" />
+    <Content Include="common\theme\js\gauge\gauge_demo.js" />
+    <Content Include="common\theme\js\icheck\icheck.min.js" />
+    <Content Include="common\theme\js\input_mask\jquery.inputmask.js" />
+    <Content Include="common\theme\js\ion_range\ion.rangeSlider.min.js" />
+    <Content Include="common\theme\js\jquery.min.js" />
+    <Content Include="common\theme\js\knob\jquery.knob.min.js" />
+    <Content Include="common\theme\js\maps\gdp-data.js" />
+    <Content Include="common\theme\js\maps\jquery-jvectormap-2.0.1.min.js" />
+    <Content Include="common\theme\js\maps\jquery-jvectormap-us-aea-en.js" />
+    <Content Include="common\theme\js\maps\jquery-jvectormap-world-mill-en.js" />
+    <Content Include="common\theme\js\moment.min.js" />
+    <Content Include="common\theme\js\moment.min2.js" />
+    <Content Include="common\theme\js\moris\example.js" />
+    <Content Include="common\theme\js\moris\jquery.min.js" />
+    <Content Include="common\theme\js\moris\morris.js" />
+    <Content Include="common\theme\js\moris\morris.min.js" />
+    <Content Include="common\theme\js\moris\raphael-min.js" />
+    <Content Include="common\theme\js\nicescroll\jquery.nicescroll.min.js" />
+    <Content Include="common\theme\js\notify\pnotify.buttons.js" />
+    <Content Include="common\theme\js\notify\pnotify.core.js" />
+    <Content Include="common\theme\js\notify\pnotify.nonblock.js" />
+    <Content Include="common\theme\js\nprogress.js" />
+    <Content Include="common\theme\js\parsley\parsley.min.js" />
+    <Content Include="common\theme\js\progressbar\bootstrap-progressbar.min.js" />
+    <Content Include="common\theme\js\select\select2.full.js" />
+    <Content Include="common\theme\js\sidebar\classie.js" />
+    <Content Include="common\theme\js\sidebar\component.css" />
+    <Content Include="common\theme\js\sidebar\modernizr.custom.js" />
+    <Content Include="common\theme\js\sidebar\sidebarEffects.js" />
+    <Content Include="common\theme\js\skycons\skycons.js" />
+    <Content Include="common\theme\js\sparkline\jquery.sparkline.min.js" />
+    <Content Include="common\theme\js\switchery\switchery.min.js" />
+    <Content Include="common\theme\js\tags\jquery.tagsinput.min.js" />
+    <Content Include="common\theme\js\textarea\autosize.min.js" />
+    <Content Include="common\theme\js\validator\validator.js" />
+    <Content Include="common\theme\js\wizard\jquery.smartWizard.js" />
+    <Content Include="common\theme\less\custom.css" />
+    <Content Include="common\theme\pagination\jquery.dataTables.min.js" />
+    <Content Include="common\Timepicker\jquery.timepicker.css" />
+    <Content Include="common\Timepicker\jquery.timepicker.js" />
+    <Content Include="common\validate\Check_Digit.js" />
+    <Content Include="common\validate\ex-automation.js" />
+    <Content Include="common\validate\form_field_validator.js" />
+    <Content Include="common\validate\form_field_validator_1.js" />
+    <Content Include="common\validate\jquery-1.js" />
+    <Content Include="common\validate\jquery.js" />
+    <Content Include="common\validate\jquery.min.js" />
+    <Content Include="common\validate\jquery.min_1.js" />
+    <Content Include="common\validate\jquery.validationEngine-en.js" />
+    <Content Include="common\validate\jquery.validationEngine.js" />
+    <Content Include="common\validate\jquery.validationEngine_1.js" />
+    <Content Include="common\validate\jquery_002.js" />
+    <Content Include="common\validate\moment.js" />
+    <Content Include="common\validate\tblrow.js" />
+    <Content Include="common\validate\tblrow_1.js" />
+    <Content Include="common\validate\validationEngine.css" />
+    <Content Include="common\validate\validationEngine.jquery.css" />
+    <Content Include="common\validate\validationEngine.jquery_1.css" />
+    <Content Include="cssres\adminstyle.css" />
+    <Content Include="cssres\bootstrap-multiselect.css" />
+    <Content Include="cssres\chatstyle.css" />
+    <Content Include="cssres\homestyle.css" />
+    <Content Include="css\multidropdown.css" />
+    <Content Include="img\40-delete-button.png" />
+    <Content Include="img\button.jpg" />
+    <Content Include="img\ChartJS.js" />
+    <Content Include="img\closesearch.jpg" />
+    <Content Include="img\DY6gND0.png" />
+    <Content Include="img\ezgif.com-crop.gif" />
+    <Content Include="img\HYcn9xO.png" />
+    <Content Include="img\jquery-1.7.1.min.js" />
+    <Content Include="img\jquery-3.3.1.min.js" />
+    <Content Include="img\notification.jpg" />
+    <Content Include="img\PrintIcon.jpg" />
+    <Content Include="img\pulseimg.gif" />
+    <Content Include="img\quicksearch.js" />
+    <Content Include="img\sendbtn.png" />
+    <Content Include="img\ViewIcon1.png" />
+    <Content Include="js\mddinitialize.js" />
+    <Content Include="js\mddtooltip.js" />
+    <Content Include="js\multidropdown.js" />
+    <Content Include="Molasses\Attachments\119_123.jpg" />
+    <Content Include="Molasses\Attachments\168_ipexc.png" />
+    <Content Include="Molasses\Attachments\170_photo.jpg" />
+    <Content Include="Molasses\Attachments\75_Pizigani_1367_Chart_10MB1.jpg" />
+    <Content Include="Molasses\Attachments\78_Pizigani_1367_Chart_10MB1.jpg" />
+    <Content Include="Molasses\Attachments\79_Pizigani_1367_Chart_10MB1.jpg" />
+    <Content Include="Molasses\Attachments\85_photo.jpg" />
+    <Content Include="orgFinancialyrform.aspx" />
+    <Content Include="orgFinancialyrlist.aspx" />
+    <Content Include="OrgFroms.aspx" />
+    <Content Include="OrgList.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Admin.Master">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="photos\123.jpg" />
+    <Content Include="photos\EXCOM-2019-000057.jpg" />
+    <Content Include="photos\EXCOM-2019-000063.jpg" />
+    <Content Include="photos\EXCOM-2019-000064.jpg" />
+    <Content Include="photos\EXCOM-2019-000071.jpg" />
+    <Content Include="photos\EXCOM-2019-000142.jpg" />
+    <Content Include="photos\photo.jpg" />
+    <Content Include="scripts\datatables.min.css" />
+    <Content Include="scripts\datatables.min.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.charts.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.excelexport.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.gantt.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.maps.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.overlappedbar2d.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.overlappedcolumn2d.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.powercharts.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.timeseries.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.treemap.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.vml.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.widgets.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.zoomline.js" />
+    <Content Include="scripts\FusionCharts\fusioncharts.zoomscatter.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.candy.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.carbon.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.fint.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.fusion.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.gammel.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.ocean.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.umber.js" />
+    <Content Include="scripts\FusionCharts\themes\fusioncharts.theme.zune.js" />
+    <Content Include="scripts\jquery.dataTables.min.js" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="Chart.js-2.8.0\.codeclimate.yml" />
+    <Content Include="Chart.js-2.8.0\.editorconfig" />
+    <Content Include="Chart.js-2.8.0\.eslintignore" />
+    <Content Include="Chart.js-2.8.0\.eslintrc.yml" />
+    <Content Include="Chart.js-2.8.0\.gitignore" />
+    <Content Include="Chart.js-2.8.0\.htmllintrc" />
+    <Content Include="Chart.js-2.8.0\.travis.yml" />
+    <Content Include="Chart.js-2.8.0\book.json" />
+    <Content Include="Chart.js-2.8.0\bower.json" />
+    <Content Include="Chart.js-2.8.0\composer.json" />
+    <Content Include="Chart.js-2.8.0\docs\axes\cartesian\category.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\cartesian\linear.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\cartesian\logarithmic.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\cartesian\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\cartesian\time.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\labelling.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\radial\linear.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\radial\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\axes\styling.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\area.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\bar.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\bubble.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\doughnut.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\line.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\mixed.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\polar.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\radar.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\charts\scatter.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\animations.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\elements.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\layout.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\legend.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\title.md" />
+    <Content Include="Chart.js-2.8.0\docs\configuration\tooltip.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\api.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\axes.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\charts.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\contributing.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\plugins.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\developers\updates.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\accessibility.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\colors.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\device-pixel-ratio.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\fonts.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\interactions\events.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\interactions\modes.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\interactions\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\options.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\general\responsive.md" />
+    <Content Include="Chart.js-2.8.0\docs\getting-started\installation.md" />
+    <Content Include="Chart.js-2.8.0\docs\getting-started\integration.md" />
+    <Content Include="Chart.js-2.8.0\docs\getting-started\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\getting-started\usage.md" />
+    <Content Include="Chart.js-2.8.0\docs\notes\comparison.md" />
+    <Content Include="Chart.js-2.8.0\docs\notes\extensions.md" />
+    <Content Include="Chart.js-2.8.0\docs\notes\license.md" />
+    <Content Include="Chart.js-2.8.0\docs\notes\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\README.md" />
+    <Content Include="Chart.js-2.8.0\docs\SUMMARY.md" />
+    <Content Include="Chart.js-2.8.0\LICENSE.md" />
+    <Content Include="Chart.js-2.8.0\MAINTAINING.md" />
+    <Content Include="Chart.js-2.8.0\package.json" />
+    <Content Include="Chart.js-2.8.0\README.md" />
+    <Content Include="Chart.js-2.8.0\samples\.eslintrc.yml" />
+    <Content Include="Chart.js-2.8.0\scripts\deploy.sh" />
+    <Content Include="Chart.js-2.8.0\scripts\release.sh" />
+    <Content Include="Chart.js-2.8.0\test\.eslintrc.yml" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-absolute.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex-offset.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex-single-reverse.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex-single.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-flex.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-max.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-min-interval.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-multiple.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-no-overlap.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-offset.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-reverse.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-single-xy.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-single.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bar\bar-thickness-stacked.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.bubble\point-style.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\doughnut-border-align-center.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\doughnut-border-align-inner.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\doughnut-weight.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\pie-border-align-center.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\pie-border-align-inner.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.doughnut\pie-weight.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.line\point-style.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\angle-array.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\angle-undefined.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\border-align-center.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.polarArea\border-align-inner.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\controller.radar\point-style.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\core.scale\label-offset-vertical-axes.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\core.scale\tick-drawing.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-circle.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-cross-rot.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-cross.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-dash.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-line.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-rect-rot.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-rect-rounded.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-rect.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-star.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\element.point\point-style-triangle.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-end-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-end.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-spline-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-spline.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-stepped-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin-stepped.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-origin.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-start-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-boundary-start.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset-spline-span.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset-spline.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-line-dataset.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-radar-boundary-origin-spline.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\plugin.filler\fill-radar-boundary-origin.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\scale.radialLinear\border-dash.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\scale.radialLinear\circular-border-dash.json" />
+    <Content Include="Chart.js-2.8.0\test\fixtures\scale.radialLinear\indexable-gridlines.json" />
+    <Content Include="chartist-js-master\chartist-js-master\.bowerrc" />
+    <Content Include="chartist-js-master\chartist-js-master\.doclets.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\.editorconfig" />
+    <Content Include="chartist-js-master\chartist-js-master\.gitattributes" />
+    <Content Include="chartist-js-master\chartist-js-master\.gitignore" />
+    <Content Include="chartist-js-master\chartist-js-master\.jshintrc" />
+    <Content Include="chartist-js-master\chartist-js-master\.nvmrc" />
+    <Content Include="chartist-js-master\chartist-js-master\.travis.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\bower.json" />
+    <Content Include="chartist-js-master\chartist-js-master\CHANGELOG.md" />
+    <Content Include="chartist-js-master\chartist-js-master\CODINGSTYLE.md" />
+    <Content Include="chartist-js-master\chartist-js-master\CONTRIBUTING.md" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\chartist.css.map" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\chartist.min.js.map" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\scss\chartist.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\dist\scss\settings\_chartist-settings.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\LICENSE-MIT" />
+    <Content Include="chartist-js-master\chartist-js-master\LICENSE-WTFPL" />
+    <Content Include="chartist-js-master\chartist-js-master\package.json" />
+    <Content Include="chartist-js-master\chartist-js-master\README.md" />
+    <Content Include="chartist-js-master\chartist-js-master\site\.buildignore" />
+    <Content Include="chartist-js-master\chartist-js-master\site\code-snippets\custom-include.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\data\pages\examples.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\site\data\pages\getting-started.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\site\data\pages\index.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\site\data\pages\plugins.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\site\layouts\content.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\layouts\default.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\layouts\landing.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\affiliate-project.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\api-side-navigation.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\browser-support-table.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\code-snippet.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\code.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\dox\dox-member.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\dox\dox-module.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\dox\dox-section.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\example-chart.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\heading.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\hint.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\live-example.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\navigation.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\section.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\side-navigation.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\sub-section.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\table.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\partials\text.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\main.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\modules\_animation.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\modules\_common.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\modules\_font.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\modules\_icon.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\modules\_scale.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\settings\_chartist-docs.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\settings\_font-awesome-variables.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\settings\_foundation.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_affiliate-project.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_api-doc.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_base.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_code-mirror-theme.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_example-charts.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_highlight.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_landing.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_live-example.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\styles\_modules.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\site\templates\api-documentation.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\templates\examples.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\templates\getting-started.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\templates\index.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\site\templates\plugins.hbs" />
+    <Content Include="chartist-js-master\chartist-js-master\src\styles\chartist.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\src\styles\settings\_chartist-settings.scss" />
+    <Content Include="chartist-js-master\chartist-js-master\tasks\aliases.yml" />
+    <Content Include="chartist-js-master\chartist-js-master\test\.jshintrc" />
+    <Content Include="common\theme\assets\bootstrap\css\bootstrap-theme.css.map" />
+    <Content Include="common\theme\assets\bootstrap\css\bootstrap.css.map" />
+    <Content Include="common\theme\assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="common\theme\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="common\theme\assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="common\theme\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="common\theme\assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="common\theme\assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="common\theme\assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="common\theme\assets\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="common\theme\assets\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="common\theme\assets\font-awesome\less\animated.less" />
+    <Content Include="common\theme\assets\font-awesome\less\bordered-pulled.less" />
+    <Content Include="common\theme\assets\font-awesome\less\core.less" />
+    <Content Include="common\theme\assets\font-awesome\less\fixed-width.less" />
+    <Content Include="common\theme\assets\font-awesome\less\font-awesome.less" />
+    <Content Include="common\theme\assets\font-awesome\less\icons.less" />
+    <Content Include="common\theme\assets\font-awesome\less\larger.less" />
+    <Content Include="common\theme\assets\font-awesome\less\list.less" />
+    <Content Include="common\theme\assets\font-awesome\less\mixins.less" />
+    <Content Include="common\theme\assets\font-awesome\less\path.less" />
+    <Content Include="common\theme\assets\font-awesome\less\rotated-flipped.less" />
+    <Content Include="common\theme\assets\font-awesome\less\stacked.less" />
+    <Content Include="common\theme\assets\font-awesome\less\variables.less" />
+    <Content Include="common\theme\assets\font-awesome\scss\font-awesome.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_animated.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_core.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_icons.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_larger.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_list.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_mixins.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_path.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_stacked.scss" />
+    <Content Include="common\theme\assets\font-awesome\scss\_variables.scss" />
+    <Content Include="common\theme\css\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="common\theme\css\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="common\theme\css\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="common\theme\css\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="common\theme\css\assets\fonts\FontAwesome.otf" />
+    <Content Include="common\theme\css\assets\samplexl\fdata.xlsx" />
+    <Content Include="common\theme\css\assets\samplexl\fdata1.xlsx" />
+    <Content Include="common\theme\css\assets\samplexl\Paymen_Details.xlsx" />
+    <Content Include="common\theme\css\assets\sass\base\_page.scss" />
+    <Content Include="common\theme\css\assets\sass\base\_typography.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_box.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_button.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_form.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_icon.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_image.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_list.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_section.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_table.scss" />
+    <Content Include="common\theme\css\assets\sass\components\_tiles.scss" />
+    <Content Include="common\theme\css\assets\sass\ie8.scss" />
+    <Content Include="common\theme\css\assets\sass\ie9.scss" />
+    <Content Include="common\theme\css\assets\sass\layout\_footer.scss" />
+    <Content Include="common\theme\css\assets\sass\layout\_header.scss" />
+    <Content Include="common\theme\css\assets\sass\layout\_main.scss" />
+    <Content Include="common\theme\css\assets\sass\layout\_menu.scss" />
+    <Content Include="common\theme\css\assets\sass\layout\_wrapper.scss" />
+    <Content Include="common\theme\css\assets\sass\libs\_functions.scss" />
+    <Content Include="common\theme\css\assets\sass\libs\_mixins.scss" />
+    <Content Include="common\theme\css\assets\sass\libs\_skel.scss" />
+    <Content Include="common\theme\css\assets\sass\libs\_vars.scss" />
+    <Content Include="common\theme\css\assets\sass\main.scss" />
+    <Content Include="common\theme\css\datatables\images\Sorting icons.psd" />
+    <Content Include="common\theme\fonts\fonts\fontawesome-webfont.eot" />
+    <Content Include="common\theme\fonts\fonts\fontawesome-webfont.ttf" />
+    <Content Include="common\theme\fonts\fonts\fontawesome-webfont.woff" />
+    <Content Include="common\theme\fonts\fonts\FontAwesome.otf" />
+    <Content Include="common\theme\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="common\theme\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="common\theme\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="common\theme\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="common\theme\fonts\less\bordered-pulled.less" />
+    <Content Include="common\theme\fonts\less\core.less" />
+    <Content Include="common\theme\fonts\less\fixed-width.less" />
+    <Content Include="common\theme\fonts\less\font-awesome.less" />
+    <Content Include="common\theme\fonts\less\icons.less" />
+    <Content Include="common\theme\fonts\less\larger.less" />
+    <Content Include="common\theme\fonts\less\list.less" />
+    <Content Include="common\theme\fonts\less\mixins.less" />
+    <Content Include="common\theme\fonts\less\path.less" />
+    <Content Include="common\theme\fonts\less\rotated-flipped.less" />
+    <Content Include="common\theme\fonts\less\spinning.less" />
+    <Content Include="common\theme\fonts\less\stacked.less" />
+    <Content Include="common\theme\fonts\less\variables.less" />
+    <Content Include="common\theme\fonts\scss\font-awesome.scss" />
+    <Content Include="common\theme\fonts\scss\_bordered-pulled.scss" />
+    <Content Include="common\theme\fonts\scss\_core.scss" />
+    <Content Include="common\theme\fonts\scss\_fixed-width.scss" />
+    <Content Include="common\theme\fonts\scss\_icons.scss" />
+    <Content Include="common\theme\fonts\scss\_larger.scss" />
+    <Content Include="common\theme\fonts\scss\_list.scss" />
+    <Content Include="common\theme\fonts\scss\_mixins.scss" />
+    <Content Include="common\theme\fonts\scss\_path.scss" />
+    <Content Include="common\theme\fonts\scss\_rotated-flipped.scss" />
+    <Content Include="common\theme\fonts\scss\_spinning.scss" />
+    <Content Include="common\theme\fonts\scss\_stacked.scss" />
+    <Content Include="common\theme\fonts\scss\_variables.scss" />
+    <Content Include="common\theme\images\Sorting icons.psd" />
+    <Content Include="common\theme\js\datatables\images\Sorting icons.psd" />
+    <Content Include="common\theme\js\datatables\tools\as3\lib\AlivePDF.swc" />
+    <Content Include="common\theme\js\datatables\tools\as3\ZeroClipboard.as" />
+    <Content Include="common\theme\js\datatables\tools\as3\ZeroClipboardPdf.as" />
+    <Content Include="common\theme\js\datatables\tools\bower.json" />
+    <Content Include="common\theme\js\datatables\tools\images\psd\collection.psd" />
+    <Content Include="common\theme\js\datatables\tools\images\psd\copy document.psd" />
+    <Content Include="common\theme\js\datatables\tools\images\psd\file_types.psd" />
+    <Content Include="common\theme\js\datatables\tools\images\psd\printer.psd" />
+    <Content Include="common\theme\js\datatables\tools\make.sh" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\as3\lib\AlivePDF.swc" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\as3\ZeroClipboard.as" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\as3\ZeroClipboardPdf.as" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\bower.json" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\psd\collection.psd" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\psd\copy document.psd" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\psd\file_types.psd" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\images\psd\printer.psd" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\make.sh" />
+    <Content Include="common\theme\js\datatables\tools\TableTools-master\_gitignore" />
+    <Content Include="common\theme\js\datatables\tools\_gitignore" />
+    <Content Include="common\theme\js\datatables\unit_testing\controller.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\performance\large.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\-complex_header.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\2512.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\6776.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\complex_header_2.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\deferred_table.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\dom_data.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\dom_data_th.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\dom_data_two_headers.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\dymanic_table.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\empty_table.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\html_table.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\js_data.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\js_data_mixed_types.php" />
+    <Content Include="common\theme\js\datatables\unit_testing\templates\two_tables.php" />
+    <Content Include="common\theme\js\maps\us-unemployment.json" />
+    <Content Include="common\theme\less\style.less" />
+    <Content Include="img\IEMS.pdf" />
+    <Content Include="Licences\T1.pdf" />
+    <Content Include="Licences\T12.pdf" />
+    <Content Include="Licences\T121.pdf" />
+    <Content Include="Licences\T13.pdf" />
+    <Content Include="Licences\T2.pdf" />
+    <Content Include="Molasses\Attachments\45_Aleran-New-Update-API.docx" />
+    <Content Include="Molasses\Attachments\46_Aleran-New-Update-API.docx" />
+    <Content Include="Molasses\Attachments\47_Aleran-New-Update-API.docx" />
+    <Content Include="Molasses\Attachments\52_Aleran-New-Update-API.docx" />
+    <Content Include="Molasses\Attachments\74_MF1.docx" />
+    <Content Include="Molasses\Attachments\80__2019-MOL-newswadeshi_dis-044__.pdf" />
+    <Content Include="Molasses\Attachments\84_DIV Contents.pdf" />
+    <Content Include="Molasses\Attachments\86_IEMS.pdf" />
+    <Content Include="Molasses\Attachments\MF3.docx" />
+    <Content Include="Molasses\MF1.docx" />
+    <Content Include="Molasses\MF2.docx" />
+    <Content Include="Molasses\MF2Attachments\24_Aleran-New-Update-API" />
+    <Content Include="Molasses\MF2Attachments\25_18_MF1 %281%29" />
+    <Content Include="Molasses\MF2Attachments\25_20_8_Section" />
+    <Content Include="Molasses\MF2Attachments\28_1_Aleran-New-Update-API" />
+    <Content Include="Molasses\MF2Attachments\33_1_Aleran-New-Update-API" />
+    <Content Include="Molasses\MF3.docx" />
+    <Content Include="photos\IEMS.pdf" />
+    <Content Include="Web.config" />
+    <Content Include="StateMasterForm.aspx" />
+    <Content Include="DivisionForm.aspx" />
+    <Content Include="DistrictForm.aspx" />
+    <Content Include="RoleLevelMasterForm.aspx" />
+    <Content Include="AccesstypeMasterform.aspx" />
+    <Content Include="RoleMasterForm.aspx" />
+    <Content Include="RolePermissionForm.aspx" />
+    <Content Include="UserRegistrationForm.aspx" />
+    <Content Include="UserReport.aspx" />
+    <Content Include="StateList.aspx" />
+    <Content Include="DivisionList.aspx" />
+    <Content Include="Districtlist.aspx" />
+    <Content Include="RoleLevelList.aspx" />
+    <Content Include="AccessTypeList.aspx" />
+    <Content Include="RoleMasterList.aspx" />
+    <Content Include="RolePermissionList.aspx" />
+    <Content Include="UserPermissionList.aspx" />
+    <Content Include="UserRegistrationList.aspx" />
+    <Content Include="UserPermissionForm.aspx" />
+    <Content Include="CountryForm.aspx" />
+    <Content Include="CountryList.aspx" />
+    <Content Include="WorkFlowLIst.aspx" />
+    <Content Include="WorkFlowForm.aspx" />
+    <Content Include="WebForm2.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="orgFinancialyrform.aspx.cs">
+      <DependentUpon>orgFinancialyrform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="orgFinancialyrform.aspx.designer.cs">
+      <DependentUpon>orgFinancialyrform.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="orgFinancialyrlist.aspx.cs">
+      <DependentUpon>orgFinancialyrlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="orgFinancialyrlist.aspx.designer.cs">
+      <DependentUpon>orgFinancialyrlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrgFroms.aspx.cs">
+      <DependentUpon>OrgFroms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrgFroms.aspx.designer.cs">
+      <DependentUpon>OrgFroms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrgList.aspx.cs">
+      <DependentUpon>OrgList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrgList.aspx.designer.cs">
+      <DependentUpon>OrgList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="StateMasterForm.aspx.cs">
+      <DependentUpon>StateMasterForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StateMasterForm.aspx.designer.cs">
+      <DependentUpon>StateMasterForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DivisionForm.aspx.cs">
+      <DependentUpon>DivisionForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DivisionForm.aspx.designer.cs">
+      <DependentUpon>DivisionForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DistrictForm.aspx.cs">
+      <DependentUpon>DistrictForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DistrictForm.aspx.designer.cs">
+      <DependentUpon>DistrictForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RoleLevelMasterForm.aspx.cs">
+      <DependentUpon>RoleLevelMasterForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RoleLevelMasterForm.aspx.designer.cs">
+      <DependentUpon>RoleLevelMasterForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccesstypeMasterform.aspx.cs">
+      <DependentUpon>AccesstypeMasterform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccesstypeMasterform.aspx.designer.cs">
+      <DependentUpon>AccesstypeMasterform.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RoleMasterForm.aspx.cs">
+      <DependentUpon>RoleMasterForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RoleMasterForm.aspx.designer.cs">
+      <DependentUpon>RoleMasterForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RolePermissionForm.aspx.cs">
+      <DependentUpon>RolePermissionForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RolePermissionForm.aspx.designer.cs">
+      <DependentUpon>RolePermissionForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRegistrationForm.aspx.cs">
+      <DependentUpon>UserRegistrationForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRegistrationForm.aspx.designer.cs">
+      <DependentUpon>UserRegistrationForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserReport.aspx.cs">
+      <DependentUpon>UserReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserReport.aspx.designer.cs">
+      <DependentUpon>UserReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StateList.aspx.cs">
+      <DependentUpon>StateList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StateList.aspx.designer.cs">
+      <DependentUpon>StateList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DivisionList.aspx.cs">
+      <DependentUpon>DivisionList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DivisionList.aspx.designer.cs">
+      <DependentUpon>DivisionList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Districtlist.aspx.cs">
+      <DependentUpon>Districtlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Districtlist.aspx.designer.cs">
+      <DependentUpon>Districtlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RoleLevelList.aspx.cs">
+      <DependentUpon>RoleLevelList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RoleLevelList.aspx.designer.cs">
+      <DependentUpon>RoleLevelList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccessTypeList.aspx.cs">
+      <DependentUpon>AccessTypeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccessTypeList.aspx.designer.cs">
+      <DependentUpon>AccessTypeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RoleMasterList.aspx.cs">
+      <DependentUpon>RoleMasterList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RoleMasterList.aspx.designer.cs">
+      <DependentUpon>RoleMasterList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RolePermissionList.aspx.cs">
+      <DependentUpon>RolePermissionList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RolePermissionList.aspx.designer.cs">
+      <DependentUpon>RolePermissionList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermissionList.aspx.cs">
+      <DependentUpon>UserPermissionList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserPermissionList.aspx.designer.cs">
+      <DependentUpon>UserPermissionList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRegistrationList.aspx.cs">
+      <DependentUpon>UserRegistrationList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRegistrationList.aspx.designer.cs">
+      <DependentUpon>UserRegistrationList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermissionForm.aspx.cs">
+      <DependentUpon>UserPermissionForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserPermissionForm.aspx.designer.cs">
+      <DependentUpon>UserPermissionForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CountryForm.aspx.cs">
+      <DependentUpon>CountryForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CountryForm.aspx.designer.cs">
+      <DependentUpon>CountryForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CountryList.aspx.cs">
+      <DependentUpon>CountryList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CountryList.aspx.designer.cs">
+      <DependentUpon>CountryList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WorkFlowLIst.aspx.cs">
+      <DependentUpon>WorkFlowLIst.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WorkFlowLIst.aspx.designer.cs">
+      <DependentUpon>WorkFlowLIst.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WorkFlowForm.aspx.cs">
+      <DependentUpon>WorkFlowForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WorkFlowForm.aspx.designer.cs">
+      <DependentUpon>WorkFlowForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Documents\" />
+    <Folder Include="Reports\" />
+    <Folder Include="SqlServerTypes\x64\" />
+    <Folder Include="SqlServerTypes\x86\" />
+    <Folder Include="Utility\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>65188</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:65188/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.targets'))" />
+  </Target>
+  <Import Project="..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.targets" Condition="Exists('..\packages\Microsoft.TypeScript.MSBuild.4.0.0-beta\build\Microsoft.TypeScript.MSBuild.targets')" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+    <TypeScriptTarget>ES5</TypeScriptTarget>
+    <TypeScriptJSXEmit>None</TypeScriptJSXEmit>
+    <TypeScriptCompileOnSaveEnabled>True</TypeScriptCompileOnSaveEnabled>
+    <TypeScriptNoImplicitAny>False</TypeScriptNoImplicitAny>
+    <TypeScriptModuleKind>CommonJS</TypeScriptModuleKind>
+    <TypeScriptRemoveComments>False</TypeScriptRemoveComments>
+    <TypeScriptOutFile />
+    <TypeScriptOutDir />
+    <TypeScriptGeneratesDeclarations>False</TypeScriptGeneratesDeclarations>
+    <TypeScriptNoEmitOnError>True</TypeScriptNoEmitOnError>
+    <TypeScriptSourceMap>True</TypeScriptSourceMap>
+    <TypeScriptMapRoot />
+    <TypeScriptSourceRoot />
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

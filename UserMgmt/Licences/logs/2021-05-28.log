@@ -1,0 +1,325 @@
+2021-05-28 09:57:25.5176 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-28 09:57:26.4425 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-28 09:57:27.4675 INFO Get User Success :sonasati_dis
+2021-05-28 09:59:22.3452 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-05-28 09:59:30.0083 INFO Get User Success :353-M and TP Unit
+2021-05-28 09:59:32.8051 INFO Get User Success :353-M and TP Unit
+2021-05-28 09:59:33.0031 INFO Get User Success :mtp1
+2021-05-28 10:00:24.9328 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:00:25.2048 INFO Get User Success :mtp1
+2021-05-28 10:00:38.2809 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:00:38.8620 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:00:38.9449 INFO Get License_Type List Success
+2021-05-28 10:00:39.0400 INFO Get License Fee List Success
+2021-05-28 10:00:39.1249 INFO Get State List Success
+2021-05-28 10:00:39.4559 INFO Get User Success :mtp1
+2021-05-28 10:08:20.8841 INFO Get User Success :44-Administrator
+2021-05-28 10:08:21.1391 INFO Get User Success :44-Administrator
+2021-05-28 10:08:21.5281 INFO Get User Success :Admin
+2021-05-28 10:15:34.4886 INFO Get User Success :Admin
+2021-05-28 10:15:38.8914 INFO Get User Success :Admin
+2021-05-28 10:15:48.8027 INFO Get User Success :Admin
+2021-05-28 10:15:52.5335 INFO Get Users List Success
+2021-05-28 10:15:52.6545 INFO Get User Success :Admin
+2021-05-28 10:15:55.3644 INFO Org Get List Success
+2021-05-28 10:15:55.4613 INFO Get Party Master List Success
+2021-05-28 10:15:55.5583 INFO Get Role Level List Success
+2021-05-28 10:15:55.6333 INFO Get access_type List Success
+2021-05-28 10:15:55.7293 INFO Get view_Role_master List Success
+2021-05-28 10:15:55.8203 INFO Get State List Success
+2021-05-28 10:15:55.9113 INFO Get Dept List Success
+2021-05-28 10:15:56.0203 INFO Get Emp List Success
+2021-05-28 10:15:56.3072 INFO Get Users List Success
+2021-05-28 10:15:56.3982 INFO Get User Success :Admin
+2021-05-28 10:19:37.0003 INFO Get Users List Success
+2021-05-28 10:19:37.1202 INFO Get User Success :Admin
+2021-05-28 10:19:40.5000 INFO Org Get List Success
+2021-05-28 10:19:40.6270 INFO Get Party Master List Success
+2021-05-28 10:19:40.6980 INFO Get Role Level List Success
+2021-05-28 10:19:40.7700 INFO Get access_type List Success
+2021-05-28 10:19:40.8520 INFO Get view_Role_master List Success
+2021-05-28 10:19:40.9330 INFO Get State List Success
+2021-05-28 10:19:41.0000 INFO Get Dept List Success
+2021-05-28 10:19:41.0900 INFO Get Emp List Success
+2021-05-28 10:19:41.3580 INFO Get Users List Success
+2021-05-28 10:19:41.4590 INFO Get User Success :Admin
+2021-05-28 10:19:51.6957 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:19:51.9797 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:19:52.3167 INFO Get User Success :mtp1
+2021-05-28 10:19:57.2604 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:19:57.4174 INFO Get User Success :mtp1
+2021-05-28 10:20:00.6492 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:20:00.9592 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:20:01.0262 INFO Get License_Type List Success
+2021-05-28 10:20:01.1002 INFO Get License Fee List Success
+2021-05-28 10:20:01.1651 INFO Get State List Success
+2021-05-28 10:22:34.7104 INFO Get User Success :mtp1
+2021-05-28 10:24:51.7967 INFO Get User Success :353-M and TP Unit
+2021-05-28 10:24:53.5366 INFO Get License_Type List Success
+2021-05-28 10:24:53.5996 INFO Get License Fee List Success
+2021-05-28 10:24:53.7476 INFO Get State List Success
+2021-05-28 10:25:21.3398 INFO Get User Success :mtp1
+2021-05-28 11:12:41.1908 INFO Get Division List Success
+2021-05-28 11:13:11.7115 INFO Get License_Type List Success
+2021-05-28 11:22:22.5174 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:22:23.0915 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:22:23.4974 INFO Get User Success :mtp1
+2021-05-28 11:22:28.6601 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:22:28.9410 INFO Get User Success :mtp1
+2021-05-28 11:22:32.2489 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:22:32.6968 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:22:32.7868 INFO Get License_Type List Success
+2021-05-28 11:22:32.8808 INFO Get License Fee List Success
+2021-05-28 11:22:32.9788 INFO Get State List Success
+2021-05-28 11:22:33.2238 INFO Get User Success :mtp1
+2021-05-28 11:28:46.6191 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:28:46.7911 INFO Get User Success :mtp1
+2021-05-28 11:28:49.0990 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:28:49.5849 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:28:49.6649 INFO Get License_Type List Success
+2021-05-28 11:28:49.7669 INFO Get License Fee List Success
+2021-05-28 11:28:49.8509 INFO Get State List Success
+2021-05-28 11:37:32.7687 INFO Get User Success :mtp1
+2021-05-28 11:37:36.9834 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:37:37.1634 INFO Get User Success :mtp1
+2021-05-28 11:37:39.1543 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:37:39.5302 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:37:39.6082 INFO Get License_Type List Success
+2021-05-28 11:37:39.6972 INFO Get License Fee List Success
+2021-05-28 11:37:39.7913 INFO Get State List Success
+2021-05-28 11:38:59.5172 INFO Get User Success :mtp1
+2021-05-28 11:39:04.7278 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:39:04.8988 INFO Get User Success :mtp1
+2021-05-28 11:39:07.2237 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:39:07.6947 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:39:07.9207 INFO Get License_Type List Success
+2021-05-28 11:39:08.0067 INFO Get License Fee List Success
+2021-05-28 11:39:08.1006 INFO Get State List Success
+2021-05-28 11:39:18.8339 INFO Get User Success :mtp1
+2021-05-28 11:39:34.3204 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:39:34.5123 INFO Get User Success :mtp1
+2021-05-28 11:39:36.8625 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:39:37.3254 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:39:37.4254 INFO Get License_Type List Success
+2021-05-28 11:39:37.5264 INFO Get License Fee List Success
+2021-05-28 11:39:37.6454 INFO Get State List Success
+2021-05-28 11:40:14.7121 INFO Get User Success :mtp1
+2021-05-28 11:40:19.8977 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:40:20.0097 INFO Get License_Type List Success
+2021-05-28 11:40:20.1147 INFO Get License Fee List Success
+2021-05-28 11:40:20.2177 INFO Get State List Success
+2021-05-28 11:40:23.0126 INFO Get User Success :mtp1
+2021-05-28 11:51:03.6542 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:51:04.4161 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:51:04.9391 INFO Get User Success :mtp1
+2021-05-28 11:51:12.5456 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:51:12.9405 INFO Get User Success :mtp1
+2021-05-28 11:51:16.2483 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:51:16.7543 INFO Get User Success :353-M and TP Unit
+2021-05-28 11:51:16.8693 INFO Get License_Type List Success
+2021-05-28 11:51:17.0303 INFO Get License Fee List Success
+2021-05-28 11:51:17.1463 INFO Get State List Success
+2021-05-28 11:51:26.7317 INFO Get User Success :mtp1
+2021-05-28 12:03:47.4116 INFO Get User Success :353-M and TP Unit
+2021-05-28 12:04:03.3196 INFO Get User Success :353-M and TP Unit
+2021-05-28 12:04:03.9745 INFO Get User Success :mtp1
+2021-05-28 12:04:19.8965 INFO Get User Success :353-M and TP Unit
+2021-05-28 12:04:20.3095 INFO Get User Success :mtp1
+2021-05-28 15:03:36.6432 INFO Get User Success :353-M and TP Unit
+2021-05-28 15:03:50.8843 INFO Get User Success :353-M and TP Unit
+2021-05-28 15:03:51.7152 INFO Get User Success :mtp1
+2021-05-28 15:04:35.3175 INFO Get User Success :353-M and TP Unit
+2021-05-28 15:04:36.0464 INFO Get User Success :mtp1
+2021-05-28 15:39:56.0420 INFO Get User Success :353-M and TP Unit
+2021-05-28 15:39:56.7788 INFO Get User Success :353-M and TP Unit
+2021-05-28 15:39:56.9768 INFO Get License_Type List Success
+2021-05-28 15:39:57.1738 INFO Get License Fee List Success
+2021-05-28 15:39:57.3499 INFO Get State List Success
+2021-05-28 15:40:33.1385 INFO Get User Success :mtp1
+2021-05-28 15:41:07.9756 INFO Get Division List Success
+2021-05-28 15:41:36.1541 INFO Get License_Type List Success
+2021-05-28 16:55:42.0903 INFO Get User Success :353-M and TP Unit
+2021-05-28 16:55:42.7712 INFO Get User Success :353-M and TP Unit
+2021-05-28 16:55:43.3602 INFO Get User Success :mtp1
+2021-05-28 16:55:48.4769 INFO Get User Success :353-M and TP Unit
+2021-05-28 16:55:48.7128 INFO Get User Success :mtp1
+2021-05-28 16:55:52.0616 INFO Get User Success :353-M and TP Unit
+2021-05-28 16:55:52.4807 INFO Get User Success :353-M and TP Unit
+2021-05-28 16:55:52.6076 INFO Get License_Type List Success
+2021-05-28 16:55:52.7546 INFO Get License Fee List Success
+2021-05-28 16:55:53.0326 INFO Get State List Success
+2021-05-28 16:55:59.6612 INFO Get User Success :mtp1
+2021-05-28 16:56:22.7502 INFO Get Division List Success
+2021-05-28 16:56:44.8781 INFO Get License_Type List Success
+2021-05-28 17:18:20.8464 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:18:21.4504 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:18:22.0113 INFO Get User Success :mtp1
+2021-05-28 17:18:28.8899 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:32:44.4784 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:32:45.0883 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:32:45.6633 INFO Get User Success :mtp1
+2021-05-28 17:32:57.0056 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:32:57.2816 INFO Get User Success :mtp1
+2021-05-28 17:33:00.4784 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:33:00.9674 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:33:01.1664 INFO Get License_Type List Success
+2021-05-28 17:33:01.5914 INFO Get License Fee List Success
+2021-05-28 17:33:01.7183 INFO Get State List Success
+2021-05-28 17:34:38.8551 INFO Get User Success :mtp1
+2021-05-28 17:35:08.9101 INFO Get Division List Success
+2021-05-28 17:35:47.0783 INFO Get License_Type List Success
+2021-05-28 17:52:59.2779 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:52:59.7079 INFO Get User Success :mtp1
+2021-05-28 17:53:07.3945 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:53:07.7595 INFO Get User Success :353-M and TP Unit
+2021-05-28 17:53:07.8304 INFO Get License_Type List Success
+2021-05-28 17:53:07.9184 INFO Get License Fee List Success
+2021-05-28 17:53:07.9975 INFO Get State List Success
+2021-05-28 17:53:11.2892 INFO Get License_Type List Success
+2021-05-28 17:53:11.3702 INFO Get License_Type List Success
+2021-05-28 17:53:11.5592 INFO Get User Success :mtp1
+2021-05-28 18:22:49.3449 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:22:49.8948 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:22:50.4588 INFO Get User Success :mtp1
+2021-05-28 18:23:11.3535 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:23:11.7464 INFO Get User Success :mtp1
+2021-05-28 18:23:15.7962 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:23:16.2701 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:23:16.3721 INFO Get License_Type List Success
+2021-05-28 18:23:16.5211 INFO Get License Fee List Success
+2021-05-28 18:23:16.6152 INFO Get State List Success
+2021-05-28 18:30:27.4278 INFO Get User Success :mtp1
+2021-05-28 18:31:00.0257 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:31:00.2337 INFO Get User Success :mtp1
+2021-05-28 18:31:00.7247 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:31:00.9117 INFO Get User Success :mtp1
+2021-05-28 18:31:07.8242 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:31:08.1862 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:31:08.2802 INFO Get License_Type List Success
+2021-05-28 18:31:08.3792 INFO Get License Fee List Success
+2021-05-28 18:31:08.4692 INFO Get State List Success
+2021-05-28 18:31:14.2518 INFO Get License_Type List Success
+2021-05-28 18:31:37.1394 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:31:37.3663 INFO Get User Success :mtp1
+2021-05-28 18:37:10.1212 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:37:10.5747 INFO Get User Success :353-M and TP Unit
+2021-05-28 18:37:10.6897 INFO Get License_Type List Success
+2021-05-28 18:37:10.7976 INFO Get License Fee List Success
+2021-05-28 18:37:10.9047 INFO Get State List Success
+2021-05-28 18:37:14.0354 INFO Get License_Type List Success
+2021-05-28 19:34:03.8162 INFO Get License_Type List Success
+2021-05-28 19:34:04.3562 INFO Get User Success :mtp1
+2021-05-28 19:34:08.4809 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:34:08.7809 INFO Get User Success :mtp1
+2021-05-28 19:34:11.8877 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:34:12.3787 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:34:12.5086 INFO Get License_Type List Success
+2021-05-28 19:34:12.6316 INFO Get License Fee List Success
+2021-05-28 19:34:12.7477 INFO Get State List Success
+2021-05-28 19:34:17.5223 INFO Get User Success :mtp1
+2021-05-28 19:34:52.2562 INFO Get Division List Success
+2021-05-28 19:35:11.9569 INFO Get License_Type List Success
+2021-05-28 19:40:44.8957 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:40:45.1867 INFO Get User Success :mtp1
+2021-05-28 19:40:51.9403 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:40:52.4112 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:40:52.5292 INFO Get License_Type List Success
+2021-05-28 19:40:52.6553 INFO Get License Fee List Success
+2021-05-28 19:40:52.7652 INFO Get State List Success
+2021-05-28 19:40:57.5939 INFO Get User Success :mtp1
+2021-05-28 19:41:16.0783 INFO Get Division List Success
+2021-05-28 19:41:39.7861 INFO Get License_Type List Success
+2021-05-28 19:44:12.6463 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:12.9663 INFO Get User Success :mtp1
+2021-05-28 19:44:24.6276 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:25.4175 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:25.5485 INFO Get License_Type List Success
+2021-05-28 19:44:25.6825 INFO Get License Fee List Success
+2021-05-28 19:44:25.8225 INFO Get State List Success
+2021-05-28 19:44:29.1393 INFO Get License_Type List Success
+2021-05-28 19:44:29.2573 INFO Get License_Type List Success
+2021-05-28 19:44:29.5023 INFO Get User Success :mtp1
+2021-05-28 19:44:33.4531 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:33.7470 INFO Get User Success :mtp1
+2021-05-28 19:44:38.1437 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:38.5937 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:38.7207 INFO Get License_Type List Success
+2021-05-28 19:44:38.8446 INFO Get License Fee List Success
+2021-05-28 19:44:38.9576 INFO Get State List Success
+2021-05-28 19:44:41.6585 INFO Get License_Type List Success
+2021-05-28 19:44:41.7775 INFO Get License_Type List Success
+2021-05-28 19:44:42.0085 INFO Get User Success :mtp1
+2021-05-28 19:44:45.8062 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:46.1062 INFO Get User Success :mtp1
+2021-05-28 19:44:51.2399 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:51.6558 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:51.7888 INFO Get License_Type List Success
+2021-05-28 19:44:51.8998 INFO Get License Fee List Success
+2021-05-28 19:44:52.0029 INFO Get State List Success
+2021-05-28 19:44:54.7366 INFO Get License_Type List Success
+2021-05-28 19:44:54.8776 INFO Get License_Type List Success
+2021-05-28 19:44:55.1266 INFO Get User Success :mtp1
+2021-05-28 19:44:58.7214 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:44:58.9924 INFO Get User Success :mtp1
+2021-05-28 19:48:04.4526 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:48:05.1016 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:48:05.2246 INFO Get License_Type List Success
+2021-05-28 19:48:05.4415 INFO Get License Fee List Success
+2021-05-28 19:48:05.6595 INFO Get State List Success
+2021-05-28 19:50:48.9212 INFO Get License_Type List Success
+2021-05-28 19:50:49.0592 INFO Get License_Type List Success
+2021-05-28 19:50:49.4191 INFO Get User Success :mtp1
+2021-05-28 19:50:52.7519 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:50:53.0189 INFO Get User Success :mtp1
+2021-05-28 19:50:55.6527 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:50:56.1077 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:50:56.2327 INFO Get License_Type List Success
+2021-05-28 19:50:56.3527 INFO Get License Fee List Success
+2021-05-28 19:50:56.4967 INFO Get State List Success
+2021-05-28 19:50:59.9595 INFO Get User Success :mtp1
+2021-05-28 19:51:21.5744 INFO Get Division List Success
+2021-05-28 19:51:42.0716 INFO Get License_Type List Success
+2021-05-28 19:59:15.3428 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:59:15.5878 INFO Get User Success :mtp1
+2021-05-28 19:59:25.9001 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:59:26.2562 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:59:26.6641 INFO Get License_Type List Success
+2021-05-28 19:59:26.7691 INFO Get License Fee List Success
+2021-05-28 19:59:26.8521 INFO Get State List Success
+2021-05-28 19:59:30.0799 INFO Get License_Type List Success
+2021-05-28 19:59:30.1719 INFO Get License_Type List Success
+2021-05-28 19:59:30.3579 INFO Get User Success :mtp1
+2021-05-28 19:59:45.6179 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:59:45.8719 INFO Get User Success :mtp1
+2021-05-28 19:59:52.3935 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:59:52.9374 INFO Get User Success :353-M and TP Unit
+2021-05-28 19:59:53.0554 INFO Get License_Type List Success
+2021-05-28 19:59:53.1894 INFO Get License Fee List Success
+2021-05-28 19:59:53.3314 INFO Get State List Success
+2021-05-28 20:00:13.3421 INFO Get License_Type List Success
+2021-05-28 20:00:13.5401 INFO Get License_Type List Success
+2021-05-28 20:00:14.1291 INFO Get User Success :mtp1
+2021-05-28 20:00:16.6189 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:00:17.2099 INFO Get User Success :mtp1
+2021-05-28 20:00:20.6327 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:00:21.0356 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:00:21.1576 INFO Get License_Type List Success
+2021-05-28 20:00:21.2947 INFO Get License Fee List Success
+2021-05-28 20:00:21.4126 INFO Get State List Success
+2021-05-28 20:04:56.7331 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:04:57.5001 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:04:57.9791 INFO Get User Success :mtp1
+2021-05-28 20:05:03.1447 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:05:03.4327 INFO Get User Success :mtp1
+2021-05-28 20:05:09.3633 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:05:09.8623 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:05:10.0354 INFO Get License_Type List Success
+2021-05-28 20:05:10.2753 INFO Get License Fee List Success
+2021-05-28 20:05:10.3913 INFO Get State List Success
+2021-05-28 20:09:47.3521 INFO Get User Success :353-M and TP Unit
+2021-05-28 20:09:47.4811 INFO Get License_Type List Success
+2021-05-28 20:09:47.5981 INFO Get License Fee List Success
+2021-05-28 20:09:47.7320 INFO Get State List Success
+2021-05-28 20:09:52.8287 INFO Get License_Type List Success
+2021-05-28 20:09:53.0007 INFO Get License_Type List Success
+2021-05-28 20:09:53.3907 INFO Get User Success :mtp1

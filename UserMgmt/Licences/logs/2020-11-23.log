@@ -1,0 +1,591 @@
+2020-11-23 10:39:58.8759 INFO Get User Success :44-Administrator
+2020-11-23 10:40:02.8916 INFO Get Users List Success
+2020-11-23 10:40:02.9458 INFO Get User Success :44-Administrator
+2020-11-23 10:40:05.1586 INFO Org Get List Success
+2020-11-23 10:40:05.1665 INFO Get Party Master List Success
+2020-11-23 10:40:05.1665 INFO Get Role Level List Success
+2020-11-23 10:40:05.1665 INFO Get access_type List Success
+2020-11-23 10:40:05.1834 INFO Get view_Role_master List Success
+2020-11-23 10:40:05.1834 INFO Get State List Success
+2020-11-23 10:40:05.1834 INFO Get Dept List Success
+2020-11-23 10:40:05.1834 INFO Get Users List Success
+2020-11-23 10:40:05.1834 INFO Get User Success :44-Administrator
+2020-11-23 10:40:05.1990 INFO Get Division List Success
+2020-11-23 10:40:05.1990 INFO Get User Success :44-Administrator
+2020-11-23 10:40:33.1243 INFO Get Users List Success
+2020-11-23 10:40:33.1243 INFO Get User Success :44-Administrator
+2020-11-23 10:40:35.0885 INFO Org Get List Success
+2020-11-23 10:40:35.0885 INFO Get Party Master List Success
+2020-11-23 10:40:35.0885 INFO Get Role Level List Success
+2020-11-23 10:40:35.0885 INFO Get access_type List Success
+2020-11-23 10:40:35.0885 INFO Get view_Role_master List Success
+2020-11-23 10:40:35.0885 INFO Get State List Success
+2020-11-23 10:40:35.0885 INFO Get Dept List Success
+2020-11-23 10:40:35.1065 INFO Get Users List Success
+2020-11-23 10:40:35.1065 INFO Get User Success :44-Administrator
+2020-11-23 10:40:35.1065 INFO Get Division List Success
+2020-11-23 10:40:35.1065 INFO Get User Success :44-Administrator
+2020-11-23 10:40:46.1510 INFO Get Users List Success
+2020-11-23 10:40:46.1510 INFO Get User Success :44-Administrator
+2020-11-23 10:40:47.8704 INFO Org Get List Success
+2020-11-23 10:40:47.8704 INFO Get Party Master List Success
+2020-11-23 10:40:47.8704 INFO Get Role Level List Success
+2020-11-23 10:40:47.8704 INFO Get access_type List Success
+2020-11-23 10:40:47.8704 INFO Get view_Role_master List Success
+2020-11-23 10:40:47.8704 INFO Get State List Success
+2020-11-23 10:40:47.8704 INFO Get Dept List Success
+2020-11-23 10:40:47.8704 INFO Get Users List Success
+2020-11-23 10:40:47.8844 INFO Get User Success :44-Administrator
+2020-11-23 10:40:47.8844 INFO Get Division List Success
+2020-11-23 10:40:47.8844 INFO Get User Success :44-Administrator
+2020-11-23 10:48:51.8259 INFO Org Get List Success
+2020-11-23 10:48:51.8887 INFO Get User Success :44-Administrator
+2020-11-23 10:48:57.2558 INFO Module Get List Success
+2020-11-23 10:48:57.2607 INFO Org Get GetOrg_Details Success
+2020-11-23 10:48:57.2607 INFO Get User Success :44-Administrator
+2020-11-23 10:48:59.5697 INFO Org Get List Success
+2020-11-23 10:48:59.5724 INFO Get User Success :44-Administrator
+2020-11-23 10:49:20.7703 INFO GetFinacListValues Success
+2020-11-23 10:49:20.7769 INFO Get User Success :44-Administrator
+2020-11-23 10:49:22.1493 INFO Module Get List Success
+2020-11-23 10:49:22.1524 INFO Get User Success :44-Administrator
+2020-11-23 10:49:23.3945 INFO Get SubModule Sucess
+2020-11-23 10:49:23.3945 INFO Get User Success :44-Administrator
+2020-11-23 10:49:24.1067 INFO Get TabNames List Success
+2020-11-23 10:49:24.1067 INFO Get User Success :44-Administrator
+2020-11-23 10:49:28.0249 INFO Get State List Success
+2020-11-23 10:49:28.0249 INFO Get User Success :44-Administrator
+2020-11-23 10:49:30.4203 INFO Get Division List Success
+2020-11-23 10:49:30.4203 INFO Get User Success :44-Administrator
+2020-11-23 10:49:33.6724 INFO Get State List Success
+2020-11-23 10:49:33.6724 INFO Get User Success :44-Administrator
+2020-11-23 10:49:41.5138 INFO Get User Success :44-Administrator
+2020-11-23 10:49:44.7495 INFO Get Role Level List Success
+2020-11-23 10:49:44.7495 INFO Get User Success :44-Administrator
+2020-11-23 10:49:46.6887 INFO Get access_type List Success
+2020-11-23 10:49:46.6887 INFO Get User Success :44-Administrator
+2020-11-23 10:49:48.9915 INFO Get view_Role_master List Success
+2020-11-23 10:49:49.0022 INFO Get User Success :44-Administrator
+2020-11-23 10:49:52.4397 INFO Org Get List Success
+2020-11-23 10:49:52.4397 INFO Get Role Level List Success
+2020-11-23 10:49:52.4397 INFO Get access_type List Success
+2020-11-23 10:49:52.4397 INFO Get view_Role_master List Success
+2020-11-23 10:49:52.4477 INFO Get Users List Success
+2020-11-23 10:49:52.4477 INFO Get User Success :44-Administrator
+2020-11-23 10:49:55.1579 INFO Get access_type List Success
+2020-11-23 10:49:55.1579 INFO Get User Success :44-Administrator
+2020-11-23 10:49:55.8696 INFO Get Role Level List Success
+2020-11-23 10:49:55.8696 INFO Get User Success :44-Administrator
+2020-11-23 10:49:56.5098 INFO Get User Success :44-Administrator
+2020-11-23 10:49:57.6800 INFO Get Division List Success
+2020-11-23 10:49:57.6830 INFO Get User Success :44-Administrator
+2020-11-23 10:50:00.0817 INFO Get State List Success
+2020-11-23 10:50:00.0817 INFO Get User Success :44-Administrator
+2020-11-23 10:50:02.9998 INFO Get Role Level List Success
+2020-11-23 10:50:02.9998 INFO Get User Success :44-Administrator
+2020-11-23 10:50:03.4723 INFO Get User Success :44-Administrator
+2020-11-23 10:50:16.9580 INFO Get Division List Success
+2020-11-23 10:50:16.9580 INFO Get User Success :44-Administrator
+2020-11-23 10:50:17.3369 INFO Get State List Success
+2020-11-23 10:50:17.3389 INFO Get User Success :44-Administrator
+2020-11-23 10:59:24.7913 INFO Get State List Success
+2020-11-23 10:59:24.7913 INFO Get User Success :44-Administrator
+2020-11-23 10:59:38.2549 INFO Get Division List Success
+2020-11-23 10:59:38.2549 INFO Get User Success :44-Administrator
+2020-11-23 10:59:40.6192 INFO Get State List Success
+2020-11-23 10:59:40.6192 INFO Get User Success :44-Administrator
+2020-11-23 10:59:42.5123 INFO Get Division List Success
+2020-11-23 10:59:42.5123 INFO Get User Success :44-Administrator
+2020-11-23 10:59:46.7099 INFO Get State List Success
+2020-11-23 10:59:46.7129 INFO Get User Success :44-Administrator
+2020-11-23 10:59:48.5977 INFO Get User Success :44-Administrator
+2020-11-23 10:59:52.8944 INFO Get State List Success
+2020-11-23 10:59:52.8944 INFO Get User Success :44-Administrator
+2020-11-23 11:02:26.5190 INFO Get User Success :44-Administrator
+2020-11-23 11:06:23.7163 INFO Get view_Role_master List Success
+2020-11-23 11:06:23.7163 INFO Get User Success :44-Administrator
+2020-11-23 11:06:29.1445 INFO Get access_type List Success
+2020-11-23 11:06:29.1445 INFO Get User Success :44-Administrator
+2020-11-23 11:06:30.2535 INFO Get Role Level List Success
+2020-11-23 11:06:30.2535 INFO Get User Success :44-Administrator
+2020-11-23 11:06:30.8340 INFO Get User Success :44-Administrator
+2020-11-23 11:06:31.2661 INFO Get Division List Success
+2020-11-23 11:06:31.2661 INFO Get User Success :44-Administrator
+2020-11-23 11:06:31.7229 INFO Get State List Success
+2020-11-23 11:06:31.7229 INFO Get User Success :44-Administrator
+2020-11-23 11:26:31.1697 INFO Get User Success :44-Administrator
+2020-11-23 11:26:37.1656 INFO Get State List Success
+2020-11-23 11:26:37.1999 INFO Get User Success :44-Administrator
+2020-11-23 11:26:43.5080 INFO Get Division List Success
+2020-11-23 11:26:43.5160 INFO Get User Success :44-Administrator
+2020-11-23 11:26:45.7688 INFO Get User Success :44-Administrator
+2020-11-23 11:28:12.1064 INFO Get User Success :44-Administrator
+2020-11-23 11:28:20.6269 INFO Get State List Success
+2020-11-23 11:28:20.6646 INFO Get User Success :44-Administrator
+2020-11-23 11:28:24.5092 INFO Get Division List Success
+2020-11-23 11:28:24.5092 INFO Get User Success :44-Administrator
+2020-11-23 11:28:30.2878 INFO Get State List Success
+2020-11-23 11:28:30.2907 INFO Get User Success :44-Administrator
+2020-11-23 11:28:38.7783 INFO Get User Success :44-Administrator
+2020-11-23 11:28:41.8407 INFO Get State List Success
+2020-11-23 11:28:41.8407 INFO Get User Success :44-Administrator
+2020-11-23 11:30:58.8027 INFO Get State List Success
+2020-11-23 11:30:58.8027 INFO Get User Success :44-Administrator
+2020-11-23 11:31:02.9297 INFO Get Party Type Master List Success
+2020-11-23 11:31:02.9337 INFO Get User Success :44-Administrator
+2020-11-23 11:31:04.4187 INFO Get Product Type Master List Success
+2020-11-23 11:31:04.4187 INFO Get User Success :44-Administrator
+2020-11-23 11:31:05.7901 INFO Get User Success :44-Administrator
+2020-11-23 11:36:48.6576 INFO Get User Success :44-Administrator
+2020-11-23 11:36:55.0031 INFO Get State List Success
+2020-11-23 11:36:55.0383 INFO Get User Success :44-Administrator
+2020-11-23 11:37:15.4921 INFO Get Division List Success
+2020-11-23 11:37:15.5001 INFO Get User Success :44-Administrator
+2020-11-23 11:37:16.8897 INFO Get State List Success
+2020-11-23 11:37:16.8897 INFO Get User Success :44-Administrator
+2020-11-23 11:37:21.3194 INFO Get Existing data Fail :Division_Master
+2020-11-23 11:37:25.7202 INFO Get Existing data Fail :Division_Master
+2020-11-23 11:37:28.3700 INFO Insert Division Success :TI-Tirhut
+2020-11-23 11:37:28.4031 INFO Get Division List Success
+2020-11-23 11:37:28.4031 INFO Get User Success :44-Administrator
+2020-11-23 11:37:30.4131 INFO Get User Success :44-Administrator
+2020-11-23 11:37:44.6333 INFO Get State List Success
+2020-11-23 11:37:44.6363 INFO Get User Success :44-Administrator
+2020-11-23 11:37:46.4714 INFO Get Division List Success
+2020-11-23 11:37:51.3531 INFO Get Existing data Fail :District_Master
+2020-11-23 11:37:53.7341 INFO Get Existing data Fail :District_Master
+2020-11-23 11:37:59.1175 INFO Insert District Success :WC-West Champaran
+2020-11-23 11:37:59.1649 INFO Get User Success :44-Administrator
+2020-11-23 11:39:42.3742 INFO Get Party Type Master List Success
+2020-11-23 11:39:42.3742 INFO Get User Success :44-Administrator
+2020-11-23 11:39:46.0952 INFO Get User Success :44-Administrator
+2020-11-23 11:45:00.7220 INFO Get Product Type Master List Success
+2020-11-23 11:45:00.7321 INFO Get User Success :44-Administrator
+2020-11-23 11:45:07.4696 INFO Get User Success :44-Administrator
+2020-11-23 11:45:11.3141 INFO Get Existing data Fail :product_type_master-22P02: invalid input syntax for integer: "MOL"
+2020-11-23 11:45:20.6953 INFO Insert Product Type Master Success:MOL-Molasses-22P02: invalid input syntax for integer: "MOL"
+2020-11-23 12:27:34.7087 INFO Get User Success :44-Administrator
+2020-11-23 12:27:43.2006 INFO Get Users List Success
+2020-11-23 12:27:43.2353 INFO Get User Success :44-Administrator
+2020-11-23 13:03:11.1325 INFO Get User Success :44-Administrator
+2020-11-23 13:03:16.6026 INFO Get State List Success
+2020-11-23 13:03:16.6356 INFO Get User Success :44-Administrator
+2020-11-23 13:03:17.8987 INFO Get User Success :44-Administrator
+2020-11-23 13:03:21.5038 INFO Get State List Success
+2020-11-23 13:03:21.5038 INFO Get Division List Success
+2020-11-23 13:12:28.3007 INFO Get User Success :44-Administrator
+2020-11-23 13:12:37.8987 INFO Get State List Success
+2020-11-23 13:12:37.9319 INFO Get User Success :44-Administrator
+2020-11-23 13:12:39.4867 INFO Get User Success :44-Administrator
+2020-11-23 13:12:41.4679 INFO Get State List Success
+2020-11-23 13:12:41.4679 INFO Get Division List Success
+2020-11-23 13:12:41.4800 INFO Get User Success :44-Administrator
+2020-11-23 13:13:08.1703 INFO Get User Success :44-Administrator
+2020-11-23 13:13:11.4735 INFO Get State List Success
+2020-11-23 13:13:11.4735 INFO Get Division List Success
+2020-11-23 13:13:11.4808 INFO Get User Success :44-Administrator
+2020-11-23 13:13:15.5852 INFO Get User Success :44-Administrator
+2020-11-23 14:17:08.5836 INFO Get User Success :44-Administrator
+2020-11-23 14:17:12.9162 INFO Org Get List Success
+2020-11-23 14:17:12.9545 INFO Get User Success :44-Administrator
+2020-11-23 14:17:17.1523 INFO GetFinacListValues Success
+2020-11-23 14:17:17.1523 INFO Get User Success :44-Administrator
+2020-11-23 14:17:18.4041 INFO Module Get List Success
+2020-11-23 14:17:18.4041 INFO Get User Success :44-Administrator
+2020-11-23 14:17:19.9510 INFO Get SubModule Sucess
+2020-11-23 14:17:19.9510 INFO Get User Success :44-Administrator
+2020-11-23 14:18:14.9422 INFO Org Get List Success
+2020-11-23 14:18:14.9422 INFO Get User Success :44-Administrator
+2020-11-23 14:18:16.3470 INFO GetFinacListValues Success
+2020-11-23 14:18:16.3470 INFO Get User Success :44-Administrator
+2020-11-23 14:18:17.4032 INFO Module Get List Success
+2020-11-23 14:18:17.4032 INFO Get User Success :44-Administrator
+2020-11-23 14:18:19.3222 INFO Get SubModule Sucess
+2020-11-23 14:18:19.3222 INFO Get User Success :44-Administrator
+2020-11-23 14:18:23.6054 INFO Get TabNames List Success
+2020-11-23 14:18:23.6054 INFO Get User Success :44-Administrator
+2020-11-23 14:18:28.0539 INFO Get State List Success
+2020-11-23 14:18:28.0619 INFO Get User Success :44-Administrator
+2020-11-23 14:18:31.3376 INFO Get Division List Success
+2020-11-23 14:18:31.3376 INFO Get User Success :44-Administrator
+2020-11-23 14:18:33.7200 INFO Get User Success :44-Administrator
+2020-11-23 14:18:35.5086 INFO Get User Success :44-Administrator
+2020-11-23 14:18:41.7661 INFO Get Role Level List Success
+2020-11-23 14:18:41.7661 INFO Get User Success :44-Administrator
+2020-11-23 14:18:50.8379 INFO Get Role Level List Success
+2020-11-23 14:18:50.8379 INFO Get User Success :44-Administrator
+2020-11-23 14:19:21.6584 INFO Get User Success :44-Administrator
+2020-11-23 14:19:33.4004 INFO Get User Success :44-Administrator
+2020-11-23 14:19:34.8454 INFO Get Role Level List Success
+2020-11-23 14:19:34.8454 INFO Get User Success :44-Administrator
+2020-11-23 14:19:38.5248 INFO Get User Success :44-Administrator
+2020-11-23 14:20:35.8641 INFO Get User Success :44-Administrator
+2020-11-23 14:20:38.1284 INFO Get User Success :44-Administrator
+2020-11-23 14:20:40.3420 INFO Get User Success :44-Administrator
+2020-11-23 14:20:41.1735 INFO Get User Success :44-Administrator
+2020-11-23 14:20:41.7115 INFO Get User Success :44-Administrator
+2020-11-23 14:20:42.0760 INFO Get User Success :44-Administrator
+2020-11-23 14:20:43.2805 INFO Get User Success :44-Administrator
+2020-11-23 14:20:44.7484 INFO Get Division List Success
+2020-11-23 14:20:44.7484 INFO Get User Success :44-Administrator
+2020-11-23 14:20:45.6682 INFO Get User Success :44-Administrator
+2020-11-23 14:20:46.2366 INFO Get User Success :44-Administrator
+2020-11-23 14:20:55.0676 INFO Get User Success :44-Administrator
+2020-11-23 14:21:10.7560 INFO Get Role Level List Success
+2020-11-23 14:21:10.7560 INFO Get User Success :44-Administrator
+2020-11-23 14:22:18.1261 INFO Get User Success :44-Administrator
+2020-11-23 14:22:22.5537 INFO Get State List Success
+2020-11-23 14:22:22.5906 INFO Get User Success :44-Administrator
+2020-11-23 14:22:25.0363 INFO Get User Success :44-Administrator
+2020-11-23 14:22:29.9829 INFO Get access_type List Success
+2020-11-23 14:22:29.9829 INFO Get User Success :44-Administrator
+2020-11-23 14:22:32.3849 INFO Get Role Level List Success
+2020-11-23 14:22:32.3849 INFO Get User Success :44-Administrator
+2020-11-23 14:22:32.9014 INFO Get view_Role_master List Success
+2020-11-23 14:22:32.9014 INFO Get User Success :44-Administrator
+2020-11-23 14:22:35.3687 INFO Get User Success :44-Administrator
+2020-11-23 14:22:36.3818 INFO Get view_Role_master List Success
+2020-11-23 14:22:36.3908 INFO Get User Success :44-Administrator
+2020-11-23 14:22:36.7418 INFO Get User Success :44-Administrator
+2020-11-23 14:22:37.5234 INFO Get User Success :44-Administrator
+2020-11-23 14:22:38.7442 INFO Get State List Success
+2020-11-23 14:22:38.7442 INFO Get User Success :44-Administrator
+2020-11-23 14:22:39.9552 INFO Get User Success :44-Administrator
+2020-11-23 14:22:40.4598 INFO Get User Success :44-Administrator
+2020-11-23 14:22:40.8014 INFO Get Role Level List Success
+2020-11-23 14:22:40.8124 INFO Get User Success :44-Administrator
+2020-11-23 14:22:41.0478 INFO Get Division List Success
+2020-11-23 14:22:41.0568 INFO Get User Success :44-Administrator
+2020-11-23 14:22:41.3138 INFO Get access_type List Success
+2020-11-23 14:22:41.3138 INFO Get User Success :44-Administrator
+2020-11-23 14:22:41.5362 INFO Get Division List Success
+2020-11-23 14:22:41.5362 INFO Get User Success :44-Administrator
+2020-11-23 14:22:41.8792 INFO Get view_Role_master List Success
+2020-11-23 14:22:41.8792 INFO Get User Success :44-Administrator
+2020-11-23 14:22:43.7753 INFO Get access_type List Success
+2020-11-23 14:22:43.7753 INFO Get User Success :44-Administrator
+2020-11-23 14:23:02.2058 INFO Get access_type List Success
+2020-11-23 14:23:02.2058 INFO Get User Success :44-Administrator
+2020-11-23 14:23:03.4582 INFO Get Role Level List Success
+2020-11-23 14:23:03.4582 INFO Get User Success :44-Administrator
+2020-11-23 14:23:04.2218 INFO Get User Success :44-Administrator
+2020-11-23 14:23:05.1479 INFO Get User Success :44-Administrator
+2020-11-23 14:23:05.6526 INFO Get Role Level List Success
+2020-11-23 14:23:05.6526 INFO Get User Success :44-Administrator
+2020-11-23 14:23:07.0421 INFO Get view_Role_master List Success
+2020-11-23 14:23:07.0421 INFO Get User Success :44-Administrator
+2020-11-23 14:23:08.0051 INFO Get State List Success
+2020-11-23 14:23:08.0051 INFO Get User Success :44-Administrator
+2020-11-23 14:23:20.2789 INFO Get Role Level List Success
+2020-11-23 14:23:20.2789 INFO Get User Success :44-Administrator
+2020-11-23 14:23:27.5365 INFO Get State List Success
+2020-11-23 14:23:27.5365 INFO Get User Success :44-Administrator
+2020-11-23 14:23:29.4071 INFO Get access_type List Success
+2020-11-23 14:23:29.4071 INFO Get User Success :44-Administrator
+2020-11-23 14:23:30.3530 INFO Get view_Role_master List Success
+2020-11-23 14:23:30.3530 INFO Get User Success :44-Administrator
+2020-11-23 14:23:31.6471 INFO Get access_type List Success
+2020-11-23 14:23:31.6501 INFO Get User Success :44-Administrator
+2020-11-23 14:23:32.0825 INFO Get Role Level List Success
+2020-11-23 14:23:32.0825 INFO Get User Success :44-Administrator
+2020-11-23 14:23:32.5302 INFO Get User Success :44-Administrator
+2020-11-23 14:23:32.9432 INFO Get User Success :44-Administrator
+2020-11-23 14:23:33.3571 INFO Get Division List Success
+2020-11-23 14:23:33.3571 INFO Get User Success :44-Administrator
+2020-11-23 14:23:33.8199 INFO Get State List Success
+2020-11-23 14:23:33.8229 INFO Get User Success :44-Administrator
+2020-11-23 14:23:34.1770 INFO Get Division List Success
+2020-11-23 14:23:34.1770 INFO Get User Success :44-Administrator
+2020-11-23 14:23:34.5960 INFO Get User Success :44-Administrator
+2020-11-23 14:23:35.0995 INFO Get User Success :44-Administrator
+2020-11-23 14:23:35.4914 INFO Get Role Level List Success
+2020-11-23 14:23:35.4914 INFO Get User Success :44-Administrator
+2020-11-23 14:23:35.9715 INFO Get access_type List Success
+2020-11-23 14:23:35.9715 INFO Get User Success :44-Administrator
+2020-11-23 14:23:36.6627 INFO Get view_Role_master List Success
+2020-11-23 14:23:36.6667 INFO Get User Success :44-Administrator
+2020-11-23 14:23:37.8763 INFO Org Get List Success
+2020-11-23 14:23:37.8763 INFO Get Role Level List Success
+2020-11-23 14:23:37.8842 INFO Get access_type List Success
+2020-11-23 14:23:37.8842 INFO Get view_Role_master List Success
+2020-11-23 14:23:37.8842 INFO Get User Success :44-Administrator
+2020-11-23 14:23:39.8563 INFO Get view_Role_master List Success
+2020-11-23 14:23:39.8563 INFO Get User Success :44-Administrator
+2020-11-23 14:23:41.1715 INFO Org Get List Success
+2020-11-23 14:23:41.1715 INFO Get Role Level List Success
+2020-11-23 14:23:41.1715 INFO Get access_type List Success
+2020-11-23 14:23:41.1715 INFO Get view_Role_master List Success
+2020-11-23 14:23:41.1715 INFO Get User Success :44-Administrator
+2020-11-23 14:23:42.1906 INFO Get User Success :44-Administrator
+2020-11-23 14:23:43.6951 INFO Get access_type List Success
+2020-11-23 14:23:43.6981 INFO Get User Success :44-Administrator
+2020-11-23 14:24:10.7659 INFO Get access_type List Success
+2020-11-23 14:24:10.7659 INFO Get User Success :44-Administrator
+2020-11-23 14:24:20.1880 INFO Get access_type List Success
+2020-11-23 14:24:20.1880 INFO Get User Success :44-Administrator
+2020-11-23 14:25:29.0217 INFO Get User Success :44-Administrator
+2020-11-23 14:25:32.6691 INFO Get State List Success
+2020-11-23 14:25:32.7057 INFO Get User Success :44-Administrator
+2020-11-23 14:25:36.3613 INFO Get access_type List Success
+2020-11-23 14:25:36.3613 INFO Get User Success :44-Administrator
+2020-11-23 14:25:37.7241 INFO Get MaxID Success :access_type_master
+2020-11-23 14:25:37.7241 INFO Get User Success :44-Administrator
+2020-11-23 14:25:39.5514 INFO Get view_Role_master List Success
+2020-11-23 14:25:39.6140 INFO Get User Success :44-Administrator
+2020-11-23 14:25:41.1216 INFO Org Get List Success
+2020-11-23 14:25:41.1216 INFO Get Role Level List Success
+2020-11-23 14:25:41.1216 INFO Get access_type List Success
+2020-11-23 14:25:41.1216 INFO Get view_Role_master List Success
+2020-11-23 14:25:41.1356 INFO Get User Success :44-Administrator
+2020-11-23 14:25:42.2782 INFO Get Role Level List Success
+2020-11-23 14:25:42.2782 INFO Get User Success :44-Administrator
+2020-11-23 14:25:43.3071 INFO Get User Success :44-Administrator
+2020-11-23 14:25:44.4271 INFO Get User Success :44-Administrator
+2020-11-23 14:25:45.4079 INFO Get State List Success
+2020-11-23 14:25:45.4079 INFO Get Division List Success
+2020-11-23 14:25:45.4179 INFO Get User Success :44-Administrator
+2020-11-23 14:25:46.3724 INFO Get User Success :44-Administrator
+2020-11-23 14:25:47.4373 INFO Get State List Success
+2020-11-23 14:25:47.4373 INFO Get User Success :44-Administrator
+2020-11-23 14:25:49.9800 INFO Get Division List Success
+2020-11-23 14:25:49.9800 INFO Get User Success :44-Administrator
+2020-11-23 14:25:51.0865 INFO Get State List Success
+2020-11-23 14:25:51.0895 INFO Get User Success :44-Administrator
+2020-11-23 14:25:52.1774 INFO Get State List Success
+2020-11-23 14:25:52.1774 INFO Get User Success :44-Administrator
+2020-11-23 14:25:53.1971 INFO Get User Success :44-Administrator
+2020-11-23 14:30:58.9466 INFO Get User Success :44-Administrator
+2020-11-23 14:31:02.5127 INFO Get State List Success
+2020-11-23 14:31:02.5493 INFO Get User Success :44-Administrator
+2020-11-23 14:31:05.1802 INFO Get view_Role_master List Success
+2020-11-23 14:31:05.1917 INFO Get User Success :44-Administrator
+2020-11-23 14:31:07.5512 INFO Org Get List Success
+2020-11-23 14:31:07.5568 INFO Get Role Level List Success
+2020-11-23 14:31:07.5568 INFO Get access_type List Success
+2020-11-23 14:31:07.5568 INFO Get view_Role_master List Success
+2020-11-23 14:31:07.5568 INFO Get Users List Success
+2020-11-23 14:31:07.5568 INFO Get User Success :44-Administrator
+2020-11-23 14:31:11.3173 INFO Get State List Success
+2020-11-23 14:31:11.3173 INFO Get User Success :44-Administrator
+2020-11-23 14:31:13.1189 INFO Get User Success :44-Administrator
+2020-11-23 14:31:14.7987 INFO Get Division List Success
+2020-11-23 14:31:14.8061 INFO Get User Success :44-Administrator
+2020-11-23 14:31:16.2700 INFO Get State List Success
+2020-11-23 14:31:16.2700 INFO Get User Success :44-Administrator
+2020-11-23 14:31:18.1065 INFO Get User Success :44-Administrator
+2020-11-23 14:31:19.1232 INFO Get State List Success
+2020-11-23 14:31:19.1232 INFO Get User Success :44-Administrator
+2020-11-23 14:31:21.4811 INFO Get User Success :44-Administrator
+2020-11-23 14:31:23.0071 INFO Get State List Success
+2020-11-23 14:31:23.0091 INFO Get Division List Success
+2020-11-23 14:31:23.0091 INFO Get User Success :44-Administrator
+2020-11-23 14:31:27.3681 INFO Get Role Level List Success
+2020-11-23 14:31:27.3739 INFO Get User Success :44-Administrator
+2020-11-23 14:31:31.0815 INFO Get User Success :44-Administrator
+2020-11-23 14:31:32.9796 INFO Get access_type List Success
+2020-11-23 14:31:32.9796 INFO Get User Success :44-Administrator
+2020-11-23 14:31:34.3991 INFO Get MaxID Success :access_type_master
+2020-11-23 14:31:34.4021 INFO Get User Success :44-Administrator
+2020-11-23 14:31:40.1727 INFO Org Get List Success
+2020-11-23 14:31:40.1727 INFO Get User Success :44-Administrator
+2020-11-23 14:31:42.0538 INFO Get User Success :44-Administrator
+2020-11-23 14:31:43.7722 INFO GetFinacListValues Success
+2020-11-23 14:31:43.7780 INFO Get User Success :44-Administrator
+2020-11-23 14:31:45.3800 INFO Get OrgNames in Financial Form Success
+2020-11-23 14:31:45.3842 INFO Get User Success :44-Administrator
+2020-11-23 14:31:47.3381 INFO Module Get List Success
+2020-11-23 14:31:47.3381 INFO Get User Success :44-Administrator
+2020-11-23 14:31:48.4555 INFO Org Get List Success
+2020-11-23 14:31:48.4555 INFO Get User Success :44-Administrator
+2020-11-23 14:31:50.6560 INFO Get SubModule Sucess
+2020-11-23 14:31:50.6560 INFO Get User Success :44-Administrator
+2020-11-23 14:31:51.5208 INFO Org Get List Success
+2020-11-23 14:31:51.5208 INFO Get User Success :44-Administrator
+2020-11-23 14:31:53.1248 INFO Get TabNames List Success
+2020-11-23 14:31:53.1248 INFO Get User Success :44-Administrator
+2020-11-23 14:31:54.2593 INFO Org Get List Success
+2020-11-23 14:31:54.2593 INFO Module Get List Success
+2020-11-23 14:31:54.2593 INFO Get User Success :44-Administrator
+2020-11-23 14:31:58.2264 INFO Get RolePermissions List Success
+2020-11-23 14:31:58.2334 INFO Get User Success :44-Administrator
+2020-11-23 14:31:59.7048 INFO Org Get List Success
+2020-11-23 14:31:59.7123 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:31:59.7123 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:31:59.7123 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:31:59.7279 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:31:59.7279 INFO Get ViewModel Success 
+2020-11-23 14:31:59.7586 INFO Get view_Role_master List Success
+2020-11-23 14:31:59.7613 INFO Get GetMaxID Success : role_permission
+2020-11-23 14:31:59.7613 INFO Get User Success :44-Administrator
+2020-11-23 14:32:02.4115 INFO Get Single User Details Success
+2020-11-23 14:32:02.4185 INFO Get User Success :44-Administrator
+2020-11-23 14:32:03.4446 INFO Get Single User Details Success
+2020-11-23 14:32:03.4880 INFO Org Get List Success
+2020-11-23 14:32:03.4880 INFO Get view_Role_master List Success
+2020-11-23 14:32:03.4880 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:32:03.4939 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:32:03.4939 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:32:03.4939 INFO Get Module_master In ViewModel Success 
+2020-11-23 14:32:03.4939 INFO Get ViewModel Success 
+2020-11-23 14:32:03.4939 INFO Get GetMaxID Success : user_permission
+2020-11-23 14:32:03.4939 INFO Get User Success :44-Administrator
+2020-11-23 14:32:03.6612 INFO Get User Permission  Success
+2020-11-23 14:32:09.3166 INFO Get Users List Success
+2020-11-23 14:32:09.3241 INFO Get User Success :44-Administrator
+2020-11-23 14:32:10.9670 INFO Org Get List Success
+2020-11-23 14:32:10.9670 INFO Get Party Master List Success
+2020-11-23 14:32:10.9670 INFO Get Role Level List Success
+2020-11-23 14:32:10.9670 INFO Get access_type List Success
+2020-11-23 14:32:10.9784 INFO Get view_Role_master List Success
+2020-11-23 14:32:10.9784 INFO Get State List Success
+2020-11-23 14:32:10.9784 INFO Get Dept List Success
+2020-11-23 14:32:10.9784 INFO Get Users List Success
+2020-11-23 14:32:10.9784 INFO Get User Success :44-Administrator
+2020-11-23 14:32:16.3094 INFO Get State List Success
+2020-11-23 14:32:16.3094 INFO Get User Success :44-Administrator
+2020-11-23 15:29:14.6696 INFO Get User Success :44-Administrator
+2020-11-23 15:29:16.8124 INFO Get Party Type Master List Success
+2020-11-23 15:29:16.8543 INFO Get User Success :44-Administrator
+2020-11-23 15:29:26.0452 INFO Get Party Master List Success
+2020-11-23 15:29:26.0452 INFO Get User Success :44-Administrator
+2020-11-23 15:29:38.7269 INFO Get Party Type Master List Success
+2020-11-23 15:29:38.7649 INFO Get Party Master Details Success :Field not found in row: financialyear
+2020-11-23 15:29:38.7649 INFO Get User Success :44-Administrator
+2020-11-23 15:30:20.0824 INFO GetFinacListValues Success
+2020-11-23 15:31:03.9623 INFO GetFinacListValues Success
+2020-11-23 15:31:43.3890 INFO Get Party Master List Success
+2020-11-23 15:31:43.3890 INFO GetFinacListValues Success
+2020-11-23 15:31:58.0269 INFO Get Party Master List Success
+2020-11-23 15:32:16.2507 INFO GetFinacListValues Success
+2020-11-23 15:33:23.8129 INFO Get Product Type Master List Success
+2020-11-23 15:33:23.8129 INFO Get User Success :44-Administrator
+2020-11-23 15:33:25.6757 INFO Get Product Master List Success
+2020-11-23 15:33:25.6757 INFO Get User Success :44-Administrator
+2020-11-23 15:33:27.4702 INFO Get Product Master List Success
+2020-11-23 15:33:27.4702 INFO Get User Success :44-Administrator
+2020-11-23 15:33:29.5625 INFO Get Product Type Master List Success
+2020-11-23 15:33:29.5625 INFO Get User Success :44-Administrator
+2020-11-23 15:33:32.0589 INFO Get UOM List Success
+2020-11-23 15:33:32.0589 INFO Get User Success :44-Administrator
+2020-11-23 15:33:33.3033 INFO Get UOM List Success
+2020-11-23 15:33:33.3064 INFO Get User Success :44-Administrator
+2020-11-23 15:33:34.5472 INFO Get User Success :44-Administrator
+2020-11-23 15:33:35.7269 INFO Get User Success :44-Administrator
+2020-11-23 15:33:37.8315 INFO Get User Success :44-Administrator
+2020-11-23 15:33:38.9008 INFO Get VAT Type Master List Success
+2020-11-23 15:33:38.9008 INFO Get User Success :44-Administrator
+2020-11-23 15:33:40.9780 INFO Get User Success :44-Administrator
+2020-11-23 15:33:47.7519 INFO Get User Success :44-Administrator
+2020-11-23 15:33:56.5182 INFO Get Party Type Master List Success
+2020-11-23 15:33:56.5182 INFO Get UOM List Success
+2020-11-23 15:33:56.5182 INFO Get Product Type Master List Success
+2020-11-23 15:33:56.5182 INFO Get VAT Type Master List Success
+2020-11-23 15:33:56.5262 INFO Get User Success :44-Administrator
+2020-11-23 15:34:06.9937 INFO Get Party Master List Success
+2020-11-23 15:34:39.1452 INFO Get Dispach Master List Success
+2020-11-23 15:34:39.1522 INFO Get User Success :44-Administrator
+2020-11-23 15:34:40.9768 INFO Get Dispach Master List Success
+2020-11-23 15:34:41.0217 INFO Get User Success :44-Administrator
+2020-11-23 15:34:43.5196 INFO Get Dispach Master List Success
+2020-11-23 15:34:43.5196 INFO Get User Success :44-Administrator
+2020-11-23 15:34:52.3206 INFO Get Dispach Master List Success
+2020-11-23 15:34:52.3427 INFO Get User Success :44-Administrator
+2020-11-23 15:34:55.3620 INFO Get Dispach Master List Success
+2020-11-23 15:34:55.3620 INFO Get User Success :44-Administrator
+2020-11-23 15:35:04.3884 INFO Get Dispach Master List Success
+2020-11-23 15:35:04.4082 INFO Get User Success :44-Administrator
+2020-11-23 15:35:25.5480 INFO Get Dispach Master List Success
+2020-11-23 15:35:25.5570 INFO Get User Success :44-Administrator
+2020-11-23 15:35:26.8426 INFO Get Dispach Master List Success
+2020-11-23 15:35:26.8606 INFO Get User Success :44-Administrator
+2020-11-23 15:35:28.7783 INFO Get Dispach Master List Success
+2020-11-23 15:35:28.7783 INFO Get User Success :44-Administrator
+2020-11-23 15:35:30.2120 INFO Get Dispach Master List Success
+2020-11-23 15:35:30.2329 INFO Get User Success :44-Administrator
+2020-11-23 15:35:31.7737 INFO Get Dispach Master List Success
+2020-11-23 15:35:31.7757 INFO Get User Success :44-Administrator
+2020-11-23 15:35:32.9470 INFO Get Dispach Master List Success
+2020-11-23 15:35:32.9660 INFO Get User Success :44-Administrator
+2020-11-23 15:35:39.4821 INFO Get Party Type Master List Success
+2020-11-23 15:35:39.4821 INFO Get User Success :44-Administrator
+2020-11-23 15:35:41.9264 INFO Get Party Master List Success
+2020-11-23 15:35:41.9264 INFO Get User Success :44-Administrator
+2020-11-23 15:37:03.7241 INFO Get Party Master List Success
+2020-11-23 15:37:03.7241 INFO Get User Success :44-Administrator
+2020-11-23 15:37:12.4108 INFO Get Party Master List Success
+2020-11-23 15:37:12.4108 INFO Get User Success :44-Administrator
+2020-11-23 15:37:14.0268 INFO Get Party Type Master List Success
+2020-11-23 15:37:14.0268 INFO Get User Success :44-Administrator
+2020-11-23 15:37:15.8659 INFO GetFinacListValues Success
+2020-11-23 15:37:18.4095 INFO GetFinacListValues Success
+2020-11-23 15:37:18.4351 INFO Get Party Master List Success
+2020-11-23 15:37:18.4351 INFO GetFinacListValues Success
+2020-11-23 15:49:38.5279 INFO Get User Success :44-Administrator
+2020-11-23 15:49:41.5476 INFO Get Party Type Master List Success
+2020-11-23 15:49:41.5806 INFO Get User Success :44-Administrator
+2020-11-23 15:49:44.4862 INFO Get Party Master List Success
+2020-11-23 15:49:44.4941 INFO Get User Success :44-Administrator
+2020-11-23 15:49:46.3389 INFO Get Party Type Master List Success
+2020-11-23 15:49:46.3738 INFO Get Party Master Details Success :Field not found in row: financialyear
+2020-11-23 15:49:46.3738 INFO Get Party Master List Success
+2020-11-23 15:49:46.3738 INFO GetFinacListValues Success
+2020-11-23 15:49:46.3877 INFO Get User Success :44-Administrator
+2020-11-23 15:49:58.6912 INFO Get Party Master List Success
+2020-11-23 15:49:58.6912 INFO Get User Success :44-Administrator
+2020-11-23 15:49:59.7462 INFO Get Party Type Master List Success
+2020-11-23 15:49:59.7632 INFO Get Party Master Details Success :Field not found in row: financialyear
+2020-11-23 15:50:20.3882 INFO Get Party Master List Success
+2020-11-23 15:50:34.3135 INFO GetFinacListValues Success
+2020-11-23 15:51:33.2155 INFO Get User Success :44-Administrator
+2020-11-23 15:51:40.5899 INFO GetFinacListValues Success
+2020-11-23 15:51:45.5043 INFO GetFinacListValues Success
+2020-11-23 15:51:48.9144 INFO Get Party Master List Success
+2020-11-23 15:51:48.9174 INFO Get User Success :44-Administrator
+2020-11-23 15:51:49.9734 INFO Get Party Type Master List Success
+2020-11-23 15:51:49.9913 INFO Get Party Master Details Success :Field not found in row: financialyear
+2020-11-23 15:51:49.9943 INFO Get Party Master List Success
+2020-11-23 15:51:49.9943 INFO GetFinacListValues Success
+2020-11-23 15:51:49.9943 INFO Get User Success :44-Administrator
+2020-11-23 15:52:00.9093 INFO Get Party Master List Success
+2020-11-23 15:52:00.9093 INFO Get User Success :44-Administrator
+2020-11-23 15:52:03.4452 INFO Get Party Type Master List Success
+2020-11-23 15:52:03.4611 INFO Get Party Master Details Success :Field not found in row: financialyear
+2020-11-23 15:52:03.4662 INFO Get Party Master List Success
+2020-11-23 15:52:03.4662 INFO GetFinacListValues Success
+2020-11-23 15:52:29.6742 INFO Get User Success :44-Administrator
+2020-11-23 15:53:10.6835 INFO Get Party Type Master List Success
+2020-11-23 15:53:10.7005 INFO Get Party Master Details Success :Field not found in row: financialyear
+2020-11-23 15:54:32.8302 INFO Get Party Master Details Success
+2020-11-23 15:54:32.8302 INFO Get Party Master List Success
+2020-11-23 15:54:32.8389 INFO GetFinacListValues Success
+2020-11-23 15:54:35.3330 INFO Get User Success :44-Administrator
+2020-11-23 15:54:40.8515 INFO Get Party Master List Success
+2020-11-23 15:54:40.8545 INFO Get User Success :44-Administrator
+2020-11-23 15:54:42.0022 INFO Get Party Type Master List Success
+2020-11-23 15:54:42.0022 INFO Get Party Master Details Success
+2020-11-23 15:54:42.0102 INFO Get Party Master List Success
+2020-11-23 15:54:42.0102 INFO GetFinacListValues Success
+2020-11-23 15:54:42.0102 INFO Get User Success :44-Administrator
+2020-11-23 15:54:44.1226 INFO Get Party Master List Success
+2020-11-23 15:54:44.1226 INFO Get User Success :44-Administrator
+2020-11-23 15:54:45.0945 INFO Get Party Type Master List Success
+2020-11-23 15:54:45.0945 INFO Get Party Master Details Success
+2020-11-23 15:54:45.1055 INFO Get Party Master List Success
+2020-11-23 15:54:45.1055 INFO GetFinacListValues Success
+2020-11-23 15:54:45.1055 INFO Get User Success :44-Administrator
+2020-11-23 15:54:47.2742 INFO Get Party Master List Success
+2020-11-23 15:54:47.2772 INFO Get User Success :44-Administrator
+2020-11-23 16:24:13.6551 INFO Get User Success :44-Administrator
+2020-11-23 16:24:18.0305 INFO Get State List Success
+2020-11-23 16:24:18.0764 INFO Get User Success :44-Administrator
+2020-11-23 16:24:23.0447 INFO Get view_Role_master List Success
+2020-11-23 16:24:23.0580 INFO Get User Success :44-Administrator
+2020-11-23 16:24:31.9499 INFO Org Get List Success
+2020-11-23 16:24:31.9499 INFO Get Role Level List Success
+2020-11-23 16:24:31.9499 INFO Get access_type List Success
+2020-11-23 16:24:31.9625 INFO Get view_Role_master List Success
+2020-11-23 16:24:31.9625 INFO Get User Success :44-Administrator
+2020-11-23 16:24:42.1295 INFO Get Existing data Fail :role_master
+2020-11-23 16:25:21.4740 INFO Get MaxID Success :role_master
+2020-11-23 16:25:21.4998 INFO Insert role_master Fail :-Bond Officer-23505: duplicate key value violates unique constraint "role_master_pkey"
+2020-11-23 16:25:59.7407 INFO Get MaxID Success :role_master

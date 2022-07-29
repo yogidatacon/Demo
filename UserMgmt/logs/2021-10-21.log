@@ -1,0 +1,397 @@
+2021-10-21 10:13:25.0375 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 10:13:25.1454 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 10:13:25.2911 INFO Get Product Type Master List Success
+2021-10-21 10:13:25.2992 INFO Get User Success :hodyco
+2021-10-21 10:13:30.6104 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 10:13:30.6104 INFO Get Product Type Master List Success
+2021-10-21 10:13:30.6241 INFO Get User Success :hodyco
+2021-10-21 11:23:09.0435 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:23:09.1472 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:23:09.1612 INFO Get Product Type Master List Success
+2021-10-21 11:23:09.1712 INFO Get User Success :bdbl_dis
+2021-10-21 11:23:17.4086 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:23:17.4732 INFO Get Product Type Master List Success
+2021-10-21 11:23:17.4732 INFO Get User Success :bdbl_dis
+2021-10-21 11:23:58.1055 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:23:58.1258 INFO Get Product Type Master List Success
+2021-10-21 11:23:58.1258 INFO Get User Success :bdbl_dis
+2021-10-21 11:27:33.0470 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:34:57.8644 INFO Get Product Type Master List Success
+2021-10-21 11:34:57.8644 INFO Get User Success :bdbl_dis
+2021-10-21 11:35:24.1511 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:35:24.1762 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:35:24.1762 INFO Get Product Type Master List Success
+2021-10-21 11:35:24.1762 INFO Get User Success :bdbl_disbo
+2021-10-21 11:35:35.8206 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:35:37.5272 INFO Get Product Type Master List Success
+2021-10-21 11:35:37.5342 INFO Get User Success :bdbl_disbo
+2021-10-21 11:35:46.3105 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:35:48.0938 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:35:50.0239 INFO Get Product Master List Success
+2021-10-21 11:35:50.0308 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:35:50.0308 INFO Get Balance Request Pass Success
+2021-10-21 11:35:50.0308 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:35:50.0308 INFO Get Balance Request Pass Success
+2021-10-21 11:35:50.6684 INFO Get Product Type Master List Success
+2021-10-21 11:35:50.6744 INFO Get User Success :bdbl_disbo
+2021-10-21 11:36:16.8702 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:36:18.3551 INFO Get Product Type Master List Success
+2021-10-21 11:36:18.3611 INFO Get User Success :bdbl_disbo
+2021-10-21 11:36:57.7218 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:36:57.7981 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:36:57.7981 INFO Get Product Type Master List Success
+2021-10-21 11:36:57.7981 INFO Get User Success :bdbl_dis
+2021-10-21 11:37:01.5530 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:37:02.9128 INFO Get Product Type Master List Success
+2021-10-21 11:37:02.9128 INFO Get User Success :bdbl_dis
+2021-10-21 11:37:10.9279 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:37:12.5740 INFO Get RR List Success
+2021-10-21 11:37:13.3004 INFO Get Product Type Master List Success
+2021-10-21 11:37:13.3004 INFO Get User Success :bdbl_dis
+2021-10-21 11:37:16.8458 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:37:18.4104 INFO Get Product Type Master List Success
+2021-10-21 11:37:18.4104 INFO Get User Success :bdbl_dis
+2021-10-21 11:37:20.8041 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:37:20.8041 INFO Get Product Master List Success
+2021-10-21 11:37:21.2285 INFO Get RR List Success
+2021-10-21 11:37:21.2525 INFO Get Product Type Master List Success
+2021-10-21 11:37:21.2525 INFO Get User Success :bdbl_dis
+2021-10-21 11:37:33.3079 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:37:33.7194 INFO Get RR List Success
+2021-10-21 11:37:45.2996 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:37:45.2996 INFO Get Product Master List Success
+2021-10-21 11:37:45.2996 INFO Get State List Success
+2021-10-21 11:37:45.3116 INFO Get NOC Sucess:369
+2021-10-21 11:37:45.3116 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/13
+2021-10-21 11:37:45.3267 INFO Get NOC Details Success
+2021-10-21 11:38:49.2056 INFO Get Customer Details Success
+2021-10-21 11:38:50.0457 INFO Get Product Type Master List Success
+2021-10-21 11:38:50.0457 INFO Get User Success :bdbl_dis
+2021-10-21 11:39:20.1636 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:39:20.1636 INFO Get Product Master List Success
+2021-10-21 11:39:20.5764 INFO Get RR List Success
+2021-10-21 11:39:20.5764 INFO Get Product Type Master List Success
+2021-10-21 11:39:20.5764 INFO Get User Success :bdbl_dis
+2021-10-21 11:39:41.9782 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:39:42.0588 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:39:42.0738 INFO Get Product Type Master List Success
+2021-10-21 11:39:42.0788 INFO Get User Success :bhedo
+2021-10-21 11:39:45.2884 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:39:45.2884 INFO Get Product Master List Success
+2021-10-21 11:39:46.4839 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:39:46.4839 INFO Get Product Master List Success
+2021-10-21 11:39:46.4839 INFO Check WorkFlow List Success
+2021-10-21 11:39:47.1340 INFO Get RR List Success
+2021-10-21 11:39:47.1537 INFO Get Product Type Master List Success
+2021-10-21 11:39:47.1577 INFO Get User Success :bhedo
+2021-10-21 11:39:51.5579 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:39:51.5579 INFO Get Product Master List Success
+2021-10-21 11:39:51.5779 INFO Get State List Success
+2021-10-21 11:39:51.5779 INFO Get NOC Sucess:369
+2021-10-21 11:39:51.5779 INFO Get NOC Sucess:Req//1
+2021-10-21 11:39:51.5779 INFO Get State List Success
+2021-10-21 11:39:51.5779 INFO Get NOC Details Success
+2021-10-21 11:39:51.8082 INFO Get Customer Details Success
+2021-10-21 11:39:51.9662 INFO Check WorkFlow List Success
+2021-10-21 11:39:51.9722 INFO Get Product Type Master List Success
+2021-10-21 11:39:51.9722 INFO Get User Success :bhedo
+2021-10-21 11:40:05.3851 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:40:05.4275 INFO NOC Approve Sucess:66
+2021-10-21 11:40:05.4499 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:40:05.4519 INFO Get Product Master List Success
+2021-10-21 11:40:06.9270 INFO Get User Success :341-Assistant Commissioner
+2021-10-21 11:40:06.9270 INFO Get Product Master List Success
+2021-10-21 11:40:06.9270 INFO Check WorkFlow List Success
+2021-10-21 11:40:07.5614 INFO Get RR List Success
+2021-10-21 11:40:07.5614 INFO Get Product Type Master List Success
+2021-10-21 11:40:07.5614 INFO Get User Success :bhedo
+2021-10-21 11:40:19.7922 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:19.8849 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:19.9816 INFO Get Product Type Master List Success
+2021-10-21 11:40:19.9866 INFO Get User Success :hodyco
+2021-10-21 11:40:22.9842 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:22.9842 INFO Get Product Master List Success
+2021-10-21 11:40:23.8785 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:23.8785 INFO Get Product Master List Success
+2021-10-21 11:40:23.8785 INFO Check WorkFlow List Success
+2021-10-21 11:40:24.4957 INFO Get RR List Success
+2021-10-21 11:40:24.5000 INFO Get Product Type Master List Success
+2021-10-21 11:40:24.5000 INFO Get User Success :hodyco
+2021-10-21 11:40:37.7941 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:37.7941 INFO Get Product Master List Success
+2021-10-21 11:40:37.8150 INFO Get State List Success
+2021-10-21 11:40:37.8150 INFO Get NOC Sucess:369
+2021-10-21 11:40:37.8150 INFO Get NOC Sucess:Req//1
+2021-10-21 11:40:37.8150 INFO Get State List Success
+2021-10-21 11:40:37.8150 INFO Get NOC Details Success
+2021-10-21 11:40:38.0167 INFO Get Customer Details Success
+2021-10-21 11:40:38.1955 INFO Check WorkFlow List Success
+2021-10-21 11:40:38.1955 INFO Get Product Type Master List Success
+2021-10-21 11:40:38.2045 INFO Get User Success :hodyco
+2021-10-21 11:40:45.7493 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:45.7783 INFO NOC Approve Sucess:80
+2021-10-21 11:40:45.7996 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:45.7996 INFO Get Product Master List Success
+2021-10-21 11:40:46.9042 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:40:46.9052 INFO Get Product Master List Success
+2021-10-21 11:40:46.9052 INFO Check WorkFlow List Success
+2021-10-21 11:40:47.5588 INFO Get RR List Success
+2021-10-21 11:40:47.5619 INFO Get Product Type Master List Success
+2021-10-21 11:40:47.5619 INFO Get User Success :hodyco
+2021-10-21 11:40:58.7374 INFO Get User Success :101-Commissioner
+2021-10-21 11:40:58.7735 INFO Get User Success :101-Commissioner
+2021-10-21 11:40:58.8574 INFO Get Product Type Master List Success
+2021-10-21 11:40:58.8624 INFO Get User Success :com
+2021-10-21 11:41:01.8056 INFO Get User Success :101-Commissioner
+2021-10-21 11:41:01.8056 INFO Get Product Master List Success
+2021-10-21 11:41:02.8074 INFO Get User Success :101-Commissioner
+2021-10-21 11:41:02.8074 INFO Get Product Master List Success
+2021-10-21 11:41:02.8074 INFO Check WorkFlow List Success
+2021-10-21 11:41:03.4834 INFO Get RR List Success
+2021-10-21 11:41:03.4834 INFO Get Product Type Master List Success
+2021-10-21 11:41:03.4834 INFO Get User Success :com
+2021-10-21 11:41:09.8768 INFO Get User Success :101-Commissioner
+2021-10-21 11:41:09.8768 INFO Get Product Master List Success
+2021-10-21 11:41:09.8978 INFO Get State List Success
+2021-10-21 11:41:09.8978 INFO Get NOC Sucess:369
+2021-10-21 11:41:09.8978 INFO Get NOC Sucess:Req//1
+2021-10-21 11:41:09.8978 INFO Get State List Success
+2021-10-21 11:41:09.9087 INFO Get NOC Details Success
+2021-10-21 11:41:10.0955 INFO Get Customer Details Success
+2021-10-21 11:41:10.2771 INFO Check WorkFlow List Success
+2021-10-21 11:41:10.2811 INFO Get Product Type Master List Success
+2021-10-21 11:41:10.2811 INFO Get User Success :com
+2021-10-21 11:41:15.3080 INFO Get User Success :101-Commissioner
+2021-10-21 11:41:15.3381 INFO NOC Approve Sucess:80
+2021-10-21 11:41:15.3582 INFO Get User Success :101-Commissioner
+2021-10-21 11:41:15.3582 INFO Get Product Master List Success
+2021-10-21 11:41:16.5867 INFO Get User Success :101-Commissioner
+2021-10-21 11:41:16.5867 INFO Get Product Master List Success
+2021-10-21 11:41:16.5867 INFO Check WorkFlow List Success
+2021-10-21 11:41:17.1909 INFO Get RR List Success
+2021-10-21 11:41:17.1909 INFO Get Product Type Master List Success
+2021-10-21 11:41:17.1909 INFO Get User Success :com
+2021-10-21 11:41:28.2617 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:41:28.2977 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:41:28.3809 INFO Get Product Type Master List Success
+2021-10-21 11:41:28.3809 INFO Get User Success :hodyco
+2021-10-21 11:41:32.6957 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:41:32.6957 INFO Get Product Master List Success
+2021-10-21 11:41:33.7924 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:41:33.7924 INFO Get Product Master List Success
+2021-10-21 11:41:33.7924 INFO Check WorkFlow List Success
+2021-10-21 11:41:34.4479 INFO Get RR List Success
+2021-10-21 11:41:34.4479 INFO Get Product Type Master List Success
+2021-10-21 11:41:34.4552 INFO Get User Success :hodyco
+2021-10-21 11:41:40.9984 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:41:40.9984 INFO Get Product Master List Success
+2021-10-21 11:41:40.9984 INFO Check WorkFlow List Success
+2021-10-21 11:41:41.4279 INFO Get RR List Success
+2021-10-21 11:41:41.4462 INFO Get Product Type Master List Success
+2021-10-21 11:41:41.4462 INFO Get User Success :hodyco
+2021-10-21 11:41:43.4367 INFO Check WorkFlow List Success
+2021-10-21 11:41:43.4576 INFO NOC Approve Sucess:80
+2021-10-21 11:41:43.8742 INFO Get RR List Success
+2021-10-21 11:41:43.8742 INFO Get Report  Success
+2021-10-21 11:41:44.0492 INFO Get GetSeverList Success
+2021-10-21 11:42:00.5008 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:42:00.5268 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:42:00.5268 INFO Get Product Type Master List Success
+2021-10-21 11:42:00.5348 INFO Get User Success :bdbl_dis
+2021-10-21 11:42:03.9605 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:42:03.9605 INFO Get Product Master List Success
+2021-10-21 11:42:04.3840 INFO Get RR List Success
+2021-10-21 11:42:04.3840 INFO Get Product Type Master List Success
+2021-10-21 11:42:04.3913 INFO Get User Success :bdbl_dis
+2021-10-21 11:42:05.6844 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:42:07.0390 INFO Get Product Type Master List Success
+2021-10-21 11:42:07.0390 INFO Get User Success :bdbl_dis
+2021-10-21 11:42:11.2044 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:42:13.0299 INFO Get RR List Success
+2021-10-21 11:42:13.2043 INFO Get Product Type Master List Success
+2021-10-21 11:42:13.2043 INFO Get User Success :bdbl_dis
+2021-10-21 11:42:20.6086 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:42:22.3451 INFO Get Product Type Master List Success
+2021-10-21 11:42:22.3451 INFO Get User Success :bdbl_dis
+2021-10-21 11:53:22.9700 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:53:22.9700 INFO Get Product Master List Success
+2021-10-21 11:53:23.3906 INFO Get RR List Success
+2021-10-21 11:53:23.3906 INFO Get Product Type Master List Success
+2021-10-21 11:53:23.3906 INFO Get User Success :bdbl_dis
+2021-10-21 11:53:44.8734 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:53:44.8734 INFO Get Product Master List Success
+2021-10-21 11:53:44.8734 INFO Get State List Success
+2021-10-21 11:53:44.8734 INFO Get NOC Sucess:369
+2021-10-21 11:53:44.8734 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/13
+2021-10-21 11:53:44.8734 INFO Get NOC Details Success
+2021-10-21 11:53:46.7480 INFO Get Customer Details Success
+2021-10-21 11:53:46.9647 INFO Check WorkFlow List Success
+2021-10-21 11:53:46.9687 INFO Get Product Type Master List Success
+2021-10-21 11:53:46.9687 INFO Get User Success :bdbl_dis
+2021-10-21 11:54:04.9854 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:54:04.9854 INFO Get Product Master List Success
+2021-10-21 11:54:05.3956 INFO Get RR List Success
+2021-10-21 11:54:05.3956 INFO Get Product Type Master List Success
+2021-10-21 11:54:05.3956 INFO Get User Success :bdbl_dis
+2021-10-21 11:54:17.5025 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:17.5381 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:17.6393 INFO Get Product Type Master List Success
+2021-10-21 11:54:17.6393 INFO Get User Success :hodyco
+2021-10-21 11:54:22.0546 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:22.0546 INFO Get Product Master List Success
+2021-10-21 11:54:23.2919 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:23.2919 INFO Get Product Master List Success
+2021-10-21 11:54:23.2919 INFO Check WorkFlow List Success
+2021-10-21 11:54:23.9618 INFO Get RR List Success
+2021-10-21 11:54:23.9618 INFO Get Product Type Master List Success
+2021-10-21 11:54:23.9691 INFO Get User Success :hodyco
+2021-10-21 11:54:34.0114 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:34.0114 INFO Get Product Master List Success
+2021-10-21 11:54:34.0314 INFO Get State List Success
+2021-10-21 11:54:34.0314 INFO Get NOC Sucess:369
+2021-10-21 11:54:34.0314 INFO Get NOC Sucess:Req//1
+2021-10-21 11:54:34.0314 INFO Get State List Success
+2021-10-21 11:54:34.0314 INFO Get NOC Details Success
+2021-10-21 11:54:34.3172 INFO Get Customer Details Success
+2021-10-21 11:54:34.5395 INFO Check WorkFlow List Success
+2021-10-21 11:54:34.5395 INFO Get Product Type Master List Success
+2021-10-21 11:54:34.5485 INFO Get User Success :hodyco
+2021-10-21 11:54:51.6766 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:51.7127 INFO NOC Approve Sucess:66
+2021-10-21 11:54:51.7349 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:51.7349 INFO Get Product Master List Success
+2021-10-21 11:54:52.9374 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:54:52.9374 INFO Get Product Master List Success
+2021-10-21 11:54:52.9374 INFO Check WorkFlow List Success
+2021-10-21 11:54:53.5884 INFO Get RR List Success
+2021-10-21 11:54:53.5884 INFO Get Product Type Master List Success
+2021-10-21 11:54:53.5964 INFO Get User Success :hodyco
+2021-10-21 11:55:08.5224 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:08.5580 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:08.6424 INFO Get Product Type Master List Success
+2021-10-21 11:55:08.6424 INFO Get User Success :com
+2021-10-21 11:55:31.0811 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:31.0811 INFO Get Product Master List Success
+2021-10-21 11:55:32.3002 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:32.3002 INFO Get Product Master List Success
+2021-10-21 11:55:32.3002 INFO Check WorkFlow List Success
+2021-10-21 11:55:32.9065 INFO Get RR List Success
+2021-10-21 11:55:32.9065 INFO Get Product Type Master List Success
+2021-10-21 11:55:32.9065 INFO Get User Success :com
+2021-10-21 11:55:38.8073 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:38.8073 INFO Get Product Master List Success
+2021-10-21 11:55:38.8276 INFO Get State List Success
+2021-10-21 11:55:38.8276 INFO Get NOC Sucess:369
+2021-10-21 11:55:38.8276 INFO Get NOC Sucess:Req//1
+2021-10-21 11:55:38.8276 INFO Get State List Success
+2021-10-21 11:55:38.8276 INFO Get NOC Details Success
+2021-10-21 11:55:39.0316 INFO Get Customer Details Success
+2021-10-21 11:55:39.2185 INFO Check WorkFlow List Success
+2021-10-21 11:55:39.2185 INFO Get Product Type Master List Success
+2021-10-21 11:55:39.2185 INFO Get User Success :com
+2021-10-21 11:55:44.6442 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:44.6750 INFO NOC Approve Sucess:66
+2021-10-21 11:55:44.6968 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:44.6968 INFO Get Product Master List Success
+2021-10-21 11:55:45.7684 INFO Get User Success :101-Commissioner
+2021-10-21 11:55:45.7684 INFO Get Product Master List Success
+2021-10-21 11:55:45.7684 INFO Check WorkFlow List Success
+2021-10-21 11:55:46.3905 INFO Get RR List Success
+2021-10-21 11:55:46.3905 INFO Get Product Type Master List Success
+2021-10-21 11:55:46.3905 INFO Get User Success :com
+2021-10-21 11:55:56.1831 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:55:56.2203 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:55:56.3039 INFO Get Product Type Master List Success
+2021-10-21 11:55:56.3039 INFO Get User Success :hodyco
+2021-10-21 11:55:59.8871 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:55:59.8892 INFO Get Product Master List Success
+2021-10-21 11:56:00.9179 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:56:00.9179 INFO Get Product Master List Success
+2021-10-21 11:56:00.9179 INFO Check WorkFlow List Success
+2021-10-21 11:56:01.5529 INFO Get RR List Success
+2021-10-21 11:56:01.5529 INFO Get Product Type Master List Success
+2021-10-21 11:56:01.5608 INFO Get User Success :hodyco
+2021-10-21 11:56:04.3381 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:56:04.3381 INFO Get Product Master List Success
+2021-10-21 11:56:04.3381 INFO Check WorkFlow List Success
+2021-10-21 11:56:04.7445 INFO Get RR List Success
+2021-10-21 11:56:04.7445 INFO Get Product Type Master List Success
+2021-10-21 11:56:04.7505 INFO Get User Success :hodyco
+2021-10-21 11:56:06.3666 INFO Check WorkFlow List Success
+2021-10-21 11:56:06.3835 INFO NOC Approve Sucess:66
+2021-10-21 11:56:06.8027 INFO Get RR List Success
+2021-10-21 11:56:06.8027 INFO Get Report  Success
+2021-10-21 11:56:06.9163 INFO Get GetSeverList Success
+2021-10-21 11:56:20.8859 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:56:20.9153 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:56:20.9153 INFO Get Product Type Master List Success
+2021-10-21 11:56:20.9233 INFO Get User Success :bdbl_dis
+2021-10-21 11:56:23.9759 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:56:24.8650 INFO Get Product Type Master List Success
+2021-10-21 11:56:24.8650 INFO Get User Success :bdbl_dis
+2021-10-21 11:56:29.2331 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:56:30.7768 INFO Get RR List Success
+2021-10-21 11:56:30.9319 INFO Get Product Type Master List Success
+2021-10-21 11:56:30.9379 INFO Get User Success :bdbl_dis
+2021-10-21 11:56:33.7367 INFO Get NOC Details Success
+2021-10-21 11:56:36.2436 INFO Get NOC Details Success
+2021-10-21 11:56:36.2436 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:56:36.2483 INFO Get Balance Request Pass Success
+2021-10-21 11:57:03.9265 INFO Insert Request Pass Success
+2021-10-21 11:57:03.9486 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:57:05.2316 INFO Get Product Type Master List Success
+2021-10-21 11:57:05.2376 INFO Get User Success :bdbl_dis
+2021-10-21 11:57:19.4982 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:57:19.5660 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:57:19.5660 INFO Get Product Type Master List Success
+2021-10-21 11:57:19.5660 INFO Get User Success :bdbl_disbo
+2021-10-21 11:57:22.6784 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:57:23.7959 INFO Get Product Type Master List Success
+2021-10-21 11:57:23.7959 INFO Get User Success :bdbl_disbo
+2021-10-21 11:57:41.0268 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:57:42.4202 INFO Get RR List Success
+2021-10-21 11:57:42.5834 INFO Get NOC Details Success
+2021-10-21 11:57:42.5834 INFO Get NOC Details Success
+2021-10-21 11:57:42.5834 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:57:42.5834 INFO Get Balance Request Pass Success
+2021-10-21 11:57:42.5934 INFO Get Product Type Master List Success
+2021-10-21 11:57:42.5934 INFO Get User Success :bdbl_disbo
+2021-10-21 11:57:56.5462 INFO Approve Request Pass Success
+2021-10-21 11:57:56.5709 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:58:01.8483 INFO Get Product Type Master List Success
+2021-10-21 11:58:01.8483 INFO Get User Success :bdbl_disbo
+2021-10-21 11:58:19.3324 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:58:21.5354 INFO Get RR List Success
+2021-10-21 11:58:22.1364 INFO Get NOC Details Success
+2021-10-21 11:58:22.1404 INFO Get NOC Details Success
+2021-10-21 11:58:22.1404 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 11:58:22.1404 INFO Get Balance Request Pass Success
+2021-10-21 11:58:22.1404 INFO Get Product Type Master List Success
+2021-10-21 11:58:22.1554 INFO Get User Success :bdbl_disbo
+2021-10-21 11:58:31.5304 INFO Approve Request Pass Success
+2021-10-21 11:58:31.5548 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-10-21 11:58:33.1366 INFO Get Product Type Master List Success
+2021-10-21 11:58:33.1425 INFO Get User Success :bdbl_disbo
+2021-10-21 11:58:55.9983 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:58:56.0347 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:58:56.1185 INFO Get Product Type Master List Success
+2021-10-21 11:58:56.1235 INFO Get User Success :hodyco
+2021-10-21 11:59:01.0169 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:59:01.0169 INFO Get Product Master List Success
+2021-10-21 11:59:02.4864 INFO Get User Success :100-Deputy Commissioner
+2021-10-21 11:59:02.4864 INFO Get Product Master List Success
+2021-10-21 11:59:02.4864 INFO Check WorkFlow List Success
+2021-10-21 11:59:03.1519 INFO Get RR List Success
+2021-10-21 11:59:03.1546 INFO Get Product Type Master List Success
+2021-10-21 11:59:03.1546 INFO Get User Success :hodyco
+2021-10-21 13:24:27.5750 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 13:24:27.6723 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 13:24:27.6930 INFO Get Product Type Master List Success
+2021-10-21 13:24:27.7037 INFO Get User Success :bdbl_dis
+2021-10-21 13:24:33.6442 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-10-21 13:24:41.3812 INFO Get Product Type Master List Success
+2021-10-21 13:24:41.3812 INFO Get User Success :bdbl_dis
+2021-10-21 13:24:47.2307 INFO Get Report  Success
+2021-10-21 13:24:50.0459 INFO Get GetSeverList Success
+2021-10-21 13:25:07.1925 INFO Get Report  Success
+2021-10-21 13:25:12.5202 INFO Get GetSeverList Success

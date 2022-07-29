@@ -1,0 +1,231 @@
+2022-02-17 10:04:20.1176 INFO Get User Success :101-Commissioner
+2022-02-17 10:04:31.0472 INFO Get User Success :101-Commissioner
+2022-02-17 10:05:04.9639 INFO Get Product Type Master List Success
+2022-02-17 10:05:05.0279 INFO Get User Success :com
+2022-02-17 10:05:13.0597 INFO Get User Success :101-Commissioner
+2022-02-17 10:05:14.7300 INFO Get Product Type Master List Success
+2022-02-17 10:05:14.7862 INFO Get User Success :com
+2022-02-17 10:05:40.7797 INFO Get UOM List Success
+2022-02-17 10:05:43.1667 INFO Get User Success :101-Commissioner
+2022-02-17 10:05:43.2851 INFO Get User Success :3182-Manoj Kumar
+2022-02-17 10:05:44.8095 INFO Get Product Type Master List Success
+2022-02-17 10:05:44.8641 INFO Get User Success :com
+2022-02-17 10:26:21.9568 INFO Get User Success :101-Commissioner
+2022-02-17 10:26:38.6358 INFO Get User Success :101-Commissioner
+2022-02-17 10:27:57.4046 INFO Get Product Type Master List Success
+2022-02-17 10:27:57.4721 INFO Get User Success :com
+2022-02-17 10:28:03.6775 INFO Get User Success :101-Commissioner
+2022-02-17 10:28:05.7696 INFO Get Product Type Master List Success
+2022-02-17 10:28:05.8815 INFO Get User Success :com
+2022-02-17 10:29:22.1149 INFO Get User Success :101-Commissioner
+2022-02-17 10:29:35.8172 INFO Get UOM List Success
+2022-02-17 10:29:38.6364 INFO Get User Success :101-Commissioner
+2022-02-17 10:29:39.6924 INFO Get User Fail :3373-RUPESH KUMAR-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 10:30:25.3924 INFO Get Product Type Master List Success
+2022-02-17 10:30:25.5031 INFO Get User Success :com
+2022-02-17 11:08:50.1283 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:03.3560 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:09.9844 INFO Get Product Type Master List Success
+2022-02-17 11:09:10.0516 INFO Get User Success :com
+2022-02-17 11:09:18.5619 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:18.6693 INFO Get Product Type Master List Success
+2022-02-17 11:09:18.7928 INFO Get User Success :com
+2022-02-17 11:09:27.1065 INFO Get UOM List Success
+2022-02-17 11:09:29.9967 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:30.1504 INFO Get User Fail :3212-Rakesh Kumar-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 11:09:30.4726 INFO Get Product Type Master List Success
+2022-02-17 11:09:30.5358 INFO Get User Success :com
+2022-02-17 11:09:36.3421 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:36.4032 INFO Get Product Type Master List Success
+2022-02-17 11:09:36.7270 INFO Get User Success :com
+2022-02-17 11:09:38.2989 INFO Get UOM List Success
+2022-02-17 11:09:43.7236 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:43.8607 INFO Get User Success :101-Commissioner
+2022-02-17 11:09:44.1632 INFO Get Product Type Master List Success
+2022-02-17 11:09:44.2262 INFO Get User Success :com
+2022-02-17 11:39:26.7638 INFO Get User Success :101-Commissioner
+2022-02-17 11:39:37.1633 INFO Get User Success :101-Commissioner
+2022-02-17 11:39:42.8034 INFO Get Product Type Master List Success
+2022-02-17 11:39:43.1314 INFO Get User Success :com
+2022-02-17 11:39:59.5791 INFO Get User Success :101-Commissioner
+2022-02-17 11:39:59.6907 INFO Get Product Type Master List Success
+2022-02-17 11:39:59.7556 INFO Get User Success :com
+2022-02-17 11:40:04.0812 INFO Get User Success :101-Commissioner
+2022-02-17 11:40:06.2188 INFO Get User Success :101-Commissioner
+2022-02-17 11:40:08.9492 INFO Get UOM List Success
+2022-02-17 11:40:13.3970 INFO Get User Success :101-Commissioner
+2022-02-17 11:40:13.5266 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 11:40:13.8584 INFO Get Product Type Master List Success
+2022-02-17 11:40:13.9746 INFO Get User Success :com
+2022-02-17 11:40:45.1118 INFO Get User Success :101-Commissioner
+2022-02-17 11:40:45.1984 INFO Get Product Type Master List Success
+2022-02-17 11:40:45.2814 INFO Get User Success :com
+2022-02-17 11:40:47.3098 INFO Get UOM List Success
+2022-02-17 11:40:52.3976 INFO Get User Success :101-Commissioner
+2022-02-17 11:40:52.5499 INFO Get User Fail :3242-Rajesh Kumar-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 11:40:52.7706 INFO Get Product Type Master List Success
+2022-02-17 11:40:52.8470 INFO Get User Success :com
+2022-02-17 11:57:24.7292 INFO Get User Success :101-Commissioner
+2022-02-17 11:57:36.5706 INFO Get User Success :101-Commissioner
+2022-02-17 11:57:42.0627 INFO Get Product Type Master List Success
+2022-02-17 11:57:42.1296 INFO Get User Success :com
+2022-02-17 11:58:01.3781 INFO Get User Success :101-Commissioner
+2022-02-17 11:58:01.4778 INFO Get Product Type Master List Success
+2022-02-17 11:58:01.5920 INFO Get User Success :com
+2022-02-17 11:58:14.8861 INFO Get User Success :101-Commissioner
+2022-02-17 11:58:17.6199 INFO Get User Success :101-Commissioner
+2022-02-17 11:58:26.8468 INFO Get UOM List Success
+2022-02-17 11:58:32.4218 INFO Get User Success :101-Commissioner
+2022-02-17 11:58:32.5780 INFO Get User Fail :3113-DHARMENDRA KUMAR-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 11:59:02.8891 INFO Get Product Type Master List Success
+2022-02-17 11:59:03.0606 INFO Get User Success :com
+2022-02-17 11:59:34.8283 INFO Get User Success :101-Commissioner
+2022-02-17 11:59:34.9008 INFO Get Product Type Master List Success
+2022-02-17 11:59:35.0272 INFO Get User Success :com
+2022-02-17 11:59:40.3385 INFO Get UOM List Success
+2022-02-17 11:59:45.7074 INFO Get User Success :101-Commissioner
+2022-02-17 11:59:45.8430 INFO Get User Fail :3115-MANJIT KUMAR-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 11:59:59.3220 INFO Get Product Type Master List Success
+2022-02-17 11:59:59.4446 INFO Get User Success :com
+2022-02-17 12:50:18.9328 INFO Get User Success :101-Commissioner
+2022-02-17 12:50:24.3539 INFO Get User Success :101-Commissioner
+2022-02-17 12:50:30.2455 INFO Get Product Type Master List Success
+2022-02-17 12:50:30.3966 INFO Get User Success :com
+2022-02-17 12:50:44.8802 INFO Get User Success :101-Commissioner
+2022-02-17 12:50:45.0604 INFO Get Product Type Master List Success
+2022-02-17 12:50:45.2636 INFO Get User Success :com
+2022-02-17 12:50:51.5674 INFO Get User Success :101-Commissioner
+2022-02-17 12:50:56.2023 INFO Get User Success :101-Commissioner
+2022-02-17 12:51:02.1303 INFO Get UOM List Success
+2022-02-17 12:51:07.6832 INFO Get User Success :101-Commissioner
+2022-02-17 12:51:08.7882 INFO Get User Fail :3331-Uma Shankar Prasad-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 12:51:09.4461 INFO Get Product Type Master List Success
+2022-02-17 12:51:09.7013 INFO Get User Success :com
+2022-02-17 12:52:20.5228 INFO Get User Success :101-Commissioner
+2022-02-17 12:52:20.6375 INFO Get Product Type Master List Success
+2022-02-17 12:52:20.8717 INFO Get User Success :com
+2022-02-17 12:52:25.3408 INFO Get User Success :101-Commissioner
+2022-02-17 12:52:28.4637 INFO Get User Success :101-Commissioner
+2022-02-17 12:52:31.4334 INFO Get UOM List Success
+2022-02-17 12:52:31.9732 INFO Get User Success :101-Commissioner
+2022-02-17 12:52:32.2167 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:53:32.4635 INFO Get Product Type Master List Success
+2022-02-17 12:53:32.7300 INFO Get User Success :com
+2022-02-17 12:54:08.1600 INFO Get UOM List Success
+2022-02-17 12:54:09.3305 INFO Get User Success :101-Commissioner
+2022-02-17 12:54:09.6140 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:54:10.1640 INFO Get Product Type Master List Success
+2022-02-17 12:54:10.4970 INFO Get User Success :com
+2022-02-17 12:54:12.5037 INFO Get UOM List Success
+2022-02-17 12:54:13.1957 INFO Get User Success :101-Commissioner
+2022-02-17 12:54:13.4471 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:54:13.9340 INFO Get Product Type Master List Success
+2022-02-17 12:54:14.1712 INFO Get User Success :com
+2022-02-17 12:54:15.0138 INFO Get UOM List Success
+2022-02-17 12:54:15.6767 INFO Get User Success :101-Commissioner
+2022-02-17 12:54:15.9498 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:54:16.7668 INFO Get Product Type Master List Success
+2022-02-17 12:54:16.8943 INFO Get User Success :com
+2022-02-17 12:54:17.9405 INFO Get UOM List Success
+2022-02-17 12:54:18.6775 INFO Get User Success :101-Commissioner
+2022-02-17 12:54:18.9658 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:54:19.6341 INFO Get Product Type Master List Success
+2022-02-17 12:54:20.0909 INFO Get User Success :com
+2022-02-17 12:55:40.8476 INFO Get User Success :101-Commissioner
+2022-02-17 12:55:40.9613 INFO Get Product Type Master List Success
+2022-02-17 12:55:41.1326 INFO Get User Success :com
+2022-02-17 12:56:06.6668 INFO Get User Success :101-Commissioner
+2022-02-17 12:56:10.8102 INFO Get User Success :101-Commissioner
+2022-02-17 12:56:13.2450 INFO Get UOM List Success
+2022-02-17 12:56:14.2018 INFO Get User Success :101-Commissioner
+2022-02-17 12:56:14.4630 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:56:14.9867 INFO Get Product Type Master List Success
+2022-02-17 12:56:15.1831 INFO Get User Success :com
+2022-02-17 12:58:42.9097 INFO Get UOM List Success
+2022-02-17 12:59:08.1098 INFO Get User Success :101-Commissioner
+2022-02-17 12:59:08.7377 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:59:10.7296 INFO Get Product Type Master List Success
+2022-02-17 12:59:11.2478 INFO Get User Success :com
+2022-02-17 12:59:12.2538 INFO Get UOM List Success
+2022-02-17 12:59:16.5639 INFO Get User Success :101-Commissioner
+2022-02-17 12:59:16.8990 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 12:59:17.9528 INFO Get Product Type Master List Success
+2022-02-17 12:59:18.1597 INFO Get User Success :com
+2022-02-17 13:04:20.3780 INFO Get User Success :101-Commissioner
+2022-02-17 13:04:28.3075 INFO Get User Success :101-Commissioner
+2022-02-17 13:04:34.4612 INFO Get Product Type Master List Success
+2022-02-17 13:04:34.5639 INFO Get User Success :com
+2022-02-17 13:04:43.9386 INFO Get User Success :101-Commissioner
+2022-02-17 13:04:44.0613 INFO Get Product Type Master List Success
+2022-02-17 13:04:44.2059 INFO Get User Success :com
+2022-02-17 13:04:49.5864 INFO Get User Success :101-Commissioner
+2022-02-17 13:04:53.9282 INFO Get User Success :101-Commissioner
+2022-02-17 13:05:04.8316 INFO Get UOM List Success
+2022-02-17 13:05:10.4368 INFO Get User Success :101-Commissioner
+2022-02-17 13:05:10.6103 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 13:07:08.1214 INFO Get Product Type Master List Success
+2022-02-17 13:07:08.1848 INFO Get User Success :com
+2022-02-17 13:07:22.2493 INFO Get UOM List Success
+2022-02-17 13:07:43.4537 INFO Get User Success :101-Commissioner
+2022-02-17 13:07:43.5982 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 13:07:43.8945 INFO Get Product Type Master List Success
+2022-02-17 13:07:44.0162 INFO Get User Success :com
+2022-02-17 13:07:48.2504 INFO Get UOM List Success
+2022-02-17 13:07:52.5644 INFO Get User Success :101-Commissioner
+2022-02-17 13:07:52.6941 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 13:07:52.9964 INFO Get Product Type Master List Success
+2022-02-17 13:07:53.4001 INFO Get User Success :com
+2022-02-17 13:07:56.7354 INFO Get UOM List Success
+2022-02-17 13:13:16.3806 INFO Get User Success :101-Commissioner
+2022-02-17 13:13:26.6681 INFO Get User Success :101-Commissioner
+2022-02-17 13:13:33.0388 INFO Get Product Type Master List Success
+2022-02-17 13:13:33.1088 INFO Get User Success :com
+2022-02-17 13:13:45.5530 INFO Get User Success :101-Commissioner
+2022-02-17 13:13:45.6569 INFO Get Product Type Master List Success
+2022-02-17 13:13:45.7796 INFO Get User Success :com
+2022-02-17 13:13:50.8639 INFO Get User Success :101-Commissioner
+2022-02-17 13:13:54.2666 INFO Get User Success :101-Commissioner
+2022-02-17 13:14:01.5961 INFO Get UOM List Success
+2022-02-17 13:14:06.4623 INFO Get User Success :101-Commissioner
+2022-02-17 13:14:06.9075 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 13:16:39.3257 INFO Get Product Type Master List Success
+2022-02-17 13:16:39.4490 INFO Get User Success :com
+2022-02-17 13:17:32.9211 INFO Get UOM List Success
+2022-02-17 13:18:09.3537 INFO Get User Success :101-Commissioner
+2022-02-17 13:18:09.8007 INFO Get User Success :3247-SUNIL KUMAR
+2022-02-17 13:18:18.6273 INFO Get Product Type Master List Success
+2022-02-17 13:18:18.7461 INFO Get User Success :com
+2022-02-17 13:18:26.7701 INFO Get User Success :101-Commissioner
+2022-02-17 13:18:26.8517 INFO Get Product Type Master List Success
+2022-02-17 13:18:26.9665 INFO Get User Success :com
+2022-02-17 13:19:33.0886 INFO Get UOM List Success
+2022-02-17 13:19:38.9287 INFO Get User Success :101-Commissioner
+2022-02-17 13:19:39.8624 INFO Get User Fail :3115-MANJIT KUMAR-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-17 13:19:52.1236 INFO Get Product Type Master List Success
+2022-02-17 13:19:52.2983 INFO Get User Success :com
+2022-02-17 14:54:00.8467 INFO Get User Success :101-Commissioner
+2022-02-17 14:54:13.8866 INFO Get User Success :101-Commissioner
+2022-02-17 14:54:22.0054 INFO Get Product Type Master List Success
+2022-02-17 14:54:22.1680 INFO Get User Success :com
+2022-02-17 14:55:53.2622 INFO Get Division List Success
+2022-02-17 14:56:04.7921 INFO Get User Success :101-Commissioner
+2022-02-17 15:06:15.3185 INFO Get User Success :101-Commissioner
+2022-02-17 15:06:33.7080 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-17 15:06:34.2954 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-17 15:06:34.6026 INFO Get Product Type Master List Success
+2022-02-17 15:06:34.9666 INFO Get User Success :bdbl_dis
+2022-02-17 15:06:52.7221 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-17 15:06:52.8760 INFO Get Product Master List Success
+2022-02-17 17:39:38.1239 INFO Get User Success :207-excise_Rohtas
+2022-02-17 17:39:49.8751 INFO Get Product Type Master List Success
+2022-02-17 17:39:49.9993 INFO Get User Success :excise_Rohtas
+2022-02-17 17:40:03.2973 INFO Get User Success :207-excise_Rohtas
+2022-02-17 17:40:03.3933 INFO Get Product Type Master List Success
+2022-02-17 17:40:03.5620 INFO Get User Success :excise_Rohtas

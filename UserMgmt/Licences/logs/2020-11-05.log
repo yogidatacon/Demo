@@ -1,0 +1,403 @@
+2020-11-05 10:32:38.5491 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 10:32:40.7820 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 10:33:25.2076 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:40:17.3655 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:40:30.0321 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:41:18.1292 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:41:18.1292 INFO Get State List Success
+2020-11-05 11:41:18.1425 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:41:33.4723 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:41:36.5326 INFO Get State List Success
+2020-11-05 11:42:05.6494 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:42:09.7276 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:42:35.4462 INFO Get Thana List Success
+2020-11-05 11:44:58.3697 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:45:01.5200 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:45:02.8924 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:45:02.8924 INFO Get State List Success
+2020-11-05 11:45:02.9063 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:47:13.8740 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:47:13.8740 INFO Get State List Success
+2020-11-05 11:47:13.8740 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:48:12.7106 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:48:12.7106 INFO Get State List Success
+2020-11-05 11:48:12.7106 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 11:48:40.4531 INFO Get Thana List Success
+2020-11-05 11:53:38.1811 INFO Insert State Fail :22P02: invalid input syntax for type numeric: ""
+2020-11-05 11:53:38.2002 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:05:31.4494 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:05:33.1214 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:05:35.4914 INFO Get State List Fail :42712: table name "b" specified more than once
+2020-11-05 12:05:35.5127 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:05:42.1294 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:05:42.1436 INFO Get State List Fail :42712: table name "b" specified more than once
+2020-11-05 12:05:42.1436 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:05:47.1031 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:06:57.1239 INFO Get State List Success
+2020-11-05 12:06:57.1239 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:07:17.0414 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:07:17.0452 INFO Get State List Success
+2020-11-05 12:07:17.0452 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:07:24.8669 INFO Get Thana List Success
+2020-11-05 12:10:38.1517 INFO Insert State Sucesss
+2020-11-05 12:10:42.7578 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:10:42.7578 INFO Get State List Success
+2020-11-05 12:10:42.7747 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:11:09.1268 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:11:09.1268 INFO Get State List Success
+2020-11-05 12:11:09.1268 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:11:35.9983 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:11:35.9983 INFO Get State List Success
+2020-11-05 12:11:35.9983 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:24:34.6020 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:24:36.9207 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:24:36.9207 INFO Get State List Success
+2020-11-05 12:24:36.9650 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:24:38.7157 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:24:38.7197 INFO Get State List Success
+2020-11-05 12:24:38.7197 INFO Get Customer Details Success
+2020-11-05 12:24:38.7346 INFO Get Thana List Success
+2020-11-05 12:24:38.7346 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:25:36.3354 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:25:36.3354 INFO Get State List Success
+2020-11-05 12:25:36.3354 INFO Get Customer Details Success
+2020-11-05 12:25:36.3427 INFO Get Thana List Success
+2020-11-05 12:25:36.3427 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:31:22.9230 INFO Insert State Sucesss
+2020-11-05 12:31:53.7524 INFO Insert State Sucesss
+2020-11-05 12:31:53.7793 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:31:53.7793 INFO Get State List Success
+2020-11-05 12:31:53.7793 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:31:57.6911 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:31:57.6911 INFO Get State List Success
+2020-11-05 12:31:57.6911 INFO Get Customer Details Success
+2020-11-05 12:31:57.7032 INFO Get Thana List Success
+2020-11-05 12:31:57.7032 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:03.3946 INFO Get Thana List Success
+2020-11-05 12:32:06.4263 INFO Insert State Fail :23503: insert or update on table "customer_master" violates foreign key constraint "fk_thana_master"
+2020-11-05 12:32:06.4472 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:06.4472 INFO Get State List Success
+2020-11-05 12:32:06.4531 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:08.8150 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:08.8150 INFO Get State List Success
+2020-11-05 12:32:08.8150 INFO Get Customer Details Success
+2020-11-05 12:32:08.8150 INFO Get Thana List Success
+2020-11-05 12:32:08.8150 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:14.7743 INFO Get Thana List Success
+2020-11-05 12:32:23.6748 INFO Insert State Sucesss
+2020-11-05 12:32:23.6944 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:23.6944 INFO Get State List Success
+2020-11-05 12:32:23.6944 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:28.9626 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:32:28.9726 INFO Get State List Success
+2020-11-05 12:32:28.9726 INFO Get Customer Details Success
+2020-11-05 12:32:28.9726 INFO Get Thana List Success
+2020-11-05 12:32:28.9726 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:33:20.5534 INFO Get Thana List Success
+2020-11-05 12:33:26.7775 INFO Get Thana List Success
+2020-11-05 12:34:52.8601 INFO Insert State Sucesss
+2020-11-05 12:34:52.8822 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:34:52.8822 INFO Get State List Success
+2020-11-05 12:34:52.8822 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:34:56.5017 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:34:56.5017 INFO Get State List Success
+2020-11-05 12:34:56.5017 INFO Get Customer Details Success
+2020-11-05 12:34:56.5017 INFO Get Thana List Success
+2020-11-05 12:34:56.5017 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:35:16.6797 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:35:16.6797 INFO Get State List Success
+2020-11-05 12:35:16.6797 INFO Get Customer Details Success
+2020-11-05 12:35:16.6862 INFO Get Thana List Success
+2020-11-05 12:35:16.6862 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:35:20.0223 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:35:20.0223 INFO Get State List Success
+2020-11-05 12:35:20.0223 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:35:43.0956 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:35:43.0956 INFO Get State List Success
+2020-11-05 12:37:58.8916 INFO Get Customer Details Success
+2020-11-05 12:37:58.8916 INFO Get Thana List Success
+2020-11-05 12:37:58.8916 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:38:06.3865 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:38:06.3865 INFO Get State List Success
+2020-11-05 12:38:06.3915 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:38:10.3164 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:38:10.3164 INFO Get State List Success
+2020-11-05 12:38:31.2170 INFO Get Customer Details Success
+2020-11-05 12:38:31.2170 INFO Get Thana List Success
+2020-11-05 12:38:31.2170 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:38:34.4941 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:38:34.4941 INFO Get State List Success
+2020-11-05 12:38:34.4990 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:16.0300 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:16.0300 INFO Get State List Success
+2020-11-05 12:43:16.0300 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:22.6384 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:22.6409 INFO Get State List Success
+2020-11-05 12:43:25.0140 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:33.3942 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:33.3942 INFO Get State List Success
+2020-11-05 12:43:33.3942 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:37.9898 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:37.9898 INFO Get State List Success
+2020-11-05 12:43:37.9898 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:40.2466 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:43:40.2485 INFO Get State List Success
+2020-11-05 12:43:40.2485 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:45:01.6282 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:45:05.7682 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:45:07.3499 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:45:07.3499 INFO Get Product Type Master List Success
+2020-11-05 12:45:07.3632 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:54:19.6991 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 12:54:19.6991 INFO Get Product Type Master List Success
+2020-11-05 12:55:38.9622 INFO Get State List Success
+2020-11-05 12:56:16.4158 INFO Get State List Success
+2020-11-05 12:56:20.7721 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:02:46.4692 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:02:49.9693 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:02:51.1796 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:02:51.1796 INFO Get Product Type Master List Success
+2020-11-05 13:02:51.1936 INFO Get State List Success
+2020-11-05 13:02:51.1936 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:02:54.6563 INFO Get Customer Details Fail :42703: column a.customer_id does not exist
+2020-11-05 13:03:12.3068 INFO Get Customer Details Fail :42703: column a.customer_id does not exist
+2020-11-05 13:03:40.4973 INFO Get Customer Details Success
+2020-11-05 13:17:47.2505 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:17:50.8215 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:17:52.3583 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:17:52.3583 INFO Get Product Type Master List Success
+2020-11-05 13:17:52.3583 INFO Get State List Success
+2020-11-05 13:17:52.3759 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:20:18.6537 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:20:18.6556 INFO Get Product Type Master List Success
+2020-11-05 13:20:18.6556 INFO Get State List Success
+2020-11-05 13:20:18.6556 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:21:06.4064 INFO Get Customer Details Success
+2020-11-05 13:25:12.1431 INFO Get Customer Details Success
+2020-11-05 13:25:17.6759 INFO Get Customer Details Success
+2020-11-05 13:25:26.3691 INFO Get Customer Details Success
+2020-11-05 13:27:02.6996 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:27:03.5463 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:27:03.5463 INFO Get Product Type Master List Success
+2020-11-05 13:27:03.5463 INFO Get State List Success
+2020-11-05 13:27:03.5463 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 13:27:08.0388 INFO Get Customer Details Success
+2020-11-05 14:29:55.0572 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 14:29:57.3124 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 14:29:59.2287 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 14:29:59.2287 INFO Get Product Type Master List Success
+2020-11-05 14:29:59.2427 INFO Get State List Success
+2020-11-05 14:29:59.2427 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 14:43:44.4704 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:43:48.3351 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:43:48.3351 INFO Get Indent List Success
+2020-11-05 14:43:48.3621 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:43:50.2264 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:43:50.2264 INFO Get Indent List Success
+2020-11-05 14:43:50.3079 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:43:50.3141 INFO Get Party Master List Success
+2020-11-05 14:43:50.3141 INFO Get Product Master List Success
+2020-11-05 14:43:50.3141 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:46:17.8504 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:46:54.9028 INFO Get Party Master List Success
+2020-11-05 14:46:54.9067 INFO Get Product Master List Success
+2020-11-05 14:46:54.9067 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:47:29.5424 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:47:31.6037 INFO Get Party Master List Success
+2020-11-05 14:47:31.6037 INFO Get Product Master List Success
+2020-11-05 14:47:31.6077 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:48:50.1758 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:48:58.1308 INFO Get Party Master List Success
+2020-11-05 14:48:58.1308 INFO Get Product Master List Success
+2020-11-05 14:48:58.1308 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:50:12.4307 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:50:18.3441 INFO Get Party Master List Success
+2020-11-05 14:50:18.3441 INFO Get Product Master List Success
+2020-11-05 14:50:18.3441 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:12.6889 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:15.4303 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:17.0138 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:17.0138 INFO Get State List Success
+2020-11-05 14:53:17.0367 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:18.1123 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:18.1123 INFO Get Indent List Success
+2020-11-05 14:53:18.1123 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:19.4822 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:19.4847 INFO Get Indent List Success
+2020-11-05 14:53:19.5613 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:53:22.2519 INFO Get Party Master List Success
+2020-11-05 14:53:22.2519 INFO Get Product Master List Success
+2020-11-05 14:53:22.2639 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:55:29.2930 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:55:31.7060 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:55:31.7060 INFO Get Indent List Success
+2020-11-05 14:55:31.7352 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:55:32.9619 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:55:32.9619 INFO Get Indent List Success
+2020-11-05 14:55:33.0425 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:55:33.0493 INFO Get Party Master List Success
+2020-11-05 14:55:33.0493 INFO Get Product Master List Success
+2020-11-05 14:55:33.0611 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:56:08.1140 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:56:08.1140 INFO Get Party Master List Success
+2020-11-05 14:56:08.1140 INFO Get Product Master List Success
+2020-11-05 14:56:08.1140 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:56:39.9419 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:56:39.9419 INFO Get Party Master List Success
+2020-11-05 14:56:39.9419 INFO Get Product Master List Success
+2020-11-05 14:56:39.9419 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:57:14.2360 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 14:57:14.2360 INFO Get Party Master List Success
+2020-11-05 14:57:14.2360 INFO Get Product Master List Success
+2020-11-05 14:57:14.2360 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:51.0174 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:55.4303 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:55.4602 INFO Get Indent List Success
+2020-11-05 15:11:55.4819 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:56.4691 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:56.4691 INFO Get Indent List Success
+2020-11-05 15:11:56.5144 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:56.5144 INFO Get Allotment List Success
+2020-11-05 15:11:56.5144 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:58.2831 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:58.2831 INFO Get Allotment List Success
+2020-11-05 15:11:58.3384 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:11:58.3448 INFO Get Party Master List Success
+2020-11-05 15:11:58.3765 INFO Get Indent List Success
+2020-11-05 15:11:58.3765 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:12:31.0591 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:12:31.0621 INFO Get Party Master List Success
+2020-11-05 15:12:31.0621 INFO Get Indent List Success
+2020-11-05 15:12:31.0621 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:46.5114 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:48.9206 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:48.9206 INFO Get Indent List Success
+2020-11-05 15:13:48.9472 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:49.9217 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:49.9217 INFO Get Indent List Success
+2020-11-05 15:13:52.4121 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:52.4121 INFO Get Allotment List Success
+2020-11-05 15:13:52.4121 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:56.0921 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:56.0921 INFO Get Allotment List Success
+2020-11-05 15:13:56.1792 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:13:56.1792 INFO Get Party Master List Success
+2020-11-05 15:13:56.1925 INFO Get Indent List Success
+2020-11-05 15:13:56.1925 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:14:05.9117 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:14:05.9117 INFO Get Party Master List Success
+2020-11-05 15:14:05.9117 INFO Get Indent List Success
+2020-11-05 15:14:05.9207 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:14:38.4895 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:14:38.4895 INFO Get Party Master List Success
+2020-11-05 15:14:38.4895 INFO Get Indent List Success
+2020-11-05 15:15:05.0835 INFO Get Indent List Success
+2020-11-05 15:15:05.0835 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-05 15:21:42.6674 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 15:21:45.4240 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 15:21:46.9564 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 15:21:46.9564 INFO Get Product Type Master List Success
+2020-11-05 15:21:47.0486 INFO Get NOC Fail:0A000: cross-database references are not implemented: "exciseautomation.exciseautomation.noc"
+2020-11-05 15:21:47.0486 INFO Get State List Success
+2020-11-05 15:21:47.0633 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 15:22:03.7319 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 15:22:03.7337 INFO Get Product Type Master List Success
+2020-11-05 15:22:05.6997 INFO Get NOC Fail:0A000: cross-database references are not implemented: "exciseautomation.exciseautomation.noc"
+2020-11-05 15:22:35.3062 INFO Get NOC Sucess:1
+2020-11-05 15:22:35.3062 INFO Get State List Success
+2020-11-05 15:22:35.3112 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 15:22:38.8651 INFO Get Customer Details Success
+2020-11-05 16:05:29.9025 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:05:33.0702 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:05:34.8089 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:05:34.8129 INFO Get Product Type Master List Success
+2020-11-05 16:05:37.9552 INFO Get NOC Sucess:1
+2020-11-05 16:05:37.9552 INFO Get State List Success
+2020-11-05 16:05:37.9692 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:05:42.7328 INFO Get Customer Details Success
+2020-11-05 16:11:06.0733 INFO NOC Insertion Fail:1-D01 - 42601: INSERT has more expressions than target columns
+2020-11-05 16:13:24.8964 INFO NOC Insertion Sucess:1-D01
+2020-11-05 16:13:24.9213 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:28:05.4022 INFO Get WorkFlow List Success
+2020-11-05 16:28:08.5696 INFO Get SubModule In WorkFlow Success
+2020-11-05 16:28:08.5696 INFO Get District In WorkFlow Success
+2020-11-05 16:28:08.5830 INFO Get GetMaxID Success : workflow
+2020-11-05 16:28:27.5217 INFO Get State List Success
+2020-11-05 16:28:29.4651 INFO Org Get List Success
+2020-11-05 16:28:31.7067 INFO Module Get List Success
+2020-11-05 16:28:33.3395 INFO Org Get List Success
+2020-11-05 16:28:37.5174 INFO Get Existing data Fail :module_master
+2020-11-05 16:28:43.2027 INFO Get Existing data Fail :module_master
+2020-11-05 16:28:43.3198 INFO Module Get List Success
+2020-11-05 16:28:46.1308 INFO Get SubModule Sucess
+2020-11-05 16:28:50.4442 INFO Org Get List Success
+2020-11-05 16:28:52.7782 INFO Module Get List Success
+2020-11-05 16:29:00.5684 INFO Get Existing data Fail :Submodule_master
+2020-11-05 16:29:05.0252 INFO Get Existing data Fail :Submodule_master
+2020-11-05 16:29:08.5591 INFO Insert SubModule Success :NOC-NOC
+2020-11-05 16:29:08.5803 INFO Get SubModule Sucess
+2020-11-05 16:29:11.9028 INFO Get TabNames List Success
+2020-11-05 16:29:13.2133 INFO Org Get List Success
+2020-11-05 16:29:13.2133 INFO Module Get List Success
+2020-11-05 16:29:27.6241 INFO Get Existing data Fail :tabname_master
+2020-11-05 16:29:29.0835 INFO Module Get List Success
+2020-11-05 16:29:32.2400 INFO Get SubModule Sucess
+2020-11-05 16:29:38.9529 INFO Insert TabNames Success :0-NOC From
+2020-11-05 16:29:38.9750 INFO Get TabNames List Success
+2020-11-05 16:29:47.7530 INFO Get TabNames List Success
+2020-11-05 16:29:50.0097 INFO Org Get List Success
+2020-11-05 16:29:50.0097 INFO Module Get List Success
+2020-11-05 16:29:50.0097 INFO Get SubModule Sucess
+2020-11-05 16:29:50.0156 INFO Get WorkFlow List Success
+2020-11-05 16:29:54.8633 INFO Get TabNames List Success
+2020-11-05 16:30:06.8439 INFO Get RolePermissions List Success
+2020-11-05 16:30:12.8093 INFO Get WorkFlow List Success
+2020-11-05 16:30:19.8695 INFO Get SubModule In WorkFlow Success
+2020-11-05 16:30:19.8695 INFO Get District In WorkFlow Success
+2020-11-05 16:30:19.8695 INFO Get GetMaxID Success : workflow
+2020-11-05 16:30:25.6932 INFO Get TabName In WorkFlow Success
+2020-11-05 16:30:27.4209 INFO Get RoleNames In WorkFlow Success
+2020-11-05 16:30:38.3100 INFO Get Users List Success
+2020-11-05 16:30:56.8372 INFO Get TabName In WorkFlow Success
+2020-11-05 16:30:58.2838 INFO Get RoleNames In WorkFlow Success
+2020-11-05 16:31:01.7997 INFO Get Users List Success
+2020-11-05 16:31:14.2337 INFO Get TabName In WorkFlow Success
+2020-11-05 16:31:15.9512 INFO Get RoleNames In WorkFlow Success
+2020-11-05 16:31:19.5965 INFO Get Users List Success
+2020-11-05 16:31:30.0279 INFO Get GetMaxID Success : workflow
+2020-11-05 16:31:30.0409 INFO Insert WorkFlow Success :6-
+2020-11-05 16:31:30.0527 INFO Insert WorkFlow Success :7-
+2020-11-05 16:31:30.0651 INFO Insert WorkFlow Success :8-
+2020-11-05 16:31:30.1033 INFO Get WorkFlow List Success
+2020-11-05 16:31:38.8329 INFO Get SubModule In WorkFlow Success
+2020-11-05 16:31:38.8329 INFO Get District In WorkFlow Success
+2020-11-05 16:31:38.8329 INFO Get WorkFlow  Success
+2020-11-05 16:31:38.8329 INFO Get TabName In WorkFlow Success
+2020-11-05 16:31:38.8419 INFO Get RoleNames In WorkFlow Success
+2020-11-05 16:31:38.8419 INFO Get Users List Success
+2020-11-05 16:31:38.8419 INFO Get Users List Success
+2020-11-05 16:31:38.8776 INFO Get Users List Success
+2020-11-05 16:34:09.5741 INFO Get User Success :21-Deputy Commissioner
+2020-11-05 16:34:13.2473 INFO Get User Success :21-Deputy Commissioner
+2020-11-05 16:34:13.2513 INFO Get User Success :21-Deputy Commissioner
+2020-11-05 16:34:26.8577 INFO Get User Success :21-Deputy Commissioner
+2020-11-05 16:36:02.1245 INFO Check WorkFlow List Success
+2020-11-05 16:46:19.8271 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:46:25.1916 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:46:29.9647 INFO Get RR List Success
+2020-11-05 16:55:02.4179 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:55:06.8821 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:55:06.8821 INFO Get RR List Success
+2020-11-05 16:57:19.0666 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:57:21.1378 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 16:57:21.1429 INFO Get RR List Success
+2020-11-05 16:58:50.1386 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 17:01:03.0485 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 17:01:05.7280 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 17:01:05.7325 INFO Get RR List Success
+2020-11-05 17:01:41.7481 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 17:01:41.7481 INFO Get RR List Success
+2020-11-05 17:01:41.7481 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 17:02:02.2358 INFO Get User Success :18-Harinagar Distillery
+2020-11-05 17:02:02.2358 INFO Get RR List Success
+2020-11-05 17:02:02.2358 INFO Get User Success :18-Harinagar Distillery

@@ -1,0 +1,223 @@
+2021-06-16 12:11:28.0858 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:12:06.7383 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:12:07.7083 INFO Get User Success :mtp1
+2021-06-16 12:13:02.9477 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:13:14.0680 INFO Get User Success :mtp1
+2021-06-16 12:13:22.0715 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:13:24.0864 INFO Get Allotment List Success
+2021-06-16 12:13:24.9573 INFO Get Product Master List Success
+2021-06-16 12:13:25.1063 INFO Get UOM List Success
+2021-06-16 12:13:25.2713 INFO Get User Success :mtp1
+2021-06-16 12:15:31.9992 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:17:10.8479 INFO Get User Success :mtp1
+2021-06-16 12:17:19.2194 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:17:21.8012 INFO Get Allotment List Success
+2021-06-16 12:17:22.4292 INFO Get Product Master List Success
+2021-06-16 12:17:22.4871 INFO Get UOM List Success
+2021-06-16 12:17:22.5651 INFO Get User Success :mtp1
+2021-06-16 12:24:40.4901 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:24:43.4269 INFO Get Allotment List Success
+2021-06-16 12:24:44.0539 INFO Get Product Master List Success
+2021-06-16 12:24:44.1299 INFO Get UOM List Success
+2021-06-16 12:24:44.2379 INFO Get User Success :mtp1
+2021-06-16 12:25:58.0871 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:26:01.2419 INFO Get Allotment List Success
+2021-06-16 12:26:02.0609 INFO Get Product Master List Success
+2021-06-16 12:26:02.1599 INFO Get UOM List Success
+2021-06-16 12:26:02.2459 INFO Get User Success :mtp1
+2021-06-16 12:26:44.3722 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:26:47.3190 INFO Get Allotment List Success
+2021-06-16 12:26:47.9800 INFO Get Product Master List Success
+2021-06-16 12:26:48.0509 INFO Get UOM List Success
+2021-06-16 12:26:48.1549 INFO Get User Success :mtp1
+2021-06-16 12:30:21.0640 INFO Get Allotment Details Success
+2021-06-16 12:30:34.2593 INFO Get Allotment Details Success
+2021-06-16 12:36:57.4839 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:36:59.3268 INFO Get User Success :mtp1
+2021-06-16 12:37:03.8145 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:37:07.4413 INFO Get Allotment List Success
+2021-06-16 12:37:08.8761 INFO Get Product Master List Success
+2021-06-16 12:37:08.9431 INFO Get UOM List Success
+2021-06-16 12:37:13.4359 INFO Get Allotment Details Success
+2021-06-16 12:37:15.3858 INFO Get User Success :mtp1
+2021-06-16 12:45:49.5958 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:45:53.2736 INFO Get Allotment List Success
+2021-06-16 12:45:53.9486 INFO Get Product Master List Success
+2021-06-16 12:45:54.0126 INFO Get UOM List Success
+2021-06-16 12:45:56.0004 INFO Get Allotment Details Success
+2021-06-16 12:45:56.9184 INFO Get User Success :mtp1
+2021-06-16 12:46:31.2362 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:52:42.9206 INFO Get User Success :mtp1
+2021-06-16 12:52:46.7103 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:52:49.9541 INFO Get Allotment List Success
+2021-06-16 12:52:51.3760 INFO Get Product Master List Success
+2021-06-16 12:52:51.4360 INFO Get UOM List Success
+2021-06-16 12:52:53.8349 INFO Get Allotment Details Success
+2021-06-16 12:52:55.0078 INFO Get User Success :mtp1
+2021-06-16 12:53:06.1601 INFO Get User Success :353-M and TP Unit
+2021-06-16 12:53:07.6231 INFO Get User Success :mtp1
+2021-06-16 12:59:29.3076 INFO Get User Fail :-The operation has timed out.
+2021-06-16 12:59:46.8235 INFO Get User Fail :mtp1_The operation has timed out.
+2021-06-16 13:00:39.8991 INFO Get User Fail :-The operation has timed out.
+2021-06-16 13:01:16.0028 INFO Get User Fail :mtp1_The operation has timed out.
+2021-06-16 13:26:28.2401 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:26:44.0550 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:26:44.9200 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:31:13.1808 INFO Sugarcanepurchase Get List Success
+2021-06-16 13:31:13.2598 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:31:13.5258 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:31:16.6256 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:31:17.1215 INFO MIR GetList Sucess
+2021-06-16 13:31:17.4595 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:31:21.8042 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:31:22.1182 INFO Get VAT Master List Success
+2021-06-16 13:31:22.6182 INFO Get Pass List Success
+2021-06-16 13:31:22.7182 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:31:28.3553 INFO Get Pass List Success
+2021-06-16 13:31:36.0071 INFO Get Pass List Success
+2021-06-16 13:31:43.2603 INFO Get Pass List Success
+2021-06-16 13:31:50.8225 INFO Get Pass List Success
+2021-06-16 13:31:55.2797 INFO Get Pass List Success
+2021-06-16 13:43:29.2307 INFO Get Pass List Success
+2021-06-16 13:44:13.3612 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:44:13.8451 INFO MIR GetList Sucess
+2021-06-16 13:44:13.9621 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:44:17.2519 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:44:17.6498 INFO Get VAT Master List Success
+2021-06-16 13:44:17.8498 INFO Get Pass List Success
+2021-06-16 13:44:17.9508 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:44:20.9276 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:44:21.3276 INFO MIR GetList Sucess
+2021-06-16 13:44:21.4236 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:44:23.8334 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:44:24.0694 INFO Get VAT Master List Success
+2021-06-16 13:44:24.2734 INFO Get Pass List Success
+2021-06-16 13:44:30.4430 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2021-06-16 13:44:30.5280 INFO Get Pass List Success
+2021-06-16 13:44:30.7740 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:44:40.8533 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:44:41.1264 INFO MIR GetList Sucess
+2021-06-16 13:44:41.2293 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:48:41.9069 INFO Get User Fail :-Exception while writing to stream
+2021-06-16 13:48:42.4439 INFO Get VAT Master List Success
+2021-06-16 13:48:42.6919 INFO Get Pass List Success
+2021-06-16 13:48:42.8239 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:48:52.7330 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:48:53.0610 INFO MIR GetList Sucess
+2021-06-16 13:48:53.1570 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:49:14.8389 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:49:15.1729 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:49:15.9389 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:49:20.5536 INFO Sugarcanepurchase Get List Success
+2021-06-16 13:49:20.6286 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:49:20.7295 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:49:23.6514 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:49:23.9493 INFO MIR GetList Sucess
+2021-06-16 13:49:24.0603 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:49:27.1092 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 13:49:27.3471 INFO Get VAT Master List Success
+2021-06-16 13:49:27.5841 INFO Get Pass List Success
+2021-06-16 13:49:27.6911 INFO Get User Success :newswadeshi_sgr
+2021-06-16 13:49:32.1542 INFO Get Pass List Success
+2021-06-16 13:49:47.7396 INFO Get Pass List Success
+2021-06-16 13:51:35.7697 INFO Get Pass List Success
+2021-06-16 14:53:10.4202 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 14:53:10.8941 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 14:53:11.7211 INFO Get User Success :newswadeshi_sgr
+2021-06-16 14:53:24.1054 INFO Sugarcanepurchase Get List Success
+2021-06-16 14:53:24.1783 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 14:53:24.3443 INFO Get User Success :newswadeshi_sgr
+2021-06-16 14:53:27.1961 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 14:53:27.5131 INFO MIR GetList Sucess
+2021-06-16 14:53:27.6411 INFO Get User Success :newswadeshi_sgr
+2021-06-16 14:53:31.6269 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 14:53:31.8879 INFO Get VAT Master List Success
+2021-06-16 14:53:32.1249 INFO Get Pass List Success
+2021-06-16 14:53:32.2578 INFO Get User Success :newswadeshi_sgr
+2021-06-16 14:53:50.0017 INFO Get Pass List Success
+2021-06-16 14:57:29.1320 INFO Get Pass List Success
+2021-06-16 15:07:56.0957 INFO Get Pass List Success
+2021-06-16 15:09:55.9901 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 15:09:56.3700 INFO MIR GetList Sucess
+2021-06-16 15:09:56.4820 INFO Get User Success :newswadeshi_sgr
+2021-06-16 15:10:04.0425 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 15:10:04.3415 INFO Get VAT Master List Success
+2021-06-16 15:10:48.0637 INFO Get Pass List Success
+2021-06-16 15:10:48.1987 INFO Get User Success :newswadeshi_sgr
+2021-06-16 15:11:07.6395 INFO Get Pass List Success
+2021-06-16 15:57:04.0710 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 15:57:04.3629 INFO MIR GetList Sucess
+2021-06-16 15:57:04.4719 INFO Get User Success :newswadeshi_sgr
+2021-06-16 16:03:42.6395 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 16:03:42.8545 INFO Get VAT Master List Success
+2021-06-16 16:05:48.2974 INFO Get Pass List Success
+2021-06-16 16:05:48.4005 INFO Get User Success :newswadeshi_sgr
+2021-06-16 16:05:59.1865 INFO Get Pass List Success
+2021-06-16 17:37:02.3856 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:37:20.1285 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:37:21.0034 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:37:25.5791 INFO Sugarcanepurchase Get List Success
+2021-06-16 17:37:25.6481 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:37:25.8501 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:37:28.4819 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:37:28.7629 INFO MIR GetList Sucess
+2021-06-16 17:37:28.9459 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:37:31.5627 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:37:31.8097 INFO Get VAT Master List Success
+2021-06-16 17:37:37.1554 INFO Get Pass List Success
+2021-06-16 17:37:37.2583 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:40:16.7108 INFO Get Pass List Success
+2021-06-16 17:41:02.3759 INFO Get Pass List Success
+2021-06-16 17:58:09.5245 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:58:10.0425 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:58:10.8924 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:58:19.1879 INFO Sugarcanepurchase Get List Success
+2021-06-16 17:58:19.2759 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:58:19.4778 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:58:43.5893 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:58:43.9723 INFO MIR GetList Sucess
+2021-06-16 17:58:44.1063 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:58:57.9744 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 17:58:58.2304 INFO Get VAT Master List Success
+2021-06-16 17:59:02.9921 INFO Get Pass List Success
+2021-06-16 17:59:03.1121 INFO Get User Success :newswadeshi_sgr
+2021-06-16 17:59:22.9726 INFO Get Pass List Success
+2021-06-16 18:03:33.2465 INFO Get Pass List Success
+2021-06-16 18:07:32.6863 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:07:42.6776 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:07:43.5625 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:07:52.0040 INFO Sugarcanepurchase Get List Success
+2021-06-16 18:07:52.0760 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:07:52.2480 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:07:54.8538 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:07:55.1408 INFO MIR GetList Sucess
+2021-06-16 18:07:55.2758 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:08:00.1974 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:08:00.4424 INFO Get VAT Master List Success
+2021-06-16 18:08:00.6734 INFO Get Pass List Success
+2021-06-16 18:08:00.7865 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:08:05.3347 INFO Get Pass List Success
+2021-06-16 18:11:21.3855 INFO Get Pass List Success
+2021-06-16 18:11:25.9267 INFO Get Pass List Success
+2021-06-16 18:11:32.3511 INFO Get Pass List Success
+2021-06-16 18:11:35.9559 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:11:36.2559 INFO MIR GetList Sucess
+2021-06-16 18:11:36.3559 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:11:38.8347 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:11:39.0927 INFO Get VAT Master List Success
+2021-06-16 18:11:39.4947 INFO Get Pass List Success
+2021-06-16 18:11:39.5937 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:20:03.9619 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:20:04.6679 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:20:05.7957 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:20:26.0184 INFO Sugarcanepurchase Get List Success
+2021-06-16 18:20:26.0874 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:20:26.2104 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:20:29.5182 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:20:29.8552 INFO MIR GetList Sucess
+2021-06-16 18:20:29.9982 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:20:33.2070 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-06-16 18:20:33.4610 INFO Get VAT Master List Success
+2021-06-16 18:20:38.6937 INFO Get Pass List Success
+2021-06-16 18:20:38.8096 INFO Get User Success :newswadeshi_sgr
+2021-06-16 18:20:47.6909 INFO Get Pass List Success

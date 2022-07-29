@@ -1,0 +1,402 @@
+2022-02-07 13:14:09.2963 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:14:11.7840 INFO Get Product Type Master List Success
+2022-02-07 13:14:12.2240 INFO Get User Success :excise_Rohtas
+2022-02-07 13:14:16.4925 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:14:18.2057 INFO Get Product Type Master List Success
+2022-02-07 13:14:18.6495 INFO Get User Success :excise_Rohtas
+2022-02-07 13:16:49.3420 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:16:49.3998 INFO Get Product Type Master List Success
+2022-02-07 13:16:49.5753 INFO Get User Success :excise_Rohtas
+2022-02-07 13:16:50.4749 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:16:50.5358 INFO Get Product Type Master List Success
+2022-02-07 13:16:51.0055 INFO Get User Success :excise_Rohtas
+2022-02-07 13:25:38.1808 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:25:46.5580 INFO Get Product Type Master List Success
+2022-02-07 13:25:50.0515 INFO Get User Success :excise_Rohtas
+2022-02-07 13:25:56.1912 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:25:56.2882 INFO Get Product Type Master List Success
+2022-02-07 13:25:56.4179 INFO Get User Success :excise_Rohtas
+2022-02-07 13:26:28.8569 INFO Get UOM List Success
+2022-02-07 13:26:31.7023 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:26:35.5055 INFO Get Product Type Master List Success
+2022-02-07 13:26:35.8681 INFO Get User Success :excise_Rohtas
+2022-02-07 13:27:34.1775 INFO Get UOM List Success
+2022-02-07 13:29:23.3485 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:29:23.4023 INFO Get Product Type Master List Success
+2022-02-07 13:29:23.5561 INFO Get User Success :excise_Rohtas
+2022-02-07 13:29:39.0862 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:29:39.1405 INFO Get Product Type Master List Success
+2022-02-07 13:29:39.2981 INFO Get User Success :excise_Rohtas
+2022-02-07 13:29:42.4443 INFO Get UOM List Success
+2022-02-07 13:29:44.1432 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:29:45.1734 INFO Get Product Type Master List Success
+2022-02-07 13:29:45.3629 INFO Get User Success :excise_Rohtas
+2022-02-07 13:31:42.2463 INFO Get UOM List Success
+2022-02-07 13:32:22.6407 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:32:22.6945 INFO Get Product Type Master List Success
+2022-02-07 13:32:22.8579 INFO Get User Success :excise_Rohtas
+2022-02-07 13:32:27.8675 INFO Get UOM List Success
+2022-02-07 13:32:29.5281 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:32:29.5805 INFO Get Product Type Master List Success
+2022-02-07 13:32:30.0208 INFO Get User Success :excise_Rohtas
+2022-02-07 13:32:32.9624 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:32:33.0159 INFO Get Product Type Master List Success
+2022-02-07 13:32:33.2056 INFO Get User Success :excise_Rohtas
+2022-02-07 13:32:37.1966 INFO Get UOM List Success
+2022-02-07 13:32:38.9447 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:36:44.8097 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:36:47.9408 INFO Get Product Type Master List Success
+2022-02-07 13:36:48.2929 INFO Get User Success :excise_Rohtas
+2022-02-07 13:36:52.6694 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:36:54.1458 INFO Get Product Type Master List Success
+2022-02-07 13:36:54.3309 INFO Get User Success :excise_Rohtas
+2022-02-07 13:37:14.0716 INFO Get UOM List Success
+2022-02-07 13:38:02.3710 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:38:13.2562 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:38:17.8317 INFO Get Product Type Master List Success
+2022-02-07 13:38:18.0286 INFO Get User Success :excise_Rohtas
+2022-02-07 13:38:43.5091 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:38:44.5203 INFO Get Product Type Master List Success
+2022-02-07 13:38:44.9746 INFO Get User Success :excise_Rohtas
+2022-02-07 13:38:54.9560 INFO Get UOM List Success
+2022-02-07 13:38:56.6856 INFO Get User Fail :234--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:38:58.8663 INFO Get Product Type Master List Success
+2022-02-07 13:38:59.3344 INFO Get User Success :excise_Rohtas
+2022-02-07 13:39:06.8500 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:39:10.1129 INFO Get Product Type Master List Success
+2022-02-07 13:39:10.3223 INFO Get User Success :excise_Rohtas
+2022-02-07 13:39:17.0186 INFO Get UOM List Success
+2022-02-07 13:39:20.6954 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:39:20.7466 INFO Get Product Type Master List Success
+2022-02-07 13:39:21.2287 INFO Get User Success :excise_Rohtas
+2022-02-07 13:40:11.0766 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:40:11.1314 INFO Get Product Type Master List Success
+2022-02-07 13:40:11.6062 INFO Get User Success :excise_Rohtas
+2022-02-07 13:40:12.9834 INFO Get UOM List Success
+2022-02-07 13:44:26.6308 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:44:26.6837 INFO Get Product Type Master List Success
+2022-02-07 13:44:27.2935 INFO Get User Success :excise_Rohtas
+2022-02-07 13:44:31.5275 INFO Get User Success :207-excise_Rohtas
+2022-02-07 13:44:31.5804 INFO Get Product Type Master List Success
+2022-02-07 13:44:31.7800 INFO Get User Success :excise_Rohtas
+2022-02-07 13:44:33.4636 INFO Get UOM List Success
+2022-02-07 13:44:35.3372 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 13:44:35.3970 INFO Get Product Type Master List Success
+2022-02-07 13:44:35.5536 INFO Get User Success :excise_Rohtas
+2022-02-07 14:42:39.2239 INFO Get User Success :207-excise_Rohtas
+2022-02-07 14:42:48.0750 INFO Get Product Type Master List Success
+2022-02-07 14:42:48.2129 INFO Get User Success :excise_Rohtas
+2022-02-07 14:43:00.8666 INFO Get User Success :207-excise_Rohtas
+2022-02-07 14:43:00.9754 INFO Get Product Type Master List Success
+2022-02-07 14:43:01.1005 INFO Get User Success :excise_Rohtas
+2022-02-07 14:43:07.5634 INFO Get UOM List Success
+2022-02-07 14:43:11.0662 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 14:43:11.1280 INFO Get Product Type Master List Success
+2022-02-07 14:43:11.2527 INFO Get User Success :excise_Rohtas
+2022-02-07 14:43:20.5713 INFO Get UOM List Success
+2022-02-07 14:43:50.1246 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 14:43:50.1854 INFO Get Product Type Master List Success
+2022-02-07 14:43:50.3689 INFO Get User Success :excise_Rohtas
+2022-02-07 14:44:17.5805 INFO Get UOM List Success
+2022-02-07 14:44:50.5688 INFO Get UOM List Success
+2022-02-07 14:44:52.0415 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 14:44:52.1022 INFO Get Product Type Master List Success
+2022-02-07 14:44:52.2764 INFO Get User Success :excise_Rohtas
+2022-02-07 14:45:01.4074 INFO Get User Success :207-excise_Rohtas
+2022-02-07 14:45:01.4698 INFO Get Product Type Master List Success
+2022-02-07 14:45:01.6536 INFO Get User Success :excise_Rohtas
+2022-02-07 14:45:45.6969 INFO Get UOM List Success
+2022-02-07 14:46:00.6277 INFO Get UOM List Success
+2022-02-07 14:46:02.0948 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 14:46:02.1676 INFO Get Product Type Master List Success
+2022-02-07 14:46:02.3471 INFO Get User Success :excise_Rohtas
+2022-02-07 14:52:16.0032 INFO Get User Success :207-excise_Rohtas
+2022-02-07 14:52:16.0630 INFO Get Product Type Master List Success
+2022-02-07 14:52:16.1727 INFO Get User Success :excise_Rohtas
+2022-02-07 14:52:18.1350 INFO Get UOM List Success
+2022-02-07 14:52:20.3388 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 14:52:20.3967 INFO Get Product Type Master List Success
+2022-02-07 14:52:20.5074 INFO Get User Success :excise_Rohtas
+2022-02-07 14:52:24.1499 INFO Get User Success :207-excise_Rohtas
+2022-02-07 14:52:24.2187 INFO Get Product Type Master List Success
+2022-02-07 14:52:24.2895 INFO Get User Success :excise_Rohtas
+2022-02-07 14:52:46.8009 INFO Get UOM List Success
+2022-02-07 15:12:54.5563 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:12:54.6147 INFO Get Product Type Master List Success
+2022-02-07 15:12:54.7269 INFO Get User Success :excise_Rohtas
+2022-02-07 15:13:10.9245 INFO Get UOM List Success
+2022-02-07 15:16:27.7321 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:16:36.1919 INFO Get Product Type Master List Success
+2022-02-07 15:16:36.3070 INFO Get User Success :excise_Rohtas
+2022-02-07 15:16:43.0792 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:16:43.4885 INFO Get Product Type Master List Success
+2022-02-07 15:16:43.6122 INFO Get User Success :excise_Rohtas
+2022-02-07 15:16:47.6771 INFO Get UOM List Success
+2022-02-07 15:16:51.1833 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:16:51.2521 INFO Get Product Type Master List Success
+2022-02-07 15:16:51.3718 INFO Get User Success :excise_Rohtas
+2022-02-07 15:24:24.6005 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:24:24.6586 INFO Get Product Type Master List Success
+2022-02-07 15:24:24.7656 INFO Get User Success :excise_Rohtas
+2022-02-07 15:24:35.3541 INFO Get UOM List Success
+2022-02-07 15:24:37.4080 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:24:37.4647 INFO Get Product Type Master List Success
+2022-02-07 15:24:37.5820 INFO Get User Success :excise_Rohtas
+2022-02-07 15:24:43.7138 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:24:43.7712 INFO Get Product Type Master List Success
+2022-02-07 15:24:43.9853 INFO Get User Success :excise_Rohtas
+2022-02-07 15:24:48.5554 INFO Get UOM List Success
+2022-02-07 15:24:52.5944 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:24:52.6519 INFO Get Product Type Master List Success
+2022-02-07 15:24:52.8118 INFO Get User Success :excise_Rohtas
+2022-02-07 15:33:42.1067 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:33:42.1660 INFO Get Product Type Master List Success
+2022-02-07 15:33:42.3829 INFO Get User Success :excise_Rohtas
+2022-02-07 15:33:55.0737 INFO Get UOM List Success
+2022-02-07 15:33:57.2147 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:34:00.5430 INFO Get Product Type Master List Success
+2022-02-07 15:34:00.7130 INFO Get User Success :excise_Rohtas
+2022-02-07 15:34:11.5893 INFO Get UOM List Success
+2022-02-07 15:34:18.3776 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:34:18.4355 INFO Get Product Type Master List Success
+2022-02-07 15:34:18.6038 INFO Get User Success :excise_Rohtas
+2022-02-07 15:34:52.2271 INFO Get UOM List Success
+2022-02-07 15:40:25.4105 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:40:36.7476 INFO Get Product Type Master List Success
+2022-02-07 15:40:36.8641 INFO Get User Success :excise_Rohtas
+2022-02-07 15:40:58.1386 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:40:58.2516 INFO Get Product Type Master List Success
+2022-02-07 15:40:58.3600 INFO Get User Success :excise_Rohtas
+2022-02-07 15:41:01.6252 INFO Get UOM List Success
+2022-02-07 15:41:13.3756 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:44:02.2689 INFO Get Product Type Master List Success
+2022-02-07 15:44:02.3906 INFO Get User Success :excise_Rohtas
+2022-02-07 15:44:14.0405 INFO Get UOM List Success
+2022-02-07 15:44:17.2600 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:44:17.3183 INFO Get Product Type Master List Success
+2022-02-07 15:44:17.4265 INFO Get User Success :excise_Rohtas
+2022-02-07 15:44:27.9637 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:44:28.0243 INFO Get Product Type Master List Success
+2022-02-07 15:44:28.1368 INFO Get User Success :excise_Rohtas
+2022-02-07 15:44:36.0726 INFO Get UOM List Success
+2022-02-07 15:44:39.0929 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:48:51.5567 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:48:51.6146 INFO Get Product Type Master List Success
+2022-02-07 15:48:51.7362 INFO Get User Success :excise_Rohtas
+2022-02-07 15:48:53.7735 INFO Get UOM List Success
+2022-02-07 15:49:06.3888 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:49:15.6127 INFO Get Product Type Master List Success
+2022-02-07 15:49:15.7333 INFO Get User Success :excise_Rohtas
+2022-02-07 15:49:48.0350 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:49:48.0940 INFO Get Product Type Master List Success
+2022-02-07 15:49:48.2188 INFO Get User Success :excise_Rohtas
+2022-02-07 15:49:52.6235 INFO Get UOM List Success
+2022-02-07 15:49:54.8712 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:50:01.8070 INFO Get Product Type Master List Success
+2022-02-07 15:50:01.9281 INFO Get User Success :excise_Rohtas
+2022-02-07 15:50:11.8902 INFO Get UOM List Success
+2022-02-07 15:53:04.3793 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:53:04.7394 INFO Get Product Type Master List Success
+2022-02-07 15:53:04.8586 INFO Get User Success :excise_Rohtas
+2022-02-07 15:53:07.5385 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:53:07.5973 INFO Get Product Type Master List Success
+2022-02-07 15:53:07.7770 INFO Get User Success :excise_Rohtas
+2022-02-07 15:53:12.3975 INFO Get UOM List Success
+2022-02-07 15:53:14.6395 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:53:20.6426 INFO Get Product Type Master List Success
+2022-02-07 15:53:20.8128 INFO Get User Success :excise_Rohtas
+2022-02-07 15:53:32.4657 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:53:32.5245 INFO Get Product Type Master List Success
+2022-02-07 15:53:32.6938 INFO Get User Success :excise_Rohtas
+2022-02-07 15:53:35.2608 INFO Get UOM List Success
+2022-02-07 15:53:37.2874 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:53:45.8895 INFO Get Product Type Master List Success
+2022-02-07 15:53:46.0580 INFO Get User Success :excise_Rohtas
+2022-02-07 15:55:22.4084 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:55:22.4676 INFO Get Product Type Master List Success
+2022-02-07 15:55:22.6306 INFO Get User Success :excise_Rohtas
+2022-02-07 15:55:31.3044 INFO Get UOM List Success
+2022-02-07 15:55:33.8002 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:55:38.9899 INFO Get Product Type Master List Success
+2022-02-07 15:55:39.1613 INFO Get User Success :excise_Rohtas
+2022-02-07 15:57:29.1952 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:57:29.2550 INFO Get Product Type Master List Success
+2022-02-07 15:57:29.4284 INFO Get User Success :excise_Rohtas
+2022-02-07 15:57:34.5606 INFO Get UOM List Success
+2022-02-07 15:57:38.9296 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:57:46.2919 INFO Get Product Type Master List Success
+2022-02-07 15:57:46.4609 INFO Get User Success :excise_Rohtas
+2022-02-07 15:58:23.5012 INFO Get User Success :207-excise_Rohtas
+2022-02-07 15:58:23.5596 INFO Get Product Type Master List Success
+2022-02-07 15:58:23.7168 INFO Get User Success :excise_Rohtas
+2022-02-07 15:58:29.8693 INFO Get UOM List Success
+2022-02-07 15:58:31.6519 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 15:58:36.0853 INFO Get Product Type Master List Success
+2022-02-07 15:58:36.2460 INFO Get User Success :excise_Rohtas
+2022-02-07 16:02:54.5082 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:03:00.1751 INFO Get Product Type Master List Success
+2022-02-07 16:03:00.2938 INFO Get User Success :excise_Rohtas
+2022-02-07 16:03:07.9129 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:03:09.7749 INFO Get Product Type Master List Success
+2022-02-07 16:03:09.8915 INFO Get User Success :excise_Rohtas
+2022-02-07 16:03:18.1925 INFO Get UOM List Success
+2022-02-07 16:03:22.8522 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:03:27.5279 INFO Get Product Type Master List Success
+2022-02-07 16:03:27.6425 INFO Get User Success :excise_Rohtas
+2022-02-07 16:04:40.5547 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:04:40.6122 INFO Get Product Type Master List Success
+2022-02-07 16:04:40.7240 INFO Get User Success :excise_Rohtas
+2022-02-07 16:04:45.1542 INFO Get UOM List Success
+2022-02-07 16:04:45.4036 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:05:03.5751 INFO Get Product Type Master List Success
+2022-02-07 16:05:03.6984 INFO Get User Success :excise_Rohtas
+2022-02-07 16:05:46.9524 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:05:47.0124 INFO Get Product Type Master List Success
+2022-02-07 16:05:47.1243 INFO Get User Success :excise_Rohtas
+2022-02-07 16:05:53.1114 INFO Get UOM List Success
+2022-02-07 16:05:53.3622 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:05:53.6458 INFO Get Product Type Master List Success
+2022-02-07 16:05:53.7585 INFO Get User Success :excise_Rohtas
+2022-02-07 16:46:29.9664 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:46:35.7270 INFO Get Product Type Master List Success
+2022-02-07 16:46:35.8486 INFO Get User Success :excise_Rohtas
+2022-02-07 16:46:42.9242 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:46:45.0694 INFO Get Product Type Master List Success
+2022-02-07 16:46:45.1961 INFO Get User Success :excise_Rohtas
+2022-02-07 16:46:53.0721 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:46:53.1299 INFO Get Product Type Master List Success
+2022-02-07 16:46:53.2456 INFO Get User Success :excise_Rohtas
+2022-02-07 16:47:50.9969 INFO Get UOM List Success
+2022-02-07 16:47:54.0375 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:47:54.0952 INFO Get Product Type Master List Success
+2022-02-07 16:47:54.2062 INFO Get User Success :excise_Rohtas
+2022-02-07 16:48:49.5502 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:48:49.6065 INFO Get Product Type Master List Success
+2022-02-07 16:48:49.7178 INFO Get User Success :excise_Rohtas
+2022-02-07 16:49:16.2527 INFO Get UOM List Success
+2022-02-07 16:49:18.2884 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:49:18.3448 INFO Get Product Type Master List Success
+2022-02-07 16:49:18.4550 INFO Get User Success :excise_Rohtas
+2022-02-07 16:53:00.8611 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:53:00.9180 INFO Get Product Type Master List Success
+2022-02-07 16:53:01.0267 INFO Get User Success :excise_Rohtas
+2022-02-07 16:53:06.2438 INFO Get UOM List Success
+2022-02-07 16:53:08.6347 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:53:08.6906 INFO Get Product Type Master List Success
+2022-02-07 16:53:08.8003 INFO Get User Success :excise_Rohtas
+2022-02-07 16:54:01.5194 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:54:01.5885 INFO Get Product Type Master List Success
+2022-02-07 16:54:01.6988 INFO Get User Success :excise_Rohtas
+2022-02-07 16:54:06.4750 INFO Get UOM List Success
+2022-02-07 16:54:09.0750 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:54:09.2473 INFO Get Product Type Master List Success
+2022-02-07 16:54:09.3576 INFO Get User Success :excise_Rohtas
+2022-02-07 16:54:19.3577 INFO Get UOM List Success
+2022-02-07 16:54:56.8400 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:54:56.8957 INFO Get Product Type Master List Success
+2022-02-07 16:54:57.0070 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:02.4993 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:55:02.5562 INFO Get Product Type Master List Success
+2022-02-07 16:55:02.6649 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:04.7019 INFO Get UOM List Success
+2022-02-07 16:55:09.8023 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:55:09.9647 INFO Get Product Type Master List Success
+2022-02-07 16:55:10.0883 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:14.3587 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:55:14.4157 INFO Get Product Type Master List Success
+2022-02-07 16:55:14.5274 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:16.8972 INFO Get UOM List Success
+2022-02-07 16:55:19.1608 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:55:19.3253 INFO Get Product Type Master List Success
+2022-02-07 16:55:19.5034 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:24.1132 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:55:24.1706 INFO Get Product Type Master List Success
+2022-02-07 16:55:24.5523 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:27.9875 INFO Get UOM List Success
+2022-02-07 16:55:30.1566 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:55:30.3344 INFO Get Product Type Master List Success
+2022-02-07 16:55:30.5043 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:37.4359 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:55:37.4940 INFO Get Product Type Master List Success
+2022-02-07 16:55:37.6115 INFO Get User Success :excise_Rohtas
+2022-02-07 16:55:43.7678 INFO Get UOM List Success
+2022-02-07 16:56:19.8576 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:56:20.0351 INFO Get Product Type Master List Success
+2022-02-07 16:56:20.1478 INFO Get User Success :excise_Rohtas
+2022-02-07 16:56:27.9841 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:56:28.0459 INFO Get Product Type Master List Success
+2022-02-07 16:56:28.1572 INFO Get User Success :excise_Rohtas
+2022-02-07 16:56:34.1291 INFO Get UOM List Success
+2022-02-07 16:56:35.9642 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:56:36.1378 INFO Get Product Type Master List Success
+2022-02-07 16:56:36.2505 INFO Get User Success :excise_Rohtas
+2022-02-07 16:56:39.7796 INFO Get User Success :207-excise_Rohtas
+2022-02-07 16:56:39.8354 INFO Get Product Type Master List Success
+2022-02-07 16:56:39.9471 INFO Get User Success :excise_Rohtas
+2022-02-07 16:56:41.4866 INFO Get UOM List Success
+2022-02-07 16:56:43.4417 INFO Get User Fail :207--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-07 16:56:43.6103 INFO Get Product Type Master List Success
+2022-02-07 16:56:43.7191 INFO Get User Success :excise_Rohtas
+2022-02-07 16:59:06.3958 INFO Get User Success :207-excise_Rohtas
+2022-02-07 17:00:27.7515 INFO Get Product Type Master List Success
+2022-02-07 17:00:27.8158 INFO Get User Success :excise_Rohtas
+2022-02-07 17:01:49.0712 INFO Get Thana List Success
+2022-02-07 17:01:49.1914 INFO Get Product Type Master List Success
+2022-02-07 17:01:49.2585 INFO Get User Success :excise_Rohtas
+2022-02-07 17:03:12.6710 INFO Get User Success :207-excise_Rohtas
+2022-02-07 17:04:19.2996 INFO Get Product Type Master List Success
+2022-02-07 17:04:19.3643 INFO Get User Success :excise_Rohtas
+2022-02-07 17:07:16.2485 INFO Get Thana List Success
+2022-02-07 17:07:16.3678 INFO Get Product Type Master List Success
+2022-02-07 17:07:16.4821 INFO Get User Success :excise_Rohtas
+2022-02-07 17:07:22.5572 INFO Get User Success :207-excise_Rohtas
+2022-02-07 17:13:19.5619 INFO Get Product Type Master List Success
+2022-02-07 17:13:19.6255 INFO Get User Success :excise_Rohtas

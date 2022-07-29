@@ -1,0 +1,168 @@
+2022-01-28 14:05:27.4762 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-28 14:05:32.4689 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-28 14:05:33.7912 INFO Get Product Type Master List Success
+2022-01-28 14:05:33.9378 INFO Get User Success :sonasati_sgd
+2022-01-28 14:06:01.3826 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-28 14:06:03.1376 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-28 14:06:05.0536 INFO Get Product Type Master List Success
+2022-01-28 14:06:05.1244 INFO Get User Success :sonasati_sgd
+2022-01-28 14:06:09.5646 INFO Get User Fail :374--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 14:06:10.0314 INFO Get Product Type Master List Success
+2022-01-28 14:06:10.1042 INFO Get User Success :sonasati_sgd
+2022-01-28 14:06:13.8138 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-28 14:06:15.4224 INFO Get Product Type Master List Success
+2022-01-28 14:06:15.4932 INFO Get User Success :sonasati_sgd
+2022-01-28 14:07:00.3422 INFO Get MaxID Success :openingbalance
+2022-01-28 14:08:37.5858 INFO Get User Fail :374--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 14:08:39.7843 INFO Get Product Type Master List Success
+2022-01-28 14:08:39.8569 INFO Get User Success :sonasati_sgd
+2022-01-28 15:01:14.4101 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:01:19.7232 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:01:23.3200 INFO Get Product Type Master List Success
+2022-01-28 15:01:23.5083 INFO Get User Success :bdbl_disbo
+2022-01-28 15:01:36.5419 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:01:36.6414 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:01:36.8600 INFO Get Product Type Master List Success
+2022-01-28 15:01:37.0116 INFO Get User Success :bdbl_disbo
+2022-01-28 15:01:43.8649 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:01:56.0093 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:02:05.6127 INFO Get Product Master List Success
+2022-01-28 15:02:06.6966 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:02:06.7844 INFO Get Balance Request Pass Success
+2022-01-28 15:02:07.7142 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:02:07.8060 INFO Get Balance Request Pass Success
+2022-01-28 15:02:17.0140 INFO Get Product Type Master List Success
+2022-01-28 15:02:17.2164 INFO Get User Success :bdbl_disbo
+2022-01-28 15:04:28.1598 INFO Approve Request Pass Success
+2022-01-28 15:04:29.1702 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:04:29.2445 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-01-28 15:04:29.3901 INFO Get Product Type Master List Success
+2022-01-28 15:04:29.4659 INFO Get User Success :bdbl_disbo
+2022-01-28 15:04:42.1771 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:04:42.3421 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:04:42.4823 INFO Get Product Type Master List Success
+2022-01-28 15:04:42.5575 INFO Get User Success :bdbl_dis
+2022-01-28 15:04:45.5784 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:04:45.6521 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:04:45.7975 INFO Get Product Type Master List Success
+2022-01-28 15:04:45.8760 INFO Get User Success :bdbl_dis
+2022-01-28 15:34:13.8024 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:34:25.2872 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:34:27.5689 INFO Get Product Type Master List Success
+2022-01-28 15:34:27.6650 INFO Get User Success :bdbl_dis
+2022-01-28 15:34:31.6366 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:34:31.7284 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:34:33.6265 INFO Get Product Type Master List Success
+2022-01-28 15:34:33.7729 INFO Get User Success :bdbl_dis
+2022-01-28 15:34:39.5789 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:35:47.0549 INFO Get Pass List Success
+2022-01-28 15:35:47.1377 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:39:29.2963 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:39:38.1626 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:41:24.1735 INFO Get Product Type Master List Success
+2022-01-28 15:41:24.2607 INFO Get User Success :bdbl_dis
+2022-01-28 15:41:29.6159 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:41:29.7006 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:41:31.2206 INFO Get Product Type Master List Success
+2022-01-28 15:41:31.3803 INFO Get User Success :bdbl_dis
+2022-01-28 15:41:36.1799 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:42:38.1761 INFO Get Pass List Success
+2022-01-28 15:42:38.2518 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:42:40.0890 INFO Get Product Type Master List Success
+2022-01-28 15:42:40.2236 INFO Get User Success :bdbl_dis
+2022-01-28 15:42:50.2497 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:43:59.9678 INFO Get Pass List Success
+2022-01-28 15:44:00.0417 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:46:46.2848 INFO Get Product Type Master List Success
+2022-01-28 15:46:46.4350 INFO Get User Success :bdbl_dis
+2022-01-28 15:46:55.9700 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:48:22.9250 INFO Get Pass List Success
+2022-01-28 15:48:23.0750 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:56:49.8311 INFO Get Product Type Master List Success
+2022-01-28 15:56:50.0196 INFO Get User Success :bdbl_dis
+2022-01-28 15:57:39.5177 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:58:33.6356 INFO Get Pass List Success
+2022-01-28 15:58:33.7194 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-28 15:59:15.7907 INFO Get Product Type Master List Success
+2022-01-28 15:59:15.9451 INFO Get User Success :bdbl_dis
+2022-01-28 17:18:59.8941 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-28 17:19:07.0733 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-28 17:19:43.1381 INFO Get Product Type Master List Success
+2022-01-28 17:19:43.2268 INFO Get User Success :similia_lab
+2022-01-28 17:19:52.9746 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-28 17:20:12.1116 INFO Get Product Type Master List Success
+2022-01-28 17:20:12.1925 INFO Get User Success :similia_lab
+2022-01-28 17:20:44.3599 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:20:44.4349 INFO Get Allotment List Success
+2022-01-28 17:22:51.2886 INFO Get Product Type Master List Success
+2022-01-28 17:22:51.3644 INFO Get User Success :similia_lab
+2022-01-28 17:23:00.2645 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:23:00.3352 INFO Get Allotment List Success
+2022-01-28 17:23:07.7631 INFO Get Product Type Master List Success
+2022-01-28 17:23:07.8385 INFO Get User Success :similia_lab
+2022-01-28 17:23:16.6039 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:23:16.6792 INFO Get Allotment List Success
+2022-01-28 17:23:24.2520 INFO Get Product Type Master List Success
+2022-01-28 17:23:24.3269 INFO Get User Success :similia_lab
+2022-01-28 17:23:57.3212 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:24:29.6810 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:28:51.5987 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-28 17:28:59.0968 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-28 17:29:06.6265 INFO Get Product Type Master List Success
+2022-01-28 17:29:06.7140 INFO Get User Success :similia_lab
+2022-01-28 17:29:18.2029 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-28 17:29:27.1672 INFO Get Product Type Master List Success
+2022-01-28 17:29:27.2417 INFO Get User Success :similia_lab
+2022-01-28 17:29:36.5514 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:30:14.2407 INFO Get Allotment List Success
+2022-01-28 17:30:15.8387 INFO Get Product Type Master List Success
+2022-01-28 17:30:15.9135 INFO Get User Success :similia_lab
+2022-01-28 17:30:27.9028 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:30:34.6386 INFO Get Allotment List Success
+2022-01-28 17:31:57.4514 INFO Get Product Type Master List Success
+2022-01-28 17:31:57.5412 INFO Get User Success :similia_lab
+2022-01-28 17:32:02.0953 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:02.1713 INFO Get Allotment List Success
+2022-01-28 17:32:03.5406 INFO Get Product Type Master List Success
+2022-01-28 17:32:03.6163 INFO Get User Success :similia_lab
+2022-01-28 17:32:09.1785 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:09.2535 INFO Get Product Master List Success
+2022-01-28 17:32:09.3356 INFO Get VAT Master List Success
+2022-01-28 17:32:10.8915 INFO Get Product Type Master List Success
+2022-01-28 17:32:11.0289 INFO Get User Success :similia_lab
+2022-01-28 17:32:24.6500 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:24.7255 INFO Get Allotment List Success
+2022-01-28 17:32:26.4259 INFO Get Product Type Master List Success
+2022-01-28 17:32:26.5015 INFO Get User Success :similia_lab
+2022-01-28 17:32:29.0249 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:30.7821 INFO Get Product Type Master List Success
+2022-01-28 17:32:30.8573 INFO Get User Success :similia_lab
+2022-01-28 17:32:34.3391 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:39.3682 INFO Get Allotment List Success
+2022-01-28 17:32:40.2360 INFO Get Product Type Master List Success
+2022-01-28 17:32:40.3117 INFO Get User Success :similia_lab
+2022-01-28 17:32:44.4501 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:44.5244 INFO Get Allotment List Success
+2022-01-28 17:32:45.9694 INFO Get Product Type Master List Success
+2022-01-28 17:32:46.0441 INFO Get User Success :similia_lab
+2022-01-28 17:32:50.1498 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:50.2216 INFO Get Allotment List Success
+2022-01-28 17:32:52.0876 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-28 17:32:52.1611 INFO Get Allotment List Success

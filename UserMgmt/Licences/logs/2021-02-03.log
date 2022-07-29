@@ -1,0 +1,382 @@
+2021-02-03 10:39:51.1066 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 10:39:52.7309 INFO Get User Success :harinagar_dis
+2021-02-03 10:39:57.8028 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 10:39:57.9199 INFO Get Indent List Success
+2021-02-03 10:39:58.2028 INFO Get User Success :harinagar_dis
+2021-02-03 10:40:00.1785 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 10:40:00.2881 INFO Get Indent List Success
+2021-02-03 10:40:05.4232 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 10:40:05.7040 INFO Get Allotment List Success
+2021-02-03 10:40:06.0332 INFO Get User Success :harinagar_dis
+2021-02-03 10:40:20.6828 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 10:40:21.0143 INFO Get Allotment List Success
+2021-02-03 10:40:21.2316 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 10:40:21.3519 INFO Get Party Master List Success
+2021-02-03 10:40:21.4620 INFO Get Indent List Success
+2021-02-03 10:40:22.0210 INFO Get Allotment Details Success
+2021-02-03 10:40:22.1387 INFO Get Indent List Success
+2021-02-03 10:40:22.2509 INFO Get Party Master List Success
+2021-02-03 10:40:22.5385 INFO Check WorkFlow List Success
+2021-02-03 10:40:26.7825 INFO Get User Success :harinagar_dis
+2021-02-03 10:40:39.1212 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:40:40.0772 INFO Get User Success :hodyco
+2021-02-03 10:40:42.5536 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:40:42.7251 INFO Check WorkFlow List Success
+2021-02-03 10:40:42.8780 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:40:42.9838 INFO Check WorkFlow List Success
+2021-02-03 10:40:43.2192 INFO Get Allotment List Success
+2021-02-03 10:40:43.3389 INFO Get User Success :hodyco
+2021-02-03 10:40:47.3358 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:40:47.4588 INFO Check WorkFlow List Success
+2021-02-03 10:40:47.8165 INFO Get Allotment List Success
+2021-02-03 10:40:47.9549 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:40:48.0881 INFO Get Party Master List Success
+2021-02-03 10:40:48.2208 INFO Get Indent List Success
+2021-02-03 10:40:48.4445 INFO Get Allotment Details Success
+2021-02-03 10:40:48.5844 INFO Get Indent List Success
+2021-02-03 10:40:48.7256 INFO Get Party Master List Success
+2021-02-03 10:40:48.9927 INFO Check WorkFlow List Success
+2021-02-03 10:40:49.4048 INFO Get User Success :hodyco
+2021-02-03 10:43:20.7189 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-03 10:43:23.0365 INFO Get User Success :newswadeshi_dis
+2021-02-03 10:43:39.7889 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-03 10:43:39.9235 INFO Get Indent List Success
+2021-02-03 10:43:40.2276 INFO Get User Success :newswadeshi_dis
+2021-02-03 10:43:42.3454 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-03 10:43:42.5224 INFO Get Indent List Success
+2021-02-03 10:43:42.7043 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-03 10:43:42.9735 INFO Get Allotment List Success
+2021-02-03 10:43:43.1423 INFO Get User Success :newswadeshi_dis
+2021-02-03 10:43:48.0274 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-03 10:43:48.3345 INFO Get Allotment List Success
+2021-02-03 10:43:48.5664 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-03 10:43:48.7318 INFO Get Party Master List Success
+2021-02-03 10:43:48.8961 INFO Get Indent List Success
+2021-02-03 10:43:49.2385 INFO Get Allotment Details Success
+2021-02-03 10:43:49.3970 INFO Get Indent List Success
+2021-02-03 10:43:49.5152 INFO Get Party Master List Success
+2021-02-03 10:43:49.8281 INFO Check WorkFlow List Success
+2021-02-03 10:43:50.1071 INFO Get User Success :newswadeshi_dis
+2021-02-03 10:46:48.1844 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:46:50.5129 INFO Get User Success :hodyco
+2021-02-03 10:46:57.4305 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:46:57.5674 INFO Check WorkFlow List Success
+2021-02-03 10:46:58.5173 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:46:58.6436 INFO Check WorkFlow List Success
+2021-02-03 10:46:58.9437 INFO Get Allotment List Success
+2021-02-03 10:46:59.1220 INFO Get User Success :hodyco
+2021-02-03 10:47:03.5097 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:47:03.6470 INFO Check WorkFlow List Success
+2021-02-03 10:47:03.9308 INFO Get Allotment List Success
+2021-02-03 10:47:04.0843 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:47:04.2408 INFO Check WorkFlow List Success
+2021-02-03 10:47:04.9682 INFO Get Allotment List Success
+2021-02-03 10:48:17.0050 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:48:17.1274 INFO Check WorkFlow List Success
+2021-02-03 10:48:17.3737 INFO Get Allotment List Success
+2021-02-03 10:48:18.7933 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:48:18.9119 INFO Get Party Master List Success
+2021-02-03 10:48:19.0510 INFO Get Indent List Success
+2021-02-03 10:48:19.2906 INFO Get Allotment Details Success
+2021-02-03 10:48:19.4262 INFO Get Indent List Success
+2021-02-03 10:48:19.5659 INFO Get Party Master List Success
+2021-02-03 10:48:19.8571 INFO Check WorkFlow List Success
+2021-02-03 10:48:34.1498 INFO Get User Success :hodyco
+2021-02-03 10:51:45.6553 INFO Allotement Approve Sucess:26
+2021-02-03 10:51:48.0954 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:51:48.2080 INFO Check WorkFlow List Success
+2021-02-03 10:51:48.7849 INFO Get Allotment List Success
+2021-02-03 10:51:48.9483 INFO Get User Success :hodyco
+2021-02-03 10:51:58.5286 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:51:58.7531 INFO Check WorkFlow List Success
+2021-02-03 10:51:59.5044 INFO Get Allotment List Success
+2021-02-03 10:51:59.7490 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:52:00.2608 INFO Check WorkFlow List Success
+2021-02-03 10:52:00.5729 INFO Get Allotment List Success
+2021-02-03 10:52:25.9526 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:52:26.1124 INFO Check WorkFlow List Success
+2021-02-03 10:52:26.4397 INFO Get Allotment List Success
+2021-02-03 10:52:27.2674 INFO Get User Success :100-Deputy Commissioner
+2021-02-03 10:52:27.4154 INFO Get Party Master List Success
+2021-02-03 10:52:27.5308 INFO Get Indent List Success
+2021-02-03 10:52:27.8699 INFO Get Allotment Details Success
+2021-02-03 10:52:27.9847 INFO Get Indent List Success
+2021-02-03 10:52:28.1048 INFO Get Party Master List Success
+2021-02-03 10:52:28.4008 INFO Check WorkFlow List Success
+2021-02-03 10:54:39.5005 INFO Get User Success :101-Commissioner
+2021-02-03 10:54:42.4785 INFO Get User Success :com
+2021-02-03 10:55:28.4844 INFO Get User Success :101-Commissioner
+2021-02-03 10:55:28.6636 INFO Check WorkFlow List Success
+2021-02-03 10:55:28.9678 INFO Get User Success :101-Commissioner
+2021-02-03 10:55:29.0903 INFO Check WorkFlow List Success
+2021-02-03 10:55:29.3884 INFO Get Allotment List Success
+2021-02-03 10:55:29.6101 INFO Get User Success :com
+2021-02-03 10:55:32.5093 INFO Get User Success :101-Commissioner
+2021-02-03 10:55:32.6201 INFO Check WorkFlow List Success
+2021-02-03 10:55:32.8422 INFO Get Allotment List Success
+2021-02-03 10:55:32.9639 INFO Get User Success :101-Commissioner
+2021-02-03 10:55:33.3798 INFO Check WorkFlow List Success
+2021-02-03 10:55:33.5975 INFO Get Allotment List Success
+2021-02-03 10:55:37.7287 INFO Get User Success :101-Commissioner
+2021-02-03 10:55:38.1532 INFO Check WorkFlow List Success
+2021-02-03 10:55:38.4024 INFO Get Allotment List Success
+2021-02-03 10:55:39.8023 INFO Get User Success :101-Commissioner
+2021-02-03 10:55:39.9357 INFO Get Party Master List Success
+2021-02-03 10:55:40.3628 INFO Get Indent List Success
+2021-02-03 10:55:40.6051 INFO Get Allotment Details Success
+2021-02-03 10:55:40.7374 INFO Get Indent List Success
+2021-02-03 10:55:40.8586 INFO Get Party Master List Success
+2021-02-03 10:55:41.1241 INFO Check WorkFlow List Success
+2021-02-03 10:55:42.6115 INFO Get User Success :com
+2021-02-03 10:56:45.4836 INFO Get User Success :101-Commissioner
+2021-02-03 10:56:45.5933 INFO Check WorkFlow List Success
+2021-02-03 10:56:46.1348 INFO Get Allotment List Success
+2021-02-03 10:56:46.2872 INFO Get User Success :com
+2021-02-03 10:56:52.8296 INFO Get User Success :101-Commissioner
+2021-02-03 10:56:52.9890 INFO Check WorkFlow List Success
+2021-02-03 10:56:53.2750 INFO Get Allotment List Success
+2021-02-03 10:56:53.4863 INFO Get User Success :101-Commissioner
+2021-02-03 10:56:53.6607 INFO Check WorkFlow List Success
+2021-02-03 10:56:54.0054 INFO Get Allotment List Success
+2021-02-03 10:57:13.6376 INFO Get User Success :101-Commissioner
+2021-02-03 10:57:13.7678 INFO Check WorkFlow List Success
+2021-02-03 10:57:14.0385 INFO Get Allotment List Success
+2021-02-03 10:57:14.1961 INFO Get User Success :101-Commissioner
+2021-02-03 10:57:14.6438 INFO Get Party Master List Success
+2021-02-03 10:57:14.7621 INFO Get Indent List Success
+2021-02-03 10:57:14.9978 INFO Get Allotment Details Success
+2021-02-03 10:57:15.1169 INFO Get Indent List Success
+2021-02-03 10:57:15.2440 INFO Get Party Master List Success
+2021-02-03 10:57:15.5169 INFO Check WorkFlow List Success
+2021-02-03 10:57:16.0880 INFO Get User Success :com
+2021-02-03 10:59:34.5381 INFO Allotement Approve Sucess:26
+2021-02-03 10:59:36.0976 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:36.2364 INFO Check WorkFlow List Success
+2021-02-03 10:59:36.4797 INFO Get Allotment List Success
+2021-02-03 10:59:36.6157 INFO Get User Success :com
+2021-02-03 10:59:46.1642 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:46.2953 INFO Check WorkFlow List Success
+2021-02-03 10:59:46.6126 INFO Get Allotment List Success
+2021-02-03 10:59:46.7419 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:46.9127 INFO Check WorkFlow List Success
+2021-02-03 10:59:47.0810 INFO Get Allotment List Success
+2021-02-03 10:59:48.7315 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:49.2117 INFO Check WorkFlow List Success
+2021-02-03 10:59:49.4968 INFO Get Allotment List Success
+2021-02-03 10:59:49.6541 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:49.7658 INFO Check WorkFlow List Success
+2021-02-03 10:59:49.8942 INFO Get Allotment List Success
+2021-02-03 10:59:52.2110 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:52.6355 INFO Check WorkFlow List Success
+2021-02-03 10:59:52.9264 INFO Get Allotment List Success
+2021-02-03 10:59:53.0615 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:53.8199 INFO Check WorkFlow List Success
+2021-02-03 10:59:55.3378 INFO Get Allotment List Success
+2021-02-03 10:59:55.9864 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:56.1572 INFO Check WorkFlow List Success
+2021-02-03 10:59:57.0665 INFO Get Allotment List Success
+2021-02-03 10:59:57.2754 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:57.5175 INFO Check WorkFlow List Success
+2021-02-03 10:59:57.8337 INFO Get Allotment List Success
+2021-02-03 10:59:59.7093 INFO Get User Success :101-Commissioner
+2021-02-03 10:59:59.8211 INFO Check WorkFlow List Success
+2021-02-03 11:00:00.0791 INFO Get Allotment List Success
+2021-02-03 11:00:00.2155 INFO Get User Success :101-Commissioner
+2021-02-03 11:00:00.3704 INFO Get Party Master List Success
+2021-02-03 11:00:00.8333 INFO Get Indent List Success
+2021-02-03 11:00:01.4699 INFO Get Allotment Details Success
+2021-02-03 11:00:01.6399 INFO Get Indent List Success
+2021-02-03 11:00:01.7772 INFO Get Party Master List Success
+2021-02-03 11:00:03.3067 INFO Check WorkFlow List Success
+2021-02-03 11:00:03.5925 INFO Get User Success :com
+2021-02-03 11:00:31.8620 INFO Get User Success :101-Commissioner
+2021-02-03 11:00:32.0188 INFO Get Party Master List Success
+2021-02-03 11:00:32.1781 INFO Get Indent List Success
+2021-02-03 11:00:32.4126 INFO Get Allotment Details Success
+2021-02-03 11:00:32.5324 INFO Get Indent List Success
+2021-02-03 11:00:32.6591 INFO Get Party Master List Success
+2021-02-03 11:00:32.8811 INFO Check WorkFlow List Success
+2021-02-03 11:00:57.5609 INFO Get User Success :com
+2021-02-03 11:02:01.7271 INFO Allotement Approve Sucess:27
+2021-02-03 11:02:04.8165 INFO Get User Success :101-Commissioner
+2021-02-03 11:02:04.9567 INFO Check WorkFlow List Success
+2021-02-03 11:02:05.2357 INFO Get Allotment List Success
+2021-02-03 11:02:05.7097 INFO Get User Success :com
+2021-02-03 11:02:10.2120 INFO Get User Success :101-Commissioner
+2021-02-03 11:02:10.3672 INFO Check WorkFlow List Success
+2021-02-03 11:02:10.6695 INFO Get Allotment List Success
+2021-02-03 11:02:10.8157 INFO Get User Success :101-Commissioner
+2021-02-03 11:02:11.2822 INFO Check WorkFlow List Success
+2021-02-03 11:02:11.5635 INFO Get Allotment List Success
+2021-02-03 11:02:14.7780 INFO Get User Success :101-Commissioner
+2021-02-03 11:02:14.9598 INFO Check WorkFlow List Success
+2021-02-03 11:02:15.6240 INFO Get Allotment List Success
+2021-02-03 11:02:15.7957 INFO Get User Success :101-Commissioner
+2021-02-03 11:02:15.9662 INFO Check WorkFlow List Success
+2021-02-03 11:02:16.3178 INFO Get Allotment List Success
+2021-02-03 11:07:16.0084 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-03 11:07:17.5094 INFO Get User Success :bharath_sgr
+2021-02-03 11:07:29.5518 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-03 11:07:30.6078 INFO Get User Success :bharath_sgr
+2021-02-03 11:07:48.7314 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-03 11:07:55.8565 INFO Get Pass List Success
+2021-02-03 11:07:56.0025 INFO Get User Success :bharath_sgr
+2021-02-03 11:07:59.7928 INFO Get Pass List Success
+2021-02-03 11:08:09.9963 INFO Get Pass List Success
+2021-02-03 11:08:36.8325 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:08:37.7692 INFO Get User Success :tirupati_sgr
+2021-02-03 11:08:40.5982 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:08:41.3098 INFO Get User Success :tirupati_sgr
+2021-02-03 11:08:48.6336 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:11:10.4605 INFO Get Pass List Success
+2021-02-03 11:11:10.6687 INFO Get User Success :tirupati_sgr
+2021-02-03 11:11:15.7504 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:11:17.0459 INFO Get User Success :tirupati_sgr
+2021-02-03 11:11:18.8939 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:11:19.0582 INFO Get Dispach Master List Success
+2021-02-03 11:11:19.8951 INFO Get VAT Master List Success
+2021-02-03 11:11:20.5304 INFO Get User Success :tirupati_sgr
+2021-02-03 11:15:23.3094 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:15:23.4615 INFO Get Dispach Master List Success
+2021-02-03 11:15:28.3465 INFO Get VAT Master List Success
+2021-02-03 11:16:51.4337 INFO Get VAT Master List Success
+2021-02-03 11:21:12.7060 INFO Get User Success :tirupati_sgr
+2021-02-03 11:22:32.4241 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:22:32.5097 INFO Get Dispach Master List Success
+2021-02-03 11:22:32.9199 INFO Get VAT Master List Success
+2021-02-03 11:22:33.1879 INFO Get User Success :tirupati_sgr
+2021-02-03 11:22:41.8143 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:22:41.8913 INFO Get Dispach Master List Success
+2021-02-03 11:22:42.0517 INFO Get VAT Master List Success
+2021-02-03 11:22:42.2863 INFO Get User Success :tirupati_sgr
+2021-02-03 11:26:36.2160 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:26:37.7916 INFO Get User Success :tirupati_sgr
+2021-02-03 11:26:41.3055 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:26:42.3690 INFO Get User Success :tirupati_sgr
+2021-02-03 11:26:44.8700 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:26:49.5120 INFO Get Pass List Success
+2021-02-03 11:26:49.6987 INFO Get User Success :tirupati_sgr
+2021-02-03 11:26:53.5705 INFO Get Pass List Success
+2021-02-03 11:26:55.3115 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:26:55.4041 INFO Get Dispach Master List Success
+2021-02-03 11:26:55.7561 INFO Get VAT Master List Success
+2021-02-03 11:26:55.9042 INFO Get Pass List Success
+2021-02-03 11:26:56.6868 INFO Get User Success :tirupati_sgr
+2021-02-03 11:27:19.8842 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:27:20.0987 INFO Get Dispach Master List Success
+2021-02-03 11:27:20.4433 INFO Get VAT Master List Success
+2021-02-03 11:27:20.6228 INFO Get Pass List Success
+2021-02-03 11:27:27.9556 INFO Get User Success :tirupati_sgr
+2021-02-03 11:27:34.6843 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:27:34.8248 INFO Get Dispach Master List Success
+2021-02-03 11:27:35.0109 INFO Get VAT Master List Success
+2021-02-03 11:27:35.1714 INFO Get Pass List Success
+2021-02-03 11:27:58.8321 INFO Get User Success :tirupati_sgr
+2021-02-03 11:28:13.0045 INFO Get User Success :124-Tirupati Sugars Ltd, Bond Officer
+2021-02-03 11:28:13.2907 INFO Get User Success :tirupati_sgrbo
+2021-02-03 11:28:16.1207 INFO Get User Success :124-Tirupati Sugars Ltd, Bond Officer
+2021-02-03 11:28:16.2391 INFO Get User Success :124-Tirupati Sugars Ltd, Bond Officer
+2021-02-03 11:28:18.8457 INFO Get Pass List Success
+2021-02-03 11:28:18.9429 INFO Get User Success :tirupati_sgrbo
+2021-02-03 11:28:37.1413 INFO Get User Success :124-Tirupati Sugars Ltd, Bond Officer
+2021-02-03 11:28:37.2432 INFO Get Dispach Master List Success
+2021-02-03 11:28:37.4258 INFO Get VAT Master List Success
+2021-02-03 11:28:37.5438 INFO Get Pass List Success
+2021-02-03 11:28:59.8825 INFO Get User Success :tirupati_sgrbo
+2021-02-03 11:31:21.1022 INFO Pass Issued Sucess:
+2021-02-03 11:31:21.2088 INFO Get User Success :124-Tirupati Sugars Ltd, Bond Officer
+2021-02-03 11:31:26.3936 INFO Get Pass List Success
+2021-02-03 11:31:26.4960 INFO Get User Success :tirupati_sgrbo
+2021-02-03 11:31:40.0811 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:31:41.1832 INFO Get User Success :tirupati_sgr
+2021-02-03 11:31:45.1599 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:31:45.8020 INFO Get User Success :tirupati_sgr
+2021-02-03 11:31:48.3601 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-03 11:31:48.4676 INFO Get Dispach Master List Success
+2021-02-03 11:31:48.6824 INFO Get VAT Master List Success
+2021-02-03 11:31:48.8783 INFO Get User Success :tirupati_sgr
+2021-02-03 15:06:11.3990 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:06:12.5376 INFO Get User Success :harinagar_dis
+2021-02-03 15:06:21.7946 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:06:21.8933 INFO Get Indent List Success
+2021-02-03 15:06:22.1123 INFO Get User Success :harinagar_dis
+2021-02-03 15:06:24.4956 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:06:24.5963 INFO Get Indent List Success
+2021-02-03 15:06:28.7773 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:06:28.9615 INFO Get Allotment List Success
+2021-02-03 15:06:29.0797 INFO Get User Success :harinagar_dis
+2021-02-03 15:06:31.0771 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:06:31.2621 INFO Get Allotment List Success
+2021-02-03 15:06:31.5305 INFO Get GetSeverList Success
+2021-02-03 15:08:53.2071 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:08:54.3315 INFO Get User Success :harinagar_dis
+2021-02-03 15:09:02.5755 INFO Get User Fail :-Exception while writing to stream
+2021-02-03 15:09:12.7362 INFO Get User Fail :-Exception while writing to stream
+2021-02-03 15:10:52.1096 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:10:52.2321 INFO Get User Success :harinagar_dis
+2021-02-03 15:10:57.8105 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:10:57.8105 INFO Get Indent List Success
+2021-02-03 15:10:57.8619 INFO Get User Success :harinagar_dis
+2021-02-03 15:11:00.0428 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:11:00.0459 INFO Get Indent List Success
+2021-02-03 15:11:00.0868 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:11:00.0927 INFO Get Allotment List Success
+2021-02-03 15:11:00.1108 INFO Get User Success :harinagar_dis
+2021-02-03 15:11:01.3300 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:11:01.3300 INFO Get Allotment List Success
+2021-02-03 15:11:01.5044 INFO Get GetSeverList Success
+2021-02-03 15:13:44.2878 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:13:44.2878 INFO Get Allotment List Success
+2021-02-03 15:13:44.3868 INFO Get GetSeverList Success
+2021-02-03 15:14:17.4185 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:14:17.4185 INFO Get Allotment List Success
+2021-02-03 15:14:17.5235 INFO Get GetSeverList Success
+2021-02-03 15:14:21.3564 INFO Get GetSeverList Success
+2021-02-03 15:18:02.3368 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:18:02.3368 INFO Get Allotment List Success
+2021-02-03 15:18:02.4900 INFO Get GetSeverList Success
+2021-02-03 15:20:53.3558 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:20:53.3608 INFO Get State List Success
+2021-02-03 15:20:53.3746 INFO Get User Success :harinagar_dis
+2021-02-03 15:20:55.6335 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:20:55.6335 INFO Get Indent List Success
+2021-02-03 15:20:55.6455 INFO Get User Success :harinagar_dis
+2021-02-03 15:20:56.6587 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:20:56.6587 INFO Get Indent List Success
+2021-02-03 15:20:56.6847 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:20:56.6847 INFO Get Allotment List Success
+2021-02-03 15:20:56.6996 INFO Get User Success :harinagar_dis
+2021-02-03 15:20:58.3522 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:20:58.3522 INFO Get Allotment List Success
+2021-02-03 15:20:58.4369 INFO Get GetSeverList Success
+2021-02-03 15:22:24.0394 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:22:24.0616 INFO Get User Success :harinagar_dis
+2021-02-03 15:22:27.9768 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:22:27.9768 INFO Get Indent List Success
+2021-02-03 15:22:27.9880 INFO Get User Success :harinagar_dis
+2021-02-03 15:22:29.5905 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:22:29.5905 INFO Get Indent List Success
+2021-02-03 15:22:29.6272 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:22:29.6272 INFO Get Allotment List Success
+2021-02-03 15:22:29.6394 INFO Get User Success :harinagar_dis
+2021-02-03 15:22:30.8962 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:22:30.8962 INFO Get Allotment List Success
+2021-02-03 15:22:30.9760 INFO Get GetSeverList Success
+2021-02-03 15:24:13.0332 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:24:13.0332 INFO Get Allotment List Success
+2021-02-03 15:24:13.1699 INFO Get GetSeverList Success
+2021-02-03 15:25:50.4670 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:25:50.4670 INFO Get Allotment List Success
+2021-02-03 15:25:50.6303 INFO Get GetSeverList Success
+2021-02-03 15:26:41.4411 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:26:41.4411 INFO Get Allotment List Success
+2021-02-03 15:26:41.5912 INFO Get GetSeverList Success
+2021-02-03 15:26:55.1607 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:26:55.1607 INFO Get Allotment List Success
+2021-02-03 15:26:55.2793 INFO Get GetSeverList Success
+2021-02-03 15:30:21.3016 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:30:21.3016 INFO Get Allotment List Success
+2021-02-03 15:30:21.4655 INFO Get GetSeverList Success
+2021-02-03 15:32:31.8598 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-03 15:32:31.8598 INFO Get Allotment List Success
+2021-02-03 15:32:52.8065 INFO Get GetSeverList Success

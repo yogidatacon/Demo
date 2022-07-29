@@ -1,0 +1,87 @@
+2022-01-11 10:10:49.9647 INFO Get User Fail :-42P01: relation "exciseautomation.view_checkuser" does not exist
+2022-01-11 10:59:15.9100 INFO Get User Success :100-Deputy Commissioner
+2022-01-11 10:59:18.1819 INFO Get User Success :100-Deputy Commissioner
+2022-01-11 10:59:19.1677 INFO Get Product Type Master List Success
+2022-01-11 10:59:19.2653 INFO Get User Success :hodyco
+2022-01-11 10:59:22.6208 INFO Get User Success :100-Deputy Commissioner
+2022-01-11 10:59:28.5652 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 10:59:30.0965 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 10:59:30.7716 INFO Get Product Type Master List Success
+2022-01-11 10:59:30.9508 INFO Get User Success :harinagar_dis
+2022-01-11 10:59:32.6847 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 10:59:46.3571 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 10:59:46.6792 INFO Get Product Type Master List Success
+2022-01-11 10:59:46.8658 INFO Get User Success :harinagar_dis
+2022-01-11 10:59:52.1387 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 10:59:52.4249 INFO Get Product Type Master List Success
+2022-01-11 10:59:52.6060 INFO Get User Success :harinagar_dis
+2022-01-11 11:09:59.5495 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:10:02.1668 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:10:02.9203 INFO Get Product Type Master List Success
+2022-01-11 11:10:03.2769 INFO Get User Success :harinagar_dis
+2022-01-11 11:10:07.9774 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:10:08.3873 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:10:08.6860 INFO Get Product Type Master List Success
+2022-01-11 11:10:08.9385 INFO Get User Success :harinagar_dis
+2022-01-11 11:14:36.2515 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:14:38.3957 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:14:39.1677 INFO Get Product Type Master List Success
+2022-01-11 11:14:39.3413 INFO Get User Success :harinagar_dis
+2022-01-11 11:14:44.1314 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:14:44.5068 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:14:44.7990 INFO Get Product Type Master List Success
+2022-01-11 11:14:45.2547 INFO Get User Success :harinagar_dis
+2022-01-11 11:14:51.0149 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:14:51.2965 INFO Get Product Type Master List Success
+2022-01-11 11:14:51.4830 INFO Get User Success :harinagar_dis
+2022-01-11 11:21:23.7033 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:21:24.5947 INFO Get Product Type Master List Success
+2022-01-11 11:21:25.1763 INFO Get User Success :harinagar_dis
+2022-01-11 11:22:03.3438 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:22:04.4264 INFO Get Product Type Master List Success
+2022-01-11 11:22:04.7860 INFO Get User Success :harinagar_dis
+2022-01-11 11:26:52.5091 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:27:14.1086 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:27:15.5058 INFO Get Product Type Master List Success
+2022-01-11 11:27:15.6983 INFO Get User Success :harinagar_dis
+2022-01-11 11:27:19.6020 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:27:21.0135 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:27:21.3506 INFO Get Product Type Master List Success
+2022-01-11 11:27:21.6279 INFO Get User Success :harinagar_dis
+2022-01-11 11:27:25.3958 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:27:25.6960 INFO Get Product Type Master List Success
+2022-01-11 11:27:25.9703 INFO Get User Success :harinagar_dis
+2022-01-11 11:28:11.1782 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:28:17.7071 INFO Get User Success :101-Commissioner
+2022-01-11 11:28:19.4469 INFO Get User Success :101-Commissioner
+2022-01-11 11:28:20.0072 INFO Get Product Type Master List Success
+2022-01-11 11:28:20.1842 INFO Get User Success :com
+2022-01-11 11:28:22.8487 INFO Get User Success :101-Commissioner
+2022-01-11 11:28:23.4351 INFO Get User Success :101-Commissioner
+2022-01-11 11:28:23.7271 INFO Get Product Type Master List Success
+2022-01-11 11:28:24.1066 INFO Get User Success :com
+2022-01-11 11:28:34.3932 INFO Get User Success :101-Commissioner
+2022-01-11 11:28:44.7275 INFO Get User Success :101-Commissioner
+2022-01-11 11:28:50.4649 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:28:52.0914 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:28:52.4483 INFO Get Product Type Master List Success
+2022-01-11 11:28:52.6265 INFO Get User Success :harinagar_dis
+2022-01-11 11:28:54.5866 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:28:55.2831 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-11 11:28:55.5627 INFO Get Product Type Master List Success
+2022-01-11 11:28:55.8189 INFO Get User Success :harinagar_dis
+2022-01-11 12:20:30.6680 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-11 12:20:35.7771 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-11 12:20:35.9359 INFO Get Product Type Master List Success
+2022-01-11 12:20:36.0865 INFO Get User Success :bdbl_dis
+2022-01-11 12:20:58.4236 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-11 12:20:59.1131 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-11 12:21:01.3957 INFO Get Product Type Master List Success
+2022-01-11 12:21:01.4726 INFO Get User Success :bdbl_dis
+2022-01-11 12:21:04.8464 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-11 12:21:05.0036 INFO Get Product Type Master List Success
+2022-01-11 12:21:05.0775 INFO Get User Success :bdbl_dis
+2022-01-11 12:21:09.1090 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-11 12:21:09.1839 INFO Get VAT Master List Success
+2022-01-11 12:21:09.2575 INFO Get Product Type Master List Success
+2022-01-11 12:21:09.3296 INFO Get User Success :bdbl_dis

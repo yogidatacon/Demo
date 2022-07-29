@@ -1,0 +1,327 @@
+2020-09-28 10:14:33.1394 INFO Login Success
+2020-09-28 10:14:53.1187 INFO Login Success
+2020-09-28 10:34:34.8968 INFO Login Success
+2020-09-28 10:36:00.2014 INFO Login Success
+2020-09-28 10:36:53.1323 INFO Org Get List Success
+2020-09-28 10:36:55.5094 INFO GetFinacListValues Success
+2020-09-28 10:36:56.4485 INFO Get OrgNames in Financial Form Success
+2020-09-28 10:37:00.5493 INFO Get OrgNames in Financial Form Success
+2020-09-28 10:37:32.3601 INFO Module Get List Success
+2020-09-28 10:37:33.1949 INFO Get SubModule Sucess
+2020-09-28 10:37:33.9993 INFO Get TabNames List Success
+2020-09-28 10:37:52.9106 INFO Get TabNames List Success
+2020-09-28 10:38:09.7918 INFO Login Success
+2020-09-28 10:38:21.1425 INFO Get TabNames List Success
+2020-09-28 11:02:29.1851 INFO Login Success
+2020-09-28 11:07:21.4645 INFO Sugarcanepurchase Get List Success
+2020-09-28 11:14:30.3843 INFO Login Success
+2020-09-28 11:18:57.7277 INFO Login Success
+2020-09-28 11:19:15.2353 INFO Sugarcanepurchase Get List Success
+2020-09-28 11:19:20.7412 INFO Get User Success :9-Administrator
+2020-09-28 11:19:20.7658 INFO Get Party Master List Success
+2020-09-28 11:19:24.8451 INFO Get User Success :9-Administrator
+2020-09-28 11:19:25.7248 INFO Get User Success :9-Administrator
+2020-09-28 11:19:25.7248 INFO Get Party Master List Success
+2020-09-28 11:19:30.2823 INFO Get User Success :9-Administrator
+2020-09-28 11:19:31.1210 INFO Get User Success :9-Administrator
+2020-09-28 11:19:31.1210 INFO Get Party Master List Success
+2020-09-28 11:19:33.1140 INFO Get User Success :9-Administrator
+2020-09-28 11:33:36.6228 INFO Login Success
+2020-09-28 11:33:49.1767 INFO Sugarcanepurchase Get List Success
+2020-09-28 11:33:50.3226 INFO Get User Success :9-Administrator
+2020-09-28 11:34:25.9592 INFO Get User Success :9-Administrator
+2020-09-28 11:34:25.9592 INFO Get Party Master List Success
+2020-09-28 11:34:28.9426 INFO Get User Success :9-Administrator
+2020-09-28 11:34:31.3994 INFO Get User Success :9-Administrator
+2020-09-28 11:35:05.6094 INFO Get User Success :9-Administrator
+2020-09-28 11:35:07.5120 INFO Get User Success :9-Administrator
+2020-09-28 11:35:09.7824 INFO Get User Success :9-Administrator
+2020-09-28 11:35:11.2535 INFO Get User Success :9-Administrator
+2020-09-28 11:35:11.2721 INFO Get User Success :9-Administrator
+2020-09-28 11:37:55.3534 INFO Get User Success :9-Administrator
+2020-09-28 11:39:10.0969 INFO Get User Success :9-Administrator
+2020-09-28 11:40:34.9280 INFO Get User Success :9-Administrator
+2020-09-28 11:40:46.2234 INFO Get User Success :9-Administrator
+2020-09-28 11:41:37.1743 INFO Login Success
+2020-09-28 11:41:52.2907 INFO Sugarcanepurchase Get List Success
+2020-09-28 11:41:53.3969 INFO Get User Success :9-Administrator
+2020-09-28 11:42:01.9932 INFO Get User Success :9-Administrator
+2020-09-28 11:44:06.0077 INFO Login Success
+2020-09-28 11:46:22.8286 INFO Login Success
+2020-09-28 11:46:46.9046 INFO Sugarcanepurchase Get List Success
+2020-09-28 11:46:53.7772 INFO Get User Success :9-Administrator
+2020-09-28 11:46:55.4611 INFO Get User Success :9-Administrator
+2020-09-28 11:46:55.4611 INFO Get Party Master List Success
+2020-09-28 11:46:58.6230 INFO Get User Success :9-Administrator
+2020-09-28 11:46:58.6459 INFO Get User Success :9-Administrator
+2020-09-28 11:49:11.0808 INFO Get User Success :9-Administrator
+2020-09-28 11:49:11.0808 INFO Get Party Master List Success
+2020-09-28 11:57:10.9712 INFO Login Success
+2020-09-28 11:57:29.3284 INFO Sugarcanepurchase Get List Success
+2020-09-28 11:57:30.4411 INFO Get User Success :9-Administrator
+2020-09-28 11:57:31.7796 INFO Get User Success :9-Administrator
+2020-09-28 11:59:27.5210 INFO Get User Success :9-Administrator
+2020-09-28 12:03:13.7450 INFO Login Success
+2020-09-28 12:03:26.7999 INFO Sugarcanepurchase Get List Success
+2020-09-28 12:03:27.9602 INFO Get User Success :9-Administrator
+2020-09-28 12:03:39.4240 INFO Get User Success :9-Administrator
+2020-09-28 12:04:01.7506 INFO Get User Success :9-Administrator
+2020-09-28 15:00:52.7186 INFO Sugarcanepurchase Get List Success
+2020-09-28 15:00:54.6038 INFO Get User Success :9-Administrator
+2020-09-28 15:01:05.8271 INFO Get User Success :9-Administrator
+2020-09-28 15:01:27.7545 INFO Get User Success :9-Administrator
+2020-09-28 15:01:35.7136 INFO Get User Success :9-Administrator
+2020-09-28 15:01:35.7356 INFO Get User Success :9-Administrator
+2020-09-28 15:01:38.1365 INFO Get User Success :9-Administrator
+2020-09-28 15:04:50.9561 INFO Sugarcanepurchase Get List Success
+2020-09-28 15:04:53.2860 INFO Get User Success :9-Administrator
+2020-09-28 15:04:54.3676 INFO Get User Success :9-Administrator
+2020-09-28 15:05:09.3088 INFO Get User Success :9-Administrator
+2020-09-28 15:05:13.4094 INFO Get User Success :9-Administrator
+2020-09-28 15:05:13.4294 INFO Get User Success :9-Administrator
+2020-09-28 15:05:15.1228 INFO Get User Success :9-Administrator
+2020-09-28 15:05:42.2075 INFO Get User Success :9-Administrator
+2020-09-28 15:06:03.6649 INFO Get User Success :9-Administrator
+2020-09-28 15:07:40.7554 INFO Get User Success :9-Administrator
+2020-09-28 15:08:05.3673 INFO Get User Success :9-Administrator
+2020-09-28 15:08:16.2208 INFO Get User Success :9-Administrator
+2020-09-28 15:08:27.4120 INFO Get User Success :9-Administrator
+2020-09-28 15:08:27.4400 INFO Get User Success :9-Administrator
+2020-09-28 15:08:28.6827 INFO Get User Success :9-Administrator
+2020-09-28 15:08:29.8054 INFO Get User Success :9-Administrator
+2020-09-28 15:08:30.3308 INFO Get User Success :9-Administrator
+2020-09-28 15:08:40.7103 INFO Get User Success :9-Administrator
+2020-09-28 15:09:02.6701 INFO Get User Success :9-Administrator
+2020-09-28 15:09:07.0070 INFO Get User Success :9-Administrator
+2020-09-28 15:09:07.0260 INFO Get User Success :9-Administrator
+2020-09-28 15:09:12.8736 INFO Get User Success :9-Administrator
+2020-09-28 15:09:16.4163 INFO Get User Success :9-Administrator
+2020-09-28 15:09:16.4721 INFO Get User Success :9-Administrator
+2020-09-28 15:09:16.4911 INFO Get User Success :9-Administrator
+2020-09-28 15:09:26.5493 INFO Get User Success :9-Administrator
+2020-09-28 15:10:07.4550 INFO Get User Success :9-Administrator
+2020-09-28 15:10:07.4739 INFO Get User Success :9-Administrator
+2020-09-28 15:10:09.1923 INFO Get User Success :9-Administrator
+2020-09-28 15:10:09.7190 INFO Get User Success :9-Administrator
+2020-09-28 15:10:12.4986 INFO Get User Success :9-Administrator
+2020-09-28 15:10:12.5156 INFO Get User Success :9-Administrator
+2020-09-28 15:10:13.5447 INFO Get User Success :9-Administrator
+2020-09-28 15:10:14.9721 INFO Get User Success :9-Administrator
+2020-09-28 15:10:14.9990 INFO Get User Success :9-Administrator
+2020-09-28 15:10:16.2660 INFO Get User Success :9-Administrator
+2020-09-28 15:10:25.6571 INFO Get User Success :9-Administrator
+2020-09-28 15:10:25.6770 INFO Get User Success :9-Administrator
+2020-09-28 15:10:26.7891 INFO Get User Success :9-Administrator
+2020-09-28 15:11:00.3608 INFO Get User Success :9-Administrator
+2020-09-28 15:11:00.3778 INFO Get User Success :9-Administrator
+2020-09-28 15:11:01.3858 INFO Get User Success :9-Administrator
+2020-09-28 15:11:03.3276 INFO Get User Success :9-Administrator
+2020-09-28 15:11:03.3476 INFO Get User Success :9-Administrator
+2020-09-28 15:11:04.3426 INFO Get User Success :9-Administrator
+2020-09-28 15:15:22.4230 INFO Get User Success :9-Administrator
+2020-09-28 15:18:21.2419 INFO Get User Success :9-Administrator
+2020-09-28 15:18:21.2598 INFO Get User Success :9-Administrator
+2020-09-28 15:18:23.0430 INFO Get User Success :9-Administrator
+2020-09-28 15:21:25.7399 INFO Get User Success :9-Administrator
+2020-09-28 15:21:25.7688 INFO Get User Success :9-Administrator
+2020-09-28 15:21:26.8539 INFO Get User Success :9-Administrator
+2020-09-28 15:22:01.5608 INFO Get User Success :9-Administrator
+2020-09-28 15:22:51.9919 INFO Get User Success :9-Administrator
+2020-09-28 15:27:57.0832 INFO Get User Success :9-Administrator
+2020-09-28 15:30:17.3440 INFO Get User Success :9-Administrator
+2020-09-28 15:30:20.3763 INFO Get User Success :9-Administrator
+2020-09-28 15:31:03.6303 INFO Get User Success :9-Administrator
+2020-09-28 15:31:03.6492 INFO Get User Success :9-Administrator
+2020-09-28 15:31:04.6912 INFO Get User Success :9-Administrator
+2020-09-28 15:31:06.9672 INFO Get User Success :9-Administrator
+2020-09-28 15:31:06.9961 INFO Get User Success :9-Administrator
+2020-09-28 15:31:08.2655 INFO Get User Success :9-Administrator
+2020-09-28 15:31:09.6682 INFO Get User Success :9-Administrator
+2020-09-28 15:31:09.6872 INFO Get User Success :9-Administrator
+2020-09-28 15:31:10.7200 INFO Get User Success :9-Administrator
+2020-09-28 15:31:12.1653 INFO Get User Success :9-Administrator
+2020-09-28 15:31:12.1882 INFO Get User Success :9-Administrator
+2020-09-28 15:31:15.4562 INFO Get User Success :9-Administrator
+2020-09-28 15:31:24.7347 INFO Get User Success :9-Administrator
+2020-09-28 15:31:24.7547 INFO Get User Success :9-Administrator
+2020-09-28 15:31:27.4391 INFO Get User Success :9-Administrator
+2020-09-28 15:31:56.4569 INFO Get User Success :9-Administrator
+2020-09-28 15:32:19.1307 INFO Get MaxID Success :openingbalance
+2020-09-28 15:32:31.9698 INFO Get User Success :9-Administrator
+2020-09-28 15:32:42.7165 INFO Get User Success :9-Administrator
+2020-09-28 15:32:42.7365 INFO Get User Success :9-Administrator
+2020-09-28 15:32:43.7864 INFO Get User Success :9-Administrator
+2020-09-28 15:33:09.4869 INFO Get User Success :9-Administrator
+2020-09-28 15:33:13.8067 INFO Get MaxID Success :openingbalance
+2020-09-28 15:33:38.1524 INFO Get User Success :9-Administrator
+2020-09-28 15:33:54.2359 INFO Get User Success :9-Administrator
+2020-09-28 15:34:06.8738 INFO Get User Success :9-Administrator
+2020-09-28 15:34:06.8927 INFO Get User Success :9-Administrator
+2020-09-28 15:34:09.2213 INFO Get User Success :9-Administrator
+2020-09-28 15:34:23.8370 INFO Get User Success :9-Administrator
+2020-09-28 15:34:23.8550 INFO Get User Success :9-Administrator
+2020-09-28 15:34:25.0629 INFO Get User Success :9-Administrator
+2020-09-28 15:37:46.1174 INFO Get User Success :9-Administrator
+2020-09-28 15:41:01.3642 INFO Get User Success :9-Administrator
+2020-09-28 15:41:01.3832 INFO Get User Success :9-Administrator
+2020-09-28 15:41:03.3393 INFO Get User Success :9-Administrator
+2020-09-28 15:41:04.2785 INFO Get User Success :9-Administrator
+2020-09-28 15:42:07.9268 INFO Get User Success :9-Administrator
+2020-09-28 15:43:51.2298 INFO Get User Success :9-Administrator
+2020-09-28 15:43:51.2478 INFO Get User Success :9-Administrator
+2020-09-28 15:43:52.0841 INFO Get User Success :9-Administrator
+2020-09-28 15:43:52.1397 INFO Get User Success :9-Administrator
+2020-09-28 15:43:52.6725 INFO Get User Success :9-Administrator
+2020-09-28 15:43:52.6934 INFO Get User Success :9-Administrator
+2020-09-28 15:43:53.1163 INFO Get User Success :9-Administrator
+2020-09-28 15:43:53.1622 INFO Get User Success :9-Administrator
+2020-09-28 15:43:53.1842 INFO Get User Success :9-Administrator
+2020-09-28 15:43:53.2360 INFO Get User Success :9-Administrator
+2020-09-28 15:43:53.4794 INFO Get User Success :9-Administrator
+2020-09-28 15:43:54.0013 INFO Get User Success :9-Administrator
+2020-09-28 15:43:54.0233 INFO Get User Success :9-Administrator
+2020-09-28 15:43:54.4424 INFO Get User Success :9-Administrator
+2020-09-28 15:43:54.8995 INFO Get User Success :9-Administrator
+2020-09-28 15:43:54.9174 INFO Get User Success :9-Administrator
+2020-09-28 15:53:50.3495 INFO Get User Success :9-Administrator
+2020-09-28 15:54:20.9485 INFO Get User Success :9-Administrator
+2020-09-28 15:54:20.9485 INFO Get MaxID Success :openingbalance
+2020-09-28 15:54:31.7855 INFO Get User Success :9-Administrator
+2020-09-28 15:54:36.0036 INFO Get User Success :9-Administrator
+2020-09-28 15:55:22.4190 INFO Get User Success :9-Administrator
+2020-09-28 15:55:22.4379 INFO Get User Success :9-Administrator
+2020-09-28 15:55:38.2285 INFO Get User Success :9-Administrator
+2020-09-28 15:56:28.4234 INFO Get User Success :9-Administrator
+2020-09-28 15:58:03.5163 INFO Get User Success :9-Administrator
+2020-09-28 15:59:22.6854 INFO Get User Success :9-Administrator
+2020-09-28 15:59:22.6854 INFO Get MaxID Success :openingbalance
+2020-09-28 16:02:48.7367 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:02:50.1733 INFO Get User Success :9-Administrator
+2020-09-28 16:02:51.8166 INFO Get User Success :9-Administrator
+2020-09-28 16:03:01.6606 INFO Get User Success :9-Administrator
+2020-09-28 16:04:23.4367 INFO Get User Success :9-Administrator
+2020-09-28 16:14:59.5983 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:15:00.5205 INFO Get User Success :9-Administrator
+2020-09-28 16:15:02.3543 INFO Get User Success :9-Administrator
+2020-09-28 16:16:53.6745 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:16:54.8102 INFO Get User Success :9-Administrator
+2020-09-28 16:17:13.7061 INFO Get User Success :9-Administrator
+2020-09-28 16:18:54.2636 INFO Get User Success :9-Administrator
+2020-09-28 16:19:10.7472 INFO Get User Success :9-Administrator
+2020-09-28 16:19:54.1471 INFO Get User Success :9-Administrator
+2020-09-28 16:23:04.2019 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:23:06.5258 INFO Get User Success :9-Administrator
+2020-09-28 16:23:15.7077 INFO Get User Success :9-Administrator
+2020-09-28 16:24:30.7422 INFO Get Party Type Master List Success
+2020-09-28 16:24:31.8403 INFO Get VAT Master List Success
+2020-09-28 16:24:33.1338 INFO Get VAT Master List Success
+2020-09-28 16:24:33.1767 INFO Get Party Type Master List Success
+2020-09-28 16:24:33.1827 INFO Get UOM List Success
+2020-09-28 16:24:33.2059 INFO Get Product Type Master List Success
+2020-09-28 16:24:33.2059 INFO Get VAT Type Master List Success
+2020-09-28 16:24:36.4568 INFO Get VAT Type Master List Success
+2020-09-28 16:24:38.1757 INFO Get VAT Master List Success
+2020-09-28 16:24:39.4694 INFO Get VAT Master List Success
+2020-09-28 16:24:39.4892 INFO Get Party Type Master List Success
+2020-09-28 16:24:39.4892 INFO Get UOM List Success
+2020-09-28 16:24:39.4932 INFO Get Product Type Master List Success
+2020-09-28 16:24:39.4932 INFO Get VAT Type Master List Success
+2020-09-28 16:25:25.6209 INFO Get VAT Master List Success
+2020-09-28 16:25:27.4498 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:25:28.3182 INFO Get User Success :9-Administrator
+2020-09-28 16:25:29.4328 INFO Get User Success :9-Administrator
+2020-09-28 16:25:31.7828 INFO Get User Success :9-Administrator
+2020-09-28 16:25:31.8008 INFO Get User Success :9-Administrator
+2020-09-28 16:25:50.2080 INFO Get User Success :9-Administrator
+2020-09-28 16:26:07.5264 INFO Get User Success :9-Administrator
+2020-09-28 16:26:07.5434 INFO Get User Success :9-Administrator
+2020-09-28 16:26:09.3306 INFO Get User Success :9-Administrator
+2020-09-28 16:26:15.9145 INFO Get User Success :9-Administrator
+2020-09-28 16:26:15.9335 INFO Get User Success :9-Administrator
+2020-09-28 16:27:25.3241 INFO Get User Success :9-Administrator
+2020-09-28 16:27:30.2139 INFO Get User Success :9-Administrator
+2020-09-28 16:27:44.1233 INFO Get User Success :9-Administrator
+2020-09-28 16:28:37.6512 INFO Get User Success :9-Administrator
+2020-09-28 16:28:37.6791 INFO Get User Success :9-Administrator
+2020-09-28 16:28:38.6385 INFO Get User Success :9-Administrator
+2020-09-28 16:29:40.0810 INFO Get User Success :9-Administrator
+2020-09-28 16:29:40.0969 INFO Get MaxID Success :openingbalance
+2020-09-28 16:31:13.4519 INFO Get User Success :9-Administrator
+2020-09-28 16:31:13.4799 INFO Get User Success :9-Administrator
+2020-09-28 16:36:41.5835 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:36:43.0417 INFO Get User Success :9-Administrator
+2020-09-28 16:36:44.2351 INFO Get User Success :9-Administrator
+2020-09-28 16:36:53.3398 INFO Get User Success :9-Administrator
+2020-09-28 16:36:53.3688 INFO Get MaxID Success :openingbalance
+2020-09-28 16:39:48.8690 INFO Get User Success :9-Administrator
+2020-09-28 16:39:50.8855 INFO Get User Success :9-Administrator
+2020-09-28 16:39:52.6203 INFO Get User Success :9-Administrator
+2020-09-28 16:39:52.6203 INFO Get MaxID Success :openingbalance
+2020-09-28 16:39:52.6813 INFO Get User Success :9-Administrator
+2020-09-28 16:39:54.2950 INFO Get User Success :9-Administrator
+2020-09-28 16:40:18.7670 INFO Get User Success :9-Administrator
+2020-09-28 16:40:51.5942 INFO Get User Success :9-Administrator
+2020-09-28 16:40:51.6201 INFO Get User Success :9-Administrator
+2020-09-28 16:40:52.5938 INFO Get User Success :9-Administrator
+2020-09-28 16:40:59.5274 INFO Get User Success :9-Administrator
+2020-09-28 16:40:59.5463 INFO Get User Success :9-Administrator
+2020-09-28 16:41:00.8528 INFO Get User Success :9-Administrator
+2020-09-28 16:41:02.7632 INFO Get User Success :9-Administrator
+2020-09-28 16:41:02.7821 INFO Get User Success :9-Administrator
+2020-09-28 16:41:04.1265 INFO Get User Success :9-Administrator
+2020-09-28 16:41:06.2692 INFO Get User Success :9-Administrator
+2020-09-28 16:41:06.2902 INFO Get User Success :9-Administrator
+2020-09-28 16:41:08.3412 INFO Get User Success :9-Administrator
+2020-09-28 16:41:29.2110 INFO Get User Success :9-Administrator
+2020-09-28 16:42:14.6890 INFO Get User Success :9-Administrator
+2020-09-28 16:42:30.8218 INFO Get User Success :9-Administrator
+2020-09-28 16:42:43.3220 INFO Get User Success :9-Administrator
+2020-09-28 16:42:47.8833 INFO Get User Success :9-Administrator
+2020-09-28 16:42:47.9172 INFO Get User Success :9-Administrator
+2020-09-28 16:42:49.5991 INFO Get User Success :9-Administrator
+2020-09-28 16:42:52.0764 INFO Get User Success :9-Administrator
+2020-09-28 16:42:52.0953 INFO Get User Success :9-Administrator
+2020-09-28 16:42:53.4299 INFO Get User Success :9-Administrator
+2020-09-28 16:42:58.5754 INFO Get User Success :9-Administrator
+2020-09-28 16:42:58.5933 INFO Get User Success :9-Administrator
+2020-09-28 16:43:00.2784 INFO Get User Success :9-Administrator
+2020-09-28 16:43:04.9304 INFO Get User Success :9-Administrator
+2020-09-28 16:43:04.9474 INFO Get User Success :9-Administrator
+2020-09-28 16:44:02.7655 INFO Get User Success :9-Administrator
+2020-09-28 16:44:08.1482 INFO Get User Success :9-Administrator
+2020-09-28 16:44:08.1672 INFO Get User Success :9-Administrator
+2020-09-28 16:44:34.5979 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:47:38.1524 INFO Sugarcanepurchase Get List Success
+2020-09-28 16:49:26.7032 INFO Get User Success :9-Administrator
+2020-09-28 17:02:11.3855 INFO Sugarcanepurchase Get List Success
+2020-09-28 17:15:25.2818 INFO Sugarcanepurchase Get List Success
+2020-09-28 17:19:14.2926 INFO Sugarcanepurchase Get List Success
+2020-09-28 17:19:15.7276 INFO Get User Success :9-Administrator
+2020-09-28 17:19:22.9523 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 17:19:25.9045 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 17:19:28.1536 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 17:32:24.0512 INFO Sugarcanepurchase Get List Success
+2020-09-28 17:32:31.6983 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 17:48:01.9038 INFO Sugarcanepurchase Get List Success
+2020-09-28 17:48:09.2400 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 17:53:51.2931 INFO Sugarcanepurchase Get List Success
+2020-09-28 17:54:02.3319 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:01:37.1464 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:01:50.3835 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:08:21.8240 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:08:37.7192 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:14:33.8886 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:14:47.7266 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:17:06.2209 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:24:52.6255 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:25:15.5086 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:34:12.4122 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:36:00.3939 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:38:28.1358 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:40:40.2177 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:42:36.8404 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:43:56.8143 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:47:41.2208 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:47:48.0626 INFO Get Existing data Fail :dailymolassesproduction
+2020-09-28 18:51:13.7162 INFO Sugarcanepurchase Get List Success
+2020-09-28 18:54:28.7106 INFO Sugarcanepurchase Get List Success

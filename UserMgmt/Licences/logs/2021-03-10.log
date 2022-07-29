@@ -1,0 +1,646 @@
+2021-03-10 10:30:20.2687 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 10:30:20.3470 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 10:30:20.4055 INFO Get User Success :harinagar_disbo
+2021-03-10 10:30:35.3968 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 10:30:35.4465 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 10:30:35.4939 INFO Get Pass List Success
+2021-03-10 10:30:35.5352 INFO Get User Success :harinagar_disbo
+2021-03-10 10:30:41.1619 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 10:30:41.1619 INFO Get Dispach Master List Success
+2021-03-10 10:30:41.1879 INFO Get VAT Master List Success
+2021-03-10 10:30:41.1879 INFO Get Pass List Success
+2021-03-10 10:30:41.2129 INFO Get User Success :harinagar_disbo
+2021-03-10 10:31:19.1775 INFO Pass Issued Sucess:HDD
+2021-03-10 10:31:20.2593 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 10:31:20.3131 INFO Get Pass List Success
+2021-03-10 10:31:20.3131 INFO Get User Success :harinagar_disbo
+2021-03-10 10:31:39.1066 INFO Get User Success :101-Commissioner
+2021-03-10 10:31:39.1305 INFO Get User Success :101-Commissioner
+2021-03-10 10:31:39.6200 INFO Get User Success :com
+2021-03-10 10:31:43.2646 INFO Get User Success :101-Commissioner
+2021-03-10 10:31:43.3127 INFO Get User Success :101-Commissioner
+2021-03-10 10:31:43.3127 INFO Check WorkFlow List Success
+2021-03-10 10:31:43.3878 INFO Get RR List Success
+2021-03-10 10:31:43.4036 INFO Get User Success :com
+2021-03-10 10:31:46.4265 INFO Get User Success :101-Commissioner
+2021-03-10 10:31:46.4265 INFO Get Product Master List Success
+2021-03-10 10:31:46.4744 INFO Get State List Success
+2021-03-10 10:31:46.4744 INFO Get NOC Sucess:65
+2021-03-10 10:31:46.4744 INFO Get NOC Sucess:Req//1
+2021-03-10 10:31:46.4744 INFO Get State List Success
+2021-03-10 10:31:46.4902 INFO Get NOC Details Success
+2021-03-10 10:31:46.4902 INFO Get Customer Details Success
+2021-03-10 10:31:46.5203 INFO Check WorkFlow List Success
+2021-03-10 10:31:46.5304 INFO Get User Success :com
+2021-03-10 10:32:17.4493 INFO Get User Success :101-Commissioner
+2021-03-10 10:32:34.7894 INFO NOC Approve Sucess:51
+2021-03-10 10:32:41.0323 INFO Get User Success :101-Commissioner
+2021-03-10 10:32:41.0572 INFO Get User Success :101-Commissioner
+2021-03-10 10:32:41.0572 INFO Check WorkFlow List Success
+2021-03-10 10:32:41.1265 INFO Get RR List Success
+2021-03-10 10:32:41.1265 INFO Get User Success :com
+2021-03-10 10:35:56.7072 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:35:56.7351 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:35:56.7351 INFO Get User Success :wcedo
+2021-03-10 10:36:04.5296 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:36:04.5375 INFO Get RR List Success
+2021-03-10 10:36:04.5830 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:36:04.6015 INFO Get RR List Success
+2021-03-10 10:36:04.6216 INFO Get User Success :wcedo
+2021-03-10 10:36:11.0667 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:36:11.0667 INFO Get RR Details Success
+2021-03-10 10:36:11.0930 INFO Get RR List Success
+2021-03-10 10:36:11.0930 INFO Get User Success :wcedo
+2021-03-10 10:36:15.8949 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:36:15.9117 INFO Get RR List Success
+2021-03-10 10:36:15.9117 INFO Get User Success :wcedo
+2021-03-10 10:36:23.6479 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:36:23.6690 INFO Get User Success :99-Assistant Commissioner
+2021-03-10 10:36:23.6713 INFO Check WorkFlow List Success
+2021-03-10 10:36:23.7344 INFO Get RR List Success
+2021-03-10 10:36:23.7344 INFO Get User Success :wcedo
+2021-03-10 10:36:44.5014 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:36:44.5263 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:36:44.5465 INFO Get User Success :harinagar_sgr
+2021-03-10 10:36:47.9514 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:36:47.9564 INFO Get RR List Success
+2021-03-10 10:36:47.9564 INFO Get User Success :harinagar_sgr
+2021-03-10 10:36:49.6403 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:36:49.6559 INFO Get RR List Success
+2021-03-10 10:36:49.6559 INFO Get User Success :harinagar_sgr
+2021-03-10 10:38:47.4291 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:38:47.4291 INFO Get RR List Success
+2021-03-10 10:38:47.4391 INFO Get User Success :harinagar_sgr
+2021-03-10 10:38:48.5118 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:38:48.5247 INFO Get RR List Success
+2021-03-10 10:38:48.5247 INFO Get User Success :harinagar_sgr
+2021-03-10 10:38:50.1195 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:38:50.1244 INFO Get RR List Success
+2021-03-10 10:38:50.1244 INFO Get User Success :harinagar_sgr
+2021-03-10 10:38:51.4664 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:38:51.4724 INFO Get MF2 List Success
+2021-03-10 10:38:51.4844 INFO Get User Success :harinagar_sgr
+2021-03-10 10:38:56.8626 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:38:56.8626 INFO Get Party Master List Success
+2021-03-10 10:38:56.8626 INFO Get Party Master List Success
+2021-03-10 10:38:56.8626 INFO Get Product Master List Success
+2021-03-10 10:38:56.8762 INFO Get VAT Master List Success
+2021-03-10 10:38:56.8762 INFO Get User Success :harinagar_sgr
+2021-03-10 10:38:58.6182 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:38:58.6182 INFO Get MF3 List Success
+2021-03-10 10:38:58.6267 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:00.0407 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:00.0407 INFO Get VAT Master List Success
+2021-03-10 10:39:00.0407 INFO Get Product Master List Success
+2021-03-10 10:39:00.0488 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:03.4164 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:03.4164 INFO Get MF3 List Success
+2021-03-10 10:39:03.4234 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:06.5910 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:06.5930 INFO Get MF2 List Success
+2021-03-10 10:39:06.5930 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:09.5514 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:09.5514 INFO Get RR List Success
+2021-03-10 10:39:09.5514 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:11.1107 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:11.1245 INFO Get RR List Success
+2021-03-10 10:39:11.1245 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:13.1419 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:13.1419 INFO Get RR List Success
+2021-03-10 10:39:13.1419 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:15.0477 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:15.0477 INFO Get MF2 List Success
+2021-03-10 10:39:15.0477 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:17.1214 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:17.1909 INFO Get RR List Success
+2021-03-10 10:39:17.1909 INFO Get User Success :harinagar_sgr
+2021-03-10 10:39:18.4911 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 10:39:18.5209 INFO Get User Success :harinagar_sgr
+2021-03-10 11:57:17.9323 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:57:18.0618 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:57:18.1853 INFO Get User Success :harinagar_dis
+2021-03-10 11:57:21.0295 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:57:23.1348 INFO Get User Success :harinagar_dis
+2021-03-10 11:57:25.5111 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:57:25.5293 INFO Get VAT Master List Success
+2021-03-10 11:57:25.5422 INFO Get User Success :harinagar_dis
+2021-03-10 11:57:29.9084 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:57:29.9219 INFO Get VAT Master List Success
+2021-03-10 11:57:29.9219 INFO Get User Success :harinagar_dis
+2021-03-10 11:57:37.2677 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:59:23.3675 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:59:23.3775 INFO Get VAT Master List Success
+2021-03-10 11:59:23.3775 INFO Get User Success :harinagar_dis
+2021-03-10 11:59:37.5219 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 11:59:37.5219 INFO Get VAT Master List Success
+2021-03-10 12:00:20.5789 INFO Get User Success :harinagar_dis
+2021-03-10 12:00:21.1209 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:00:21.1392 INFO Get Form84 List Success
+2021-03-10 12:00:21.1537 INFO Get User Success :harinagar_dis
+2021-03-10 12:00:27.0397 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:00:27.0397 INFO Get VAT Master List Success
+2021-03-10 12:00:27.0480 INFO Get User Success :harinagar_dis
+2021-03-10 12:00:31.4405 INFO Get VAT Master List Success
+2021-03-10 12:00:33.6535 INFO Get VAT Master List Success
+2021-03-10 12:00:41.1268 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:00:41.1268 INFO Get VAT Master List Success
+2021-03-10 12:00:41.1430 INFO Get User Success :harinagar_dis
+2021-03-10 12:00:43.3244 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:00:43.3283 INFO Get VAT Master List Success
+2021-03-10 12:00:44.7620 INFO Get User Success :harinagar_dis
+2021-03-10 12:00:48.8119 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:00:48.8119 INFO Get VAT Master List Success
+2021-03-10 12:00:48.8287 INFO Get User Success :harinagar_dis
+2021-03-10 12:00:57.6704 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:00:57.6954 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:00:57.7053 INFO Get User Success :harinagar_disbo
+2021-03-10 12:00:59.7668 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:01:01.6500 INFO Get User Success :harinagar_disbo
+2021-03-10 12:01:04.2466 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:01:04.2575 INFO Get VAT Master List Success
+2021-03-10 12:01:04.2651 INFO Get User Success :harinagar_disbo
+2021-03-10 12:01:06.0830 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:01:06.0830 INFO Get VAT Master List Success
+2021-03-10 12:01:07.6438 INFO Get User Success :harinagar_disbo
+2021-03-10 12:02:46.9308 INFO Form83 Approve Sucess:359
+2021-03-10 12:02:46.9545 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:02:46.9545 INFO Get VAT Master List Success
+2021-03-10 12:02:46.9698 INFO Get User Success :harinagar_disbo
+2021-03-10 12:02:56.0271 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-03-10 12:02:56.0301 INFO Get VAT Master List Success
+2021-03-10 12:07:44.3186 INFO Get User Success :harinagar_disbo
+2021-03-10 12:07:52.8060 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:07:52.8365 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:07:52.9237 INFO Get User Success :harinagar_dis
+2021-03-10 12:07:55.0388 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:08:19.9437 INFO Get User Success :harinagar_dis
+2021-03-10 12:08:23.2011 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:08:23.2080 INFO Get Form84 List Success
+2021-03-10 12:08:23.2182 INFO Get User Success :harinagar_dis
+2021-03-10 12:08:25.7197 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:08:25.7197 INFO Get VAT Master List Success
+2021-03-10 12:08:25.7197 INFO Get User Success :harinagar_dis
+2021-03-10 12:08:32.2240 INFO Get VAT Master List Success
+2021-03-10 12:08:34.9720 INFO Get VAT Master List Success
+2021-03-10 12:09:53.1762 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:09:53.1762 INFO Get Form84 List Success
+2021-03-10 12:09:53.1892 INFO Get User Success :harinagar_dis
+2021-03-10 12:10:07.3601 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:10:07.3601 INFO Get VAT Master List Success
+2021-03-10 12:10:07.3601 INFO Get VAT Master List Success
+2021-03-10 12:10:08.8144 INFO Get VAT Master List Success
+2021-03-10 12:10:08.8144 INFO Get VAT Master List Success
+2021-03-10 12:10:08.8144 INFO Get User Success :harinagar_dis
+2021-03-10 12:10:29.1273 INFO Get form84 Update Success
+2021-03-10 12:10:29.1503 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:10:29.1572 INFO Get Form84 List Success
+2021-03-10 12:10:29.1572 INFO Get User Success :harinagar_dis
+2021-03-10 12:10:35.3131 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:10:35.3131 INFO Get VAT Master List Success
+2021-03-10 12:10:35.3131 INFO Get User Success :harinagar_dis
+2021-03-10 12:10:41.3904 INFO Get VAT Master List Success
+2021-03-10 12:11:22.2125 INFO Get VAT Master List Success
+2021-03-10 12:11:25.5197 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:11:25.5197 INFO Get Form84 List Success
+2021-03-10 12:11:25.5337 INFO Get User Success :harinagar_dis
+2021-03-10 12:11:26.9950 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:11:26.9950 INFO Get VAT Master List Success
+2021-03-10 12:11:26.9950 INFO Get VAT Master List Success
+2021-03-10 12:11:28.4723 INFO Get VAT Master List Success
+2021-03-10 12:11:28.4723 INFO Get VAT Master List Success
+2021-03-10 12:11:28.4723 INFO Get VAT Master List Success
+2021-03-10 12:11:28.4833 INFO Get User Success :harinagar_dis
+2021-03-10 12:11:31.9752 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:11:31.9832 INFO Get Form84 List Success
+2021-03-10 12:11:31.9832 INFO Get User Success :harinagar_dis
+2021-03-10 12:11:34.1502 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:11:34.1502 INFO Get VAT Master List Success
+2021-03-10 12:11:34.1582 INFO Get User Success :harinagar_dis
+2021-03-10 12:11:40.8332 INFO Get VAT Master List Success
+2021-03-10 12:11:45.8472 INFO Get VAT Master List Success
+2021-03-10 12:12:08.4574 INFO Get form84 Update Success
+2021-03-10 12:12:08.4813 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:12:08.4883 INFO Get Form84 List Success
+2021-03-10 12:12:08.4883 INFO Get User Success :harinagar_dis
+2021-03-10 12:12:15.9782 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:12:15.9782 INFO Get VAT Master List Success
+2021-03-10 12:12:15.9782 INFO Get VAT Master List Success
+2021-03-10 12:12:17.1739 INFO Get VAT Master List Success
+2021-03-10 12:12:17.1739 INFO Get VAT Master List Success
+2021-03-10 12:12:17.1739 INFO Get VAT Master List Success
+2021-03-10 12:12:17.1739 INFO Get User Success :harinagar_dis
+2021-03-10 12:12:28.9618 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:12:28.9708 INFO Get VAT Master List Success
+2021-03-10 12:12:28.9708 INFO Get User Success :harinagar_dis
+2021-03-10 12:12:30.1321 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:12:30.1321 INFO Get Form84 List Success
+2021-03-10 12:12:30.1461 INFO Get User Success :harinagar_dis
+2021-03-10 12:19:47.3055 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:19:47.4246 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:19:47.5484 INFO Get User Success :harinagar_sgr
+2021-03-10 12:19:54.0967 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:19:54.0967 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:19:54.1437 INFO Get User Success :harinagar_sgr
+2021-03-10 12:19:58.0839 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:19:58.1237 INFO Get RR List Success
+2021-03-10 12:19:58.1297 INFO Get User Success :harinagar_sgr
+2021-03-10 12:19:59.5389 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:19:59.5459 INFO Get MF2 List Success
+2021-03-10 12:19:59.5459 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:01.5160 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:01.6010 INFO Get RR List Success
+2021-03-10 12:20:01.6089 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:02.6927 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:02.7306 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:05.5430 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:20:05.5478 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:05.5478 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:07.7527 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:07.7867 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:08.8343 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:08.8554 INFO MIR GetList Sucess
+2021-03-10 12:20:08.8713 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:10.2967 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:10.3226 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:11.2919 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:11.3088 INFO MIR GetList Sucess
+2021-03-10 12:20:11.3141 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:12.7891 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:12.8100 INFO Get VAT Master List Success
+2021-03-10 12:20:12.8629 INFO Get Pass List Success
+2021-03-10 12:20:12.8629 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:15.5460 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:15.5620 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:16.6529 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:20:16.6569 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:16.6569 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:17.7888 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:20:17.8506 INFO Get Party Master List Success
+2021-03-10 12:20:17.8506 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:19.7291 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:32.2145 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:32.2309 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:33.7686 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:33.7686 INFO Get Party Master List Success
+2021-03-10 12:20:33.7915 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:41.6854 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:41.6904 INFO Get RR List Success
+2021-03-10 12:20:41.6904 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:43.9264 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:43.9473 INFO Get RR List Success
+2021-03-10 12:20:43.9473 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:44.9873 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:44.9873 INFO Get RR List Success
+2021-03-10 12:20:44.9873 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:46.2236 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:46.2236 INFO Get MF2 List Success
+2021-03-10 12:20:46.2236 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:48.9195 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:48.9224 INFO Get MF3 List Success
+2021-03-10 12:20:48.9224 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:50.1988 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:50.1988 INFO Get MF2 List Success
+2021-03-10 12:20:50.2058 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:51.5918 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:51.6674 INFO Get RR List Success
+2021-03-10 12:20:51.6724 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:52.8171 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:52.8371 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:54.2062 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:54.2062 INFO Get RR List Success
+2021-03-10 12:20:54.2062 INFO Get User Success :harinagar_sgr
+2021-03-10 12:20:55.9269 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:20:55.9269 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:20:55.9369 INFO Get User Success :harinagar_sgr
+2021-03-10 12:21:04.8212 INFO Get User Success :44-Administrator
+2021-03-10 12:21:04.8472 INFO Get User Success :44-Administrator
+2021-03-10 12:21:04.8472 INFO Get User Success :Admin
+2021-03-10 12:21:07.4137 INFO Get Party Type Master List Success
+2021-03-10 12:21:07.4251 INFO Get User Success :Admin
+2021-03-10 12:21:09.5475 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:21:09.5475 INFO Get User Success :44-Administrator
+2021-03-10 12:21:09.5615 INFO Get User Success :Admin
+2021-03-10 12:21:15.1919 INFO Get User Success :44-Administrator
+2021-03-10 12:21:17.5345 INFO Get User Success :Admin
+2021-03-10 12:21:38.6435 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:21:38.6754 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:21:38.7525 INFO Get User Success :harinagar_dis
+2021-03-10 12:21:41.2603 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:21:43.1978 INFO Get User Success :harinagar_dis
+2021-03-10 12:21:45.8704 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:21:47.3925 INFO Get User Success :harinagar_dis
+2021-03-10 12:22:01.1562 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:22:03.2476 INFO Get User Success :harinagar_dis
+2021-03-10 12:22:29.1075 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:22:29.1845 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:22:29.2056 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:06.9842 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:08.8178 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:11.0069 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:11.0214 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:11.9808 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:12.0376 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:12.0486 INFO Get VAT Master List Success
+2021-03-10 12:26:12.0625 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:12.8317 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:12.8317 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:13.9095 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:13.9853 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:14.0112 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:14.6831 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:14.7150 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:14.7240 INFO Get VAT Master List Success
+2021-03-10 12:26:14.7240 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:15.3068 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:15.3168 INFO Get Form84 List Success
+2021-03-10 12:26:15.3317 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:26:59.3394 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:26:59.3394 INFO Get VAT Master List Success
+2021-03-10 12:26:59.3505 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:27:51.4805 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:27:51.4874 INFO Get Indent List Success
+2021-03-10 12:27:51.5024 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:27:52.7720 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:27:52.7720 INFO Get Indent List Success
+2021-03-10 12:27:52.8369 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:27:52.8438 INFO Get Allotment List Success
+2021-03-10 12:27:52.8598 INFO Get User Success :newswadeshi_dis
+2021-03-10 12:28:02.7335 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-03-10 12:28:02.7335 INFO Get Allotment List Success
+2021-03-10 12:28:07.8679 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:07.8968 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:07.9341 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:10.4367 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:10.4367 INFO Get MF2 List Success
+2021-03-10 12:28:10.4367 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:13.1960 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:13.1960 INFO Get MF3 List Success
+2021-03-10 12:28:13.2029 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:16.3225 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:16.3225 INFO Get MF2 List Success
+2021-03-10 12:28:16.3305 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:19.2177 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:19.2177 INFO Get RR List Success
+2021-03-10 12:28:19.2177 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:23.6343 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:23.6514 INFO Get RR List Success
+2021-03-10 12:28:23.6555 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:24.7255 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:24.7255 INFO Get RR List Success
+2021-03-10 12:28:24.7345 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:29.8986 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:29.8986 INFO Get MF2 List Success
+2021-03-10 12:28:29.9064 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:33.7317 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:33.7345 INFO Get Party Master List Success
+2021-03-10 12:28:33.7345 INFO Get Party Master List Success
+2021-03-10 12:28:33.7345 INFO Get Product Master List Success
+2021-03-10 12:28:33.7345 INFO Get VAT Master List Success
+2021-03-10 12:28:33.7709 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:35.3327 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:35.3327 INFO Get MF3 List Success
+2021-03-10 12:28:35.3327 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:36.7263 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:36.7263 INFO Get VAT Master List Success
+2021-03-10 12:28:36.7263 INFO Get Product Master List Success
+2021-03-10 12:28:36.7363 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:38.6620 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:38.6620 INFO Get MF3 List Success
+2021-03-10 12:28:38.6620 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:42.8539 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:28:42.8539 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:42.8639 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:44.6311 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:44.6673 INFO MIR GetList Sucess
+2021-03-10 12:28:44.6742 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:46.6627 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:28:46.6717 INFO Get VAT Master List Success
+2021-03-10 12:28:46.7176 INFO Get Pass List Success
+2021-03-10 12:28:46.7176 INFO Get User Success :harinagar_sgr
+2021-03-10 12:28:49.8939 INFO Get Pass List Success
+2021-03-10 12:29:26.9107 INFO MIR Insertion Sucess:363-HSM
+2021-03-10 12:29:27.3393 INFO MIR Update Success:HSM-HSMMST0001_363
+2021-03-10 12:29:27.3742 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 12:29:27.3982 INFO MIR GetList Sucess
+2021-03-10 12:29:27.3982 INFO Get User Success :harinagar_sgr
+2021-03-10 12:29:40.3906 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-03-10 12:29:40.4175 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-03-10 12:29:40.4265 INFO Get User Success :harinagar_sgrbo
+2021-03-10 12:29:42.8602 INFO Sugarcanepurchase Get List Success
+2021-03-10 12:29:42.8602 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-03-10 12:29:42.8602 INFO Get User Success :harinagar_sgrbo
+2021-03-10 12:29:43.9994 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-03-10 12:29:44.0174 INFO MIR GetList Sucess
+2021-03-10 12:29:44.0174 INFO Get User Success :harinagar_sgrbo
+2021-03-10 12:29:45.9293 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-03-10 12:29:45.9403 INFO Get VAT Master List Success
+2021-03-10 12:29:45.9842 INFO Get Pass List Success
+2021-03-10 12:29:45.9842 INFO MIR GetDetails Sucess
+2021-03-10 12:29:45.9842 INFO Get Pass List Success
+2021-03-10 12:29:45.9842 INFO Get User Success :harinagar_sgrbo
+2021-03-10 12:29:51.1334 INFO MIR Approve Sucess:363
+2021-03-10 12:29:51.1592 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-03-10 12:29:51.1772 INFO MIR GetList Sucess
+2021-03-10 12:29:51.1772 INFO Get User Success :harinagar_sgrbo
+2021-03-10 12:30:01.8530 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:30:01.8860 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:30:01.9621 INFO Get User Success :harinagar_dis
+2021-03-10 12:30:03.8594 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:30:05.4525 INFO Get User Success :harinagar_dis
+2021-03-10 12:30:09.0879 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:30:10.5602 INFO Get User Success :harinagar_dis
+2021-03-10 12:33:40.5760 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:33:42.6496 INFO Get User Success :harinagar_dis
+2021-03-10 12:33:48.0575 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:33:49.5920 INFO Get User Success :harinagar_dis
+2021-03-10 12:33:57.9556 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:34:00.2108 INFO Get User Success :harinagar_dis
+2021-03-10 12:34:03.0975 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:34:04.7579 INFO Get User Success :harinagar_dis
+2021-03-10 12:39:07.6834 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:39:07.7622 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:39:08.3137 INFO Get User Success :hodyco
+2021-03-10 12:39:25.2346 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:39:25.2346 INFO Check WorkFlow List Success
+2021-03-10 12:39:25.3012 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:39:25.3012 INFO Check WorkFlow List Success
+2021-03-10 12:39:25.3012 INFO Get Allotment List Success
+2021-03-10 12:39:25.3321 INFO Get User Success :hodyco
+2021-03-10 12:39:29.3524 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:39:29.3524 INFO Check WorkFlow List Success
+2021-03-10 12:39:29.3524 INFO Get Allotment List Success
+2021-03-10 12:39:29.3634 INFO Get User Success :hodyco
+2021-03-10 12:39:30.0998 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:39:30.0998 INFO Check WorkFlow List Success
+2021-03-10 12:39:30.0998 INFO Get Allotment List Success
+2021-03-10 12:39:30.1117 INFO Get User Success :hodyco
+2021-03-10 12:39:39.8073 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:39.8333 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:39.9075 INFO Get User Success :harinagar_dis
+2021-03-10 12:39:44.6682 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:44.6764 INFO Get Indent List Success
+2021-03-10 12:39:44.7017 INFO Get User Success :harinagar_dis
+2021-03-10 12:39:46.7190 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:46.7190 INFO Get Indent List Success
+2021-03-10 12:39:46.7624 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:46.7665 INFO Get Allotment List Success
+2021-03-10 12:39:46.7856 INFO Get User Success :harinagar_dis
+2021-03-10 12:39:52.3349 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:52.3349 INFO Get Allotment List Success
+2021-03-10 12:39:54.0014 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:39:54.0014 INFO Get Party Master List Success
+2021-03-10 12:39:54.0014 INFO Get Indent List Success
+2021-03-10 12:39:54.0193 INFO Get User Success :harinagar_dis
+2021-03-10 12:40:08.2036 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:40:08.2036 INFO Get Indent List Success
+2021-03-10 12:40:08.2036 INFO Get User Success :harinagar_dis
+2021-03-10 12:40:10.7480 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:40:10.7518 INFO Get Indent List Success
+2021-03-10 12:40:10.7708 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:40:10.7708 INFO Get Allotment List Success
+2021-03-10 12:40:10.7818 INFO Get User Success :harinagar_dis
+2021-03-10 12:40:12.3485 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:40:12.3485 INFO Get Allotment List Success
+2021-03-10 12:40:14.0494 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:40:14.0494 INFO Get Party Master List Success
+2021-03-10 12:40:14.0494 INFO Get Indent List Success
+2021-03-10 12:40:14.0614 INFO Get User Success :harinagar_dis
+2021-03-10 12:40:28.0809 INFO Get Indent List Success
+2021-03-10 12:40:28.0809 INFO Get Party Master List Success
+2021-03-10 12:40:33.3839 INFO Get Indent List Success
+2021-03-10 12:40:33.3839 INFO Get Party Master List Success
+2021-03-10 12:40:40.2316 INFO Get Indent List Success
+2021-03-10 12:40:40.2345 INFO Get Party Master List Success
+2021-03-10 12:41:07.6504 INFO Insert Allotment Success :-HDD
+2021-03-10 12:41:07.6743 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:41:07.6743 INFO Get Allotment List Success
+2021-03-10 12:41:07.6743 INFO Get User Success :harinagar_dis
+2021-03-10 12:41:11.2398 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:41:11.2398 INFO Get Allotment List Success
+2021-03-10 12:41:13.8945 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:41:13.9184 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:41:14.4039 INFO Get User Success :hodyco
+2021-03-10 12:41:17.4936 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:41:17.4936 INFO Check WorkFlow List Success
+2021-03-10 12:41:17.5215 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:41:17.5215 INFO Check WorkFlow List Success
+2021-03-10 12:41:17.5215 INFO Get Allotment List Success
+2021-03-10 12:41:17.5444 INFO Get User Success :hodyco
+2021-03-10 12:41:21.0347 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:41:21.0347 INFO Get Party Master List Success
+2021-03-10 12:41:21.0347 INFO Get Indent List Success
+2021-03-10 12:41:21.0516 INFO Get Allotment Details Success
+2021-03-10 12:41:21.0516 INFO Get Indent List Success
+2021-03-10 12:41:21.0626 INFO Get Party Master List Success
+2021-03-10 12:41:21.0626 INFO Check WorkFlow List Success
+2021-03-10 12:41:21.0626 INFO Get User Success :hodyco
+2021-03-10 12:44:37.0202 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:44:37.0202 INFO Check WorkFlow List Success
+2021-03-10 12:44:37.0202 INFO Get Allotment List Success
+2021-03-10 12:44:37.0322 INFO Get User Success :hodyco
+2021-03-10 12:44:42.7929 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 12:44:42.7959 INFO Get Party Master List Success
+2021-03-10 12:44:42.7959 INFO Get Indent List Success
+2021-03-10 12:44:42.7959 INFO Get Allotment Details Success
+2021-03-10 12:44:42.7959 INFO Get Indent List Success
+2021-03-10 12:44:42.7959 INFO Get Party Master List Success
+2021-03-10 12:54:16.4018 INFO Check WorkFlow List Success
+2021-03-10 12:54:16.4087 INFO Get User Success :hodyco
+2021-03-10 12:54:28.0695 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:54:28.0904 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:54:28.1842 INFO Get User Success :harinagar_dis
+2021-03-10 12:54:30.7697 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:54:34.2923 INFO Get User Success :harinagar_dis
+2021-03-10 12:55:01.6722 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:01.6722 INFO Get User Success :harinagar_dis
+2021-03-10 12:55:03.0702 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:03.1101 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:03.1101 INFO Get VAT Master List Success
+2021-03-10 12:55:03.1360 INFO Get User Success :harinagar_dis
+2021-03-10 12:55:04.6712 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:06.8631 INFO Get User Success :harinagar_dis
+2021-03-10 12:55:10.2400 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:12.0884 INFO Get User Success :harinagar_dis
+2021-03-10 12:55:52.2721 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:53.9739 INFO Get User Success :harinagar_dis
+2021-03-10 12:55:56.7935 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 12:55:57.9830 INFO Get User Success :harinagar_dis
+2021-03-10 13:00:01.6702 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:00:01.6764 INFO Get User Success :harinagar_dis
+2021-03-10 13:00:03.7322 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:00:03.7602 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:00:06.2319 INFO Get User Success :harinagar_dis
+2021-03-10 13:01:16.1550 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:01:16.1610 INFO Get User Success :harinagar_dis
+2021-03-10 13:01:17.6601 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:01:17.7030 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:01:17.7289 INFO Get User Success :harinagar_dis
+2021-03-10 13:01:19.0759 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:01:19.1069 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:01:19.1198 INFO Get VAT Master List Success
+2021-03-10 13:01:19.1278 INFO Get User Success :harinagar_dis
+2021-03-10 13:02:32.3903 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:02:35.0792 INFO Get User Success :harinagar_dis
+2021-03-10 13:02:37.4549 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:02:38.9197 INFO Get User Success :harinagar_dis
+2021-03-10 13:03:34.8785 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:34.9025 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:34.9414 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:36.9455 INFO Sugarcanepurchase Get List Success
+2021-03-10 13:03:36.9455 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:36.9635 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:37.9735 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:37.9994 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:38.5182 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:38.5381 INFO MIR GetList Sucess
+2021-03-10 13:03:38.5522 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:40.0165 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:40.0165 INFO Get VAT Master List Success
+2021-03-10 13:03:40.0754 INFO Get Pass List Success
+2021-03-10 13:03:40.0804 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:45.7215 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:45.7404 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:54.0131 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-03-10 13:03:54.0310 INFO MIR GetList Sucess
+2021-03-10 13:03:54.0310 INFO Get User Success :harinagar_sgr
+2021-03-10 13:03:56.4176 INFO MIR GetList Sucess
+2021-03-10 13:04:00.5111 INFO MIR GetList Sucess
+2021-03-10 13:04:02.6542 INFO MIR GetList Sucess
+2021-03-10 13:04:04.9053 INFO MIR GetList Sucess
+2021-03-10 13:07:10.3304 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:07:10.3563 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:07:10.4357 INFO Get User Success :harinagar_dis
+2021-03-10 13:07:12.2747 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:07:13.6339 INFO Get User Success :harinagar_dis
+2021-03-10 13:07:16.2241 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:07:17.4074 INFO Get User Success :harinagar_dis
+2021-03-10 13:08:40.5060 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:08:42.9259 INFO Get User Success :harinagar_dis
+2021-03-10 13:08:45.1782 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:08:46.3124 INFO Get User Success :harinagar_dis
+2021-03-10 13:09:50.8892 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:09:52.6617 INFO Get User Success :harinagar_dis
+2021-03-10 13:09:55.4403 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-10 13:09:56.8323 INFO Get User Success :harinagar_dis
+2021-03-10 16:37:13.5166 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 16:37:13.6493 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 16:37:14.1896 INFO Get User Success :hodyco
+2021-03-10 16:37:17.1314 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 16:37:17.1314 INFO Check WorkFlow List Success
+2021-03-10 16:37:17.2199 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 16:37:17.2199 INFO Check WorkFlow List Success
+2021-03-10 16:37:17.2199 INFO Get Allotment List Success
+2021-03-10 16:37:17.2749 INFO Get User Success :hodyco
+2021-03-10 16:37:20.8495 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 16:37:20.8495 INFO Get Party Master List Success
+2021-03-10 16:37:20.8628 INFO Get Indent List Success
+2021-03-10 16:37:20.8628 INFO Get Allotment Details Success
+2021-03-10 16:37:20.8813 INFO Get Indent List Success
+2021-03-10 16:37:20.8813 INFO Get Party Master List Success
+2021-03-10 16:37:21.0746 INFO Check WorkFlow List Success
+2021-03-10 16:37:21.0846 INFO Get User Success :hodyco
+2021-03-10 16:41:28.5976 INFO Allotement Approve Sucess:38
+2021-03-10 16:41:37.9919 INFO Get User Success :100-Deputy Commissioner
+2021-03-10 16:41:37.9919 INFO Check WorkFlow List Success
+2021-03-10 16:41:37.9979 INFO Get Allotment List Success
+2021-03-10 16:41:37.9979 INFO Get User Success :hodyco

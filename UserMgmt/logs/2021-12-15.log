@@ -1,0 +1,796 @@
+2021-12-15 12:03:01.9072 INFO Get User Fail :-Field not found in row: party_type_code
+2021-12-15 12:03:02.0621 INFO Get User Fail :-Field not found in row: party_type_code
+2021-12-15 12:03:02.1181 INFO Get Product Type Master List Success
+2021-12-15 12:03:03.3900 INFO Get User Fail :newswadeshi_dis_42703: column b.approver_level does not exist
+2021-12-15 12:03:34.6945 INFO Get User Fail :-Field not found in row: party_type_code
+2021-12-15 12:03:34.6945 INFO Get Product Type Master List Success
+2021-12-15 12:40:17.6361 INFO Get User Success :newswadeshi_dis
+2021-12-15 12:47:44.9991 INFO Get User Fail :-Field not found in row: party_type_code
+2021-12-15 12:47:45.1203 INFO Get User Fail :-Field not found in row: party_type_code
+2021-12-15 12:47:45.1972 INFO Get Product Type Master List Success
+2021-12-15 12:47:46.4200 INFO Get User Success :newswadeshi_dis
+2021-12-15 12:47:53.5121 INFO Get User Fail :-Field not found in row: party_type_code
+2021-12-15 12:47:53.5121 INFO Get Party Master List Success
+2021-12-15 12:47:53.5201 INFO GetFinacListValues Success
+2021-12-15 13:34:39.9356 INFO Get User Fail :-A command is already in progress: select * from exciseautomation.view_checkuser where user_id='newswadeshi_dis'
+2021-12-15 13:34:39.9356 INFO Get Party Master List Success
+2021-12-15 13:34:39.9356 INFO GetFinacListValues Success
+2021-12-15 13:34:57.4666 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:35:00.9729 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:35:01.0098 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:35:01.0098 INFO Get Product Type Master List Success
+2021-12-15 13:35:01.5274 INFO Get User Success :newswadeshi_dis
+2021-12-15 13:35:04.8643 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:35:04.8643 INFO Get Party Master List Success
+2021-12-15 13:35:04.8643 INFO GetFinacListValues Success
+2021-12-15 13:35:07.8122 INFO Get Product Type Master List Success
+2021-12-15 13:35:08.3093 INFO Get User Success :newswadeshi_dis
+2021-12-15 13:35:41.2387 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:35:41.2806 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:35:41.2895 INFO Get Product Type Master List Success
+2021-12-15 13:35:41.7526 INFO Get User Success :newswadeshi_disbo
+2021-12-15 13:35:44.8031 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:35:44.8031 INFO Get Party Master List Success
+2021-12-15 13:35:44.8031 INFO GetFinacListValues Success
+2021-12-15 13:35:46.3397 INFO Get Product Type Master List Success
+2021-12-15 13:35:46.8525 INFO Get User Success :newswadeshi_disbo
+2021-12-15 13:35:56.4364 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:36:38.8975 INFO GetFinacListValues Success
+2021-12-15 13:36:39.4951 INFO Get Users List Success
+2021-12-15 13:36:39.8835 INFO Get Party Master Details Success
+2021-12-15 13:36:42.1891 INFO Get Product Type Master List Success
+2021-12-15 13:36:42.6759 INFO Get User Success :newswadeshi_disbo
+2021-12-15 13:36:49.5184 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:36:49.5643 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:36:49.5892 INFO Get Product Type Master List Success
+2021-12-15 13:36:50.1401 INFO Get User Success :newswadeshi_disbo
+2021-12-15 13:36:53.2322 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 13:36:53.2322 INFO Get Party Master List Success
+2021-12-15 13:36:53.2322 INFO GetFinacListValues Success
+2021-12-15 13:36:57.0294 INFO Get Product Type Master List Success
+2021-12-15 13:36:58.1865 INFO Get User Success :newswadeshi_disbo
+2021-12-15 13:37:10.1962 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:37:10.2401 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:37:10.2401 INFO Get Product Type Master List Success
+2021-12-15 13:37:10.7764 INFO Get User Success :newswadeshi_dis
+2021-12-15 13:37:13.7666 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:37:13.7702 INFO Get Party Master List Success
+2021-12-15 13:37:13.7702 INFO GetFinacListValues Success
+2021-12-15 13:37:15.9995 INFO Get Product Type Master List Success
+2021-12-15 13:37:16.4836 INFO Get User Success :newswadeshi_dis
+2021-12-15 13:37:23.9688 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 13:37:23.9688 INFO Get Party Master List Success
+2021-12-15 13:37:23.9729 INFO GetFinacListValues Success
+2021-12-15 14:14:44.1151 INFO Get Product Type Master List Success
+2021-12-15 14:14:44.6048 INFO Get User Success :newswadeshi_dis
+2021-12-15 14:14:57.4366 INFO Get User Success :44-Administrator
+2021-12-15 14:14:57.4935 INFO Get User Success :44-Administrator
+2021-12-15 14:14:57.4935 INFO Get Product Type Master List Success
+2021-12-15 14:14:58.0351 INFO Get User Success :Admin
+2021-12-15 14:15:08.6737 INFO Org Get List Success
+2021-12-15 14:15:08.6873 INFO Get Product Type Master List Success
+2021-12-15 14:15:10.4971 INFO Get User Success :Admin
+2021-12-15 14:15:27.7674 INFO GetFinacListValues Success
+2021-12-15 14:15:27.7794 INFO Get Product Type Master List Success
+2021-12-15 14:15:30.4541 INFO Get User Success :Admin
+2021-12-15 14:15:34.2316 INFO Get OrgNames in Financial Form Success
+2021-12-15 14:15:34.2316 INFO Get Product Type Master List Success
+2021-12-15 14:15:41.3393 INFO Get User Success :Admin
+2021-12-15 14:15:47.1645 INFO GetFinacListValues Success
+2021-12-15 14:15:48.8469 INFO Insertion OrgFinance Success :1
+2021-12-15 14:17:27.7171 INFO GetFinacListValues Success
+2021-12-15 14:17:27.7171 INFO Get Product Type Master List Success
+2021-12-15 14:17:40.6824 INFO Get User Success :Admin
+2021-12-15 14:19:39.5172 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 14:19:39.5704 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 14:19:39.6223 INFO Get Product Type Master List Success
+2021-12-15 14:19:40.1788 INFO Get User Success :newswadeshi_dis
+2021-12-15 14:19:43.4513 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 14:19:43.4513 INFO Get Party Master List Success
+2021-12-15 14:19:43.4564 INFO GetFinacListValues Success
+2021-12-15 14:19:45.7858 INFO Get Product Type Master List Success
+2021-12-15 14:19:46.3031 INFO Get User Success :newswadeshi_dis
+2021-12-15 14:47:11.9990 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 14:47:12.0349 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 14:47:12.0686 INFO Get Product Type Master List Success
+2021-12-15 14:47:12.5248 INFO Get User Success :newswadeshi_disbo
+2021-12-15 14:47:16.0901 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 14:47:16.0901 INFO Get Party Master List Success
+2021-12-15 14:47:16.0901 INFO GetFinacListValues Success
+2021-12-15 14:47:18.0314 INFO Get Product Type Master List Success
+2021-12-15 14:47:18.5178 INFO Get User Success :newswadeshi_disbo
+2021-12-15 14:47:22.1163 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 14:47:23.4747 INFO GetFinacListValues Success
+2021-12-15 14:47:23.8801 INFO Get Users List Success
+2021-12-15 14:47:24.2669 INFO Get Party Master Details Success
+2021-12-15 14:47:26.6443 INFO Get Product Type Master List Success
+2021-12-15 14:47:27.1822 INFO Get User Success :newswadeshi_disbo
+2021-12-15 14:47:37.1324 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 14:48:15.1670 INFO GetFinacListValues Success
+2021-12-15 14:48:16.1421 INFO Get Users List Success
+2021-12-15 14:48:16.5552 INFO Get Party Master Details Success
+2021-12-15 14:48:18.9870 INFO Get Product Type Master List Success
+2021-12-15 14:48:19.4829 INFO Get User Success :newswadeshi_disbo
+2021-12-15 14:48:26.9465 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-12-15 14:48:26.9465 INFO Get Party Master List Success
+2021-12-15 14:48:26.9465 INFO GetFinacListValues Success
+2021-12-15 14:48:27.8476 INFO Get Product Type Master List Success
+2021-12-15 14:48:28.3275 INFO Get User Success :newswadeshi_disbo
+2021-12-15 14:48:38.5184 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 14:48:38.5533 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 14:48:38.5922 INFO Get Product Type Master List Success
+2021-12-15 14:48:39.1241 INFO Get User Success :hodyco
+2021-12-15 14:48:42.7537 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 14:48:48.3744 INFO Get User Success :44-Administrator
+2021-12-15 14:48:48.4073 INFO Get User Success :44-Administrator
+2021-12-15 14:48:48.4073 INFO Get Product Type Master List Success
+2021-12-15 14:48:48.9351 INFO Get User Success :Admin
+2021-12-15 14:48:59.2015 INFO Get RolePermissions List Success
+2021-12-15 14:48:59.2156 INFO Get Product Type Master List Success
+2021-12-15 14:49:00.7133 INFO Get User Success :Admin
+2021-12-15 14:49:10.1881 INFO Org Get List Success
+2021-12-15 14:49:10.1930 INFO Get Module_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.1930 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get Module_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2070 INFO Get Module_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get Module_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get Module_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2239 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get Module_master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get TabName Master In ViewModel Success 
+2021-12-15 14:49:10.2383 INFO Get ViewModel Success 
+2021-12-15 14:49:10.2583 INFO Get Product Type Master List Success
+2021-12-15 14:49:11.8263 INFO Get User Success :Admin
+2021-12-15 14:49:12.3077 INFO Get RolePermission Success
+2021-12-15 14:50:36.6435 INFO Org Get List Success
+2021-12-15 14:50:36.6455 INFO Get Product Type Master List Success
+2021-12-15 14:50:38.4529 INFO Get User Success :Admin
+2021-12-15 14:50:41.5213 INFO Module Get List Success
+2021-12-15 14:50:41.5353 INFO Get Product Type Master List Success
+2021-12-15 14:50:42.9689 INFO Get User Success :Admin
+2021-12-15 14:50:46.3247 INFO Org Get List Success
+2021-12-15 14:50:46.3247 INFO Get Product Type Master List Success
+2021-12-15 14:50:47.8648 INFO Get User Success :Admin
+2021-12-15 14:50:54.9586 INFO Get Existing data Fail :module_master
+2021-12-15 14:51:03.9656 INFO Get Existing data Fail :module_master
+2021-12-15 14:51:18.6286 INFO Get MaxID Success :Module_master
+2021-12-15 14:51:18.6286 INFO Get MaxID Success :Module_master
+2021-12-15 14:51:18.6481 INFO Module Insertion Sucess:CHY-Change Financial Year
+2021-12-15 14:51:18.6692 INFO Module Get List Success
+2021-12-15 14:51:18.6692 INFO Get Product Type Master List Success
+2021-12-15 14:51:20.0980 INFO Get User Success :Admin
+2021-12-15 14:51:22.8263 INFO Get SubModule Sucess
+2021-12-15 14:51:22.8403 INFO Get Product Type Master List Success
+2021-12-15 14:51:24.0732 INFO Get User Success :Admin
+2021-12-15 14:52:01.1363 INFO Org Get List Success
+2021-12-15 14:52:01.1363 INFO Get Product Type Master List Success
+2021-12-15 14:52:02.8142 INFO Get User Success :Admin
+2021-12-15 14:52:06.0103 INFO Module Get List Success
+2021-12-15 14:52:14.9813 INFO Get Existing data Fail :Submodule_master
+2021-12-15 14:52:17.2218 INFO Get Existing data Fail :Submodule_master
+2021-12-15 14:52:17.3617 INFO Insert SubModule Success :CFY-Change Financial Year
+2021-12-15 14:52:17.3832 INFO Get SubModule Sucess
+2021-12-15 14:52:17.3832 INFO Get Product Type Master List Success
+2021-12-15 14:52:18.6999 INFO Get User Success :Admin
+2021-12-15 14:52:20.5976 INFO Get TabNames List Success
+2021-12-15 14:52:20.6140 INFO Get Product Type Master List Success
+2021-12-15 14:52:21.9906 INFO Get User Success :Admin
+2021-12-15 14:53:11.5527 INFO Org Get List Success
+2021-12-15 14:53:11.5527 INFO Module Get List Success
+2021-12-15 14:53:11.5527 INFO Get Product Type Master List Success
+2021-12-15 14:53:12.7887 INFO Get User Success :Admin
+2021-12-15 14:53:16.1517 INFO Get Existing data Fail :tabname_master
+2021-12-15 14:53:17.3195 INFO Module Get List Success
+2021-12-15 14:53:19.0902 INFO Get SubModule Sucess
+2021-12-15 14:53:38.4391 INFO Insert TabNames Success :0-Change Financial Year
+2021-12-15 14:53:38.4648 INFO Get TabNames List Success
+2021-12-15 14:53:38.4648 INFO Get Product Type Master List Success
+2021-12-15 14:53:39.8182 INFO Get User Success :Admin
+2021-12-15 17:10:01.3655 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:10:01.4284 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:10:01.4533 INFO Get Product Type Master List Success
+2021-12-15 17:10:02.1413 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:10:05.0751 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:10:11.9027 INFO Get User Success :44-Administrator
+2021-12-15 17:10:11.9466 INFO Get User Success :44-Administrator
+2021-12-15 17:10:11.9466 INFO Get Product Type Master List Success
+2021-12-15 17:10:12.5048 INFO Get User Success :Admin
+2021-12-15 17:10:18.2502 INFO Get RolePermissions List Success
+2021-12-15 17:10:18.2502 INFO Get Product Type Master List Success
+2021-12-15 17:10:19.9670 INFO Get User Success :Admin
+2021-12-15 17:10:25.4757 INFO Org Get List Success
+2021-12-15 17:10:25.4757 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4757 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.4876 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5042 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get ViewModel Success 
+2021-12-15 17:10:25.5195 INFO Get Product Type Master List Success
+2021-12-15 17:10:26.8879 INFO Get User Success :Admin
+2021-12-15 17:10:27.1580 INFO Get RolePermission Success
+2021-12-15 17:10:30.6632 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.7312 INFO Insert User_permission Add Success : 5631-add_role_permission
+2021-12-15 17:10:30.7312 INFO Insert role_permission Add Success : 83-add_role_permission
+2021-12-15 17:10:30.7312 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.7312 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:30.7775 INFO Update role_permission Success : 84-edit_role_permission
+2021-12-15 17:10:30.7775 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.7775 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:30.8254 INFO Update role_permission Success : 84-delete_role_permission
+2021-12-15 17:10:30.8478 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.8478 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:30.8909 INFO Update role_permission Success : 84-review_role_permission
+2021-12-15 17:10:30.8909 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.8939 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:30.9382 INFO Update role_permission Success : 84-approve_role_permission
+2021-12-15 17:10:30.9382 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.9812 INFO Insert User_permission Add Success : 5632-add_role_permission
+2021-12-15 17:10:30.9812 INFO Insert role_permission Add Success : 84-add_role_permission
+2021-12-15 17:10:30.9812 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:30.9812 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.0185 INFO Update role_permission Success : 85-edit_role_permission
+2021-12-15 17:10:31.0196 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.0196 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.0536 INFO Update role_permission Success : 85-delete_role_permission
+2021-12-15 17:10:31.0536 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.0536 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.1009 INFO Update role_permission Success : 85-review_role_permission
+2021-12-15 17:10:31.1009 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.1009 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.1421 INFO Update role_permission Success : 85-approve_role_permission
+2021-12-15 17:10:31.1440 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.1792 INFO Insert User_permission Add Success : 5633-add_role_permission
+2021-12-15 17:10:31.1792 INFO Insert role_permission Add Success : 85-add_role_permission
+2021-12-15 17:10:31.1792 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.1792 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.2161 INFO Update role_permission Success : 86-edit_role_permission
+2021-12-15 17:10:31.2161 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.2161 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.2624 INFO Update role_permission Success : 86-delete_role_permission
+2021-12-15 17:10:31.2624 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.2624 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.3044 INFO Update role_permission Success : 86-review_role_permission
+2021-12-15 17:10:31.3044 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.3044 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.3471 INFO Update role_permission Success : 86-approve_role_permission
+2021-12-15 17:10:31.3471 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.3952 INFO Insert User_permission Add Success : 5634-add_role_permission
+2021-12-15 17:10:31.3952 INFO Insert role_permission Add Success : 86-add_role_permission
+2021-12-15 17:10:31.3952 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.3952 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.4431 INFO Update role_permission Success : 87-edit_role_permission
+2021-12-15 17:10:31.4431 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.4431 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.4907 INFO Update role_permission Success : 87-delete_role_permission
+2021-12-15 17:10:31.4907 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.4907 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.5392 INFO Update role_permission Success : 87-review_role_permission
+2021-12-15 17:10:31.5392 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.5392 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.5872 INFO Update role_permission Success : 87-approve_role_permission
+2021-12-15 17:10:31.5872 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.6352 INFO Insert User_permission Edit Success : 5635-edit_role_permission
+2021-12-15 17:10:31.6352 INFO Insert role_permission Edit  Success : 87-edit_role_permission
+2021-12-15 17:10:31.6352 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.6352 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.6831 INFO Update role_permission Success : 88-delete_role_permission
+2021-12-15 17:10:31.6831 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.6831 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.7311 INFO Update role_permission Success : 88-review_role_permission
+2021-12-15 17:10:31.7311 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.7311 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.7790 INFO Update role_permission Success : 88-approve_role_permission
+2021-12-15 17:10:31.7790 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.8269 INFO Insert User_permission Add Success : 5636-add_role_permission
+2021-12-15 17:10:31.8269 INFO Insert role_permission Add Success : 88-add_role_permission
+2021-12-15 17:10:31.8269 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.8269 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.8682 INFO Update role_permission Success : 89-edit_role_permission
+2021-12-15 17:10:31.8682 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.8682 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.9109 INFO Update role_permission Success : 89-delete_role_permission
+2021-12-15 17:10:31.9109 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.9109 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:31.9588 INFO Update role_permission Success : 89-review_role_permission
+2021-12-15 17:10:31.9588 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:31.9588 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:32.0188 INFO Update role_permission Success : 89-approve_role_permission
+2021-12-15 17:10:33.3200 INFO Get RolePermissions List Success
+2021-12-15 17:10:33.3200 INFO Get Product Type Master List Success
+2021-12-15 17:10:34.9389 INFO Get User Success :Admin
+2021-12-15 17:10:38.0274 INFO Org Get List Success
+2021-12-15 17:10:38.0274 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0274 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0354 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0510 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get Module_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get SubModule_master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get TabName Master In ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get ViewModel Success 
+2021-12-15 17:10:38.0669 INFO Get Product Type Master List Success
+2021-12-15 17:10:39.3247 INFO Get User Success :Admin
+2021-12-15 17:10:39.5256 INFO Get RolePermission Success
+2021-12-15 17:10:42.5331 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.5575 INFO Insert role_permission Edit  Success : 89-edit_role_permission
+2021-12-15 17:10:42.5575 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.5575 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.5826 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.5826 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.6067 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.6067 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.6541 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.6730 INFO Insert role_permission Edit  Success : 90-edit_role_permission
+2021-12-15 17:10:42.6730 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.6761 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.6921 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.6921 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.7100 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.7100 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.7339 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.7506 INFO Insert role_permission Edit  Success : 91-edit_role_permission
+2021-12-15 17:10:42.7506 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.7536 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.7699 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.7699 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.7920 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.7920 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.8162 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.8388 INFO Insert role_permission Edit  Success : 92-edit_role_permission
+2021-12-15 17:10:42.8388 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.8388 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.8599 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.8599 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.8838 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.8838 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.9015 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.9185 INFO Insert role_permission Edit  Success : 93-edit_role_permission
+2021-12-15 17:10:42.9185 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.9185 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.9418 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.9418 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.9659 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:42.9659 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:42.9897 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:43.0307 INFO Insert User_permission Add Success : 5637-add_role_permission
+2021-12-15 17:10:43.0591 INFO Insert User_permission Add Success : 5638-add_role_permission
+2021-12-15 17:10:43.0591 INFO Insert role_permission Add Success : 94-add_role_permission
+2021-12-15 17:10:43.0591 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:43.0591 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:43.1190 INFO Update role_permission Success : 95-edit_role_permission
+2021-12-15 17:10:43.1190 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:43.1190 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:43.1549 INFO Update role_permission Success : 95-delete_role_permission
+2021-12-15 17:10:43.1549 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:43.1549 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:43.1905 INFO Update role_permission Success : 95-review_role_permission
+2021-12-15 17:10:43.1919 INFO Get GetMaxID Success : role_permission
+2021-12-15 17:10:43.1919 INFO Update role_permission No Records : System.String[]
+2021-12-15 17:10:43.2267 INFO Update role_permission Success : 95-approve_role_permission
+2021-12-15 17:10:45.1505 INFO Get RolePermissions List Success
+2021-12-15 17:10:45.1505 INFO Get Product Type Master List Success
+2021-12-15 17:10:47.1983 INFO Get User Success :Admin
+2021-12-15 17:10:55.6932 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 17:10:55.7294 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 17:10:55.7763 INFO Get Product Type Master List Success
+2021-12-15 17:10:56.3105 INFO Get User Success :hodyco
+2021-12-15 17:11:08.7829 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 17:11:08.7870 INFO Get Party Master List Success
+2021-12-15 17:11:08.7870 INFO GetFinacListValues Success
+2021-12-15 17:11:10.5361 INFO Get Product Type Master List Success
+2021-12-15 17:11:11.2628 INFO Get User Success :hodyco
+2021-12-15 17:11:13.6821 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 17:11:15.1327 INFO GetFinacListValues Success
+2021-12-15 17:11:15.5309 INFO Get Users List Success
+2021-12-15 17:11:15.9075 INFO Get Party Master Details Success
+2021-12-15 17:11:18.1694 INFO Get Product Type Master List Success
+2021-12-15 17:11:18.6432 INFO Get User Success :hodyco
+2021-12-15 17:11:26.1650 INFO Get User Success :100-Deputy Commissioner
+2021-12-15 17:11:26.1650 INFO Get Party Master List Success
+2021-12-15 17:11:26.1650 INFO GetFinacListValues Success
+2021-12-15 17:11:27.1216 INFO Get Product Type Master List Success
+2021-12-15 17:11:27.6155 INFO Get User Success :hodyco
+2021-12-15 17:11:36.4982 INFO Get User Success :101-Commissioner
+2021-12-15 17:11:36.5371 INFO Get User Success :101-Commissioner
+2021-12-15 17:11:36.5840 INFO Get Product Type Master List Success
+2021-12-15 17:11:37.1008 INFO Get User Success :com
+2021-12-15 17:11:44.2103 INFO Get User Success :101-Commissioner
+2021-12-15 17:11:44.2103 INFO Get Party Master List Success
+2021-12-15 17:11:44.2103 INFO GetFinacListValues Success
+2021-12-15 17:11:45.8767 INFO Get Product Type Master List Success
+2021-12-15 17:11:46.5072 INFO Get User Success :com
+2021-12-15 17:11:48.9060 INFO Get User Success :101-Commissioner
+2021-12-15 17:11:50.0048 INFO GetFinacListValues Success
+2021-12-15 17:11:50.4103 INFO Get Users List Success
+2021-12-15 17:11:51.0301 INFO Get Party Master Details Success
+2021-12-15 17:11:53.3024 INFO Get Product Type Master List Success
+2021-12-15 17:11:53.7737 INFO Get User Success :com
+2021-12-15 17:11:59.8610 INFO Get User Success :101-Commissioner
+2021-12-15 17:11:59.8640 INFO Get Party Master List Success
+2021-12-15 17:11:59.8640 INFO GetFinacListValues Success
+2021-12-15 17:12:00.7778 INFO Get Product Type Master List Success
+2021-12-15 17:12:01.2587 INFO Get User Success :com
+2021-12-15 17:12:09.6858 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:12:09.7317 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:12:09.7576 INFO Get Product Type Master List Success
+2021-12-15 17:12:10.2784 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:12:13.8316 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:12:24.0821 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:15:53.3634 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:17:44.3597 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:17:48.7421 INFO Get Product Type Master List Success
+2021-12-15 17:17:49.8647 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:17:53.0472 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:18:00.2183 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:18:09.8281 INFO Get Product Type Master List Success
+2021-12-15 17:18:11.0579 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:18:14.3959 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:31:33.6794 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:31:33.8254 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:31:33.8881 INFO Get Product Type Master List Success
+2021-12-15 17:31:35.0511 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:31:45.7689 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:33:30.5651 INFO Get Product Type Master List Success
+2021-12-15 17:33:31.6429 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:33:34.7505 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:35:52.9539 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:42:53.8498 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:42:54.0261 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:42:54.0856 INFO Get Product Type Master List Success
+2021-12-15 17:42:55.8026 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:43:02.6225 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:43:09.5106 INFO Get Product Type Master List Success
+2021-12-15 17:43:10.5846 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:43:14.2166 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:46:10.2757 INFO Get Product Type Master List Success
+2021-12-15 17:46:11.3269 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:46:16.1938 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:46:20.8466 INFO Get Product Type Master List Success
+2021-12-15 17:46:21.4341 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:46:27.2867 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:46:31.5818 INFO Get Product Type Master List Success
+2021-12-15 17:46:32.1554 INFO Get User Success :newswadeshi_dis
+2021-12-15 17:46:34.9711 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-15 17:48:59.4158 INFO Get Product Type Master List Success
+2021-12-15 17:49:01.8105 INFO Get User Success :newswadeshi_dis

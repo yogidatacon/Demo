@@ -1,0 +1,79 @@
+2022-01-20 14:27:24.0696 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:27:49.5756 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:27:51.3928 INFO Get Product Type Master List Success
+2022-01-20 14:27:51.6192 INFO Get User Success :majhaulia_dis
+2022-01-20 14:27:55.2352 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:27:59.0417 INFO Get Product Type Master List Success
+2022-01-20 14:27:59.3266 INFO Get User Success :majhaulia_dis
+2022-01-20 14:28:16.7663 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:28:27.4980 INFO Get Product Type Master List Success
+2022-01-20 14:28:27.7664 INFO Get User Success :majhaulia_dis
+2022-01-20 14:28:41.5587 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:28:51.0270 INFO Get VAT Master List Success
+2022-01-20 14:28:53.1262 INFO Get Product Type Master List Success
+2022-01-20 14:28:53.4523 INFO Get User Success :majhaulia_dis
+2022-01-20 14:29:15.6476 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:29:22.0857 INFO Get VAT Master List Success
+2022-01-20 14:29:33.5559 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:29:39.3955 INFO Get Form84 List Success
+2022-01-20 14:53:43.8239 INFO Get Product Type Master List Success
+2022-01-20 14:53:44.0300 INFO Get User Success :majhaulia_dis
+2022-01-20 14:53:45.1500 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2022-01-20 14:53:48.7761 INFO Get VAT Master List Success
+2022-01-20 15:37:16.8150 INFO Get User Success :101-Commissioner
+2022-01-20 15:37:24.6436 INFO Get User Success :101-Commissioner
+2022-01-20 15:37:30.5003 INFO Get Product Type Master List Success
+2022-01-20 15:37:30.7287 INFO Get User Success :com
+2022-01-20 15:38:07.6626 INFO Get User Success :101-Commissioner
+2022-01-20 15:38:08.2069 INFO Get Report  Success
+2022-01-20 15:38:12.4097 INFO Get Product Type Master List Success
+2022-01-20 15:38:12.8351 INFO Get User Success :com
+2022-01-20 15:40:37.5022 INFO Get Report  Success
+2022-01-20 15:40:38.0850 INFO Get GetSeverList Success
+2022-01-20 15:49:58.9273 INFO Get User Success :365-Mahesh Homeopathic Laboratory
+2022-01-20 15:50:00.6903 INFO Get User Success :365-Mahesh Homeopathic Laboratory
+2022-01-20 15:50:02.0998 INFO Get Product Type Master List Success
+2022-01-20 15:50:02.2254 INFO Get User Success :mah_lab
+2022-01-20 15:50:07.6383 INFO Get User Success :365-Mahesh Homeopathic Laboratory
+2022-01-20 15:50:17.4588 INFO Get Product Type Master List Success
+2022-01-20 15:50:17.5747 INFO Get User Success :mah_lab
+2022-01-20 15:50:31.1338 INFO Get User Fail :365--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-20 15:50:31.5900 INFO Get Product Type Master List Success
+2022-01-20 15:50:31.7067 INFO Get User Success :mah_lab
+2022-01-20 15:50:35.9473 INFO Get User Success :365-Mahesh Homeopathic Laboratory
+2022-01-20 15:50:36.4324 INFO Get Product Type Master List Success
+2022-01-20 15:50:36.5474 INFO Get User Success :mah_lab
+2022-01-20 15:51:02.9466 INFO Get User Success :365-Mahesh Homeopathic Laboratory
+2022-01-20 16:09:39.5574 INFO Get MaxID Success :openingbalance
+2022-01-20 16:11:51.9520 INFO Get User Success :341-Globus Spirits Limited
+2022-01-20 16:11:53.4829 INFO Get User Success :341-Globus Spirits Limited
+2022-01-20 16:11:53.9442 INFO Get Product Type Master List Success
+2022-01-20 16:11:54.0110 INFO Get User Success :globus_dis
+2022-01-20 16:12:13.8037 INFO Get User Success :341-Globus Spirits Limited
+2022-01-20 16:12:13.8662 INFO Get Product Master List Success
+2022-01-20 16:35:26.1362 INFO Get RR List Success
+2022-01-20 16:39:19.1103 INFO Get Product Type Master List Success
+2022-01-20 16:39:19.2867 INFO Get User Success :globus_dis
+2022-01-20 17:26:05.5823 INFO Get User Fail :-Exception while writing to stream
+2022-01-20 17:26:05.7795 INFO Get Product Master List Success
+2022-01-20 17:26:07.0451 INFO Get Product Type Master List Success
+2022-01-20 17:26:07.1141 INFO Get User Success :globus_dis
+2022-01-20 17:27:27.6859 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-20 17:27:46.1287 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-20 17:27:47.5313 INFO Get Product Type Master List Success
+2022-01-20 17:27:47.6161 INFO Get User Success :similia_lab
+2022-01-20 17:27:51.3232 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-20 17:27:53.1457 INFO Get Product Type Master List Success
+2022-01-20 17:27:53.2085 INFO Get User Success :similia_lab
+2022-01-20 17:28:00.2553 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-20 17:28:00.4428 INFO Get Allotment List Success
+2022-01-20 17:28:00.5555 INFO Get NOC Sucess:Req/BJ/SRL/PER/2020-2021/3
+2022-01-20 17:28:00.6213 INFO Get Product Master List Success
+2022-01-20 17:28:00.6800 INFO Get UOM List Success
+2022-01-20 17:28:57.9025 INFO Get Allotment Details Success
+2022-01-20 17:29:06.7638 INFO Get Product Type Master List Success
+2022-01-20 17:29:06.8727 INFO Get User Success :similia_lab
+2022-01-20 17:29:25.4457 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-20 17:29:26.4781 INFO Get Product Type Master List Success
+2022-01-20 17:29:26.5895 INFO Get User Success :similia_lab

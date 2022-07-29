@@ -1,0 +1,1082 @@
+2021-01-08 10:21:43.9786 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 10:21:44.6185 INFO Get User Success :newswadeshi_sgr
+2021-01-08 10:29:12.1758 INFO Get User Success :100-Deputy Commissioner
+2021-01-08 10:29:12.3095 INFO Get User Success :hodyco
+2021-01-08 10:29:15.9002 INFO Get User Success :100-Deputy Commissioner
+2021-01-08 10:29:15.9002 INFO Get RR List Success
+2021-01-08 10:29:15.9352 INFO Get User Success :hodyco
+2021-01-08 10:29:17.0404 INFO Get User Success :100-Deputy Commissioner
+2021-01-08 10:29:17.0404 INFO Check WorkFlow List Success
+2021-01-08 10:29:25.9338 INFO Get User Success :100-Deputy Commissioner
+2021-01-08 10:29:25.9510 INFO Check WorkFlow List Success
+2021-01-08 10:29:25.9580 INFO Get Allotment List Success
+2021-01-08 10:29:25.9867 INFO Get User Success :hodyco
+2021-01-08 11:02:36.7798 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:02:37.0665 INFO Get User Success :wcedo
+2021-01-08 11:02:42.9400 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:02:43.0055 INFO Get RR List Success
+2021-01-08 11:02:43.2608 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:02:43.6543 INFO Get RR List Success
+2021-01-08 11:02:43.7665 INFO Get User Success :wcedo
+2021-01-08 11:03:12.5399 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 11:03:13.0194 INFO Get User Success :majhaulia_dis
+2021-01-08 11:03:16.6976 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 11:03:16.7609 INFO Get RR List Success
+2021-01-08 11:03:16.9243 INFO Get User Success :majhaulia_dis
+2021-01-08 11:03:24.4868 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 11:03:24.5516 INFO Get RR List Success
+2021-01-08 11:03:24.6183 INFO Get RR No Sucess:2
+2021-01-08 11:03:24.9792 INFO Get RR List Success
+2021-01-08 11:03:25.1276 INFO Get User Success :majhaulia_dis
+2021-01-08 11:03:37.1823 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 11:03:37.2499 INFO Get RR List Success
+2021-01-08 11:03:37.3785 INFO Get User Success :majhaulia_dis
+2021-01-08 11:03:42.8279 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 11:03:43.1665 INFO Get RR List Success
+2021-01-08 11:03:43.2933 INFO Get User Success :majhaulia_dis
+2021-01-08 11:03:44.6209 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 11:03:44.7438 INFO Get RR Details Success
+2021-01-08 11:03:45.1141 INFO Get RR List Success
+2021-01-08 11:03:45.3740 INFO Get User Success :majhaulia_dis
+2021-01-08 11:04:11.7560 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:04:11.8191 INFO Get User Success :wcedo
+2021-01-08 11:04:16.0616 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:04:16.1355 INFO Get RR List Success
+2021-01-08 11:04:16.2587 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:04:16.8555 INFO Get RR List Success
+2021-01-08 11:04:16.9531 INFO Get User Success :wcedo
+2021-01-08 11:04:20.9489 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:04:21.0655 INFO Get RR Details Success
+2021-01-08 11:04:21.7259 INFO Get RR List Success
+2021-01-08 11:04:21.8465 INFO Get User Success :wcedo
+2021-01-08 11:05:10.2537 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:05:10.8849 INFO Get RR List Success
+2021-01-08 11:05:10.9498 INFO Get User Success :wcedo
+2021-01-08 11:08:10.6907 INFO Get User Success :137-Assistant Commissioner
+2021-01-08 11:08:10.8311 INFO Get User Success :sitedo
+2021-01-08 11:08:13.5223 INFO Get User Success :137-Assistant Commissioner
+2021-01-08 11:08:13.6503 INFO Get RR List Success
+2021-01-08 11:08:13.7559 INFO Get User Success :137-Assistant Commissioner
+2021-01-08 11:08:14.1374 INFO Get RR List Success
+2021-01-08 11:08:14.2018 INFO Get User Success :sitedo
+2021-01-08 11:11:09.8395 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:11:10.1086 INFO Get User Success :wcedo
+2021-01-08 11:11:21.7721 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:11:21.8352 INFO Get RR List Success
+2021-01-08 11:11:21.9375 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:11:22.3881 INFO Get RR List Success
+2021-01-08 11:11:22.4886 INFO Get User Success :wcedo
+2021-01-08 11:11:24.7179 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 11:11:24.8425 INFO Get RR Details Success
+2021-01-08 11:11:25.2413 INFO Get RR List Success
+2021-01-08 11:11:25.3743 INFO Get User Success :wcedo
+2021-01-08 11:14:20.8495 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:14:21.8097 INFO Get User Success :harinagar_dis
+2021-01-08 11:14:27.3634 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:14:31.5192 INFO Get State List Success
+2021-01-08 11:14:58.0500 INFO Get State List Success
+2021-01-08 11:14:58.4024 INFO Get User Success :harinagar_dis
+2021-01-08 11:15:01.4179 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:15:27.8800 INFO Get State List Success
+2021-01-08 11:15:28.3442 INFO Get User Success :harinagar_dis
+2021-01-08 11:15:38.6631 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:15:38.7241 INFO Get State List Success
+2021-01-08 11:15:38.7982 INFO Get Customer Details Success
+2021-01-08 11:15:39.1174 INFO Get Thana List Success
+2021-01-08 11:15:39.3037 INFO Get User Success :harinagar_dis
+2021-01-08 11:15:43.7869 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:15:52.5912 INFO Get State List Success
+2021-01-08 11:15:52.7988 INFO Get User Success :harinagar_dis
+2021-01-08 11:16:56.9013 INFO Get RolePermissions List Success
+2021-01-08 11:16:57.2085 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:04.5041 INFO Get Single User Details Success
+2021-01-08 11:17:04.8770 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:08.7440 INFO Get Single User Details Success
+2021-01-08 11:17:08.9111 INFO Org Get List Success
+2021-01-08 11:17:09.0220 INFO Get view_Role_master List Success
+2021-01-08 11:17:09.1097 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:09.1917 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.2541 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.2541 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.2541 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.3200 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.3200 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.3200 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.3200 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.3200 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.3880 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.3880 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.4578 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.5266 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.5266 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.5266 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.6070 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.6070 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:09.7007 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.7855 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.8823 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.8823 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.8823 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.8823 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.8823 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:09.9768 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:10.0945 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:10.2189 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:10.3374 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.3374 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.3374 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:10.4612 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.4612 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:10.5888 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:10.7147 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7147 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7147 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7147 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7147 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7147 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7236 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7236 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7236 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.7236 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:10.8587 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.8587 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.8587 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.8637 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.8637 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.8637 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:10.9969 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.9969 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.9969 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.9969 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:10.9969 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.0041 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.0041 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.0041 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:11.1456 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.1456 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.1456 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:11.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.2762 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:11.4139 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.4139 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:11.5530 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.5530 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:11.6980 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:11.8436 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.8436 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.8436 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:11.8436 INFO Get ViewModel Success 
+2021-01-08 11:17:12.0278 INFO Get GetMaxID Success : user_permission
+2021-01-08 11:17:12.5103 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:13.2552 INFO Get User Permission  Success
+2021-01-08 11:17:26.1337 INFO Org Get List Success
+2021-01-08 11:17:26.2896 INFO Get view_Role_master List Success
+2021-01-08 11:17:26.4486 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:26.6173 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:26.8074 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:26.8074 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:26.8074 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:26.9725 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:26.9735 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:26.9735 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:26.9735 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:26.9735 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.0902 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.0902 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.2263 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.2263 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.2263 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.3897 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.3897 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.3897 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.5460 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.5460 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:27.6928 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7555 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7697 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7857 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7857 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7857 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.7857 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.8525 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.8525 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.8525 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.8525 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.8525 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:27.9404 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:27.9424 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:28.0663 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:28.1933 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:28.3194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.3194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.3194 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:28.4889 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.4889 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:28.6319 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:28.7518 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7518 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7518 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7518 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7518 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7548 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7548 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7548 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7548 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.7548 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:28.8194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8194 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8194 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8853 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.8948 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:28.9506 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.9506 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:28.9506 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:29.0170 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:29.0170 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:29.0823 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:29.0823 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:29.1492 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:29.1492 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:29.2211 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:29.3041 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:29.3041 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:29.3041 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:29.3041 INFO Get ViewModel Success 
+2021-01-08 11:17:29.3919 INFO Get GetMaxID Success : user_permission
+2021-01-08 11:17:29.6456 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:30.2116 INFO Get User Permission  Success
+2021-01-08 11:17:37.2654 INFO Org Get List Success
+2021-01-08 11:17:37.3493 INFO Get view_Role_master List Success
+2021-01-08 11:17:37.4419 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:37.5179 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:37.5982 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.5982 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.5982 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:37.6959 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.6959 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.6959 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.6959 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.6959 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:37.8181 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.8181 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:37.9225 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.9225 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:37.9225 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.0274 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.0274 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.1407 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.1407 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:38.2341 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.3296 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3296 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3296 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3323 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3487 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3487 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3487 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.3487 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.4401 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.4421 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.4421 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.4421 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.4421 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.5364 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:38.6521 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:38.7518 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.8395 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.8395 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.8395 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:38.9326 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:38.9326 INFO Get Module_master In ViewModel Success 
+2021-01-08 11:17:39.3073 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.3870 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:39.4837 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.4837 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.4837 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.4837 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.4897 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.4897 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:39.5813 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.5833 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:39.6812 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.6812 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.6812 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:39.7647 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:39.7647 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:40.1748 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:40.1764 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:40.2668 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:40.2668 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:40.3588 INFO Get SubModule_master In ViewModel Success 
+2021-01-08 11:17:40.4529 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:40.4529 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:40.4529 INFO Get TabName Master In ViewModel Success 
+2021-01-08 11:17:40.4579 INFO Get ViewModel Success 
+2021-01-08 11:17:40.5579 INFO Get GetMaxID Success : user_permission
+2021-01-08 11:17:40.6859 INFO Get RolePermissions List Success
+2021-01-08 11:17:41.1458 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:45.7141 INFO Org Get List Success
+2021-01-08 11:17:45.9374 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:47.4785 INFO Get State List Success
+2021-01-08 11:17:47.6730 INFO Get User Success :harinagar_dis
+2021-01-08 11:17:50.3850 INFO Get User Success :harinagar_dis
+2021-01-08 11:19:53.6556 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:19:53.7459 INFO Get State List Success
+2021-01-08 11:19:54.0746 INFO Get User Success :harinagar_dis
+2021-01-08 11:20:26.9333 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:20:27.0442 INFO Get State List Success
+2021-01-08 11:20:53.6638 INFO Get Customer Details Success
+2021-01-08 11:20:54.1476 INFO Get Thana List Success
+2021-01-08 11:20:54.4426 INFO Get User Success :harinagar_dis
+2021-01-08 11:21:40.4635 INFO Insert State Sucesss
+2021-01-08 11:21:40.5530 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:21:40.6207 INFO Get State List Success
+2021-01-08 11:21:40.8056 INFO Get User Success :harinagar_dis
+2021-01-08 11:21:44.3205 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:21:44.3834 INFO Get State List Success
+2021-01-08 11:21:47.5372 INFO Get Customer Details Success
+2021-01-08 11:21:47.8232 INFO Get Thana List Success
+2021-01-08 11:21:47.9771 INFO Get User Success :harinagar_dis
+2021-01-08 11:21:55.8186 INFO Insert State Sucesss
+2021-01-08 11:21:55.9366 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:21:56.0324 INFO Get State List Success
+2021-01-08 11:21:56.2407 INFO Get User Success :harinagar_dis
+2021-01-08 11:21:58.6066 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:21:58.6681 INFO Get State List Success
+2021-01-08 11:21:58.7279 INFO Get Customer Details Success
+2021-01-08 11:21:58.9968 INFO Get Thana List Success
+2021-01-08 11:21:59.1411 INFO Get User Success :harinagar_dis
+2021-01-08 11:22:09.4206 INFO Insert State Sucesss
+2021-01-08 11:22:09.5151 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:22:09.5929 INFO Get State List Success
+2021-01-08 11:22:09.8597 INFO Get User Success :harinagar_dis
+2021-01-08 11:22:40.2914 INFO Get State List Success
+2021-01-08 11:22:40.5502 INFO Get User Success :harinagar_dis
+2021-01-08 11:22:44.5127 INFO Get User Success :harinagar_dis
+2021-01-08 11:22:47.4780 INFO Get State List Success
+2021-01-08 11:22:47.6192 INFO Get User Success :harinagar_dis
+2021-01-08 11:22:50.8870 INFO Get Division List Success
+2021-01-08 11:42:08.8748 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 11:42:10.2537 INFO Get User Success :harinagar_dis
+2021-01-08 12:01:39.7969 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 12:01:39.9103 INFO Get User Success :harinagar_dis
+2021-01-08 12:01:59.1438 INFO Get Report  Success
+2021-01-08 12:01:59.1555 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 12:01:59.1930 INFO Get Party Master List Success
+2021-01-08 12:01:59.1930 INFO Get VAT Master List Success
+2021-01-08 12:01:59.2301 INFO Get User Success :harinagar_dis
+2021-01-08 12:02:26.3042 INFO Get Report  Success
+2021-01-08 12:02:26.3042 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 12:02:26.3042 INFO Get Party Master List Success
+2021-01-08 12:02:26.3236 INFO Get VAT Master List Success
+2021-01-08 12:02:26.3471 INFO Get User Success :harinagar_dis
+2021-01-08 12:03:29.8139 INFO Get Report  Success
+2021-01-08 12:03:29.8189 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 12:03:29.8189 INFO Get Party Master List Success
+2021-01-08 12:03:29.8189 INFO Get VAT Master List Success
+2021-01-08 12:03:29.8388 INFO Get User Success :harinagar_dis
+2021-01-08 12:03:51.7732 INFO Get State List Success
+2021-01-08 12:03:51.8270 INFO Get User Success :harinagar_dis
+2021-01-08 12:03:56.6123 INFO Get User Success :harinagar_dis
+2021-01-08 12:03:58.9586 INFO Get User Success :harinagar_dis
+2021-01-08 12:04:00.0333 INFO Get Division List Success
+2021-01-08 12:04:00.0533 INFO Get User Success :harinagar_dis
+2021-01-08 12:04:01.1658 INFO Get State List Success
+2021-01-08 12:04:01.1797 INFO Get User Success :harinagar_dis
+2021-01-08 12:04:01.9403 INFO Get User Success :harinagar_dis
+2021-01-08 12:04:02.5903 INFO Get access_type List Success
+2021-01-08 12:04:02.6070 INFO Get User Success :harinagar_dis
+2021-01-08 12:04:02.9506 INFO Get view_Role_master List Success
+2021-01-08 12:04:02.9715 INFO Get User Success :harinagar_dis
+2021-01-08 12:10:17.0748 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 12:10:17.7732 INFO Get User Success :majhaulia_dis
+2021-01-08 12:10:33.3490 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 12:10:33.5919 INFO Get User Success :majhaulia_dis
+2021-01-08 12:18:35.6323 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 12:18:36.3184 INFO Get User Success :majhaulia_dis
+2021-01-08 12:19:55.9495 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 12:19:56.0147 INFO Get RR List Success
+2021-01-08 12:19:56.2249 INFO Get User Success :majhaulia_dis
+2021-01-08 12:19:58.7548 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 12:19:58.9392 INFO Get User Success :majhaulia_dis
+2021-01-08 12:47:34.0739 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:47:34.1576 INFO Get User Success :hpcl_wc
+2021-01-08 12:47:45.0935 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:47:45.1161 INFO Get Indent List Success
+2021-01-08 12:47:45.1702 INFO Get User Success :hpcl_wc
+2021-01-08 12:47:47.4668 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:47:47.4668 INFO Get Indent List Success
+2021-01-08 12:47:47.5783 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:47:47.5854 INFO Get Allotment List Success
+2021-01-08 12:47:47.5854 INFO Get User Success :hpcl_wc
+2021-01-08 12:47:48.8208 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:47:48.8208 INFO Get Allotment List Success
+2021-01-08 12:47:48.9285 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:47:57.6556 INFO Get Party Master List Success
+2021-01-08 12:47:57.6556 INFO Get Indent List Success
+2021-01-08 12:47:57.6716 INFO Get User Success :hpcl_wc
+2021-01-08 12:48:01.5182 INFO Get Party Master List Success
+2021-01-08 12:49:46.5348 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2021-01-08 12:49:46.6595 INFO Get User Success :hpcl_wc_sgr
+2021-01-08 12:49:51.5812 INFO Sugarcanepurchase Get List Success
+2021-01-08 12:49:51.5851 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2021-01-08 12:49:51.6333 INFO Get User Success :hpcl_wc_sgr
+2021-01-08 12:49:53.5230 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2021-01-08 12:49:53.5554 INFO Get User Success :hpcl_wc_sgr
+2021-01-08 12:49:55.3311 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2021-01-08 12:49:55.3817 INFO Get User Success :hpcl_wc_sgr
+2021-01-08 12:50:17.2249 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:50:17.2442 INFO Get User Success :hpcl_wc
+2021-01-08 12:50:19.7348 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:50:19.7421 INFO Get Indent List Success
+2021-01-08 12:50:19.7579 INFO Get User Success :hpcl_wc
+2021-01-08 12:50:20.9589 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:50:20.9589 INFO Get Indent List Success
+2021-01-08 12:50:21.0031 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:50:21.0101 INFO Get Allotment List Success
+2021-01-08 12:50:21.0211 INFO Get User Success :hpcl_wc
+2021-01-08 12:50:22.2438 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:50:22.2438 INFO Get Allotment List Success
+2021-01-08 12:50:23.5441 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:50:23.5511 INFO Get Party Master List Success
+2021-01-08 12:50:23.5511 INFO Get Indent List Success
+2021-01-08 12:50:23.5793 INFO Get User Success :hpcl_wc
+2021-01-08 12:50:28.1895 INFO Get Party Master List Success
+2021-01-08 12:51:54.3812 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:51:54.4506 INFO Get User Success :hpcl_wc
+2021-01-08 12:52:09.7959 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:52:09.8702 INFO Get Indent List Success
+2021-01-08 12:52:09.9290 INFO Get User Success :hpcl_wc
+2021-01-08 12:52:13.0910 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:52:13.0910 INFO Get Indent List Success
+2021-01-08 12:52:13.1435 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:52:13.1511 INFO Get Allotment List Success
+2021-01-08 12:52:13.1617 INFO Get User Success :hpcl_wc
+2021-01-08 12:52:16.7906 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:52:16.7906 INFO Get Allotment List Success
+2021-01-08 12:52:16.8659 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:52:16.8659 INFO Get Party Master List Success
+2021-01-08 12:52:16.8659 INFO Get Indent List Success
+2021-01-08 12:52:16.8881 INFO Get User Success :hpcl_wc
+2021-01-08 12:52:19.6426 INFO Get Party Master List Success
+2021-01-08 12:52:21.0296 INFO Get Party Master List Success
+2021-01-08 12:52:36.6220 INFO Get Party Master List Success
+2021-01-08 12:55:37.2344 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:55:37.3140 INFO Get User Success :hpcl_wc
+2021-01-08 12:55:40.4617 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:55:40.4842 INFO Get Indent List Success
+2021-01-08 12:55:40.5334 INFO Get User Success :hpcl_wc
+2021-01-08 12:55:41.9054 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:55:41.9054 INFO Get Indent List Success
+2021-01-08 12:55:41.9802 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:55:41.9802 INFO Get Allotment List Success
+2021-01-08 12:55:41.9981 INFO Get User Success :hpcl_wc
+2021-01-08 12:55:42.8782 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:55:42.8832 INFO Get Allotment List Success
+2021-01-08 12:55:42.9729 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:55:42.9729 INFO Get Party Master List Success
+2021-01-08 12:55:42.9729 INFO Get Indent List Success
+2021-01-08 12:55:42.9970 INFO Get User Success :hpcl_wc
+2021-01-08 12:55:45.8307 INFO Get Party Master List Success
+2021-01-08 12:56:56.1806 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:56:56.2473 INFO Get User Success :hpcl_wc
+2021-01-08 12:56:58.5565 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:56:58.5565 INFO Get Indent List Success
+2021-01-08 12:56:58.6067 INFO Get User Success :hpcl_wc
+2021-01-08 12:57:00.0462 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:57:00.0462 INFO Get Indent List Success
+2021-01-08 12:57:08.2087 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:57:08.2464 INFO Get Allotment List Success
+2021-01-08 12:57:08.2814 INFO Get User Success :hpcl_wc
+2021-01-08 12:57:09.7475 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:57:09.7475 INFO Get Allotment List Success
+2021-01-08 12:57:09.8558 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-08 12:57:09.8877 INFO Get Party Master List Success
+2021-01-08 12:57:09.8877 INFO Get Indent List Success
+2021-01-08 12:57:09.9037 INFO Get User Success :hpcl_wc
+2021-01-08 12:57:12.7048 INFO Get Party Master List Success
+2021-01-08 13:05:27.0789 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-08 13:05:27.1733 INFO Get User Success :harinagar_sgr
+2021-01-08 13:05:31.4191 INFO Get Report  Success
+2021-01-08 13:05:31.4291 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-08 13:05:31.4291 INFO Get Party Master List Success
+2021-01-08 13:05:31.4415 INFO Get VAT Master List Success
+2021-01-08 13:05:31.4415 INFO Get User Success :harinagar_sgr
+2021-01-08 13:06:04.3160 INFO Get Report  Success
+2021-01-08 13:06:04.3300 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-08 13:06:04.3339 INFO Get Party Master List Success
+2021-01-08 13:06:04.3339 INFO Get VAT Master List Success
+2021-01-08 13:06:04.3533 INFO Get User Success :harinagar_sgr
+2021-01-08 13:06:40.4696 INFO Get Report  Success
+2021-01-08 13:06:40.4742 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-08 13:06:40.4742 INFO Get Party Master List Success
+2021-01-08 13:06:40.4742 INFO Get VAT Master List Success
+2021-01-08 13:06:40.4926 INFO Get User Success :harinagar_sgr
+2021-01-08 13:07:25.8984 INFO Get GetSeverList Success
+2021-01-08 13:07:47.0442 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-08 13:07:47.0602 INFO Get User Success :riga_sgr
+2021-01-08 13:07:49.1587 INFO Get Report  Success
+2021-01-08 13:07:49.1628 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-08 13:07:49.1628 INFO Get Party Master List Success
+2021-01-08 13:07:49.1628 INFO Get VAT Master List Success
+2021-01-08 13:07:49.1818 INFO Get User Success :riga_sgr
+2021-01-08 13:08:00.8332 INFO Get GetSeverList Success
+2021-01-08 13:46:43.1046 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 13:46:43.9815 INFO Get User Success :vishnu_sgr
+2021-01-08 13:46:47.4076 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 13:46:47.5930 INFO Get User Success :vishnu_sgr
+2021-01-08 13:48:16.8946 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 13:48:17.0642 INFO Get Pass List Success
+2021-01-08 13:48:17.5118 INFO Get User Success :vishnu_sgr
+2021-01-08 13:48:19.4943 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 13:48:19.5769 INFO Get Dispach Master List Success
+2021-01-08 13:48:19.7153 INFO Get VAT Master List Success
+2021-01-08 13:48:19.7812 INFO Get Pass List Success
+2021-01-08 13:48:20.0305 INFO Get User Success :vishnu_sgr
+2021-01-08 14:57:11.7778 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 14:57:12.3768 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 14:57:25.0863 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 14:57:25.2725 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:06.3044 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:06.3732 INFO Get Pass List Success
+2021-01-08 15:07:06.5042 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:08.2586 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:08.4348 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:12.5518 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:13.4279 INFO Get RR List Success
+2021-01-08 15:07:14.4379 INFO Get RR List Success
+2021-01-08 15:07:14.5052 INFO Get Balance Request Pass Success
+2021-01-08 15:07:14.6152 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:16.6995 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:16.7612 INFO Get Pass List Success
+2021-01-08 15:07:16.8743 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:23.2650 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:23.4455 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:30.2805 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:31.1902 INFO Get RR List Success
+2021-01-08 15:07:31.9622 INFO Get RR List Success
+2021-01-08 15:07:32.0147 INFO Get Balance Request Pass Success
+2021-01-08 15:07:32.1225 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:07:40.9386 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:07:41.1185 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:08:27.1819 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:08:27.3617 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:08:57.1935 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:08:57.3732 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:09:05.5964 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-08 15:09:15.3347 INFO Get User Success :newswadeshi_sgrbo
+2021-01-08 15:09:32.4377 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:09:33.0315 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:09:37.9926 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:10:25.8046 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:10:33.8208 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:10:34.0106 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:10:51.5682 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:10:51.9107 INFO Get User Success :majhaulia_dis
+2021-01-08 15:10:54.6297 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:10:54.8098 INFO Get User Success :majhaulia_dis
+2021-01-08 15:11:09.5205 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:11:11.2584 INFO Get Pass List Success
+2021-01-08 15:11:13.3120 INFO Get User Success :majhaulia_dis
+2021-01-08 15:11:14.5974 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:11:15.3683 INFO Get Pass List Success
+2021-01-08 15:11:15.5841 INFO Get User Success :majhaulia_dis
+2021-01-08 15:11:16.0171 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:11:16.1216 INFO Get Pass List Success
+2021-01-08 15:11:16.3254 INFO Get User Success :majhaulia_dis
+2021-01-08 15:13:24.8980 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:13:24.9697 INFO Get Dispach Master List Success
+2021-01-08 15:13:25.0962 INFO Get VAT Master List Success
+2021-01-08 15:13:25.1742 INFO Get Pass List Success
+2021-01-08 15:13:25.5572 INFO Get User Success :majhaulia_dis
+2021-01-08 15:15:58.4648 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:15:58.5198 INFO Get Dispach Master List Success
+2021-01-08 15:15:58.6390 INFO Get VAT Master List Success
+2021-01-08 15:15:58.6950 INFO Get Pass List Success
+2021-01-08 15:15:59.0735 INFO Get User Success :majhaulia_dis
+2021-01-08 15:16:13.3712 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:16:13.4236 INFO Get Dispach Master List Success
+2021-01-08 15:16:13.5435 INFO Get VAT Master List Success
+2021-01-08 15:16:13.6014 INFO Get Pass List Success
+2021-01-08 15:16:13.9714 INFO Get User Success :majhaulia_dis
+2021-01-08 15:16:15.0948 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:16:15.1541 INFO Get Pass List Success
+2021-01-08 15:16:15.3068 INFO Get User Success :majhaulia_dis
+2021-01-08 15:16:16.4862 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:16:16.5391 INFO Get Dispach Master List Success
+2021-01-08 15:16:16.6553 INFO Get VAT Master List Success
+2021-01-08 15:16:16.7095 INFO Get Pass List Success
+2021-01-08 15:16:17.0317 INFO Get User Success :majhaulia_dis
+2021-01-08 15:16:26.5627 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:16:26.6151 INFO Get Dispach Master List Success
+2021-01-08 15:17:12.7873 INFO Get VAT Master List Success
+2021-01-08 15:17:59.8183 INFO Get Pass List Success
+2021-01-08 15:18:00.1413 INFO Get User Success :majhaulia_dis
+2021-01-08 15:18:02.9342 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:18:02.9860 INFO Get Dispach Master List Success
+2021-01-08 15:18:05.3946 INFO Get VAT Master List Success
+2021-01-08 15:18:10.1970 INFO Get Pass List Success
+2021-01-08 15:19:15.0115 INFO Get User Success :majhaulia_dis
+2021-01-08 15:19:29.1690 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:19:29.2232 INFO Get Dispach Master List Success
+2021-01-08 15:19:29.3427 INFO Get VAT Master List Success
+2021-01-08 15:19:29.3994 INFO Get Pass List Success
+2021-01-08 15:20:17.2872 INFO Get User Success :majhaulia_dis
+2021-01-08 15:27:33.4875 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:27:33.5406 INFO Get Dispach Master List Success
+2021-01-08 15:27:33.8229 INFO Get VAT Master List Success
+2021-01-08 15:27:33.8858 INFO Get Pass List Success
+2021-01-08 15:27:34.2160 INFO Get User Success :majhaulia_dis
+2021-01-08 15:27:36.9065 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:27:36.9718 INFO Get Pass List Success
+2021-01-08 15:27:37.0962 INFO Get User Success :majhaulia_dis
+2021-01-08 15:27:43.9530 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:27:44.1970 INFO Get User Success :majhaulia_dis
+2021-01-08 15:28:04.3213 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:28:04.5530 INFO Get User Success :majhaulia_dis
+2021-01-08 15:28:13.0866 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:28:23.8952 INFO Get User Success :majhaulia_dis
+2021-01-08 15:29:57.3126 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-08 15:29:58.2490 INFO Get User Success :majhaulia_sgr
+2021-01-08 15:30:14.9957 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-08 15:30:59.3270 INFO Get User Success :majhaulia_sgr
+2021-01-08 15:31:29.6513 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:31:29.9410 INFO Get User Success :majhaulia_dis
+2021-01-08 15:31:33.4853 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 15:31:33.7107 INFO Get User Success :majhaulia_dis
+2021-01-08 15:32:34.8030 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:32:35.0459 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:32:37.8603 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:32:38.0951 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:33:37.3681 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:33:37.6034 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:34:19.1721 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:34:19.4082 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:36:10.7368 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:36:11.3320 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:39:27.4939 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:39:28.1123 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:39:41.8079 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:39:42.1261 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:40:03.0436 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:40:03.1102 INFO Get Pass List Success
+2021-01-08 15:40:03.2500 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:40:05.5992 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:40:05.8299 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:40:07.9167 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:40:07.9755 INFO Get Pass List Success
+2021-01-08 15:40:08.0941 INFO Get User Success :newswadeshi_sgr
+2021-01-08 15:40:11.1558 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 15:40:11.3905 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:04:48.1287 INFO Get User Fail :0--Exception while reading from stream
+2021-01-08 16:30:09.2710 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:30:10.0451 INFO Get User Success :harinagar_dis
+2021-01-08 16:33:13.7891 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:33:14.4605 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:33:29.1980 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:33:29.4587 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:34:11.9729 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:34:24.0840 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:34:27.3692 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:34:27.4388 INFO Get Dispach Master List Success
+2021-01-08 16:34:27.6039 INFO Get VAT Master List Success
+2021-01-08 16:34:27.7452 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:34:36.4728 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:34:40.3242 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:34:53.8694 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:34:54.1520 INFO Get User Success :majhaulia_dis
+2021-01-08 16:34:56.8596 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:34:57.0411 INFO Get User Success :majhaulia_dis
+2021-01-08 16:35:37.5245 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:35:37.5776 INFO Get Dispach Master List Success
+2021-01-08 16:36:35.1747 INFO Get VAT Master List Success
+2021-01-08 16:37:07.7222 INFO Get User Success :majhaulia_dis
+2021-01-08 16:37:18.3054 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:37:18.5297 INFO Get User Success :majhaulia_dis
+2021-01-08 16:37:20.1445 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:37:20.2280 INFO Get Pass List Success
+2021-01-08 16:37:20.3691 INFO Get User Success :majhaulia_dis
+2021-01-08 16:37:24.4653 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:37:24.5233 INFO Get Dispach Master List Success
+2021-01-08 16:37:24.7631 INFO Get VAT Master List Success
+2021-01-08 16:37:24.8359 INFO Get Pass List Success
+2021-01-08 16:37:25.2430 INFO Get User Success :majhaulia_dis
+2021-01-08 16:37:33.4413 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:37:33.4953 INFO Get Dispach Master List Success
+2021-01-08 16:37:33.6141 INFO Get VAT Master List Success
+2021-01-08 16:37:33.6724 INFO Get Pass List Success
+2021-01-08 16:37:38.4293 INFO Get User Success :majhaulia_dis
+2021-01-08 16:41:23.8103 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:41:23.8714 INFO Get Dispach Master List Success
+2021-01-08 16:41:24.1634 INFO Get VAT Master List Success
+2021-01-08 16:41:24.2183 INFO Get Pass List Success
+2021-01-08 16:41:24.5433 INFO Get User Success :majhaulia_dis
+2021-01-08 16:41:26.1439 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:41:26.3253 INFO Get User Success :majhaulia_dis
+2021-01-08 16:41:50.8471 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:41:50.9102 INFO Get Pass List Success
+2021-01-08 16:41:51.0303 INFO Get User Success :majhaulia_dis
+2021-01-08 16:41:52.8690 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:41:52.9224 INFO Get Dispach Master List Success
+2021-01-08 16:41:53.0873 INFO Get VAT Master List Success
+2021-01-08 16:41:53.1865 INFO Get Pass List Success
+2021-01-08 16:41:53.5191 INFO Get User Success :majhaulia_dis
+2021-01-08 16:42:06.1994 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:42:06.2529 INFO Get Dispach Master List Success
+2021-01-08 16:42:06.3719 INFO Get VAT Master List Success
+2021-01-08 16:42:06.4288 INFO Get Pass List Success
+2021-01-08 16:42:06.7570 INFO Get User Success :majhaulia_dis
+2021-01-08 16:42:10.6430 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:42:10.7047 INFO Get Pass List Success
+2021-01-08 16:42:10.8232 INFO Get User Success :majhaulia_dis
+2021-01-08 16:42:12.3751 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:42:12.4269 INFO Get Dispach Master List Success
+2021-01-08 16:42:12.5426 INFO Get VAT Master List Success
+2021-01-08 16:42:12.5974 INFO Get Pass List Success
+2021-01-08 16:42:12.9232 INFO Get User Success :majhaulia_dis
+2021-01-08 16:42:32.2695 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:42:32.3315 INFO Get Pass List Success
+2021-01-08 16:42:32.4492 INFO Get User Success :majhaulia_dis
+2021-01-08 16:42:33.8294 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:42:33.8828 INFO Get Dispach Master List Success
+2021-01-08 16:42:34.0032 INFO Get VAT Master List Success
+2021-01-08 16:42:34.0597 INFO Get Pass List Success
+2021-01-08 16:42:34.3952 INFO Get User Success :majhaulia_dis
+2021-01-08 16:42:47.2374 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:42:47.2907 INFO Get Dispach Master List Success
+2021-01-08 16:42:57.0238 INFO Get VAT Master List Success
+2021-01-08 16:42:57.0803 INFO Get Pass List Success
+2021-01-08 16:42:59.6556 INFO Get User Success :majhaulia_dis
+2021-01-08 16:43:58.0135 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:43:58.0731 INFO Get Pass List Success
+2021-01-08 16:43:58.1936 INFO Get User Success :majhaulia_dis
+2021-01-08 16:44:00.0378 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:44:00.2207 INFO Get User Success :majhaulia_dis
+2021-01-08 16:45:40.4107 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:45:40.4882 INFO Get Pass List Success
+2021-01-08 16:45:40.6295 INFO Get User Success :majhaulia_dis
+2021-01-08 16:45:43.5483 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:45:43.7342 INFO Get User Success :majhaulia_dis
+2021-01-08 16:45:46.1648 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:45:46.2251 INFO Get Pass List Success
+2021-01-08 16:45:46.3410 INFO Get User Success :majhaulia_dis
+2021-01-08 16:45:47.1657 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:45:47.3447 INFO Get User Success :majhaulia_dis
+2021-01-08 16:45:51.2909 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:45:51.3536 INFO Get Pass List Success
+2021-01-08 16:45:51.4919 INFO Get User Success :majhaulia_dis
+2021-01-08 16:49:32.7445 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:49:33.3592 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:49:45.7162 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:49:45.9643 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:51:44.8733 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:51:45.1605 INFO Get User Success :majhaulia_dis
+2021-01-08 16:51:47.8976 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:51:48.0789 INFO Get User Success :majhaulia_dis
+2021-01-08 16:54:10.2121 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-08 16:54:55.1683 INFO Get User Success :majhaulia_dis
+2021-01-08 16:55:12.1442 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:55:12.7305 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:55:15.8321 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 16:55:16.0498 INFO Get User Success :newswadeshi_sgr
+2021-01-08 16:55:57.3534 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 16:55:57.5785 INFO Get User Success :vishnu_sgr
+2021-01-08 16:55:59.7038 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 16:55:59.8836 INFO Get User Success :vishnu_sgr
+2021-01-08 16:57:26.0305 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 16:57:26.2213 INFO Get User Success :vishnu_sgr
+2021-01-08 16:58:03.7095 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 16:58:05.4000 INFO Get User Success :vishnu_sgr
+2021-01-08 16:58:22.2844 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-08 16:58:22.5523 INFO Get User Success :vishnu_sgr
+2021-01-08 16:58:42.5134 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:58:42.9352 INFO Get User Success :harinagar_dis
+2021-01-08 16:58:46.4965 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:58:46.8747 INFO Get User Success :harinagar_dis
+2021-01-08 16:59:40.7202 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:59:41.0430 INFO Get User Success :harinagar_dis
+2021-01-08 16:59:41.7208 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:59:42.1662 INFO Get User Success :harinagar_dis
+2021-01-08 16:59:42.5521 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:59:42.9134 INFO Get User Success :harinagar_dis
+2021-01-08 16:59:44.8304 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:59:44.9087 INFO Get Pass List Success
+2021-01-08 16:59:45.1592 INFO Get User Success :harinagar_dis
+2021-01-08 16:59:46.3587 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 16:59:46.7142 INFO Get User Success :harinagar_dis
+2021-01-08 17:02:28.5415 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:02:29.1432 INFO Get RR List Success
+2021-01-08 17:02:29.8292 INFO Get RR List Success
+2021-01-08 17:02:29.8864 INFO Get Balance Request Pass Success
+2021-01-08 17:02:30.0707 INFO Get User Success :harinagar_dis
+2021-01-08 17:02:41.6484 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-08 17:02:41.9106 INFO Get User Success :harinagar_sgr
+2021-01-08 17:02:45.0210 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-08 17:02:45.3273 INFO Get User Success :harinagar_sgr
+2021-01-08 17:11:12.9698 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:11:13.0555 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:11:13.8368 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:11:13.8610 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:11:18.1383 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:11:18.1952 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:11:20.7212 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:11:20.7300 INFO Get Pass List Success
+2021-01-08 17:11:20.7510 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:11:22.8584 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:11:22.9275 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:11:54.3484 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:11:54.3484 INFO Get Pass List Success
+2021-01-08 17:11:54.3657 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:12:05.4825 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:12:05.5115 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:12:08.0096 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:12:08.0227 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:12:10.8309 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:12:10.8359 INFO Get Pass List Success
+2021-01-08 17:12:10.8359 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:12:16.2374 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:12:16.2407 INFO Get Dispach Master List Success
+2021-01-08 17:12:19.0882 INFO Get VAT Master List Success
+2021-01-08 17:12:19.1091 INFO Get Pass List Success
+2021-01-08 17:12:19.1331 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:12:43.6384 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:12:43.6384 INFO Get Dispach Master List Success
+2021-01-08 17:12:50.7761 INFO Get VAT Master List Success
+2021-01-08 17:13:03.4192 INFO Get Pass List Success
+2021-01-08 17:14:00.4858 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:14:09.8152 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:14:09.8152 INFO Get Dispach Master List Success
+2021-01-08 17:14:14.2289 INFO Get VAT Master List Success
+2021-01-08 17:14:53.7582 INFO Get VAT Master List Success
+2021-01-08 17:15:06.4325 INFO Get Pass List Success
+2021-01-08 17:15:06.4585 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:15:08.8021 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:15:08.8021 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:15:13.4005 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:15:13.4005 INFO Get Dispach Master List Success
+2021-01-08 17:15:13.4105 INFO Get VAT Master List Success
+2021-01-08 17:15:13.4105 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:15:15.8343 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:15:15.8343 INFO Get Pass List Success
+2021-01-08 17:15:15.8504 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:15:19.2532 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:15:19.2603 INFO Get Pass List Success
+2021-01-08 17:15:19.2723 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:15:21.0502 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:15:21.0652 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:15:22.7659 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-08 17:15:22.7659 INFO Get Dispach Master List Success
+2021-01-08 17:15:22.7738 INFO Get VAT Master List Success
+2021-01-08 17:15:22.7858 INFO Get User Success :newswadeshi_sgr
+2021-01-08 17:22:19.2554 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:22:19.3419 INFO Get User Success :harinagar_dis
+2021-01-08 17:22:37.2239 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:22:37.2239 INFO Get RR List Success
+2021-01-08 17:22:37.2601 INFO Get User Success :harinagar_dis
+2021-01-08 17:22:44.5667 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:22:44.5879 INFO Get RR List Success
+2021-01-08 17:22:44.6001 INFO Get User Success :harinagar_dis
+2021-01-08 17:22:45.6852 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:22:45.6922 INFO Get RR List Success
+2021-01-08 17:22:45.7071 INFO Get User Success :harinagar_dis
+2021-01-08 17:22:59.4410 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:22:59.4590 INFO Get User Success :riga_dis
+2021-01-08 17:23:03.7886 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:23:03.7886 INFO Get RR List Success
+2021-01-08 17:23:03.8282 INFO Get User Success :riga_dis
+2021-01-08 17:23:05.8397 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:23:05.8397 INFO Get RR List Success
+2021-01-08 17:27:28.4575 INFO Get RR No Sucess:Req/SI/RDD/RR/2020-21//71
+2021-01-08 17:27:28.4575 INFO Get RR List Success
+2021-01-08 17:27:28.4834 INFO Get User Success :riga_dis
+2021-01-08 17:27:56.6502 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:27:56.6502 INFO Get RR List Success
+2021-01-08 17:27:56.6502 INFO Get RR No Sucess:Req/SI/RDD/RR/2020-21//71
+2021-01-08 17:27:56.6672 INFO Get RR List Success
+2021-01-08 17:27:56.6809 INFO Get User Success :riga_dis
+2021-01-08 17:28:06.6018 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:28:06.6018 INFO Get RR List Success
+2021-01-08 17:28:06.6185 INFO Get RR No Sucess:Req/SI/RDD/RR/2020-21//71
+2021-01-08 17:28:06.6185 INFO Get RR List Success
+2021-01-08 17:28:06.6435 INFO Get User Success :riga_dis
+2021-01-08 17:28:19.7145 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:28:19.7145 INFO Get RR List Success
+2021-01-08 17:28:26.2874 INFO Get RR No Sucess:Req/SI/RDD/RR/2020-21/71
+2021-01-08 17:28:26.2874 INFO Get RR List Success
+2021-01-08 17:28:26.3113 INFO Get User Success :riga_dis
+2021-01-08 17:28:44.5638 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:28:44.5748 INFO Get RR List Success
+2021-01-08 17:28:44.5973 INFO Get User Success :riga_dis
+2021-01-08 17:28:53.6775 INFO Get User Success :104-Riga Distillery Division
+2021-01-08 17:28:53.6775 INFO Get RR Details Success
+2021-01-08 17:28:53.6992 INFO Get RR List Success
+2021-01-08 17:28:53.7192 INFO Get User Success :riga_dis
+2021-01-08 17:29:04.6638 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 17:29:04.6765 INFO Get User Success :wcedo
+2021-01-08 17:29:07.3463 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 17:29:07.3501 INFO Get RR List Success
+2021-01-08 17:29:07.3760 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 17:29:07.3870 INFO Get RR List Success
+2021-01-08 17:29:07.3870 INFO Get User Success :wcedo
+2021-01-08 17:29:09.2838 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 17:29:09.2898 INFO Get RR Details Success
+2021-01-08 17:29:09.2898 INFO Get RR List Success
+2021-01-08 17:29:09.3112 INFO Get User Success :wcedo
+2021-01-08 17:29:30.8860 INFO Get User Success :99-Assistant Commissioner
+2021-01-08 17:29:30.8860 INFO Get RR Details Success
+2021-01-08 17:29:30.9031 INFO Get RR List Success
+2021-01-08 17:30:05.4657 INFO Get User Success :wcedo
+2021-01-08 17:32:42.8225 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:32:42.9366 INFO Get User Success :harinagar_dis
+2021-01-08 17:32:52.3693 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:32:52.3793 INFO Get RR List Success
+2021-01-08 17:32:52.4102 INFO Get User Success :harinagar_dis
+2021-01-08 17:33:04.7212 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:04.7411 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:07.9691 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:07.9731 INFO Get RR List Success
+2021-01-08 17:33:08.0065 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:11.1484 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:11.1484 INFO Get Indent List Success
+2021-01-08 17:33:11.1721 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:14.1860 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:14.1860 INFO Get Indent List Success
+2021-01-08 17:33:25.5409 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:25.5795 INFO Get Allotment List Success
+2021-01-08 17:33:25.6330 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:38.5562 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:38.5562 INFO Get Allotment List Success
+2021-01-08 17:33:38.5815 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:38.5835 INFO Get Indent List Success
+2021-01-08 17:33:38.5835 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:41.6575 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:41.6607 INFO Get Indent List Success
+2021-01-08 17:33:41.7530 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:41.7594 INFO Get Party Master List Success
+2021-01-08 17:33:41.7594 INFO Get Product Master List Success
+2021-01-08 17:33:44.1540 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:50.2280 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:50.2280 INFO Get Indent List Success
+2021-01-08 17:33:50.2408 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:33:52.3334 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:52.3334 INFO Get Indent List Success
+2021-01-08 17:33:52.3594 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-08 17:33:52.3594 INFO Get Party Master List Success
+2021-01-08 17:33:52.3644 INFO Get Product Master List Success
+2021-01-08 17:34:00.6300 INFO Get Indent Details Success
+2021-01-08 17:34:12.4492 INFO Get User Success :newswadeshi_dis
+2021-01-08 17:45:14.3461 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:45:14.4600 INFO Get User Success :harinagar_dis
+2021-01-08 17:45:19.9663 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:45:19.9751 INFO Get RR List Success
+2021-01-08 17:45:20.0060 INFO Get User Success :harinagar_dis
+2021-01-08 17:45:23.5782 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-08 17:45:23.5832 INFO Get State List Success
+2021-01-08 17:45:23.6117 INFO Get User Success :harinagar_dis

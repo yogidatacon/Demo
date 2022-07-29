@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09DCFA0D-CFBF-4493-996E-0F48A7B31D24}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Usermngt.DAL</RootNamespace>
+    <AssemblyName>Usermngt.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\UserMgmt\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=x86" />
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.7.4\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\..\..\..\SIVA\back\CaseMgmt_20122019\CaseMgmt\CaseMgmt\bin\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql.ConfigureConnection">
+      <HintPath>..\..\..\..\SIVA\back\CaseMgmt_20122019\CaseMgmt\CaseMgmt\bin\Npgsql.ConfigureConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DL_All_Approvals.cs" />
+    <Compile Include="DL_CaseMgt.cs" />
+    <Compile Include="DL_cm_seiz_AccusedDetails.cs" />
+    <Compile Include="DL_cm_seiz_Accused_Status.cs" />
+    <Compile Include="DL_cm_seiz_Apparatus.cs" />
+    <Compile Include="DL_cm_seiz_AppealDetails.cs" />
+    <Compile Include="DL_cm_seiz_Bail.cs" />
+    <Compile Include="DL_cm_seiz_BasicIformation.cs" />
+    <Compile Include="DL_cm_seiz_CaseHistory.cs" />
+    <Compile Include="DL_cm_seiz_ChargeSheet.cs" />
+    <Compile Include="DL_cm_seiz_Cognizance.cs" />
+    <Compile Include="DL_cm_seiz_Daily_Dairy_otherthan_Raid.cs" />
+    <Compile Include="DL_cm_seiz_Daily_Dairy_Raid.cs" />
+    <Compile Include="DL_cm_seiz_Dmconfiscation.cs" />
+    <Compile Include="DL_cm_seiz_ExcisableArticlesSeized.cs" />
+    <Compile Include="DL_cm_seiz_Excisecom.cs" />
+    <Compile Include="DL_cm_seiz_FIR.cs" />
+    <Compile Include="DL_cm_seiz_OffencesCommitted.cs" />
+    <Compile Include="DL_cm_seiz_RaidTeam.cs" />
+    <Compile Include="DL_cm_seiz_trial.cs" />
+    <Compile Include="DL_cm_seiz_vehicledetails.cs" />
+    <Compile Include="DL_cm_seiz_Witness.cs" />
+    <Compile Include="DL_Common.cs" />
+    <Compile Include="DL_Complaint.cs" />
+    <Compile Include="DL_DailyDispatchClosure.cs" />
+    <Compile Include="DL_DailyMolassesProduction.cs" />
+    <Compile Include="DL_Designation_Details.cs" />
+    <Compile Include="DL_DigitalSignature.cs" />
+    <Compile Include="DL_DispatchType.cs" />
+    <Compile Include="DL_Distillation.cs" />
+    <Compile Include="DL_Employee_Details.cs" />
+    <Compile Include="DL_FermentertoReceiverForm_83.cs" />
+    <Compile Include="DL_Financial_Years.cs" />
+    <Compile Include="DL_Form82.cs" />
+    <Compile Include="DL_HelpDesk.cs" />
+    <Compile Include="DL_IndentForm.cs" />
+    <Compile Include="DL_LicenseApplication.cs" />
+    <Compile Include="DL_LicenseFee.cs" />
+    <Compile Include="DL_LicenseSubType.cs" />
+    <Compile Include="DL_LicenseType.cs" />
+    <Compile Include="DL_MF3_Details.cs" />
+    <Compile Include="DL_Module_Master.cs" />
+    <Compile Include="DL_Molasses_Allocation.cs" />
+    <Compile Include="DL_Molasses_Issue_Register.cs" />
+    <Compile Include="DL_Molasses_Production_MF2.cs" />
+    <Compile Include="DL_Money.cs" />
+    <Compile Include="DL_NOC_Details.cs" />
+    <Compile Include="DL_OpeningBalance.cs" />
+    <Compile Include="DL_Org_List.cs" />
+    <Compile Include="DL_Party_Master.cs" />
+    <Compile Include="DL_Party_Type_Master.cs" />
+    <Compile Include="DL_PassDispatch.cs" />
+    <Compile Include="DL_Pass_Details.cs" />
+    <Compile Include="DL_Permit.cs" />
+    <Compile Include="DL_Priority.cs" />
+    <Compile Include="DL_ProductMaster.cs" />
+    <Compile Include="DL_ProductType.cs" />
+    <Compile Include="DL_Property.cs" />
+    <Compile Include="DL_RawMaterial.cs" />
+    <Compile Include="DL_RawMaterialReceipt.cs" />
+    <Compile Include="DL_RawMaterialType.cs" />
+    <Compile Include="DL_RawmaterialWastage.cs" />
+    <Compile Include="DL_ReaquestForPass.cs" />
+    <Compile Include="DL_ReceiverToStorage_84.cs" />
+    <Compile Include="DL_ReceiverToStoragrTransfer.cs" />
+    <Compile Include="DL_Release_Request.cs" />
+    <Compile Include="DL_RequestForTransportPass.cs" />
+    <Compile Include="DL_RolePermisions.cs" />
+    <Compile Include="DL_ServerConfig.cs" />
+    <Compile Include="DL_StorageToDispatch.cs" />
+    <Compile Include="DL_SubModule_Master.cs" />
+    <Compile Include="DL_SugarCanePurchase.cs" />
+    <Compile Include="DL_SystemSetting..cs" />
+    <Compile Include="DL_Tab_Master.cs" />
+    <Compile Include="DL_Thana.cs" />
+    <Compile Include="DL_Ticketcategory.cs" />
+    <Compile Include="DL_TicketStatus.cs" />
+    <Compile Include="DL_UOM.cs" />
+    <Compile Include="DL_UserDetails.cs" />
+    <Compile Include="DL_User_Mngnt.cs" />
+    <Compile Include="DL_VATTransfers_.cs" />
+    <Compile Include="DL_VatType.cs" />
+    <Compile Include="DL_WorkFlow.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DL_VATMaster.cs" />
+    <Compile Include="Utilities\Constants.cs" />
+    <Compile Include="Utilities\EncryptionDecryption.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Usermngt.Entities\Usermngt.Entities.csproj">
+      <Project>{f198976f-4156-4d30-8d70-df75f3fceff6}</Project>
+      <Name>Usermngt.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,722 @@
+2020-10-31 10:07:51.5084 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:07:54.0753 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:07:54.0795 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:07:54.1202 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:07:55.7469 INFO MIR GetList Sucess
+2020-10-31 10:07:55.7509 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:07:55.7509 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:07:57.4731 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:07:57.4731 INFO Get Party Master List Success
+2020-10-31 10:07:57.6536 INFO Get VAT Master List Success
+2020-10-31 10:07:57.6575 INFO MIR GetPassDetails Sucess
+2020-10-31 10:07:57.6575 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:14:14.0732 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:14:14.0772 INFO Get Party Master List Success
+2020-10-31 10:14:14.0772 INFO Get VAT Master List Success
+2020-10-31 10:14:14.0772 INFO MIR GetPassDetails Sucess
+2020-10-31 10:14:14.0928 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:16.1146 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:19.2440 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:28:19.2440 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:19.2872 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:21.3944 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:21.3944 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:21.7905 INFO MIR GetList Sucess
+2020-10-31 10:28:21.7905 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:21.8034 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:26.9037 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:26.9094 INFO Get Party Master List Success
+2020-10-31 10:28:26.9223 INFO Get VAT Master List Success
+2020-10-31 10:28:26.9223 INFO MIR GetPassDetails Sucess
+2020-10-31 10:28:26.9223 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:28:53.1056 INFO MIR GetDetails Fail :Index was outside the bounds of the array.
+2020-10-31 10:29:10.6023 INFO MIR GetList Sucess
+2020-10-31 10:29:10.6023 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:29:10.6023 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:29:13.2841 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:29:13.2841 INFO Get Party Master List Success
+2020-10-31 10:29:13.2971 INFO Get VAT Master List Success
+2020-10-31 10:29:13.2971 INFO MIR GetPassDetails Sucess
+2020-10-31 10:29:13.2971 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:31:36.0851 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:31:36.0851 INFO Get Party Master List Success
+2020-10-31 10:31:36.0984 INFO Get VAT Master List Success
+2020-10-31 10:31:36.0984 INFO MIR GetPassDetails Sucess
+2020-10-31 10:31:36.0984 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:34:25.2237 INFO MIR GetList Sucess
+2020-10-31 10:34:25.2237 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:34:25.2237 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:34:26.5097 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:34:26.5097 INFO Get Party Master List Success
+2020-10-31 10:34:26.5217 INFO Get VAT Master List Success
+2020-10-31 10:34:26.5217 INFO MIR GetPassDetails Sucess
+2020-10-31 10:34:26.5217 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:34:38.6513 INFO MIR GetDetails Fail :Index was outside the bounds of the array.
+2020-10-31 10:35:35.0468 INFO MIR GetDetails Sucess
+2020-10-31 10:36:06.6437 INFO MIR GetDetails Sucess
+2020-10-31 10:36:17.7629 INFO MIR GetDetails Sucess
+2020-10-31 10:37:20.3871 INFO MIR Insertion Fail:11-001-22001: value too long for type character varying(3)
+2020-10-31 10:37:20.3894 INFO MIR Update Success:001-001mst0002_11
+2020-10-31 10:37:54.8693 INFO MIR Insertion Sucess:11-001
+2020-10-31 10:38:11.4836 INFO MIR Update Success:001-001mst0002_11
+2020-10-31 10:38:38.3717 INFO MIR GetList Sucess
+2020-10-31 10:38:38.3737 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:38:38.3737 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:38:44.3264 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:38:44.3264 INFO Get Party Master List Success
+2020-10-31 10:38:44.3264 INFO Get VAT Master List Success
+2020-10-31 10:38:44.3264 INFO MIR GetPassDetails Sucess
+2020-10-31 10:38:44.3442 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:39:22.9427 INFO MIR GetList Sucess
+2020-10-31 10:39:22.9427 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:39:22.9427 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:39:24.9722 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:39:24.9722 INFO Get Party Master List Success
+2020-10-31 10:39:24.9852 INFO Get VAT Master List Success
+2020-10-31 10:39:24.9852 INFO MIR GetPassDetails Sucess
+2020-10-31 10:39:24.9852 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:40.5641 INFO MIR Insertion Sucess:12-001
+2020-10-31 10:40:40.5830 INFO MIR GetList Sucess
+2020-10-31 10:40:40.5830 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:40.5830 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:44.4326 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:44.4366 INFO Get Party Master List Success
+2020-10-31 10:40:44.4366 INFO Get VAT Master List Success
+2020-10-31 10:40:44.4366 INFO MIR GetPassDetails Sucess
+2020-10-31 10:40:44.4516 INFO MIR GetDetails Sucess
+2020-10-31 10:40:44.4516 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:48.6301 INFO MIR Update Success:001-001mst0001_6
+2020-10-31 10:40:48.6515 INFO MIR GetList Sucess
+2020-10-31 10:40:48.6545 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:48.6545 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:51.1161 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:40:51.1161 INFO Get Party Master List Success
+2020-10-31 10:40:51.1291 INFO Get VAT Master List Success
+2020-10-31 10:40:51.1291 INFO MIR GetPassDetails Sucess
+2020-10-31 10:40:51.1291 INFO MIR GetDetails Sucess
+2020-10-31 10:40:51.1291 INFO Get User Success :45-Riga Sugar Company Limited
+2020-10-31 10:42:36.8828 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:42:39.6370 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:42:39.6397 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:42:39.6397 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:42:41.3900 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:42:41.4103 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:42:42.9491 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:42:42.9617 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:45:44.0077 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:45:44.0236 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:45:45.3105 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:47:50.1750 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:47:50.7108 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:48:17.3490 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:48:17.8978 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:48:21.7831 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:54:05.3088 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:54:05.3253 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:54:06.7598 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:54:06.7658 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:55:55.0401 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:55:57.0505 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:55:57.0505 INFO Get MF2 List Success
+2020-10-31 10:55:57.0844 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:00.3492 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:56:00.3492 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:00.3723 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:01.4449 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:01.4664 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:02.4894 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:02.5051 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:24.5353 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:24.5493 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:27.8970 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:27.8970 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:38.3167 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:56:38.3300 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:57:03.8568 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:57:03.8588 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:57:03.8588 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 10:58:06.9454 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:09.0848 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:58:09.0848 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:09.0918 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:25.0485 INFO Get Party Master List Success
+2020-10-31 10:58:25.0485 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:25.0660 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:58:25.0660 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:35.1122 INFO Sugarcanepurchase Get List Success
+2020-10-31 10:58:35.1122 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:35.1122 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:35.7252 INFO Get Party Master List Success
+2020-10-31 10:58:35.7252 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:35.7252 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:44.5986 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:44.5986 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:52.9680 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:52.9680 INFO Get Party Master List Success
+2020-10-31 10:58:52.9680 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:58:56.9277 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:02.4299 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:30.3589 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:46.9484 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:46.9524 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:53.2049 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:53.2049 INFO Get Party Master List Success
+2020-10-31 10:59:53.2049 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:55.0185 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 10:59:58.1242 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:00:43.6445 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:02:02.7178 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:03:27.1892 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:05:06.8049 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:08.8920 INFO Sugarcanepurchase Get List Success
+2020-10-31 11:05:08.8920 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:08.8920 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:10.2094 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:10.2094 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:12.2683 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:12.2683 INFO Get Party Master List Success
+2020-10-31 11:05:12.3022 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:35.2616 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:05:35.2645 INFO Get Party Master List Success
+2020-10-31 11:06:24.7926 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:06:43.0725 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:06:43.0725 INFO Get Party Master List Success
+2020-10-31 11:07:13.8697 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:07:20.1971 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:07:20.1971 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:07:21.3478 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:07:21.3478 INFO Get Party Master List Success
+2020-10-31 11:07:23.5902 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:07:43.6657 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:07:43.6657 INFO Get Party Master List Success
+2020-10-31 11:15:53.5256 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:15:56.0100 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:15:56.0100 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:16:37.8900 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:16:40.2441 INFO Sugarcanepurchase Get List Success
+2020-10-31 11:16:40.2441 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:16:40.2508 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:16:41.9068 INFO Get Party Master List Success
+2020-10-31 11:16:41.9068 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:16:41.9068 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-10-31 11:35:47.0511 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:49.3890 INFO Sugarcanepurchase Get List Success
+2020-10-31 11:35:49.3890 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:49.4311 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:50.6340 INFO Get Party Master List Success
+2020-10-31 11:35:50.6408 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:50.6408 INFO Sugarcanepurchase Get List Success
+2020-10-31 11:35:50.6825 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:53.7407 INFO Sugarcanepurchase Get List Success
+2020-10-31 11:35:53.7407 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:53.7407 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:54.2905 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:54.2985 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:55.3306 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:35:55.3306 INFO Get Party Master List Success
+2020-10-31 11:36:02.0519 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:10.2711 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:10.2711 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:11.3992 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:11.3992 INFO Get Party Master List Success
+2020-10-31 11:36:11.4102 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:13.7108 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:13.7108 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:14.4359 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:14.4359 INFO Get Party Master List Success
+2020-10-31 11:36:14.4359 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:18.9911 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:18.9911 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:22.5828 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:22.5828 INFO Get Party Master List Success
+2020-10-31 11:36:22.5936 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:44.8298 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:36:44.8298 INFO Get Party Master List Success
+2020-10-31 11:37:31.6599 INFO Get User Success :86-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-10-31 11:58:34.0619 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:58:37.4647 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:58:37.4759 INFO Get MF2 List Success
+2020-10-31 11:58:37.5164 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:58:40.5445 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:58:40.5710 INFO Get Party Master List Success
+2020-10-31 11:58:40.5803 INFO Get Product Master List Success
+2020-10-31 11:58:40.5803 INFO Get VAT Master List Success
+2020-10-31 11:58:51.9900 INFO Get MF2  Details Success
+2020-10-31 11:58:52.0089 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:59:04.2013 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:59:04.2013 INFO Get MF2 List Success
+2020-10-31 11:59:04.2013 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:59:06.8395 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 11:59:06.8425 INFO Get Party Master List Success
+2020-10-31 11:59:06.8425 INFO Get Product Master List Success
+2020-10-31 11:59:06.8425 INFO Get VAT Master List Success
+2020-10-31 11:59:06.8425 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:35.5805 INFO Insert MF2 Success :31-10-2020-H02
+2020-10-31 12:00:35.6055 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:35.6115 INFO Get MF2 List Success
+2020-10-31 12:00:35.6115 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:38.9936 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:38.9936 INFO Get Party Master List Success
+2020-10-31 12:00:38.9981 INFO Get Product Master List Success
+2020-10-31 12:00:38.9981 INFO Get VAT Master List Success
+2020-10-31 12:00:53.4866 INFO Get MF2  Details Success
+2020-10-31 12:00:53.4866 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:56.1675 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:56.1675 INFO Get MF2 List Success
+2020-10-31 12:00:56.1724 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:57.2780 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:00:57.2800 INFO Get Party Master List Success
+2020-10-31 12:00:57.2800 INFO Get Product Master List Success
+2020-10-31 12:00:57.2800 INFO Get VAT Master List Success
+2020-10-31 12:01:31.1740 INFO Get MF2  Details Success
+2020-10-31 12:02:33.4051 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:03:03.6816 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:03:03.6816 INFO Get Party Master List Success
+2020-10-31 12:03:03.6866 INFO Get Product Master List Success
+2020-10-31 12:03:55.6261 INFO Get VAT Master List Success
+2020-10-31 12:04:19.9427 INFO Get VAT Master List Success
+2020-10-31 12:04:19.9427 INFO Get MF2  Details Success
+2020-10-31 12:04:21.2742 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:05:24.9860 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:05:24.9860 INFO Get Party Master List Success
+2020-10-31 12:05:24.9860 INFO Get Product Master List Success
+2020-10-31 12:05:27.7661 INFO Get VAT Master List Success
+2020-10-31 12:05:27.7661 INFO Get MF2  Details Success
+2020-10-31 12:05:27.7661 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:05:50.3508 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:05:50.3508 INFO Get MF2 List Success
+2020-10-31 12:05:50.3508 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:05:52.3316 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:05:52.3316 INFO Get Party Master List Success
+2020-10-31 12:05:52.3316 INFO Get Product Master List Success
+2020-10-31 12:05:52.3316 INFO Get VAT Master List Success
+2020-10-31 12:05:52.3461 INFO Get MF2  Details Success
+2020-10-31 12:05:52.3461 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:06:14.0704 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:06:14.0704 INFO Get Party Master List Success
+2020-10-31 12:06:14.0704 INFO Get Product Master List Success
+2020-10-31 12:06:14.0774 INFO Get VAT Master List Success
+2020-10-31 12:06:37.7250 INFO Get MF2  Details Success
+2020-10-31 12:06:37.7250 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:06:48.0642 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:06:48.0642 INFO Get Party Master List Success
+2020-10-31 12:06:48.0642 INFO Get Product Master List Success
+2020-10-31 12:06:48.0642 INFO Get VAT Master List Success
+2020-10-31 12:07:00.2751 INFO Get MF2  Details Success
+2020-10-31 12:07:00.2751 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:07:12.4529 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:07:12.4529 INFO Get MF2 List Success
+2020-10-31 12:07:12.4529 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:07.4511 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:11.8465 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:11.8598 INFO Get MF2 List Success
+2020-10-31 12:48:11.8970 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:12.9654 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:12.9753 INFO Get MF3 List Success
+2020-10-31 12:48:12.9753 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:14.1966 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:48:14.1966 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:16.5405 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:18.7532 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:18.7791 INFO Get MF2 List Success
+2020-10-31 12:51:18.8171 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:20.0869 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:20.0998 INFO Get MF3 List Success
+2020-10-31 12:51:20.0998 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:21.8029 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:51:21.8029 INFO Get VAT Master List Success
+2020-10-31 12:51:21.8146 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:52:44.7431 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:53:31.2553 INFO Get VAT Master List Success
+2020-10-31 12:53:31.2553 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:54:36.9090 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:54:38.3124 INFO Get VAT Master List Success
+2020-10-31 12:54:45.6854 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:54:54.9833 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:54:56.0251 INFO Get VAT Master List Success
+2020-10-31 12:54:56.0251 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:48.1929 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:51.1670 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:51.1815 INFO Get MF2 List Success
+2020-10-31 12:55:51.2184 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:53.8640 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:53.8640 INFO Get MF3 List Success
+2020-10-31 12:55:53.8640 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:55.0404 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 12:55:56.6619 INFO Get VAT Master List Success
+2020-10-31 12:55:56.6619 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:37.5140 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:39.6414 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:39.6613 INFO Get MF2 List Success
+2020-10-31 14:14:39.6982 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:41.3277 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:41.3592 INFO Get MF3 List Success
+2020-10-31 14:14:41.3592 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:42.8633 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:14:42.8633 INFO Get VAT Master List Success
+2020-10-31 14:14:42.8753 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:16.3577 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:16.3577 INFO Get VAT Master List Success
+2020-10-31 14:16:16.3577 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:17.8383 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:17.8383 INFO Get MF3 List Success
+2020-10-31 14:16:17.8423 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:18.8658 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:18.8658 INFO Get VAT Master List Success
+2020-10-31 14:16:18.8658 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:51.7097 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:16:51.7097 INFO Get VAT Master List Success
+2020-10-31 14:16:51.7097 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:17:16.7024 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:17:16.7024 INFO Get VAT Master List Success
+2020-10-31 14:17:16.7024 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:18:32.0589 INFO Insert MF3 Fail :31-10-2020--22P02: invalid input syntax for integer: ""
+2020-10-31 14:18:49.1266 INFO Insert MF3 Fail :31-10-2020--22P02: invalid input syntax for integer: ""
+2020-10-31 14:18:53.1108 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:18:53.1108 INFO Get MF3 List Success
+2020-10-31 14:18:53.1248 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:18:53.7158 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:19:10.8104 INFO Get VAT Master List Success
+2020-10-31 14:19:10.8134 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:22:03.3001 INFO Insert MF3 Success :31-10-2020-H02
+2020-10-31 14:22:03.3238 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:22:03.3238 INFO Get MF2 List Success
+2020-10-31 14:22:03.3288 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:22:08.6732 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:22:08.6732 INFO Get MF3 List Success
+2020-10-31 14:25:47.7136 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:25:49.7353 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:25:49.7353 INFO Get MF2 List Success
+2020-10-31 14:25:49.7785 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:25:51.2602 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:25:51.2642 INFO Get MF3 List Success
+2020-10-31 14:25:51.2642 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:26:05.4189 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:26:05.4209 INFO Get MF3 List Success
+2020-10-31 14:26:05.4209 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:26:22.1928 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:26:22.1928 INFO Get MF3 List Success
+2020-10-31 14:26:22.2015 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:39:56.8032 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:40:00.6761 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:40:00.6761 INFO Get MF2 List Success
+2020-10-31 14:40:00.7195 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:40:01.9210 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:40:01.9210 INFO Get MF3 List Success
+2020-10-31 14:40:01.9210 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:08.2304 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:12.1565 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:12.1565 INFO Get MF2 List Success
+2020-10-31 14:44:12.1979 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:14.7248 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:14.7248 INFO Get MF3 List Success
+2020-10-31 14:44:14.7385 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:15.9059 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:44:20.9350 INFO Get VAT Master List Success
+2020-10-31 14:44:23.5540 INFO Get MF3  Details Success
+2020-10-31 14:47:31.8098 INFO Get MF3 Details Fail :Column 'crushing_closedate' does not belong to table .
+2020-10-31 14:52:08.5602 INFO Get MF3  Details Success
+2020-10-31 14:52:08.5903 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:52:38.1678 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:53:09.9581 INFO Get VAT Master List Success
+2020-10-31 14:53:11.4856 INFO Get MF3  Details Success
+2020-10-31 14:53:11.4856 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:53:18.1594 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:14.0408 INFO Get VAT Master List Success
+2020-10-31 14:54:16.4140 INFO Get MF3  Details Success
+2020-10-31 14:54:16.4140 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:17.1151 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:17.1151 INFO Get MF3 List Success
+2020-10-31 14:54:17.1151 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:20.1464 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:21.5656 INFO Get VAT Master List Success
+2020-10-31 14:54:22.2663 INFO Get MF3  Details Success
+2020-10-31 14:54:22.2663 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:38.7280 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 14:54:40.8069 INFO Get VAT Master List Success
+2020-10-31 14:54:44.0041 INFO Get MF3  Details Success
+2020-10-31 14:54:52.0368 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:02:26.8564 INFO Update MF3 Fail :31-10-2020-H02-42601: syntax error at or near ","
+2020-10-31 15:18:55.0665 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:18:57.4654 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:18:57.4921 INFO Get MF2 List Success
+2020-10-31 15:18:57.5292 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:18:58.8905 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:18:58.8905 INFO Get MF3 List Success
+2020-10-31 15:18:58.8905 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:19:00.3642 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:19:02.0634 INFO Get VAT Master List Success
+2020-10-31 15:19:02.6139 INFO Get MF3  Details Success
+2020-10-31 15:19:04.9622 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:19:39.4079 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:19:39.4079 INFO Get MF3 List Success
+2020-10-31 15:19:39.4079 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:19:40.9454 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:19:45.6642 INFO Get VAT Master List Success
+2020-10-31 15:19:45.6642 INFO Get MF3  Details Success
+2020-10-31 15:20:12.7913 INFO Get MF3  Details Success
+2020-10-31 15:20:14.3125 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:20:22.7284 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:20:37.1919 INFO Get VAT Master List Success
+2020-10-31 15:20:37.1919 INFO Get MF3  Details Success
+2020-10-31 15:20:37.9863 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:22:34.2677 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:22:36.5866 INFO Get VAT Master List Success
+2020-10-31 15:22:36.5866 INFO Get MF3  Details Success
+2020-10-31 15:22:42.3537 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:24:06.3869 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:24:06.3896 INFO Get VAT Master List Success
+2020-10-31 15:24:06.3896 INFO Get MF3  Details Success
+2020-10-31 15:24:06.3896 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:24:38.6205 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:24:38.6235 INFO Get VAT Master List Success
+2020-10-31 15:24:38.6235 INFO Get MF3  Details Success
+2020-10-31 15:24:38.6235 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:24:59.7989 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:24:59.7989 INFO Get VAT Master List Success
+2020-10-31 15:24:59.7989 INFO Get MF3  Details Success
+2020-10-31 15:24:59.7989 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:09.0465 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:09.0465 INFO Get VAT Master List Success
+2020-10-31 15:27:09.0465 INFO Get MF3  Details Success
+2020-10-31 15:27:09.0465 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:11.8330 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:11.8330 INFO Get VAT Master List Success
+2020-10-31 15:27:11.8330 INFO Get MF3  Details Success
+2020-10-31 15:27:11.8447 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.0706 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.0706 INFO Get VAT Master List Success
+2020-10-31 15:27:12.0766 INFO Get MF3  Details Success
+2020-10-31 15:27:12.0766 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.2461 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.2481 INFO Get VAT Master List Success
+2020-10-31 15:27:12.2481 INFO Get MF3  Details Success
+2020-10-31 15:27:12.2481 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.4356 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.4356 INFO Get VAT Master List Success
+2020-10-31 15:27:12.4356 INFO Get MF3  Details Success
+2020-10-31 15:27:12.4575 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.6022 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.6022 INFO Get VAT Master List Success
+2020-10-31 15:27:12.6088 INFO Get MF3  Details Success
+2020-10-31 15:27:12.6088 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.7675 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.7675 INFO Get VAT Master List Success
+2020-10-31 15:27:12.7675 INFO Get MF3  Details Success
+2020-10-31 15:27:12.7675 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.9530 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:12.9530 INFO Get VAT Master List Success
+2020-10-31 15:27:12.9530 INFO Get MF3  Details Success
+2020-10-31 15:27:12.9530 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.1166 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.1166 INFO Get VAT Master List Success
+2020-10-31 15:27:13.1295 INFO Get MF3  Details Success
+2020-10-31 15:27:13.1295 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.3011 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.3011 INFO Get VAT Master List Success
+2020-10-31 15:27:13.3111 INFO Get MF3  Details Success
+2020-10-31 15:27:13.3111 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.4856 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.4856 INFO Get VAT Master List Success
+2020-10-31 15:27:13.5065 INFO Get MF3  Details Success
+2020-10-31 15:27:13.5065 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.6781 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.6781 INFO Get VAT Master List Success
+2020-10-31 15:27:13.6781 INFO Get MF3  Details Success
+2020-10-31 15:27:13.6861 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.8317 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:13.8466 INFO Get VAT Master List Success
+2020-10-31 15:27:13.8466 INFO Get MF3  Details Success
+2020-10-31 15:27:13.8466 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:14.0311 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:14.0311 INFO Get VAT Master List Success
+2020-10-31 15:27:14.0311 INFO Get MF3  Details Success
+2020-10-31 15:27:14.0481 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:14.3488 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:14.3488 INFO Get VAT Master List Success
+2020-10-31 15:27:14.3488 INFO Get MF3  Details Success
+2020-10-31 15:27:14.3576 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:14.5162 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:14.5162 INFO Get VAT Master List Success
+2020-10-31 15:27:14.5361 INFO Get MF3  Details Success
+2020-10-31 15:27:14.5361 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:16.1340 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:16.1340 INFO Get MF3 List Success
+2020-10-31 15:27:16.1401 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:17.1280 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:27:17.1280 INFO Get VAT Master List Success
+2020-10-31 15:27:17.1280 INFO Get MF3  Details Success
+2020-10-31 15:27:17.1280 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:28:19.6015 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:28:19.6015 INFO Get VAT Master List Success
+2020-10-31 15:28:19.6076 INFO Get MF3  Details Success
+2020-10-31 15:28:19.6076 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:01.5291 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:01.5311 INFO Get VAT Master List Success
+2020-10-31 15:29:01.5311 INFO Get MF3  Details Success
+2020-10-31 15:29:01.5311 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:02.7974 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:02.7974 INFO Get VAT Master List Success
+2020-10-31 15:29:02.7974 INFO Get MF3  Details Success
+2020-10-31 15:29:02.7974 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:03.9980 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:04.0009 INFO Get VAT Master List Success
+2020-10-31 15:29:04.0009 INFO Get MF3  Details Success
+2020-10-31 15:29:04.0009 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:04.4387 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:04.4387 INFO Get VAT Master List Success
+2020-10-31 15:29:04.4517 INFO Get MF3  Details Success
+2020-10-31 15:29:04.4517 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:32.5693 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:29:32.5693 INFO Get VAT Master List Success
+2020-10-31 15:29:32.5693 INFO Get MF3  Details Success
+2020-10-31 15:29:32.5773 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:30:01.4462 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:30:01.4462 INFO Get VAT Master List Success
+2020-10-31 15:30:01.4512 INFO Get MF3  Details Success
+2020-10-31 15:30:01.4512 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:30:34.0625 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:30:34.0625 INFO Get VAT Master List Success
+2020-10-31 15:30:34.0625 INFO Get MF3  Details Success
+2020-10-31 15:31:00.7041 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:37:01.1845 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:37:01.1881 INFO Get VAT Master List Success
+2020-10-31 15:37:01.1881 INFO Get MF3  Details Success
+2020-10-31 15:37:01.1881 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:24.0273 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:26.1662 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:26.1732 INFO Get MF2 List Success
+2020-10-31 15:52:26.2138 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:27.7945 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:27.7974 INFO Get MF3 List Success
+2020-10-31 15:52:27.7974 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:29.1763 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:52:29.1763 INFO Get VAT Master List Success
+2020-10-31 15:52:29.1952 INFO Get MF3  Details Success
+2020-10-31 15:59:15.9708 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:18.0798 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:18.0962 INFO Get MF2 List Success
+2020-10-31 15:59:18.1342 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:19.7733 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:19.7733 INFO Get MF3 List Success
+2020-10-31 15:59:19.7867 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:21.1630 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:21.1630 INFO Get VAT Master List Success
+2020-10-31 15:59:21.1810 INFO Get MF3  Details Success
+2020-10-31 15:59:21.2079 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:40.4863 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 15:59:40.4863 INFO Get VAT Master List Success
+2020-10-31 15:59:40.4863 INFO Get MF3  Details Success
+2020-10-31 16:01:14.6653 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:01:31.1275 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:01:31.1275 INFO Get VAT Master List Success
+2020-10-31 16:01:31.1275 INFO Get MF3  Details Success
+2020-10-31 16:01:31.1275 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:01:35.2195 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:01:35.2195 INFO Get MF3 List Success
+2020-10-31 16:01:35.2195 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:01:36.5096 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:01:36.5096 INFO Get VAT Master List Success
+2020-10-31 16:01:36.5146 INFO Get MF3  Details Success
+2020-10-31 16:02:08.2688 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:02:17.0984 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:02:17.0984 INFO Get MF3 List Success
+2020-10-31 16:02:17.0984 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:02:19.0575 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:02:19.0575 INFO Get VAT Master List Success
+2020-10-31 16:02:19.0625 INFO Get MF3  Details Success
+2020-10-31 16:02:19.0625 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:04:59.5998 INFO Update MF3 Success :31-10-2020-H02
+2020-10-31 16:04:59.6292 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:04:59.6292 INFO Get MF2 List Success
+2020-10-31 16:04:59.6292 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:03.2383 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:03.2383 INFO Get Party Master List Success
+2020-10-31 16:05:03.2664 INFO Get Product Master List Success
+2020-10-31 16:05:03.2664 INFO Get VAT Master List Success
+2020-10-31 16:05:03.2832 INFO Get MF2  Details Success
+2020-10-31 16:05:03.3010 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:06.6065 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:06.6085 INFO Get MF3 List Success
+2020-10-31 16:05:06.6085 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:08.4766 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:08.4766 INFO Get VAT Master List Success
+2020-10-31 16:05:08.4826 INFO Get MF3  Details Success
+2020-10-31 16:05:08.4826 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:13.6795 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:13.6795 INFO Get MF3 List Success
+2020-10-31 16:05:13.6795 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:15.6277 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:15.6277 INFO Get VAT Master List Success
+2020-10-31 16:05:15.6277 INFO Get MF3  Details Success
+2020-10-31 16:05:15.6277 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:16.9650 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:16.9700 INFO Get MF3 List Success
+2020-10-31 16:05:16.9700 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:18.1106 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:18.1106 INFO Get VAT Master List Success
+2020-10-31 16:05:18.1106 INFO Get MF3  Details Success
+2020-10-31 16:05:18.1106 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:35.6708 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:05:35.6708 INFO Get VAT Master List Success
+2020-10-31 16:06:43.4670 INFO Get MF3  Details Success
+2020-10-31 16:06:43.4670 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:07:06.5433 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:07:06.5468 INFO Get VAT Master List Success
+2020-10-31 16:07:06.5468 INFO Get MF3  Details Success
+2020-10-31 16:07:29.9479 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:01.8031 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:01.8031 INFO Get MF3 List Success
+2020-10-31 16:08:01.8031 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:14.2892 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:14.2964 INFO Get VAT Master List Success
+2020-10-31 16:08:14.2964 INFO Get MF3  Details Success
+2020-10-31 16:08:14.2964 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:34.5705 INFO Update MF3 Success :31-10-2020-H02
+2020-10-31 16:08:34.6004 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:34.6004 INFO Get MF2 List Success
+2020-10-31 16:08:34.6004 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:38.7885 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:38.7885 INFO Get MF3 List Success
+2020-10-31 16:08:38.7885 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:39.9444 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:39.9444 INFO Get VAT Master List Success
+2020-10-31 16:08:39.9444 INFO Get MF3  Details Success
+2020-10-31 16:08:39.9524 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:43.8705 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:08:43.8705 INFO Get MF3 List Success
+2020-10-31 16:08:43.8753 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:00.5619 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:00.5619 INFO Get VAT Master List Success
+2020-10-31 16:13:00.5619 INFO Get MF3  Details Success
+2020-10-31 16:13:00.5619 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:03.3029 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:03.3029 INFO Get MF3 List Success
+2020-10-31 16:13:03.3029 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:04.6209 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:04.6278 INFO Get VAT Master List Success
+2020-10-31 16:13:04.6278 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:08.1774 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:08.1774 INFO Get MF3 List Success
+2020-10-31 16:13:08.1774 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:10.2201 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:10.2201 INFO Get MF2 List Success
+2020-10-31 16:13:10.2201 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:12.2645 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:12.2645 INFO Get Party Master List Success
+2020-10-31 16:13:12.2645 INFO Get Product Master List Success
+2020-10-31 16:13:12.2645 INFO Get VAT Master List Success
+2020-10-31 16:13:12.2645 INFO Get MF2  Details Success
+2020-10-31 16:13:12.2811 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:18.3069 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:18.3139 INFO Get MF2 List Success
+2020-10-31 16:13:18.3139 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:19.5743 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:19.5793 INFO Get Party Master List Success
+2020-10-31 16:13:19.5793 INFO Get Product Master List Success
+2020-10-31 16:13:19.5793 INFO Get VAT Master List Success
+2020-10-31 16:13:19.5793 INFO Get MF2  Details Success
+2020-10-31 16:13:19.5928 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:25.6235 INFO Get User Success :16-Harinagar Sugar
+2020-10-31 16:13:25.6235 INFO Get MF2 List Success
+2020-10-31 16:13:25.6235 INFO Get User Success :16-Harinagar Sugar

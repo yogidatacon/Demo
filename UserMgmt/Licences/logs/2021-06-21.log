@@ -1,0 +1,425 @@
+2021-06-21 09:43:33.5056 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:43:34.0635 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:43:34.4295 INFO Get User Success :mtp1_bo
+2021-06-21 09:43:56.7511 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:44:04.0237 INFO Get User Success :mtp1_bo
+2021-06-21 09:44:41.4495 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:44:41.5605 INFO Get Allotment List Success
+2021-06-21 09:44:41.6685 INFO Get User Success :mtp1_bo
+2021-06-21 09:44:48.5480 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:44:48.6880 INFO Get Product Master List Success
+2021-06-21 09:44:48.7730 INFO Get VAT Master List Success
+2021-06-21 09:44:48.8630 INFO Get VAT Master List Success
+2021-06-21 09:44:49.1200 INFO Get Allotment Details Success
+2021-06-21 09:44:49.6300 INFO Get User Success :mtp1_bo
+2021-06-21 09:44:57.9685 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:44:58.0385 INFO Get Allotment List Success
+2021-06-21 09:44:58.1215 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:09.4068 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:09.4689 INFO Get Allotment List Success
+2021-06-21 09:45:09.5709 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:13.8286 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:13.9545 INFO Get Product Master List Success
+2021-06-21 09:45:14.0265 INFO Get VAT Master List Success
+2021-06-21 09:45:14.5205 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2021-06-21 09:45:14.7925 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:21.9641 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:22.0391 INFO Get Allotment List Success
+2021-06-21 09:45:22.1230 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:25.0749 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:25.1609 INFO Get Product Master List Success
+2021-06-21 09:45:25.3889 INFO Get VAT Master List Success
+2021-06-21 09:45:25.6628 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2021-06-21 09:45:25.8278 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:39.9890 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:40.0560 INFO Get Allotment List Success
+2021-06-21 09:45:40.1420 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:42.8288 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:42.8988 INFO Get Product Master List Success
+2021-06-21 09:45:42.9698 INFO Get VAT Master List Success
+2021-06-21 09:45:43.2558 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2021-06-21 09:45:43.4208 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:51.7193 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:51.7893 INFO Get Allotment List Success
+2021-06-21 09:45:51.8773 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:54.8791 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:54.9561 INFO Get Allotment List Success
+2021-06-21 09:45:55.0511 INFO Get User Success :mtp1_bo
+2021-06-21 09:45:58.5589 INFO Get User Success :354-M and TP Bond Officer
+2021-06-21 09:45:58.6449 INFO Get Product Master List Success
+2021-06-21 09:45:58.7249 INFO Get VAT Master List Success
+2021-06-21 09:45:58.7969 INFO Get VAT Master List Success
+2021-06-21 09:45:58.9878 INFO Get Allotment Details Success
+2021-06-21 09:45:59.1408 INFO Get User Success :mtp1_bo
+2021-06-21 10:53:22.4670 INFO Get User Success :353-M and TP Unit
+2021-06-21 10:53:30.5195 INFO Get User Success :353-M and TP Unit
+2021-06-21 10:53:30.8975 INFO Get User Success :mtp1
+2021-06-21 11:16:54.7191 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:17:00.7097 INFO Get User Success :mtp1
+2021-06-21 11:17:07.7913 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:17:09.4922 INFO Get Allotment List Success
+2021-06-21 11:17:09.8302 INFO Get Product Master List Success
+2021-06-21 11:17:09.9372 INFO Get UOM List Success
+2021-06-21 11:17:10.0382 INFO Get User Success :mtp1
+2021-06-21 11:17:35.4342 INFO Get Allotment Details Success
+2021-06-21 11:18:38.1176 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:19:26.8808 INFO Get User Success :mtp1
+2021-06-21 11:19:31.3814 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:19:35.1452 INFO Get Allotment List Success
+2021-06-21 11:19:36.2361 INFO Get Product Master List Success
+2021-06-21 11:19:36.3091 INFO Get UOM List Success
+2021-06-21 11:19:39.8859 INFO Get Allotment Details Success
+2021-06-21 11:19:44.6256 INFO Get User Success :mtp1
+2021-06-21 11:20:09.6852 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:20:11.1211 INFO Get User Success :mtp1
+2021-06-21 11:20:15.3978 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:20:17.5437 INFO Get Allotment List Success
+2021-06-21 11:20:17.8667 INFO Get Product Master List Success
+2021-06-21 11:20:17.9406 INFO Get UOM List Success
+2021-06-21 11:20:21.0095 INFO Get Allotment Details Success
+2021-06-21 11:20:24.0413 INFO Get User Success :mtp1
+2021-06-21 11:20:36.3286 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:20:39.4714 INFO Get User Success :mtp1
+2021-06-21 11:20:43.4822 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:20:46.4529 INFO Get User Success :mtp1
+2021-06-21 11:20:55.9204 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:21:05.1449 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:21:08.9186 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:21:09.0256 INFO Get License_Type List Success
+2021-06-21 11:21:09.1186 INFO Get License Fee List Success
+2021-06-21 11:21:09.2116 INFO Get State List Success
+2021-06-21 11:21:14.5503 INFO Get Division List Success
+2021-06-21 11:21:18.6100 INFO Get User Success :mtp1
+2021-06-21 11:21:40.1577 INFO Get User Success :353-M and TP Unit
+2021-06-21 11:21:43.4495 INFO Get User Success :mtp1
+2021-06-21 12:36:33.9547 INFO Get User Success :353-M and TP Unit
+2021-06-21 12:36:39.6263 INFO Get User Success :353-M and TP Unit
+2021-06-21 12:36:41.3412 INFO Get User Success :mtp1
+2021-06-21 12:59:05.5880 INFO Get User Success :353-M and TP Unit
+2021-06-21 12:59:45.8156 INFO Get Allotment List Success
+2021-06-21 12:59:45.9866 INFO Get User Success :mtp1
+2021-06-21 12:59:46.7405 INFO Get User Success :353-M and TP Unit
+2021-06-21 12:59:48.9304 INFO Get Allotment List Success
+2021-06-21 12:59:49.0274 INFO Get User Success :mtp1
+2021-06-21 12:59:59.9627 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:00:49.3068 INFO Get User Success :mtp1
+2021-06-21 13:00:59.5922 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:01:04.7989 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:01:05.0509 INFO Get License_Type List Success
+2021-06-21 13:01:05.1529 INFO Get License Fee List Success
+2021-06-21 13:01:05.2428 INFO Get State List Success
+2021-06-21 13:01:05.5058 INFO Get User Success :mtp1
+2021-06-21 13:01:56.9009 INFO Get Division List Success
+2021-06-21 13:05:33.7275 INFO Get Existing data Success : lic_application
+2021-06-21 13:07:16.3214 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:07:19.2393 INFO Get User Success :mtp1
+2021-06-21 13:07:26.0479 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:07:32.0885 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:07:32.1655 INFO Get License_Type List Success
+2021-06-21 13:07:32.2455 INFO Get License Fee List Success
+2021-06-21 13:07:32.3204 INFO Get State List Success
+2021-06-21 13:07:32.4894 INFO Get User Success :mtp1
+2021-06-21 13:07:59.0468 INFO Get Existing data Success : lic_application
+2021-06-21 13:14:37.2120 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:14:39.9039 INFO Get User Success :mtp1
+2021-06-21 13:14:43.1147 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:14:46.2855 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:14:46.3565 INFO Get License_Type List Success
+2021-06-21 13:14:46.4425 INFO Get License Fee List Success
+2021-06-21 13:14:46.5285 INFO Get State List Success
+2021-06-21 13:14:46.6905 INFO Get User Success :mtp1
+2021-06-21 13:15:08.4046 INFO Get Division List Success
+2021-06-21 13:15:42.3700 INFO Get Existing data Fail :lic_application
+2021-06-21 13:15:43.5050 INFO Get License_Type List Success
+2021-06-21 13:17:47.1313 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:17:49.6282 INFO Get User Success :mtp1
+2021-06-21 13:17:53.8219 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:17:56.3128 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:17:56.3828 INFO Get License_Type List Success
+2021-06-21 13:17:56.4728 INFO Get License Fee List Success
+2021-06-21 13:17:56.5548 INFO Get State List Success
+2021-06-21 13:18:00.2126 INFO Get Division List Success
+2021-06-21 13:18:04.3643 INFO Get User Success :mtp1
+2021-06-21 13:18:21.3803 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:18:23.7652 INFO Get User Success :mtp1
+2021-06-21 13:18:28.0919 INFO Get User Success :353-M and TP Unit
+2021-06-21 13:18:39.4285 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:18:39.7225 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:18:40.3364 INFO Get User Success :bhedo
+2021-06-21 13:18:47.1500 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:18:49.7269 INFO Get User Success :bhedo
+2021-06-21 13:18:58.0224 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:24:50.1984 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:24:50.2904 INFO Get License_Type List Success
+2021-06-21 13:24:50.3863 INFO Get License Fee List Success
+2021-06-21 13:24:50.4684 INFO Get State List Success
+2021-06-21 13:24:50.6364 INFO Get User Success :bhedo
+2021-06-21 13:25:00.2888 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:25:19.7986 INFO Get User Success :bhedo
+2021-06-21 13:25:27.4301 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:25:44.1001 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:25:44.1791 INFO Get License_Type List Success
+2021-06-21 13:25:44.2601 INFO Get License Fee List Success
+2021-06-21 13:25:44.3401 INFO Get State List Success
+2021-06-21 13:25:44.4941 INFO Get User Success :bhedo
+2021-06-21 13:26:01.3696 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:26:01.8016 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:26:02.1724 INFO Get User Success :bhedo
+2021-06-21 13:26:10.6149 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:33:02.9613 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:33:34.5134 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:33:36.1374 INFO Get User Success :bhedo
+2021-06-21 13:33:58.3470 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:34:03.9146 INFO Get User Success :bhedo
+2021-06-21 13:34:09.9103 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:34:13.2511 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:34:13.3491 INFO Get License_Type List Success
+2021-06-21 13:34:13.4481 INFO Get License Fee List Success
+2021-06-21 13:34:13.5561 INFO Get State List Success
+2021-06-21 13:34:17.2358 INFO Get Division List Success
+2021-06-21 13:34:21.9926 INFO Get User Success :bhedo
+2021-06-21 13:34:36.5927 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:35:38.8820 INFO Get User Success :bhedo
+2021-06-21 13:35:45.5996 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:45:13.9167 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:45:14.2267 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:45:15.7596 INFO Get User Success :bhedo
+2021-06-21 13:45:58.9930 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:46:02.0389 INFO Get User Success :bhedo
+2021-06-21 13:46:09.8114 INFO Get User Success :341-Assistant Commissioner
+2021-06-21 13:46:25.6227 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 13:46:25.9227 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 13:46:26.8766 INFO Get User Success :hodyco
+2021-06-21 13:46:31.2724 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 13:46:33.7082 INFO Get User Success :hodyco
+2021-06-21 13:47:03.9434 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 13:47:06.9003 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 13:47:06.9743 INFO Get License_Type List Success
+2021-06-21 13:47:07.0803 INFO Get License Fee List Success
+2021-06-21 13:47:07.1682 INFO Get State List Success
+2021-06-21 13:47:11.2150 INFO Get Division List Success
+2021-06-21 13:47:15.8217 INFO Get User Success :hodyco
+2021-06-21 15:01:18.1270 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:01:35.1070 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:01:37.4209 INFO Get User Success :hodyco
+2021-06-21 15:01:45.8214 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:03:10.0564 INFO Get User Success :hodyco
+2021-06-21 15:03:16.3600 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:03:19.6678 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:03:19.7708 INFO Get License_Type List Success
+2021-06-21 15:03:19.8778 INFO Get License Fee List Success
+2021-06-21 15:03:19.9818 INFO Get State List Success
+2021-06-21 15:03:25.9104 INFO Get Division List Success
+2021-06-21 15:03:39.1016 INFO Get User Success :hodyco
+2021-06-21 15:09:09.9739 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:14:49.8916 INFO Get User Success :hodyco
+2021-06-21 15:15:45.3423 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:15:45.7893 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:15:46.9302 INFO Get User Success :hodyco
+2021-06-21 15:15:51.9569 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:15:55.3747 INFO Get User Success :hodyco
+2021-06-21 15:15:58.8175 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:16:01.5663 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:16:01.6523 INFO Get License_Type List Success
+2021-06-21 15:16:01.7543 INFO Get License Fee List Success
+2021-06-21 15:16:01.8543 INFO Get State List Success
+2021-06-21 15:16:04.8171 INFO Get Division List Success
+2021-06-21 15:16:06.2141 INFO Get User Success :hodyco
+2021-06-21 15:16:19.2163 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:16:22.6231 INFO Get User Success :hodyco
+2021-06-21 15:16:26.4088 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:16:31.0916 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:16:31.1926 INFO Get License_Type List Success
+2021-06-21 15:16:31.2896 INFO Get License Fee List Success
+2021-06-21 15:16:31.3635 INFO Get State List Success
+2021-06-21 15:16:42.6039 INFO Get Division List Success
+2021-06-21 15:16:46.2337 INFO Get User Success :hodyco
+2021-06-21 15:16:55.2961 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:18:36.5661 INFO Get User Success :hodyco
+2021-06-21 15:18:40.0549 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:21:54.6633 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:22:01.3909 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:22:01.4828 INFO Get License_Type List Success
+2021-06-21 15:22:01.5718 INFO Get License Fee List Success
+2021-06-21 15:22:01.6648 INFO Get State List Success
+2021-06-21 15:22:11.7412 INFO Get Division List Success
+2021-06-21 15:22:15.0710 INFO Get User Success :hodyco
+2021-06-21 15:22:26.6733 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:22:26.7683 INFO Get License_Type List Success
+2021-06-21 15:22:26.8613 INFO Get License Fee List Success
+2021-06-21 15:22:26.9464 INFO Get State List Success
+2021-06-21 15:29:16.1479 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:29:34.5489 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:29:35.8287 INFO Get User Success :hodyco
+2021-06-21 15:29:43.8673 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:29:49.2749 INFO Get User Success :hodyco
+2021-06-21 15:29:53.0847 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:29:57.1515 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:29:57.2425 INFO Get License_Type List Success
+2021-06-21 15:29:57.3725 INFO Get License Fee List Success
+2021-06-21 15:29:57.4734 INFO Get State List Success
+2021-06-21 15:30:07.8548 INFO Get Division List Success
+2021-06-21 15:31:25.1892 INFO Get User Success :hodyco
+2021-06-21 15:33:48.0387 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:35:39.5930 INFO Get User Success :hodyco
+2021-06-21 15:35:47.3716 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:36:00.5006 INFO Get User Success :101-Commissioner
+2021-06-21 15:36:00.8656 INFO Get User Success :101-Commissioner
+2021-06-21 15:36:02.2085 INFO Get User Success :com
+2021-06-21 15:36:09.6231 INFO Get User Success :101-Commissioner
+2021-06-21 15:36:12.6029 INFO Get User Success :com
+2021-06-21 15:36:16.2187 INFO Get User Success :101-Commissioner
+2021-06-21 15:36:19.0465 INFO Get User Success :101-Commissioner
+2021-06-21 15:36:19.1435 INFO Get License_Type List Success
+2021-06-21 15:36:19.2285 INFO Get License Fee List Success
+2021-06-21 15:36:19.3175 INFO Get State List Success
+2021-06-21 15:36:22.6573 INFO Get Division List Success
+2021-06-21 15:36:26.6121 INFO Get User Success :com
+2021-06-21 15:38:58.7310 INFO Get User Success :101-Commissioner
+2021-06-21 15:40:26.3308 INFO Get User Success :com
+2021-06-21 15:40:30.0095 INFO Get User Success :101-Commissioner
+2021-06-21 15:40:32.0394 INFO Get User Success :101-Commissioner
+2021-06-21 15:40:32.1264 INFO Check WorkFlow List Success
+2021-06-21 15:40:32.2264 INFO Get Allotment List Success
+2021-06-21 15:40:32.3395 INFO Get User Success :com
+2021-06-21 15:40:39.9889 INFO Get User Success :101-Commissioner
+2021-06-21 15:40:40.2039 INFO Check WorkFlow List Success
+2021-06-21 15:40:40.3059 INFO Get Allotment List Success
+2021-06-21 15:40:40.6430 INFO Get User Success :com
+2021-06-21 15:40:43.5377 INFO Get User Success :101-Commissioner
+2021-06-21 15:40:46.0896 INFO Get Party Master List Success
+2021-06-21 15:40:47.3705 INFO Get Product Master List Success
+2021-06-21 15:40:48.5564 INFO Get Allotment Details Success
+2021-06-21 15:40:49.7874 INFO Get Party Master List Success
+2021-06-21 15:40:50.4873 INFO Check WorkFlow List Success
+2021-06-21 15:40:50.6783 INFO Get User Success :com
+2021-06-21 15:41:15.5459 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:41:15.8649 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:41:17.0668 INFO Get User Success :hodyco
+2021-06-21 15:41:24.0744 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:41:31.5970 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:41:31.6870 INFO Check WorkFlow List Success
+2021-06-21 15:41:32.5589 INFO Get Allotment List Success
+2021-06-21 15:41:33.9978 INFO Get User Success :hodyco
+2021-06-21 15:41:41.7024 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:41:41.8294 INFO Check WorkFlow List Success
+2021-06-21 15:41:41.9344 INFO Get Allotment List Success
+2021-06-21 15:41:42.4674 INFO Get User Success :hodyco
+2021-06-21 15:42:18.0113 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:42:18.1302 INFO Check WorkFlow List Success
+2021-06-21 15:42:18.2253 INFO Get Allotment List Success
+2021-06-21 15:42:18.5782 INFO Get User Success :hodyco
+2021-06-21 15:42:22.8429 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 15:42:25.6168 INFO Get Party Master List Success
+2021-06-21 15:42:26.0517 INFO Get Product Master List Success
+2021-06-21 15:42:26.7097 INFO Get Allotment Details Success
+2021-06-21 15:42:27.2517 INFO Get Party Master List Success
+2021-06-21 15:42:27.9176 INFO Check WorkFlow List Success
+2021-06-21 15:42:28.1056 INFO Get User Success :hodyco
+2021-06-21 15:42:51.6366 INFO Get User Success :101-Commissioner
+2021-06-21 15:42:51.9356 INFO Get User Success :101-Commissioner
+2021-06-21 15:42:52.4485 INFO Get User Success :com
+2021-06-21 15:42:58.3632 INFO Get User Success :101-Commissioner
+2021-06-21 15:43:00.5401 INFO Get User Success :101-Commissioner
+2021-06-21 15:43:00.6411 INFO Check WorkFlow List Success
+2021-06-21 15:43:00.7350 INFO Get Allotment List Success
+2021-06-21 15:43:00.8450 INFO Get User Success :com
+2021-06-21 15:43:03.4319 INFO Get User Success :101-Commissioner
+2021-06-21 15:43:03.5239 INFO Check WorkFlow List Success
+2021-06-21 15:43:03.6279 INFO Get Allotment List Success
+2021-06-21 15:43:03.7309 INFO Get User Success :com
+2021-06-21 15:43:06.6157 INFO Get User Success :101-Commissioner
+2021-06-21 15:43:09.0166 INFO Get Party Master List Success
+2021-06-21 15:43:09.4835 INFO Get Product Master List Success
+2021-06-21 15:43:09.9595 INFO Get Allotment Details Success
+2021-06-21 15:43:10.4605 INFO Get Party Master List Success
+2021-06-21 15:43:11.1644 INFO Check WorkFlow List Success
+2021-06-21 15:43:11.3484 INFO Get User Success :com
+2021-06-21 17:00:39.2188 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:00:50.1381 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:00:52.7239 INFO Get User Success :hodyco
+2021-06-21 17:01:21.0813 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:01:26.0990 INFO Get User Success :hodyco
+2021-06-21 17:01:28.6148 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:01:31.0457 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:01:31.1427 INFO Check WorkFlow List Success
+2021-06-21 17:01:31.2556 INFO Get Allotment List Success
+2021-06-21 17:01:31.3516 INFO Get User Success :hodyco
+2021-06-21 17:01:37.2553 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:01:37.3323 INFO Check WorkFlow List Success
+2021-06-21 17:01:37.4153 INFO Get Allotment List Success
+2021-06-21 17:01:37.5483 INFO Get User Success :hodyco
+2021-06-21 17:01:40.4151 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:01:45.5958 INFO Get Party Master List Success
+2021-06-21 17:01:47.1457 INFO Get Product Master List Success
+2021-06-21 17:01:48.7596 INFO Get Allotment Details Success
+2021-06-21 17:01:50.8965 INFO Get Party Master List Success
+2021-06-21 17:17:44.3426 INFO Check WorkFlow List Success
+2021-06-21 17:17:44.5216 INFO Get User Success :hodyco
+2021-06-21 17:18:54.4135 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:18:54.7115 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:18:55.0475 INFO Get User Success :mtp1
+2021-06-21 17:19:01.3011 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:19:04.3619 INFO Get User Success :mtp1
+2021-06-21 17:19:13.4513 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:19:34.3591 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:19:34.5591 INFO Get License_Type List Success
+2021-06-21 17:19:34.7011 INFO Get License Fee List Success
+2021-06-21 17:19:34.7841 INFO Get State List Success
+2021-06-21 17:23:41.7763 INFO Get Division List Success
+2021-06-21 17:23:47.1660 INFO Get User Success :mtp1
+2021-06-21 17:24:16.4893 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:24:16.5743 INFO Get License_Type List Success
+2021-06-21 17:24:16.7063 INFO Get License Fee List Success
+2021-06-21 17:24:16.7883 INFO Get State List Success
+2021-06-21 17:26:46.6353 INFO Get Division List Success
+2021-06-21 17:26:52.4470 INFO Get User Success :mtp1
+2021-06-21 17:27:18.6485 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:27:22.9301 INFO Get User Success :mtp1
+2021-06-21 17:27:28.7078 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:27:32.0866 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:27:32.1646 INFO Get License_Type List Success
+2021-06-21 17:27:32.2466 INFO Get License Fee List Success
+2021-06-21 17:27:32.3336 INFO Get State List Success
+2021-06-21 17:27:35.8024 INFO Get Division List Success
+2021-06-21 17:27:41.3130 INFO Get User Success :mtp1
+2021-06-21 17:27:49.0556 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:27:51.4684 INFO Get User Success :mtp1
+2021-06-21 17:27:57.2151 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:28:00.6759 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:28:00.7719 INFO Get License_Type List Success
+2021-06-21 17:28:00.8569 INFO Get License Fee List Success
+2021-06-21 17:28:00.9379 INFO Get State List Success
+2021-06-21 17:28:06.1236 INFO Get Division List Success
+2021-06-21 17:28:10.8863 INFO Get User Success :mtp1
+2021-06-21 17:28:25.6584 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:28:30.0781 INFO Get User Success :mtp1
+2021-06-21 17:28:35.1848 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:28:45.2332 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:28:45.3622 INFO Get License_Type List Success
+2021-06-21 17:28:45.4362 INFO Get License Fee List Success
+2021-06-21 17:28:45.5082 INFO Get State List Success
+2021-06-21 17:33:03.9348 INFO Get Division List Success
+2021-06-21 17:33:16.5060 INFO Get User Success :mtp1
+2021-06-21 17:33:26.2275 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:33:28.6753 INFO Get User Success :mtp1
+2021-06-21 17:33:32.3631 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:33:35.3509 INFO Get User Success :353-M and TP Unit
+2021-06-21 17:33:35.4319 INFO Get License_Type List Success
+2021-06-21 17:33:35.5159 INFO Get License Fee List Success
+2021-06-21 17:33:35.5889 INFO Get State List Success
+2021-06-21 17:33:38.8367 INFO Get Division List Success
+2021-06-21 17:33:43.1664 INFO Get User Success :mtp1
+2021-06-21 17:34:27.4715 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:34:27.8045 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:34:29.1734 INFO Get User Success :hodyco
+2021-06-21 17:34:35.6000 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:34:37.7259 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:34:37.8099 INFO Check WorkFlow List Success
+2021-06-21 17:34:37.8949 INFO Get Allotment List Success
+2021-06-21 17:34:37.9799 INFO Get User Success :hodyco
+2021-06-21 17:34:40.9637 INFO Get User Success :100-Deputy Commissioner
+2021-06-21 17:34:41.0467 INFO Check WorkFlow List Success
+2021-06-21 17:34:41.2067 INFO Get Allotment List Success
+2021-06-21 17:34:41.2977 INFO Get User Success :hodyco
+2021-06-21 17:34:44.6345 INFO Get GetSeverList Success

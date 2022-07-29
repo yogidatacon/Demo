@@ -1,0 +1,898 @@
+2021-11-18 10:15:15.2282 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:15:15.3473 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:15:15.4349 INFO Get Product Type Master List Success
+2021-11-18 10:15:15.4458 INFO Get User Success :mtp1
+2021-11-18 10:15:34.3398 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:15:34.3573 INFO Check WorkFlow List Success
+2021-11-18 10:15:36.2776 INFO Get Product Type Master List Success
+2021-11-18 10:15:36.2844 INFO Get User Success :mtp1
+2021-11-18 10:15:50.7190 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:15:50.7190 INFO Get License_Type List Success
+2021-11-18 10:23:12.1601 INFO Get License Fee List Success
+2021-11-18 10:23:12.1601 INFO Get State List Success
+2021-11-18 10:23:12.1721 INFO Check WorkFlow List Success
+2021-11-18 10:23:24.5337 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:23:24.5777 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:23:24.5777 INFO Get Product Type Master List Success
+2021-11-18 10:23:24.5777 INFO Get User Success :jtcom
+2021-11-18 10:23:41.2335 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:23:41.2335 INFO Check WorkFlow List Success
+2021-11-18 10:23:43.7944 INFO Get Product Type Master List Success
+2021-11-18 10:23:43.7996 INFO Get User Success :jtcom
+2021-11-18 10:23:48.4917 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:23:50.0342 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:23:50.4703 INFO Check WorkFlow List Success
+2021-11-18 10:23:51.1974 INFO Get Allotment List Success
+2021-11-18 10:23:51.2024 INFO Get Product Type Master List Success
+2021-11-18 10:23:51.2024 INFO Get User Success :jtcom
+2021-11-18 10:24:00.9690 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:24:00.9690 INFO Check WorkFlow List Success
+2021-11-18 10:24:02.7457 INFO Get Allotment List Success
+2021-11-18 10:24:10.5030 INFO Get Product Type Master List Success
+2021-11-18 10:24:10.5030 INFO Get User Success :jtcom
+2021-11-18 10:24:13.9877 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-18 10:24:15.2470 INFO Check WorkFlow List Success
+2021-11-18 10:24:15.2560 INFO Get Allotment List Success
+2021-11-18 10:24:15.2737 INFO Get Product Type Master List Success
+2021-11-18 10:24:15.2737 INFO Get User Success :jtcom
+2021-11-18 10:25:26.9831 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:25:27.0160 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:25:27.0828 INFO Get Product Type Master List Success
+2021-11-18 10:25:27.0828 INFO Get User Success :sonasati_dis
+2021-11-18 10:26:12.4579 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:26:13.9490 INFO Get RR List Success
+2021-11-18 10:26:13.9690 INFO Get Product Type Master List Success
+2021-11-18 10:26:13.9690 INFO Get User Success :sonasati_dis
+2021-11-18 10:48:38.8753 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:48:38.9772 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:48:39.0390 INFO Get Product Type Master List Success
+2021-11-18 10:48:39.0474 INFO Get User Success :mtp1
+2021-11-18 10:48:54.4589 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:48:54.4775 INFO Check WorkFlow List Success
+2021-11-18 10:48:56.1335 INFO Get Product Type Master List Success
+2021-11-18 10:48:56.1390 INFO Get User Success :mtp1
+2021-11-18 10:48:58.5837 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:48:58.5837 INFO Get License_Type List Success
+2021-11-18 10:48:59.9766 INFO Get License Fee List Success
+2021-11-18 10:48:59.9766 INFO Get State List Success
+2021-11-18 10:48:59.9856 INFO Check WorkFlow List Success
+2021-11-18 10:48:59.9856 INFO Get Product Type Master List Success
+2021-11-18 10:48:59.9856 INFO Get User Success :mtp1
+2021-11-18 10:49:10.2745 INFO Get Division List Success
+2021-11-18 10:49:17.8949 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:21.7463 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:24.4916 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:28.9322 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:32.1130 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:35.6562 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:39.8244 INFO Get Existing data Success : lic_application
+2021-11-18 10:49:44.1466 INFO Get Existing data Fail :lic_application
+2021-11-18 10:49:44.1466 INFO Get License_Type List Success
+2021-11-18 10:54:41.2031 INFO Get User Success :353-M and TP Unit
+2021-11-18 10:54:41.2031 INFO Get License_Type List Success
+2021-11-18 10:54:44.4400 INFO Get License Fee List Success
+2021-11-18 10:54:44.4400 INFO Get State List Success
+2021-11-18 10:54:44.4400 INFO Check WorkFlow List Success
+2021-11-18 10:54:44.4400 INFO Get Product Type Master List Success
+2021-11-18 10:54:44.4400 INFO Get User Success :mtp1
+2021-11-18 10:54:56.3935 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:54:56.4474 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:54:56.4984 INFO Get Product Type Master List Success
+2021-11-18 10:54:56.4984 INFO Get User Success :sonasati_dis
+2021-11-18 10:55:00.3624 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:55:01.9202 INFO Get RR List Success
+2021-11-18 10:55:01.9422 INFO Get Product Type Master List Success
+2021-11-18 10:55:01.9422 INFO Get User Success :sonasati_dis
+2021-11-18 10:55:10.7086 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:55:10.7086 INFO Get RR List Success
+2021-11-18 10:55:10.7200 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 10:55:10.7478 INFO Get RR List Success
+2021-11-18 10:55:10.7478 INFO Get Product Type Master List Success
+2021-11-18 10:55:10.7478 INFO Get User Success :sonasati_dis
+2021-11-18 10:55:15.2389 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:55:17.1758 INFO Get RR List Success
+2021-11-18 10:55:17.1758 INFO Get Product Type Master List Success
+2021-11-18 10:55:17.1758 INFO Get User Success :sonasati_dis
+2021-11-18 10:55:28.1681 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:55:28.1741 INFO Get RR List Success
+2021-11-18 10:55:28.1741 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 10:55:28.2077 INFO Get RR List Success
+2021-11-18 10:55:28.2077 INFO Get Product Type Master List Success
+2021-11-18 10:55:28.2193 INFO Get User Success :sonasati_dis
+2021-11-18 10:55:33.8645 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:55:35.6582 INFO Get RR List Success
+2021-11-18 10:55:35.6582 INFO Get Product Type Master List Success
+2021-11-18 10:55:35.6582 INFO Get User Success :sonasati_dis
+2021-11-18 10:58:58.9215 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 10:58:58.9215 INFO Get RR List Success
+2021-11-18 10:58:58.9394 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 10:58:58.9624 INFO Get RR List Success
+2021-11-18 10:58:58.9624 INFO Get Product Type Master List Success
+2021-11-18 10:58:58.9685 INFO Get User Success :sonasati_dis
+2021-11-18 11:14:16.8387 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:14:18.6242 INFO Get RR List Success
+2021-11-18 11:14:18.6242 INFO Get Product Type Master List Success
+2021-11-18 11:14:18.6242 INFO Get User Success :sonasati_dis
+2021-11-18 11:14:26.8019 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:14:26.8019 INFO Get RR List Success
+2021-11-18 11:14:26.8121 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 11:14:26.8343 INFO Get RR List Success
+2021-11-18 11:14:26.8343 INFO Get Product Type Master List Success
+2021-11-18 11:14:26.8343 INFO Get User Success :sonasati_dis
+2021-11-18 11:14:35.0391 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:14:36.7653 INFO Get RR List Success
+2021-11-18 11:14:36.7653 INFO Get Product Type Master List Success
+2021-11-18 11:14:36.7653 INFO Get User Success :sonasati_dis
+2021-11-18 11:14:40.6808 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:14:40.6878 INFO Get RR List Success
+2021-11-18 11:14:40.6878 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 11:14:40.7117 INFO Get RR List Success
+2021-11-18 11:14:40.7117 INFO Get Product Type Master List Success
+2021-11-18 11:14:40.7176 INFO Get User Success :sonasati_dis
+2021-11-18 11:14:53.2237 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:14:54.7538 INFO Get RR List Success
+2021-11-18 11:14:54.7538 INFO Get Product Type Master List Success
+2021-11-18 11:14:54.7538 INFO Get User Success :sonasati_dis
+2021-11-18 11:15:04.4773 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:15:04.4843 INFO Get RR List Success
+2021-11-18 11:15:04.4843 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 11:15:04.5022 INFO Get RR List Success
+2021-11-18 11:15:04.5022 INFO Get Product Type Master List Success
+2021-11-18 11:15:04.5022 INFO Get User Success :sonasati_dis
+2021-11-18 11:18:00.4875 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:18:02.0303 INFO Get RR List Success
+2021-11-18 11:18:02.0303 INFO Get Product Type Master List Success
+2021-11-18 11:18:02.0303 INFO Get User Success :sonasati_dis
+2021-11-18 11:18:22.0234 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 11:18:22.0304 INFO Get RR List Success
+2021-11-18 11:18:22.0304 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 11:18:22.0538 INFO Get RR List Success
+2021-11-18 11:18:22.0538 INFO Get Product Type Master List Success
+2021-11-18 11:18:22.0644 INFO Get User Success :sonasati_dis
+2021-11-18 11:20:26.0758 INFO Get User Success :44-Administrator
+2021-11-18 11:20:26.1101 INFO Get User Success :44-Administrator
+2021-11-18 11:20:26.1360 INFO Get Product Type Master List Success
+2021-11-18 11:20:26.1410 INFO Get User Success :Admin
+2021-11-18 11:20:32.7864 INFO Get User Success :44-Administrator
+2021-11-18 11:20:34.3103 INFO Get Users List Success
+2021-11-18 11:20:34.3103 INFO GetFinacListValues Success
+2021-11-18 11:20:34.3103 INFO Get Product Type Master List Success
+2021-11-18 11:20:34.3103 INFO Get User Success :Admin
+2021-11-18 11:20:41.8754 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 11:20:57.2804 INFO GetFinacListValues Success
+2021-11-18 11:26:58.7151 INFO Get Existing data Fail :rawmaterial_receipt
+2021-11-18 11:27:20.9203 INFO GetFinacListValues Success
+2021-11-18 11:27:39.0568 INFO Get Existing data Fail :rmreceipt_storage
+2021-11-18 11:27:40.1829 INFO GetFinacListValues Success
+2021-11-18 11:27:44.2863 INFO Get Existing data Fail :rawmaterial_fermenter
+2021-11-18 11:27:44.5414 INFO GetFinacListValues Success
+2021-11-18 11:27:45.5976 INFO Get Existing data Fail :fermenter_setup
+2021-11-18 11:27:45.8389 INFO GetFinacListValues Success
+2021-11-18 11:27:46.3037 INFO Get Existing data Fail :distillation
+2021-11-18 11:27:46.5912 INFO GetFinacListValues Success
+2021-11-18 11:27:46.9516 INFO Get Existing data Fail :distillation_tostore
+2021-11-18 11:27:47.1619 INFO GetFinacListValues Success
+2021-11-18 11:27:47.5771 INFO Get Existing data Fail :fermenter_receiver
+2021-11-18 11:27:47.7928 INFO GetFinacListValues Success
+2021-11-18 11:27:48.2216 INFO Get Existing data Fail :fermenter_receiver_input
+2021-11-18 11:27:48.4318 INFO GetFinacListValues Success
+2021-11-18 11:27:49.1010 INFO Get Existing data Fail :fermenter_receiver_output
+2021-11-18 11:27:49.5354 INFO GetFinacListValues Success
+2021-11-18 11:27:50.0384 INFO Get Existing data Fail :receiver_storage_receipt
+2021-11-18 11:27:50.3256 INFO GetFinacListValues Success
+2021-11-18 11:27:51.0228 INFO Get Existing data Fail :receiver_storage_receiptvat
+2021-11-18 11:27:51.2425 INFO GetFinacListValues Success
+2021-11-18 11:27:51.7111 INFO Get Existing data Fail :receiver_storage_transfer
+2021-11-18 11:27:51.9272 INFO GetFinacListValues Success
+2021-11-18 11:27:52.4328 INFO Get Existing data Fail :storage_dispatch
+2021-11-18 11:27:52.6808 INFO GetFinacListValues Success
+2021-11-18 11:27:53.2345 INFO Get Existing data Fail :dailydispatchclosure
+2021-11-18 11:27:53.4973 INFO GetFinacListValues Success
+2021-11-18 11:27:54.1806 INFO Get Existing data Fail :vat_transfer
+2021-11-18 11:27:54.4256 INFO GetFinacListValues Success
+2021-11-18 11:27:54.8989 INFO Get Existing data Fail :rawmaterial_wastage
+2021-11-18 11:27:55.1562 INFO GetFinacListValues Success
+2021-11-18 11:27:55.5699 INFO Get Existing data Fail :molasses_indent
+2021-11-18 11:27:56.0151 INFO GetFinacListValues Success
+2021-11-18 11:27:56.4710 INFO Get Existing data Fail :molasses_prov_prod
+2021-11-18 11:27:56.7036 INFO GetFinacListValues Success
+2021-11-18 11:27:57.3856 INFO Get Existing data Success :molasses_allotment_request
+2021-11-18 11:27:57.5998 INFO GetFinacListValues Success
+2021-11-18 11:27:58.7364 INFO Get Existing data Fail :noc
+2021-11-18 11:27:59.2238 INFO GetFinacListValues Success
+2021-11-18 11:27:59.7139 INFO Get Existing data Fail :noc_depotdetail
+2021-11-18 11:28:00.0259 INFO GetFinacListValues Success
+2021-11-18 11:28:00.9527 INFO Get Existing data Fail :release_request
+2021-11-18 11:28:01.2951 INFO GetFinacListValues Success
+2021-11-18 11:28:01.8293 INFO Get Existing data Fail :request_for_pass
+2021-11-18 11:28:02.0794 INFO GetFinacListValues Success
+2021-11-18 11:28:02.5837 INFO Get Existing data Fail :pass
+2021-11-18 11:28:02.8278 INFO GetFinacListValues Success
+2021-11-18 11:28:03.7324 INFO Get Existing data Fail :openingbalance
+2021-11-18 11:28:03.9408 INFO GetFinacListValues Success
+2021-11-18 11:28:04.6665 INFO Get Existing data Fail :vat_master
+2021-11-18 11:28:04.9126 INFO GetFinacListValues Success
+2021-11-18 11:28:05.3619 INFO Get Existing data Fail :eascm_docs
+2021-11-18 12:04:10.3177 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:04:10.4227 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:04:10.5263 INFO Get Product Type Master List Success
+2021-11-18 12:04:10.5382 INFO Get User Success :sonasati_dis
+2021-11-18 12:04:19.3676 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:04:21.5771 INFO Get Product Type Master List Success
+2021-11-18 12:04:21.5771 INFO Get User Success :sonasati_dis
+2021-11-18 12:04:25.4138 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:04:27.2485 INFO Get Product Type Master List Success
+2021-11-18 12:04:27.2485 INFO Get User Success :sonasati_dis
+2021-11-18 12:04:29.9454 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:04:36.3166 INFO Get Product Type Master List Success
+2021-11-18 12:04:36.3166 INFO Get User Success :sonasati_dis
+2021-11-18 12:05:06.0788 INFO Get MaxID Success :openingbalance
+2021-11-18 12:05:06.1378 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:05:07.5088 INFO Get Product Type Master List Success
+2021-11-18 12:05:07.5157 INFO Get User Success :sonasati_dis
+2021-11-18 12:05:10.0932 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 12:05:11.7333 INFO Get Product Type Master List Success
+2021-11-18 12:05:11.7333 INFO Get User Success :sonasati_dis
+2021-11-18 13:40:56.3361 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:40:56.4410 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:40:56.5149 INFO Get Product Type Master List Success
+2021-11-18 13:40:56.5149 INFO Get User Success :sonasati_dis
+2021-11-18 13:41:12.1489 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:41:16.5589 INFO Get RR List Success
+2021-11-18 13:41:16.6063 INFO Get Product Type Master List Success
+2021-11-18 13:41:16.6133 INFO Get User Success :sonasati_dis
+2021-11-18 13:43:43.8811 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:43:44.1665 INFO Get Indent List Success
+2021-11-18 13:43:44.1854 INFO Get Product Type Master List Success
+2021-11-18 13:43:44.2014 INFO Get User Success :sonasati_dis
+2021-11-18 13:43:49.2156 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:43:49.2306 INFO Get Allotment List Success
+2021-11-18 13:43:49.7418 INFO Get Product Type Master List Success
+2021-11-18 13:43:49.7498 INFO Get User Success :sonasati_dis
+2021-11-18 13:47:11.4230 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:47:11.4230 INFO Get Party Master List Success
+2021-11-18 13:47:11.4230 INFO Get Indent List Success
+2021-11-18 13:47:11.4403 INFO Get Allotment Details Success
+2021-11-18 13:47:11.9385 INFO Get Indent List Success
+2021-11-18 13:47:12.6613 INFO Get Party Master List Success
+2021-11-18 13:47:13.4546 INFO Check WorkFlow List Success
+2021-11-18 13:47:13.6631 INFO Get Product Type Master List Success
+2021-11-18 13:47:13.6701 INFO Get User Success :sonasati_dis
+2021-11-18 13:47:30.3498 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:47:30.3592 INFO Get Allotment List Success
+2021-11-18 13:47:30.8226 INFO Get Product Type Master List Success
+2021-11-18 13:47:30.8286 INFO Get User Success :sonasati_dis
+2021-11-18 13:47:35.2145 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:47:35.2205 INFO Get Party Master List Success
+2021-11-18 13:47:35.2205 INFO Get Indent List Success
+2021-11-18 13:47:35.2205 INFO Get Product Type Master List Success
+2021-11-18 13:47:35.2205 INFO Get User Success :sonasati_dis
+2021-11-18 13:47:42.1319 INFO Get Indent List Success
+2021-11-18 13:47:44.1199 INFO Get Party Master List Success
+2021-11-18 13:47:51.1053 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:47:51.3637 INFO Get Indent List Success
+2021-11-18 13:47:51.3637 INFO Get Product Type Master List Success
+2021-11-18 13:47:51.3728 INFO Get User Success :sonasati_dis
+2021-11-18 13:47:59.0786 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:47:59.0786 INFO Get Allotment List Success
+2021-11-18 13:47:59.7089 INFO Get Product Type Master List Success
+2021-11-18 13:47:59.7169 INFO Get User Success :sonasati_dis
+2021-11-18 13:48:44.5280 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:48:44.5310 INFO Get Party Master List Success
+2021-11-18 13:48:44.5310 INFO Get Indent List Success
+2021-11-18 13:48:44.5310 INFO Get Product Type Master List Success
+2021-11-18 13:48:44.5310 INFO Get User Success :sonasati_dis
+2021-11-18 13:48:50.4415 INFO Get Indent List Success
+2021-11-18 13:48:52.3820 INFO Get Party Master List Success
+2021-11-18 13:49:29.8713 INFO Insert Allotment Success :-SOD
+2021-11-18 13:49:31.1959 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:49:31.2049 INFO Get Allotment List Success
+2021-11-18 13:49:31.7322 INFO Get Product Type Master List Success
+2021-11-18 13:49:31.7322 INFO Get User Success :sonasati_dis
+2021-11-18 13:49:56.5451 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:49:56.5821 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:49:56.6359 INFO Get Product Type Master List Success
+2021-11-18 13:49:56.6399 INFO Get User Success :hodyco
+2021-11-18 13:50:15.6177 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:50:15.8846 INFO Check WorkFlow List Success
+2021-11-18 13:50:15.9300 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:50:15.9300 INFO Check WorkFlow List Success
+2021-11-18 13:50:15.9410 INFO Get Allotment List Success
+2021-11-18 13:50:15.9629 INFO Get Product Type Master List Success
+2021-11-18 13:50:15.9669 INFO Get User Success :hodyco
+2021-11-18 13:50:22.7057 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:50:22.7057 INFO Get Party Master List Success
+2021-11-18 13:50:22.7057 INFO Get Indent List Success
+2021-11-18 13:50:22.7057 INFO Get Allotment Details Success
+2021-11-18 13:50:24.1497 INFO Get Indent List Success
+2021-11-18 13:50:24.9277 INFO Get Party Master List Success
+2021-11-18 13:50:25.8642 INFO Check WorkFlow List Success
+2021-11-18 13:50:26.0826 INFO Get Product Type Master List Success
+2021-11-18 13:50:26.0826 INFO Get User Success :hodyco
+2021-11-18 13:50:50.5158 INFO Allotement Approve Sucess:301
+2021-11-18 13:50:50.5370 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:50:50.5370 INFO Check WorkFlow List Success
+2021-11-18 13:50:50.5542 INFO Get Allotment List Success
+2021-11-18 13:50:50.5542 INFO Get Product Type Master List Success
+2021-11-18 13:50:50.5542 INFO Get User Success :hodyco
+2021-11-18 13:51:02.6812 INFO Get User Success :101-Commissioner
+2021-11-18 13:51:02.7250 INFO Get User Success :101-Commissioner
+2021-11-18 13:51:02.7390 INFO Get Product Type Master List Success
+2021-11-18 13:51:02.7390 INFO Get User Success :com
+2021-11-18 13:51:07.8139 INFO Get User Success :101-Commissioner
+2021-11-18 13:51:08.0645 INFO Check WorkFlow List Success
+2021-11-18 13:51:08.0894 INFO Get User Success :101-Commissioner
+2021-11-18 13:51:08.0924 INFO Check WorkFlow List Success
+2021-11-18 13:51:08.0924 INFO Get Allotment List Success
+2021-11-18 13:51:08.1084 INFO Get Product Type Master List Success
+2021-11-18 13:51:08.1084 INFO Get User Success :com
+2021-11-18 13:51:14.4628 INFO Get User Success :101-Commissioner
+2021-11-18 13:51:14.4628 INFO Get Party Master List Success
+2021-11-18 13:51:14.4689 INFO Get Indent List Success
+2021-11-18 13:51:14.4689 INFO Get Allotment Details Success
+2021-11-18 13:51:15.5340 INFO Get Indent List Success
+2021-11-18 13:51:16.2169 INFO Get Party Master List Success
+2021-11-18 13:51:17.0818 INFO Check WorkFlow List Success
+2021-11-18 13:51:17.3049 INFO Get Product Type Master List Success
+2021-11-18 13:51:17.3049 INFO Get User Success :com
+2021-11-18 13:51:26.1879 INFO Allotement Approve Sucess:301
+2021-11-18 13:51:26.2086 INFO Get User Success :101-Commissioner
+2021-11-18 13:51:26.2086 INFO Check WorkFlow List Success
+2021-11-18 13:51:26.2186 INFO Get Allotment List Success
+2021-11-18 13:51:26.2186 INFO Get Product Type Master List Success
+2021-11-18 13:51:26.2186 INFO Get User Success :com
+2021-11-18 13:51:39.9951 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:51:40.0300 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:51:40.0300 INFO Get Product Type Master List Success
+2021-11-18 13:51:40.0457 INFO Get User Success :sonasati_dis
+2021-11-18 13:51:43.4581 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:51:45.0906 INFO Get Product Type Master List Success
+2021-11-18 13:51:45.0976 INFO Get User Success :sonasati_dis
+2021-11-18 13:51:49.2353 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 13:52:43.5610 INFO Get RR List Success
+2021-11-18 13:52:43.5610 INFO Get Product Type Master List Success
+2021-11-18 13:52:43.5769 INFO Get User Success :sonasati_dis
+2021-11-18 13:53:10.1038 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:53:10.1467 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:53:10.1627 INFO Get Product Type Master List Success
+2021-11-18 13:53:10.1627 INFO Get User Success :hodyco
+2021-11-18 13:53:14.2140 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:53:14.4602 INFO Check WorkFlow List Success
+2021-11-18 13:53:14.4832 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:53:14.4832 INFO Check WorkFlow List Success
+2021-11-18 13:53:14.4832 INFO Get Allotment List Success
+2021-11-18 13:53:14.4832 INFO Get Product Type Master List Success
+2021-11-18 13:53:14.4992 INFO Get User Success :hodyco
+2021-11-18 13:53:18.3952 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:53:18.3952 INFO Check WorkFlow List Success
+2021-11-18 13:53:18.4058 INFO Get Allotment List Success
+2021-11-18 13:53:18.4252 INFO Get Product Type Master List Success
+2021-11-18 13:53:18.4252 INFO Get User Success :hodyco
+2021-11-18 13:58:12.4673 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:58:12.4877 INFO Allotement Issued Sucess:301
+2021-11-18 13:58:12.5310 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 13:58:12.5310 INFO Check WorkFlow List Success
+2021-11-18 13:58:12.5310 INFO Get Allotment List Success
+2021-11-18 13:58:12.5617 INFO Get Product Type Master List Success
+2021-11-18 13:58:12.5617 INFO Get User Success :hodyco
+2021-11-18 14:25:47.0866 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:25:47.1968 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:25:47.2705 INFO Get Product Type Master List Success
+2021-11-18 14:25:47.2807 INFO Get User Success :sonasati_dis
+2021-11-18 14:26:36.6464 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:26:36.9170 INFO Get Indent List Success
+2021-11-18 14:26:36.9631 INFO Get Product Type Master List Success
+2021-11-18 14:26:36.9695 INFO Get User Success :sonasati_dis
+2021-11-18 14:26:42.6615 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:26:42.6761 INFO Get Allotment List Success
+2021-11-18 14:26:43.4582 INFO Get Product Type Master List Success
+2021-11-18 14:26:43.4670 INFO Get User Success :sonasati_dis
+2021-11-18 14:26:52.4616 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:26:52.4672 INFO Get Party Master List Success
+2021-11-18 14:26:52.4672 INFO Get Indent List Success
+2021-11-18 14:26:52.4672 INFO Get Product Type Master List Success
+2021-11-18 14:26:52.4672 INFO Get User Success :sonasati_dis
+2021-11-18 14:27:00.5682 INFO Get Indent List Success
+2021-11-18 14:27:02.4614 INFO Get Party Master List Success
+2021-11-18 14:27:34.8220 INFO Insert Allotment Success :-SOD
+2021-11-18 14:27:36.1965 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:27:36.2064 INFO Get Allotment List Success
+2021-11-18 14:27:36.6756 INFO Get Product Type Master List Success
+2021-11-18 14:27:36.6756 INFO Get User Success :sonasati_dis
+2021-11-18 14:27:50.3115 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:27:50.3115 INFO Get Party Master List Success
+2021-11-18 14:27:50.3115 INFO Get Indent List Success
+2021-11-18 14:27:50.3115 INFO Get Allotment Details Success
+2021-11-18 14:27:50.8260 INFO Get Indent List Success
+2021-11-18 14:27:51.3927 INFO Get Party Master List Success
+2021-11-18 14:27:52.0728 INFO Get Product Type Master List Success
+2021-11-18 14:27:52.0787 INFO Get User Success :sonasati_dis
+2021-11-18 14:27:55.1390 INFO Update Allotment Success :302-SOD
+2021-11-18 14:27:56.9494 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:27:56.9614 INFO Get Allotment List Success
+2021-11-18 14:27:57.4508 INFO Get Product Type Master List Success
+2021-11-18 14:27:57.4577 INFO Get User Success :sonasati_dis
+2021-11-18 14:28:09.6325 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:09.6694 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:09.6955 INFO Get Product Type Master List Success
+2021-11-18 14:28:09.6955 INFO Get User Success :hodyco
+2021-11-18 14:28:15.3285 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:17.0451 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:18.1905 INFO Check WorkFlow List Success
+2021-11-18 14:28:18.6513 INFO Get Allotment List Success
+2021-11-18 14:28:18.8999 INFO Get Product Type Master List Success
+2021-11-18 14:28:18.9059 INFO Get User Success :hodyco
+2021-11-18 14:28:25.8683 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:26.1507 INFO Check WorkFlow List Success
+2021-11-18 14:28:26.1960 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:26.1960 INFO Check WorkFlow List Success
+2021-11-18 14:28:26.2063 INFO Get Allotment List Success
+2021-11-18 14:28:26.2253 INFO Get Product Type Master List Success
+2021-11-18 14:28:26.2253 INFO Get User Success :hodyco
+2021-11-18 14:28:30.1258 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:28:30.1258 INFO Get Party Master List Success
+2021-11-18 14:28:30.1258 INFO Get Indent List Success
+2021-11-18 14:28:30.1258 INFO Get Allotment Details Success
+2021-11-18 14:28:31.4712 INFO Get Indent List Success
+2021-11-18 14:28:32.1804 INFO Get Party Master List Success
+2021-11-18 14:28:33.0328 INFO Check WorkFlow List Success
+2021-11-18 14:28:33.2409 INFO Get Product Type Master List Success
+2021-11-18 14:28:33.2409 INFO Get User Success :hodyco
+2021-11-18 14:29:01.0573 INFO Allotement Approve Sucess:302
+2021-11-18 14:29:01.0943 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:29:01.0943 INFO Check WorkFlow List Success
+2021-11-18 14:29:01.1083 INFO Get Allotment List Success
+2021-11-18 14:29:01.1083 INFO Get Product Type Master List Success
+2021-11-18 14:29:01.1083 INFO Get User Success :hodyco
+2021-11-18 14:29:10.8766 INFO Get User Success :101-Commissioner
+2021-11-18 14:29:10.9194 INFO Get User Success :101-Commissioner
+2021-11-18 14:29:10.9494 INFO Get Product Type Master List Success
+2021-11-18 14:29:10.9534 INFO Get User Success :com
+2021-11-18 14:29:17.6561 INFO Get User Success :101-Commissioner
+2021-11-18 14:29:17.9138 INFO Check WorkFlow List Success
+2021-11-18 14:29:17.9468 INFO Get User Success :101-Commissioner
+2021-11-18 14:29:17.9468 INFO Check WorkFlow List Success
+2021-11-18 14:29:17.9607 INFO Get Allotment List Success
+2021-11-18 14:29:17.9607 INFO Get Product Type Master List Success
+2021-11-18 14:29:17.9667 INFO Get User Success :com
+2021-11-18 14:29:20.8014 INFO Get User Success :101-Commissioner
+2021-11-18 14:29:20.8014 INFO Get Party Master List Success
+2021-11-18 14:29:20.8014 INFO Get Indent List Success
+2021-11-18 14:29:20.8123 INFO Get Allotment Details Success
+2021-11-18 14:29:23.8215 INFO Get Indent List Success
+2021-11-18 14:29:24.5243 INFO Get Party Master List Success
+2021-11-18 14:29:25.4486 INFO Check WorkFlow List Success
+2021-11-18 14:29:25.6784 INFO Get Product Type Master List Success
+2021-11-18 14:29:25.6784 INFO Get User Success :com
+2021-11-18 14:29:36.9356 INFO Allotement Approve Sucess:302
+2021-11-18 14:29:36.9662 INFO Get User Success :101-Commissioner
+2021-11-18 14:29:36.9672 INFO Check WorkFlow List Success
+2021-11-18 14:29:36.9672 INFO Get Allotment List Success
+2021-11-18 14:29:36.9672 INFO Get Product Type Master List Success
+2021-11-18 14:29:36.9672 INFO Get User Success :com
+2021-11-18 14:30:00.9773 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:30:01.0203 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:30:01.0371 INFO Get Product Type Master List Success
+2021-11-18 14:30:01.0371 INFO Get User Success :hodyco
+2021-11-18 14:30:05.5905 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:30:05.8359 INFO Check WorkFlow List Success
+2021-11-18 14:30:05.8598 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:30:05.8598 INFO Check WorkFlow List Success
+2021-11-18 14:30:05.8758 INFO Get Allotment List Success
+2021-11-18 14:30:05.8758 INFO Get Product Type Master List Success
+2021-11-18 14:30:05.8758 INFO Get User Success :hodyco
+2021-11-18 14:30:09.0191 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:30:09.0191 INFO Check WorkFlow List Success
+2021-11-18 14:30:09.0191 INFO Get Allotment List Success
+2021-11-18 14:30:09.0480 INFO Get Product Type Master List Success
+2021-11-18 14:30:09.0480 INFO Get User Success :hodyco
+2021-11-18 14:30:12.3043 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:32:07.4370 INFO Allotement Issued Sucess:302
+2021-11-18 14:32:21.2455 INFO Get User Success :100-Deputy Commissioner
+2021-11-18 14:32:21.2455 INFO Check WorkFlow List Success
+2021-11-18 14:32:21.2595 INFO Get Allotment List Success
+2021-11-18 14:32:21.2884 INFO Get Product Type Master List Success
+2021-11-18 14:32:21.2974 INFO Get User Success :hodyco
+2021-11-18 14:32:46.6884 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:32:46.7233 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:32:46.7233 INFO Get Product Type Master List Success
+2021-11-18 14:32:46.7363 INFO Get User Success :sonasati_dis
+2021-11-18 14:32:51.3798 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:32:51.6367 INFO Get Indent List Success
+2021-11-18 14:32:51.6367 INFO Get Product Type Master List Success
+2021-11-18 14:32:51.6436 INFO Get User Success :sonasati_dis
+2021-11-18 14:32:53.7588 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:32:54.8660 INFO Get RR List Success
+2021-11-18 14:32:54.8863 INFO Get Product Type Master List Success
+2021-11-18 14:32:54.8924 INFO Get User Success :sonasati_dis
+2021-11-18 14:35:00.2695 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:35:01.3328 INFO Get RR List Success
+2021-11-18 14:35:01.3328 INFO Get Product Type Master List Success
+2021-11-18 14:35:01.3430 INFO Get User Success :sonasati_dis
+2021-11-18 14:37:56.5865 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:37:57.9014 INFO Get RR List Success
+2021-11-18 14:37:57.9044 INFO Get Product Type Master List Success
+2021-11-18 14:37:57.9044 INFO Get User Success :sonasati_dis
+2021-11-18 14:48:29.4213 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:48:31.0967 INFO Get RR List Success
+2021-11-18 14:48:31.0967 INFO Get Product Type Master List Success
+2021-11-18 14:48:31.0967 INFO Get User Success :sonasati_dis
+2021-11-18 14:53:17.7491 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:53:17.7491 INFO Get RR List Success
+2021-11-18 14:53:17.7491 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 14:53:17.7842 INFO Get RR List Success
+2021-11-18 14:53:17.7842 INFO Get Product Type Master List Success
+2021-11-18 14:53:17.7842 INFO Get User Success :sonasati_dis
+2021-11-18 14:53:24.8429 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 14:53:26.3050 INFO Get RR List Success
+2021-11-18 14:53:26.3050 INFO Get Product Type Master List Success
+2021-11-18 14:53:26.3127 INFO Get User Success :sonasati_dis
+2021-11-18 15:26:54.7308 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 15:49:30.5743 INFO Get RR List Success
+2021-11-18 15:49:30.5763 INFO Get Product Type Master List Success
+2021-11-18 15:49:30.5763 INFO Get User Success :sonasati_dis
+2021-11-18 15:49:38.4925 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 15:49:38.4994 INFO Get RR List Success
+2021-11-18 15:49:38.4994 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 15:49:38.5244 INFO Get RR List Success
+2021-11-18 15:49:38.5304 INFO Get Product Type Master List Success
+2021-11-18 15:49:38.5304 INFO Get User Success :sonasati_dis
+2021-11-18 15:49:47.8135 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 15:49:49.2413 INFO Get RR List Success
+2021-11-18 15:49:49.2413 INFO Get Product Type Master List Success
+2021-11-18 15:49:49.2489 INFO Get User Success :sonasati_dis
+2021-11-18 15:50:50.6739 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 15:51:10.2459 INFO Get RR List Success
+2021-11-18 15:51:10.2459 INFO Get Product Type Master List Success
+2021-11-18 15:51:10.2549 INFO Get User Success :sonasati_dis
+2021-11-18 15:57:08.9450 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:00:35.7407 INFO Get RR List Success
+2021-11-18 16:00:35.7407 INFO Get Product Type Master List Success
+2021-11-18 16:00:35.7597 INFO Get User Success :sonasati_dis
+2021-11-18 16:14:11.4641 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:14:11.4745 INFO Get RR List Success
+2021-11-18 16:14:11.4745 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-18 16:14:11.4995 INFO Get RR List Success
+2021-11-18 16:14:11.4995 INFO Get Product Type Master List Success
+2021-11-18 16:14:11.4995 INFO Get User Success :sonasati_dis
+2021-11-18 16:14:50.0323 INFO Module Insertion Sucess:Req/GO/SOD/RR/2020-21/6-SOD
+2021-11-18 16:14:50.0551 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:14:51.5338 INFO Get RR List Success
+2021-11-18 16:14:51.5338 INFO Get Product Type Master List Success
+2021-11-18 16:14:51.5338 INFO Get User Success :sonasati_dis
+2021-11-18 16:15:00.5633 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:15:00.5633 INFO Get RR List Success
+2021-11-18 16:15:00.5633 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/7
+2021-11-18 16:15:00.5935 INFO Get RR List Success
+2021-11-18 16:15:00.5935 INFO Get Product Type Master List Success
+2021-11-18 16:15:00.5935 INFO Get User Success :sonasati_dis
+2021-11-18 16:15:23.4704 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:15:24.7179 INFO Get RR List Success
+2021-11-18 16:15:25.2229 INFO Get Product Type Master List Success
+2021-11-18 16:15:25.2229 INFO Get User Success :sonasati_dis
+2021-11-18 16:15:45.8948 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:15:45.9383 INFO Get RR Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='166' and doc_type_code='RRL' order by eascm_docs_id
+2021-11-18 16:15:45.9569 INFO Get RR List Success
+2021-11-18 16:15:47.4525 INFO Get Product Type Master List Success
+2021-11-18 16:15:47.4525 INFO Get User Success :sonasati_dis
+2021-11-18 16:16:00.1303 INFO Get MaxID Success :Module_master
+2021-11-18 16:16:00.1712 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:16:01.8868 INFO Get RR List Success
+2021-11-18 16:16:02.4355 INFO Get Product Type Master List Success
+2021-11-18 16:16:02.4355 INFO Get User Success :sonasati_dis
+2021-11-18 16:16:13.3057 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:16:13.3256 INFO Get RR Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='166' and doc_type_code='RRL' order by eascm_docs_id
+2021-11-18 16:16:13.3527 INFO Get RR List Success
+2021-11-18 16:16:14.5498 INFO Get Product Type Master List Success
+2021-11-18 16:16:14.5498 INFO Get User Success :sonasati_dis
+2021-11-18 16:16:34.9948 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:16:35.0157 INFO Get RR Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='166' and doc_type_code='RRL' order by eascm_docs_id
+2021-11-18 16:16:35.0347 INFO Get RR List Success
+2021-11-18 16:28:46.4703 INFO Get RR Details Success
+2021-11-18 16:28:46.4903 INFO Get RR List Success
+2021-11-18 16:28:47.3270 INFO Get Product Type Master List Success
+2021-11-18 16:28:47.3270 INFO Get User Success :sonasati_dis
+2021-11-18 16:29:05.6782 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:29:07.1691 INFO Get RR List Success
+2021-11-18 16:29:07.6221 INFO Get Product Type Master List Success
+2021-11-18 16:29:07.6281 INFO Get User Success :sonasati_dis
+2021-11-18 16:29:18.8208 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:29:19.9474 INFO Get RR List Success
+2021-11-18 16:29:19.9474 INFO Get Product Type Master List Success
+2021-11-18 16:29:19.9544 INFO Get User Success :sonasati_dis
+2021-11-18 16:29:23.8450 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:29:23.8450 INFO Get RR List Success
+2021-11-18 16:29:23.8450 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/7
+2021-11-18 16:29:23.8749 INFO Get RR List Success
+2021-11-18 16:29:23.8749 INFO Get Product Type Master List Success
+2021-11-18 16:29:23.8749 INFO Get User Success :sonasati_dis
+2021-11-18 16:29:46.5375 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:29:48.1717 INFO Get RR List Success
+2021-11-18 16:29:48.1717 INFO Get Product Type Master List Success
+2021-11-18 16:29:48.1717 INFO Get User Success :sonasati_dis
+2021-11-18 16:30:00.8526 INFO Get User Success :99-Assistant Commissioner
+2021-11-18 16:30:00.8995 INFO Get User Success :99-Assistant Commissioner
+2021-11-18 16:30:00.9055 INFO Get Product Type Master List Success
+2021-11-18 16:30:00.9055 INFO Get User Success :wcedo
+2021-11-18 16:30:04.7982 INFO Get User Success :99-Assistant Commissioner
+2021-11-18 16:30:05.7502 INFO Get RR List Success
+2021-11-18 16:30:05.7741 INFO Get User Success :99-Assistant Commissioner
+2021-11-18 16:30:06.0094 INFO Get RR List Success
+2021-11-18 16:30:06.7027 INFO Get Product Type Master List Success
+2021-11-18 16:30:06.7027 INFO Get User Success :wcedo
+2021-11-18 16:31:44.0609 INFO Get User Success :134-Assistant Commissioner
+2021-11-18 16:31:44.0978 INFO Get User Success :134-Assistant Commissioner
+2021-11-18 16:31:44.0978 INFO Get Product Type Master List Success
+2021-11-18 16:31:44.0978 INFO Get User Success :goedo
+2021-11-18 16:31:46.9430 INFO Get User Success :134-Assistant Commissioner
+2021-11-18 16:31:48.0182 INFO Get RR List Success
+2021-11-18 16:31:48.0422 INFO Get User Success :134-Assistant Commissioner
+2021-11-18 16:31:48.2893 INFO Get RR List Success
+2021-11-18 16:31:48.8817 INFO Get Product Type Master List Success
+2021-11-18 16:31:48.8907 INFO Get User Success :goedo
+2021-11-18 16:34:05.1594 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:34:05.2043 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:34:05.2043 INFO Get Product Type Master List Success
+2021-11-18 16:34:05.2043 INFO Get User Success :smedo
+2021-11-18 16:34:07.8560 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:34:09.1332 INFO Get RR List Success
+2021-11-18 16:34:09.1577 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:34:09.3932 INFO Get RR List Success
+2021-11-18 16:34:10.1040 INFO Get Product Type Master List Success
+2021-11-18 16:34:10.1100 INFO Get User Success :smedo
+2021-11-18 16:34:16.2772 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:34:17.6617 INFO Get RR Details Success
+2021-11-18 16:34:17.6818 INFO Get RR List Success
+2021-11-18 16:34:17.9552 INFO Get Product Type Master List Success
+2021-11-18 16:34:17.9552 INFO Get User Success :smedo
+2021-11-18 16:34:45.9542 INFO RR Approved by Assistant Commissioner  Sucess:166-
+2021-11-18 16:34:45.9931 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:34:47.8360 INFO Get RR List Success
+2021-11-18 16:34:51.1515 INFO Get Product Type Master List Success
+2021-11-18 16:34:51.1555 INFO Get User Success :smedo
+2021-11-18 16:35:07.9318 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:35:07.9906 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:35:08.0355 INFO Get Product Type Master List Success
+2021-11-18 16:35:08.0355 INFO Get User Success :sonasati_dis
+2021-11-18 16:35:11.9438 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:35:13.0161 INFO Get RR List Success
+2021-11-18 16:35:13.0161 INFO Get Product Type Master List Success
+2021-11-18 16:35:13.0161 INFO Get User Success :sonasati_dis
+2021-11-18 16:35:30.0129 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:35:31.1596 INFO Get RR List Success
+2021-11-18 16:35:31.6265 INFO Get Product Type Master List Success
+2021-11-18 16:35:31.6265 INFO Get User Success :sonasati_dis
+2021-11-18 16:35:40.3203 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:35:41.6849 INFO Get RR Details Success
+2021-11-18 16:35:41.7026 INFO Get RR List Success
+2021-11-18 16:35:42.3867 INFO Get Product Type Master List Success
+2021-11-18 16:35:42.3927 INFO Get User Success :sonasati_dis
+2021-11-18 16:36:01.7140 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:36:02.9438 INFO Get RR List Success
+2021-11-18 16:36:03.5357 INFO Get Product Type Master List Success
+2021-11-18 16:36:03.5357 INFO Get User Success :sonasati_dis
+2021-11-18 16:36:16.3693 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:36:16.4172 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:36:16.4201 INFO Get Product Type Master List Success
+2021-11-18 16:36:16.4201 INFO Get User Success :smedo
+2021-11-18 16:36:19.3914 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:36:20.4040 INFO Get RR List Success
+2021-11-18 16:36:20.4272 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:36:20.6563 INFO Get RR List Success
+2021-11-18 16:36:21.6635 INFO Get Product Type Master List Success
+2021-11-18 16:36:21.6635 INFO Get User Success :smedo
+2021-11-18 16:41:17.0417 INFO RR Issued by Assistant Commissioner  Sucess:166-SOD
+2021-11-18 16:41:52.7058 INFO Get RR List Success
+2021-11-18 16:41:54.5310 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:41:55.2169 INFO Get RR List Success
+2021-11-18 16:41:57.8648 INFO Get Product Type Master List Success
+2021-11-18 16:41:57.8737 INFO Get User Success :smedo
+2021-11-18 16:42:09.6310 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:42:11.0753 INFO Get RR Details Success
+2021-11-18 16:42:11.1046 INFO Get RR List Success
+2021-11-18 16:42:11.6487 INFO Get Product Type Master List Success
+2021-11-18 16:42:11.6487 INFO Get User Success :smedo
+2021-11-18 16:42:36.0766 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:42:36.1191 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:42:36.1431 INFO Get Product Type Master List Success
+2021-11-18 16:42:36.1431 INFO Get User Success :sonasati_dis
+2021-11-18 16:42:39.9927 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:42:41.0948 INFO Get RR List Success
+2021-11-18 16:42:41.0948 INFO Get Product Type Master List Success
+2021-11-18 16:42:41.0948 INFO Get User Success :sonasati_dis
+2021-11-18 16:43:40.4716 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:43:40.4716 INFO Get RR List Success
+2021-11-18 16:43:40.4716 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/7
+2021-11-18 16:43:40.5033 INFO Get RR List Success
+2021-11-18 16:43:40.5033 INFO Get Product Type Master List Success
+2021-11-18 16:43:40.5033 INFO Get User Success :sonasati_dis
+2021-11-18 16:44:04.5730 INFO Module Insertion Sucess:Req/GO/SOD/RR/2020-21/7-SOD
+2021-11-18 16:44:04.5932 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:44:05.4457 INFO Get RR List Success
+2021-11-18 16:44:05.4457 INFO Get Product Type Master List Success
+2021-11-18 16:44:05.4546 INFO Get User Success :sonasati_dis
+2021-11-18 16:44:23.3485 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:44:23.3993 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:44:23.3993 INFO Get Product Type Master List Success
+2021-11-18 16:44:23.4073 INFO Get User Success :smedo
+2021-11-18 16:44:27.3201 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:44:28.4475 INFO Get RR List Success
+2021-11-18 16:44:28.4724 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:44:28.7131 INFO Get RR List Success
+2021-11-18 16:44:29.3609 INFO Get Product Type Master List Success
+2021-11-18 16:44:29.3609 INFO Get User Success :smedo
+2021-11-18 16:44:32.2598 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:44:39.0325 INFO Get RR Details Success
+2021-11-18 16:44:39.0524 INFO Get RR List Success
+2021-11-18 16:44:39.2572 INFO Get Product Type Master List Success
+2021-11-18 16:44:39.2572 INFO Get User Success :smedo
+2021-11-18 16:45:34.1973 INFO RR Rejected by Assistant Commissioner  Sucess:167-
+2021-11-18 16:45:37.1960 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 16:45:37.9571 INFO Get RR List Success
+2021-11-18 16:45:39.7085 INFO Get Product Type Master List Success
+2021-11-18 16:45:39.7195 INFO Get User Success :smedo
+2021-11-18 16:45:50.1030 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:45:50.1440 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:45:50.1440 INFO Get Product Type Master List Success
+2021-11-18 16:45:50.1577 INFO Get User Success :sonasati_dis
+2021-11-18 16:45:53.8815 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:45:54.9787 INFO Get RR List Success
+2021-11-18 16:45:54.9787 INFO Get Product Type Master List Success
+2021-11-18 16:45:54.9867 INFO Get User Success :sonasati_dis
+2021-11-18 16:45:57.6686 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:45:58.9159 INFO Get RR List Success
+2021-11-18 16:45:59.3862 INFO Get Product Type Master List Success
+2021-11-18 16:45:59.3942 INFO Get User Success :sonasati_dis
+2021-11-18 16:46:05.6438 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:46:07.1282 INFO Get RR Details Success
+2021-11-18 16:46:07.1469 INFO Get RR List Success
+2021-11-18 16:46:07.8267 INFO Get Product Type Master List Success
+2021-11-18 16:46:07.8267 INFO Get User Success :sonasati_dis
+2021-11-18 16:46:22.6851 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:46:24.0331 INFO Get RR List Success
+2021-11-18 16:46:24.7709 INFO Get Product Type Master List Success
+2021-11-18 16:46:24.7809 INFO Get User Success :sonasati_dis
+2021-11-18 16:46:27.0666 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:46:28.3808 INFO Get RR List Success
+2021-11-18 16:46:28.3808 INFO Get Product Type Master List Success
+2021-11-18 16:46:28.3896 INFO Get User Success :sonasati_dis
+2021-11-18 16:46:31.9978 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:46:31.9978 INFO Get RR List Success
+2021-11-18 16:46:31.9978 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 16:46:32.0266 INFO Get RR List Success
+2021-11-18 16:46:32.0266 INFO Get Product Type Master List Success
+2021-11-18 16:46:32.0345 INFO Get User Success :sonasati_dis
+2021-11-18 16:47:27.5804 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:47:27.5804 INFO Get RR List Success
+2021-11-18 16:47:27.5804 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 16:47:27.6115 INFO Get RR List Success
+2021-11-18 16:47:27.6115 INFO Get Product Type Master List Success
+2021-11-18 16:47:27.6115 INFO Get User Success :sonasati_dis
+2021-11-18 16:47:30.0714 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:47:30.0784 INFO Get RR List Success
+2021-11-18 16:47:30.0784 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 16:47:30.1035 INFO Get RR List Success
+2021-11-18 16:47:30.1035 INFO Get Product Type Master List Success
+2021-11-18 16:47:30.1125 INFO Get User Success :sonasati_dis
+2021-11-18 16:47:31.9259 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:49:15.5690 INFO Get RR List Success
+2021-11-18 16:49:15.5690 INFO Get Product Type Master List Success
+2021-11-18 16:49:15.5779 INFO Get User Success :sonasati_dis
+2021-11-18 16:49:26.7854 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 16:49:26.7854 INFO Get RR List Success
+2021-11-18 16:49:26.7854 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 16:49:26.8180 INFO Get RR List Success
+2021-11-18 16:49:26.8180 INFO Get Product Type Master List Success
+2021-11-18 16:49:26.8180 INFO Get User Success :sonasati_dis
+2021-11-18 16:50:05.7641 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:08:01.3317 INFO Get RR List Success
+2021-11-18 17:08:01.3626 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 17:08:02.2314 INFO Get RR List Success
+2021-11-18 17:08:02.2334 INFO Get Product Type Master List Success
+2021-11-18 17:08:02.2334 INFO Get User Success :sonasati_dis
+2021-11-18 17:08:09.2062 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:08:10.4661 INFO Get RR List Success
+2021-11-18 17:08:10.4681 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 17:08:10.7313 INFO Get RR List Success
+2021-11-18 17:08:10.7323 INFO Get Product Type Master List Success
+2021-11-18 17:08:10.7323 INFO Get User Success :sonasati_dis
+2021-11-18 17:08:35.8403 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:08:37.2663 INFO Get RR List Success
+2021-11-18 17:08:37.2663 INFO Get Product Type Master List Success
+2021-11-18 17:08:37.2663 INFO Get User Success :sonasati_dis
+2021-11-18 17:08:48.9450 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:08:50.5337 INFO Get RR List Success
+2021-11-18 17:08:50.5337 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 17:08:50.8241 INFO Get RR List Success
+2021-11-18 17:08:50.8241 INFO Get Product Type Master List Success
+2021-11-18 17:08:50.8320 INFO Get User Success :sonasati_dis
+2021-11-18 17:09:32.0952 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:09:33.4818 INFO Get RR List Success
+2021-11-18 17:09:33.4834 INFO Get Product Type Master List Success
+2021-11-18 17:09:33.4834 INFO Get User Success :sonasati_dis
+2021-11-18 17:09:43.3763 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:09:44.7623 INFO Get RR List Success
+2021-11-18 17:09:44.7643 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/8
+2021-11-18 17:09:45.2955 INFO Get RR List Success
+2021-11-18 17:09:45.2955 INFO Get Product Type Master List Success
+2021-11-18 17:09:45.2955 INFO Get User Success :sonasati_dis
+2021-11-18 17:10:15.6417 INFO Module Insertion Sucess:Req/GO/SOD/RR/2020-21/8-SOD
+2021-11-18 17:10:15.6619 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:10:15.8831 INFO Get RR List Success
+2021-11-18 17:10:15.8831 INFO Get Product Type Master List Success
+2021-11-18 17:10:15.8923 INFO Get User Success :sonasati_dis
+2021-11-18 17:10:56.0614 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:10:57.3351 INFO Get RR List Success
+2021-11-18 17:10:57.7817 INFO Get Product Type Master List Success
+2021-11-18 17:10:57.7817 INFO Get User Success :sonasati_dis
+2021-11-18 17:11:11.2409 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:11:11.2934 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:11:11.2994 INFO Get Product Type Master List Success
+2021-11-18 17:11:11.2994 INFO Get User Success :smedo
+2021-11-18 17:11:14.9959 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:11:16.3852 INFO Get RR List Success
+2021-11-18 17:11:16.4096 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:11:16.6790 INFO Get RR List Success
+2021-11-18 17:11:17.2670 INFO Get Product Type Master List Success
+2021-11-18 17:11:17.2670 INFO Get User Success :smedo
+2021-11-18 17:11:43.8903 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:11:45.5589 INFO Get RR Details Success
+2021-11-18 17:11:45.5786 INFO Get RR List Success
+2021-11-18 17:11:45.7793 INFO Get Product Type Master List Success
+2021-11-18 17:11:45.7793 INFO Get User Success :smedo
+2021-11-18 17:13:43.5518 INFO RR Approved by Assistant Commissioner  Sucess:168-
+2021-11-18 17:13:43.5855 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:13:44.3852 INFO Get RR List Success
+2021-11-18 17:13:45.8376 INFO Get Product Type Master List Success
+2021-11-18 17:13:45.8417 INFO Get User Success :smedo
+2021-11-18 17:13:53.8664 INFO RR Issued by Assistant Commissioner  Sucess:168-SOD
+2021-11-18 17:13:53.8984 INFO Get RR List Success
+2021-11-18 17:13:54.1243 INFO Get User Success :136-Assistant Commissioner
+2021-11-18 17:13:54.3201 INFO Get RR List Success
+2021-11-18 17:13:54.9628 INFO Get Product Type Master List Success
+2021-11-18 17:13:54.9668 INFO Get User Success :smedo
+2021-11-18 17:14:06.5421 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:14:06.5805 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:14:06.6144 INFO Get Product Type Master List Success
+2021-11-18 17:14:06.6234 INFO Get User Success :sonasati_dis
+2021-11-18 17:14:15.1898 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:14:16.2763 INFO Get RR List Success
+2021-11-18 17:14:16.2763 INFO Get Product Type Master List Success
+2021-11-18 17:14:16.2853 INFO Get User Success :sonasati_dis
+2021-11-18 17:14:48.7892 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:14:50.0600 INFO Get RR List Success
+2021-11-18 17:14:50.0610 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/9
+2021-11-18 17:14:50.3397 INFO Get RR List Success
+2021-11-18 17:14:50.3397 INFO Get Product Type Master List Success
+2021-11-18 17:14:50.3496 INFO Get User Success :sonasati_dis
+2021-11-18 17:15:12.0972 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:15:13.2589 INFO Get RR List Success
+2021-11-18 17:15:13.2589 INFO Get Product Type Master List Success
+2021-11-18 17:15:13.2676 INFO Get User Success :sonasati_dis
+2021-11-18 17:15:32.0330 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-18 17:16:24.2986 INFO Get RR List Success
+2021-11-18 17:16:24.2986 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/9
+2021-11-18 17:17:50.0194 INFO Get RR List Success
+2021-11-18 17:17:50.0194 INFO Get Product Type Master List Success
+2021-11-18 17:17:50.0194 INFO Get User Success :sonasati_dis
+2021-11-18 17:31:53.1033 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:31:53.1722 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:31:53.1722 INFO Get Product Type Master List Success
+2021-11-18 17:31:53.1722 INFO Get User Success :globus_dis
+2021-11-18 17:31:56.7576 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:31:56.7755 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:31:58.0970 INFO Get Product Type Master List Success
+2021-11-18 17:31:58.1109 INFO Get User Success :globus_dis
+2021-11-18 17:32:02.5994 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:32:02.6255 INFO Get Pass List Success
+2021-11-18 17:32:02.6255 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:32:02.6494 INFO Get Product Type Master List Success
+2021-11-18 17:32:02.6494 INFO Get User Success :globus_dis
+2021-11-18 17:32:10.5367 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:32:10.5367 INFO Get Dispach Master List Success
+2021-11-18 17:32:14.0158 INFO Get VAT Master List Success
+2021-11-18 17:32:14.2619 INFO Get Pass List Success
+2021-11-18 17:32:14.2782 INFO Get Product Type Master List Success
+2021-11-18 17:32:14.2841 INFO Get User Success :globus_dis
+2021-11-18 17:33:07.5682 INFO Get User Success :350-Globus Spirits Limited
+2021-11-18 17:33:07.5682 INFO Get Dispach Master List Success

@@ -1,0 +1,303 @@
+2021-04-06 10:40:18.8493 INFO Get User Success :44-Administrator
+2021-04-06 10:40:22.8405 INFO Get User Success :44-Administrator
+2021-04-06 10:40:22.8728 INFO Get User Success :Admin
+2021-04-06 10:40:37.6743 INFO Get License_Type List Fail
+2021-04-06 10:40:37.6948 INFO Get User Success :Admin
+2021-04-06 10:41:33.0899 INFO Get License_Type List Fail
+2021-04-06 10:41:33.0899 INFO Get User Success :Admin
+2021-04-06 10:41:39.5980 INFO Get License_Type List Fail
+2021-04-06 10:41:39.6037 INFO Get User Success :Admin
+2021-04-06 10:41:41.0716 INFO Get License_Type List Fail
+2021-04-06 10:41:41.0716 INFO Get User Success :Admin
+2021-04-06 10:41:44.0420 INFO Get License_Type List Fail
+2021-04-06 10:41:44.0420 INFO Get User Success :Admin
+2021-04-06 10:41:49.5570 INFO Get License_Type List Fail
+2021-04-06 10:41:49.5570 INFO Get User Success :Admin
+2021-04-06 10:41:51.8011 INFO Get User Success :Admin
+2021-04-06 10:41:56.1953 INFO Get License_Type List Fail
+2021-04-06 10:41:56.2014 INFO Get User Success :Admin
+2021-04-06 10:42:01.5572 INFO Get License_Type List Fail
+2021-04-06 10:42:01.5572 INFO Get User Success :Admin
+2021-04-06 10:44:51.0841 INFO Get User Success :Admin
+2021-04-06 10:51:17.4040 INFO Get User Success :44-Administrator
+2021-04-06 10:51:17.5087 INFO Get User Success :44-Administrator
+2021-04-06 10:52:06.0705 INFO Get License_Type List Fail
+2021-04-06 10:55:50.3968 INFO Insert license_type Fail :A-abc-23505: duplicate key value violates unique constraint "lic_type_master_pkey"
+2021-04-06 10:55:58.1240 INFO Get License_Type List Fail
+2021-04-06 11:00:24.8069 INFO Get User Success :44-Administrator
+2021-04-06 11:00:35.0309 INFO Get User Success :44-Administrator
+2021-04-06 11:00:43.7938 INFO Get License_Type List Fail
+2021-04-06 11:03:45.0380 INFO Get Existing data Success :lic_type_Master
+2021-04-06 11:04:40.8064 INFO Get Existing data Fail :lic_type_Master
+2021-04-06 11:05:04.6054 INFO Get Existing data Success :lic_type_Master
+2021-04-06 11:05:19.7955 INFO Get Existing data Fail :lic_type_Master
+2021-04-06 11:05:41.2122 INFO Insert license_type Success :B-bcc
+2021-04-06 11:05:45.7074 INFO Get UOM List Success
+2021-04-06 11:06:58.6772 INFO Get License_Type List Fail
+2021-04-06 11:10:43.3966 INFO Get Existing data Success :lic_type_Master
+2021-04-06 11:11:42.9863 INFO Get License_Type List Success
+2021-04-06 11:12:06.4379 INFO Get License_Type List Success
+2021-04-06 11:12:14.0363 INFO Get License_Type List Success
+2021-04-06 11:12:16.5500 INFO Get License_Type List Success
+2021-04-06 11:13:23.4443 INFO Get License_Type List Success
+2021-04-06 11:13:28.8216 INFO Get License_Type List Fail
+2021-04-06 11:27:56.1926 INFO Get User Success :44-Administrator
+2021-04-06 11:28:10.2000 INFO Get User Success :44-Administrator
+2021-04-06 11:28:16.8947 INFO Get License_Type List Fail
+2021-04-06 11:41:02.0158 INFO Get License_Type List Success
+2021-04-06 11:42:39.5006 INFO Get License_Type List Fail
+2021-04-06 11:43:05.9915 INFO Get Existing data Fail :lic_subtype_Master
+2021-04-06 11:43:13.4094 INFO Get Existing data Fail :lic_subtype_Master
+2021-04-06 11:50:58.5992 INFO Get User Success :44-Administrator
+2021-04-06 11:50:58.7005 INFO Get User Success :44-Administrator
+2021-04-06 11:51:07.2522 INFO Get License_Type List Fail
+2021-04-06 11:53:43.3815 INFO Get License_Type List Fail
+2021-04-06 11:53:53.5834 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:53:53.6203 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:53:54.1247 INFO Get User Success :hodyco
+2021-04-06 11:54:01.0557 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:01.4232 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:02.1640 INFO Check WorkFlow List Success
+2021-04-06 11:54:02.2368 INFO Get RR List Success
+2021-04-06 11:54:02.5208 INFO Get User Success :hodyco
+2021-04-06 11:54:09.3512 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:09.3521 INFO Check WorkFlow List Success
+2021-04-06 11:54:09.4289 INFO Get RR List Success
+2021-04-06 11:54:09.4449 INFO Get User Success :hodyco
+2021-04-06 11:54:21.3894 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:21.3894 INFO Check WorkFlow List Success
+2021-04-06 11:54:21.4541 INFO Get RR List Success
+2021-04-06 11:54:24.6313 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:24.6313 INFO Check WorkFlow List Success
+2021-04-06 11:54:24.6958 INFO Get RR List Success
+2021-04-06 11:54:28.5457 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:28.5457 INFO Check WorkFlow List Success
+2021-04-06 11:54:28.6115 INFO Get RR List Success
+2021-04-06 11:54:31.1031 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:31.1031 INFO Check WorkFlow List Success
+2021-04-06 11:54:31.1686 INFO Get RR List Success
+2021-04-06 11:54:43.8912 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:54:43.8912 INFO Check WorkFlow List Success
+2021-04-06 11:54:43.9497 INFO Get RR List Success
+2021-04-06 11:54:43.9636 INFO Get User Success :hodyco
+2021-04-06 11:56:38.8341 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:56:38.9360 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:56:39.4829 INFO Get User Success :hodyco
+2021-04-06 11:56:49.1741 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:56:49.4362 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:56:50.3509 INFO Check WorkFlow List Success
+2021-04-06 11:56:50.4371 INFO Get RR List Success
+2021-04-06 11:56:50.6648 INFO Get User Success :hodyco
+2021-04-06 11:56:53.3007 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:56:53.3007 INFO Check WorkFlow List Success
+2021-04-06 11:56:53.3897 INFO Get RR List Success
+2021-04-06 11:56:53.4036 INFO Get User Success :hodyco
+2021-04-06 11:57:42.1639 INFO Get Report  Success
+2021-04-06 11:58:05.8002 INFO Get GetSeverList Success
+2021-04-06 11:58:43.4075 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 11:58:43.4455 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 11:58:43.4505 INFO Get User Success :bhedo
+2021-04-06 11:58:49.3097 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 11:58:49.5524 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 11:58:49.9841 INFO Check WorkFlow List Success
+2021-04-06 11:58:50.0998 INFO Get RR List Success
+2021-04-06 11:58:51.0654 INFO Get User Success :bhedo
+2021-04-06 11:59:02.1845 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:59:02.2269 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:59:02.7010 INFO Get User Success :hodyco
+2021-04-06 11:59:09.6235 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:59:09.8770 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:59:10.3182 INFO Check WorkFlow List Success
+2021-04-06 11:59:10.4083 INFO Get RR List Success
+2021-04-06 11:59:10.6408 INFO Get User Success :hodyco
+2021-04-06 11:59:14.0297 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 11:59:14.0297 INFO Check WorkFlow List Success
+2021-04-06 11:59:14.1236 INFO Get RR List Success
+2021-04-06 11:59:14.1236 INFO Get User Success :hodyco
+2021-04-06 11:59:33.4453 INFO Get Report  Success
+2021-04-06 11:59:33.7920 INFO Get GetSeverList Success
+2021-04-06 12:04:47.3476 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:04:47.3476 INFO Check WorkFlow List Success
+2021-04-06 12:04:47.4394 INFO Get RR List Success
+2021-04-06 12:04:47.4535 INFO Get User Success :hodyco
+2021-04-06 12:04:54.1468 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:04:54.1468 INFO Check WorkFlow List Success
+2021-04-06 12:04:54.2348 INFO Get RR List Success
+2021-04-06 12:04:54.2348 INFO Get User Success :hodyco
+2021-04-06 12:05:03.6182 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:05:03.6182 INFO Check WorkFlow List Success
+2021-04-06 12:05:03.7093 INFO Get RR List Success
+2021-04-06 12:05:06.1692 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:05:06.1692 INFO Check WorkFlow List Success
+2021-04-06 12:05:06.2605 INFO Get RR List Success
+2021-04-06 12:05:08.7193 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:05:08.7193 INFO Check WorkFlow List Success
+2021-04-06 12:05:08.8001 INFO Get RR List Success
+2021-04-06 12:05:08.8001 INFO Get User Success :hodyco
+2021-04-06 12:07:02.0210 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:02.0595 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:02.5619 INFO Get User Success :hodyco
+2021-04-06 12:07:11.3421 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:11.5839 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:12.2790 INFO Check WorkFlow List Success
+2021-04-06 12:07:12.3695 INFO Get RR List Success
+2021-04-06 12:07:12.8161 INFO Get User Success :hodyco
+2021-04-06 12:07:16.2804 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:16.2804 INFO Check WorkFlow List Success
+2021-04-06 12:07:16.3724 INFO Get RR List Success
+2021-04-06 12:07:16.3724 INFO Get User Success :hodyco
+2021-04-06 12:07:20.8138 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:22.2108 INFO Check WorkFlow List Success
+2021-04-06 12:07:22.3145 INFO Get RR List Success
+2021-04-06 12:07:22.5082 INFO Get User Success :hodyco
+2021-04-06 12:07:29.7174 INFO Get User Success :100-Deputy Commissioner
+2021-04-06 12:07:29.7174 INFO Check WorkFlow List Success
+2021-04-06 12:07:29.8046 INFO Get RR List Success
+2021-04-06 12:07:29.8094 INFO Get User Success :hodyco
+2021-04-06 12:07:39.7201 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 12:07:39.7587 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 12:07:39.7587 INFO Get User Success :bhedo
+2021-04-06 12:07:46.4280 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 12:07:46.6907 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 12:07:47.1404 INFO Check WorkFlow List Success
+2021-04-06 12:07:47.2502 INFO Get RR List Success
+2021-04-06 12:07:48.2712 INFO Get User Success :bhedo
+2021-04-06 12:07:54.2036 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 12:07:54.2036 INFO Check WorkFlow List Success
+2021-04-06 12:07:54.2883 INFO Get RR List Success
+2021-04-06 12:07:54.2923 INFO Get User Success :bhedo
+2021-04-06 12:08:00.7788 INFO Get User Success :341-Assistant Commissioner
+2021-04-06 12:08:00.7788 INFO Check WorkFlow List Success
+2021-04-06 12:08:00.8702 INFO Get RR List Success
+2021-04-06 12:08:00.8702 INFO Get User Success :bhedo
+2021-04-06 12:08:12.7964 INFO Get Report  Success
+2021-04-06 12:08:12.8908 INFO Get GetSeverList Success
+2021-04-06 12:10:18.9297 INFO Get Report  Success
+2021-04-06 12:10:19.0328 INFO Get GetSeverList Success
+2021-04-06 12:47:54.5511 INFO Get User Success :350-Globus Spirits Limited
+2021-04-06 12:48:08.4575 INFO Get User Success :350-Globus Spirits Limited
+2021-04-06 12:48:08.4765 INFO Get User Success :globus_dis
+2021-04-06 12:48:22.7276 INFO Get User Success :350-Globus Spirits Limited
+2021-04-06 12:48:35.9040 INFO Get User Success :globus_dis
+2021-04-06 12:49:11.3306 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 12:49:11.3528 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 12:49:11.3528 INFO Get User Success :bdbl_dis
+2021-04-06 12:49:17.2854 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 12:49:21.9648 INFO Get User Success :bdbl_dis
+2021-04-06 12:50:35.6959 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 12:50:35.6959 INFO Get Dispach Master List Success
+2021-04-06 12:51:58.5958 INFO Get VAT Master List Success
+2021-04-06 12:52:58.0949 INFO Get User Success :bdbl_dis
+2021-04-06 12:56:08.6246 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:04:52.9536 INFO Get Pass List Success
+2021-04-06 13:04:54.2380 INFO Get User Success :bdbl_dis
+2021-04-06 13:05:31.7342 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:05:31.7342 INFO Get Dispach Master List Success
+2021-04-06 13:10:22.7543 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:10:25.6181 INFO Get Pass List Success
+2021-04-06 13:10:26.0967 INFO Get User Success :bdbl_dis
+2021-04-06 13:10:35.4966 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:10:39.0732 INFO Get User Success :bdbl_dis
+2021-04-06 13:10:42.2690 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:10:43.4675 INFO Get Pass List Success
+2021-04-06 13:10:43.9439 INFO Get User Success :bdbl_dis
+2021-04-06 13:10:49.7490 INFO Get Pass List Success
+2021-04-06 13:10:59.7901 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:11:05.7774 INFO Get User Success :bdbl_dis
+2021-04-06 13:11:09.7435 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:11:10.7781 INFO Get Pass List Success
+2021-04-06 13:12:57.9592 INFO Get User Success :bdbl_dis
+2021-04-06 13:13:02.3439 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:13:06.8122 INFO Get User Success :bdbl_dis
+2021-04-06 13:13:09.2687 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:13:10.3322 INFO Get Pass List Success
+2021-04-06 13:13:10.7992 INFO Get User Success :bdbl_dis
+2021-04-06 13:13:18.4799 INFO Get Pass List Success
+2021-04-06 13:13:27.3389 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:13:27.3389 INFO Get Dispach Master List Success
+2021-04-06 13:13:51.2977 INFO Get VAT Master List Success
+2021-04-06 13:13:52.8031 INFO Get Pass List Success
+2021-04-06 13:13:55.5694 INFO Get User Success :bdbl_dis
+2021-04-06 13:14:04.3703 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:14:10.1674 INFO Get User Success :bdbl_dis
+2021-04-06 13:14:34.5907 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:14:34.5907 INFO Get Dispach Master List Success
+2021-04-06 13:14:35.0964 INFO Get VAT Master List Success
+2021-04-06 13:14:35.6805 INFO Get User Success :bdbl_dis
+2021-04-06 13:16:33.2907 INFO Pass Insertion Sucess:697-BDB
+2021-04-06 13:16:33.3126 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:16:34.2682 INFO Get Pass List Success
+2021-04-06 13:16:35.9222 INFO Get User Success :bdbl_dis
+2021-04-06 13:16:42.8918 INFO Get Pass List Success
+2021-04-06 13:16:49.9690 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 13:16:49.9690 INFO Get Dispach Master List Success
+2021-04-06 13:16:50.4497 INFO Get VAT Master List Success
+2021-04-06 13:16:50.9002 INFO Get Pass List Success
+2021-04-06 13:16:51.8250 INFO Get User Success :bdbl_dis
+2021-04-06 14:03:31.5729 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:03:40.4663 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:03:40.4842 INFO Get User Success :bdbl_dis
+2021-04-06 14:03:55.3027 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:03:59.3045 INFO Get User Success :bdbl_dis
+2021-04-06 14:04:04.2401 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:04:06.4654 INFO Get Pass List Success
+2021-04-06 14:04:06.9347 INFO Get User Success :bdbl_dis
+2021-04-06 14:04:11.5489 INFO Get Pass List Success
+2021-04-06 14:04:16.6474 INFO Get Report  Success
+2021-04-06 14:04:17.0501 INFO Get GetSeverList Success
+2021-04-06 14:04:26.3607 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:04:29.8379 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:04:31.1905 INFO Get User Success :bdbl_dis
+2021-04-06 14:04:36.5841 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:04:36.6060 INFO Get User Success :bdbl_dis
+2021-04-06 14:04:41.9240 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-04-06 14:04:45.4983 INFO Get User Success :bdbl_dis
+2021-04-06 14:38:54.9345 INFO Get User Success :44-Administrator
+2021-04-06 14:38:57.2516 INFO Get User Success :44-Administrator
+2021-04-06 14:39:17.8883 INFO Get License_Type List Fail
+2021-04-06 14:39:27.0709 INFO Get License_Type List Success
+2021-04-06 14:39:39.9327 INFO Get License_Type List Fail
+2021-04-06 14:40:08.3334 INFO Get License_Type List Success
+2021-04-06 14:40:40.6562 INFO Get Existing data Fail :lic_subtype_Master
+2021-04-06 14:40:48.2760 INFO Get Existing data Fail :lic_subtype_Master
+2021-04-06 14:42:26.7346 INFO Insert license_type Success :A-abc
+2021-04-06 14:42:34.4794 INFO Get License_Type List Fail
+2021-04-06 14:42:42.6896 INFO Get License_Type List Success
+2021-04-06 14:49:41.0103 INFO Get License_Type List Fail
+2021-04-06 17:18:52.5185 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-04-06 17:18:57.5561 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-04-06 17:18:57.6413 INFO Get User Success :harinagar_disbo
+2021-04-06 17:19:25.8487 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-04-06 17:20:10.9270 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-04-06 17:20:10.9649 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-04-06 17:20:10.9780 INFO Get User Success :harinagar_sgrbo
+2021-04-06 17:28:03.2849 INFO Get User Success :102-Harinagar Sugar Mills Ltd, Bond Officer
+2021-04-06 17:28:14.6688 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:14.7067 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:14.7992 INFO Get User Success :harinagar_dis
+2021-04-06 17:28:31.8224 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:31.8224 INFO Get Indent List Success
+2021-04-06 17:28:31.8713 INFO Get User Success :harinagar_dis
+2021-04-06 17:28:42.4003 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:42.4003 INFO Get Indent List Success
+2021-04-06 17:28:42.4482 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:42.4482 INFO Get Allotment List Success
+2021-04-06 17:28:42.4731 INFO Get User Success :harinagar_dis
+2021-04-06 17:28:51.5798 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:51.5798 INFO Get Allotment List Success
+2021-04-06 17:28:53.5043 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-04-06 17:28:53.5092 INFO Get Party Master List Success
+2021-04-06 17:28:53.5092 INFO Get Indent List Success
+2021-04-06 17:28:53.5092 INFO Get User Success :harinagar_dis
+2021-04-06 17:48:28.1806 INFO Get User Success :44-Administrator
+2021-04-06 17:48:28.2275 INFO Get User Success :44-Administrator
+2021-04-06 17:48:34.2212 INFO Get RolePermissions List Success
+2021-04-06 17:48:35.6116 INFO Get Single User Details Success
+2021-04-06 17:48:45.1465 INFO Get Single User Details Success
+2021-04-06 17:48:45.2427 INFO Get Single User Details Success
+2021-04-06 17:48:55.3129 INFO Get Single User Details Success
+2021-04-06 17:48:55.4266 INFO Get Single User Details Success
+2021-04-06 17:49:03.7576 INFO Get Single User Details Success
+2021-04-06 17:49:03.8579 INFO Get Single User Details Success
+2021-04-06 17:49:03.8579 INFO Get Single User Details Success
+2021-04-06 17:49:08.8315 INFO Get Single User Details Success

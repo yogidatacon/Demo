@@ -1,0 +1,354 @@
+2021-12-26 10:07:46.2809 INFO Get User Success :104-Riga Distillery Division
+2021-12-26 10:07:50.5837 INFO Get User Success :104-Riga Distillery Division
+2021-12-26 10:07:50.6994 INFO Get Product Type Master List Success
+2021-12-26 10:08:05.8152 INFO Get User Success :riga_dis
+2021-12-26 10:08:29.2515 INFO Get User Success :104-Riga Distillery Division
+2021-12-26 10:18:06.3672 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:18:06.4750 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:18:06.5710 INFO Get Product Type Master List Success
+2021-12-26 10:18:14.2265 INFO Get User Success :hodyco
+2021-12-26 10:18:17.8690 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:18:17.8690 INFO Get Product Master List Success
+2021-12-26 10:18:19.1402 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:18:19.1402 INFO Get Product Master List Success
+2021-12-26 10:18:19.1452 INFO Check WorkFlow List Success
+2021-12-26 10:18:21.2858 INFO Get RR List Success
+2021-12-26 10:18:22.9633 INFO Get Product Type Master List Success
+2021-12-26 10:18:23.5259 INFO Get User Success :hodyco
+2021-12-26 10:18:27.8182 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:18:27.8182 INFO Get Product Master List Success
+2021-12-26 10:18:27.8321 INFO Check WorkFlow List Success
+2021-12-26 10:18:29.6845 INFO Get RR List Success
+2021-12-26 10:18:30.7894 INFO Get Product Type Master List Success
+2021-12-26 10:18:31.3538 INFO Get User Success :hodyco
+2021-12-26 10:18:33.5118 INFO Get Report  Success
+2021-12-26 10:18:33.7711 INFO Get GetSeverList Success
+2021-12-26 10:22:50.6461 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:22:50.8834 INFO Check WorkFlow List Success
+2021-12-26 10:22:50.9448 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:22:50.9448 INFO Check WorkFlow List Success
+2021-12-26 10:22:50.9575 INFO Get Allotment List Success
+2021-12-26 10:22:50.9824 INFO Get Product Type Master List Success
+2021-12-26 10:22:51.5793 INFO Get User Success :hodyco
+2021-12-26 10:22:55.1333 INFO Get User Success :100-Deputy Commissioner
+2021-12-26 10:22:55.1333 INFO Check WorkFlow List Success
+2021-12-26 10:22:55.1333 INFO Get Allotment List Success
+2021-12-26 10:22:55.1637 INFO Get Product Type Master List Success
+2021-12-26 10:22:56.5605 INFO Get User Success :hodyco
+2021-12-26 10:22:58.8958 INFO Get GetSeverList Success
+2021-12-26 10:48:26.3426 INFO Get User Success :207-Active
+2021-12-26 10:48:26.4015 INFO Get Product Type Master List Success
+2021-12-26 10:48:27.5268 INFO Get User Success :excise_Rohtas
+2021-12-26 10:49:12.1155 INFO Get User Success :207-Active
+2021-12-26 10:49:12.1315 INFO Get Product Type Master List Success
+2021-12-26 10:51:08.2143 INFO Get User Success :excise_Rohtas
+2021-12-26 10:51:17.2847 INFO Get User Success :207-Active
+2021-12-26 10:51:17.3028 INFO Get Product Type Master List Success
+2021-12-26 10:51:18.7304 INFO Get User Success :excise_Rohtas
+2021-12-26 10:51:22.1549 INFO Get User Success :207-Active
+2021-12-26 10:51:22.1710 INFO Get Product Type Master List Success
+2021-12-26 10:53:04.3068 INFO Get User Success :excise_Rohtas
+2021-12-26 10:53:14.2114 INFO Get User Success :207-Active
+2021-12-26 10:53:14.2306 INFO Get Product Type Master List Success
+2021-12-26 10:53:18.3506 INFO Get User Success :excise_Rohtas
+2021-12-26 10:53:21.7390 INFO Get User Success :207-Active
+2021-12-26 10:53:21.7559 INFO Get Product Type Master List Success
+2021-12-26 10:53:30.8661 INFO Get User Success :excise_Rohtas
+2021-12-26 10:55:21.1068 INFO Get User Success :207-Active
+2021-12-26 11:19:30.9828 INFO Get User Success :207-Active
+2021-12-26 11:19:31.0440 INFO Get Product Type Master List Success
+2021-12-26 11:19:32.2372 INFO Get User Success :excise_Rohtas
+2021-12-26 11:19:45.5726 INFO Get User Success :207-Active
+2021-12-26 11:22:51.6480 INFO Get User Success :367-DM Case Hearing Patna
+2021-12-26 11:22:51.7506 INFO Get Product Type Master List Success
+2021-12-26 11:22:53.4890 INFO Get User Success :dm_patna
+2021-12-26 11:23:18.7235 INFO Get User Success :367-DM Case Hearing Patna
+2021-12-26 11:23:24.0031 INFO Get User Success :207-Active
+2021-12-26 11:23:24.0190 INFO Get Product Type Master List Success
+2021-12-26 11:23:24.3126 INFO Get User Success :excise_Rohtas
+2021-12-26 11:29:46.3242 INFO Get User Success :101-Commissioner
+2021-12-26 11:29:46.4763 INFO Get User Success :101-Commissioner
+2021-12-26 11:29:46.5704 INFO Get Product Type Master List Success
+2021-12-26 11:29:47.7891 INFO Get User Success :com
+2021-12-26 11:29:54.3007 INFO Get User Success :101-Commissioner
+2021-12-26 11:29:54.3007 INFO Get Product Master List Success
+2021-12-26 11:30:09.3399 INFO Get User Success :101-Commissioner
+2021-12-26 11:30:09.3399 INFO Get Product Master List Success
+2021-12-26 11:30:09.3639 INFO Check WorkFlow List Success
+2021-12-26 11:30:11.8923 INFO Get RR List Success
+2021-12-26 11:30:13.4226 INFO Get Product Type Master List Success
+2021-12-26 11:30:14.0490 INFO Get User Success :com
+2021-12-26 11:30:19.2757 INFO Get User Success :101-Commissioner
+2021-12-26 11:30:19.2906 INFO Get Product Master List Success
+2021-12-26 11:30:19.2906 INFO Check WorkFlow List Success
+2021-12-26 11:30:21.0502 INFO Get RR List Success
+2021-12-26 11:30:22.3473 INFO Get Product Type Master List Success
+2021-12-26 11:30:22.9528 INFO Get User Success :com
+2021-12-26 11:30:27.5755 INFO Get Report  Success
+2021-12-26 11:30:27.7854 INFO Get GetSeverList Success
+2021-12-26 11:31:01.8553 INFO Get GetSeverList Success
+2021-12-26 11:34:23.6163 INFO Get GetSeverList Success
+2021-12-26 11:36:31.5623 INFO Get User Success :101-Commissioner
+2021-12-26 11:36:31.6735 INFO Get User Success :101-Commissioner
+2021-12-26 11:36:31.7858 INFO Get Product Type Master List Success
+2021-12-26 11:36:36.9541 INFO Get User Success :com
+2021-12-26 11:36:51.7216 INFO Get User Success :101-Commissioner
+2021-12-26 11:36:51.7253 INFO Get Product Master List Success
+2021-12-26 11:36:59.4798 INFO Get User Success :101-Commissioner
+2021-12-26 11:36:59.4878 INFO Get Product Master List Success
+2021-12-26 11:36:59.4878 INFO Check WorkFlow List Success
+2021-12-26 11:37:01.4516 INFO Get RR List Success
+2021-12-26 11:37:03.0908 INFO Get Product Type Master List Success
+2021-12-26 11:37:03.7111 INFO Get User Success :com
+2021-12-26 11:37:15.8239 INFO Get User Success :101-Commissioner
+2021-12-26 11:37:15.8239 INFO Get Product Master List Success
+2021-12-26 11:37:15.8239 INFO Check WorkFlow List Success
+2021-12-26 11:37:19.7003 INFO Get RR List Success
+2021-12-26 11:37:22.0156 INFO Get Product Type Master List Success
+2021-12-26 11:37:23.1299 INFO Get User Success :com
+2021-12-26 11:38:09.6034 INFO Get Report  Success
+2021-12-26 11:38:09.8744 INFO Get GetSeverList Success
+2021-12-26 11:39:10.6710 INFO Get User Success :44-Administrator
+2021-12-26 11:39:10.7069 INFO Get User Success :44-Administrator
+2021-12-26 11:39:10.7069 INFO Get Product Type Master List Success
+2021-12-26 11:39:11.0117 INFO Get User Success :Admin
+2021-12-26 11:39:17.4142 INFO Get User Success :44-Administrator
+2021-12-26 11:39:17.4142 INFO Get Report  Success
+2021-12-26 11:39:17.4142 INFO GetFinacListValues Success
+2021-12-26 11:39:17.4276 INFO Get Party Master List Success
+2021-12-26 11:39:17.4276 INFO Get Product Type Master List Success
+2021-12-26 11:39:18.8219 INFO Get User Success :Admin
+2021-12-26 11:39:30.2525 INFO Get GetSeverList Success
+2021-12-26 11:52:03.6254 INFO Get User Success :366-Case Registration Patna
+2021-12-26 11:52:03.6888 INFO Get Product Type Master List Success
+2021-12-26 11:52:06.6826 INFO Get User Success :casereg_patna
+2021-12-26 11:53:00.2299 INFO Get Product Type Master List Success
+2021-12-26 11:53:01.6694 INFO Get User Success :casereg_patna
+2021-12-26 11:53:12.5438 INFO Get Thana List Success
+2021-12-26 11:53:23.0050 INFO Get Product Type Master List Success
+2021-12-26 11:53:23.4947 INFO Get User Success :casereg_patna
+2021-12-26 11:53:32.8179 INFO Get Product Type Master List Success
+2021-12-26 11:53:34.5217 INFO Get User Success :casereg_patna
+2021-12-26 11:54:29.2310 INFO Get User Success :371-Commissioner Court Case Registration
+2021-12-26 11:54:29.2507 INFO Get Product Type Master List Success
+2021-12-26 11:54:30.0245 INFO Get User Success :com_court_reg
+2021-12-26 11:54:36.9300 INFO Get Product Type Master List Success
+2021-12-26 11:54:38.4336 INFO Get User Success :com_court_reg
+2021-12-26 12:35:51.8579 INFO Get User Success :366-Case Registration Patna
+2021-12-26 12:35:51.9337 INFO Get Product Type Master List Success
+2021-12-26 12:35:52.8586 INFO Get User Success :casereg_patna
+2021-12-26 12:36:01.2374 INFO Get Product Type Master List Success
+2021-12-26 12:36:06.5476 INFO Get User Success :casereg_patna
+2021-12-26 12:36:35.5916 INFO Get Thana List Success
+2021-12-26 12:36:38.8237 INFO Get Product Type Master List Success
+2021-12-26 12:36:39.5613 INFO Get User Success :casereg_patna
+2021-12-26 12:37:26.9939 INFO Get Product Type Master List Success
+2021-12-26 12:37:28.4807 INFO Get User Success :casereg_patna
+2021-12-26 12:38:11.5466 INFO Get Thana List Success
+2021-12-26 12:38:13.0299 INFO Get Product Type Master List Success
+2021-12-26 12:38:13.9067 INFO Get User Success :casereg_patna
+2021-12-26 12:38:16.1403 INFO Get Thana List Success
+2021-12-26 12:38:16.9675 INFO Get Product Type Master List Success
+2021-12-26 12:38:17.6717 INFO Get User Success :casereg_patna
+2021-12-26 12:39:27.7619 INFO Get Product Type Master List Success
+2021-12-26 12:39:29.2862 INFO Get User Success :casereg_patna
+2021-12-26 12:41:48.9344 INFO Get Thana List Success
+2021-12-26 12:41:58.8368 INFO Get Product Type Master List Success
+2021-12-26 12:41:59.6468 INFO Get User Success :casereg_patna
+2021-12-26 12:43:04.9928 INFO Get Product Type Master List Success
+2021-12-26 12:43:06.6917 INFO Get User Success :casereg_patna
+2021-12-26 12:43:20.0095 INFO Get Thana List Success
+2021-12-26 12:44:09.0766 INFO Get Product Type Master List Success
+2021-12-26 12:44:13.5653 INFO Get User Success :casereg_patna
+2021-12-26 12:45:10.7968 INFO Get Product Type Master List Success
+2021-12-26 12:45:12.0283 INFO Get User Success :casereg_patna
+2021-12-26 12:45:24.0661 INFO Get Thana List Success
+2021-12-26 12:45:26.5196 INFO Get Product Type Master List Success
+2021-12-26 12:45:27.1666 INFO Get User Success :casereg_patna
+2021-12-26 12:46:41.3748 INFO Get Product Type Master List Success
+2021-12-26 12:46:47.7157 INFO Get User Success :casereg_patna
+2021-12-26 12:46:56.3550 INFO Get Thana List Success
+2021-12-26 12:46:59.3678 INFO Get Product Type Master List Success
+2021-12-26 12:47:01.4067 INFO Get User Success :casereg_patna
+2021-12-26 12:48:27.4938 INFO Get Product Type Master List Success
+2021-12-26 12:48:31.5554 INFO Get User Success :casereg_patna
+2021-12-26 12:48:44.1495 INFO Get Thana List Success
+2021-12-26 12:48:52.7972 INFO Get Product Type Master List Success
+2021-12-26 12:48:52.8022 INFO Get User Success :casereg_patna
+2021-12-26 12:49:46.0955 INFO Get Product Type Master List Success
+2021-12-26 12:49:46.1005 INFO Get User Success :casereg_patna
+2021-12-26 12:49:55.7492 INFO Get Thana List Success
+2021-12-26 12:50:26.6747 INFO Get Product Type Master List Success
+2021-12-26 12:50:26.6787 INFO Get User Success :casereg_patna
+2021-12-26 12:52:08.1011 INFO Get Product Type Master List Success
+2021-12-26 12:52:08.1011 INFO Get User Success :casereg_patna
+2021-12-26 12:58:06.3483 INFO Get User Success :366-Case Registration Patna
+2021-12-26 12:58:06.4295 INFO Get Product Type Master List Success
+2021-12-26 12:58:10.4591 INFO Get User Success :casereg_patna
+2021-12-26 12:58:16.6471 INFO Get Product Type Master List Success
+2021-12-26 12:58:18.9136 INFO Get User Success :casereg_patna
+2021-12-26 12:58:21.5493 INFO Get Thana List Success
+2021-12-26 12:58:28.5078 INFO Get Product Type Master List Success
+2021-12-26 12:58:31.1981 INFO Get User Success :casereg_patna
+2021-12-26 12:59:12.3211 INFO Get Product Type Master List Success
+2021-12-26 12:59:15.3825 INFO Get User Success :casereg_patna
+2021-12-26 12:59:19.9561 INFO Get Thana List Success
+2021-12-26 12:59:27.0172 INFO Get Product Type Master List Success
+2021-12-26 12:59:27.0281 INFO Get User Success :casereg_patna
+2021-12-26 12:59:34.0997 INFO Get Product Type Master List Success
+2021-12-26 12:59:34.0997 INFO Get User Success :casereg_patna
+2021-12-26 12:59:42.9834 INFO Get User Success :368-ADM Case Hearing Patna
+2021-12-26 12:59:43.0083 INFO Get Product Type Master List Success
+2021-12-26 12:59:43.0083 INFO Get User Success :adm_patna
+2021-12-26 12:59:46.5737 INFO Get Product Type Master List Success
+2021-12-26 12:59:46.5850 INFO Get User Success :adm_patna
+2021-12-26 12:59:48.1531 INFO Get Thana List Success
+2021-12-26 12:59:48.4834 INFO Get Product Type Master List Success
+2021-12-26 12:59:48.4885 INFO Get User Success :adm_patna
+2021-12-26 12:59:52.5337 INFO Get Product Type Master List Success
+2021-12-26 12:59:52.5387 INFO Get User Success :adm_patna
+2021-12-26 13:00:05.2752 INFO Get User Success :371-Commissioner Court Case Registration
+2021-12-26 13:00:05.2922 INFO Get Product Type Master List Success
+2021-12-26 13:00:05.2922 INFO Get User Success :com_court_reg
+2021-12-26 13:00:07.7305 INFO Get Product Type Master List Success
+2021-12-26 13:00:07.7305 INFO Get User Success :com_court_reg
+2021-12-26 13:00:09.5538 INFO Get Thana List Success
+2021-12-26 13:00:09.7379 INFO Get Thana List Success
+2021-12-26 13:00:10.0701 INFO Get Product Type Master List Success
+2021-12-26 13:00:10.0701 INFO Get User Success :com_court_reg
+2021-12-26 13:13:19.7049 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:13:23.6633 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:13:23.7288 INFO Get Product Type Master List Success
+2021-12-26 13:13:28.3202 INFO Get User Success :harinagar_dis
+2021-12-26 13:16:15.7457 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:16:15.8523 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:16:15.9271 INFO Get Product Type Master List Success
+2021-12-26 13:16:35.6788 INFO Get User Success :harinagar_dis
+2021-12-26 13:16:54.8232 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:16:55.3891 INFO Get Indent List Success
+2021-12-26 13:16:55.4310 INFO Get Product Type Master List Success
+2021-12-26 13:16:56.1078 INFO Get User Success :harinagar_dis
+2021-12-26 13:17:33.2494 INFO Get GetSeverList Success
+2021-12-26 13:20:44.1747 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:20:44.1795 INFO Get Product Master List Success
+2021-12-26 13:20:46.9003 INFO Get RR List Success
+2021-12-26 13:20:48.7845 INFO Get Product Type Master List Success
+2021-12-26 13:20:49.4391 INFO Get User Success :harinagar_dis
+2021-12-26 13:20:54.4452 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:20:54.4452 INFO Get Product Master List Success
+2021-12-26 13:20:54.5212 INFO Get State List Fail :42P01: relation "exciseautomation.state_master" does not exist
+2021-12-26 13:20:54.5212 INFO Get NOC Sucess:691
+2021-12-26 13:21:05.3026 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2021-2022/1
+2021-12-26 13:30:44.9371 INFO Get NOC Details Success
+2021-12-26 13:30:46.8741 INFO Check WorkFlow List Success
+2021-12-26 13:30:47.2896 INFO Get Product Type Master List Success
+2021-12-26 13:30:47.5776 INFO Get User Success :harinagar_dis
+2021-12-26 13:30:54.5222 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:30:54.5222 INFO Get Product Master List Success
+2021-12-26 13:30:57.1785 INFO Get RR List Success
+2021-12-26 13:30:58.0343 INFO Get Product Type Master List Success
+2021-12-26 13:30:58.3658 INFO Get User Success :harinagar_dis
+2021-12-26 13:31:03.3439 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 13:31:03.3439 INFO Get Product Master List Success
+2021-12-26 13:31:03.3666 INFO Get State List Success
+2021-12-26 13:31:03.3666 INFO Get NOC Sucess:691
+2021-12-26 13:31:05.1571 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2021-2022/1
+2021-12-26 13:31:05.6539 INFO Get NOC Details Success
+2021-12-26 13:31:05.6669 INFO Get Customer Details Success
+2021-12-26 13:31:06.6421 INFO Check WorkFlow List Success
+2021-12-26 13:31:06.9614 INFO Get Product Type Master List Success
+2021-12-26 13:31:07.2867 INFO Get User Success :harinagar_dis
+2021-12-26 15:29:25.4144 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 15:29:25.5303 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 15:29:25.6029 INFO Get Product Type Master List Success
+2021-12-26 15:29:27.1179 INFO Get User Success :harinagar_dis
+2021-12-26 15:29:32.3724 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 15:29:38.5126 INFO Get Product Type Master List Success
+2021-12-26 15:29:43.4002 INFO Get User Success :harinagar_dis
+2021-12-26 15:29:45.8831 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 15:29:48.1559 INFO Get Pass List Success
+2021-12-26 15:29:48.1559 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 15:29:48.4400 INFO Get Product Type Master List Success
+2021-12-26 15:29:48.9780 INFO Get User Success :harinagar_dis
+2021-12-26 15:30:12.7240 INFO Get Report  Success
+2021-12-26 15:30:23.7194 INFO Get GetSeverList Success
+2021-12-26 15:35:02.1998 INFO Get Report  Success
+2021-12-26 15:35:10.1632 INFO Get GetSeverList Success
+2021-12-26 15:36:27.1947 INFO Get Report  Success
+2021-12-26 16:01:50.6899 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:01:50.8119 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:01:50.8274 INFO Get Product Type Master List Success
+2021-12-26 16:01:54.4716 INFO Get User Success :bdbl_dis
+2021-12-26 16:06:06.7586 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:06:06.7586 INFO Get Product Master List Success
+2021-12-26 16:06:09.7890 INFO Get RR List Success
+2021-12-26 16:06:11.1744 INFO Get Product Type Master List Success
+2021-12-26 16:06:11.9783 INFO Get User Success :bdbl_dis
+2021-12-26 16:06:47.7776 INFO Get Report  Success
+2021-12-26 16:07:02.2654 INFO Get GetSeverList Success
+2021-12-26 16:09:06.0523 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:09:19.9414 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:09:58.0234 INFO Get GetSeverList Success
+2021-12-26 16:10:14.0097 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:12:47.4891 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:12:48.8507 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:12:51.4730 INFO Get Product Type Master List Success
+2021-12-26 16:12:52.5021 INFO Get User Success :bdbl_dis
+2021-12-26 16:13:01.5462 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:13:02.7513 INFO Get Product Type Master List Success
+2021-12-26 16:13:03.5034 INFO Get User Success :bdbl_dis
+2021-12-26 16:13:53.4968 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:13:53.5237 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-26 16:13:53.5237 INFO Get Product Type Master List Success
+2021-12-26 16:13:56.8046 INFO Get User Success :bdbl_dis
+2021-12-26 17:20:17.3835 INFO Get User Success :366-Case Registration Patna
+2021-12-26 17:20:17.4457 INFO Get Product Type Master List Success
+2021-12-26 17:20:20.4442 INFO Get User Success :casereg_patna
+2021-12-26 17:20:35.6192 INFO Get Product Type Master List Success
+2021-12-26 17:20:37.6737 INFO Get User Success :casereg_patna
+2021-12-26 17:20:40.9043 INFO Get Thana List Success
+2021-12-26 17:20:40.9043 INFO Get Product Type Master List Success
+2021-12-26 17:20:43.1926 INFO Get User Success :casereg_patna
+2021-12-26 17:36:07.6074 INFO Get User Success :366-Case Registration Patna
+2021-12-26 17:36:07.6782 INFO Get Product Type Master List Success
+2021-12-26 17:36:09.8981 INFO Get User Success :casereg_patna
+2021-12-26 17:36:14.5587 INFO Get Product Type Master List Success
+2021-12-26 17:36:17.4719 INFO Get User Success :casereg_patna
+2021-12-26 17:36:20.8167 INFO Get Thana List Success
+2021-12-26 17:36:20.8167 INFO Get Product Type Master List Success
+2021-12-26 17:36:22.2731 INFO Get User Success :casereg_patna
+2021-12-26 17:37:17.9205 INFO Get Product Type Master List Success
+2021-12-26 17:37:19.4414 INFO Get User Success :casereg_patna
+2021-12-26 17:37:21.9532 INFO Get Thana List Success
+2021-12-26 17:37:21.9532 INFO Get Product Type Master List Success
+2021-12-26 17:37:23.4194 INFO Get User Success :casereg_patna
+2021-12-26 17:39:04.7735 INFO Get Product Type Master List Success
+2021-12-26 17:39:06.4001 INFO Get User Success :casereg_patna
+2021-12-26 17:39:09.0838 INFO Get Thana List Success
+2021-12-26 17:39:09.0838 INFO Get Product Type Master List Success
+2021-12-26 17:39:11.3121 INFO Get User Success :casereg_patna
+2021-12-26 17:41:39.7593 INFO Get Product Type Master List Success
+2021-12-26 17:41:41.3216 INFO Get User Success :casereg_patna
+2021-12-26 17:41:43.5135 INFO Get Thana List Success
+2021-12-26 17:41:43.5135 INFO Get Product Type Master List Success
+2021-12-26 17:41:47.4235 INFO Get User Success :casereg_patna
+2021-12-26 17:57:23.4604 INFO Get User Success :207-Active
+2021-12-26 17:57:23.5271 INFO Get Product Type Master List Success
+2021-12-26 17:57:30.6863 INFO Get User Success :excise_Rohtas
+2021-12-26 18:03:17.2136 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 18:03:22.0090 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 18:03:22.1202 INFO Get Product Type Master List Success
+2021-12-26 18:03:24.7518 INFO Get User Success :harinagar_dis
+2021-12-26 18:03:30.2866 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 18:03:32.7606 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 18:03:33.5113 INFO Get Product Type Master List Success
+2021-12-26 18:03:34.2070 INFO Get User Success :harinagar_dis
+2021-12-26 18:03:37.7400 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-26 18:03:37.7400 INFO Get Report  Success
+2021-12-26 18:03:37.7400 INFO GetFinacListValues Success
+2021-12-26 18:03:37.7562 INFO Get Party Master List Success
+2021-12-26 18:03:37.7562 INFO Get Product Type Master List Success
+2021-12-26 18:03:39.0264 INFO Get User Success :harinagar_dis
+2021-12-26 18:03:47.9312 INFO Get VAT Master List Success
+2021-12-26 18:03:55.5544 INFO Get Party Master Details Success
+2021-12-26 18:04:16.0917 INFO Get GetSeverList Success

@@ -1,0 +1,177 @@
+2021-09-13 13:26:43.6556 INFO Get User Success :44-Administrator
+2021-09-13 13:26:44.0213 INFO Get User Success :44-Administrator
+2021-09-13 13:26:44.2157 INFO Get Product Type Master List Success
+2021-09-13 13:26:52.4533 INFO Get Dept List Success
+2021-09-13 13:26:52.8532 INFO Get Product Type Master List Success
+2021-09-13 14:02:27.9437 INFO Get Users List Success
+2021-09-13 14:02:28.0095 INFO Get Product Type Master List Success
+2021-09-13 14:02:34.6036 INFO Org Get List Success
+2021-09-13 14:02:34.6801 INFO Get Party Master List Success
+2021-09-13 14:02:34.7377 INFO Get Role Level List Success
+2021-09-13 14:02:34.7926 INFO Get access_type List Success
+2021-09-13 14:02:34.8646 INFO Get view_Role_master List Success
+2021-09-13 14:02:34.9300 INFO Get State List Success
+2021-09-13 14:02:34.9850 INFO Get Dept List Success
+2021-09-13 14:02:35.0480 INFO Get Emp List Success
+2021-09-13 14:02:35.5811 INFO Get Users List Success
+2021-09-13 14:02:35.6370 INFO Get Product Type Master List Success
+2021-09-13 14:02:57.7874 INFO Get Existing data Fail :user_registration
+2021-09-13 14:04:14.0558 INFO Get Existing data Fail :user_registration
+2021-09-13 14:04:45.1651 INFO Get Division List Success
+2021-09-13 14:07:56.4069 INFO Insert User Fail :0-sciedo-23502: null value in column "user_registration_id" violates not-null constraint
+2021-09-13 14:26:39.1420 INFO Get Users List Success
+2021-09-13 14:26:39.2033 INFO Get Product Type Master List Success
+2021-09-13 14:26:46.4885 INFO Org Get List Success
+2021-09-13 14:26:46.5501 INFO Get Party Master List Success
+2021-09-13 14:26:46.6054 INFO Get Role Level List Success
+2021-09-13 14:26:46.6609 INFO Get access_type List Success
+2021-09-13 14:26:46.7178 INFO Get view_Role_master List Success
+2021-09-13 14:26:46.7774 INFO Get State List Success
+2021-09-13 14:26:46.8346 INFO Get Dept List Success
+2021-09-13 14:26:46.8924 INFO Get Emp List Success
+2021-09-13 14:26:47.5025 INFO Get Users List Success
+2021-09-13 14:26:47.5594 INFO Get Product Type Master List Success
+2021-09-13 14:26:54.6794 INFO Get User Success :44-Administrator
+2021-09-13 14:26:54.8286 INFO Get User Success :44-Administrator
+2021-09-13 14:26:55.0059 INFO Get Product Type Master List Success
+2021-09-13 14:27:45.3933 INFO Get Dept List Success
+2021-09-13 14:27:45.4477 INFO Get Product Type Master List Success
+2021-09-13 14:27:48.4891 INFO Get Users List Success
+2021-09-13 14:27:48.5498 INFO Get Product Type Master List Success
+2021-09-13 14:27:51.9012 INFO Org Get List Success
+2021-09-13 14:27:52.0181 INFO Get Party Master List Success
+2021-09-13 14:27:52.0748 INFO Get Role Level List Success
+2021-09-13 14:27:52.1300 INFO Get access_type List Success
+2021-09-13 14:27:52.1864 INFO Get view_Role_master List Success
+2021-09-13 14:27:52.5747 INFO Get State List Success
+2021-09-13 14:27:52.6302 INFO Get Dept List Success
+2021-09-13 14:27:52.6864 INFO Get Emp List Success
+2021-09-13 14:27:53.9096 INFO Get Users List Success
+2021-09-13 14:27:53.9669 INFO Get Product Type Master List Success
+2021-09-13 14:28:14.1207 INFO Get Existing data Fail :user_registration
+2021-09-13 14:28:56.0019 INFO Get Existing data Fail :user_registration
+2021-09-13 14:29:28.6631 INFO Get Division List Success
+2021-09-13 14:32:44.7289 INFO Insert User Success :0-sciedo
+2021-09-13 14:32:52.1807 INFO Get Users List Success
+2021-09-13 14:32:52.2358 INFO Get Product Type Master List Success
+2021-09-13 14:33:19.8674 INFO Get Users List Success
+2021-09-13 14:33:31.0831 INFO Org Get List Success
+2021-09-13 14:33:31.1449 INFO Get Party Master List Success
+2021-09-13 14:33:31.2022 INFO Get Role Level List Success
+2021-09-13 14:33:31.2609 INFO Get access_type List Success
+2021-09-13 14:33:31.3260 INFO Get view_Role_master List Success
+2021-09-13 14:33:31.3878 INFO Get State List Success
+2021-09-13 14:33:31.4438 INFO Get Dept List Success
+2021-09-13 14:33:31.5014 INFO Get Emp List Success
+2021-09-13 14:33:32.0650 INFO Get Users List Success
+2021-09-13 14:33:32.1268 INFO Get User Success :347-sciedo
+2021-09-13 14:33:32.1936 INFO Get Division List Success
+2021-09-13 14:33:32.3274 INFO Get Product Type Master List Success
+2021-09-13 14:35:28.9987 INFO Get Users List Success
+2021-09-13 14:35:29.0642 INFO Get Product Type Master List Success
+2021-09-13 14:35:35.8639 INFO Get Users List Success
+2021-09-13 14:35:41.8836 INFO Org Get List Success
+2021-09-13 14:35:41.9580 INFO Get Party Master List Success
+2021-09-13 14:35:42.4086 INFO Get Role Level List Success
+2021-09-13 14:35:42.4674 INFO Get access_type List Success
+2021-09-13 14:35:42.5277 INFO Get view_Role_master List Success
+2021-09-13 14:35:42.5890 INFO Get State List Success
+2021-09-13 14:35:42.6512 INFO Get Dept List Success
+2021-09-13 14:35:42.7128 INFO Get Emp List Success
+2021-09-13 14:35:43.4210 INFO Get Users List Success
+2021-09-13 14:35:43.4795 INFO Get User Success :347-Assistant Commissioner - SCI
+2021-09-13 14:35:43.5416 INFO Get Division List Success
+2021-09-13 14:35:43.6911 INFO Get Product Type Master List Success
+2021-09-13 17:07:03.9398 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:07:04.0934 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:07:04.2822 INFO Get Product Type Master List Success
+2021-09-13 17:07:04.3570 INFO Get User Success :bhedo
+2021-09-13 17:07:07.2070 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:07:07.2770 INFO Get Product Master List Success
+2021-09-13 17:07:07.4187 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:07:07.4763 INFO Get Product Master List Success
+2021-09-13 17:07:09.5661 INFO Check WorkFlow List Success
+2021-09-13 17:08:54.4564 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:08:56.0673 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:08:56.3536 INFO Get Product Type Master List Success
+2021-09-13 17:08:56.4291 INFO Get User Success :bhedo
+2021-09-13 17:08:59.8215 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:08:59.9043 INFO Get Product Master List Success
+2021-09-13 17:09:00.0503 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:09:00.1131 INFO Get Product Master List Success
+2021-09-13 17:09:02.0009 INFO Check WorkFlow List Success
+2021-09-13 17:10:36.0205 INFO Get RR List Success
+2021-09-13 17:10:36.1325 INFO Get Product Type Master List Success
+2021-09-13 17:10:36.1940 INFO Get User Success :bhedo
+2021-09-13 17:10:58.1842 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:10:58.2409 INFO Get Product Master List Success
+2021-09-13 17:10:58.9310 INFO Get State List Success
+2021-09-13 17:10:58.9899 INFO Get NOC Sucess:418
+2021-09-13 17:10:59.3888 INFO Get NOC Sucess:Req//1
+2021-09-13 17:10:59.7490 INFO Get State List Success
+2021-09-13 17:11:00.2791 INFO Get NOC Details Success
+2021-09-13 17:11:00.3391 INFO Get Customer Details Success
+2021-09-13 17:11:00.5154 INFO Check WorkFlow List Success
+2021-09-13 17:11:00.6389 INFO Get Product Type Master List Success
+2021-09-13 17:11:00.6992 INFO Get User Success :bhedo
+2021-09-13 17:11:06.2839 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:11:06.3412 INFO Get Product Master List Success
+2021-09-13 17:14:49.2577 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:14:49.5020 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:14:49.7376 INFO Get Product Type Master List Success
+2021-09-13 17:14:49.8019 INFO Get User Success :bhedo
+2021-09-13 17:14:52.2511 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:14:52.3135 INFO Get Product Master List Success
+2021-09-13 17:14:52.7400 INFO Get User Success :338-Assistant Commissioner
+2021-09-13 17:14:52.7986 INFO Get Product Master List Success
+2021-09-13 17:14:55.4462 INFO Check WorkFlow List Success
+2021-09-13 17:16:15.9719 INFO Get RR List Success
+2021-09-13 17:16:16.0704 INFO Get Product Type Master List Success
+2021-09-13 17:16:16.1436 INFO Get User Success :bhedo
+2021-09-13 17:16:55.9421 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:16:56.2003 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:16:59.0531 INFO Get Product Type Master List Success
+2021-09-13 17:16:59.6742 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:17:07.0795 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:17:14.9854 INFO Get Product Type Master List Success
+2021-09-13 17:17:15.1300 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:17:34.8107 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:17:35.2043 INFO Get Product Type Master List Success
+2021-09-13 17:17:35.3476 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:17:40.6772 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:17:43.6973 INFO Get Product Type Master List Success
+2021-09-13 17:17:44.1322 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:17:56.7894 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:17:56.8702 INFO Get VAT Master List Success
+2021-09-13 17:22:31.5038 INFO Get User Fail :-Exception while reading from stream
+2021-09-13 17:24:04.0787 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:24:04.3479 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:24:08.0335 INFO Get Product Type Master List Success
+2021-09-13 17:24:08.1772 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:24:13.4083 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:24:19.2295 INFO Get Product Type Master List Success
+2021-09-13 17:24:19.4277 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:24:31.3715 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:24:31.4586 INFO Get Product Type Master List Success
+2021-09-13 17:24:31.5886 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:24:37.0910 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:24:41.2808 INFO Get Product Type Master List Success
+2021-09-13 17:24:41.3527 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:24:43.6287 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:24:43.7062 INFO Get VAT Master List Success
+2021-09-13 17:29:00.3686 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:29:00.4564 INFO Get VAT Master List Success
+2021-09-13 17:29:09.4501 INFO Get Product Type Master List Success
+2021-09-13 17:29:09.5686 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:29:19.2840 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:29:21.7093 INFO Get Product Type Master List Success
+2021-09-13 17:29:21.7828 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:29:23.7136 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:29:23.7777 INFO Get VAT Master List Success
+2021-09-13 17:29:33.3231 INFO Get Product Type Master List Success
+2021-09-13 17:29:33.4477 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:29:44.8639 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:29:47.6209 INFO Get Product Type Master List Success
+2021-09-13 17:29:47.6923 INFO Get User Success :newswadeshi_dis
+2021-09-13 17:30:13.1290 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-09-13 17:30:13.1957 INFO Get VAT Master List Success

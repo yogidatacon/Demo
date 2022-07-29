@@ -1,0 +1,100 @@
+2022-01-14 12:38:46.1670 INFO Get User Success :101-Commissioner
+2022-01-14 12:38:57.4545 INFO Get User Success :101-Commissioner
+2022-01-14 12:38:58.2795 INFO Get Product Type Master List Success
+2022-01-14 12:38:58.4279 INFO Get User Success :com
+2022-01-14 12:39:20.8135 INFO Get User Success :101-Commissioner
+2022-01-14 12:39:20.9030 INFO Get Report  Success
+2022-01-14 12:39:22.5431 INFO Get Product Type Master List Success
+2022-01-14 12:39:22.6166 INFO Get User Success :com
+2022-01-14 12:40:19.1787 INFO Get Report  Success
+2022-01-14 12:40:20.0223 INFO Get GetSeverList Success
+2022-01-14 12:42:04.4529 INFO Get Report  Success
+2022-01-14 12:42:05.0034 INFO Get GetSeverList Success
+2022-01-14 13:41:08.7919 INFO Get User Success :101-Commissioner
+2022-01-14 13:41:31.3630 INFO Get User Success :101-Commissioner
+2022-01-14 13:41:32.0576 INFO Get Product Type Master List Success
+2022-01-14 13:41:32.1302 INFO Get User Success :com
+2022-01-14 13:41:39.7678 INFO Get User Success :101-Commissioner
+2022-01-14 13:41:39.8288 INFO Get Product Master List Success
+2022-01-14 13:41:39.9434 INFO Get User Success :101-Commissioner
+2022-01-14 13:41:40.0035 INFO Get Product Master List Success
+2022-01-14 13:41:40.0666 INFO Check WorkFlow List Success
+2022-01-14 13:44:03.3771 INFO Get RR List Success
+2022-01-14 13:44:03.4997 INFO Get Product Type Master List Success
+2022-01-14 13:44:03.6214 INFO Get User Success :com
+2022-01-14 13:44:18.7973 INFO Get User Success :101-Commissioner
+2022-01-14 13:44:18.9140 INFO Get Product Master List Success
+2022-01-14 13:44:19.4214 INFO Get State List Success
+2022-01-14 13:44:19.4806 INFO Get NOC Sucess:759
+2022-01-14 13:44:19.5977 INFO Get NOC Sucess:Req/2020-21/1
+2022-01-14 13:44:19.8851 INFO Get State List Success
+2022-01-14 13:44:20.1318 INFO Get NOC Details Success
+2022-01-14 13:44:20.1975 INFO Get Customer Details Success
+2022-01-14 13:44:20.3589 INFO Check WorkFlow List Success
+2022-01-14 15:54:05.0280 INFO Get User Success :2652-Case Registration Patna
+2022-01-14 15:54:07.0682 INFO Get Product Type Master List Success
+2022-01-14 15:54:07.1492 INFO Get User Success :casereg_patna
+2022-01-14 15:54:13.5130 INFO Get Product Type Master List Success
+2022-01-14 15:54:13.5894 INFO Get User Success :casereg_patna
+2022-01-14 15:54:45.1885 INFO Get Thana List Success
+2022-01-14 15:54:45.2732 INFO Get Product Type Master List Success
+2022-01-14 15:54:45.3490 INFO Get User Success :casereg_patna
+2022-01-14 15:54:49.9737 INFO Get Thana List Success
+2022-01-14 15:54:50.0468 INFO Get Product Type Master List Success
+2022-01-14 15:54:50.1226 INFO Get User Success :casereg_patna
+2022-01-14 15:57:30.4909 INFO Get User Success :2652-Case Registration Patna
+2022-01-14 15:57:32.4776 INFO Get Product Type Master List Success
+2022-01-14 15:57:32.5627 INFO Get User Success :casereg_patna
+2022-01-14 15:57:39.0636 INFO Get Product Type Master List Success
+2022-01-14 15:57:39.1402 INFO Get User Success :casereg_patna
+2022-01-14 15:58:06.8800 INFO Get Thana List Success
+2022-01-14 15:58:06.9556 INFO Get Product Type Master List Success
+2022-01-14 15:58:07.0313 INFO Get User Success :casereg_patna
+2022-01-14 15:58:09.3882 INFO Get Thana List Success
+2022-01-14 15:58:09.4605 INFO Get Product Type Master List Success
+2022-01-14 15:58:09.5367 INFO Get User Success :casereg_patna
+2022-01-14 16:09:45.8197 INFO Get User Success :2652-Case Registration Patna
+2022-01-14 16:09:46.8706 INFO Get Product Type Master List Success
+2022-01-14 16:09:46.9394 INFO Get User Success :casereg_patna
+2022-01-14 16:09:51.1176 INFO Get Product Type Master List Success
+2022-01-14 16:09:51.1829 INFO Get User Success :casereg_patna
+2022-01-14 16:10:04.5286 INFO Get Thana List Success
+2022-01-14 16:10:08.3000 INFO Get Product Type Master List Success
+2022-01-14 16:10:08.3656 INFO Get User Success :casereg_patna
+2022-01-14 16:10:44.7386 INFO Get Thana List Success
+2022-01-14 16:10:45.7352 INFO Get Product Type Master List Success
+2022-01-14 16:10:45.8003 INFO Get User Success :casereg_patna
+2022-01-14 16:10:56.4347 INFO Get User Success :2652-Case Registration Patna
+2022-01-14 16:10:58.8747 INFO Get Product Type Master List Success
+2022-01-14 16:10:58.9385 INFO Get User Success :casereg_patna
+2022-01-14 16:11:04.0520 INFO Get Product Type Master List Success
+2022-01-14 16:11:04.1168 INFO Get User Success :casereg_patna
+2022-01-14 16:14:15.5468 INFO Get User Success :2652-Case Registration Patna
+2022-01-14 16:14:18.5210 INFO Get Product Type Master List Success
+2022-01-14 16:14:18.5997 INFO Get User Success :casereg_patna
+2022-01-14 16:14:23.1442 INFO Get Product Type Master List Success
+2022-01-14 16:14:23.2250 INFO Get User Success :casereg_patna
+2022-01-14 16:15:20.8927 INFO Get Thana List Success
+2022-01-14 16:17:11.3816 INFO Get User Success :2652-Case Registration Patna
+2022-01-14 16:17:14.0748 INFO Get Product Type Master List Success
+2022-01-14 16:17:14.1536 INFO Get User Success :casereg_patna
+2022-01-14 16:17:37.5207 INFO Get Product Type Master List Success
+2022-01-14 16:17:37.5945 INFO Get User Success :casereg_patna
+2022-01-14 16:18:04.7567 INFO Get Thana List Success
+2022-01-14 16:20:00.0053 INFO Get Product Type Master List Success
+2022-01-14 16:20:00.0711 INFO Get User Success :casereg_patna
+2022-01-14 16:20:07.6276 INFO Get Product Type Master List Success
+2022-01-14 16:20:07.6936 INFO Get User Success :casereg_patna
+2022-01-14 16:20:12.4521 INFO Get Thana List Success
+2022-01-14 16:20:21.3517 INFO Get Product Type Master List Success
+2022-01-14 16:20:21.4166 INFO Get User Success :casereg_patna
+2022-01-14 16:24:19.6996 INFO Get Product Type Master List Success
+2022-01-14 16:24:19.7655 INFO Get User Success :casereg_patna
+2022-01-14 16:24:26.4796 INFO Get Thana List Success
+2022-01-14 16:24:37.8333 INFO Get Product Type Master List Success
+2022-01-14 16:24:37.9071 INFO Get User Success :casereg_patna
+2022-01-14 16:24:44.6866 INFO Get Product Type Master List Success
+2022-01-14 16:24:44.7532 INFO Get User Success :casereg_patna
+2022-01-14 16:24:49.7207 INFO Get Thana List Success
+2022-01-14 16:29:34.6690 INFO Get Product Type Master List Success
+2022-01-14 16:29:34.7517 INFO Get User Success :casereg_patna

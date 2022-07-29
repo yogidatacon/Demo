@@ -1,0 +1,375 @@
+2021-09-27 10:14:16.3164 INFO Get User Success :44-Administrator
+2021-09-27 10:14:17.1028 INFO Get User Success :44-Administrator
+2021-09-27 10:14:17.1336 INFO Get Product Type Master List Success
+2021-09-27 10:14:17.1420 INFO Get User Success :Admin
+2021-09-27 10:14:34.9924 INFO Get User Success :44-Administrator
+2021-09-27 10:14:35.3696 INFO Get Product Type Master List Success
+2021-09-27 10:14:35.3745 INFO Get User Success :Admin
+2021-09-27 10:14:42.7594 INFO Get User Success :44-Administrator
+2021-09-27 10:14:42.7863 INFO Get Pass List Success
+2021-09-27 10:14:42.8099 INFO Get Product Type Master List Success
+2021-09-27 10:14:42.8099 INFO Get User Success :Admin
+2021-09-27 10:33:45.5319 INFO Get User Fail :-A command is already in progress: select * from exciseautomation.view_checkuser where user_id='Admin'
+2021-09-27 10:33:45.5319 INFO Get Dispach Master List Success
+2021-09-27 10:33:52.1996 INFO Get User Success :44-Administrator
+2021-09-27 10:33:52.2205 INFO Get Pass List Success
+2021-09-27 10:33:52.2205 INFO Get Product Type Master List Success
+2021-09-27 10:33:52.2205 INFO Get User Success :Admin
+2021-09-27 10:34:35.5738 INFO Get User Success :44-Administrator
+2021-09-27 10:34:35.5738 INFO Get Dispach Master List Success
+2021-09-27 10:34:52.7501 INFO Get User Success :44-Administrator
+2021-09-27 10:34:52.7721 INFO Get Pass List Success
+2021-09-27 10:34:52.7771 INFO Get Product Type Master List Success
+2021-09-27 10:34:52.7771 INFO Get User Success :Admin
+2021-09-27 10:34:57.6620 INFO Get User Success :44-Administrator
+2021-09-27 10:34:57.6620 INFO Get Dispach Master List Success
+2021-09-27 10:43:27.1217 INFO Get VAT Master List Success
+2021-09-27 10:43:30.7137 INFO Get Pass List Success
+2021-09-27 10:43:31.6211 INFO Get Product Type Master List Success
+2021-09-27 10:43:31.6211 INFO Get User Success :Admin
+2021-09-27 10:43:56.9794 INFO Get User Success :44-Administrator
+2021-09-27 10:43:57.0008 INFO Get Pass List Success
+2021-09-27 10:43:57.0008 INFO Get Product Type Master List Success
+2021-09-27 10:43:57.0008 INFO Get User Success :Admin
+2021-09-27 10:44:02.9049 INFO Get User Success :44-Administrator
+2021-09-27 10:44:02.9049 INFO Get Dispach Master List Success
+2021-09-27 10:44:37.6155 INFO Get VAT Master List Success
+2021-09-27 10:44:39.1174 INFO Get Pass List Success
+2021-09-27 10:47:08.9561 INFO Get Product Type Master List Success
+2021-09-27 10:47:08.9561 INFO Get User Success :Admin
+2021-09-27 10:47:16.0410 INFO Get User Success :44-Administrator
+2021-09-27 10:47:16.0609 INFO Get Pass List Success
+2021-09-27 10:47:16.0609 INFO Get Product Type Master List Success
+2021-09-27 10:47:16.0609 INFO Get User Success :Admin
+2021-09-27 10:47:17.9016 INFO Get User Success :44-Administrator
+2021-09-27 10:47:17.9016 INFO Get Dispach Master List Success
+2021-09-27 10:47:24.2139 INFO Get VAT Master List Success
+2021-09-27 10:48:38.3093 INFO Get Pass List Success
+2021-09-27 10:50:27.4035 INFO Get Product Type Master List Success
+2021-09-27 10:50:27.4035 INFO Get User Success :Admin
+2021-09-27 10:55:06.5979 INFO Get User Success :44-Administrator
+2021-09-27 10:55:06.6188 INFO Get Pass List Success
+2021-09-27 10:55:06.6218 INFO Get Product Type Master List Success
+2021-09-27 10:55:06.6218 INFO Get User Success :Admin
+2021-09-27 10:55:08.4867 INFO Get User Success :44-Administrator
+2021-09-27 10:55:08.4867 INFO Get Dispach Master List Success
+2021-09-27 10:58:39.7128 INFO Get VAT Master List Success
+2021-09-27 10:58:44.3810 INFO Get Pass List Success
+2021-09-27 10:58:45.0926 INFO Get Product Type Master List Success
+2021-09-27 10:58:45.0926 INFO Get User Success :Admin
+2021-09-27 11:00:58.6468 INFO Get User Success :44-Administrator
+2021-09-27 11:00:58.6668 INFO Get Pass List Success
+2021-09-27 11:00:58.6668 INFO Get Product Type Master List Success
+2021-09-27 11:00:58.6668 INFO Get User Success :Admin
+2021-09-27 11:01:00.2223 INFO Get User Success :44-Administrator
+2021-09-27 11:01:00.2223 INFO Get Dispach Master List Success
+2021-09-27 11:01:36.5658 INFO Get VAT Master List Success
+2021-09-27 11:01:38.3494 INFO Get Pass List Success
+2021-09-27 11:01:39.1336 INFO Get Product Type Master List Success
+2021-09-27 11:01:39.1386 INFO Get User Success :Admin
+2021-09-27 11:02:04.1798 INFO Get User Success :44-Administrator
+2021-09-27 11:02:04.2007 INFO Get Pass List Success
+2021-09-27 11:02:04.2007 INFO Get Product Type Master List Success
+2021-09-27 11:02:04.2007 INFO Get User Success :Admin
+2021-09-27 11:02:05.9064 INFO Get User Success :44-Administrator
+2021-09-27 11:02:05.9064 INFO Get Dispach Master List Success
+2021-09-27 11:14:15.1525 INFO Get VAT Master List Success
+2021-09-27 11:14:16.3982 INFO Get Pass List Success
+2021-09-27 11:14:17.1090 INFO Get Product Type Master List Success
+2021-09-27 11:14:17.1090 INFO Get User Success :Admin
+2021-09-27 11:33:30.0615 INFO Get User Success :44-Administrator
+2021-09-27 11:33:30.1653 INFO Get User Success :44-Administrator
+2021-09-27 11:33:30.1932 INFO Get Product Type Master List Success
+2021-09-27 11:33:30.2022 INFO Get User Success :Admin
+2021-09-27 11:33:35.6857 INFO Get User Success :44-Administrator
+2021-09-27 11:33:37.2565 INFO Get Product Type Master List Success
+2021-09-27 11:33:37.2614 INFO Get User Success :Admin
+2021-09-27 11:33:39.3487 INFO Get User Success :44-Administrator
+2021-09-27 11:33:39.3746 INFO Get Pass List Success
+2021-09-27 11:33:39.3963 INFO Get Product Type Master List Success
+2021-09-27 11:33:39.4013 INFO Get User Success :Admin
+2021-09-27 11:33:42.5622 INFO Get User Success :44-Administrator
+2021-09-27 11:33:42.5622 INFO Get Dispach Master List Success
+2021-09-27 11:33:43.7621 INFO Get VAT Master List Success
+2021-09-27 11:33:43.9736 INFO Get Pass List Success
+2021-09-27 11:33:44.1919 INFO Get Product Type Master List Success
+2021-09-27 11:33:44.1919 INFO Get User Success :Admin
+2021-09-27 11:34:17.2634 INFO Pass Issued Sucess:ALL
+2021-09-27 11:34:19.2887 INFO Get User Success :44-Administrator
+2021-09-27 11:34:19.3077 INFO Get Pass List Success
+2021-09-27 11:34:19.3077 INFO Get Product Type Master List Success
+2021-09-27 11:34:19.3077 INFO Get User Success :Admin
+2021-09-27 11:34:23.3259 INFO Get User Success :44-Administrator
+2021-09-27 11:34:23.3259 INFO Get Dispach Master List Success
+2021-09-27 11:34:24.6197 INFO Get VAT Master List Success
+2021-09-27 11:34:24.8849 INFO Get Pass List Success
+2021-09-27 11:34:25.1365 INFO Get Product Type Master List Success
+2021-09-27 11:34:25.1365 INFO Get User Success :Admin
+2021-09-27 11:34:57.7886 INFO Get User Success :44-Administrator
+2021-09-27 11:34:57.8086 INFO Get Pass List Success
+2021-09-27 11:34:57.8086 INFO Get Product Type Master List Success
+2021-09-27 11:34:57.8086 INFO Get User Success :Admin
+2021-09-27 11:35:00.4192 INFO Get Pass List Success
+2021-09-27 11:35:02.3987 INFO Get User Success :44-Administrator
+2021-09-27 11:35:02.3987 INFO Get Dispach Master List Success
+2021-09-27 11:35:09.9487 INFO Get User Success :44-Administrator
+2021-09-27 11:35:09.9487 INFO Get Dispach Master List Success
+2021-09-27 11:38:45.1354 INFO Get VAT Master List Success
+2021-09-27 11:38:45.1354 INFO Get Pass List Success
+2021-09-27 11:38:47.9586 INFO Get Product Type Master List Success
+2021-09-27 11:38:47.9646 INFO Get User Success :Admin
+2021-09-27 11:41:58.8034 INFO Get User Success :44-Administrator
+2021-09-27 11:41:58.8243 INFO Get Pass List Success
+2021-09-27 11:41:58.8243 INFO Get Product Type Master List Success
+2021-09-27 11:41:58.8243 INFO Get User Success :Admin
+2021-09-27 11:42:07.1371 INFO Get User Success :44-Administrator
+2021-09-27 11:42:07.1371 INFO Get Dispach Master List Success
+2021-09-27 11:44:10.3243 INFO Get VAT Master List Success
+2021-09-27 11:44:54.2993 INFO Get Pass List Success
+2021-09-27 11:44:55.1289 INFO Get Product Type Master List Success
+2021-09-27 11:44:55.1289 INFO Get User Success :Admin
+2021-09-27 11:46:46.8374 INFO Get User Success :44-Administrator
+2021-09-27 11:46:46.8563 INFO Get Pass List Success
+2021-09-27 11:46:46.8563 INFO Get Product Type Master List Success
+2021-09-27 11:46:46.8563 INFO Get User Success :Admin
+2021-09-27 11:46:51.9170 INFO Get Pass List Success
+2021-09-27 11:46:55.6929 INFO Get User Success :44-Administrator
+2021-09-27 11:46:55.6929 INFO Get Dispach Master List Success
+2021-09-27 11:47:00.0851 INFO Get VAT Master List Success
+2021-09-27 11:47:00.0851 INFO Get Pass List Success
+2021-09-27 11:47:02.8228 INFO Get Product Type Master List Success
+2021-09-27 11:47:02.8228 INFO Get User Success :Admin
+2021-09-27 11:47:24.7388 INFO Pass Issued Sucess:ALL
+2021-09-27 11:47:27.8328 INFO Get User Success :44-Administrator
+2021-09-27 11:47:27.8548 INFO Get Pass List Success
+2021-09-27 11:47:27.8548 INFO Get Product Type Master List Success
+2021-09-27 11:47:27.8548 INFO Get User Success :Admin
+2021-09-27 11:47:32.6771 INFO Get Pass List Success
+2021-09-27 11:47:33.9222 INFO Get User Success :44-Administrator
+2021-09-27 11:47:33.9222 INFO Get Dispach Master List Success
+2021-09-27 11:47:40.9229 INFO Get VAT Master List Success
+2021-09-27 11:47:40.9229 INFO Get Pass List Success
+2021-09-27 11:47:42.3581 INFO Get Product Type Master List Success
+2021-09-27 11:47:42.3581 INFO Get User Success :Admin
+2021-09-27 11:47:58.4168 INFO Get User Success :44-Administrator
+2021-09-27 11:47:58.4367 INFO Get Pass List Success
+2021-09-27 11:47:58.4367 INFO Get Product Type Master List Success
+2021-09-27 11:47:58.4367 INFO Get User Success :Admin
+2021-09-27 11:48:01.2381 INFO Get User Success :44-Administrator
+2021-09-27 11:48:01.2381 INFO Get Dispach Master List Success
+2021-09-27 11:48:07.4667 INFO Get VAT Master List Success
+2021-09-27 11:48:38.0205 INFO Get Pass List Success
+2021-09-27 11:49:49.6404 INFO Get Product Type Master List Success
+2021-09-27 11:49:49.6404 INFO Get User Success :Admin
+2021-09-27 11:55:32.2880 INFO Get User Success :44-Administrator
+2021-09-27 11:55:32.3106 INFO Get Pass List Success
+2021-09-27 11:55:32.3106 INFO Get Product Type Master List Success
+2021-09-27 11:55:32.3232 INFO Get User Success :Admin
+2021-09-27 14:30:32.9384 INFO Get User Success :44-Administrator
+2021-09-27 14:30:33.2470 INFO Get User Success :44-Administrator
+2021-09-27 14:30:33.2760 INFO Get Product Type Master List Success
+2021-09-27 14:30:33.2760 INFO Get User Success :Admin
+2021-09-27 14:30:46.4868 INFO Get User Success :44-Administrator
+2021-09-27 14:30:46.5445 INFO Get Product Type Master List Success
+2021-09-27 14:30:46.5445 INFO Get User Success :Admin
+2021-09-27 14:31:08.2731 INFO Get User Success :44-Administrator
+2021-09-27 14:31:08.2881 INFO Get Product Type Master List Success
+2021-09-27 14:31:08.2927 INFO Get User Success :Admin
+2021-09-27 14:31:23.7303 INFO Get User Success :44-Administrator
+2021-09-27 14:31:23.7546 INFO Get Product Type Master List Success
+2021-09-27 14:31:23.7546 INFO Get User Success :Admin
+2021-09-27 14:31:49.3495 INFO Get User Success :44-Administrator
+2021-09-27 14:38:18.6681 INFO Get User Success :44-Administrator
+2021-09-27 14:38:18.7713 INFO Get User Success :44-Administrator
+2021-09-27 14:38:18.8022 INFO Get Product Type Master List Success
+2021-09-27 14:38:18.8112 INFO Get User Success :Admin
+2021-09-27 14:38:26.3603 INFO Get Party Type Master List Success
+2021-09-27 14:38:26.4004 INFO Get Product Type Master List Success
+2021-09-27 14:38:26.4057 INFO Get User Success :Admin
+2021-09-27 14:38:31.2565 INFO Sugarcanepurchase Get List Success
+2021-09-27 14:38:31.2565 INFO Get User Success :44-Administrator
+2021-09-27 14:38:31.3112 INFO Get Product Type Master List Success
+2021-09-27 14:38:31.3112 INFO Get User Success :Admin
+2021-09-27 14:38:33.5735 INFO Get User Success :44-Administrator
+2021-09-27 14:38:33.6310 INFO Get Product Type Master List Success
+2021-09-27 14:38:33.6360 INFO Get User Success :Admin
+2021-09-27 14:38:38.3949 INFO Get User Success :44-Administrator
+2021-09-27 14:43:24.2003 INFO Get Product Type Master List Success
+2021-09-27 14:43:24.2003 INFO Get User Success :Admin
+2021-09-27 14:43:43.7157 INFO Get User Success :44-Administrator
+2021-09-27 14:43:43.7412 INFO Get Product Type Master List Success
+2021-09-27 14:43:43.7472 INFO Get User Success :Admin
+2021-09-27 14:43:47.5156 INFO Get User Success :44-Administrator
+2021-09-27 14:43:49.2214 INFO Get Product Type Master List Success
+2021-09-27 14:43:49.2214 INFO Get User Success :Admin
+2021-09-27 14:44:49.7857 INFO Get User Success :44-Administrator
+2021-09-27 14:44:49.8121 INFO Get Product Type Master List Success
+2021-09-27 14:44:49.8121 INFO Get User Success :Admin
+2021-09-27 14:46:07.0707 INFO Get User Success :44-Administrator
+2021-09-27 14:47:08.5512 INFO Get Product Type Master List Success
+2021-09-27 14:47:08.5512 INFO Get User Success :Admin
+2021-09-27 14:47:14.8194 INFO Get User Success :44-Administrator
+2021-09-27 14:47:14.8519 INFO Get Product Type Master List Success
+2021-09-27 14:47:14.8577 INFO Get User Success :Admin
+2021-09-27 14:49:54.3585 INFO Get User Success :44-Administrator
+2021-09-27 14:49:54.3755 INFO Get Product Type Master List Success
+2021-09-27 14:49:54.3755 INFO Get User Success :Admin
+2021-09-27 14:49:55.3628 INFO Get User Success :44-Administrator
+2021-09-27 14:53:27.0763 INFO Get Product Type Master List Success
+2021-09-27 14:53:27.0763 INFO Get User Success :Admin
+2021-09-27 14:53:55.1198 INFO Get User Success :44-Administrator
+2021-09-27 14:54:39.2279 INFO Get Product Type Master List Success
+2021-09-27 14:54:39.2329 INFO Get User Success :Admin
+2021-09-27 14:55:08.3517 INFO Get User Success :44-Administrator
+2021-09-27 14:55:10.5022 INFO Get Product Type Master List Success
+2021-09-27 14:55:10.5022 INFO Get User Success :Admin
+2021-09-27 14:55:25.1732 INFO Get User Success :44-Administrator
+2021-09-27 14:55:27.2382 INFO Get Product Type Master List Success
+2021-09-27 14:55:27.2382 INFO Get User Success :Admin
+2021-09-27 14:55:30.0551 INFO Get User Success :44-Administrator
+2021-09-27 14:55:32.6173 INFO Get Product Type Master List Success
+2021-09-27 14:55:32.6223 INFO Get User Success :Admin
+2021-09-27 15:34:38.7091 INFO Get User Success :44-Administrator
+2021-09-27 15:34:38.8080 INFO Get User Success :44-Administrator
+2021-09-27 15:34:38.8355 INFO Get Product Type Master List Success
+2021-09-27 15:34:38.8437 INFO Get User Success :Admin
+2021-09-27 15:34:59.1486 INFO Get User Success :44-Administrator
+2021-09-27 15:35:00.6803 INFO Get Product Type Master List Success
+2021-09-27 15:35:00.6853 INFO Get User Success :Admin
+2021-09-27 15:35:06.4038 INFO Get User Success :44-Administrator
+2021-09-27 15:35:08.7710 INFO Get Product Type Master List Success
+2021-09-27 15:35:08.7770 INFO Get User Success :Admin
+2021-09-27 15:35:21.3916 INFO Get User Success :44-Administrator
+2021-09-27 15:35:24.1369 INFO Get Product Type Master List Success
+2021-09-27 15:35:24.1369 INFO Get User Success :Admin
+2021-09-27 15:35:27.7432 INFO Get User Success :44-Administrator
+2021-09-27 15:35:29.5837 INFO Get Product Type Master List Success
+2021-09-27 15:35:29.5886 INFO Get User Success :Admin
+2021-09-27 15:36:50.2715 INFO Get User Success :44-Administrator
+2021-09-27 15:36:51.0696 INFO Get Product Type Master List Success
+2021-09-27 15:36:51.0746 INFO Get User Success :Admin
+2021-09-27 15:36:55.8312 INFO Get User Success :44-Administrator
+2021-09-27 15:36:57.5428 INFO Get Product Type Master List Success
+2021-09-27 15:36:57.5428 INFO Get User Success :Admin
+2021-09-27 15:37:02.1065 INFO Get User Success :44-Administrator
+2021-09-27 15:37:03.9107 INFO Get Product Type Master List Success
+2021-09-27 15:37:03.9107 INFO Get User Success :Admin
+2021-09-27 15:37:06.6593 INFO Get User Success :44-Administrator
+2021-09-27 15:37:08.2902 INFO Get Product Type Master List Success
+2021-09-27 15:37:08.2954 INFO Get User Success :Admin
+2021-09-27 15:37:14.4483 INFO Get User Success :44-Administrator
+2021-09-27 15:37:16.4232 INFO Get Product Type Master List Success
+2021-09-27 15:37:16.4232 INFO Get User Success :Admin
+2021-09-27 15:37:20.5074 INFO Get User Success :44-Administrator
+2021-09-27 15:37:22.4227 INFO Get Product Type Master List Success
+2021-09-27 15:37:22.4227 INFO Get User Success :Admin
+2021-09-27 15:37:27.6244 INFO Get User Success :44-Administrator
+2021-09-27 15:37:30.5563 INFO Get Product Type Master List Success
+2021-09-27 15:37:30.5613 INFO Get User Success :Admin
+2021-09-27 15:37:34.7950 INFO Get User Success :44-Administrator
+2021-09-27 15:37:36.4873 INFO Get Product Type Master List Success
+2021-09-27 15:37:36.4873 INFO Get User Success :Admin
+2021-09-27 15:37:45.2105 INFO Get User Success :44-Administrator
+2021-09-27 15:37:49.5218 INFO Get Product Type Master List Success
+2021-09-27 15:37:49.5268 INFO Get User Success :Admin
+2021-09-27 15:38:05.9981 INFO Get User Success :44-Administrator
+2021-09-27 15:38:07.7193 INFO Get Product Type Master List Success
+2021-09-27 15:38:07.7193 INFO Get User Success :Admin
+2021-09-27 15:38:23.4439 INFO Get User Success :44-Administrator
+2021-09-27 15:40:03.3853 INFO Get Product Type Master List Success
+2021-09-27 15:40:03.3853 INFO Get User Success :Admin
+2021-09-27 15:40:03.5159 INFO Get User Success :44-Administrator
+2021-09-27 15:40:03.6933 INFO Get Product Type Master List Success
+2021-09-27 15:40:03.6983 INFO Get User Success :Admin
+2021-09-27 15:40:07.1554 INFO Get User Success :44-Administrator
+2021-09-27 15:40:09.3986 INFO Get Product Type Master List Success
+2021-09-27 15:40:09.4035 INFO Get User Success :Admin
+2021-09-27 15:42:18.0428 INFO Get User Success :44-Administrator
+2021-09-27 15:42:18.2773 INFO Get Product Type Master List Success
+2021-09-27 15:42:18.2773 INFO Get User Success :Admin
+2021-09-27 15:42:42.2926 INFO Get User Success :44-Administrator
+2021-09-27 15:42:43.6893 INFO Get Product Type Master List Success
+2021-09-27 15:42:43.6893 INFO Get User Success :Admin
+2021-09-27 15:42:49.6553 INFO Get User Success :44-Administrator
+2021-09-27 15:42:51.0767 INFO Get Product Type Master List Success
+2021-09-27 15:42:51.0767 INFO Get User Success :Admin
+2021-09-27 15:43:07.0707 INFO Get User Success :44-Administrator
+2021-09-27 15:43:11.1994 INFO Get Product Type Master List Success
+2021-09-27 15:43:11.1994 INFO Get User Success :Admin
+2021-09-27 15:43:15.3404 INFO Get User Success :44-Administrator
+2021-09-27 15:45:31.6506 INFO Get Product Type Master List Success
+2021-09-27 15:45:31.6589 INFO Get User Success :Admin
+2021-09-27 15:45:44.4424 INFO Get User Success :44-Administrator
+2021-09-27 15:45:45.9641 INFO Get Product Type Master List Success
+2021-09-27 15:45:45.9641 INFO Get User Success :Admin
+2021-09-27 15:45:49.5320 INFO Get User Success :44-Administrator
+2021-09-27 15:45:51.6546 INFO Get Product Type Master List Success
+2021-09-27 15:45:51.6546 INFO Get User Success :Admin
+2021-09-27 15:45:56.5962 INFO Get User Success :44-Administrator
+2021-09-27 15:45:57.9178 INFO Get Product Type Master List Success
+2021-09-27 15:45:57.9178 INFO Get User Success :Admin
+2021-09-27 15:46:04.2310 INFO Get User Success :44-Administrator
+2021-09-27 15:46:05.7411 INFO Get Product Type Master List Success
+2021-09-27 15:46:05.7461 INFO Get User Success :Admin
+2021-09-27 15:46:14.1822 INFO Get User Success :44-Administrator
+2021-09-27 15:46:16.7944 INFO Get Product Type Master List Success
+2021-09-27 15:46:16.7944 INFO Get User Success :Admin
+2021-09-27 15:53:59.6802 INFO Get User Success :44-Administrator
+2021-09-27 15:53:59.7259 INFO Get Product Type Master List Success
+2021-09-27 15:53:59.7320 INFO Get User Success :Admin
+2021-09-27 15:54:35.6932 INFO Get User Success :44-Administrator
+2021-09-27 15:54:35.6932 INFO Get UOM List Success
+2021-09-27 15:54:35.7036 INFO Get Party Master List Success
+2021-09-27 15:54:35.7142 INFO Get Product Type Master List Success
+2021-09-27 15:54:35.7142 INFO Get User Success :Admin
+2021-09-27 16:35:43.8752 INFO Get User Success :44-Administrator
+2021-09-27 16:35:43.9743 INFO Get User Success :44-Administrator
+2021-09-27 16:35:44.0026 INFO Get Product Type Master List Success
+2021-09-27 16:35:44.0108 INFO Get User Success :Admin
+2021-09-27 16:36:04.1522 INFO Get User Success :44-Administrator
+2021-09-27 16:36:53.8307 INFO Get Product Type Master List Success
+2021-09-27 16:36:53.8307 INFO Get User Success :Admin
+2021-09-27 16:36:56.3120 INFO Get User Success :44-Administrator
+2021-09-27 16:36:56.3558 INFO Get Product Type Master List Success
+2021-09-27 16:36:56.3558 INFO Get User Success :Admin
+2021-09-27 16:37:01.7483 INFO Get User Success :44-Administrator
+2021-09-27 16:37:01.7483 INFO Get UOM List Success
+2021-09-27 16:37:01.7483 INFO Get Party Master List Success
+2021-09-27 16:37:01.7746 INFO Get Product Type Master List Success
+2021-09-27 16:37:01.7794 INFO Get User Success :Admin
+2021-09-27 16:37:04.3705 INFO Get User Success :44-Administrator
+2021-09-27 16:37:04.3964 INFO Get Product Type Master List Success
+2021-09-27 16:37:04.4014 INFO Get User Success :Admin
+2021-09-27 16:37:06.4607 INFO Get User Success :44-Administrator
+2021-09-27 16:37:06.4607 INFO Get UOM List Success
+2021-09-27 16:37:06.4657 INFO Get Party Master List Success
+2021-09-27 16:37:06.4657 INFO Get Product Type Master List Success
+2021-09-27 16:37:06.4657 INFO Get User Success :Admin
+2021-09-27 16:37:08.5637 INFO Get User Success :44-Administrator
+2021-09-27 16:37:08.5869 INFO Get Product Type Master List Success
+2021-09-27 16:37:08.5922 INFO Get User Success :Admin
+2021-09-27 16:37:13.9103 INFO Get User Success :44-Administrator
+2021-09-27 16:37:13.9103 INFO Get UOM List Success
+2021-09-27 16:37:13.9103 INFO Get Party Master List Success
+2021-09-27 16:37:13.9193 INFO Get Product Type Master List Success
+2021-09-27 16:37:13.9193 INFO Get User Success :Admin
+2021-09-27 16:38:47.3116 INFO Get User Success :44-Administrator
+2021-09-27 16:38:47.3331 INFO Get Product Type Master List Success
+2021-09-27 16:38:47.3331 INFO Get User Success :Admin
+2021-09-27 16:38:49.0708 INFO Get User Success :44-Administrator
+2021-09-27 16:38:49.0708 INFO Get UOM List Success
+2021-09-27 16:38:49.0739 INFO Get Party Master List Success
+2021-09-27 16:45:04.4641 INFO Get User Success :44-Administrator
+2021-09-27 16:45:04.4884 INFO Get Product Type Master List Success
+2021-09-27 16:45:04.4884 INFO Get User Success :Admin
+2021-09-27 16:45:06.8424 INFO Get User Success :44-Administrator
+2021-09-27 16:45:06.8424 INFO Get UOM List Success
+2021-09-27 16:45:06.8424 INFO Get Party Master List Success
+2021-09-27 16:45:09.4787 INFO Get Product Type Master List Success
+2021-09-27 16:45:09.4837 INFO Get User Success :Admin
+2021-09-27 16:46:24.3522 INFO Get User Success :44-Administrator
+2021-09-27 16:46:24.3730 INFO Get Product Type Master List Success
+2021-09-27 16:46:24.3730 INFO Get User Success :Admin
+2021-09-27 16:46:26.5327 INFO Get User Success :44-Administrator
+2021-09-27 16:46:26.5327 INFO Get UOM List Success
+2021-09-27 16:46:26.5327 INFO Get Party Master List Success

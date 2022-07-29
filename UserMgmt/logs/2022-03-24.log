@@ -1,0 +1,80 @@
+2022-03-24 10:04:44.9147 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 10:05:28.9059 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 10:07:28.4214 INFO Get User Success :3570-Receiving Section Chemical Lab
+2022-03-24 10:07:35.3592 INFO Get User Success :3570-Receiving Section Chemical Lab
+2022-03-24 10:07:51.6640 INFO Get User Success :3570-Receiving Section Chemical Lab
+2022-03-24 10:08:10.6895 INFO Get User Success :3570-Receiving Section Chemical Lab
+2022-03-24 10:08:40.3377 INFO Get User Success :3570-Receiving Section Chemical Lab
+2022-03-24 10:08:44.4291 INFO Get User Success :3570-Receiving Section Chemical Lab
+2022-03-24 10:44:08.7090 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-24 10:44:19.0270 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-24 10:44:19.4040 INFO Get Product Type Master List Success
+2022-03-24 10:44:19.5237 INFO Get User Success :kent_lab
+2022-03-24 10:44:29.3119 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-24 10:44:36.5560 INFO Get Product Type Master List Success
+2022-03-24 10:44:36.6238 INFO Get User Success :kent_lab
+2022-03-24 10:44:38.3225 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-24 10:44:38.6540 INFO Get Product Type Master List Success
+2022-03-24 10:44:38.7239 INFO Get User Success :kent_lab
+2022-03-24 10:44:40.7516 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-24 10:45:00.0313 INFO Get Product Type Master List Success
+2022-03-24 10:45:00.1720 INFO Get User Success :kent_lab
+2022-03-24 10:45:11.4529 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-24 10:45:34.6274 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-24 10:45:37.6043 INFO Get Allotment List Success
+2022-03-24 10:45:37.6681 INFO Get Product Type Master List Success
+2022-03-24 10:45:37.8069 INFO Get User Success :kent_lab
+2022-03-24 10:45:47.1671 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-24 10:45:47.2220 INFO Get Product Master List Success
+2022-03-24 10:45:47.3326 INFO Get VAT Master List Success
+2022-03-24 10:45:47.4001 INFO Get VAT Master List Success
+2022-03-24 10:45:47.5738 INFO Get Allotment Details Success
+2022-03-24 10:45:47.7193 INFO Get Product Type Master List Success
+2022-03-24 10:45:47.7839 INFO Get User Success :kent_lab
+2022-03-24 10:46:02.3903 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-24 10:46:07.1210 INFO Get Allotment List Success
+2022-03-24 10:46:07.5016 INFO Get Product Type Master List Success
+2022-03-24 10:46:07.6585 INFO Get User Success :kent_lab
+2022-03-24 10:46:10.4753 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-24 10:46:10.5360 INFO Get Product Master List Success
+2022-03-24 10:46:10.6396 INFO Get VAT Master List Success
+2022-03-24 10:46:10.7605 INFO Get VAT Master List Success
+2022-03-24 10:46:10.8136 INFO Get Product Type Master List Success
+2022-03-24 10:46:10.9363 INFO Get User Success :kent_lab
+2022-03-24 10:58:06.6794 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-24 10:58:09.7124 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-24 10:58:09.7967 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-24 10:58:09.8464 INFO Get Allotment List Success
+2022-03-24 10:58:09.8973 INFO Get Product Type Master List Success
+2022-03-24 10:58:10.0001 INFO Get User Success :kent_lab
+2022-03-24 16:01:58.4461 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:03:29.1264 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:03:32.1083 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:03:32.5358 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:03:53.4687 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:03:59.7134 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:04:10.9238 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:04:14.6945 INFO Get User Success :3573-labtec Chemical Lab
+2022-03-24 16:04:20.5456 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:04:37.0931 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:08:56.5077 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:20:53.7021 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:21:31.0747 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:21:35.6716 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:21:52.9804 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:29:31.8348 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:29:37.4086 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 16:29:47.6701 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:05:49.0821 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:05:50.7819 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:05:56.9634 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:06:17.6813 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:09:01.4014 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:19:11.6544 INFO Get User Success :3571-disoff Chemical Lab
+2022-03-24 17:40:58.3903 INFO Get User Fail :-The operation has timed out.

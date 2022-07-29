@@ -1,0 +1,526 @@
+2021-01-09 11:18:17.8587 INFO Get User Success :104-Riga Distillery Division
+2021-01-09 11:18:17.9708 INFO Get User Success :riga_dis
+2021-01-09 11:18:21.5566 INFO Get User Success :104-Riga Distillery Division
+2021-01-09 11:18:21.6001 INFO Get State List Success
+2021-01-09 11:18:21.6529 INFO Get User Success :riga_dis
+2021-01-09 12:07:41.3653 INFO Get User Success :44-Administrator
+2021-01-09 12:07:58.6325 INFO Get State List Success
+2021-01-09 12:09:05.1786 INFO Get State List Success
+2021-01-09 12:09:05.2502 INFO Get Division List Success
+2021-01-09 12:09:10.5466 INFO Get State List Success
+2021-01-09 12:09:10.6097 INFO Get Division List Success
+2021-01-09 12:09:15.5904 INFO Get State List Success
+2021-01-09 12:09:15.6535 INFO Get Division List Success
+2021-01-09 12:09:17.8560 INFO Get Role Level List Success
+2021-01-09 12:09:23.0391 INFO Get view_Role_master List Success
+2021-01-09 12:09:24.9892 INFO Get Role Level List Success
+2021-01-09 12:09:26.6235 INFO Get view_Role_master List Success
+2021-01-09 12:10:02.4772 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:10:03.0180 INFO Get User Success :majhaulia_dis
+2021-01-09 12:10:12.1816 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:10:12.2698 INFO Get State List Success
+2021-01-09 12:10:12.3690 INFO Get User Success :majhaulia_dis
+2021-01-09 12:10:53.2860 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:11:00.6995 INFO Get State List Success
+2021-01-09 12:11:47.7412 INFO Get State List Success
+2021-01-09 12:11:47.8571 INFO Get User Success :majhaulia_dis
+2021-01-09 12:12:09.6915 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:12:46.4855 INFO Get State List Success
+2021-01-09 12:12:46.6024 INFO Get User Success :majhaulia_dis
+2021-01-09 12:12:57.5353 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:12:57.6022 INFO Get State List Success
+2021-01-09 12:12:57.6711 INFO Get Customer Details Success
+2021-01-09 12:12:57.9398 INFO Get Thana List Success
+2021-01-09 12:12:58.0199 INFO Get User Success :majhaulia_dis
+2021-01-09 12:13:27.5996 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:13:27.6699 INFO Get State List Success
+2021-01-09 12:13:27.8014 INFO Get User Success :majhaulia_dis
+2021-01-09 12:13:55.3678 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:13:55.4297 INFO Get State List Success
+2021-01-09 12:13:55.5628 INFO Get User Success :majhaulia_dis
+2021-01-09 12:14:19.1821 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:14:19.4180 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:14:22.4642 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:14:22.6734 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:15:17.5386 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:15:17.6148 INFO Get Pass List Success
+2021-01-09 12:15:17.7502 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:15:46.3432 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:15:46.5245 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:16:09.5851 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:16:09.8136 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:16:10.8553 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:16:10.9297 INFO Get State List Success
+2021-01-09 12:16:11.0703 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:16:14.2528 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:16:14.3282 INFO Get State List Success
+2021-01-09 12:16:14.4693 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:16:33.3672 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:16:44.7745 INFO Get State List Success
+2021-01-09 12:38:48.4744 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:38:49.1962 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:39:00.8579 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:39:00.9996 INFO Get State List Success
+2021-01-09 12:39:01.1943 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:39:39.8120 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:42:06.4882 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:42:07.1611 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:42:18.9798 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:43:01.9033 INFO Get State List Success
+2021-01-09 12:43:02.0402 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:43:08.7873 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:43:44.0639 INFO Get State List Success
+2021-01-09 12:43:44.1865 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:44:06.9654 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 12:44:07.0276 INFO Get State List Success
+2021-01-09 12:44:13.9052 INFO Get User Success :newswadeshi_sgr
+2021-01-09 12:44:22.7612 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:44:23.2723 INFO Get User Success :majhaulia_dis
+2021-01-09 12:44:25.2132 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:44:25.2752 INFO Get State List Success
+2021-01-09 12:44:25.4232 INFO Get User Success :majhaulia_dis
+2021-01-09 12:45:04.8103 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:45:04.8742 INFO Get Customer Details Success
+2021-01-09 12:45:04.9998 INFO Get User Success :majhaulia_dis
+2021-01-09 12:45:20.0690 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:45:27.3900 INFO Get State List Success
+2021-01-09 12:45:27.4507 INFO Get Customer Details Success
+2021-01-09 12:45:27.5864 INFO Get User Success :majhaulia_dis
+2021-01-09 12:46:27.0375 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:46:27.1082 INFO Get State List Success
+2021-01-09 12:46:27.3107 INFO Get User Success :majhaulia_dis
+2021-01-09 12:46:29.6129 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:46:29.6818 INFO Get State List Success
+2021-01-09 12:46:29.7486 INFO Get Customer Details Success
+2021-01-09 12:46:29.8925 INFO Get User Success :majhaulia_dis
+2021-01-09 12:47:13.7071 INFO Insert State Sucesss
+2021-01-09 12:47:13.8014 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:47:13.8841 INFO Get State List Success
+2021-01-09 12:47:14.0614 INFO Get User Success :majhaulia_dis
+2021-01-09 12:47:19.9819 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:47:20.1263 INFO Get State List Success
+2021-01-09 12:47:20.2875 INFO Get Customer Details Success
+2021-01-09 12:47:20.6157 INFO Get User Success :majhaulia_dis
+2021-01-09 12:51:22.8330 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:51:23.5293 INFO Get User Success :majhaulia_dis
+2021-01-09 12:51:26.2096 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:51:26.2889 INFO Get State List Success
+2021-01-09 12:51:26.4203 INFO Get User Success :majhaulia_dis
+2021-01-09 12:51:29.0367 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:51:29.1029 INFO Get State List Success
+2021-01-09 12:51:29.1785 INFO Get Customer Details Success
+2021-01-09 12:51:29.3122 INFO Get User Success :majhaulia_dis
+2021-01-09 12:51:53.5883 INFO Insert State Sucesss
+2021-01-09 12:51:53.6943 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:51:53.7775 INFO Get State List Success
+2021-01-09 12:51:53.8686 INFO Get User Success :majhaulia_dis
+2021-01-09 12:52:04.3828 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:52:04.4707 INFO Get State List Success
+2021-01-09 12:52:04.5578 INFO Get Customer Details Success
+2021-01-09 12:52:04.7447 INFO Get User Success :majhaulia_dis
+2021-01-09 12:53:20.6491 INFO Insert State Sucesss
+2021-01-09 12:53:20.7426 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:53:20.8338 INFO Get State List Success
+2021-01-09 12:53:20.9435 INFO Get User Success :majhaulia_dis
+2021-01-09 12:53:37.6838 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:53:37.7822 INFO Get State List Success
+2021-01-09 12:54:34.9368 INFO Get Customer Details Success
+2021-01-09 12:54:35.0971 INFO Get User Success :majhaulia_dis
+2021-01-09 12:54:44.8799 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:54:44.9836 INFO Get State List Success
+2021-01-09 12:55:02.1492 INFO Get Customer Details Success
+2021-01-09 12:55:28.5388 INFO Get User Success :majhaulia_dis
+2021-01-09 12:55:31.3576 INFO Insert State Sucesss
+2021-01-09 12:55:31.4919 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:55:31.5654 INFO Get State List Success
+2021-01-09 12:55:31.6372 INFO Get User Success :majhaulia_dis
+2021-01-09 12:55:54.9275 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:56:43.7886 INFO Get State List Success
+2021-01-09 12:56:43.9547 INFO Get User Success :majhaulia_dis
+2021-01-09 12:57:03.7051 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:57:06.5984 INFO Get State List Success
+2021-01-09 12:57:06.7112 INFO Get User Success :majhaulia_dis
+2021-01-09 12:57:14.7948 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 12:57:14.8700 INFO Get State List Success
+2021-01-09 12:57:14.9437 INFO Get Customer Details Success
+2021-01-09 12:57:15.1052 INFO Get User Success :majhaulia_dis
+2021-01-09 13:00:11.9356 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:00:12.7428 INFO Get User Success :majhaulia_dis
+2021-01-09 13:00:16.1818 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:00:18.2375 INFO Get RR List Success
+2021-01-09 13:00:18.3719 INFO Get User Success :majhaulia_dis
+2021-01-09 13:00:20.6251 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:00:20.7013 INFO Get Product Master List Success
+2021-01-09 13:00:20.7880 INFO Get State List Success
+2021-01-09 13:00:20.9002 INFO Get NOC Sucess:29
+2021-01-09 13:00:20.9889 INFO Get NOC Sucess:8
+2021-01-09 13:00:21.3989 INFO Get NOC Details Success
+2021-01-09 13:00:21.4870 INFO Get Customer Details Success
+2021-01-09 13:00:21.6272 INFO Check WorkFlow List Success
+2021-01-09 13:00:21.8440 INFO Get User Success :majhaulia_dis
+2021-01-09 13:00:27.5733 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:00:29.4813 INFO Get RR List Success
+2021-01-09 13:00:29.5641 INFO Get User Success :majhaulia_dis
+2021-01-09 13:00:31.2458 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:00:31.3417 INFO Get Product Master List Success
+2021-01-09 13:00:31.4494 INFO Get State List Success
+2021-01-09 13:00:31.5570 INFO Get NOC Sucess:29
+2021-01-09 13:00:31.6616 INFO Get NOC Sucess:8
+2021-01-09 13:00:31.7534 INFO Get User Success :majhaulia_dis
+2021-01-09 13:00:34.5804 INFO Get Customer Details Success
+2021-01-09 13:00:37.7829 INFO Get Customer Details Success
+2021-01-09 13:00:39.9130 INFO Get Customer Details Success
+2021-01-09 13:00:41.5565 INFO Get Customer Details Success
+2021-01-09 13:06:27.2140 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:06:28.0105 INFO Get User Success :majhaulia_dis
+2021-01-09 13:06:36.5506 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-01-09 13:06:36.8326 INFO Get User Success :majhaulia_dis
+2021-01-09 13:06:53.7145 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:06:54.2272 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:06:57.2192 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:06:57.4985 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:07:00.3728 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:07:00.4319 INFO Get Dispach Master List Success
+2021-01-09 13:07:00.5955 INFO Get VAT Master List Success
+2021-01-09 13:07:00.7622 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:20:53.6086 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:20:53.7075 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:20:59.8547 INFO Sugarcanepurchase Get List Success
+2021-01-09 13:20:59.8547 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:20:59.8845 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:21:01.7367 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:21:01.7774 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:21:03.2884 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:21:03.3443 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:21:07.6681 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:21:07.6893 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:21:09.4520 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:21:09.4719 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:23:03.0225 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:23:03.0508 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:23:24.6211 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:23:24.6491 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:24:03.7354 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:25:33.8348 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:25:39.6925 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 13:25:39.7351 INFO Get User Success :newswadeshi_sgr
+2021-01-09 13:41:03.3078 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:41:03.3832 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:41:18.9811 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:41:19.0296 INFO Get RR List Success
+2021-01-09 13:41:19.0686 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:41:21.4157 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:41:21.4317 INFO Get Product Master List Success
+2021-01-09 13:41:21.4676 INFO Get State List Success
+2021-01-09 13:42:16.4495 INFO Get NOC Sucess:Req/SI/RSD/MOL-NOC/2020-21/91
+2021-01-09 13:42:16.4495 INFO Get NOC Sucess:1
+2021-01-09 13:42:16.4694 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:42:58.9271 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:42:58.9271 INFO Get Product Master List Success
+2021-01-09 13:43:02.0566 INFO Get State List Success
+2021-01-09 13:43:03.0753 INFO Get NOC Sucess:Req/SI/RSD/MOL-NOC/2020-21/91
+2021-01-09 13:44:20.0274 INFO Get NOC Sucess:Req/SI/RSD/MOL-NOC/2020-21/91
+2021-01-09 13:44:20.0483 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:44:38.8229 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:44:38.8229 INFO Get Product Master List Success
+2021-01-09 13:44:42.9436 INFO Get State List Success
+2021-01-09 13:44:44.2917 INFO Get NOC Sucess:10
+2021-01-09 13:45:21.8180 INFO Get NOC Sucess:0
+2021-01-09 13:45:21.8180 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:45:28.6386 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:45:28.6386 INFO Get Product Master List Success
+2021-01-09 13:45:28.6386 INFO Get State List Success
+2021-01-09 13:45:28.6446 INFO Get NOC Sucess:10
+2021-01-09 13:45:47.7725 INFO Get NOC Sucess:0
+2021-01-09 13:45:47.8972 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:46:10.9022 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:46:10.9022 INFO Get Product Master List Success
+2021-01-09 13:46:10.9022 INFO Get State List Success
+2021-01-09 13:46:10.9112 INFO Get NOC Sucess:10
+2021-01-09 13:46:32.7765 INFO Get NOC Sucess:0
+2021-01-09 13:47:18.0046 INFO Get NOC Sucess:0
+2021-01-09 13:47:18.0046 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:48:46.6067 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:48:46.6067 INFO Get Product Master List Success
+2021-01-09 13:48:46.6067 INFO Get State List Success
+2021-01-09 13:48:46.6137 INFO Get NOC Sucess:10
+2021-01-09 13:51:51.5641 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/1
+2021-01-09 13:51:51.5760 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:52:00.3080 INFO Get Customer Details Success
+2021-01-09 13:52:14.4713 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:52:14.4935 INFO Get RR List Success
+2021-01-09 13:52:14.5304 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:52:18.5293 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:52:18.5437 INFO Get RR List Success
+2021-01-09 13:52:18.5643 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:52:20.0582 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:52:20.0582 INFO Get RR List Success
+2021-01-09 13:52:20.0738 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:52:21.2167 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:52:21.2167 INFO Get RR List Success
+2021-01-09 13:52:21.2281 INFO Get RR No Sucess:Req/WC/NSD/RR/2020-21/21
+2021-01-09 13:52:21.2394 INFO Get RR List Success
+2021-01-09 13:52:21.2549 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:52:46.2076 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:52:51.1877 INFO Get RR List Success
+2021-01-09 13:53:35.1514 INFO Get RR No Sucess:Req/WC/NSD/RR/2020-21/21
+2021-01-09 13:53:35.1624 INFO Get RR List Success
+2021-01-09 13:53:35.1624 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:53:40.1213 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:53:40.1213 INFO Get RR List Success
+2021-01-09 13:53:40.1363 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:53:41.1316 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:53:41.1316 INFO Get RR List Success
+2021-01-09 13:53:41.1556 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:53:46.9768 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:53:46.9768 INFO Get RR List Success
+2021-01-09 13:53:46.9917 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:54:20.5496 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:54:32.8732 INFO Get RR List Success
+2021-01-09 13:55:37.0655 INFO Get RR No Sucess:Req/WC/NSD/RR/2020-21/3
+2021-01-09 13:55:37.0755 INFO Get RR List Success
+2021-01-09 13:55:37.0884 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:56:20.9474 INFO Module Insertion Sucess:Req/WC/NSD/RR/2020-21/3-NSD
+2021-01-09 13:56:20.9741 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:56:20.9741 INFO Get RR List Success
+2021-01-09 13:56:20.9897 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:56:24.6571 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:56:24.6696 INFO Get RR List Success
+2021-01-09 13:56:24.6817 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:56:28.6708 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:56:28.6803 INFO Get RR Details Success
+2021-01-09 13:56:28.6935 INFO Get RR List Success
+2021-01-09 13:56:28.7313 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:57:08.3562 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:58:31.6696 INFO Get RR Details Success
+2021-01-09 13:58:31.6886 INFO Get RR List Success
+2021-01-09 13:58:31.7045 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:58:41.1430 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:58:47.4776 INFO Get RR Details Success
+2021-01-09 13:58:47.4886 INFO Get RR List Success
+2021-01-09 13:58:47.4886 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:58:51.5267 INFO Get MaxID Success :Module_master
+2021-01-09 13:58:51.5582 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:58:51.5682 INFO Get RR List Success
+2021-01-09 13:58:51.5928 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:58:54.3012 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:58:54.3012 INFO Get RR Details Success
+2021-01-09 13:58:54.3223 INFO Get RR List Success
+2021-01-09 13:58:54.3343 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:59:33.0779 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:59:33.0888 INFO Get RR List Success
+2021-01-09 13:59:33.1078 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:59:35.2091 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:59:35.2091 INFO Get Product Master List Success
+2021-01-09 13:59:35.2091 INFO Get State List Success
+2021-01-09 13:59:35.2091 INFO Get NOC Sucess:10
+2021-01-09 13:59:35.2091 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/1
+2021-01-09 13:59:35.2296 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:59:40.0503 INFO Get Customer Details Success
+2021-01-09 13:59:49.4136 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:59:49.4136 INFO Get State List Success
+2021-01-09 13:59:49.4323 INFO Get User Success :newswadeshi_dis
+2021-01-09 13:59:51.7078 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 13:59:51.7078 INFO Get State List Success
+2021-01-09 13:59:51.7078 INFO Get Customer Details Success
+2021-01-09 13:59:51.7283 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:00:09.1182 INFO Insert State Sucesss
+2021-01-09 14:00:09.1447 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:00:09.1447 INFO Get State List Success
+2021-01-09 14:00:09.1447 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:00:11.0545 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:00:11.0545 INFO Get State List Success
+2021-01-09 14:00:11.0545 INFO Get Customer Details Success
+2021-01-09 14:00:11.0724 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:00:13.4635 INFO Insert State Sucesss
+2021-01-09 14:00:13.4872 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:00:13.4911 INFO Get State List Success
+2021-01-09 14:00:13.4911 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:00:17.7789 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:00:17.7897 INFO Get RR List Success
+2021-01-09 14:00:17.8010 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:00:19.9610 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:00:19.9610 INFO Get Product Master List Success
+2021-01-09 14:00:19.9610 INFO Get State List Success
+2021-01-09 14:00:19.9610 INFO Get NOC Sucess:10
+2021-01-09 14:00:19.9610 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/1
+2021-01-09 14:00:19.9810 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:00:24.2498 INFO Get Customer Details Success
+2021-01-09 14:01:07.2298 INFO NOC Insertion Sucess:10-NSD
+2021-01-09 14:01:07.2607 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:01:07.2706 INFO Get RR List Success
+2021-01-09 14:01:07.2936 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:01:13.0265 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:01:13.0265 INFO Get Product Master List Success
+2021-01-09 14:01:13.0265 INFO Get State List Success
+2021-01-09 14:01:13.0265 INFO Get NOC Sucess:11
+2021-01-09 14:01:13.0385 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/101
+2021-01-09 14:03:00.8326 INFO Get NOC Details Fail:42601: syntax error at or near "noc_id"
+2021-01-09 14:03:44.2571 INFO Get NOC Details Fail:42601: syntax error at or near "noc_id"
+2021-01-09 14:04:15.7609 INFO Get NOC Details Success
+2021-01-09 14:04:15.7609 INFO Get Customer Details Success
+2021-01-09 14:04:15.7789 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:04:22.0777 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:04:22.0883 INFO Get RR List Success
+2021-01-09 14:04:22.0992 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:04:23.6671 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 14:04:23.6671 INFO Get Product Master List Success
+2021-01-09 14:04:23.6671 INFO Get State List Success
+2021-01-09 14:04:23.6671 INFO Get NOC Sucess:11
+2021-01-09 14:04:23.6762 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/101
+2021-01-09 14:04:23.6762 INFO Get NOC Details Success
+2021-01-09 14:04:23.6762 INFO Get Customer Details Success
+2021-01-09 14:04:23.6939 INFO Get User Success :newswadeshi_dis
+2021-01-09 14:53:54.1649 INFO Get User Success :100-Deputy Commissioner
+2021-01-09 14:53:54.5565 INFO Get User Success :hodyco
+2021-01-09 15:11:24.1550 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:11:24.2991 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:11:28.5564 INFO Sugarcanepurchase Get List Success
+2021-01-09 15:11:28.5564 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:11:28.6001 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:11:29.8958 INFO MIR GetList Sucess
+2021-01-09 15:11:29.8958 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:11:29.9297 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:11:39.1008 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:11:39.1137 INFO Get VAT Master List Success
+2021-01-09 15:11:39.1319 INFO Get Pass List Success
+2021-01-09 15:11:39.1319 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:11:43.9230 INFO MIR GetList Sucess
+2021-01-09 15:11:43.9260 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:11:43.9260 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:11:53.3966 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:11:53.3966 INFO Get VAT Master List Success
+2021-01-09 15:11:53.4119 INFO Get Pass List Success
+2021-01-09 15:11:53.4119 INFO MIR GetDetails Sucess
+2021-01-09 15:11:53.4264 INFO Get Pass List Success
+2021-01-09 15:11:53.4434 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:12:10.8996 INFO MIR GetList Sucess
+2021-01-09 15:12:10.8996 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:12:10.9127 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:12:20.4196 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:20.4395 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:12:23.5331 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:23.5520 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:12:27.3540 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:27.3830 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:12:41.3466 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:41.3596 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:12:42.9467 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:42.9654 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:12:49.5915 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:49.6025 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:12:54.3434 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:12:54.3621 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:13:02.8577 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:13:02.8698 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:13:03.9912 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:13:04.0123 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:13:06.7648 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:13:06.7764 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:13:09.4091 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:13:09.4410 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:13:16.3138 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:13:16.3251 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:13:18.4410 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:13:18.4594 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:14:15.9280 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:15:46.8184 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:15:59.5865 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 15:15:59.5978 INFO Get User Success :newswadeshi_dis
+2021-01-09 15:16:11.3327 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:11.3327 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:15.0482 INFO Sugarcanepurchase Get List Success
+2021-01-09 15:16:15.0517 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:15.0517 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:15.9389 INFO MIR GetList Sucess
+2021-01-09 15:16:15.9420 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:15.9420 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:18.7129 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:18.7229 INFO Get VAT Master List Success
+2021-01-09 15:16:18.7229 INFO Get Pass List Success
+2021-01-09 15:16:18.7229 INFO MIR GetDetails Sucess
+2021-01-09 15:16:18.7229 INFO Get Pass List Success
+2021-01-09 15:16:18.7469 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:21.9938 INFO MIR GetList Sucess
+2021-01-09 15:16:21.9938 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:22.0088 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:22.9036 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:22.9135 INFO Get VAT Master List Success
+2021-01-09 15:16:22.9135 INFO Get Pass List Success
+2021-01-09 15:16:22.9135 INFO MIR GetDetails Sucess
+2021-01-09 15:16:22.9135 INFO Get Pass List Success
+2021-01-09 15:16:22.9354 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:24.2769 INFO MIR GetList Sucess
+2021-01-09 15:16:24.2769 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:24.2912 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:24.9806 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:24.9906 INFO Get VAT Master List Success
+2021-01-09 15:16:24.9906 INFO Get Pass List Success
+2021-01-09 15:16:24.9906 INFO MIR GetDetails Sucess
+2021-01-09 15:16:24.9906 INFO Get Pass List Success
+2021-01-09 15:16:25.0149 INFO Get User Success :newswadeshi_sgr
+2021-01-09 15:16:26.8668 INFO MIR GetList Sucess
+2021-01-09 15:16:26.8668 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-01-09 15:16:26.8808 INFO Get User Success :newswadeshi_sgr
+2021-01-09 16:05:53.6385 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:05:54.3347 INFO Get User Success :harinagar_sgr
+2021-01-09 16:06:00.5836 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:06:00.8400 INFO Get User Success :harinagar_sgr
+2021-01-09 16:06:02.8589 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:06:02.9217 INFO Get Dispach Master List Success
+2021-01-09 16:08:21.3566 INFO Get VAT Master List Success
+2021-01-09 16:08:21.4925 INFO Get User Success :harinagar_sgr
+2021-01-09 16:08:29.8161 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:08:30.0257 INFO Get User Success :harinagar_sgr
+2021-01-09 16:08:32.9806 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:08:33.0421 INFO Get Dispach Master List Success
+2021-01-09 16:08:33.1689 INFO Get VAT Master List Success
+2021-01-09 16:08:33.3012 INFO Get User Success :harinagar_sgr
+2021-01-09 16:08:39.7366 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:08:39.8044 INFO Get Dispach Master List Success
+2021-01-09 16:09:23.4225 INFO Get VAT Master List Success
+2021-01-09 16:09:23.5533 INFO Get User Success :harinagar_sgr
+2021-01-09 16:09:35.0712 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:09:35.1429 INFO Get Pass List Success
+2021-01-09 16:09:35.2734 INFO Get User Success :harinagar_sgr
+2021-01-09 16:09:38.9899 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:09:39.2165 INFO Get User Success :harinagar_sgr
+2021-01-09 16:10:22.3077 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-09 16:10:22.3762 INFO Get Dispach Master List Success
+2021-01-09 16:10:37.6792 INFO Get VAT Master List Success
+2021-01-09 16:10:37.8154 INFO Get User Success :harinagar_sgr
+2021-01-09 16:53:20.0409 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-09 16:53:20.7353 INFO Get User Success :newswadeshi_sgrbo
+2021-01-09 16:53:25.8633 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-09 16:53:25.9867 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2021-01-09 16:53:26.1222 INFO Get Pass List Success
+2021-01-09 16:53:26.2379 INFO Get User Success :newswadeshi_sgrbo
+2021-01-09 16:56:41.0199 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:56:41.8181 INFO Get User Success :newswadeshi_dis
+2021-01-09 16:56:46.8254 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:56:47.1258 INFO Get User Success :newswadeshi_dis
+2021-01-09 16:56:54.8674 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:56:55.0008 INFO Get Pass List Success
+2021-01-09 16:56:55.1144 INFO Get User Success :newswadeshi_dis
+2021-01-09 16:56:56.9844 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:56:57.1152 INFO Get Pass List Success
+2021-01-09 16:56:58.5198 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:56:58.6627 INFO Get Pass List Success
+2021-01-09 16:57:00.5301 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:57:00.7715 INFO Get Pass List Success
+2021-01-09 16:57:02.6120 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:57:02.7440 INFO Get Pass List Success
+2021-01-09 16:57:05.0314 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-09 16:57:05.1635 INFO Get Pass List Success
+2021-01-09 16:57:44.5759 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-01-09 16:57:44.8936 INFO Get User Success :newswadeshi_disbo
+2021-01-09 16:57:47.0585 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-01-09 16:57:47.1487 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-01-09 16:57:47.2800 INFO Get Pass List Success
+2021-01-09 16:57:47.3586 INFO Get User Success :newswadeshi_disbo
+2021-01-09 16:57:49.7895 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-01-09 16:57:49.9225 INFO Get Pass List Success
+2021-01-09 16:57:51.0142 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-01-09 16:57:51.1444 INFO Get Pass List Success
+2021-01-09 16:57:52.9952 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-01-09 16:57:53.1258 INFO Get Pass List Success

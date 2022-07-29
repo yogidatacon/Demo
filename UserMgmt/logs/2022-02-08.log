@@ -1,0 +1,186 @@
+2022-02-08 10:11:31.8407 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:11:48.9518 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:11:52.2468 INFO Get Product Type Master List Success
+2022-02-08 10:11:52.3874 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:12:03.5868 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:12:03.6576 INFO Get Product Master List Success
+2022-02-08 10:14:42.7368 INFO Get RR List Success
+2022-02-08 10:15:18.5618 INFO Get Product Type Master List Success
+2022-02-08 10:15:18.8471 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:16:19.4485 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:16:19.5202 INFO Get Product Master List Success
+2022-02-08 10:16:20.1153 INFO Get State List Success
+2022-02-08 10:16:20.1861 INFO Get NOC Sucess:764
+2022-02-08 10:16:20.3299 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/11
+2022-02-08 10:16:20.5013 INFO Get Product Type Master List Success
+2022-02-08 10:16:20.6513 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:18:26.3711 INFO Get Customer Details Success
+2022-02-08 10:18:33.7355 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:18:33.8043 INFO Get Product Master List Success
+2022-02-08 10:20:28.0850 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:20:28.1559 INFO Get Product Master List Success
+2022-02-08 10:21:27.8751 INFO Get RR List Success
+2022-02-08 10:21:27.9459 INFO Get Product Type Master List Success
+2022-02-08 10:21:28.2235 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:23:16.7868 INFO Get RR List Success
+2022-02-08 10:23:16.8581 INFO Get Product Type Master List Success
+2022-02-08 10:23:17.1549 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:25:05.9484 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:25:06.0199 INFO Get Product Master List Success
+2022-02-08 10:25:06.5761 INFO Get State List Success
+2022-02-08 10:25:06.6450 INFO Get NOC Sucess:764
+2022-02-08 10:25:06.7833 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/11
+2022-02-08 10:25:09.0855 INFO Get NOC Details Success
+2022-02-08 10:25:09.1555 INFO Get Customer Details Success
+2022-02-08 10:25:09.3452 INFO Check WorkFlow List Success
+2022-02-08 10:25:10.3949 INFO Get Product Type Master List Success
+2022-02-08 10:25:10.6000 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:25:32.2328 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:25:32.3012 INFO Get Product Master List Success
+2022-02-08 10:28:20.9436 INFO Get RR List Success
+2022-02-08 10:28:21.0210 INFO Get Product Type Master List Success
+2022-02-08 10:28:21.2976 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:33:21.2421 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:33:21.3109 INFO Get Product Master List Success
+2022-02-08 10:33:22.1342 INFO Get State List Success
+2022-02-08 10:33:22.2039 INFO Get NOC Sucess:764
+2022-02-08 10:33:22.3336 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/11
+2022-02-08 10:33:24.9566 INFO Get NOC Details Success
+2022-02-08 10:33:25.0324 INFO Get Customer Details Success
+2022-02-08 10:33:25.1821 INFO Check WorkFlow List Success
+2022-02-08 10:33:26.1751 INFO Get Product Type Master List Success
+2022-02-08 10:33:26.4498 INFO Get User Success :newswadeshi_dis
+2022-02-08 10:59:26.5431 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:59:36.4878 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 10:59:39.5800 INFO Get Product Type Master List Success
+2022-02-08 10:59:39.7785 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:00:02.4568 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:00:02.5235 INFO Get Product Master List Success
+2022-02-08 11:02:47.1186 INFO Get RR List Success
+2022-02-08 11:03:10.4756 INFO Get Product Type Master List Success
+2022-02-08 11:03:10.7341 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:03:26.5571 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:03:26.6855 INFO Get Product Master List Success
+2022-02-08 11:03:27.3657 INFO Get State List Success
+2022-02-08 11:03:27.4305 INFO Get NOC Sucess:764
+2022-02-08 11:03:27.5659 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/11
+2022-02-08 11:03:27.7131 INFO Get Product Type Master List Success
+2022-02-08 11:03:27.9754 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:03:52.7081 INFO Get Customer Details Success
+2022-02-08 11:05:35.4908 INFO NOC Insertion Fail:764-NSD - 42703: column "party_code" of relation "noc_depotdetail" does not exist
+2022-02-08 11:07:34.6354 INFO NOC Insertion Sucess:764-NSD
+2022-02-08 11:07:36.9613 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:07:37.0301 INFO Get Product Master List Success
+2022-02-08 11:10:07.7099 INFO Get RR List Success
+2022-02-08 11:10:07.7717 INFO Get Product Type Master List Success
+2022-02-08 11:10:08.5006 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:10:13.7867 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:10:13.8965 INFO Get Product Master List Success
+2022-02-08 11:10:14.7516 INFO Get State List Success
+2022-02-08 11:10:14.8095 INFO Get NOC Sucess:765
+2022-02-08 11:10:14.9247 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/12
+2022-02-08 11:10:16.4365 INFO Get NOC Details Success
+2022-02-08 11:10:16.4953 INFO Get Customer Details Success
+2022-02-08 11:10:16.6233 INFO Get Product Type Master List Success
+2022-02-08 11:10:16.8551 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:11:14.6039 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:11:14.6626 INFO Get Product Master List Success
+2022-02-08 11:13:44.0042 INFO Get RR List Success
+2022-02-08 11:13:44.0700 INFO Get Product Type Master List Success
+2022-02-08 11:13:44.3026 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:13:48.9151 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:13:49.2877 INFO Get Product Master List Success
+2022-02-08 11:13:50.1165 INFO Get State List Success
+2022-02-08 11:13:50.1743 INFO Get NOC Sucess:765
+2022-02-08 11:13:50.2885 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/12
+2022-02-08 11:13:52.4182 INFO Get NOC Details Success
+2022-02-08 11:13:52.4761 INFO Get Customer Details Success
+2022-02-08 11:13:52.6250 INFO Check WorkFlow List Success
+2022-02-08 11:13:53.8215 INFO Get Product Type Master List Success
+2022-02-08 11:13:54.1049 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:14:01.1733 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:14:01.2331 INFO Get Product Master List Success
+2022-02-08 11:16:27.2894 INFO Get RR List Success
+2022-02-08 11:16:27.3431 INFO Get Product Type Master List Success
+2022-02-08 11:16:27.5489 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:16:32.6652 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:16:32.7171 INFO Get Product Master List Success
+2022-02-08 11:16:33.2050 INFO Get State List Success
+2022-02-08 11:16:33.2569 INFO Get NOC Sucess:765
+2022-02-08 11:16:33.3578 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2021-2022/12
+2022-02-08 11:16:35.2733 INFO Get NOC Details Success
+2022-02-08 11:16:35.3242 INFO Get Customer Details Success
+2022-02-08 11:16:35.4449 INFO Get Product Type Master List Success
+2022-02-08 11:16:35.6032 INFO Get User Success :newswadeshi_dis
+2022-02-08 11:16:42.0096 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-02-08 11:16:42.0664 INFO Get Product Master List Success
+2022-02-08 12:02:28.9335 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:02:32.4055 INFO Get Product Type Master List Success
+2022-02-08 12:02:32.5286 INFO Get User Success :excise_Rohtas
+2022-02-08 12:02:37.2889 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:02:38.9285 INFO Get Product Type Master List Success
+2022-02-08 12:02:39.1021 INFO Get User Success :excise_Rohtas
+2022-02-08 12:02:44.7090 INFO Get UOM List Success
+2022-02-08 12:02:45.0152 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:02:46.2740 INFO Get Product Type Master List Success
+2022-02-08 12:02:46.3997 INFO Get User Success :excise_Rohtas
+2022-02-08 12:05:26.1907 INFO Get UOM List Success
+2022-02-08 12:05:26.9672 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:10:34.8732 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:10:38.4994 INFO Get Product Type Master List Success
+2022-02-08 12:10:38.6731 INFO Get User Success :excise_Rohtas
+2022-02-08 12:10:48.8893 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:10:50.6073 INFO Get Product Type Master List Success
+2022-02-08 12:10:50.8324 INFO Get User Success :excise_Rohtas
+2022-02-08 12:10:57.7092 INFO Get UOM List Success
+2022-02-08 12:10:58.0635 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:11:01.9337 INFO Get User Fail :3168-Amrita Kumari-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-08 12:11:01.9912 INFO Get Product Type Master List Success
+2022-02-08 12:11:02.1678 INFO Get User Success :excise_Rohtas
+2022-02-08 12:11:17.8895 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:11:19.6728 INFO Get User Fail :3168-Amrita Kumari-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-08 12:11:20.0389 INFO Get Product Type Master List Success
+2022-02-08 12:11:20.2621 INFO Get User Success :excise_Rohtas
+2022-02-08 12:11:32.1005 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:11:32.1572 INFO Get Product Type Master List Success
+2022-02-08 12:11:32.3826 INFO Get User Success :excise_Rohtas
+2022-02-08 12:11:46.5904 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:11:46.6473 INFO Get Product Type Master List Success
+2022-02-08 12:11:46.7689 INFO Get User Success :excise_Rohtas
+2022-02-08 12:11:48.9016 INFO Get UOM List Success
+2022-02-08 12:11:51.4124 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:11:51.5839 INFO Get User Fail :3168-Amrita Kumari-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-08 12:11:51.6457 INFO Get Product Type Master List Success
+2022-02-08 12:11:51.9310 INFO Get User Success :excise_Rohtas
+2022-02-08 12:12:02.5792 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:12:02.6371 INFO Get Product Type Master List Success
+2022-02-08 12:12:02.8072 INFO Get User Success :excise_Rohtas
+2022-02-08 12:12:06.6737 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:12:06.7321 INFO Get Product Type Master List Success
+2022-02-08 12:12:06.9561 INFO Get User Success :excise_Rohtas
+2022-02-08 12:12:12.1769 INFO Get UOM List Success
+2022-02-08 12:12:12.5236 INFO Get User Success :207-excise_Rohtas
+2022-02-08 12:12:15.3542 INFO Get User Fail :3168-Amrita Kumari-Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-08 12:12:15.4111 INFO Get Product Type Master List Success
+2022-02-08 12:12:15.5942 INFO Get User Success :excise_Rohtas
+2022-02-08 14:47:49.4130 INFO Get User Success :207-excise_Rohtas
+2022-02-08 14:47:58.2153 INFO Get Product Type Master List Success
+2022-02-08 14:47:58.3308 INFO Get User Success :excise_Rohtas
+2022-02-08 14:48:10.3111 INFO Get User Success :207-excise_Rohtas
+2022-02-08 14:48:10.4292 INFO Get Product Type Master List Success
+2022-02-08 14:48:10.5956 INFO Get User Success :excise_Rohtas
+2022-02-08 14:48:12.8702 INFO Get UOM List Success
+2022-02-08 14:48:13.4662 INFO Get User Success :207-excise_Rohtas
+2022-02-08 14:48:18.7295 INFO Get Product Type Master List Success
+2022-02-08 14:48:18.8972 INFO Get User Success :excise_Rohtas
+2022-02-08 14:51:36.5830 INFO Get User Success :207-excise_Rohtas
+2022-02-08 14:51:36.6408 INFO Get Product Type Master List Success
+2022-02-08 14:51:36.8097 INFO Get User Success :excise_Rohtas
+2022-02-08 14:51:38.4920 INFO Get UOM List Success
+2022-02-08 14:51:38.7766 INFO Get User Success :207-excise_Rohtas
+2022-02-08 14:51:39.2546 INFO Get Product Type Master List Success
+2022-02-08 14:51:39.7348 INFO Get User Success :excise_Rohtas

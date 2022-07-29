@@ -1,0 +1,47 @@
+2021-08-21 16:05:31.6943 INFO Get User Success :44-Administrator
+2021-08-21 16:05:32.4003 INFO Get User Success :44-Administrator
+2021-08-21 16:05:36.3560 INFO Get Product Type Master List Success
+2021-08-21 16:05:36.4530 INFO Get User Success :Admin
+2021-08-21 16:05:48.0924 INFO Get Party Type Master List Success
+2021-08-21 16:05:48.2313 INFO Get Product Type Master List Success
+2021-08-21 16:05:48.3084 INFO Get User Success :Admin
+2021-08-21 16:06:01.5076 INFO Get Party Type Master List Success
+2021-08-21 16:06:07.9612 INFO Get Party Type Master List Success
+2021-08-21 16:06:12.6089 INFO GetFinacListValues Success
+2021-08-21 16:06:12.6909 INFO Get Product Type Master List Success
+2021-08-21 16:06:12.7629 INFO Get User Success :Admin
+2021-08-21 16:06:25.2711 INFO Get Party Type Master List Success
+2021-08-21 16:06:32.3277 INFO Get Party Master List Success
+2021-08-21 16:06:32.4138 INFO Get Product Type Master List Success
+2021-08-21 16:06:32.4838 INFO Get User Success :Admin
+2021-08-21 16:06:48.8908 INFO Get Party Master List Success :42703: column a.party_type_name does not exist
+2021-08-21 16:07:02.1779 INFO Get Product Type Master List Success
+2021-08-21 16:07:02.2949 INFO Get Product Type Master List Success
+2021-08-21 16:07:02.3749 INFO Get User Success :Admin
+2021-08-21 16:07:19.8269 INFO Get Product Type Master List Success
+2021-08-21 16:07:22.4758 INFO Get Product Master List Success
+2021-08-21 16:07:22.5587 INFO Get Product Type Master List Success
+2021-08-21 16:07:22.6197 INFO Get User Success :Admin
+2021-08-21 16:07:35.5300 INFO Get Product Master List Success:42703: column a.product_type_name does not exist
+2021-08-21 16:07:39.5017 INFO Get UOM List Success
+2021-08-21 16:07:39.5707 INFO Get Product Type Master List Success
+2021-08-21 16:07:39.6407 INFO Get User Success :Admin
+2021-08-21 16:07:47.8282 INFO Get UOM List Success
+2021-08-21 16:07:50.4881 INFO Get Product Type Master List Success
+2021-08-21 16:07:50.5681 INFO Get User Success :Admin
+2021-08-21 16:07:53.5379 INFO Get Product Master List Success
+2021-08-21 16:07:53.5769 INFO Get Product Type Master List Success
+2021-08-21 16:07:53.6539 INFO Get User Success :Admin
+2021-08-21 16:07:55.7407 INFO Get Product Type Master List Success
+2021-08-21 16:07:55.8028 INFO Get Product Type Master List Success
+2021-08-21 16:07:55.8747 INFO Get User Success :Admin
+2021-08-21 16:08:03.2884 INFO Get Product Master List Success
+2021-08-21 16:08:03.3374 INFO Get Product Type Master List Success
+2021-08-21 16:08:03.4143 INFO Get User Success :Admin
+2021-08-21 16:08:11.7498 INFO Get UOM List Success
+2021-08-21 16:08:11.8058 INFO Get Product Type Master List Success
+2021-08-21 16:08:11.8778 INFO Get User Success :Admin
+2021-08-21 16:08:14.5666 INFO Get Product Type Master List Success
+2021-08-21 16:08:14.6416 INFO Get User Success :Admin
+2021-08-21 16:08:30.7487 INFO Get Product Type Master List Success
+2021-08-21 16:08:30.8127 INFO Get User Success :Admin

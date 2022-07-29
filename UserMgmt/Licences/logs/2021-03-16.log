@@ -1,0 +1,362 @@
+2021-03-16 11:13:59.6317 INFO Get User Success :44-Administrator
+2021-03-16 11:13:59.7463 INFO Get User Success :44-Administrator
+2021-03-16 11:13:59.7965 INFO Get User Success :Admin
+2021-03-16 11:14:04.7308 INFO Get State List Success
+2021-03-16 11:14:04.7686 INFO Get User Success :Admin
+2021-03-16 11:14:25.7094 INFO Get view_Role_master List Success
+2021-03-16 11:14:25.7237 INFO Get User Success :Admin
+2021-03-16 11:14:26.1920 INFO Get access_type List Success
+2021-03-16 11:14:26.1920 INFO Get User Success :Admin
+2021-03-16 11:14:29.9083 INFO Get MaxID Success :access_type_master
+2021-03-16 11:14:29.9150 INFO Get User Success :Admin
+2021-03-16 11:15:10.9629 INFO Get MaxID Success :access_type_master
+2021-03-16 11:28:17.1983 INFO Get MaxID Success :access_type_master
+2021-03-16 11:58:07.9640 INFO Get User Success :341-Assistant Commissioner
+2021-03-16 11:58:15.1228 INFO Get User Success :341-Assistant Commissioner
+2021-03-16 11:58:15.1718 INFO Get User Success :bhedo
+2021-03-16 11:58:23.6784 INFO Get User Success :341-Assistant Commissioner
+2021-03-16 11:58:23.9566 INFO Get User Success :341-Assistant Commissioner
+2021-03-16 11:58:24.1952 INFO Check WorkFlow List Success
+2021-03-16 11:58:24.3668 INFO Get RR List Success
+2021-03-16 11:58:24.7128 INFO Get User Success :bhedo
+2021-03-16 11:58:33.6862 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:58:33.7081 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:58:34.2364 INFO Get User Success :hodyco
+2021-03-16 11:58:38.2312 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:58:38.4861 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:58:38.9801 INFO Check WorkFlow List Success
+2021-03-16 11:58:39.0582 INFO Get RR List Success
+2021-03-16 11:58:39.0842 INFO Get User Success :hodyco
+2021-03-16 11:58:47.0214 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:58:47.0214 INFO Get Product Master List Success
+2021-03-16 11:58:47.0814 INFO Get State List Success
+2021-03-16 11:58:47.0814 INFO Get NOC Sucess:69
+2021-03-16 11:58:47.0814 INFO Get NOC Sucess:Req//1
+2021-03-16 11:58:47.0814 INFO Get State List Success
+2021-03-16 11:58:48.5692 INFO Get NOC Details Success
+2021-03-16 11:58:48.5692 INFO Get Customer Details Success
+2021-03-16 11:58:48.6227 INFO Check WorkFlow List Success
+2021-03-16 11:58:48.6353 INFO Get User Success :hodyco
+2021-03-16 11:59:13.2626 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:59:13.9326 INFO NOC Approve Sucess:66
+2021-03-16 11:59:14.6075 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:59:15.2818 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 11:59:15.9864 INFO Check WorkFlow List Success
+2021-03-16 11:59:16.0556 INFO Get RR List Success
+2021-03-16 11:59:16.0556 INFO Get User Success :hodyco
+2021-03-16 11:59:28.9890 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:29.0139 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:29.5098 INFO Get User Success :com
+2021-03-16 11:59:38.1530 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:38.4258 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:39.0289 INFO Check WorkFlow List Success
+2021-03-16 11:59:39.0987 INFO Get RR List Success
+2021-03-16 11:59:39.0987 INFO Get User Success :com
+2021-03-16 11:59:42.3214 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:42.3214 INFO Get Product Master List Success
+2021-03-16 11:59:42.3407 INFO Get State List Success
+2021-03-16 11:59:42.3407 INFO Get NOC Sucess:69
+2021-03-16 11:59:42.3407 INFO Get NOC Sucess:Req//1
+2021-03-16 11:59:42.3407 INFO Get State List Success
+2021-03-16 11:59:43.6426 INFO Get NOC Details Success
+2021-03-16 11:59:43.6458 INFO Get Customer Details Success
+2021-03-16 11:59:43.6633 INFO Check WorkFlow List Success
+2021-03-16 11:59:43.6633 INFO Get User Success :com
+2021-03-16 11:59:50.8760 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:51.1244 INFO NOC Approve Sucess:66
+2021-03-16 11:59:51.3099 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:51.7803 INFO Get User Success :101-Commissioner
+2021-03-16 11:59:52.3251 INFO Check WorkFlow List Success
+2021-03-16 11:59:52.3957 INFO Get RR List Success
+2021-03-16 11:59:52.3957 INFO Get User Success :com
+2021-03-16 12:00:08.4697 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:08.4939 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:08.5059 INFO Get User Success :bdbl_dis
+2021-03-16 12:00:12.1892 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:13.3219 INFO Get User Success :bdbl_dis
+2021-03-16 12:00:20.1914 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:20.2650 INFO Get RR List Success
+2021-03-16 12:00:20.2715 INFO Get User Success :bdbl_dis
+2021-03-16 12:00:23.4264 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:44.0269 INFO Get User Success :bdbl_dis
+2021-03-16 12:00:44.5755 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:44.5829 INFO Get User Success :bdbl_dis
+2021-03-16 12:00:47.3944 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:48.5585 INFO Get User Success :bdbl_dis
+2021-03-16 12:00:51.9853 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:00:52.0567 INFO Get RR List Success
+2021-03-16 12:00:52.0567 INFO Get User Success :bdbl_dis
+2021-03-16 12:01:01.5856 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:01:01.5856 INFO Get User Success :bdbl_dis
+2021-03-16 12:01:02.6393 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:01:04.9810 INFO Get User Success :bdbl_dis
+2021-03-16 12:10:35.9443 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:10:36.0122 INFO Get RR List Success
+2021-03-16 12:10:36.0122 INFO Get User Success :bdbl_dis
+2021-03-16 12:10:37.6402 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:11:59.3927 INFO Get User Success :bdbl_dis
+2021-03-16 12:11:59.9101 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:12:00.8831 INFO Get User Success :bdbl_dis
+2021-03-16 12:12:03.8450 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:12:44.3501 INFO Get RR List Success
+2021-03-16 12:13:45.3629 INFO Get User Success :bdbl_dis
+2021-03-16 12:13:49.8822 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:13:52.8109 INFO Get User Success :bdbl_dis
+2021-03-16 12:13:55.4211 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:14:03.4161 INFO Get RR List Success
+2021-03-16 12:14:48.9754 INFO Get User Success :bdbl_dis
+2021-03-16 12:14:53.8017 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:14:55.4044 INFO Get User Success :bdbl_dis
+2021-03-16 12:14:57.8789 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:14:59.8532 INFO Get RR List Success
+2021-03-16 12:19:47.7411 INFO Get User Success :bdbl_dis
+2021-03-16 12:19:52.1686 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:19:52.1925 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:19:52.7199 INFO Get User Success :hodyco
+2021-03-16 12:19:56.3001 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:19:56.3001 INFO Check WorkFlow List Success
+2021-03-16 12:19:56.3659 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:19:56.3659 INFO Check WorkFlow List Success
+2021-03-16 12:19:56.3659 INFO Get Allotment List Success
+2021-03-16 12:19:56.3929 INFO Get User Success :hodyco
+2021-03-16 12:19:59.1375 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:19:59.1375 INFO Check WorkFlow List Success
+2021-03-16 12:19:59.1375 INFO Get Allotment List Success
+2021-03-16 12:19:59.1485 INFO Get User Success :hodyco
+2021-03-16 12:20:00.3908 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:00.3908 INFO Check WorkFlow List Success
+2021-03-16 12:20:00.3978 INFO Get Allotment List Success
+2021-03-16 12:20:00.4148 INFO Get User Success :hodyco
+2021-03-16 12:20:15.0086 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:15.0086 INFO Check WorkFlow List Success
+2021-03-16 12:20:15.0226 INFO Get Allotment List Success
+2021-03-16 12:20:15.0371 INFO Get User Success :hodyco
+2021-03-16 12:20:17.7632 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:17.7632 INFO Check WorkFlow List Success
+2021-03-16 12:20:17.7711 INFO Get Allotment List Success
+2021-03-16 12:20:17.7711 INFO Get User Success :hodyco
+2021-03-16 12:20:18.6453 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:18.6453 INFO Check WorkFlow List Success
+2021-03-16 12:20:18.6453 INFO Get Allotment List Success
+2021-03-16 12:20:18.6453 INFO Get User Success :hodyco
+2021-03-16 12:20:19.4743 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:19.4743 INFO Check WorkFlow List Success
+2021-03-16 12:20:19.4743 INFO Get Allotment List Success
+2021-03-16 12:20:19.4743 INFO Get User Success :hodyco
+2021-03-16 12:20:23.6436 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:23.6455 INFO Check WorkFlow List Success
+2021-03-16 12:20:23.6455 INFO Get Allotment List Success
+2021-03-16 12:20:23.6455 INFO Get User Success :hodyco
+2021-03-16 12:20:35.9912 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:35.9912 INFO Check WorkFlow List Success
+2021-03-16 12:20:35.9912 INFO Get Allotment List Success
+2021-03-16 12:20:36.0032 INFO Get User Success :hodyco
+2021-03-16 12:20:47.8193 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:47.8193 INFO Check WorkFlow List Success
+2021-03-16 12:20:47.8193 INFO Get Allotment List Success
+2021-03-16 12:20:47.8193 INFO Get User Success :hodyco
+2021-03-16 12:20:49.1778 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:20:49.1778 INFO Check WorkFlow List Success
+2021-03-16 12:20:49.1778 INFO Get Allotment List Success
+2021-03-16 12:20:49.1778 INFO Get User Success :hodyco
+2021-03-16 12:21:09.3936 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:21:09.4015 INFO Check WorkFlow List Success
+2021-03-16 12:21:09.4015 INFO Get Allotment List Success
+2021-03-16 12:21:09.4129 INFO Get User Success :hodyco
+2021-03-16 12:21:20.8827 INFO Get User Success :101-Commissioner
+2021-03-16 12:21:20.9047 INFO Get User Success :101-Commissioner
+2021-03-16 12:21:21.3983 INFO Get User Success :com
+2021-03-16 12:21:25.0906 INFO Get User Success :101-Commissioner
+2021-03-16 12:21:25.3405 INFO Get User Success :101-Commissioner
+2021-03-16 12:21:25.9733 INFO Check WorkFlow List Success
+2021-03-16 12:21:26.0681 INFO Get RR List Success
+2021-03-16 12:21:26.0681 INFO Get User Success :com
+2021-03-16 12:21:28.0248 INFO Get User Success :101-Commissioner
+2021-03-16 12:21:28.0248 INFO Check WorkFlow List Success
+2021-03-16 12:21:28.0999 INFO Get RR List Success
+2021-03-16 12:21:28.0999 INFO Get User Success :com
+2021-03-16 12:21:29.1855 INFO Get User Success :101-Commissioner
+2021-03-16 12:22:44.0233 INFO Get User Success :com
+2021-03-16 12:22:46.9466 INFO Get User Success :101-Commissioner
+2021-03-16 12:22:46.9466 INFO Check WorkFlow List Success
+2021-03-16 12:22:47.0297 INFO Get RR List Success
+2021-03-16 12:22:47.0438 INFO Get User Success :com
+2021-03-16 12:22:51.6316 INFO Get User Success :101-Commissioner
+2021-03-16 12:22:51.6316 INFO Check WorkFlow List Success
+2021-03-16 12:22:51.6979 INFO Get RR List Success
+2021-03-16 12:22:51.6979 INFO Get User Success :com
+2021-03-16 12:22:52.7043 INFO Get User Success :101-Commissioner
+2021-03-16 12:22:54.0146 INFO Check WorkFlow List Success
+2021-03-16 12:22:54.0814 INFO Get RR List Success
+2021-03-16 12:22:54.0814 INFO Get User Success :com
+2021-03-16 12:22:56.1807 INFO Get User Success :101-Commissioner
+2021-03-16 12:22:56.1807 INFO Check WorkFlow List Success
+2021-03-16 12:22:56.2485 INFO Get RR List Success
+2021-03-16 12:22:56.2535 INFO Get User Success :com
+2021-03-16 12:23:01.1902 INFO Get User Success :101-Commissioner
+2021-03-16 12:23:01.1912 INFO Check WorkFlow List Success
+2021-03-16 12:23:01.2584 INFO Get RR List Success
+2021-03-16 12:23:01.2741 INFO Get User Success :com
+2021-03-16 12:23:35.0193 INFO Get User Success :101-Commissioner
+2021-03-16 12:23:35.0193 INFO Check WorkFlow List Success
+2021-03-16 12:23:35.0938 INFO Get RR List Success
+2021-03-16 12:23:35.0989 INFO Get User Success :com
+2021-03-16 12:23:35.8435 INFO Get User Success :101-Commissioner
+2021-03-16 12:23:37.3064 INFO Check WorkFlow List Success
+2021-03-16 12:23:37.3698 INFO Get RR List Success
+2021-03-16 12:23:37.3698 INFO Get User Success :com
+2021-03-16 12:23:42.9740 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:23:43.0009 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:23:43.4997 INFO Get User Success :hodyco
+2021-03-16 12:23:48.5405 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:23:48.8029 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:23:49.4437 INFO Check WorkFlow List Success
+2021-03-16 12:23:49.5190 INFO Get RR List Success
+2021-03-16 12:23:49.5190 INFO Get User Success :hodyco
+2021-03-16 12:23:58.4859 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:23:58.4859 INFO Check WorkFlow List Success
+2021-03-16 12:23:58.5530 INFO Get RR List Success
+2021-03-16 12:23:58.5530 INFO Get User Success :hodyco
+2021-03-16 12:24:06.7097 INFO Check WorkFlow List Success
+2021-03-16 12:24:06.7240 INFO NOC Approve Sucess:66
+2021-03-16 12:24:06.7941 INFO Get RR List Success
+2021-03-16 12:24:06.7941 INFO Get Report  Success
+2021-03-16 12:24:06.9886 INFO Get GetSeverList Success
+2021-03-16 12:26:07.2977 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:26:07.2977 INFO Check WorkFlow List Success
+2021-03-16 12:26:07.3632 INFO Get RR List Success
+2021-03-16 12:26:07.3632 INFO Get User Success :hodyco
+2021-03-16 12:26:08.3662 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:26:08.3662 INFO Check WorkFlow List Success
+2021-03-16 12:26:08.4340 INFO Get RR List Success
+2021-03-16 12:26:08.4410 INFO Get User Success :hodyco
+2021-03-16 12:26:13.0531 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 12:26:13.0531 INFO Check WorkFlow List Success
+2021-03-16 12:26:13.1212 INFO Get RR List Success
+2021-03-16 12:26:13.1212 INFO Get User Success :hodyco
+2021-03-16 12:26:26.3869 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:26:26.4248 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:26:26.4381 INFO Get User Success :bdbl_dis
+2021-03-16 12:26:29.0517 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:26:30.4137 INFO Get User Success :bdbl_dis
+2021-03-16 12:26:34.8991 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 12:26:36.4471 INFO Get RR List Success
+2021-03-16 12:26:37.6431 INFO Get User Success :bdbl_dis
+2021-03-16 12:26:42.9596 INFO Get NOC Details Success
+2021-03-16 12:26:45.1518 INFO Get NOC Details Success
+2021-03-16 12:26:45.1518 INFO Get Balance Request Pass Success
+2021-03-16 13:14:59.5121 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:14:59.6241 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:14:59.7191 INFO Get User Success :bdbl_dis
+2021-03-16 13:15:07.2929 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:15:08.8636 INFO Get User Success :bdbl_dis
+2021-03-16 13:15:14.9903 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:15:17.1271 INFO Get RR List Success
+2021-03-16 13:15:18.3206 INFO Get User Success :bdbl_dis
+2021-03-16 13:15:21.3196 INFO Get NOC Details Success
+2021-03-16 13:15:23.3039 INFO Get NOC Details Success
+2021-03-16 13:15:23.3039 INFO Get Balance Request Pass Success
+2021-03-16 13:30:37.5929 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:30:37.6740 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:30:37.7442 INFO Get User Success :bdbl_dis
+2021-03-16 13:31:01.5990 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:31:29.5463 INFO Get User Success :bdbl_dis
+2021-03-16 13:31:36.5991 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:31:38.1112 INFO Get RR List Success
+2021-03-16 13:31:38.7651 INFO Get User Success :bdbl_dis
+2021-03-16 13:31:41.3024 INFO Get NOC Details Success
+2021-03-16 13:31:42.8986 INFO Get NOC Details Success
+2021-03-16 13:31:42.8986 INFO Get Balance Request Pass Success
+2021-03-16 13:32:11.8192 INFO Insert Request Pass Success
+2021-03-16 13:32:18.8200 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:32:18.8462 INFO Get User Success :bdbl_dis
+2021-03-16 13:34:17.6484 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:34:19.7237 INFO Get RR List Success
+2021-03-16 13:34:19.7485 INFO Get User Success :bdbl_dis
+2021-03-16 13:34:23.0180 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:34:24.1336 INFO Get User Success :bdbl_dis
+2021-03-16 13:49:53.0635 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:50:07.2029 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:50:07.2712 INFO Get User Success :bdbl_dis
+2021-03-16 13:50:11.7922 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:50:33.9237 INFO Get User Success :bdbl_dis
+2021-03-16 13:51:04.9716 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:51:06.6823 INFO Get RR List Success
+2021-03-16 13:51:07.3494 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-16 13:51:07.3644 INFO Get User Success :bdbl_dis
+2021-03-16 13:51:27.0955 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:52:08.3720 INFO Get User Success :bdbl_dis
+2021-03-16 13:52:18.1596 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:52:19.7888 INFO Get RR List Success
+2021-03-16 13:52:20.4052 INFO Get User Success :bdbl_dis
+2021-03-16 13:52:23.3664 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 13:52:25.9883 INFO Get User Success :bdbl_dis
+2021-03-16 13:52:58.4550 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 14:24:32.0570 INFO Get RR List Success
+2021-03-16 14:24:34.2561 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-16 14:24:34.2561 INFO Get User Success :bdbl_dis
+2021-03-16 14:24:41.5106 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 14:24:45.6658 INFO Get RR List Success
+2021-03-16 14:26:31.2450 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-16 14:53:28.2106 INFO Get User Success :bdbl_dis
+2021-03-16 14:53:50.8346 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 14:54:05.6604 INFO Get RR List Success
+2021-03-16 14:59:50.9055 INFO Get NOC Details Success
+2021-03-16 14:59:52.6547 INFO Get NOC Details Success
+2021-03-16 14:59:52.6547 INFO Get Balance Request Pass Success
+2021-03-16 14:59:52.6647 INFO Get User Success :bdbl_dis
+2021-03-16 15:07:41.9243 INFO Update Request Pass Success
+2021-03-16 15:07:50.8234 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-03-16 15:07:56.1251 INFO Get User Success :bdbl_dis
+2021-03-16 16:06:31.5150 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 16:06:49.1158 INFO Get User Success :100-Deputy Commissioner
+2021-03-16 16:06:49.6584 INFO Get User Success :hodyco
+2021-03-16 17:34:14.8498 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:34:16.8593 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:34:16.9901 INFO Get User Success :harinagar_dis
+2021-03-16 17:34:41.4290 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:35:03.9552 INFO Get User Success :harinagar_dis
+2021-03-16 17:35:07.0357 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:35:07.0508 INFO Get Form84 List Success
+2021-03-16 17:35:07.0746 INFO Get User Success :harinagar_dis
+2021-03-16 17:35:09.4507 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:35:09.4507 INFO Get VAT Master List Success
+2021-03-16 17:35:09.4604 INFO Get VAT Master List Success
+2021-03-16 17:35:32.6909 INFO Get VAT Master List Success
+2021-03-16 17:35:32.6909 INFO Get VAT Master List Success
+2021-03-16 17:35:32.7077 INFO Get User Success :harinagar_dis
+2021-03-16 17:42:09.5517 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:42:09.5726 INFO Get VAT Master List Success
+2021-03-16 17:42:09.5836 INFO Get User Success :harinagar_dis
+2021-03-16 17:42:14.3126 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:42:14.3205 INFO Get Form84 List Success
+2021-03-16 17:42:14.3205 INFO Get User Success :harinagar_dis
+2021-03-16 17:42:34.5198 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:42:34.5198 INFO Get VAT Master List Success
+2021-03-16 17:42:34.5198 INFO Get User Success :harinagar_dis
+2021-03-16 17:42:39.6953 INFO Get VAT Master List Success
+2021-03-16 17:42:42.7619 INFO Get VAT Master List Success
+2021-03-16 17:42:47.1104 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:42:47.1234 INFO Get VAT Master List Success
+2021-03-16 17:42:47.1294 INFO Get User Success :harinagar_dis
+2021-03-16 17:43:16.8239 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:43:16.8239 INFO Get VAT Master List Success
+2021-03-16 17:43:19.0993 INFO Get User Success :harinagar_dis
+2021-03-16 17:47:21.8371 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:47:21.9936 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:47:22.1290 INFO Get User Success :harinagar_dis
+2021-03-16 17:47:26.0403 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:47:28.3696 INFO Get User Success :harinagar_dis
+2021-03-16 17:47:30.5531 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:47:30.5795 INFO Get Form84 List Success
+2021-03-16 17:47:30.5937 INFO Get User Success :harinagar_dis
+2021-03-16 17:47:33.2328 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:47:33.2328 INFO Get VAT Master List Success
+2021-03-16 17:47:33.2438 INFO Get VAT Master List Success
+2021-03-16 17:47:34.8547 INFO Get VAT Master List Success
+2021-03-16 17:47:34.8547 INFO Get VAT Master List Success
+2021-03-16 17:47:34.8717 INFO Get User Success :harinagar_dis
+2021-03-16 17:47:40.1269 INFO Get form84 Update Success
+2021-03-16 17:47:40.1496 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-16 17:47:40.1496 INFO Get Form84 List Success
+2021-03-16 17:47:40.1636 INFO Get User Success :harinagar_dis

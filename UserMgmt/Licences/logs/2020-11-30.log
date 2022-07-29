@@ -1,0 +1,799 @@
+2020-11-30 10:31:41.0667 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:31:50.1018 INFO Sugarcanepurchase Get List Success
+2020-11-30 10:31:50.1058 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:31:50.1415 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:31:52.7781 INFO MIR GetList Sucess
+2020-11-30 10:31:52.7781 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:31:52.7908 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:31:55.1120 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:31:55.1120 INFO Get Party Master List Success
+2020-11-30 10:31:55.1497 INFO Get VAT Master List Success
+2020-11-30 10:31:55.1497 INFO MIR GetPassDetails Sucess
+2020-11-30 10:31:55.1497 INFO MIR GetDetails Sucess
+2020-11-30 10:31:55.1497 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:32:28.6704 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:31.2136 INFO Sugarcanepurchase Get List Success
+2020-11-30 10:32:31.2136 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:31.2136 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:32.7800 INFO MIR GetList Sucess
+2020-11-30 10:32:32.7800 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:32.7800 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:33.8617 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:33.8617 INFO Get Party Master List Success
+2020-11-30 10:32:33.8726 INFO Get VAT Master List Success
+2020-11-30 10:32:33.8726 INFO MIR GetPassDetails Sucess
+2020-11-30 10:32:33.8726 INFO MIR GetDetails Sucess
+2020-11-30 10:32:33.8726 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:32:42.7691 INFO MIR Approve Fail:1
+2020-11-30 10:37:37.8123 INFO MIR Approve Sucess:1
+2020-11-30 10:37:37.8330 INFO MIR GetList Sucess
+2020-11-30 10:37:37.8330 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:37:37.8400 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2020-11-30 10:42:41.6344 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:42:49.6348 INFO Sugarcanepurchase Get List Success
+2020-11-30 10:42:49.6348 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:42:49.6721 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:12.8681 INFO MIR GetList Sucess
+2020-11-30 10:43:12.8723 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:12.8723 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:14.5484 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:14.5484 INFO Get Party Master List Success
+2020-11-30 10:43:14.5676 INFO Get VAT Master List Success
+2020-11-30 10:43:14.5740 INFO MIR GetDetails Sucess
+2020-11-30 10:43:14.5740 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:30.0427 INFO MIR GetList Sucess
+2020-11-30 10:43:30.0427 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:30.0427 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:31.4454 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:43:31.4484 INFO Get Party Master List Success
+2020-11-30 10:43:31.4484 INFO Get VAT Master List Success
+2020-11-30 10:43:31.4623 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 10:47:46.2598 INFO Get User Success :44-Administrator
+2020-11-30 10:47:49.3436 INFO Get User Success :44-Administrator
+2020-11-30 10:47:51.5158 INFO Get Emp List Success
+2020-11-30 10:47:51.5158 INFO Get User Success :44-Administrator
+2020-11-30 10:47:52.8876 INFO Get Users List Success
+2020-11-30 10:47:52.8876 INFO Get User Success :44-Administrator
+2020-11-30 10:47:54.7676 INFO Org Get List Success
+2020-11-30 10:47:54.7676 INFO Get Party Master List Success
+2020-11-30 10:47:54.7750 INFO Get Role Level List Success
+2020-11-30 10:47:54.7750 INFO Get access_type List Success
+2020-11-30 10:47:54.8219 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-30 10:47:54.8219 INFO Get State List Success
+2020-11-30 10:47:54.8219 INFO Get Dept List Success
+2020-11-30 10:47:54.8219 INFO Get Emp List Success
+2020-11-30 10:47:54.8372 INFO Get Users List Success
+2020-11-30 10:47:54.8372 INFO Get User Success :44-Administrator
+2020-11-30 10:50:27.9754 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 10:50:32.8678 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 10:50:32.9037 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 10:50:36.6778 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 10:58:28.1753 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 10:58:28.1753 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:07:20.4650 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-30 11:07:28.6113 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-30 11:07:28.6192 INFO Get Indent List Success
+2020-11-30 11:07:28.6611 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-30 11:07:34.0862 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-30 11:07:34.0892 INFO Get Indent List Success
+2020-11-30 11:07:34.1659 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-30 11:07:34.1659 INFO Get Party Master List Success
+2020-11-30 11:07:34.1659 INFO Get Product Master List Success
+2020-11-30 11:07:34.1907 INFO Get Indent Details Success
+2020-11-30 11:07:34.2200 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-30 11:16:56.0130 INFO Get User Success :44-Administrator
+2020-11-30 11:18:05.0925 INFO Get User Success :44-Administrator
+2020-11-30 11:18:06.2628 INFO Get Users List Success
+2020-11-30 11:18:06.2628 INFO Get User Success :44-Administrator
+2020-11-30 11:18:08.8648 INFO Org Get List Success
+2020-11-30 11:18:08.8738 INFO Get Party Master List Success
+2020-11-30 11:18:08.8738 INFO Get Role Level List Success
+2020-11-30 11:18:08.8738 INFO Get access_type List Success
+2020-11-30 11:18:08.9386 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-30 11:18:08.9386 INFO Get State List Success
+2020-11-30 11:18:08.9466 INFO Get Dept List Success
+2020-11-30 11:18:08.9466 INFO Get Emp List Success
+2020-11-30 11:18:08.9466 INFO Get Users List Success
+2020-11-30 11:18:08.9466 INFO Get User Success :44-Administrator
+2020-11-30 11:19:08.9478 INFO Get Emp List Success
+2020-11-30 11:19:08.9478 INFO Get User Success :44-Administrator
+2020-11-30 11:19:10.2192 INFO Get State List Success
+2020-11-30 11:19:10.2192 INFO Get Dept List Success
+2020-11-30 11:19:10.2192 INFO Get Emp List Success
+2020-11-30 11:19:10.2192 INFO Get User Success :44-Administrator
+2020-11-30 11:19:20.0236 INFO Get User Success :44-Administrator
+2020-11-30 11:19:21.8591 INFO Get User Success :44-Administrator
+2020-11-30 11:19:35.2613 INFO Get User Success :44-Administrator
+2020-11-30 11:20:46.1527 INFO Get User Success :44-Administrator
+2020-11-30 11:20:59.0437 INFO Get User Success :44-Administrator
+2020-11-30 11:21:01.0518 INFO Get User Success :44-Administrator
+2020-11-30 11:21:07.2279 INFO Get Emp List Success
+2020-11-30 11:21:07.2279 INFO Get User Success :44-Administrator
+2020-11-30 11:21:08.8354 INFO Get State List Success
+2020-11-30 11:21:08.8354 INFO Get Dept List Success
+2020-11-30 11:21:08.8374 INFO Get Emp List Success
+2020-11-30 11:21:08.8374 INFO Get User Success :44-Administrator
+2020-11-30 11:22:17.3705 INFO Get User Success :44-Administrator
+2020-11-30 11:23:04.3502 INFO Get Users List Success
+2020-11-30 11:23:04.3544 INFO Get User Success :44-Administrator
+2020-11-30 11:23:19.4250 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:22.9059 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:22.9059 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:24.6063 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:24.6349 INFO Get Pass List Success
+2020-11-30 11:23:24.6349 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:25.8514 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:25.8544 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 11:23:37.2804 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:23:40.9185 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:23:40.9185 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:23:41.8290 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:23:41.8290 INFO Get Pass List Success
+2020-11-30 11:23:41.8440 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:35:44.4751 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:35:58.1166 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:35:58.1202 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:35:58.5657 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:35:58.5657 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:36:05.6688 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:36:05.7145 INFO Get Pass List Success
+2020-11-30 11:36:05.7692 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 11:36:09.1380 INFO Get GetSeverList Success
+2020-11-30 11:36:35.2002 INFO Get GetSeverList Success
+2020-11-30 11:37:29.3859 INFO Get GetSeverList Success
+2020-11-30 11:37:45.8952 INFO Get GetSeverList Success
+2020-11-30 11:50:15.4458 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:18.0793 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:18.1153 INFO Get Indent List Success
+2020-11-30 11:50:18.1532 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:38.4638 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:38.4638 INFO Get Indent List Success
+2020-11-30 11:50:38.4638 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:40.0715 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:40.0743 INFO Get Indent List Success
+2020-11-30 11:50:59.7811 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 11:50:59.7811 INFO Get Indent List Success
+2020-11-30 12:31:53.7202 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:31:57.7808 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:31:57.7808 INFO Get Indent List Success
+2020-11-30 12:31:57.8267 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:31:59.6873 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:31:59.6873 INFO Get Indent List Success
+2020-11-30 12:32:39.0194 INFO Get GetSeverList Success
+2020-11-30 12:33:26.3089 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:33:26.3089 INFO Get RR List Success
+2020-11-30 12:33:26.3267 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:33:28.2506 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:33:28.2506 INFO Get RR List Success
+2020-11-30 12:33:28.2651 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:33:29.6343 INFO Get GetSeverList Success
+2020-11-30 12:54:03.5592 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:54:38.5835 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:54:38.6252 INFO Get RR List Success
+2020-11-30 12:54:38.6637 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:54:40.1336 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:54:40.1376 INFO Get RR List Success
+2020-11-30 12:54:40.1376 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:54:41.4653 INFO Get GetSeverList Success
+2020-11-30 12:57:05.1654 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:05.1654 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:07.2027 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:07.2166 INFO Get Pass List Success
+2020-11-30 12:57:07.2450 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:10.3282 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:10.3282 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:14.8462 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:14.8462 INFO Get RR List Success
+2020-11-30 12:57:14.8591 INFO Get RR List Success
+2020-11-30 12:57:14.8591 INFO Get Balance Request Pass Success
+2020-11-30 12:57:14.8591 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:19.9799 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:19.9799 INFO Get Pass List Success
+2020-11-30 12:57:20.0088 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 12:57:32.5706 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 12:57:35.2236 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 12:57:35.2236 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 12:57:36.3256 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 12:57:36.3256 INFO Get Pass List Success
+2020-11-30 12:57:36.3405 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 12:57:40.1520 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 12:57:40.1520 INFO Get Dispach Master List Success
+2020-11-30 12:57:40.1679 INFO Get VAT Master List Success
+2020-11-30 12:57:40.1679 INFO Get VAT Master List Success
+2020-11-30 12:57:40.1679 INFO Get VAT Master List Success
+2020-11-30 12:57:40.1679 INFO Get VAT Master List Success
+2020-11-30 12:57:40.1679 INFO Get VAT Master List Success
+2020-11-30 12:57:40.1877 INFO Get Pass List Success
+2020-11-30 12:57:40.2136 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:02.7707 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 13:11:12.0755 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 13:11:12.1134 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 13:11:40.2024 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:42.4210 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:11:42.4210 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:42.4399 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:44.4486 INFO Get Party Master List Success
+2020-11-30 13:11:44.4486 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:44.4742 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:11:44.4805 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:47.9697 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:11:47.9697 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:47.9697 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:49.3370 INFO Get Party Master List Success
+2020-11-30 13:11:49.3403 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:49.3403 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:11:49.3617 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:58.1478 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:11:58.1508 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:58.1508 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:59.2865 INFO Get Party Master List Success
+2020-11-30 13:11:59.2865 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:11:59.2925 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:11:59.2925 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:21.5368 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:12:21.5368 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:21.5428 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:22.8991 INFO Get Party Master List Success
+2020-11-30 13:12:22.9021 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:22.9021 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:12:22.9021 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:29.7547 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:12:29.7547 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:29.7657 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:32.8864 INFO Get Party Master List Success
+2020-11-30 13:12:32.8864 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:12:32.8864 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:12:32.8864 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:14:13.1259 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:14:13.1259 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:14:13.1259 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:14:15.0219 INFO Get Party Master List Success
+2020-11-30 13:14:15.0249 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:14:15.0249 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 13:14:18.3080 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-30 13:17:35.6479 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:17:45.7723 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:17:45.7763 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:17:45.8321 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:17:54.0361 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:17:54.0361 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:17:54.0424 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:18:19.7008 INFO Get Party Master List Success
+2020-11-30 13:18:19.7008 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:18:19.7271 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:18:19.7499 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:18:49.3252 INFO Get Party Master List Success
+2020-11-30 13:18:49.3252 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:18:49.3252 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:18:49.3252 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:19:42.3771 INFO Get Party Master List Success
+2020-11-30 13:19:42.3771 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:19:42.3771 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:19:42.3889 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:01.1690 INFO Get Party Master List Success
+2020-11-30 13:20:01.1690 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:01.1690 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:20:01.1835 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:33.7207 INFO Get Party Master List Success
+2020-11-30 13:20:33.7207 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:33.7207 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:20:33.7319 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:47.7542 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:20:47.7542 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:47.7601 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:49.5205 INFO Get Party Master List Success
+2020-11-30 13:20:49.5205 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:49.5285 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:20:49.5285 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:56.1245 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:20:56.1245 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:20:56.1245 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:21:07.7061 INFO Get Party Master List Success
+2020-11-30 13:21:07.7061 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:21:07.7131 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:21:07.7131 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:21:31.3544 INFO Get Party Master List Success
+2020-11-30 13:21:31.3544 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:22:04.5846 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:22:08.9554 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:26:32.7800 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:26:47.9923 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:26:47.9963 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:26:48.0302 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:26:50.0562 INFO Get Party Master List Success
+2020-11-30 13:26:50.0726 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 13:26:50.1041 INFO Sugarcanepurchase Get List Success
+2020-11-30 13:26:50.1272 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 14:35:39.1819 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:35:47.2915 INFO Sugarcanepurchase Get List Success
+2020-11-30 14:35:47.2915 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:35:47.3330 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:35:50.7101 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:35:50.7453 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:35:52.5805 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:37:34.7324 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:37:45.4704 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:37:45.4824 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 14:37:56.8430 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:00.0363 INFO Sugarcanepurchase Get List Success
+2020-11-30 14:38:00.0363 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:00.0423 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:01.2670 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:01.2799 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:02.7644 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:02.7644 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:51.8105 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:51.8246 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:53.1162 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:53.1232 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:55.6813 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:38:55.6813 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 14:41:38.8454 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:41:41.3648 INFO Sugarcanepurchase Get List Success
+2020-11-30 14:41:41.3688 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:41:41.3887 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:41:42.6482 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:41:42.6801 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:41:44.8210 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:42:02.5198 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:42:12.4810 INFO Get MaxID Success :openingbalance
+2020-11-30 14:42:12.5323 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:42:12.5449 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:42:14.0821 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:42:14.0882 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:22.5484 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:22.5613 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:23.6978 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:23.6978 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:32.7758 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:32.7758 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:33.8405 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:33.8405 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:35.9756 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:35.9889 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:40.1846 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:40.1976 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:48.3713 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:43:48.3849 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:34.4631 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:34.4795 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:42.9892 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:43.0023 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:44.6826 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:44.6826 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:46.8930 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:49:46.9231 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:05.9699 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:05.9940 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:10.0099 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:10.0099 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:12.5569 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:12.5569 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:14.0916 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:50:14.0916 INFO Get User Success :117-Hpcl Biofuels Limited, Wc
+2020-11-30 14:55:33.1816 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 14:55:44.8631 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 14:55:44.8631 INFO Get RR List Success
+2020-11-30 14:55:44.8853 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 14:55:58.4865 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 14:55:58.4865 INFO Get Product Type Master List Success
+2020-11-30 14:55:58.4941 INFO Get NOC Sucess:1
+2020-11-30 14:58:02.5173 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:35.6736 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:43.2489 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:43.2489 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:50.5089 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:50.5238 INFO Get RR List Success
+2020-11-30 15:29:50.5417 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:51.8965 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:29:51.9274 INFO Get Product Type Master List Success
+2020-11-30 15:29:51.9274 INFO Get NOC Sucess:1
+2020-11-30 15:30:19.7577 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:30:32.0982 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 15:30:32.0982 INFO Get Product Type Master List Success
+2020-11-30 15:30:32.0982 INFO Get NOC Sucess:1
+2020-11-30 15:30:42.9960 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 16:08:03.5200 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 16:08:17.7434 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 16:08:17.7434 INFO Get State List Success
+2020-11-30 16:08:17.7694 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 16:08:19.3480 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 16:08:19.3529 INFO Get State List Success
+2020-11-30 16:08:19.3529 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 16:08:26.2592 INFO Get Thana List Success
+2020-11-30 16:09:56.5559 INFO Insert State Sucesss
+2020-11-30 16:19:01.3474 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:19:09.3132 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:19:09.3132 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:19:09.3523 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:19:12.8566 INFO Get Party Master List Success
+2020-11-30 16:19:12.8566 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:19:12.8756 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:19:18.2403 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-30 16:30:41.5156 INFO Get Party Master List Success
+2020-11-30 16:30:41.5156 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:30:41.5156 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:30:44.8427 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:30:44.8427 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:30:44.8427 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:30:48.1010 INFO Get Party Master List Success
+2020-11-30 16:30:48.1040 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:30:48.1040 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:31:06.0556 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-30 16:32:51.1742 INFO Get MaxID Success :sugarcanepurchase
+2020-11-30 16:32:51.2005 INFO Sugarcanepurchase Insertion Success:0-MSI
+2020-11-30 16:32:51.2224 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:32:51.2224 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:32:51.2304 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:32:54.7056 INFO Get Party Master List Success
+2020-11-30 16:32:54.7056 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:32:54.7175 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:32:54.7175 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:33:25.8087 INFO Sugarcanepurchase Insertion Sucess:13-MSI
+2020-11-30 16:33:25.8506 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:33:25.8540 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:33:25.8540 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:33:27.2906 INFO Get Party Master List Success
+2020-11-30 16:33:27.2906 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:33:27.2906 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:33:27.2906 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:34:02.2436 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:34:02.2436 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:34:02.2436 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:35:54.7664 INFO Get Party Master List Success
+2020-11-30 16:35:54.7664 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:35:54.7664 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:35:54.7779 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:22.4560 INFO Get Party Master List Success
+2020-11-30 16:36:22.4560 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:22.4779 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:36:22.4779 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:27.4237 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:36:27.4237 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:27.4237 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:29.1026 INFO Get Party Master List Success
+2020-11-30 16:36:29.1056 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:29.1056 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:58.3741 INFO Get Party Master List Success
+2020-11-30 16:36:58.3741 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:36:58.3741 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:37:12.9922 INFO Get Party Master List Success
+2020-11-30 16:37:12.9957 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:37:12.9957 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:37:46.3342 INFO Get Party Master List Success
+2020-11-30 16:37:46.3372 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:37:46.3372 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:38:12.9665 INFO Get Party Master List Success
+2020-11-30 16:38:12.9665 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:38:12.9665 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:45:12.0398 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:23.3307 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:45:23.3307 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:23.3766 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:33.3916 INFO Get Party Master List Success
+2020-11-30 16:45:33.3916 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:33.4181 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:45:33.4396 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:33.8631 INFO Get Party Master List Success
+2020-11-30 16:45:33.8631 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:33.8690 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:45:33.8690 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:42.6609 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:45:42.6669 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:42.6669 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:43.9765 INFO Get Party Master List Success
+2020-11-30 16:45:43.9785 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:43.9785 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:45:53.4474 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-30 16:47:17.1463 INFO Get MaxID Success :sugarcanepurchase
+2020-11-30 16:47:17.1653 INFO Sugarcanepurchase Insertion Success:0-RSM
+2020-11-30 16:47:17.1918 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:47:17.1998 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:17.1998 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:22.2427 INFO Get Party Master List Success
+2020-11-30 16:47:22.2457 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:22.2457 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:47:22.2457 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:57.6861 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:47:57.6861 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:57.6861 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:59.1343 INFO Get Party Master List Success
+2020-11-30 16:47:59.1343 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:47:59.1343 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:47:59.1343 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-11-30 16:53:15.6406 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:53:33.6004 INFO Sugarcanepurchase Get List Success
+2020-11-30 16:53:33.6042 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:53:33.6373 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:53:35.9246 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:53:35.9332 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:53:38.0802 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:53:38.0802 INFO Get Party Master List Success
+2020-11-30 16:53:38.0942 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:54:05.4895 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:54:05.4944 INFO Get Party Master List Success
+2020-11-30 16:54:05.4944 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:10.4581 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:10.4581 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:12.1614 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:12.1614 INFO Get Party Master List Success
+2020-11-30 16:56:12.2064 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:18.4866 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:18.4866 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:31.8312 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:31.8312 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:35.2765 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:56:35.2765 INFO Get Party Master List Success
+2020-11-30 16:56:35.2765 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:16.0144 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:16.0144 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:16.8603 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:16.8603 INFO Get Party Master List Success
+2020-11-30 16:57:16.8832 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:17.8663 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:17.8692 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:18.4337 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:18.4337 INFO Get Party Master List Success
+2020-11-30 16:57:18.4337 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:52.3122 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:52.3122 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:53.8792 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 16:57:53.8792 INFO Get Party Master List Success
+2020-11-30 16:57:53.8881 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:03:56.8487 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:02.2275 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:04:02.2305 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:02.2674 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:04.1863 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:04.1863 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:29.0675 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:29.0725 INFO Get Party Master List Success
+2020-11-30 17:04:29.0725 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:40.1600 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:04:40.1600 INFO Get Party Master List Success
+2020-11-30 17:04:40.1660 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:07:22.2163 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:07:22.2163 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:07:23.7010 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:07:23.7010 INFO Get Party Master List Success
+2020-11-30 17:07:23.7010 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:07:58.4948 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:07:58.4948 INFO Get Party Master List Success
+2020-11-30 17:07:58.4948 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:08:05.3407 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:08:05.3407 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:08:05.9847 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:08:05.9847 INFO Get Party Master List Success
+2020-11-30 17:08:05.9847 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:12:55.6837 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-30 17:13:07.9655 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:13:11.0525 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:13:11.0560 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:13:11.0919 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:13:11.9158 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:13:11.9158 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:13:13.3767 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:13:13.3767 INFO Get Party Master List Success
+2020-11-30 17:13:13.3906 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:14:55.5591 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:14:55.5591 INFO Get Party Master List Success
+2020-11-30 17:14:55.5591 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:17:22.6813 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:17:22.6813 INFO Get Party Master List Success
+2020-11-30 17:17:22.6813 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:17:55.2687 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:17:55.2687 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:17:57.3119 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:17:57.3119 INFO Get Party Master List Success
+2020-11-30 17:17:57.3119 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:22:38.7307 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:22:38.7307 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:22:39.6655 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:22:39.6655 INFO Get Party Master List Success
+2020-11-30 17:22:39.6655 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:21.5497 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:21.5497 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:22.7143 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:22.7143 INFO Get Party Master List Success
+2020-11-30 17:23:22.7592 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:32.0320 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:32.0320 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:34.2752 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:23:34.2752 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:31.4665 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:36.5455 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:27:36.5455 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:36.5834 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:37.8459 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:37.8559 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:46.5376 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:27:46.5426 INFO Get Party Master List Success
+2020-11-30 17:27:46.5426 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:28:20.5446 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:25.3852 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:25.3852 INFO Get Party Master List Success
+2020-11-30 17:29:25.3852 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:32.7806 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:32.7806 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:34.3624 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:34.3624 INFO Get Party Master List Success
+2020-11-30 17:29:34.3624 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:29:39.8990 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:30:02.0189 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:30:10.2663 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:30:10.2753 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:30:11.6971 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:30:11.6971 INFO Get Party Master List Success
+2020-11-30 17:30:11.6971 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:00.9037 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:04.8784 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:32:04.8784 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:04.9202 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:06.4728 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:06.4828 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:07.7908 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:07.7908 INFO Get Party Master List Success
+2020-11-30 17:32:07.7908 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:11.7831 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:15.4786 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:32:19.0262 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:33:10.2052 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:33:10.2052 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:33:11.6584 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:33:11.6584 INFO Get Party Master List Success
+2020-11-30 17:33:13.1720 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:33:23.7088 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:33:23.7088 INFO Get Party Master List Success
+2020-11-30 17:37:19.6061 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:37:24.6486 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:37:24.6516 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:37:25.4083 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:37:25.4083 INFO Get Party Master List Success
+2020-11-30 17:37:25.4083 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:37:27.9633 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:38:30.0561 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:42:56.7432 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:50.0958 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:53.6660 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:43:53.6660 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:53.7149 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:56.0448 INFO Get Party Master List Success
+2020-11-30 17:43:56.0448 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:56.0797 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:43:56.0797 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:59.1382 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:43:59.1382 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:00.9440 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:00.9480 INFO Get Party Master List Success
+2020-11-30 17:44:00.9670 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:05.7318 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:05.7318 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:06.7991 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:06.7991 INFO Get Party Master List Success
+2020-11-30 17:44:06.7991 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:09.6351 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:25.4751 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:28.5069 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:44:33.5679 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:30.0624 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:30.0624 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:32.6912 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:32.6912 INFO Get Party Master List Success
+2020-11-30 17:45:32.7178 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:35.3122 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:35.3122 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:36.2643 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:36.2643 INFO Get Party Master List Success
+2020-11-30 17:45:36.2643 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:45:40.1314 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:24.3723 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:24.3723 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:26.6748 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:26.6748 INFO Get Party Master List Success
+2020-11-30 17:46:26.6858 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:30.4145 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:30.4194 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:31.3461 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:46:31.3461 INFO Get Party Master List Success
+2020-11-30 17:46:31.3562 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:01.8036 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:47:05.1694 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:47:05.1694 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:47:05.1694 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:47:07.4509 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:47:07.4509 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:47:21.2439 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:33.5833 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:47:33.5833 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:33.5893 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:34.5156 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:34.5156 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:36.3422 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:36.3422 INFO Get Party Master List Success
+2020-11-30 17:47:36.3529 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:47:38.5078 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:48:00.1475 INFO Sugarcanepurchase Insertion Sucess:21-MSI
+2020-11-30 17:48:01.4826 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:48:01.4826 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2020-11-30 17:48:12.4096 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:48:15.1003 INFO Sugarcanepurchase Get List Success
+2020-11-30 17:48:15.1033 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:48:15.1033 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:48:16.4493 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:48:16.4493 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:48:18.1034 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:48:18.1034 INFO Get Party Master List Success
+2020-11-30 17:48:18.1264 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:34.4726 INFO DMP Approve Sucess:MSI-24-11-2020
+2020-11-30 17:50:34.4953 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:34.4953 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:41.0343 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:41.0343 INFO Get Party Master List Success
+2020-11-30 17:50:41.0454 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:43.4269 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:43.4269 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:44.2908 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:44.2908 INFO Get Party Master List Success
+2020-11-30 17:50:44.2908 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:46.5866 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:46.5896 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:48.4693 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 17:50:48.4693 INFO Get Party Master List Success
+2020-11-30 17:50:48.4829 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2020-11-30 18:11:15.6755 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 18:11:19.7789 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 18:11:19.7789 INFO Get RR List Success
+2020-11-30 18:11:19.8318 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 18:11:21.7414 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 18:11:21.7444 INFO Get RR List Success
+2020-11-30 18:11:21.7444 INFO Get User Success :104-Riga Distillery Division
+2020-11-30 18:11:23.1869 INFO Get Report  Success
+2020-11-30 18:11:23.3471 INFO Get GetSeverList Success
+2020-11-30 18:12:57.7661 INFO Get GetSeverList Success
+2020-11-30 18:17:03.7270 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:10.6450 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:10.6520 INFO Get Indent List Success
+2020-11-30 18:17:10.6919 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:11.6845 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:11.6845 INFO Get Indent List Success
+2020-11-30 18:17:11.7264 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:11.7334 INFO Get Allotment List Success
+2020-11-30 18:17:11.7463 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:13.1809 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:13.1809 INFO Get Allotment List Success
+2020-11-30 18:17:14.5153 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:14.5153 INFO Get Party Master List Success
+2020-11-30 18:17:14.5317 INFO Get Indent List Success
+2020-11-30 18:17:14.5317 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:27.6470 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:27.6500 INFO Get Allotment List Success
+2020-11-30 18:17:27.6500 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:29.0330 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:29.0330 INFO Get Allotment List Success
+2020-11-30 18:17:29.0569 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:29.0569 INFO Get Party Master List Success
+2020-11-30 18:17:29.0569 INFO Get Indent List Success
+2020-11-30 18:17:29.0729 INFO Get Allotment Details Success
+2020-11-30 18:17:29.0898 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:30.9479 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:30.9479 INFO Get Allotment List Success
+2020-11-30 18:17:30.9479 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:31.8918 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:31.8918 INFO Get Allotment List Success
+2020-11-30 18:17:31.9155 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:31.9155 INFO Get Party Master List Success
+2020-11-30 18:17:31.9155 INFO Get Indent List Success
+2020-11-30 18:17:31.9155 INFO Get Allotment Details Success
+2020-11-30 18:17:31.9155 INFO Check WorkFlow List Success
+2020-11-30 18:17:31.9369 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:37.5443 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:37.5443 INFO Get Allotment List Success
+2020-11-30 18:17:37.5443 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:40.5455 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:40.5455 INFO Get Allotment List Success
+2020-11-30 18:17:40.6267 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2020-11-30 18:17:40.6267 INFO Get Party Master List Success
+2020-11-30 18:17:40.6267 INFO Get Indent List Success
+2020-11-30 18:17:40.6372 INFO Get Allotment Details Success
+2020-11-30 18:17:40.6372 INFO Check WorkFlow List Success
+2020-11-30 18:17:40.6372 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division

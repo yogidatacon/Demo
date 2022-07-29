@@ -1,0 +1,93 @@
+2021-06-04 08:48:26.4988 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:48:32.6394 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:48:33.6754 INFO Get User Success :newswadeshi_dis
+2021-06-04 08:49:12.3389 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:49:13.0138 INFO Get User Success :newswadeshi_dis
+2021-06-04 08:49:22.9332 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:49:23.2602 INFO Get User Success :newswadeshi_dis
+2021-06-04 08:49:38.7802 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:49:39.0452 INFO Get VAT Master List Success
+2021-06-04 08:49:56.7961 INFO Get VAT Master List Success
+2021-06-04 08:50:01.3718 INFO Get User Success :newswadeshi_dis
+2021-06-04 08:50:13.8910 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:50:14.1609 INFO Get User Success :newswadeshi_dis
+2021-06-04 08:50:22.4525 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-04 08:50:22.5435 INFO Get VAT Master List Success
+2021-06-04 08:50:37.5355 INFO Get VAT Master List Success
+2021-06-04 08:50:41.9652 INFO Get User Success :newswadeshi_dis
+2021-06-04 08:51:01.1717 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:01.4487 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:01.8377 INFO Get User Success :newswadeshi_disbo
+2021-06-04 08:51:05.4475 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:05.9344 INFO Get User Success :newswadeshi_disbo
+2021-06-04 08:51:08.6953 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:08.9672 INFO Get User Success :newswadeshi_disbo
+2021-06-04 08:51:11.4671 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:11.5521 INFO Get VAT Master List Success
+2021-06-04 08:51:14.7239 INFO Get VAT Master List Success
+2021-06-04 08:51:18.3536 INFO Get User Success :newswadeshi_disbo
+2021-06-04 08:51:33.5987 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:34.0076 INFO Get User Success :newswadeshi_disbo
+2021-06-04 08:51:38.5264 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-06-04 08:51:38.6114 INFO Get VAT Master List Success
+2021-06-04 08:51:41.2582 INFO Get VAT Master List Success
+2021-06-04 08:51:45.6209 INFO Get User Success :newswadeshi_disbo
+2021-06-04 09:05:59.2211 INFO Get User Success :101-Commissioner
+2021-06-04 09:06:08.5475 INFO Get User Success :101-Commissioner
+2021-06-04 09:06:09.5815 INFO Get User Success :com
+2021-06-04 09:06:13.2872 INFO Get User Success :101-Commissioner
+2021-06-04 09:06:13.9852 INFO Get User Success :101-Commissioner
+2021-06-04 10:37:34.9308 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:37:35.5848 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:37:35.9938 INFO Get User Success :mtp1
+2021-06-04 10:49:31.1114 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:49:31.4284 INFO Get RR List Success
+2021-06-04 10:49:31.5454 INFO Get User Success :mtp1
+2021-06-04 10:49:49.3022 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:49:50.2242 INFO Get RR List Success
+2021-06-04 10:49:50.3012 INFO Get User Success :mtp1
+2021-06-04 10:50:07.7931 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:50:07.8750 INFO Get RR List Success
+2021-06-04 10:50:07.9690 INFO Get User Success :mtp1
+2021-06-04 10:50:57.7419 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:50:58.7488 INFO Get RR List Success
+2021-06-04 10:50:58.8388 INFO Get User Success :mtp1
+2021-06-04 10:51:02.5006 INFO Get User Success :353-M and TP Unit
+2021-06-04 10:51:02.5766 INFO Get RR List Success
+2021-06-04 10:51:02.6696 INFO Get User Success :mtp1
+2021-06-04 20:59:57.3987 INFO Get User Success :353-M and TP Unit
+2021-06-04 20:59:58.5217 INFO Get User Success :353-M and TP Unit
+2021-06-04 20:59:59.3146 INFO Get User Success :mtp1
+2021-06-04 21:00:07.1521 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:00:15.1576 INFO Get User Success :mtp1
+2021-06-04 21:01:57.4811 INFO Get User Fail :-Exception while writing to stream
+2021-06-04 21:03:10.9065 INFO Get User Fail :-Exception while reading from stream
+2021-06-04 21:12:55.8673 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:12:56.5123 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:12:56.7803 INFO Get License_Type List Success
+2021-06-04 21:12:57.0523 INFO Get License Fee List Success
+2021-06-04 21:12:57.2833 INFO Get State List Success
+2021-06-04 21:12:57.8982 INFO Get User Success :mtp1
+2021-06-04 21:13:17.0287 INFO Get License_Type List Success
+2021-06-04 21:13:31.8226 INFO Get License_Type List Success
+2021-06-04 21:13:36.9832 INFO Get License_Type List Success
+2021-06-04 21:21:02.7144 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:21:03.9533 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:21:04.8312 INFO Get User Success :mtp1
+2021-06-04 21:21:17.2026 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:25:22.5040 INFO Get User Success :mtp1
+2021-06-04 21:25:28.0576 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:27:30.6257 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:27:40.2231 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:27:41.2320 INFO Get User Success :mtp1
+2021-06-04 21:27:47.6886 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:27:56.1210 INFO Get User Success :mtp1
+2021-06-04 21:28:00.1028 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:28:06.1155 INFO Get User Success :353-M and TP Unit
+2021-06-04 21:28:06.3134 INFO Get License_Type List Success
+2021-06-04 21:28:06.8664 INFO Get License Fee List Success
+2021-06-04 21:28:07.0814 INFO Get State List Success
+2021-06-04 21:28:10.8731 INFO Get User Success :mtp1
+2021-06-04 21:28:42.6454 INFO Get License_Type List Success
+2021-06-04 21:28:50.9143 INFO Get License_Type List Success
+2021-06-04 21:32:28.1444 INFO Get License_Type List Success

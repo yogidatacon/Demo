@@ -1,0 +1,460 @@
+2021-07-13 12:07:41.6035 INFO Get User Success :44-Administrator
+2021-07-13 12:07:42.3695 INFO Get User Success :44-Administrator
+2021-07-13 12:07:42.7585 INFO Get Product Type Master List Success
+2021-07-13 12:09:19.8795 INFO Get User Success :44-Administrator
+2021-07-13 12:09:40.4252 INFO Get Product Type Master List Success
+2021-07-13 12:09:40.7102 INFO Get User Success :Admin
+2021-07-13 12:10:04.6537 INFO Get Product Type Master List Success
+2021-07-13 12:10:07.7215 INFO Get Product Type Master List Success
+2021-07-13 12:10:07.8676 INFO Get User Success :Admin
+2021-07-13 12:10:14.1591 INFO Get Product Type Master List Success
+2021-07-13 12:10:14.2591 INFO Get User Success :Admin
+2021-07-13 12:17:00.5241 INFO Get Product Type Master List Success
+2021-07-13 12:17:00.8861 INFO Get User Success :Admin
+2021-07-13 12:17:50.3331 INFO Insert Department Success:Grandview-20-42601: INSERT has more target columns than expressions
+2021-07-13 12:20:13.2042 INFO Insert Department Master Success:Grandview-20
+2021-07-13 12:20:13.3872 INFO Get Product Type Master List Success
+2021-07-13 12:21:34.6973 INFO Get Product Type Master List Success
+2021-07-13 12:24:19.7711 INFO Get User Success :44-Administrator
+2021-07-13 12:24:20.4600 INFO Get User Success :44-Administrator
+2021-07-13 12:24:27.4306 INFO Get Product Type Master List Success
+2021-07-13 12:24:27.5806 INFO Get User Success :Admin
+2021-07-13 12:25:06.5812 INFO Get Product Type Master List Success
+2021-07-13 12:25:11.7588 INFO Get Product Type Master List Success
+2021-07-13 12:25:11.8888 INFO Get User Success :Admin
+2021-07-13 12:25:23.1372 INFO Get Product Master List Success
+2021-07-13 12:30:59.2253 INFO Get User Success :44-Administrator
+2021-07-13 12:31:34.9401 INFO Get User Success :44-Administrator
+2021-07-13 12:31:49.7692 INFO Get Product Type Master List Success
+2021-07-13 12:35:09.9067 INFO Get User Success :44-Administrator
+2021-07-13 12:58:55.4941 INFO Get User Success :44-Administrator
+2021-07-13 12:58:56.1261 INFO Get User Success :44-Administrator
+2021-07-13 12:59:57.7394 INFO Get Product Type Master List Success
+2021-07-13 13:02:55.1729 INFO Get Product Type Master List Success
+2021-07-13 13:03:14.0389 INFO Get User Success :Admin
+2021-07-13 13:03:19.9805 INFO Get Product Type Master List Success
+2021-07-13 13:03:22.5633 INFO Get Product Type Master List Success
+2021-07-13 13:03:22.7303 INFO Get User Success :Admin
+2021-07-13 13:03:28.0588 INFO Get Product Type Master List Success
+2021-07-13 13:03:30.7031 INFO Get Product Type Master List Success
+2021-07-13 13:03:30.8501 INFO Get User Success :Admin
+2021-07-13 13:03:42.9524 INFO Get Product Type Master List Success
+2021-07-13 13:04:41.4739 INFO Get Product Type Master List Success
+2021-07-13 13:04:41.5679 INFO Get User Success :Admin
+2021-07-13 13:04:48.9055 INFO Get Product Type Master List Success
+2021-07-13 13:04:51.7773 INFO Get Product Type Master List Success
+2021-07-13 13:04:51.9393 INFO Get User Success :Admin
+2021-07-13 13:04:56.2061 INFO Get Product Type Master List Success
+2021-07-13 13:04:58.8349 INFO Get Product Type Master List Success
+2021-07-13 13:04:58.9299 INFO Get User Success :Admin
+2021-07-13 13:05:02.2557 INFO Get Product Type Master List Success
+2021-07-13 13:05:12.3361 INFO Get Product Type Master List Success
+2021-07-13 13:05:12.4481 INFO Get User Success :Admin
+2021-07-13 13:05:19.7787 INFO Get Product Type Master List Success
+2021-07-13 13:06:15.4933 INFO Get Product Type Master List Success
+2021-07-13 13:06:15.6123 INFO Get User Success :Admin
+2021-07-13 13:06:20.7930 INFO Get Product Type Master List Success
+2021-07-13 13:06:23.2429 INFO Get Product Type Master List Success
+2021-07-13 13:06:23.3469 INFO Get User Success :Admin
+2021-07-13 13:07:19.2346 INFO Update Department Master Success:Grid view-20
+2021-07-13 13:08:13.3884 INFO Update Department Master Success:Grid view-20
+2021-07-13 13:08:20.4980 INFO Get Product Type Master List Success
+2021-07-13 13:08:22.1379 INFO Get Product Type Master List Success
+2021-07-13 13:08:22.2599 INFO Get User Success :Admin
+2021-07-13 13:08:36.3160 INFO Get User Success :44-Administrator
+2021-07-13 13:08:36.7140 INFO Get User Success :44-Administrator
+2021-07-13 13:08:55.6969 INFO Get Product Type Master List Success
+2021-07-13 13:08:55.8499 INFO Get User Success :Admin
+2021-07-13 13:09:12.2839 INFO Get State List Success
+2021-07-13 13:09:14.0408 INFO Get Product Type Master List Success
+2021-07-13 13:09:15.2957 INFO Get User Success :Admin
+2021-07-13 13:11:44.4830 INFO Get State List Success
+2021-07-13 13:11:49.7656 INFO Get Product Type Master List Success
+2021-07-13 13:11:56.5542 INFO Get User Success :Admin
+2021-07-13 13:14:37.7588 INFO Get State List Success
+2021-07-13 13:14:38.9476 INFO Get Product Type Master List Success
+2021-07-13 13:14:39.0556 INFO Get User Success :Admin
+2021-07-13 13:16:23.0815 INFO Get State List Success
+2021-07-13 13:16:24.4444 INFO Get Product Type Master List Success
+2021-07-13 13:16:24.5824 INFO Get User Success :Admin
+2021-07-13 13:17:26.4837 INFO Get State List Success
+2021-07-13 13:17:29.4096 INFO Get Product Type Master List Success
+2021-07-13 13:17:31.5295 INFO Get User Success :Admin
+2021-07-13 13:19:44.8965 INFO Get State List Success
+2021-07-13 13:19:47.5424 INFO Get Product Type Master List Success
+2021-07-13 13:19:48.4283 INFO Get User Success :Admin
+2021-07-13 13:21:49.7152 INFO Get State List Success
+2021-07-13 13:21:52.5360 INFO Get Product Type Master List Success
+2021-07-13 13:21:52.6380 INFO Get User Success :Admin
+2021-07-13 13:53:01.8322 INFO Get Report List Success
+2021-07-13 13:53:03.3411 INFO Get Product Type Master List Success
+2021-07-13 13:53:03.4441 INFO Get User Success :Admin
+2021-07-13 13:53:29.0836 INFO Get Party Type Master List Success
+2021-07-13 13:53:29.1925 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:29.6796 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.1215 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.1215 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.1215 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.2515 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.2515 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.2515 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.2515 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.2515 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.3325 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.3325 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.4665 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.4665 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.4665 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.5405 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.5405 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.5405 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.5425 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.6855 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.6855 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.7525 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.7525 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.7525 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:30.8325 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:30.8325 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:31.0214 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.0214 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:31.1004 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.1004 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:31.2385 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4584 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.4644 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:31.6714 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.6714 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.6714 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.6714 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.6714 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.7494 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:31.8884 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.8884 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.8884 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:31.8884 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:31.9854 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.1054 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.1054 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.1864 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.1864 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.3234 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.3234 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.3934 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.3934 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:32.4724 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.6593 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.6593 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.6593 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.7393 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.7393 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:32.8763 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:32.9774 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9774 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9774 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9774 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9774 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9803 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9803 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9803 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9803 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:32.9803 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.0604 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.0604 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.0604 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.0604 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.0604 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.0604 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.1343 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1343 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1363 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1363 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1363 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1363 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1363 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.1363 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.2163 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.2163 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.2163 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.2903 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.2903 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.3703 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.3703 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.4443 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.5213 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.5213 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.5213 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.5213 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:33.5933 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.6633 INFO Get TabName Master In ViewModel Success 
+2021-07-13 13:53:33.6633 INFO Get Module_master In ViewModel Success 
+2021-07-13 13:53:33.7413 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.8133 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.8833 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:33.9643 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 13:53:34.0413 INFO Get ViewModel Success 
+2021-07-13 13:53:38.6510 INFO Get Product Type Master List Success
+2021-07-13 13:53:38.7460 INFO Get User Success :Admin
+2021-07-13 14:10:56.4278 INFO Get Report List Success
+2021-07-13 14:10:57.8647 INFO Get Product Type Master List Success
+2021-07-13 14:10:57.9517 INFO Get User Success :Admin
+2021-07-13 14:11:09.5280 INFO Get Party Type Master List Success
+2021-07-13 14:11:09.6250 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:10.0290 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.4269 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.4269 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.4269 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.5200 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.5200 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.5200 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.5200 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.5200 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.6259 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.6259 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.7199 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.7199 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.7199 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.8000 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.8000 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.8000 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.8000 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.9059 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.9059 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:10.9699 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.9699 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:10.9699 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.0659 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.0659 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.1459 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.1459 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.2269 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.2269 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:11.3179 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.4649 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.5859 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.5859 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.5859 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.5859 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.5859 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.6849 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.7868 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.7868 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.7868 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.7868 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:11.8679 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:11.9479 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:11.9479 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:12.0269 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.0269 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:12.1068 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.1068 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:12.4318 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.4318 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:12.5658 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:12.6478 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.6478 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.6478 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:12.7448 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.7458 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:12.8358 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:12.9158 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9158 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9158 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9158 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9178 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9178 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9178 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9178 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9178 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:12.9178 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.0399 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.0399 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.0399 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.0399 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.0399 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.0428 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.1458 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.2348 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.2348 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.2348 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.3178 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.3178 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.3988 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.3988 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.4897 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.5947 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.5947 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.5947 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.5947 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:13.6678 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:13.7607 INFO Get TabName Master In ViewModel Success 
+2021-07-13 14:11:13.7617 INFO Get Module_master In ViewModel Success 
+2021-07-13 14:11:13.8477 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:14.1567 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:14.2457 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:14.3507 INFO Get SubModule_master In ViewModel Success 
+2021-07-13 14:11:14.4407 INFO Get ViewModel Success 
+2021-07-13 14:11:22.7292 INFO Get Product Type Master List Success
+2021-07-13 14:11:22.8312 INFO Get User Success :Admin
+2021-07-13 16:51:33.6534 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 16:52:16.4909 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 16:52:22.9485 INFO Get Product Type Master List Success
+2021-07-13 16:52:23.1155 INFO Get User Success :newswadeshi_dis
+2021-07-13 16:52:31.2580 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 16:52:36.9997 INFO Get Product Type Master List Success
+2021-07-13 16:52:37.2387 INFO Get User Success :newswadeshi_dis
+2021-07-13 16:52:50.0899 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 16:52:50.5719 INFO Get Form84 List Success
+2021-07-13 16:52:53.8757 INFO Get Product Type Master List Success
+2021-07-13 16:52:54.0446 INFO Get User Success :newswadeshi_dis
+2021-07-13 16:52:57.9235 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 16:52:58.0104 INFO Get VAT Master List Success
+2021-07-13 16:53:00.4013 INFO Get Product Type Master List Success
+2021-07-13 16:53:00.5583 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:01:56.6907 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:01:58.3076 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:02:29.0628 INFO Get Product Type Master List Success
+2021-07-13 17:02:29.2048 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:03:00.8959 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:03:08.2285 INFO Get Product Type Master List Success
+2021-07-13 17:03:08.3475 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:03:12.3383 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:03:18.2419 INFO Get Form84 List Success
+2021-07-13 17:03:24.1485 INFO Get Product Type Master List Success
+2021-07-13 17:03:24.3555 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:03:50.3120 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:03:50.3690 INFO Get VAT Master List Success
+2021-07-13 17:03:53.9388 INFO Get Product Type Master List Success
+2021-07-13 17:03:54.0628 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:07:45.4254 INFO Get VAT Master List Success
+2021-07-13 17:07:48.4612 INFO Get VAT Master List Success
+2021-07-13 17:07:59.2063 INFO Get VAT Master List Success
+2021-07-13 17:09:23.9715 INFO Get VAT Master List Success
+2021-07-13 17:10:07.1485 INFO Get VAT Master List Success
+2021-07-13 17:10:07.8295 INFO Get VAT Master List Success
+2021-07-13 17:10:08.1875 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:10:08.5014 INFO Get Form84 List Success
+2021-07-13 17:10:09.8894 INFO Get Product Type Master List Success
+2021-07-13 17:10:09.9924 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:10:20.7617 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:10:20.8187 INFO Get VAT Master List Success
+2021-07-13 17:10:23.3076 INFO Get Product Type Master List Success
+2021-07-13 17:10:23.5536 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:10:27.8588 INFO Get VAT Master List Success
+2021-07-13 17:10:33.0279 INFO Get VAT Master List Success
+2021-07-13 17:10:33.7020 INFO Get VAT Master List Success
+2021-07-13 17:11:01.4027 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:11:02.0906 INFO Get VAT Master List Success
+2021-07-13 17:11:07.1983 INFO Get Product Type Master List Success
+2021-07-13 17:11:07.3433 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:11:14.2629 INFO Get VAT Master List Success
+2021-07-13 17:11:20.5675 INFO Get VAT Master List Success
+2021-07-13 17:11:43.8671 INFO Get User Fail :-Exception while reading from stream
+2021-07-13 17:12:09.7846 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:12:09.9776 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:12:13.2004 INFO Get Product Type Master List Success
+2021-07-13 17:12:13.3124 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:12:17.2722 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:12:22.8518 INFO Get Product Type Master List Success
+2021-07-13 17:12:22.9568 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:12:27.5016 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:12:27.7346 INFO Get VAT Master List Success
+2021-07-13 17:12:29.7794 INFO Get Product Type Master List Success
+2021-07-13 17:12:29.8835 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:12:30.4414 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:12:30.7474 INFO Get VAT Master List Success
+2021-07-13 17:12:32.0583 INFO Get Product Type Master List Success
+2021-07-13 17:12:32.2033 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:12:37.7540 INFO Get VAT Master List Success
+2021-07-13 17:12:44.5716 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:12:44.6366 INFO Get VAT Master List Success
+2021-07-13 17:12:48.7013 INFO Get Product Type Master List Success
+2021-07-13 17:12:48.8133 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:13:14.8728 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:13:15.6297 INFO Get VAT Master List Success
+2021-07-13 17:13:19.2426 INFO Get Product Type Master List Success
+2021-07-13 17:13:19.4225 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:13:21.9384 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:13:22.3423 INFO Get Form84 List Success
+2021-07-13 17:13:24.4132 INFO Get Product Type Master List Success
+2021-07-13 17:13:24.5392 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:13:25.0802 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:13:25.5041 INFO Get Form84 List Success
+2021-07-13 17:13:27.3590 INFO Get Product Type Master List Success
+2021-07-13 17:13:27.4620 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:14:14.3303 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-13 17:14:14.4093 INFO Get VAT Master List Success
+2021-07-13 17:14:17.0091 INFO Get Product Type Master List Success
+2021-07-13 17:14:17.1711 INFO Get User Success :newswadeshi_dis
+2021-07-13 17:14:22.8191 INFO Get VAT Master List Success
+2021-07-13 17:14:25.8630 INFO Get VAT Master List Success
+2021-07-13 17:14:31.8192 INFO Get VAT Master List Success
+2021-07-13 17:14:32.4610 INFO Get VAT Master List Success

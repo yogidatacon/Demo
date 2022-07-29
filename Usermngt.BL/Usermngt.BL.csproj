@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{32C38911-13DD-4C61-92BF-45EAA4964BF0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Usermngt.BL</RootNamespace>
+    <AssemblyName>Usermngt.BL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\UserMgmt\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Npgsql, Version=3.2.5.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\UserMgmt\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL_All_Approvals.cs" />
+    <Compile Include="BL_CaseMgt.cs" />
+    <Compile Include="BL_CM_Common.cs" />
+    <Compile Include="BL_cm_seiz_AccusedDetails.cs" />
+    <Compile Include="BL_cm_seiz_Accused_Status.cs" />
+    <Compile Include="BL_cm_seiz_Apparatus.cs" />
+    <Compile Include="BL_cm_seiz_AppealDetails.cs" />
+    <Compile Include="BL_cm_seiz_Bail.cs" />
+    <Compile Include="BL_cm_seiz_BasicIformation.cs" />
+    <Compile Include="BL_cm_seiz_CaseHistory.cs" />
+    <Compile Include="BL_cm_seiz_ChargeSheet.cs" />
+    <Compile Include="BL_cm_seiz_Cognizance.cs" />
+    <Compile Include="BL_cm_seiz_Daily_Dairy_otherthan_Raid.cs" />
+    <Compile Include="BL_cm_seiz_Daily_Dairy_Raid.cs" />
+    <Compile Include="BL_cm_seiz_Dmconfiscation.cs" />
+    <Compile Include="BL_cm_seiz_ExcisableArticlesSeized.cs" />
+    <Compile Include="BL_cm_seiz_Excisecom.cs" />
+    <Compile Include="BL_cm_seiz_FIR.cs" />
+    <Compile Include="BL_cm_seiz_OffencesCommitted.cs" />
+    <Compile Include="BL_cm_seiz_RaidTeam.cs" />
+    <Compile Include="BL_cm_seiz_trial.cs" />
+    <Compile Include="BL_cm_seiz_vehicledetails.cs" />
+    <Compile Include="BL_cm_seiz_Witness.cs" />
+    <Compile Include="BL_Complaint.cs" />
+    <Compile Include="BL_DailyDispatchClosure.cs" />
+    <Compile Include="BL_DailyMolassesProduction.cs" />
+    <Compile Include="BL_Designation_Details.cs" />
+    <Compile Include="BL_DigitalSignature.cs" />
+    <Compile Include="BL_DispatchType.cs" />
+    <Compile Include="BL_Distillation.cs" />
+    <Compile Include="BL_Employee_Details.cs" />
+    <Compile Include="BL_FermentertoReceiverForm_83.cs" />
+    <Compile Include="BL_Financial_Years.cs" />
+    <Compile Include="BL_Form82.cs" />
+    <Compile Include="BL_HelpDesk.cs" />
+    <Compile Include="BL_IndentForm.cs" />
+    <Compile Include="BL_LicenseApplication.cs" />
+    <Compile Include="BL_LicenseFee.cs" />
+    <Compile Include="BL_LicenseSubType.cs" />
+    <Compile Include="BL_LicenseType.cs" />
+    <Compile Include="BL_MF3_Details.cs" />
+    <Compile Include="BL_Module_Master.cs" />
+    <Compile Include="BL_Molasses_Allocation.cs" />
+    <Compile Include="BL_Molasses_Production_MF2.cs" />
+    <Compile Include="BL_Money.cs" />
+    <Compile Include="BL_NOC_Details.cs" />
+    <Compile Include="BL_OpeningBalance.cs" />
+    <Compile Include="BL_org_Master.cs" />
+    <Compile Include="BL_Party_Master.cs" />
+    <Compile Include="BL_Party_Type_Master.cs" />
+    <Compile Include="BL_PassDispatch.cs" />
+    <Compile Include="BL_Permit.cs" />
+    <Compile Include="BL_Priority.cs" />
+    <Compile Include="BL_ProductMaster.cs" />
+    <Compile Include="BL_ProductType.cs" />
+    <Compile Include="BL_Property.cs" />
+    <Compile Include="BL_RawMaterial.cs" />
+    <Compile Include="BL_RawMaterialReceipt.cs" />
+    <Compile Include="BL_RawMaterialType.cs" />
+    <Compile Include="BL_ReaquestForPass.cs" />
+    <Compile Include="BL_ReceiverToStorage_84.cs" />
+    <Compile Include="BL_ReceiverToStoragrTransfer.cs" />
+    <Compile Include="BL_Release_Request.cs" />
+    <Compile Include="BL_RequestForTransportPass.cs" />
+    <Compile Include="BL_RolePermisions.cs" />
+    <Compile Include="BL_SeverConfig.cs" />
+    <Compile Include="BL_StorageToDispatch.cs" />
+    <Compile Include="BL_SubModule_Master.cs" />
+    <Compile Include="BL_SugarCanePurchase.cs" />
+    <Compile Include="BL_SystemSetting..cs" />
+    <Compile Include="BL_Tab_Master.cs" />
+    <Compile Include="BL_Thana.cs" />
+    <Compile Include="BL_Ticketcategory.cs" />
+    <Compile Include="BL_TicketStatus.cs" />
+    <Compile Include="BL_UOM.cs" />
+    <Compile Include="BL_UserDetails.cs" />
+    <Compile Include="BL_User_Mgnt.cs" />
+    <Compile Include="BL_VATMaster.cs" />
+    <Compile Include="BL_VATTransfers_.cs" />
+    <Compile Include="BL_VatType.cs" />
+    <Compile Include="BL_WorkFlow.cs" />
+    <Compile Include="BL_Molasses_Issue_Register.cs" />
+    <Compile Include="BL_Pass_Details.cs" />
+    <Compile Include="DataUtility\BaseDataLayer.cs" />
+    <Compile Include="LabTechnician\ILabTechnicianService.cs" />
+    <Compile Include="LabTechnician\LabTechnicianProvider.cs" />
+    <Compile Include="MasterData\IMasterDataService.cs" />
+    <Compile Include="MasterData\MasterDataProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BL_RawMaterialWastage.cs" />
+    <Compile Include="ReceivingSection\IReceivingSectionService.cs" />
+    <Compile Include="ReceivingSection\ReceivingSectionProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Usermngt.DAL\Usermngt.DAL.csproj">
+      <Project>{09dcfa0d-cfbf-4493-996e-0f48a7b31d24}</Project>
+      <Name>Usermngt.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Usermngt.Entities\Usermngt.Entities.csproj">
+      <Project>{f198976f-4156-4d30-8d70-df75f3fceff6}</Project>
+      <Name>Usermngt.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

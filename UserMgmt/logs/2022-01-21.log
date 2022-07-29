@@ -1,0 +1,60 @@
+2022-01-21 12:10:42.8708 INFO Get User Success :44-Administrator
+2022-01-21 12:10:48.1813 INFO Get User Success :44-Administrator
+2022-01-21 12:10:49.7659 INFO Get Product Type Master List Success
+2022-01-21 12:10:49.8486 INFO Get User Success :Admin
+2022-01-21 12:13:25.2299 INFO Org Get List Success
+2022-01-21 12:13:26.9562 INFO Get Product Type Master List Success
+2022-01-21 12:13:27.0215 INFO Get User Success :Admin
+2022-01-21 12:13:35.6657 INFO Get State List Success
+2022-01-21 12:13:37.7039 INFO Get Product Type Master List Success
+2022-01-21 12:13:37.7657 INFO Get User Success :Admin
+2022-01-21 12:14:02.1192 INFO Get view_Role_master List Success
+2022-01-21 12:14:05.1962 INFO Get Product Type Master List Success
+2022-01-21 12:14:05.2601 INFO Get User Success :Admin
+2022-01-21 12:14:26.5046 INFO Org Get List Success
+2022-01-21 12:14:26.5794 INFO Get Role Level List Success
+2022-01-21 12:14:26.9570 INFO Get access_type List Success
+2022-01-21 12:14:27.0199 INFO Get view_Role_master List Success
+2022-01-21 12:14:28.6753 INFO Get Product Type Master List Success
+2022-01-21 12:14:29.2478 INFO Get User Success :Admin
+2022-01-21 12:14:35.3899 INFO Get Existing data Fail :role_master
+2022-01-21 12:15:05.1017 INFO Get MaxID Success :role_master
+2022-01-21 12:15:05.1148 INFO Insert role_master Fail :-Receiving Section-Input string was not in a correct format.
+2022-01-21 12:17:05.5604 INFO Get view_Role_master List Success
+2022-01-21 12:17:05.7958 INFO Get Product Type Master List Success
+2022-01-21 12:17:05.8746 INFO Get User Success :Admin
+2022-01-21 12:17:13.2447 INFO Org Get List Success
+2022-01-21 12:17:13.3185 INFO Get Role Level List Success
+2022-01-21 12:17:13.3863 INFO Get access_type List Success
+2022-01-21 12:17:13.4980 INFO Get view_Role_master List Success
+2022-01-21 12:17:14.0489 INFO Get Product Type Master List Success
+2022-01-21 12:17:14.1297 INFO Get User Success :Admin
+2022-01-21 12:17:20.2939 INFO Get Existing data Fail :role_master
+2022-01-21 12:23:42.8170 INFO Get MaxID Success :role_master
+2022-01-21 12:35:20.1680 INFO Insert role_master Fail :-Receiving Section-23505: duplicate key value violates unique constraint "role_master_pkey"
+2022-01-21 12:35:47.4624 INFO Get User Success :3074-labincharge Chemical Lab
+2022-01-21 12:35:54.0183 INFO Get User Success :3074-labincharge Chemical Lab
+2022-01-21 12:36:04.3596 INFO Get User Success :3074-labincharge Chemical Lab
+2022-01-21 12:36:09.9812 INFO Get User Success :3072-Receiving Section Chemical Lab
+2022-01-21 12:37:43.7438 INFO Get User Success :3072-Receiving Section Chemical Lab
+2022-01-21 12:37:47.1240 INFO Get User Success :3072-Receiving Section Chemical Lab
+2022-01-21 12:37:53.4028 INFO Get User Success :3075-labtec Chemical Lab
+2022-01-21 12:37:57.9825 INFO Get User Success :3075-labtec Chemical Lab
+2022-01-21 12:38:02.6042 INFO Get User Success :3073-disoff Chemical Lab
+2022-01-21 12:38:05.7326 INFO Get User Success :3073-disoff Chemical Lab
+2022-01-21 12:38:18.0338 INFO Get User Success :337-Case Management Admin
+2022-01-21 12:38:20.0575 INFO Get Product Type Master List Success
+2022-01-21 12:38:20.1323 INFO Get User Success :admin
+2022-01-21 12:38:27.6979 INFO Get User Success :337-Case Management Admin
+2022-01-21 15:35:22.0041 INFO Get User Success :101-Commissioner
+2022-01-21 15:36:29.4015 INFO Get User Success :101-Commissioner
+2022-01-21 15:36:31.4227 INFO Get Product Type Master List Success
+2022-01-21 15:36:31.4945 INFO Get User Success :com
+2022-01-21 15:36:36.3896 INFO Get User Success :101-Commissioner
+2022-01-21 15:36:36.4534 INFO Get Report  Success
+2022-01-21 15:36:38.9554 INFO Get Product Type Master List Success
+2022-01-21 15:36:39.0900 INFO Get User Success :com
+2022-01-21 15:37:05.6491 INFO Get Report  Success
+2022-01-21 15:37:05.9285 INFO Get GetSeverList Success
+2022-01-21 15:38:21.0007 INFO Get Report  Success
+2022-01-21 15:38:21.3079 INFO Get GetSeverList Success

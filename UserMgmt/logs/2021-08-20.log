@@ -1,0 +1,54 @@
+2021-08-20 11:11:19.3883 INFO Get User Success :44-Administrator
+2021-08-20 11:11:19.9613 INFO Get User Success :44-Administrator
+2021-08-20 11:11:27.2429 INFO Get Product Type Master List Success
+2021-08-20 11:11:27.3559 INFO Get User Success :Admin
+2021-08-20 11:11:50.4095 INFO Org Get List Success
+2021-08-20 11:11:50.5345 INFO Get Product Type Master List Success
+2021-08-20 11:11:50.6085 INFO Get User Success :Admin
+2021-08-20 11:11:55.8422 INFO Get SubModule Sucess
+2021-08-20 11:11:55.9261 INFO Get Product Type Master List Success
+2021-08-20 11:11:55.9881 INFO Get User Success :Admin
+2021-08-20 11:12:28.9122 INFO Get SubModule Sucess
+2021-08-20 11:12:34.9159 INFO Get SubModule Sucess
+2021-08-20 11:13:39.0700 INFO Get SubModule ListFail :42703: column a.module_name does not exist
+2021-08-20 11:13:58.8829 INFO Get SubModule Sucess
+2021-08-20 11:13:58.9468 INFO Get Product Type Master List Success
+2021-08-20 11:13:59.0128 INFO Get User Success :Admin
+2021-08-20 11:26:31.1910 INFO Get SubModule ListFail :42703: column a.module_name does not exist
+2021-08-20 11:30:16.8646 INFO Get User Success :44-Administrator
+2021-08-20 11:30:17.2695 INFO Get User Success :44-Administrator
+2021-08-20 11:30:20.1754 INFO Get Product Type Master List Success
+2021-08-20 11:30:20.6393 INFO Get User Success :Admin
+2021-08-20 11:30:28.8619 INFO Org Get List Success
+2021-08-20 11:30:28.9658 INFO Get Product Type Master List Success
+2021-08-20 11:30:29.0768 INFO Get User Success :Admin
+2021-08-20 11:30:33.2886 INFO Get SubModule Sucess
+2021-08-20 11:30:33.3916 INFO Get Product Type Master List Success
+2021-08-20 11:30:33.4796 INFO Get User Success :Admin
+2021-08-20 11:31:00.1480 INFO Get SubModule Sucess
+2021-08-20 11:31:14.4251 INFO Get SubModule Sucess
+2021-08-20 11:31:27.2264 INFO Get RolePermissions List Success
+2021-08-20 11:31:27.4523 INFO Get Product Type Master List Success
+2021-08-20 11:31:27.5384 INFO Get User Success :Admin
+2021-08-20 11:31:37.9177 INFO Get RolePermissions List Success
+2021-08-20 11:31:42.8694 INFO Get Single User Details Success
+2021-08-20 11:31:42.9444 INFO Get Product Type Master List Success
+2021-08-20 11:31:43.0294 INFO Get User Success :Admin
+2021-08-20 11:32:03.3812 INFO Get Single User Details Success
+2021-08-20 12:18:56.7906 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-08-20 12:18:57.4086 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-08-20 12:19:05.6721 INFO Get Product Type Master List Success
+2021-08-20 12:19:05.8091 INFO Get User Success :newswadeshi_dis
+2021-08-20 12:19:12.2537 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-08-20 12:19:15.8075 INFO Get Product Type Master List Success
+2021-08-20 12:19:15.9215 INFO Get User Success :newswadeshi_dis
+2021-08-20 12:19:20.5382 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-08-20 12:19:20.6512 INFO Get Product Type Master List Success
+2021-08-20 12:19:20.7112 INFO Get User Success :newswadeshi_dis
+2021-08-20 12:19:40.3600 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-08-20 12:19:40.8340 INFO Get Product Type Master List Success
+2021-08-20 12:19:40.9020 INFO Get User Success :newswadeshi_dis
+2021-08-20 12:20:01.4127 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-08-20 12:20:01.6457 INFO Get VAT Master List Success
+2021-08-20 12:20:01.7207 INFO Get Product Type Master List Success
+2021-08-20 12:20:01.7917 INFO Get User Success :newswadeshi_dis

@@ -1,0 +1,95 @@
+2021-01-13 11:11:18.9138 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:11:19.0176 INFO Get User Success :hpcl_ec
+2021-01-13 11:11:30.1547 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:11:30.1894 INFO Get User Success :hpcl_ec
+2021-01-13 11:11:35.0632 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:11:35.1140 INFO Get RR List Success
+2021-01-13 11:11:35.1415 INFO Get User Success :hpcl_ec
+2021-01-13 11:11:48.9944 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:11:49.0079 INFO Get RR List Success
+2021-01-13 11:11:49.0209 INFO Get User Success :hpcl_ec
+2021-01-13 11:15:50.5120 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:15:51.3483 INFO Get User Success :hpcl_ec
+2021-01-13 11:15:57.6875 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:15:58.0004 INFO Get User Success :hpcl_ec
+2021-01-13 11:16:10.4697 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-13 11:16:11.6665 INFO Get RR List Success
+2021-01-13 11:16:11.9029 INFO Get User Success :hpcl_ec
+2021-01-13 11:16:31.3533 INFO Get RR List Success
+2021-01-13 11:16:31.4431 INFO Get Balance Request Pass Success
+2021-01-13 15:04:07.0764 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:04:07.8463 INFO Get User Success :bharath_sgr
+2021-01-13 15:04:20.6235 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:04:20.9457 INFO Get User Success :bharath_sgr
+2021-01-13 15:04:30.4934 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:04:30.7622 INFO Get Pass List Success
+2021-01-13 15:04:30.8466 INFO Get User Success :bharath_sgr
+2021-01-13 15:04:37.1791 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:04:37.4930 INFO Get Pass List Success
+2021-01-13 15:04:44.4057 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:04:44.7248 INFO Get Pass List Success
+2021-01-13 15:04:47.8169 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:04:48.0714 INFO Get Pass List Success
+2021-01-13 15:05:47.7949 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:05:48.0531 INFO Get Pass List Success
+2021-01-13 15:05:52.1550 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-01-13 15:05:52.4413 INFO Get Pass List Success
+2021-01-13 15:07:01.3652 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:07:01.6057 INFO Get User Success :vishnu_sgr
+2021-01-13 15:07:07.6541 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:07:07.9049 INFO Get User Success :vishnu_sgr
+2021-01-13 15:07:12.2696 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:07:12.5255 INFO Get Pass List Success
+2021-01-13 15:07:12.6021 INFO Get User Success :vishnu_sgr
+2021-01-13 15:07:18.7066 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:07:18.7683 INFO Get Dispach Master List Success
+2021-01-13 15:07:18.9209 INFO Get VAT Master List Success
+2021-01-13 15:07:18.9989 INFO Get Pass List Success
+2021-01-13 15:11:35.4882 INFO Get User Success :vishnu_sgr
+2021-01-13 15:13:23.0032 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:13:23.0544 INFO Get Dispach Master List Success
+2021-01-13 15:13:23.3437 INFO Get VAT Master List Success
+2021-01-13 15:13:23.3983 INFO Get Pass List Success
+2021-01-13 15:14:10.8408 INFO Get User Success :vishnu_sgr
+2021-01-13 15:15:02.8066 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:15:02.8617 INFO Get Dispach Master List Success
+2021-01-13 15:15:02.9713 INFO Get VAT Master List Success
+2021-01-13 15:15:03.0266 INFO Get Pass List Success
+2021-01-13 15:27:53.8463 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:27:54.8511 INFO Get User Success :vishnu_sgr
+2021-01-13 15:28:03.0650 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:28:03.3805 INFO Get User Success :vishnu_sgr
+2021-01-13 15:28:06.4629 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:28:06.7802 INFO Get Pass List Success
+2021-01-13 15:28:06.9071 INFO Get User Success :vishnu_sgr
+2021-01-13 15:28:09.3891 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:28:09.4525 INFO Get Dispach Master List Success
+2021-01-13 15:28:09.6203 INFO Get VAT Master List Success
+2021-01-13 15:28:09.6929 INFO Get Pass List Success
+2021-01-13 15:28:10.0327 INFO Get User Success :vishnu_sgr
+2021-01-13 15:28:27.2442 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:28:27.5101 INFO Get Pass List Success
+2021-01-13 15:28:27.5893 INFO Get User Success :vishnu_sgr
+2021-01-13 15:28:29.7589 INFO Get Report  Success
+2021-01-13 15:28:30.0514 INFO Get GetSeverList Success
+2021-01-13 15:30:16.5881 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:30:17.3561 INFO Get User Success :vishnu_sgr
+2021-01-13 15:30:29.2971 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:30:29.6220 INFO Get User Success :vishnu_sgr
+2021-01-13 15:30:32.8191 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:30:33.0917 INFO Get Pass List Success
+2021-01-13 15:30:33.1825 INFO Get User Success :vishnu_sgr
+2021-01-13 15:30:35.8658 INFO Get Report  Success
+2021-01-13 15:30:36.0876 INFO Get GetSeverList Success
+2021-01-13 15:53:33.0728 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:53:33.7040 INFO Get User Success :vishnu_sgr
+2021-01-13 15:53:55.7414 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:53:56.1512 INFO Get User Success :vishnu_sgr
+2021-01-13 15:54:03.8096 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:54:04.2611 INFO Get Pass List Success
+2021-01-13 15:54:04.3715 INFO Get User Success :vishnu_sgr
+2021-01-13 15:54:07.8378 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-13 15:54:07.9236 INFO Get Dispach Master List Success
+2021-01-13 15:54:08.1536 INFO Get VAT Master List Success
+2021-01-13 15:54:08.2658 INFO Get Pass List Success
+2021-01-13 15:54:08.7484 INFO Get User Success :vishnu_sgr

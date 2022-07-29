@@ -1,0 +1,657 @@
+2020-11-27 10:59:38.4083 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 10:59:44.6785 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 10:59:44.6835 INFO Get RR List Success
+2020-11-27 10:59:44.7044 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 10:59:58.2714 INFO Get User Success :137-Assistant Commissioner
+2020-11-27 11:00:01.1628 INFO Get User Success :137-Assistant Commissioner
+2020-11-27 11:00:01.1658 INFO Check WorkFlow List Success
+2020-11-27 11:00:01.1658 INFO Get RR List Success
+2020-11-27 11:00:01.1658 INFO Get User Success :137-Assistant Commissioner
+2020-11-27 11:16:03.6449 INFO Get User Success :44-Administrator
+2020-11-27 11:16:11.4548 INFO Get User Success :44-Administrator
+2020-11-27 11:18:16.0602 INFO Get User Success :44-Administrator
+2020-11-27 11:18:22.5902 INFO Get User Success :44-Administrator
+2020-11-27 11:18:24.1230 INFO Get User Success :44-Administrator
+2020-11-27 11:18:25.7017 INFO Get User Success :44-Administrator
+2020-11-27 11:20:09.7041 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:12.8887 INFO Sugarcanepurchase Get List Success
+2020-11-27 11:20:12.8887 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:12.9429 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:20.6501 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:20.6501 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:27.9876 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:28.0204 INFO Get Party Master List Success
+2020-11-27 11:20:28.0408 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:32.7206 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:32.7206 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:34.1825 INFO MIR GetList Sucess
+2020-11-27 11:20:34.1825 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:34.1825 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:36.3644 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:20:36.3644 INFO Get Party Master List Success
+2020-11-27 11:20:36.3882 INFO Get VAT Master List Success
+2020-11-27 11:20:36.3882 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 11:23:26.1441 INFO Get User Success :44-Administrator
+2020-11-27 11:23:30.1387 INFO Get User Success :44-Administrator
+2020-11-27 11:23:31.4584 INFO Get User Success :44-Administrator
+2020-11-27 11:23:32.7058 INFO Get User Success :44-Administrator
+2020-11-27 11:24:55.1541 INFO Get Report  Success
+2020-11-27 11:24:55.1541 INFO Get User Success :44-Administrator
+2020-11-27 11:24:58.6055 INFO Get GetSeverList Success
+2020-11-27 11:29:39.9469 INFO Get User Success :44-Administrator
+2020-11-27 11:29:41.1972 INFO Get User Success :44-Administrator
+2020-11-27 11:29:42.5298 INFO Get User Success :44-Administrator
+2020-11-27 11:32:15.2878 INFO Get User Success :44-Administrator
+2020-11-27 11:46:59.9869 INFO Get User Success :44-Administrator
+2020-11-27 11:47:02.9643 INFO Get User Success :44-Administrator
+2020-11-27 11:47:04.4762 INFO Get User Success :44-Administrator
+2020-11-27 11:47:06.0725 INFO Get User Success :44-Administrator
+2020-11-27 11:49:42.6897 INFO Get User Success :44-Administrator
+2020-11-27 11:50:24.2613 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 11:50:26.8859 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 11:50:26.8859 INFO Get RR List Success
+2020-11-27 11:50:26.9121 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 11:50:29.4809 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 11:50:29.5020 INFO Get Product Type Master List Success
+2020-11-27 11:50:29.5020 INFO Get NOC Sucess:1
+2020-11-27 11:50:29.5151 INFO Get State List Success
+2020-11-27 11:50:29.5151 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 11:52:11.8782 INFO Get User Success :44-Administrator
+2020-11-27 11:52:14.7047 INFO Get User Success :44-Administrator
+2020-11-27 11:52:15.4635 INFO Get User Success :44-Administrator
+2020-11-27 11:52:16.2415 INFO Get User Success :44-Administrator
+2020-11-27 11:55:49.5082 INFO Get User Success :44-Administrator
+2020-11-27 11:56:07.2677 INFO Get User Success :44-Administrator
+2020-11-27 11:56:17.1335 INFO Get User Success :44-Administrator
+2020-11-27 11:56:32.5243 INFO Get User Success :44-Administrator
+2020-11-27 11:56:43.6043 INFO Get User Success :44-Administrator
+2020-11-27 11:57:04.9487 INFO Get User Success :44-Administrator
+2020-11-27 11:57:15.6769 INFO Get User Success :44-Administrator
+2020-11-27 11:57:23.5162 INFO Get User Success :44-Administrator
+2020-11-27 11:57:56.2664 INFO Get User Success :44-Administrator
+2020-11-27 11:58:10.7648 INFO Get User Success :44-Administrator
+2020-11-27 11:58:31.6566 INFO Get User Success :44-Administrator
+2020-11-27 11:58:40.1192 INFO Get User Success :44-Administrator
+2020-11-27 11:58:50.0748 INFO Get User Success :44-Administrator
+2020-11-27 11:59:08.5464 INFO Get User Success :44-Administrator
+2020-11-27 11:59:11.3522 INFO Get User Success :44-Administrator
+2020-11-27 11:59:12.8574 INFO Get User Success :44-Administrator
+2020-11-27 11:59:13.9999 INFO Get User Success :44-Administrator
+2020-11-27 11:59:29.6877 INFO Get User Success :44-Administrator
+2020-11-27 11:59:38.0755 INFO Get User Success :44-Administrator
+2020-11-27 12:00:04.2979 INFO Get User Success :44-Administrator
+2020-11-27 12:00:38.1052 INFO Get User Success :44-Administrator
+2020-11-27 12:00:47.4917 INFO Get User Success :44-Administrator
+2020-11-27 12:00:55.7504 INFO Get User Success :44-Administrator
+2020-11-27 12:01:03.9526 INFO Get User Success :44-Administrator
+2020-11-27 12:01:11.3297 INFO Get User Success :44-Administrator
+2020-11-27 12:01:19.4147 INFO Get User Success :44-Administrator
+2020-11-27 12:01:30.8330 INFO Get User Success :44-Administrator
+2020-11-27 12:01:41.3652 INFO Get User Success :44-Administrator
+2020-11-27 12:01:52.0601 INFO Get User Success :44-Administrator
+2020-11-27 12:02:04.7742 INFO Get User Success :44-Administrator
+2020-11-27 12:03:00.9834 INFO Get User Success :44-Administrator
+2020-11-27 12:03:19.0925 INFO Get User Success :44-Administrator
+2020-11-27 12:03:24.3878 INFO Get User Success :44-Administrator
+2020-11-27 12:03:40.3717 INFO Get User Success :44-Administrator
+2020-11-27 12:03:47.0113 INFO Get User Success :44-Administrator
+2020-11-27 12:03:48.3848 INFO Get User Success :44-Administrator
+2020-11-27 12:03:49.4980 INFO Get User Success :44-Administrator
+2020-11-27 12:04:02.6761 INFO Get User Success :44-Administrator
+2020-11-27 12:04:29.0678 INFO Get User Success :44-Administrator
+2020-11-27 12:04:34.2137 INFO Get User Success :44-Administrator
+2020-11-27 12:04:34.9723 INFO Get User Success :44-Administrator
+2020-11-27 12:04:51.7435 INFO Get User Success :44-Administrator
+2020-11-27 12:05:00.3242 INFO Get User Success :44-Administrator
+2020-11-27 12:05:04.6009 INFO Get User Success :44-Administrator
+2020-11-27 12:05:05.7998 INFO Get User Success :44-Administrator
+2020-11-27 12:05:06.6694 INFO Get User Success :44-Administrator
+2020-11-27 12:05:28.8418 INFO Get User Success :44-Administrator
+2020-11-27 12:05:29.8593 INFO Get User Success :44-Administrator
+2020-11-27 12:05:30.0677 INFO Get User Success :44-Administrator
+2020-11-27 12:05:30.2482 INFO Get User Success :44-Administrator
+2020-11-27 12:06:38.7687 INFO Get User Success :44-Administrator
+2020-11-27 12:06:54.2248 INFO Get User Success :44-Administrator
+2020-11-27 12:07:07.7070 INFO Get User Success :44-Administrator
+2020-11-27 12:07:19.7284 INFO Get User Success :44-Administrator
+2020-11-27 12:07:38.1470 INFO Get User Success :44-Administrator
+2020-11-27 12:08:01.5748 INFO Get User Success :44-Administrator
+2020-11-27 12:08:19.2832 INFO Get User Success :44-Administrator
+2020-11-27 12:34:47.3901 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:34:50.5961 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:34:50.6132 INFO Check WorkFlow List Success
+2020-11-27 12:34:50.7098 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:34:50.7098 INFO Check WorkFlow List Success
+2020-11-27 12:34:50.7238 INFO Get Allotment List Success
+2020-11-27 12:34:50.7580 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:35:43.8798 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:35:43.8798 INFO Check WorkFlow List Success
+2020-11-27 12:35:43.8798 INFO Get Allotment List Success
+2020-11-27 12:35:59.2058 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:36:02.4785 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:36:02.5164 INFO Get Indent List Success
+2020-11-27 12:36:02.5271 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:36:04.0925 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:36:04.0925 INFO Get Indent List Success
+2020-11-27 12:36:04.1680 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:36:04.1680 INFO Get Allotment List Success
+2020-11-27 12:36:04.1680 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:37:22.4652 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:37:22.4652 INFO Get Allotment List Success
+2020-11-27 12:37:42.0196 INFO Get User Success :44-Administrator
+2020-11-27 12:37:44.6068 INFO Get User Success :44-Administrator
+2020-11-27 12:37:45.9798 INFO Get Users List Success
+2020-11-27 12:37:45.9798 INFO Get User Success :44-Administrator
+2020-11-27 12:37:53.5862 INFO Org Get List Success
+2020-11-27 12:37:53.5926 INFO Get Party Master List Success
+2020-11-27 12:37:53.5926 INFO Get Role Level List Success
+2020-11-27 12:37:53.5926 INFO Get access_type List Success
+2020-11-27 12:37:53.6694 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-27 12:37:53.6694 INFO Get State List Success
+2020-11-27 12:37:53.6694 INFO Get Dept List Success
+2020-11-27 12:37:53.6694 INFO Get Users List Success
+2020-11-27 12:37:53.6871 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-11-27 12:37:53.6871 INFO Get Division List Success
+2020-11-27 12:37:53.6983 INFO Get User Success :44-Administrator
+2020-11-27 12:37:56.0297 INFO Get Users List Success
+2020-11-27 12:37:56.0297 INFO Get User Success :44-Administrator
+2020-11-27 12:37:57.6539 INFO Get Users List Success
+2020-11-27 12:38:11.9629 INFO Org Get List Success
+2020-11-27 12:38:11.9629 INFO Get Party Master List Success
+2020-11-27 12:38:11.9629 INFO Get Role Level List Success
+2020-11-27 12:38:11.9629 INFO Get access_type List Success
+2020-11-27 12:38:11.9859 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-27 12:38:11.9859 INFO Get State List Success
+2020-11-27 12:38:11.9859 INFO Get Dept List Success
+2020-11-27 12:38:11.9936 INFO Get Users List Success
+2020-11-27 12:38:11.9936 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:11.9936 INFO Get Division List Success
+2020-11-27 12:38:11.9936 INFO Get User Success :44-Administrator
+2020-11-27 12:38:26.0521 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:29.2867 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:29.3197 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:34.3908 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:34.4156 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:38.6953 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:38.7182 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 12:38:54.4662 INFO Get User Success :44-Administrator
+2020-11-27 12:38:59.6818 INFO Get User Success :44-Administrator
+2020-11-27 12:39:05.1548 INFO Get Users List Success
+2020-11-27 12:39:05.1548 INFO Get User Success :44-Administrator
+2020-11-27 12:39:07.4784 INFO Get Users List Success
+2020-11-27 12:39:18.1535 INFO Get WorkFlow List Success
+2020-11-27 12:39:18.1665 INFO Get User Success :44-Administrator
+2020-11-27 12:39:32.1319 INFO Get User Success :44-Administrator
+2020-11-27 12:39:43.3957 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:39:46.0862 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:39:46.0872 INFO Check WorkFlow List Success
+2020-11-27 12:39:46.1107 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:39:46.1107 INFO Check WorkFlow List Success
+2020-11-27 12:39:46.1107 INFO Get Allotment List Success
+2020-11-27 12:39:46.1107 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:40:21.1522 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:40:21.1522 INFO Check WorkFlow List Success
+2020-11-27 12:40:42.2596 INFO Get Allotment List Success
+2020-11-27 12:40:42.2596 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 12:50:10.7903 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:50:19.2104 INFO Sugarcanepurchase Get List Success
+2020-11-27 12:50:19.2136 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:50:19.2477 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:50:21.7842 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:50:38.7669 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:50:41.4486 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:50:41.4625 INFO Get User Success :111-New Swadeshi Sugar Mills
+2020-11-27 12:54:48.9123 INFO Get User Success :44-Administrator
+2020-11-27 12:54:56.8724 INFO Get User Success :44-Administrator
+2020-11-27 12:54:57.8287 INFO Get User Success :44-Administrator
+2020-11-27 12:54:59.1980 INFO Get User Success :44-Administrator
+2020-11-27 12:55:29.4206 INFO Get User Success :44-Administrator
+2020-11-27 12:55:51.8011 INFO Get User Success :44-Administrator
+2020-11-27 12:56:18.9935 INFO Get User Success :44-Administrator
+2020-11-27 12:56:39.3645 INFO Get User Success :44-Administrator
+2020-11-27 12:56:51.2315 INFO Get User Success :44-Administrator
+2020-11-27 12:56:51.4576 INFO Get User Success :44-Administrator
+2020-11-27 12:56:52.9761 INFO Get User Success :44-Administrator
+2020-11-27 12:56:55.0528 INFO Get User Success :44-Administrator
+2020-11-27 12:56:55.6697 INFO Get User Success :44-Administrator
+2020-11-27 12:56:56.6918 INFO Get User Success :44-Administrator
+2020-11-27 12:57:08.4210 INFO Get User Success :44-Administrator
+2020-11-27 12:58:03.0353 INFO Get User Success :44-Administrator
+2020-11-27 12:58:44.6387 INFO Get User Success :44-Administrator
+2020-11-27 12:58:48.1485 INFO Get User Success :44-Administrator
+2020-11-27 12:58:50.1134 INFO Get User Success :44-Administrator
+2020-11-27 12:59:00.1160 INFO Get User Success :44-Administrator
+2020-11-27 12:59:21.4125 INFO Get User Success :44-Administrator
+2020-11-27 13:00:00.1937 INFO Get User Success :44-Administrator
+2020-11-27 13:00:01.0763 INFO Get User Success :44-Administrator
+2020-11-27 13:00:13.7818 INFO Get User Success :44-Administrator
+2020-11-27 13:00:23.5847 INFO Get User Success :44-Administrator
+2020-11-27 13:00:54.6062 INFO Get User Success :44-Administrator
+2020-11-27 13:00:59.8396 INFO Get User Success :44-Administrator
+2020-11-27 13:01:00.0338 INFO Get User Success :44-Administrator
+2020-11-27 13:01:00.2134 INFO Get User Success :44-Administrator
+2020-11-27 13:01:00.3799 INFO Get User Success :44-Administrator
+2020-11-27 13:01:32.5256 INFO Get User Success :44-Administrator
+2020-11-27 13:02:04.3450 INFO Get User Success :44-Administrator
+2020-11-27 13:02:16.5417 INFO Get User Success :44-Administrator
+2020-11-27 13:02:37.2494 INFO Get User Success :44-Administrator
+2020-11-27 13:02:40.7874 INFO Get User Success :44-Administrator
+2020-11-27 13:02:41.5654 INFO Get User Success :44-Administrator
+2020-11-27 13:02:42.5593 INFO Get User Success :44-Administrator
+2020-11-27 13:02:54.9451 INFO Get User Success :44-Administrator
+2020-11-27 13:03:07.2487 INFO Get User Success :44-Administrator
+2020-11-27 13:03:16.9321 INFO Get User Success :44-Administrator
+2020-11-27 13:03:28.4557 INFO Get User Success :44-Administrator
+2020-11-27 13:04:15.2473 INFO Get User Success :44-Administrator
+2020-11-27 13:06:05.9298 INFO Get User Success :44-Administrator
+2020-11-27 13:06:53.9851 INFO Get User Success :44-Administrator
+2020-11-27 13:07:37.6197 INFO Get User Success :44-Administrator
+2020-11-27 13:08:01.7973 INFO Get User Success :44-Administrator
+2020-11-27 13:08:19.3372 INFO Get User Success :44-Administrator
+2020-11-27 13:10:04.2814 INFO Get User Success :44-Administrator
+2020-11-27 13:10:05.7307 INFO Get User Success :44-Administrator
+2020-11-27 13:10:17.3351 INFO Get User Success :44-Administrator
+2020-11-27 13:10:18.3336 INFO Get User Success :44-Administrator
+2020-11-27 13:10:41.6794 INFO Get User Success :44-Administrator
+2020-11-27 13:10:43.3700 INFO Get User Success :44-Administrator
+2020-11-27 13:11:02.2513 INFO Get User Success :44-Administrator
+2020-11-27 13:11:35.6801 INFO Get User Success :44-Administrator
+2020-11-27 13:11:42.9866 INFO Get User Success :44-Administrator
+2020-11-27 13:26:28.2369 INFO Get User Success :44-Administrator
+2020-11-27 13:26:45.1321 INFO Get User Success :44-Administrator
+2020-11-27 13:26:46.6453 INFO Get User Success :44-Administrator
+2020-11-27 13:30:37.7569 INFO Get User Success :44-Administrator
+2020-11-27 13:30:41.4953 INFO Get User Success :44-Administrator
+2020-11-27 13:30:42.4798 INFO Get User Success :44-Administrator
+2020-11-27 13:30:43.5855 INFO Get User Success :44-Administrator
+2020-11-27 13:32:01.2959 INFO Get User Success :44-Administrator
+2020-11-27 14:26:10.8900 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:26:16.7946 INFO Sugarcanepurchase Get List Success
+2020-11-27 14:26:16.7946 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:26:16.8315 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:26:17.9176 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:26:17.9405 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:26:19.5483 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:26:19.5651 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:30:55.2378 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:30:55.2535 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:30:58.4279 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:30:58.4389 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:31:35.9830 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:31:43.6916 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:31:43.7064 INFO Check WorkFlow List Success
+2020-11-27 14:31:43.7697 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:31:43.7697 INFO Check WorkFlow List Success
+2020-11-27 14:31:43.7894 INFO Get Allotment List Success
+2020-11-27 14:31:43.8024 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:19.3227 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:19.3227 INFO Check WorkFlow List Success
+2020-11-27 14:32:19.3227 INFO Get Allotment List Success
+2020-11-27 14:32:19.3227 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:32.7570 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:47.6219 INFO Check WorkFlow List Success
+2020-11-27 14:32:47.6219 INFO Get Allotment List Success
+2020-11-27 14:32:47.6219 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:51.3542 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:51.3542 INFO Check WorkFlow List Success
+2020-11-27 14:32:51.3542 INFO Get Allotment List Success
+2020-11-27 14:32:51.4131 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:51.4307 INFO Get Party Master List Success
+2020-11-27 14:32:51.4538 INFO Get Indent List Success
+2020-11-27 14:32:51.4646 INFO Get Allotment Details Success
+2020-11-27 14:32:51.4830 INFO Check WorkFlow List Success
+2020-11-27 14:32:51.4830 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:55.0531 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:32:55.0531 INFO Check WorkFlow List Success
+2020-11-27 14:32:55.0581 INFO Get Allotment List Success
+2020-11-27 14:32:55.0581 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:33:37.4499 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:33:37.4499 INFO Check WorkFlow List Success
+2020-11-27 14:33:37.4499 INFO Get Allotment List Success
+2020-11-27 14:34:06.1918 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:34:09.2456 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:34:09.2656 INFO Get RR List Success
+2020-11-27 14:34:09.2776 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:34:29.8661 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:34:29.8688 INFO Get RR List Success
+2020-11-27 14:35:28.7091 INFO Get RR List Success
+2020-11-27 14:35:30.3043 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:36:45.7976 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:24.2554 INFO Get RR List Success
+2020-11-27 14:40:28.0155 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:34.0997 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:34.1035 INFO Get Indent List Success
+2020-11-27 14:40:34.1035 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:35.1108 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:35.1108 INFO Get Indent List Success
+2020-11-27 14:40:35.1347 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:35.1347 INFO Get Allotment List Success
+2020-11-27 14:40:35.1347 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:40:57.5538 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:14.5344 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:22.7932 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:22.8193 INFO Get Indent List Success
+2020-11-27 14:45:22.8582 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:25.6799 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:25.6828 INFO Get Indent List Success
+2020-11-27 14:45:25.8842 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:25.8842 INFO Get Allotment List Success
+2020-11-27 14:45:25.8842 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:45.4125 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:45:45.4125 INFO Get Allotment List Success
+2020-11-27 14:46:01.6083 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:07.2016 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:07.2016 INFO Get Allotment List Success
+2020-11-27 14:46:13.0262 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:13.0262 INFO Get Indent List Success
+2020-11-27 14:46:13.0262 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:17.4324 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:17.4324 INFO Get Indent List Success
+2020-11-27 14:46:17.4544 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:17.4544 INFO Get Allotment List Success
+2020-11-27 14:46:34.9565 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:38.6314 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:46:38.6344 INFO Get Allotment List Success
+2020-11-27 14:47:34.7489 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:47:37.0731 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:47:37.0731 INFO Get Indent List Success
+2020-11-27 14:47:37.0731 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:47:38.0461 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:47:38.0461 INFO Get Indent List Success
+2020-11-27 14:47:38.0685 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:48:51.8591 INFO Get Allotment List Success
+2020-11-27 14:48:51.8720 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:48:56.6732 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:48:59.6944 INFO Get Allotment List Success
+2020-11-27 14:48:59.8249 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:48:59.8405 INFO Get Party Master List Success
+2020-11-27 14:48:59.8405 INFO Get Indent List Success
+2020-11-27 14:48:59.8579 INFO Get Allotment Details Success
+2020-11-27 14:48:59.8932 INFO Check WorkFlow List Success
+2020-11-27 14:48:59.9020 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:49:36.0112 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:49:36.0112 INFO Get Party Master List Success
+2020-11-27 14:49:36.0112 INFO Get Indent List Success
+2020-11-27 14:49:36.0112 INFO Get Allotment Details Success
+2020-11-27 14:50:22.6028 INFO Check WorkFlow List Success
+2020-11-27 14:50:22.6028 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:51:34.8552 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:51:34.8552 INFO Get Allotment List Success
+2020-11-27 14:51:34.8552 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:51:43.3454 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:51:43.3454 INFO Get Allotment List Success
+2020-11-27 14:51:43.3673 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:51:43.3723 INFO Get Party Master List Success
+2020-11-27 14:51:43.3723 INFO Get Indent List Success
+2020-11-27 14:51:43.3723 INFO Get Allotment Details Success
+2020-11-27 14:51:43.3723 INFO Check WorkFlow List Success
+2020-11-27 14:51:43.3845 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 14:52:05.5181 INFO Get User Success :122-New Swadeshi Sugar Mills, Bond Officer
+2020-11-27 14:52:52.8809 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:52:56.7058 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:52:56.7058 INFO Check WorkFlow List Success
+2020-11-27 14:52:56.7355 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:52:56.7355 INFO Check WorkFlow List Success
+2020-11-27 14:52:56.7355 INFO Get Allotment List Success
+2020-11-27 14:52:56.7444 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:09.0156 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:09.0156 INFO Check WorkFlow List Success
+2020-11-27 14:53:09.0156 INFO Get Allotment List Success
+2020-11-27 14:53:09.0604 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:09.0604 INFO Get Party Master List Success
+2020-11-27 14:53:09.0604 INFO Get Indent List Success
+2020-11-27 14:53:09.0604 INFO Get Allotment Details Success
+2020-11-27 14:53:09.0604 INFO Check WorkFlow List Success
+2020-11-27 14:53:09.0753 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:31.6745 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:31.6745 INFO Get Party Master List Success
+2020-11-27 14:53:31.6812 INFO Get Indent List Success
+2020-11-27 14:53:31.6812 INFO Get Allotment Details Success
+2020-11-27 14:53:31.6812 INFO Check WorkFlow List Success
+2020-11-27 14:53:31.6812 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:46.7876 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:53:46.7911 INFO Get Party Master List Success
+2020-11-27 14:53:46.7911 INFO Get Indent List Success
+2020-11-27 14:53:46.7911 INFO Get Allotment Details Success
+2020-11-27 14:53:46.7911 INFO Check WorkFlow List Success
+2020-11-27 14:55:37.7203 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:55:43.0105 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:55:43.0105 INFO Get Party Master List Success
+2020-11-27 14:55:43.0105 INFO Get Indent List Success
+2020-11-27 14:55:43.0105 INFO Get Allotment Details Success
+2020-11-27 14:55:43.0105 INFO Check WorkFlow List Success
+2020-11-27 14:55:45.2685 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:58:27.8297 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 14:58:27.8297 INFO Get Party Master List Success
+2020-11-27 14:58:27.8297 INFO Get Indent List Success
+2020-11-27 14:58:27.8387 INFO Get Allotment Details Success
+2020-11-27 14:58:27.8387 INFO Check WorkFlow List Success
+2020-11-27 14:59:42.0240 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:05.5243 INFO Allotement Approve Sucess:10
+2020-11-27 15:00:05.5553 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:05.5572 INFO Check WorkFlow List Success
+2020-11-27 15:00:05.5572 INFO Get Allotment List Success
+2020-11-27 15:00:05.5572 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:21.9064 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:23.7669 INFO Get RR List Success
+2020-11-27 15:00:23.7669 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:26.1597 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:26.1597 INFO Get RR List Success
+2020-11-27 15:00:26.1667 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:27.3603 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:33.6690 INFO Get RR List Success
+2020-11-27 15:00:33.6690 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:38.7145 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:38.7145 INFO Check WorkFlow List Success
+2020-11-27 15:00:38.7408 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:38.7408 INFO Check WorkFlow List Success
+2020-11-27 15:00:38.7448 INFO Get Allotment List Success
+2020-11-27 15:00:38.7448 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:51.1140 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:51.1140 INFO Check WorkFlow List Success
+2020-11-27 15:00:51.1140 INFO Get Allotment List Success
+2020-11-27 15:00:51.1409 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:00:51.1409 INFO Get Party Master List Success
+2020-11-27 15:00:51.1409 INFO Get Indent List Success
+2020-11-27 15:00:51.1409 INFO Get Allotment Details Success
+2020-11-27 15:00:51.1509 INFO Check WorkFlow List Success
+2020-11-27 15:00:56.6023 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:01:11.0860 INFO Get User Success :101-Commissioner
+2020-11-27 15:01:14.7214 INFO Get User Success :101-Commissioner
+2020-11-27 15:01:14.7214 INFO Check WorkFlow List Success
+2020-11-27 15:01:14.7563 INFO Get User Success :101-Commissioner
+2020-11-27 15:01:14.7563 INFO Check WorkFlow List Success
+2020-11-27 15:01:14.7613 INFO Get Allotment List Success
+2020-11-27 15:01:14.7613 INFO Get User Success :101-Commissioner
+2020-11-27 15:01:18.8160 INFO Get User Success :101-Commissioner
+2020-11-27 15:01:18.8160 INFO Check WorkFlow List Success
+2020-11-27 15:01:18.8160 INFO Get Allotment List Success
+2020-11-27 15:01:18.8427 INFO Get User Success :101-Commissioner
+2020-11-27 15:01:18.8427 INFO Get Party Master List Success
+2020-11-27 15:01:18.8427 INFO Get Indent List Success
+2020-11-27 15:01:18.8427 INFO Get Allotment Details Success
+2020-11-27 15:01:18.8531 INFO Check WorkFlow List Success
+2020-11-27 15:01:21.6630 INFO Get User Success :101-Commissioner
+2020-11-27 15:02:12.5318 INFO Allotement Approve Sucess:10
+2020-11-27 15:02:12.5527 INFO Get User Success :101-Commissioner
+2020-11-27 15:02:12.5527 INFO Check WorkFlow List Success
+2020-11-27 15:02:12.5577 INFO Get Allotment List Success
+2020-11-27 15:02:12.5577 INFO Get User Success :101-Commissioner
+2020-11-27 15:02:27.1135 INFO Get User Success :101-Commissioner
+2020-11-27 15:02:27.1135 INFO Check WorkFlow List Success
+2020-11-27 15:02:27.1135 INFO Get Allotment List Success
+2020-11-27 15:02:34.6989 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:02:37.1714 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:02:37.1714 INFO Check WorkFlow List Success
+2020-11-27 15:02:37.2522 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:02:37.2522 INFO Check WorkFlow List Success
+2020-11-27 15:02:37.2522 INFO Get Allotment List Success
+2020-11-27 15:02:37.2601 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:02:39.1809 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:02:39.1809 INFO Check WorkFlow List Success
+2020-11-27 15:02:39.1809 INFO Get Allotment List Success
+2020-11-27 15:02:39.1809 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:03:16.8362 INFO Allotement Issued Sucess:10
+2020-11-27 15:03:16.8583 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:03:16.8583 INFO Check WorkFlow List Success
+2020-11-27 15:03:16.8583 INFO Get Allotment List Success
+2020-11-27 15:03:16.8715 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:03:21.2498 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:03:21.2498 INFO Check WorkFlow List Success
+2020-11-27 15:03:21.2498 INFO Get Allotment List Success
+2020-11-27 15:03:31.0873 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:03:35.8715 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:03:35.8715 INFO Get Indent List Success
+2020-11-27 15:03:35.8715 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:03:37.3597 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:03:37.3597 INFO Get RR List Success
+2020-11-27 15:03:37.3727 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:03:47.1516 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:03:47.1516 INFO Get RR List Success
+2020-11-27 15:03:47.1516 INFO Get RR No Sucess:4
+2020-11-27 15:03:47.1516 INFO Get RR List Success
+2020-11-27 15:03:47.1516 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:22.0829 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:22.0829 INFO Get Indent List Success
+2020-11-27 15:06:22.0910 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:26.6383 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:26.6383 INFO Get Indent List Success
+2020-11-27 15:06:26.6630 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:26.6653 INFO Get Allotment List Success
+2020-11-27 15:06:26.6653 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:28.7600 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:28.7600 INFO Get Allotment List Success
+2020-11-27 15:06:33.9282 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:33.9316 INFO Get Party Master List Success
+2020-11-27 15:06:33.9316 INFO Get Indent List Success
+2020-11-27 15:06:33.9316 INFO Get Allotment Details Success
+2020-11-27 15:06:33.9316 INFO Check WorkFlow List Success
+2020-11-27 15:06:33.9481 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:49.0520 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:51.2378 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:51.2378 INFO Get Indent List Success
+2020-11-27 15:06:51.2448 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:52.2852 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:52.2852 INFO Get Indent List Success
+2020-11-27 15:06:52.3080 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:52.3080 INFO Get Allotment List Success
+2020-11-27 15:06:52.3080 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:54.0429 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:54.0429 INFO Get Allotment List Success
+2020-11-27 15:06:54.0639 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:06:54.0639 INFO Get Party Master List Success
+2020-11-27 15:06:54.0639 INFO Get Indent List Success
+2020-11-27 15:06:54.0718 INFO Get Allotment Details Success
+2020-11-27 15:06:54.0718 INFO Check WorkFlow List Success
+2020-11-27 15:06:54.0718 INFO Get User Success :108-New Swadeshi Distillery Unit
+2020-11-27 15:07:16.9627 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 15:07:19.7658 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 15:07:19.7918 INFO Get User Success :99-Assistant Commissioner
+2020-11-27 15:07:31.1638 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:07:33.1342 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:07:33.1342 INFO Check WorkFlow List Success
+2020-11-27 15:07:33.1655 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:07:33.1655 INFO Check WorkFlow List Success
+2020-11-27 15:07:33.1655 INFO Get Allotment List Success
+2020-11-27 15:07:33.1655 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:07:40.4651 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:07:40.4651 INFO Check WorkFlow List Success
+2020-11-27 15:07:40.4651 INFO Get Allotment List Success
+2020-11-27 15:07:40.4925 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:07:40.4955 INFO Get Party Master List Success
+2020-11-27 15:07:40.4955 INFO Get Indent List Success
+2020-11-27 15:07:40.4955 INFO Get Allotment Details Success
+2020-11-27 15:07:40.4955 INFO Check WorkFlow List Success
+2020-11-27 15:07:40.4955 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:08:30.4672 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:08:30.4672 INFO Get Party Master List Success
+2020-11-27 15:08:30.4672 INFO Get Indent List Success
+2020-11-27 15:08:30.4672 INFO Get Allotment Details Success
+2020-11-27 15:08:30.4781 INFO Check WorkFlow List Success
+2020-11-27 15:08:46.8066 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:13.6011 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:13.6041 INFO Get Party Master List Success
+2020-11-27 15:09:13.6041 INFO Get Indent List Success
+2020-11-27 15:09:13.6041 INFO Get Allotment Details Success
+2020-11-27 15:09:13.6041 INFO Check WorkFlow List Success
+2020-11-27 15:09:25.6388 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:42.3058 INFO Allotement Approve Sucess:3
+2020-11-27 15:09:42.3287 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:42.3287 INFO Check WorkFlow List Success
+2020-11-27 15:09:42.3287 INFO Get Allotment List Success
+2020-11-27 15:09:42.3287 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:46.6497 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:46.6497 INFO Check WorkFlow List Success
+2020-11-27 15:09:46.6497 INFO Get Allotment List Success
+2020-11-27 15:09:46.6840 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:09:46.6840 INFO Get Party Master List Success
+2020-11-27 15:09:46.6840 INFO Get Indent List Success
+2020-11-27 15:09:46.6840 INFO Get Allotment Details Success
+2020-11-27 15:09:46.6840 INFO Check WorkFlow List Success
+2020-11-27 15:09:48.9619 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:10:47.0970 INFO Allotement Approve Sucess:8
+2020-11-27 15:10:47.1189 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:10:47.1189 INFO Check WorkFlow List Success
+2020-11-27 15:10:47.1189 INFO Get Allotment List Success
+2020-11-27 15:10:47.1189 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:10:51.7522 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:10:51.7522 INFO Check WorkFlow List Success
+2020-11-27 15:10:51.7522 INFO Get Allotment List Success
+2020-11-27 15:10:51.7787 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:10:51.7787 INFO Get Party Master List Success
+2020-11-27 15:10:51.7787 INFO Get Indent List Success
+2020-11-27 15:10:51.7787 INFO Get Allotment Details Success
+2020-11-27 15:10:51.7787 INFO Check WorkFlow List Success
+2020-11-27 15:10:51.7967 INFO Get User Success :100-Deputy Commissioner
+2020-11-27 15:55:41.2874 INFO Get User Success :44-Administrator
+2020-11-27 15:55:48.3021 INFO Get User Success :44-Administrator
+2020-11-27 15:55:50.3275 INFO Get User Success :44-Administrator
+2020-11-27 16:02:42.6017 INFO Get User Success :44-Administrator
+2020-11-27 16:02:47.4030 INFO Get User Success :44-Administrator
+2020-11-27 16:04:07.8212 INFO Get User Success :44-Administrator
+2020-11-27 16:04:26.5125 INFO Get User Success :44-Administrator
+2020-11-27 16:04:35.3735 INFO Get User Success :44-Administrator
+2020-11-27 16:04:37.4519 INFO Get User Success :44-Administrator
+2020-11-27 16:04:38.2943 INFO Get User Success :44-Administrator
+2020-11-27 16:05:07.7951 INFO Get User Success :44-Administrator
+2020-11-27 16:20:02.4471 INFO Get User Success :44-Administrator
+2020-11-27 16:20:07.1406 INFO Get User Success :44-Administrator
+2020-11-27 16:20:08.8800 INFO Get User Success :44-Administrator
+2020-11-27 16:20:10.0553 INFO Get User Success :44-Administrator
+2020-11-27 16:21:46.6827 INFO Get User Success :44-Administrator
+2020-11-27 16:21:51.2406 INFO Get User Success :44-Administrator
+2020-11-27 16:21:52.9804 INFO Get User Success :44-Administrator
+2020-11-27 16:21:54.2788 INFO Get User Success :44-Administrator
+2020-11-27 16:22:00.7470 INFO Get User Success :44-Administrator
+2020-11-27 16:22:03.1479 INFO Get User Success :44-Administrator
+2020-11-27 16:25:17.9866 INFO Get User Success :44-Administrator
+2020-11-27 16:25:20.2434 INFO Get User Success :44-Administrator
+2020-11-27 16:25:53.2644 INFO Get User Success :44-Administrator
+2020-11-27 16:31:14.2141 INFO Get User Success :44-Administrator
+2020-11-27 16:31:17.6739 INFO Get User Success :44-Administrator
+2020-11-27 16:31:44.0946 INFO Get User Success :44-Administrator
+2020-11-27 16:33:15.7943 INFO Get User Success :44-Administrator
+2020-11-27 16:37:23.8283 INFO Get User Success :44-Administrator
+2020-11-27 16:37:26.4010 INFO Get User Success :44-Administrator
+2020-11-27 16:37:27.4941 INFO Get User Success :44-Administrator
+2020-11-27 16:37:28.1216 INFO Get User Success :44-Administrator
+2020-11-27 16:37:30.4097 INFO Get User Success :44-Administrator
+2020-11-27 16:37:49.1347 INFO Get User Success :44-Administrator
+2020-11-27 16:37:59.3890 INFO Get User Success :44-Administrator
+2020-11-27 16:38:14.8899 INFO Get User Success :44-Administrator
+2020-11-27 16:38:26.6739 INFO Get User Success :44-Administrator
+2020-11-27 16:38:27.2167 INFO Get User Success :44-Administrator
+2020-11-27 16:38:30.3865 INFO Get User Success :44-Administrator
+2020-11-27 16:38:31.4385 INFO Get User Success :44-Administrator
+2020-11-27 16:38:33.1154 INFO Get User Success :44-Administrator
+2020-11-27 16:38:36.6321 INFO Get User Success :44-Administrator
+2020-11-27 16:38:41.1303 INFO Get User Success :44-Administrator
+2020-11-27 16:38:56.3074 INFO Get User Success :44-Administrator
+2020-11-27 16:39:00.2499 INFO Get User Success :44-Administrator
+2020-11-27 16:39:01.4821 INFO Get User Success :44-Administrator
+2020-11-27 16:39:11.7500 INFO Get User Success :44-Administrator
+2020-11-27 16:39:14.4994 INFO Get User Success :44-Administrator
+2020-11-27 16:39:18.0274 INFO Get User Success :44-Administrator
+2020-11-27 16:39:20.1296 INFO Get User Success :44-Administrator
+2020-11-27 16:39:24.6566 INFO Get User Success :44-Administrator
+2020-11-27 16:39:27.9876 INFO Get User Success :44-Administrator

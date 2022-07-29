@@ -1,0 +1,714 @@
+2021-01-11 10:32:10.9479 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 10:32:11.0645 INFO Get User Success :hodyco
+2021-01-11 10:44:54.6553 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 10:50:04.5516 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 10:50:04.6490 INFO Get User Success :newswadeshi_dis
+2021-01-11 10:50:21.1056 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 10:50:21.1669 INFO Get User Success :newswadeshi_dis
+2021-01-11 10:50:27.5428 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 10:51:24.9942 INFO Get User Success :newswadeshi_dis
+2021-01-11 11:07:19.8138 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:07:19.9399 INFO Get User Success :harinagar_dis
+2021-01-11 11:07:39.5193 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:07:39.5505 INFO Get User Success :harinagar_dis
+2021-01-11 11:07:43.3300 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:07:43.3406 INFO Get Form84 List Success
+2021-01-11 11:07:43.3726 INFO Get User Success :harinagar_dis
+2021-01-11 11:07:45.7836 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:07:45.7891 INFO Get VAT Master List Success
+2021-01-11 11:07:45.8024 INFO Get VAT Master List Success
+2021-01-11 11:07:45.8024 INFO Get VAT Master List Success
+2021-01-11 11:07:45.8024 INFO Get VAT Master List Success
+2021-01-11 11:07:45.8024 INFO Get VAT Master List Success
+2021-01-11 11:07:45.8306 INFO Get User Success :harinagar_dis
+2021-01-11 11:08:28.5437 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:28.5640 INFO Get User Success :riga_sgr
+2021-01-11 11:08:32.1269 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:08:32.1308 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:32.1492 INFO Get User Success :riga_sgr
+2021-01-11 11:08:34.6519 INFO Get Party Master List Success
+2021-01-11 11:08:34.6519 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:34.6751 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:08:34.6884 INFO Get User Success :riga_sgr
+2021-01-11 11:08:40.2446 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:08:40.2446 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:40.2594 INFO Get User Success :riga_sgr
+2021-01-11 11:08:42.6526 INFO Get Party Master List Success
+2021-01-11 11:08:42.6526 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:42.6613 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:08:42.6613 INFO Get User Success :riga_sgr
+2021-01-11 11:08:46.6339 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:08:46.6339 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:46.6494 INFO Get User Success :riga_sgr
+2021-01-11 11:08:55.9118 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:55.9264 INFO Get User Success :riga_sgr
+2021-01-11 11:08:58.6864 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:08:58.6864 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:08:58.7005 INFO Get User Success :riga_sgr
+2021-01-11 11:09:09.8663 INFO Get User Success :104-Riga Distillery Division
+2021-01-11 11:09:09.8882 INFO Get User Success :riga_dis
+2021-01-11 11:09:15.5148 INFO Get User Success :104-Riga Distillery Division
+2021-01-11 11:09:15.5377 INFO Get User Success :riga_dis
+2021-01-11 11:09:20.5331 INFO Get User Success :104-Riga Distillery Division
+2021-01-11 11:09:20.5614 INFO Get User Success :riga_dis
+2021-01-11 11:09:27.9249 INFO Get User Success :104-Riga Distillery Division
+2021-01-11 11:09:27.9396 INFO Get User Success :riga_dis
+2021-01-11 11:09:38.1832 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:09:38.2031 INFO Get User Success :riga_sgr
+2021-01-11 11:09:41.3031 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:09:41.3031 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:09:41.3184 INFO Get User Success :riga_sgr
+2021-01-11 11:09:44.6038 INFO Get Party Master List Success
+2021-01-11 11:09:44.6038 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:09:44.6038 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:09:44.6288 INFO Get User Success :riga_sgr
+2021-01-11 11:10:05.6032 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:10:05.6032 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:10:05.6172 INFO Get User Success :riga_sgr
+2021-01-11 11:10:06.8521 INFO Get Party Master List Success
+2021-01-11 11:10:06.8521 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:10:06.8720 INFO Get User Success :riga_sgr
+2021-01-11 11:10:13.5194 INFO Get Existing data Fail :sugarcanepurchase
+2021-01-11 11:10:34.1481 INFO Get MaxID Success :sugarcanepurchase
+2021-01-11 11:10:34.1767 INFO Sugarcanepurchase Insertion Success:0-RSM
+2021-01-11 11:10:34.2041 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:10:34.2081 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:10:34.2081 INFO Get User Success :riga_sgr
+2021-01-11 11:10:37.7695 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:10:37.7725 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:10:37.7725 INFO Get User Success :riga_sgr
+2021-01-11 11:11:04.5471 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:11:04.5471 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:11:29.3235 INFO Get User Success :riga_sgr
+2021-01-11 11:14:34.2019 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:14:34.2796 INFO Get User Success :riga_sgr
+2021-01-11 11:14:37.4965 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:14:37.4965 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:14:37.5437 INFO Get User Success :riga_sgr
+2021-01-11 11:15:00.7865 INFO Get Party Master List Success
+2021-01-11 11:15:00.7865 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:00.8206 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:00.8366 INFO Get User Success :riga_sgr
+2021-01-11 11:15:06.8239 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:06.8239 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:06.8395 INFO Get User Success :riga_sgr
+2021-01-11 11:15:08.3500 INFO Get Party Master List Success
+2021-01-11 11:15:08.3500 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:08.3500 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:08.3714 INFO Get User Success :riga_sgr
+2021-01-11 11:15:12.3871 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:12.3871 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:12.4019 INFO Get User Success :riga_sgr
+2021-01-11 11:15:13.5279 INFO Get Party Master List Success
+2021-01-11 11:15:13.5279 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:13.5369 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:13.5369 INFO Get User Success :riga_sgr
+2021-01-11 11:15:28.8915 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:28.8945 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:28.8945 INFO Get User Success :riga_sgr
+2021-01-11 11:15:30.4795 INFO Get Party Master List Success
+2021-01-11 11:15:30.4795 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:30.4892 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:30.4892 INFO Get User Success :riga_sgr
+2021-01-11 11:15:32.7102 INFO Sugarcanepurchase Get List Success
+2021-01-11 11:15:32.7102 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 11:15:32.7247 INFO Get User Success :riga_sgr
+2021-01-11 11:31:04.2898 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:31:05.3204 INFO Get User Success :hodyco
+2021-01-11 11:31:08.7544 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:31:08.8679 INFO Check WorkFlow List Success
+2021-01-11 11:31:09.0173 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:31:09.1297 INFO Check WorkFlow List Success
+2021-01-11 11:31:09.2576 INFO Get Allotment List Success
+2021-01-11 11:31:09.4070 INFO Get User Success :hodyco
+2021-01-11 11:31:11.4811 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:31:11.5623 INFO Check WorkFlow List Success
+2021-01-11 11:31:11.6416 INFO Get Allotment List Success
+2021-01-11 11:31:11.7240 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:31:15.5039 INFO Check WorkFlow List Success
+2021-01-11 11:31:15.5761 INFO Get Allotment List Success
+2021-01-11 11:31:20.6586 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:31:20.7319 INFO Check WorkFlow List Success
+2021-01-11 11:31:20.8156 INFO Get Allotment List Success
+2021-01-11 11:31:20.9061 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:32:06.6246 INFO Check WorkFlow List Success
+2021-01-11 11:32:06.6948 INFO Get Allotment List Success
+2021-01-11 11:32:28.2894 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:32:28.3520 INFO Check WorkFlow List Success
+2021-01-11 11:32:28.4556 INFO Get Allotment List Success
+2021-01-11 11:32:31.5391 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:32:31.7057 INFO Get Party Master List Success
+2021-01-11 11:32:31.8221 INFO Get Indent List Success
+2021-01-11 11:32:32.1384 INFO Get Allotment Details Success
+2021-01-11 11:32:32.3218 INFO Get Party Master List Success
+2021-01-11 11:32:32.6255 INFO Check WorkFlow List Success
+2021-01-11 11:32:33.0734 INFO Get User Success :hodyco
+2021-01-11 11:32:53.4585 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:32:53.5694 INFO Get Party Master List Success
+2021-01-11 11:32:53.6465 INFO Get Indent List Success
+2021-01-11 11:32:53.7837 INFO Get Allotment Details Success
+2021-01-11 11:32:53.8655 INFO Get Party Master List Success
+2021-01-11 11:32:54.0138 INFO Check WorkFlow List Success
+2021-01-11 11:32:54.1849 INFO Get User Success :hodyco
+2021-01-11 11:33:00.7905 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:33:00.9589 INFO Check WorkFlow List Success
+2021-01-11 11:33:01.2116 INFO Get Allotment List Success
+2021-01-11 11:33:01.3806 INFO Get User Success :hodyco
+2021-01-11 11:33:03.2533 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:33:03.3314 INFO Check WorkFlow List Success
+2021-01-11 11:33:03.5011 INFO Get Allotment List Success
+2021-01-11 11:33:03.6022 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:33:03.6905 INFO Check WorkFlow List Success
+2021-01-11 11:33:03.8725 INFO Get Allotment List Success
+2021-01-11 11:35:47.0237 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 11:35:48.5436 INFO Get User Success :newswadeshi_dis
+2021-01-11 11:35:53.2851 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 11:35:56.6593 INFO Get RR List Success
+2021-01-11 11:35:56.7923 INFO Get User Success :newswadeshi_dis
+2021-01-11 11:36:20.5794 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 11:36:20.6747 INFO Get Product Master List Success
+2021-01-11 11:36:20.7907 INFO Get State List Success
+2021-01-11 11:36:20.8892 INFO Get NOC Sucess:41
+2021-01-11 11:36:21.0278 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/401
+2021-01-11 11:36:21.1309 INFO Get User Success :newswadeshi_dis
+2021-01-11 11:37:29.0267 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 11:37:29.1307 INFO Get Product Master List Success
+2021-01-11 11:37:29.2384 INFO Get State List Success
+2021-01-11 11:37:29.3614 INFO Get NOC Sucess:41
+2021-01-11 11:38:09.5306 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/41
+2021-01-11 11:38:09.7688 INFO Get User Success :newswadeshi_dis
+2021-01-11 11:38:27.5933 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 11:38:39.8692 INFO Get RR List Success
+2021-01-11 11:38:40.0992 INFO Get User Success :newswadeshi_dis
+2021-01-11 11:43:51.4536 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:43:53.1271 INFO Get User Success :hodyco
+2021-01-11 11:43:59.0506 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:43:59.1878 INFO Check WorkFlow List Success
+2021-01-11 11:44:04.9350 INFO Get RR List Success
+2021-01-11 11:44:05.1847 INFO Get User Success :hodyco
+2021-01-11 11:44:07.3278 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:44:07.4833 INFO Check WorkFlow List Success
+2021-01-11 11:44:07.6584 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:44:07.7591 INFO Check WorkFlow List Success
+2021-01-11 11:44:07.9026 INFO Get Allotment List Success
+2021-01-11 11:44:08.0676 INFO Get User Success :hodyco
+2021-01-11 11:44:10.4356 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:44:10.5345 INFO Check WorkFlow List Success
+2021-01-11 11:44:10.9326 INFO Get Allotment List Success
+2021-01-11 11:44:11.0091 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:44:11.3912 INFO Check WorkFlow List Success
+2021-01-11 11:44:11.4746 INFO Get Allotment List Success
+2021-01-11 11:44:15.8514 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:44:15.9135 INFO Check WorkFlow List Success
+2021-01-11 11:44:15.9856 INFO Get Allotment List Success
+2021-01-11 11:52:07.7493 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:08.8009 INFO Get User Success :hodyco
+2021-01-11 11:52:11.8062 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:11.9102 INFO Check WorkFlow List Success
+2021-01-11 11:52:12.0648 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:12.1580 INFO Check WorkFlow List Success
+2021-01-11 11:52:12.2866 INFO Get Allotment List Success
+2021-01-11 11:52:12.4319 INFO Get User Success :hodyco
+2021-01-11 11:52:15.9320 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:16.0294 INFO Check WorkFlow List Success
+2021-01-11 11:52:16.1601 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:16.2562 INFO Check WorkFlow List Success
+2021-01-11 11:52:16.3558 INFO Get Allotment List Success
+2021-01-11 11:52:16.4736 INFO Get User Success :hodyco
+2021-01-11 11:52:19.0709 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:19.1455 INFO Check WorkFlow List Success
+2021-01-11 11:52:19.2257 INFO Get Allotment List Success
+2021-01-11 11:52:19.3224 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:19.3950 INFO Check WorkFlow List Success
+2021-01-11 11:52:19.4734 INFO Get Allotment List Success
+2021-01-11 11:52:24.9679 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:25.0314 INFO Check WorkFlow List Success
+2021-01-11 11:52:25.1066 INFO Get Allotment List Success
+2021-01-11 11:52:25.3219 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:25.4080 INFO Get Party Master List Success
+2021-01-11 11:52:25.4928 INFO Get Indent List Success
+2021-01-11 11:52:25.6452 INFO Get Allotment Details Success
+2021-01-11 11:52:25.7346 INFO Get Party Master List Success
+2021-01-11 11:52:25.9902 INFO Check WorkFlow List Success
+2021-01-11 11:52:26.1407 INFO Get User Success :hodyco
+2021-01-11 11:52:28.3395 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:28.4373 INFO Check WorkFlow List Success
+2021-01-11 11:52:28.5483 INFO Get Allotment List Success
+2021-01-11 11:52:28.6665 INFO Get User Success :hodyco
+2021-01-11 11:52:31.6005 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:31.7082 INFO Check WorkFlow List Success
+2021-01-11 11:52:31.8464 INFO Get Allotment List Success
+2021-01-11 11:52:31.9741 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:52:32.0718 INFO Get Party Master List Success
+2021-01-11 11:52:32.2096 INFO Get Indent List Success
+2021-01-11 11:52:32.4320 INFO Get Allotment Details Success
+2021-01-11 11:52:32.5397 INFO Get Party Master List Success
+2021-01-11 11:52:32.8140 INFO Check WorkFlow List Success
+2021-01-11 11:52:33.0922 INFO Get User Success :hodyco
+2021-01-11 11:53:10.1163 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 11:53:10.2064 INFO Get Party Master List Success
+2021-01-11 11:53:10.2942 INFO Get Indent List Success
+2021-01-11 11:53:10.5025 INFO Get Allotment Details Success
+2021-01-11 11:53:10.5936 INFO Get Party Master List Success
+2021-01-11 11:53:10.7793 INFO Check WorkFlow List Success
+2021-01-11 11:53:11.0061 INFO Get User Success :hodyco
+2021-01-11 11:55:40.4492 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:55:41.4272 INFO Get User Success :harinagar_dis
+2021-01-11 11:55:52.1142 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:55:52.2511 INFO Get RR List Success
+2021-01-11 11:55:52.6145 INFO Get User Success :harinagar_dis
+2021-01-11 11:55:53.1005 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:55:53.1904 INFO Get RR List Success
+2021-01-11 11:55:53.4031 INFO Get User Success :harinagar_dis
+2021-01-11 11:55:56.6148 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:55:57.4975 INFO Get RR List Success
+2021-01-11 11:55:57.7224 INFO Get User Success :harinagar_dis
+2021-01-11 11:56:00.3055 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-11 11:56:00.6016 INFO Get RR Details Success
+2021-01-11 11:56:01.7163 INFO Get RR List Success
+2021-01-11 11:56:02.1024 INFO Get User Success :harinagar_dis
+2021-01-11 11:56:26.5291 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 11:56:26.6350 INFO Get User Success :wcedo
+2021-01-11 11:56:29.3793 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 11:56:29.4991 INFO Get RR List Success
+2021-01-11 11:56:29.6317 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 11:56:30.4692 INFO Get RR List Success
+2021-01-11 11:56:30.5463 INFO Get User Success :wcedo
+2021-01-11 11:56:33.3914 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 11:56:33.5315 INFO Get RR Details Success
+2021-01-11 11:56:34.2108 INFO Get RR List Success
+2021-01-11 11:56:34.3412 INFO Get User Success :wcedo
+2021-01-11 11:59:57.2505 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 11:59:57.5330 INFO Get User Success :ecedo
+2021-01-11 12:00:00.3863 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 12:00:00.4580 INFO Check WorkFlow List Success
+2021-01-11 12:00:02.9825 INFO Get RR List Success
+2021-01-11 12:00:03.1148 INFO Get User Success :ecedo
+2021-01-11 12:00:04.4588 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 12:00:04.5256 INFO Get RR List Success
+2021-01-11 12:00:04.6363 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 12:00:05.3092 INFO Get RR List Success
+2021-01-11 12:00:05.3898 INFO Get User Success :ecedo
+2021-01-11 12:00:08.6816 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 12:00:08.8189 INFO Get RR Details Success
+2021-01-11 12:00:09.4979 INFO Get RR List Success
+2021-01-11 12:00:09.6734 INFO Get User Success :ecedo
+2021-01-11 12:01:21.3546 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 12:01:21.4598 INFO Check WorkFlow List Success
+2021-01-11 12:01:24.5870 INFO Get RR List Success
+2021-01-11 12:01:24.6591 INFO Get User Success :ecedo
+2021-01-11 12:01:29.0709 INFO Get User Success :135-Assistant Commissioner
+2021-01-11 12:01:29.1352 INFO Get Product Master List Success
+2021-01-11 12:01:29.2113 INFO Get State List Success
+2021-01-11 12:01:29.2841 INFO Get NOC Sucess:41
+2021-01-11 12:01:34.8053 INFO Get NOC Sucess:Req/1
+2021-01-11 12:01:34.8758 INFO Get State List Success
+2021-01-11 12:01:35.1282 INFO Get NOC Details Success
+2021-01-11 12:01:35.2084 INFO Get Customer Details Success
+2021-01-11 12:01:35.2956 INFO Check WorkFlow List Success
+2021-01-11 12:01:35.4289 INFO Get User Success :ecedo
+2021-01-11 12:01:57.1562 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:01:57.6603 INFO Get User Success :newswadeshi_dis
+2021-01-11 12:02:11.5983 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:02:14.2241 INFO Get RR List Success
+2021-01-11 12:02:14.3067 INFO Get User Success :newswadeshi_dis
+2021-01-11 12:02:36.0566 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:02:39.0965 INFO Get RR List Success
+2021-01-11 12:02:44.9200 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:02:44.9947 INFO Get Product Master List Success
+2021-01-11 12:02:45.0737 INFO Get State List Success
+2021-01-11 12:02:45.1538 INFO Get NOC Sucess:41
+2021-01-11 12:02:45.3025 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/41
+2021-01-11 12:02:45.3970 INFO Get User Success :newswadeshi_dis
+2021-01-11 12:02:50.0941 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:02:54.1930 INFO Get RR List Success
+2021-01-11 12:02:54.2839 INFO Get User Success :newswadeshi_dis
+2021-01-11 12:03:00.4809 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:03:03.0675 INFO Get RR List Success
+2021-01-11 12:03:35.4069 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:03:35.4737 INFO Get RR List Success
+2021-01-11 12:03:35.6138 INFO Get User Success :newswadeshi_dis
+2021-01-11 12:03:36.1341 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-11 12:03:36.4133 INFO Get User Success :newswadeshi_dis
+2021-01-11 15:01:45.4842 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:01:45.5686 INFO Get User Success :hodyco
+2021-01-11 15:02:17.8985 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:17.9137 INFO Check WorkFlow List Success
+2021-01-11 15:02:18.0073 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:18.0073 INFO Check WorkFlow List Success
+2021-01-11 15:02:18.0404 INFO Get Allotment List Success
+2021-01-11 15:02:18.0994 INFO Get User Success :hodyco
+2021-01-11 15:02:20.0944 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:20.0944 INFO Check WorkFlow List Success
+2021-01-11 15:02:20.0998 INFO Get Allotment List Success
+2021-01-11 15:02:20.0998 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:20.0998 INFO Check WorkFlow List Success
+2021-01-11 15:02:20.1153 INFO Get Allotment List Success
+2021-01-11 15:02:26.3618 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:26.3618 INFO Check WorkFlow List Success
+2021-01-11 15:02:26.3900 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:26.3900 INFO Check WorkFlow List Success
+2021-01-11 15:02:26.3955 INFO Get Allotment List Success
+2021-01-11 15:02:26.3955 INFO Get User Success :hodyco
+2021-01-11 15:02:31.8859 INFO Get User Success :100-Deputy Commissioner
+2021-01-11 15:02:31.8859 INFO Check WorkFlow List Success
+2021-01-11 15:02:31.8859 INFO Get Allotment List Success
+2021-01-11 15:02:39.5958 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 15:02:39.6019 INFO Get User Success :wcedo
+2021-01-11 15:02:42.5407 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 15:02:42.5407 INFO Get RR List Success
+2021-01-11 15:02:42.6195 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 15:02:42.6405 INFO Get RR List Success
+2021-01-11 15:02:42.6567 INFO Get User Success :wcedo
+2021-01-11 15:02:44.8879 INFO Get User Success :99-Assistant Commissioner
+2021-01-11 15:02:44.8987 INFO Get RR Details Success
+2021-01-11 15:02:44.9143 INFO Get RR List Success
+2021-01-11 15:02:44.9271 INFO Get User Success :wcedo
+2021-01-11 15:06:40.0481 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:40.0617 INFO Get User Success :riga_sgrbo
+2021-01-11 15:06:42.7443 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:42.7443 INFO Get RR List Success
+2021-01-11 15:06:42.7563 INFO Get User Success :riga_sgrbo
+2021-01-11 15:06:44.7579 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:44.7709 INFO Get RR List Success
+2021-01-11 15:06:44.7709 INFO Get User Success :riga_sgrbo
+2021-01-11 15:06:50.2563 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:50.2723 INFO Get RR List Success
+2021-01-11 15:06:50.2723 INFO Get User Success :riga_sgrbo
+2021-01-11 15:06:57.0443 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:57.0813 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:57.0933 INFO Get User Success :riga_sgrbo
+2021-01-11 15:06:59.3189 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:59.3850 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:06:59.4108 INFO Get Pass List Success
+2021-01-11 15:06:59.4108 INFO Get User Success :riga_sgrbo
+2021-01-11 15:08:22.9205 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:22.9449 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:22.9449 INFO Get Pass List Success
+2021-01-11 15:08:22.9590 INFO Get User Success :riga_sgrbo
+2021-01-11 15:08:26.3521 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:26.3748 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:26.3807 INFO Get Pass List Success
+2021-01-11 15:08:26.3807 INFO Get User Success :riga_sgrbo
+2021-01-11 15:08:28.4948 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:28.5197 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:28.5197 INFO Get User Success :riga_sgrbo
+2021-01-11 15:08:31.6865 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:31.7113 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:31.7113 INFO Get Pass List Success
+2021-01-11 15:08:31.7253 INFO Get User Success :riga_sgrbo
+2021-01-11 15:08:34.3442 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:34.3814 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:34.3814 INFO Get User Success :riga_sgrbo
+2021-01-11 15:08:36.5830 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:36.6064 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:08:36.6064 INFO Get Pass List Success
+2021-01-11 15:08:36.6198 INFO Get User Success :riga_sgrbo
+2021-01-11 15:12:42.9546 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:12:42.9802 INFO Get User Success :118-Riga Sugar Company Ltd, Bond Officer
+2021-01-11 15:12:42.9802 INFO Get Pass List Success
+2021-01-11 15:12:42.9944 INFO Get User Success :riga_sgrbo
+2021-01-11 15:12:52.2138 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:12:52.2301 INFO Get User Success :riga_sgr
+2021-01-11 15:12:54.7669 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:12:54.7952 INFO Get User Success :riga_sgr
+2021-01-11 15:12:57.6244 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:12:57.6363 INFO Get Pass List Success
+2021-01-11 15:12:57.6473 INFO Get User Success :riga_sgr
+2021-01-11 15:13:06.9357 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:13:06.9522 INFO Get State List Success
+2021-01-11 15:13:06.9721 INFO Get User Success :riga_sgr
+2021-01-11 15:13:09.4212 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:13:09.4276 INFO Get MF2 List Success
+2021-01-11 15:13:09.4276 INFO Get User Success :riga_sgr
+2021-01-11 15:13:10.8570 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:13:10.8690 INFO Get RR List Success
+2021-01-11 15:13:10.8919 INFO Get User Success :riga_sgr
+2021-01-11 15:13:12.2170 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:13:12.2298 INFO Get User Success :riga_sgr
+2021-01-11 15:13:16.0002 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-01-11 15:13:16.0072 INFO Get Pass List Success
+2021-01-11 15:13:16.0072 INFO Get User Success :riga_sgr
+2021-01-11 15:13:29.0390 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 15:13:29.0527 INFO Get User Success :majhaulia_sgr
+2021-01-11 15:13:31.1673 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 15:13:31.1943 INFO Get User Success :majhaulia_sgr
+2021-01-11 15:13:33.0180 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 15:13:33.0239 INFO Get Pass List Success
+2021-01-11 15:13:33.0509 INFO Get User Success :majhaulia_sgr
+2021-01-11 15:13:34.5427 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 15:13:34.5696 INFO Get Dispach Master List Success
+2021-01-11 15:13:42.9899 INFO Get VAT Master List Success
+2021-01-11 15:13:42.9899 INFO Get Pass List Success
+2021-01-11 15:13:43.0178 INFO Get User Success :majhaulia_sgr
+2021-01-11 15:13:58.5103 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 15:13:58.5233 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 15:14:01.4338 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 15:14:01.4688 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 15:14:01.4747 INFO Get Pass List Success
+2021-01-11 15:14:01.4747 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 15:14:03.6148 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 15:14:03.6148 INFO Get Dispach Master List Success
+2021-01-11 15:14:03.6148 INFO Get VAT Master List Success
+2021-01-11 15:14:03.6148 INFO Get Pass List Success
+2021-01-11 15:14:03.6356 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 16:04:24.9263 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:04:25.5731 INFO Get User Success :harinagar_sgr
+2021-01-11 16:04:28.3637 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:04:28.6697 INFO Get User Success :harinagar_sgr
+2021-01-11 16:04:33.8632 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:04:34.1899 INFO Get Pass List Success
+2021-01-11 16:04:34.3058 INFO Get User Success :harinagar_sgr
+2021-01-11 16:04:55.9668 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:04:56.1544 INFO Get Pass List Success
+2021-01-11 16:05:04.0892 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:05:04.3146 INFO Get Pass List Success
+2021-01-11 16:05:25.3304 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:05:25.5246 INFO Get Pass List Success
+2021-01-11 16:05:30.6966 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:05:30.8918 INFO Get Pass List Success
+2021-01-11 16:05:40.3875 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:05:40.6152 INFO Get Pass List Success
+2021-01-11 16:05:50.9286 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:05:51.0141 INFO Get Dispach Master List Success
+2021-01-11 16:05:51.1749 INFO Get VAT Master List Success
+2021-01-11 16:05:51.3008 INFO Get Pass List Success
+2021-01-11 16:05:51.6264 INFO Get User Success :harinagar_sgr
+2021-01-11 16:05:56.2304 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:05:56.4169 INFO Get Pass List Success
+2021-01-11 16:05:56.4958 INFO Get User Success :harinagar_sgr
+2021-01-11 16:06:03.5777 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:06:03.6390 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:06:03.7221 INFO Get User Success :harinagar_sgr
+2021-01-11 16:06:05.7293 INFO MIR GetList Sucess
+2021-01-11 16:06:05.7939 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:06:05.9178 INFO Get User Success :harinagar_sgr
+2021-01-11 16:06:07.7332 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:06:07.9126 INFO Get VAT Master List Success
+2021-01-11 16:06:08.0113 INFO Get Pass List Success
+2021-01-11 16:06:08.0885 INFO Get User Success :harinagar_sgr
+2021-01-11 16:07:00.5071 INFO Get Pass List Success
+2021-01-11 16:08:14.5339 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:08:14.7842 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:08:20.1032 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:08:20.1664 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:08:20.2895 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:08:21.5410 INFO MIR GetList Sucess
+2021-01-11 16:08:21.6021 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:08:21.7238 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:08:23.4827 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:08:23.7487 INFO Get VAT Master List Success
+2021-01-11 16:08:23.9414 INFO Get Pass List Success
+2021-01-11 16:08:24.0154 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:09:14.9729 INFO MIR GetList Sucess
+2021-01-11 16:09:15.0343 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:09:15.1096 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:10:25.8721 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:10:26.2242 INFO Get VAT Master List Success
+2021-01-11 16:10:26.4255 INFO Get Pass List Success
+2021-01-11 16:10:26.5026 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:12:22.5122 INFO Get Pass List Success
+2021-01-11 16:12:51.1000 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:12:51.2361 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:12:58.4324 INFO MIR GetList Sucess
+2021-01-11 16:12:58.4942 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:12:58.6203 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:12:59.6844 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:13:00.0171 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:13:01.4839 INFO MIR GetList Sucess
+2021-01-11 16:13:01.5436 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:13:01.6695 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:13:02.9330 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 16:13:03.1252 INFO Get VAT Master List Success
+2021-01-11 16:13:03.3147 INFO Get Pass List Success
+2021-01-11 16:13:03.3965 INFO Get User Success :majhaulia_sgr
+2021-01-11 16:16:58.1377 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:16:58.2124 INFO Get User Success :harinagar_sgr
+2021-01-11 16:17:16.1817 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:17:16.2568 INFO Get User Success :harinagar_sgr
+2021-01-11 16:17:19.9420 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:17:19.9420 INFO Get Pass List Success
+2021-01-11 16:17:19.9640 INFO Get User Success :harinagar_sgr
+2021-01-11 16:18:29.3277 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:18:30.1084 INFO Get User Success :harinagar_sgr
+2021-01-11 16:18:32.7670 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:18:33.0137 INFO Get User Success :harinagar_sgr
+2021-01-11 16:18:41.8729 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:18:42.0707 INFO Get Pass List Success
+2021-01-11 16:18:42.1675 INFO Get User Success :harinagar_sgr
+2021-01-11 16:19:04.9328 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:19:05.1318 INFO Get Pass List Success
+2021-01-11 16:19:22.7688 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:19:22.9611 INFO Get Pass List Success
+2021-01-11 16:19:41.6474 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:19:41.8395 INFO Get Pass List Success
+2021-01-11 16:19:43.7564 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:19:43.9482 INFO Get Pass List Success
+2021-01-11 16:19:54.0396 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:19:54.1070 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:19:54.2116 INFO Get User Success :harinagar_sgr
+2021-01-11 16:20:09.0439 INFO MIR GetList Sucess
+2021-01-11 16:20:09.1943 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:20:09.4512 INFO Get User Success :harinagar_sgr
+2021-01-11 16:20:12.5723 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:20:12.7622 INFO Get VAT Master List Success
+2021-01-11 16:20:12.8764 INFO Get Pass List Success
+2021-01-11 16:20:12.9611 INFO Get User Success :harinagar_sgr
+2021-01-11 16:21:34.1730 INFO Get Pass List Success
+2021-01-11 16:23:13.1135 INFO Get Pass List Success
+2021-01-11 16:24:57.1981 INFO Get Pass List Success
+2021-01-11 16:25:26.9575 INFO Get Pass List Success
+2021-01-11 16:26:28.4531 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:26:28.5278 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:26:28.6112 INFO Get User Success :harinagar_sgr
+2021-01-11 16:28:51.1059 INFO Get Party Master List Success
+2021-01-11 16:28:51.2003 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:28:51.5811 INFO Get User Success :harinagar_sgr
+2021-01-11 16:28:54.2451 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:28:54.3084 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:28:54.3875 INFO Get User Success :harinagar_sgr
+2021-01-11 16:28:56.9743 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:28:57.0371 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:28:58.1404 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:28:58.2013 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:02.1278 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:29:02.1908 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:04.3903 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:29:04.4926 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:06.2771 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:29:06.3510 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:07.7645 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:29:07.8368 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:21.0228 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:29:21.1183 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:46.9691 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:29:47.0316 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:47.1092 INFO Get User Success :harinagar_sgr
+2021-01-11 16:29:51.1422 INFO Get Party Master List Success
+2021-01-11 16:29:51.2040 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:29:51.4519 INFO Get User Success :harinagar_sgr
+2021-01-11 16:35:14.7755 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:35:14.9113 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:35:14.9113 INFO Get MF2 List Success
+2021-01-11 16:35:14.9757 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:35:15.0062 INFO Get User Success :harinagar_sgr
+2021-01-11 16:35:15.0923 INFO Get User Success :harinagar_sgr
+2021-01-11 16:35:15.7835 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:35:15.8509 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:35:15.9295 INFO Get User Success :harinagar_sgr
+2021-01-11 16:44:44.7784 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:44:45.4302 INFO Get User Success :harinagar_sgr
+2021-01-11 16:45:51.7027 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:45:51.7643 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:45:51.8877 INFO Get User Success :harinagar_sgr
+2021-01-11 16:47:57.7472 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:47:57.9402 INFO Get Party Master List Success
+2021-01-11 16:47:58.0279 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:47:58.3248 INFO Get User Success :harinagar_sgr
+2021-01-11 16:48:00.5138 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:48:00.5741 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:48:00.6558 INFO Get User Success :harinagar_sgr
+2021-01-11 16:48:08.6944 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:48:50.6937 INFO Sugarcanepurchase Get List Fail :Exception while reading from stream
+2021-01-11 16:48:50.7548 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:48:51.0663 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:48:51.3815 INFO Sugarcanepurchase Get List Success
+2021-01-11 16:48:51.4447 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-11 16:49:02.7817 INFO Sugarcanepurchase Get List Success
+2021-01-11 17:33:58.3121 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:33:59.0338 INFO Get User Success :sonasati_dis
+2021-01-11 17:34:02.0322 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:34:02.0987 INFO Get RR List Success
+2021-01-11 17:34:02.2638 INFO Get User Success :sonasati_dis
+2021-01-11 17:34:05.0119 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:34:05.7360 INFO Get RR List Success
+2021-01-11 17:34:05.8722 INFO Get User Success :sonasati_dis
+2021-01-11 17:34:07.3891 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:34:07.4530 INFO Get RR List Success
+2021-01-11 17:34:07.5858 INFO Get User Success :sonasati_dis
+2021-01-11 17:34:16.1532 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:34:16.2176 INFO Get RR List Success
+2021-01-11 17:34:16.3335 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/1
+2021-01-11 17:34:17.0316 INFO Get RR List Success
+2021-01-11 17:34:17.1601 INFO Get User Success :sonasati_dis
+2021-01-11 17:35:31.7438 INFO Module Insertion Sucess:Req/GO/SOD/RR/2020-21/1-SOD
+2021-01-11 17:35:46.8972 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:35:46.9586 INFO Get RR List Success
+2021-01-11 17:35:47.0880 INFO Get User Success :sonasati_dis
+2021-01-11 17:35:48.8300 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:35:49.5949 INFO Get RR List Success
+2021-01-11 17:35:49.7468 INFO Get User Success :sonasati_dis
+2021-01-11 17:35:52.6370 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:35:52.7673 INFO Get RR Details Success
+2021-01-11 17:35:53.5210 INFO Get RR List Success
+2021-01-11 17:35:53.7207 INFO Get User Success :sonasati_dis
+2021-01-11 17:37:21.0669 INFO Get MaxID Success :Module_master
+2021-01-11 17:37:53.6900 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:37:53.7561 INFO Get RR List Success
+2021-01-11 17:37:53.8920 INFO Get User Success :sonasati_dis
+2021-01-11 17:37:56.0172 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:37:56.7764 INFO Get RR List Success
+2021-01-11 17:37:56.8997 INFO Get User Success :sonasati_dis
+2021-01-11 17:37:58.8901 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:37:59.0116 INFO Get RR Details Success
+2021-01-11 17:37:59.7578 INFO Get RR List Success
+2021-01-11 17:37:59.9416 INFO Get User Success :sonasati_dis
+2021-01-11 17:42:43.7806 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:42:44.5021 INFO Get User Success :sonasati_dis
+2021-01-11 17:42:48.6232 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:42:48.6906 INFO Get RR List Success
+2021-01-11 17:42:48.8620 INFO Get User Success :sonasati_dis
+2021-01-11 17:42:52.7344 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:42:52.8004 INFO Get RR List Success
+2021-01-11 17:42:52.9280 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/2
+2021-01-11 17:42:53.6758 INFO Get RR List Success
+2021-01-11 17:42:53.8179 INFO Get User Success :sonasati_dis
+2021-01-11 17:43:02.4203 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:43:02.4836 INFO Get RR List Success
+2021-01-11 17:43:02.6138 INFO Get User Success :sonasati_dis
+2021-01-11 17:43:03.9200 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-11 17:43:03.9812 INFO Get RR List Success
+2021-01-11 17:43:04.0958 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/2
+2021-01-11 17:43:04.8358 INFO Get RR List Success
+2021-01-11 17:43:04.9608 INFO Get User Success :sonasati_dis
+2021-01-11 17:47:08.9428 INFO Module Insertion Fail:Req/GO/SOD/RR/2020-21/2-SOD - This NpgsqlTransaction has completed; it is no longer usable.
+2021-01-11 18:16:02.9107 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 18:16:03.5733 INFO Get User Success :majhaulia_sgr
+2021-01-11 18:16:09.4059 INFO Sugarcanepurchase Get List Success
+2021-01-11 18:16:09.4679 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 18:16:09.5895 INFO Get User Success :majhaulia_sgr
+2021-01-11 18:16:11.3758 INFO MIR GetList Sucess
+2021-01-11 18:16:11.4378 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 18:16:11.5651 INFO Get User Success :majhaulia_sgr
+2021-01-11 18:16:13.4398 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-11 18:16:13.6225 INFO Get VAT Master List Success
+2021-01-11 18:16:13.7261 INFO Get Pass List Success
+2021-01-11 18:16:13.8000 INFO Get User Success :majhaulia_sgr
+2021-01-11 18:17:40.6558 INFO Get Pass List Success
+2021-01-11 18:31:34.4513 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:31:35.3107 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 18:31:46.0705 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:31:46.1876 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:31:46.6059 INFO Get Pass List Success
+2021-01-11 18:31:46.8546 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 18:31:57.7631 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:31:58.2303 INFO Get Dispach Master List Success
+2021-01-11 18:31:58.4061 INFO Get VAT Master List Success
+2021-01-11 18:31:58.4772 INFO Get Pass List Success
+2021-01-11 18:31:58.7457 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 18:32:06.5762 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:32:06.9969 INFO Get Pass List Success
+2021-01-11 18:32:07.1813 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 18:32:08.4969 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:32:08.5555 INFO Get Dispach Master List Success
+2021-01-11 18:32:08.6915 INFO Get VAT Master List Success
+2021-01-11 18:32:08.7577 INFO Get Pass List Success
+2021-01-11 18:32:09.0245 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 18:32:14.1309 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:32:14.4058 INFO Get Pass List Success
+2021-01-11 18:32:14.5478 INFO Get User Success :majhaulia_sgrbo
+2021-01-11 18:32:16.3280 INFO Get User Success :119-Majhaulia Sugar Industries Pvt Ltd, Bond Officer
+2021-01-11 18:32:16.3885 INFO Get Dispach Master List Success
+2021-01-11 18:32:16.5213 INFO Get VAT Master List Success
+2021-01-11 18:32:16.5823 INFO Get Pass List Success
+2021-01-11 18:32:16.8436 INFO Get User Success :majhaulia_sgrbo

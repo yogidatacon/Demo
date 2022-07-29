@@ -1,0 +1,98 @@
+2021-12-30 10:02:41.5087 INFO Get User Success :101-Commissioner
+2021-12-30 10:02:51.4212 INFO Get User Success :101-Commissioner
+2021-12-30 10:02:57.2793 INFO Get Product Type Master List Success
+2021-12-30 10:02:57.3593 INFO Get User Success :com
+2021-12-30 10:03:06.2389 INFO Get User Success :101-Commissioner
+2021-12-30 10:03:06.3697 INFO Get Product Master List Success
+2021-12-30 10:03:11.0150 INFO Get User Success :101-Commissioner
+2021-12-30 10:03:11.4106 INFO Get Product Master List Success
+2021-12-30 10:03:11.4857 INFO Check WorkFlow List Success
+2021-12-30 10:05:40.9955 INFO Get RR List Success
+2021-12-30 10:05:46.3032 INFO Get Product Type Master List Success
+2021-12-30 10:05:46.4331 INFO Get User Success :com
+2021-12-30 10:05:53.0248 INFO Get User Success :101-Commissioner
+2021-12-30 10:05:53.0880 INFO Check WorkFlow List Success
+2021-12-30 10:07:54.0950 INFO Get RR List Success
+2021-12-30 10:34:57.5917 INFO Get User Success :362-Joint Commissioner on behalf of Commissioner
+2021-12-30 10:34:57.7542 INFO Get User Success :362-Joint Commissioner on behalf of Commissioner
+2021-12-30 10:34:57.9529 INFO Get Product Type Master List Success
+2021-12-30 10:34:58.0187 INFO Get User Success :jtcom
+2021-12-30 10:35:11.2524 INFO Get User Success :362-Joint Commissioner on behalf of Commissioner
+2021-12-30 10:36:22.7087 INFO Get User Success :362-Joint Commissioner on behalf of Commissioner
+2021-12-30 10:39:03.9398 INFO Get User Success :362-Joint Commissioner on behalf of Commissioner
+2021-12-30 11:00:54.0616 INFO Check WorkFlow List Fail :A command is already in progress: select * from exciseautomation.workflow where submodule_code='MA' and tab_name_id='110' and role_name_code='60' and  user_registration_id='362' 
+2021-12-30 12:13:31.6155 INFO Get User Fail :-Exception while writing to stream
+2021-12-30 12:15:19.5381 INFO Get User Success :101-Commissioner
+2021-12-30 12:15:19.7785 INFO Get User Success :101-Commissioner
+2021-12-30 12:15:21.9720 INFO Get Product Type Master List Success
+2021-12-30 12:15:22.3189 INFO Get User Success :com
+2021-12-30 12:15:42.9798 INFO Get User Success :101-Commissioner
+2021-12-30 12:15:43.0389 INFO Get Report  Success
+2021-12-30 12:15:43.1581 INFO Get Product Type Master List Success
+2021-12-30 12:15:43.2179 INFO Get User Success :com
+2021-12-30 12:20:48.8365 INFO Get User Success :101-Commissioner
+2021-12-30 12:20:49.0509 INFO Get User Success :101-Commissioner
+2021-12-30 12:20:51.7155 INFO Get Product Type Master List Success
+2021-12-30 12:20:51.8293 INFO Get User Success :com
+2021-12-30 12:20:56.6099 INFO Get User Success :101-Commissioner
+2021-12-30 12:20:57.0505 INFO Get Report  Success
+2021-12-30 12:20:57.2280 INFO Get Product Type Master List Success
+2021-12-30 12:20:57.6166 INFO Get User Success :com
+2021-12-30 12:21:12.8736 INFO Get Report  Success
+2021-12-30 12:22:21.3487 INFO Get GetSeverList Success
+2021-12-30 12:23:10.8980 INFO Get Report  Success
+2021-12-30 12:23:17.0853 INFO Get GetSeverList Success
+2021-12-30 12:24:34.4002 INFO Get Report  Success
+2021-12-30 12:26:51.9593 INFO Get Report  Success
+2021-12-30 12:27:08.0915 INFO Get User Success :101-Commissioner
+2021-12-30 12:27:08.9092 INFO Check WorkFlow List Success
+2021-12-30 12:27:09.0305 INFO Get User Success :101-Commissioner
+2021-12-30 12:27:09.3716 INFO Check WorkFlow List Success
+2021-12-30 12:27:09.8570 INFO Get Allotment List Success
+2021-12-30 12:27:09.9531 INFO Get Product Type Master List Success
+2021-12-30 12:27:10.0528 INFO Get User Success :com
+2021-12-30 12:27:14.4228 INFO Get User Success :101-Commissioner
+2021-12-30 12:27:15.6806 INFO Get Report  Success
+2021-12-30 12:27:15.7803 INFO Get Product Type Master List Success
+2021-12-30 12:27:15.8372 INFO Get User Success :com
+2021-12-30 12:28:39.6627 INFO Get Report  Success
+2021-12-30 12:33:45.0590 INFO Get Report  Success
+2021-12-30 12:35:41.5115 INFO Get Report  Success
+2021-12-30 12:35:51.4819 INFO Get GetSeverList Success
+2021-12-30 12:37:24.6993 INFO Get Report  Success
+2021-12-30 12:37:26.1448 INFO Get GetSeverList Success
+2021-12-30 12:38:10.5009 INFO Get Report  Success
+2021-12-30 12:38:12.4358 INFO Get GetSeverList Success
+2021-12-30 12:39:29.0702 INFO Get Report  Success
+2021-12-30 12:39:30.7727 INFO Get GetSeverList Success
+2021-12-30 12:39:59.2490 INFO Get User Success :44-Administrator
+2021-12-30 12:39:59.3842 INFO Get User Success :44-Administrator
+2021-12-30 12:39:59.5438 INFO Get Product Type Master List Success
+2021-12-30 12:39:59.6007 INFO Get User Success :Admin
+2021-12-30 12:40:09.4918 INFO Get Product Type Master List Success
+2021-12-30 12:40:09.5469 INFO Get User Success :Admin
+2021-12-30 12:40:16.5512 INFO Get Product Type Master List Success
+2021-12-30 12:40:16.6046 INFO Get User Success :Admin
+2021-12-30 12:40:45.5693 INFO Get MaxID Success :designation_master
+2021-12-30 13:07:03.3500 INFO Get MaxID Success :designation_master
+2021-12-30 13:07:03.3964 INFO Get Product Type Master List Success
+2021-12-30 13:07:03.4513 INFO Get User Success :Admin
+2021-12-30 13:07:46.2426 INFO Get Product Type Master List Success
+2021-12-30 13:07:46.2940 INFO Get User Success :Admin
+2021-12-30 13:08:10.1240 INFO Get MaxID Success :seizure_raiddetails where designation_code='D78'
+2021-12-30 13:08:10.1673 INFO Get Product Type Master List Success
+2021-12-30 13:08:10.2189 INFO Get User Success :Admin
+2021-12-30 17:58:38.3545 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-30 17:58:38.5985 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-30 17:58:39.1379 INFO Get Product Type Master List Success
+2021-12-30 17:58:39.4904 INFO Get User Success :harinagar_dis
+2021-12-30 17:58:48.5661 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-30 17:58:50.2554 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-30 17:58:53.4063 INFO Get Product Type Master List Success
+2021-12-30 17:58:53.5209 INFO Get User Success :harinagar_dis
+2021-12-30 17:58:58.8415 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-30 17:59:10.9604 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-30 17:59:11.0529 INFO Get Dispach Master List Success
+2021-12-30 18:04:08.5294 INFO Get VAT Master List Success
+2021-12-30 18:04:09.8060 INFO Get Product Type Master List Success
+2021-12-30 18:04:09.9795 INFO Get User Success :harinagar_dis

@@ -1,0 +1,431 @@
+2021-12-16 09:42:12.9334 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-16 09:42:13.1718 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-16 09:42:13.2323 INFO Get Product Type Master List Success
+2021-12-16 10:16:51.7342 INFO Get User Success :harinagar_dis
+2021-12-16 10:17:04.7909 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:17:05.1222 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:17:05.1742 INFO Get Product Type Master List Success
+2021-12-16 10:17:06.5587 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:17:12.6201 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:17:12.6201 INFO Get Party Master List Success
+2021-12-16 10:17:12.6201 INFO GetFinacListValues Success
+2021-12-16 10:17:15.2099 INFO Get Product Type Master List Success
+2021-12-16 10:17:15.4594 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:17:18.1983 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:17:19.9226 INFO GetFinacListValues Success
+2021-12-16 10:17:20.1789 INFO Get Users List Success
+2021-12-16 10:17:20.3864 INFO Get Party Master Details Success
+2021-12-16 10:17:21.0655 INFO Get Product Type Master List Success
+2021-12-16 10:17:21.9679 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:17:28.1740 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:17:37.2991 INFO GetFinacListValues Success
+2021-12-16 10:17:41.4554 INFO Get Existing data Fail :rawmaterial_receipt
+2021-12-16 10:17:44.9438 INFO GetFinacListValues Success
+2021-12-16 10:17:45.0270 INFO Get Existing data Fail :rmreceipt_storage
+2021-12-16 10:17:45.0377 INFO GetFinacListValues Success
+2021-12-16 10:17:45.0879 INFO Get Existing data Fail :rawmaterial_fermenter
+2021-12-16 10:17:45.1009 INFO GetFinacListValues Success
+2021-12-16 10:17:45.1308 INFO Get Existing data Fail :fermenter_setup
+2021-12-16 10:17:45.1308 INFO GetFinacListValues Success
+2021-12-16 10:17:45.1748 INFO Get Existing data Fail :distillation
+2021-12-16 10:17:45.1841 INFO GetFinacListValues Success
+2021-12-16 10:17:45.2242 INFO Get Existing data Fail :distillation_tostore
+2021-12-16 10:17:45.2242 INFO GetFinacListValues Success
+2021-12-16 10:17:45.2686 INFO Get Existing data Fail :fermenter_receiver
+2021-12-16 10:17:45.2776 INFO GetFinacListValues Success
+2021-12-16 10:17:45.3174 INFO Get Existing data Fail :fermenter_receiver_input
+2021-12-16 10:17:45.3174 INFO GetFinacListValues Success
+2021-12-16 10:17:45.3676 INFO Get Existing data Fail :fermenter_receiver_output
+2021-12-16 10:17:45.3827 INFO GetFinacListValues Success
+2021-12-16 10:17:45.4168 INFO Get Existing data Fail :receiver_storage_receipt
+2021-12-16 10:17:45.4298 INFO GetFinacListValues Success
+2021-12-16 10:17:45.4666 INFO Get Existing data Fail :receiver_storage_receiptvat
+2021-12-16 10:17:45.4786 INFO GetFinacListValues Success
+2021-12-16 10:17:45.5152 INFO Get Existing data Fail :receiver_storage_transfer
+2021-12-16 10:17:45.5393 INFO GetFinacListValues Success
+2021-12-16 10:17:45.5757 INFO Get Existing data Fail :storage_dispatch
+2021-12-16 10:17:45.5844 INFO GetFinacListValues Success
+2021-12-16 10:17:45.6186 INFO Get Existing data Fail :dailydispatchclosure
+2021-12-16 10:17:45.6186 INFO GetFinacListValues Success
+2021-12-16 10:17:45.6607 INFO Get Existing data Fail :vat_transfer
+2021-12-16 10:17:45.6607 INFO GetFinacListValues Success
+2021-12-16 10:17:45.7146 INFO Get Existing data Fail :rawmaterial_wastage
+2021-12-16 10:17:45.7397 INFO GetFinacListValues Success
+2021-12-16 10:17:45.7685 INFO Get Existing data Fail :molasses_indent
+2021-12-16 10:17:45.7776 INFO GetFinacListValues Success
+2021-12-16 10:17:45.7935 INFO Get Existing data Fail :molasses_prov_prod
+2021-12-16 10:17:45.8027 INFO GetFinacListValues Success
+2021-12-16 10:17:45.8400 INFO Get Existing data Fail :molasses_allotment_request
+2021-12-16 10:17:45.8514 INFO GetFinacListValues Success
+2021-12-16 10:17:45.8826 INFO Get Existing data Fail :release_request
+2021-12-16 10:17:45.8967 INFO GetFinacListValues Success
+2021-12-16 10:17:45.9541 INFO Get Existing data Fail :openingbalance-23502: null value in column "financial_year" violates not-null constraint
+2021-12-16 10:20:57.2466 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:20:57.2805 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:20:57.2904 INFO Get Product Type Master List Success
+2021-12-16 10:20:57.6516 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:21:01.2138 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:21:01.2138 INFO Get Party Master List Success
+2021-12-16 10:21:01.2138 INFO GetFinacListValues Success
+2021-12-16 10:21:02.8431 INFO Get Product Type Master List Success
+2021-12-16 10:21:03.0876 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:24:24.2926 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:24:24.3345 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:24:24.3345 INFO Get Product Type Master List Success
+2021-12-16 10:24:24.5705 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:24:27.9476 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:24:27.9476 INFO Get Party Master List Success
+2021-12-16 10:24:27.9476 INFO GetFinacListValues Success
+2021-12-16 10:24:29.6402 INFO Get Product Type Master List Success
+2021-12-16 10:24:29.8925 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:24:40.4310 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:24:47.2927 INFO GetFinacListValues Success
+2021-12-16 10:24:48.0151 INFO Get Users List Success
+2021-12-16 10:24:48.8729 INFO Get Party Master Details Success
+2021-12-16 10:24:50.8236 INFO Get Product Type Master List Success
+2021-12-16 10:24:51.7546 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:24:55.2601 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:27:37.0332 INFO GetFinacListValues Success
+2021-12-16 10:27:48.0033 INFO Get Existing data Fail :rawmaterial_receipt
+2021-12-16 10:28:36.9111 INFO GetFinacListValues Success
+2021-12-16 10:28:57.5001 INFO Get Existing data Fail :rmreceipt_storage
+2021-12-16 10:29:17.4406 INFO GetFinacListValues Success
+2021-12-16 10:29:22.7918 INFO Get Existing data Fail :rawmaterial_fermenter
+2021-12-16 10:29:23.5867 INFO GetFinacListValues Success
+2021-12-16 10:29:27.4261 INFO Get Existing data Fail :fermenter_setup
+2021-12-16 10:29:29.1650 INFO GetFinacListValues Success
+2021-12-16 10:29:47.1746 INFO Get Existing data Fail :distillation
+2021-12-16 10:29:48.0791 INFO GetFinacListValues Success
+2021-12-16 10:29:53.7044 INFO Get Existing data Fail :distillation_tostore
+2021-12-16 10:30:09.3365 INFO GetFinacListValues Success
+2021-12-16 10:30:11.5533 INFO Get Existing data Fail :fermenter_receiver
+2021-12-16 10:30:12.4125 INFO GetFinacListValues Success
+2021-12-16 10:30:13.7976 INFO Get Existing data Fail :fermenter_receiver_input
+2021-12-16 10:30:14.4861 INFO GetFinacListValues Success
+2021-12-16 10:30:15.7936 INFO Get Existing data Fail :fermenter_receiver_output
+2021-12-16 10:30:16.4495 INFO GetFinacListValues Success
+2021-12-16 10:30:17.7690 INFO Get Existing data Fail :receiver_storage_receipt
+2021-12-16 10:30:23.5384 INFO GetFinacListValues Success
+2021-12-16 10:30:24.9666 INFO Get Existing data Fail :receiver_storage_receiptvat
+2021-12-16 10:30:25.5380 INFO GetFinacListValues Success
+2021-12-16 10:30:29.6823 INFO Get Existing data Fail :receiver_storage_transfer
+2021-12-16 10:30:30.2546 INFO GetFinacListValues Success
+2021-12-16 10:30:32.8390 INFO Get Existing data Fail :storage_dispatch
+2021-12-16 10:30:43.7849 INFO GetFinacListValues Success
+2021-12-16 10:30:45.2307 INFO Get Existing data Fail :dailydispatchclosure
+2021-12-16 10:30:46.0738 INFO GetFinacListValues Success
+2021-12-16 10:30:49.7738 INFO Get Existing data Fail :vat_transfer
+2021-12-16 10:30:50.1129 INFO GetFinacListValues Success
+2021-12-16 10:30:54.2975 INFO Get Existing data Fail :rawmaterial_wastage
+2021-12-16 10:30:55.0886 INFO GetFinacListValues Success
+2021-12-16 10:30:56.7670 INFO Get Existing data Fail :molasses_indent
+2021-12-16 10:31:11.4435 INFO GetFinacListValues Success
+2021-12-16 10:31:20.8225 INFO Get Existing data Fail :molasses_prov_prod
+2021-12-16 10:31:25.5639 INFO GetFinacListValues Success
+2021-12-16 10:31:29.9299 INFO Get Existing data Fail :molasses_allotment_request
+2021-12-16 10:31:33.1164 INFO GetFinacListValues Success
+2021-12-16 10:32:01.8228 INFO Get Existing data Fail :release_request
+2021-12-16 10:32:06.0747 INFO GetFinacListValues Success
+2021-12-16 10:36:10.5958 INFO Get Existing data Fail :openingbalance-23502: null value in column "financial_year" violates not-null constraint
+2021-12-16 10:36:10.6201 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:36:10.6201 INFO Get Party Master List Success
+2021-12-16 10:36:10.6201 INFO GetFinacListValues Success
+2021-12-16 10:36:12.9835 INFO Get Product Type Master List Success
+2021-12-16 10:45:33.3301 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:45:33.4357 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:45:33.5178 INFO Get Product Type Master List Success
+2021-12-16 10:45:34.7872 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:45:38.9408 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:45:38.9478 INFO Get Party Master List Success
+2021-12-16 10:45:38.9478 INFO GetFinacListValues Success
+2021-12-16 10:45:40.9583 INFO Get Product Type Master List Success
+2021-12-16 10:45:41.3090 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:45:44.1071 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:45:45.2915 INFO GetFinacListValues Success
+2021-12-16 10:45:45.6337 INFO Get Users List Success
+2021-12-16 10:45:45.8330 INFO Get Party Master Details Success
+2021-12-16 10:45:46.5442 INFO Get Product Type Master List Success
+2021-12-16 10:45:46.7968 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:45:49.4284 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:45:51.0502 INFO GetFinacListValues Success
+2021-12-16 10:45:51.7031 INFO Get Existing data Fail :rawmaterial_receipt
+2021-12-16 10:45:51.9685 INFO GetFinacListValues Success
+2021-12-16 10:45:52.6024 INFO Get Existing data Fail :rmreceipt_storage
+2021-12-16 10:45:52.9567 INFO GetFinacListValues Success
+2021-12-16 10:45:53.4234 INFO Get Existing data Fail :rawmaterial_fermenter
+2021-12-16 10:45:53.6729 INFO GetFinacListValues Success
+2021-12-16 10:45:54.1247 INFO Get Existing data Fail :fermenter_setup
+2021-12-16 10:45:54.3971 INFO GetFinacListValues Success
+2021-12-16 10:45:55.0048 INFO Get Existing data Fail :distillation
+2021-12-16 10:45:55.2593 INFO GetFinacListValues Success
+2021-12-16 10:45:55.8173 INFO Get Existing data Fail :distillation_tostore
+2021-12-16 10:45:56.0858 INFO GetFinacListValues Success
+2021-12-16 10:45:56.5465 INFO Get Existing data Fail :fermenter_receiver
+2021-12-16 10:45:56.7973 INFO GetFinacListValues Success
+2021-12-16 10:46:01.6228 INFO Get Existing data Fail :fermenter_receiver_input
+2021-12-16 10:46:01.8698 INFO GetFinacListValues Success
+2021-12-16 10:46:02.3228 INFO Get Existing data Fail :fermenter_receiver_output
+2021-12-16 10:46:02.5939 INFO GetFinacListValues Success
+2021-12-16 10:46:03.0481 INFO Get Existing data Fail :receiver_storage_receipt
+2021-12-16 10:46:03.3515 INFO GetFinacListValues Success
+2021-12-16 10:46:03.8102 INFO Get Existing data Fail :receiver_storage_receiptvat
+2021-12-16 10:46:04.0536 INFO GetFinacListValues Success
+2021-12-16 10:46:04.5022 INFO Get Existing data Fail :receiver_storage_transfer
+2021-12-16 10:46:20.8942 INFO GetFinacListValues Success
+2021-12-16 10:46:21.3652 INFO Get Existing data Fail :storage_dispatch
+2021-12-16 10:46:21.6276 INFO GetFinacListValues Success
+2021-12-16 10:46:22.0851 INFO Get Existing data Fail :dailydispatchclosure
+2021-12-16 10:46:22.3365 INFO GetFinacListValues Success
+2021-12-16 10:46:22.7906 INFO Get Existing data Fail :vat_transfer
+2021-12-16 10:46:23.0539 INFO GetFinacListValues Success
+2021-12-16 10:46:23.5068 INFO Get Existing data Fail :rawmaterial_wastage
+2021-12-16 10:46:23.7769 INFO GetFinacListValues Success
+2021-12-16 10:46:24.2253 INFO Get Existing data Fail :molasses_indent
+2021-12-16 10:46:33.6800 INFO GetFinacListValues Success
+2021-12-16 10:46:35.0293 INFO Get Existing data Fail :molasses_prov_prod
+2021-12-16 10:46:38.5679 INFO GetFinacListValues Success
+2021-12-16 10:46:40.0430 INFO Get Existing data Fail :molasses_allotment_request
+2021-12-16 10:46:44.1927 INFO GetFinacListValues Success
+2021-12-16 10:46:46.7199 INFO Get Existing data Fail :release_request
+2021-12-16 10:46:51.4696 INFO GetFinacListValues Success
+2021-12-16 10:47:59.9262 INFO Get Existing data Fail :openingbalance
+2021-12-16 10:48:00.9470 INFO GetFinacListValues Success
+2021-12-16 10:48:04.3124 INFO Get Existing data Fail :vat_master
+2021-12-16 10:48:05.1634 INFO GetFinacListValues Success
+2021-12-16 10:48:05.8011 INFO Get Existing data Fail :eascm_docs
+2021-12-16 10:48:05.8236 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:48:05.8236 INFO Get Party Master List Success
+2021-12-16 10:48:05.8236 INFO GetFinacListValues Success
+2021-12-16 10:48:06.6413 INFO Get Product Type Master List Success
+2021-12-16 10:48:07.0549 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:50:49.9005 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:50:49.9374 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:50:49.9613 INFO Get Product Type Master List Success
+2021-12-16 10:50:50.3393 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:50:59.1391 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:51:03.5501 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:51:04.0782 INFO Get Product Type Master List Success
+2021-12-16 10:51:04.4577 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:51:07.4002 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:51:25.3160 INFO Get Product Type Master List Success
+2021-12-16 10:51:26.1455 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:51:33.4925 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:51:35.5395 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:00.0079 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:00.0438 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:00.0557 INFO Get Product Type Master List Success
+2021-12-16 10:53:00.3848 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:53:05.5028 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:05.7568 INFO Get Indent List Success :42703: column "record_active" does not exist
+2021-12-16 10:53:05.7568 INFO Get Product Type Master List Success
+2021-12-16 10:53:06.0099 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:53:08.7513 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:09.9048 INFO Get RR List Fail:42703: column a.record_active does not exist
+2021-12-16 10:53:09.9048 INFO Get Product Type Master List Success
+2021-12-16 10:53:10.1620 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:53:12.4624 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:12.4624 INFO Get Product Master List Success
+2021-12-16 10:53:15.3713 INFO Get RR List Success
+2021-12-16 10:53:16.5217 INFO Get Product Type Master List Success
+2021-12-16 10:53:17.3357 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:53:22.1783 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:53:23.6003 INFO Get Product Type Master List Success
+2021-12-16 10:53:23.8624 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:57:14.0153 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 10:57:14.7634 INFO Get Indent List Success :42703: column "record_active" does not exist
+2021-12-16 10:57:14.7634 INFO Get Product Type Master List Success
+2021-12-16 10:57:15.0484 INFO Get User Success :newswadeshi_dis
+2021-12-16 10:57:22.8649 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:04:28.7817 INFO Get Indent List Success :42703: column "record_active" does not exist
+2021-12-16 11:04:28.8156 INFO Get Product Type Master List Success
+2021-12-16 11:04:29.6158 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:04:33.5052 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:04:34.2861 INFO Get Indent List Success
+2021-12-16 11:04:34.3031 INFO Get Product Type Master List Success
+2021-12-16 11:04:34.7349 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:07:50.9198 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:07:51.2063 INFO Get Indent List Success
+2021-12-16 11:07:51.2083 INFO Get Product Type Master List Success
+2021-12-16 11:07:51.4686 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:11:25.2236 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:11:25.9154 INFO Get Indent List Success
+2021-12-16 11:11:25.9154 INFO Get Product Type Master List Success
+2021-12-16 11:11:26.4426 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:14:59.1082 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:15:00.5933 INFO Get Product Type Master List Success
+2021-12-16 11:15:00.8591 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:15:07.0506 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:15:08.9324 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:15:09.3188 INFO Get Product Type Master List Success
+2021-12-16 11:15:09.5875 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:15:17.9019 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:15:18.1230 INFO Get Indent List Success
+2021-12-16 11:15:18.1230 INFO Get Product Type Master List Success
+2021-12-16 11:15:18.3785 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:15:21.3778 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:15:22.8262 INFO Get RR List Fail:42703: column a.record_active does not exist
+2021-12-16 11:15:22.8262 INFO Get Product Type Master List Success
+2021-12-16 11:15:23.0986 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:47:20.5603 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:47:20.7444 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:47:20.8303 INFO Get Product Type Master List Success
+2021-12-16 11:47:21.7288 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:47:27.1328 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:47:28.3464 INFO Get RR List Success
+2021-12-16 11:47:28.3950 INFO Get Product Type Master List Success
+2021-12-16 11:47:29.1570 INFO Get User Success :newswadeshi_dis
+2021-12-16 11:54:33.2155 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 11:54:34.4268 INFO Get RR List Success
+2021-12-16 11:54:34.4749 INFO Get Product Type Master List Success
+2021-12-16 11:54:35.2498 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:00:33.8781 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:07:15.9703 INFO Get RR List Success
+2021-12-16 12:07:17.0499 INFO Get Product Type Master List Success
+2021-12-16 12:07:17.3466 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:07:29.9124 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:07:31.8730 INFO Get RR List Success
+2021-12-16 12:07:31.8909 INFO Get RR No Sucess:Req/WC/NSD/RR/18
+2021-12-16 12:07:32.4836 INFO Get RR List Success
+2021-12-16 12:07:32.4836 INFO Get Product Type Master List Success
+2021-12-16 12:07:32.7586 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:07:33.5437 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:07:35.2826 INFO Get RR List Success
+2021-12-16 12:07:35.2826 INFO Get RR No Sucess:Req/WC/NSD/RR/18
+2021-12-16 12:07:35.8201 INFO Get RR List Success
+2021-12-16 12:07:35.8201 INFO Get Product Type Master List Success
+2021-12-16 12:07:36.2107 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:08:03.8888 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:08:05.4447 INFO Get RR List Success
+2021-12-16 12:08:05.4447 INFO Get Product Type Master List Success
+2021-12-16 12:08:05.7212 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:08:08.1353 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:42:31.0110 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:42:31.1172 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:42:31.1936 INFO Get Product Type Master List Success
+2021-12-16 12:42:31.5565 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:42:38.1665 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:42:39.3641 INFO Get RR List Success
+2021-12-16 12:42:39.4214 INFO Get Product Type Master List Success
+2021-12-16 12:42:39.8451 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:42:42.9936 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:42:44.3318 INFO Get RR List Success
+2021-12-16 12:42:44.8714 INFO Get Product Type Master List Success
+2021-12-16 12:42:45.2230 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:42:55.6452 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:43:47.3980 INFO Get RR List Success
+2021-12-16 12:43:48.5781 INFO Get Product Type Master List Success
+2021-12-16 12:43:49.4762 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:43:53.4191 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:44:13.0896 INFO Get RR List Success
+2021-12-16 12:44:13.5891 INFO Get Product Type Master List Success
+2021-12-16 12:44:14.0458 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:44:18.2791 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:44:33.7216 INFO Get RR List Success
+2021-12-16 12:44:34.7575 INFO Get Product Type Master List Success
+2021-12-16 12:44:35.2465 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:45:31.9066 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:45:32.8570 INFO Get Indent List Success
+2021-12-16 12:45:32.8845 INFO Get Product Type Master List Success
+2021-12-16 12:45:33.2242 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:45:37.7707 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:45:37.7707 INFO Get Allotment List Success
+2021-12-16 12:45:38.3539 INFO Get Product Type Master List Success
+2021-12-16 12:45:38.8438 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:46:22.0555 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:46:22.9809 INFO Get Indent List Success
+2021-12-16 12:46:22.9809 INFO Get Product Type Master List Success
+2021-12-16 12:46:23.3198 INFO Get User Success :newswadeshi_dis
+2021-12-16 12:46:37.2056 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 12:46:37.2156 INFO Get Allotment List Success
+2021-12-16 12:46:37.7349 INFO Get Product Type Master List Success
+2021-12-16 12:46:38.1452 INFO Get User Success :newswadeshi_dis
+2021-12-16 15:43:29.5057 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 15:43:46.7591 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 15:43:46.8336 INFO Get Product Type Master List Success
+2021-12-16 15:43:58.1557 INFO Get User Success :newswadeshi_dis
+2021-12-16 15:51:38.9883 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 15:51:46.8831 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 15:51:46.9590 INFO Get Product Type Master List Success
+2021-12-16 15:51:50.8902 INFO Get User Success :newswadeshi_dis
+2021-12-16 15:51:56.8669 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 15:51:56.8889 INFO Get Report  Success
+2021-12-16 15:51:56.9257 INFO GetFinacListValues Success
+2021-12-16 15:51:56.9337 INFO Get Party Master List Success
+2021-12-16 15:51:56.9337 INFO Get Product Type Master List Success
+2021-12-16 15:51:58.9692 INFO Get User Success :newswadeshi_dis
+2021-12-16 15:52:14.2638 INFO Get VAT Master List Success
+2021-12-16 15:55:15.6597 INFO Get Party Master Details Success :A command is already in progress: select * from exciseautomation.party_master where party_code='NSD' 
+2021-12-16 16:02:47.8485 INFO Get Party Master Details Success
+2021-12-16 16:02:56.5876 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:02:58.9000 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:02:59.3938 INFO Get Product Type Master List Success
+2021-12-16 16:03:00.1231 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:03:05.5977 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:03:05.5987 INFO Get Report  Success
+2021-12-16 16:03:05.5987 INFO GetFinacListValues Success
+2021-12-16 16:03:05.5987 INFO Get Party Master List Success
+2021-12-16 16:03:05.5987 INFO Get Product Type Master List Success
+2021-12-16 16:03:06.8273 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:03:11.5113 INFO Get VAT Master List Success
+2021-12-16 16:03:43.1843 INFO Get Party Master Details Success
+2021-12-16 16:04:05.2327 INFO Get Party Master Details Success
+2021-12-16 16:05:41.7091 INFO Get Party Master Details Success
+2021-12-16 16:07:56.5955 INFO Get Party Master Details Success
+2021-12-16 16:08:37.8026 INFO Get Party Master Details Success
+2021-12-16 16:32:22.0363 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:32:32.2026 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:32:32.2524 INFO Get Product Type Master List Success
+2021-12-16 16:32:35.4416 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:32:44.5775 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:32:44.5775 INFO Get Report  Success
+2021-12-16 16:32:44.5923 INFO GetFinacListValues Success
+2021-12-16 16:32:44.5983 INFO Get Party Master List Success
+2021-12-16 16:32:44.5983 INFO Get Product Type Master List Success
+2021-12-16 16:32:45.9826 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:32:50.6342 INFO Get VAT Master List Success
+2021-12-16 16:32:56.3172 INFO Get Party Master Details Success
+2021-12-16 16:33:36.1266 INFO Get GetSeverList Success
+2021-12-16 16:34:17.5887 INFO Get VAT Master List Success
+2021-12-16 16:41:51.7076 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:41:51.8193 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:41:51.8772 INFO Get Product Type Master List Success
+2021-12-16 16:42:16.3623 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:42:25.7627 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:42:25.7627 INFO Get Product Master List Success
+2021-12-16 16:42:28.5104 INFO Get RR List Success
+2021-12-16 16:42:29.7871 INFO Get Product Type Master List Success
+2021-12-16 16:42:30.2448 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:42:34.5916 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:42:36.4196 INFO Get Product Type Master List Success
+2021-12-16 16:42:36.8869 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:42:40.8836 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:42:42.8692 INFO Get Pass List Success
+2021-12-16 16:42:42.8692 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:42:42.9010 INFO Get Product Type Master List Success
+2021-12-16 16:42:43.8732 INFO Get User Success :newswadeshi_dis
+2021-12-16 16:42:47.8335 INFO Get Report  Success
+2021-12-16 16:42:47.9950 INFO Get GetSeverList Success
+2021-12-16 16:43:32.5782 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-16 16:43:32.5782 INFO Get Report  Success
+2021-12-16 16:43:32.5832 INFO GetFinacListValues Success
+2021-12-16 16:43:32.5832 INFO Get Party Master List Success
+2021-12-16 16:43:32.5832 INFO Get Product Type Master List Success
+2021-12-16 16:43:34.0731 INFO Get User Success :newswadeshi_dis
+2021-12-16 17:38:37.6786 INFO Get User Success :104-Riga Distillery Division
+2021-12-16 17:38:37.7204 INFO Get User Success :104-Riga Distillery Division
+2021-12-16 17:38:37.7643 INFO Get Product Type Master List Success
+2021-12-16 17:38:38.2561 INFO Get User Success :riga_dis
+2021-12-16 17:38:41.7003 INFO Get User Success :104-Riga Distillery Division
+2021-12-16 17:38:41.7003 INFO Get Party Master List Success
+2021-12-16 17:38:41.7003 INFO GetFinacListValues Success
+2021-12-16 17:38:43.6022 INFO Get Product Type Master List Success
+2021-12-16 17:38:44.1362 INFO Get User Success :riga_dis
+2021-12-16 17:40:51.4634 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-16 17:40:51.5053 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-16 17:40:51.5223 INFO Get Product Type Master List Success
+2021-12-16 17:40:52.0140 INFO Get User Success :riga_sgr
+2021-12-16 17:40:55.8453 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-12-16 17:40:55.8486 INFO Get Party Master List Success
+2021-12-16 17:40:55.8486 INFO GetFinacListValues Success
+2021-12-16 17:40:57.7978 INFO Get Product Type Master List Success
+2021-12-16 17:40:58.2506 INFO Get User Success :riga_sgr

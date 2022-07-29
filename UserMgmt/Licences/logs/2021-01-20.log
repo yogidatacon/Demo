@@ -1,0 +1,278 @@
+2021-01-20 11:16:03.3732 INFO Get User Success :104-Riga Distillery Division
+2021-01-20 11:16:03.5235 INFO Get User Success :riga_dis
+2021-01-20 11:16:17.4486 INFO Get User Success :104-Riga Distillery Division
+2021-01-20 11:16:17.4879 INFO Get RR List Success
+2021-01-20 11:16:17.5613 INFO Get User Success :riga_dis
+2021-01-20 11:16:19.6808 INFO Get User Success :104-Riga Distillery Division
+2021-01-20 11:16:19.6848 INFO Get Product Master List Success
+2021-01-20 11:16:19.7167 INFO Get State List Success
+2021-01-20 11:16:19.7167 INFO Get NOC Sucess:18
+2021-01-20 11:16:44.7039 INFO Get NOC Sucess:Req/SI/RDD/ETH-NOC/2020-21/1
+2021-01-20 11:16:44.7258 INFO Get User Success :riga_dis
+2021-01-20 11:34:03.8249 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-01-20 11:34:04.6293 INFO Get User Success :sonasati_dis
+2021-01-20 11:53:28.7196 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-20 11:53:29.5551 INFO Get User Success :vishnu_sgr
+2021-01-20 11:53:51.0136 INFO Sugarcanepurchase Get List Success
+2021-01-20 11:53:51.0910 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-20 11:53:51.2201 INFO Get User Success :vishnu_sgr
+2021-01-20 11:53:53.7943 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-01-20 11:53:54.1492 INFO MIR GetList Sucess
+2021-01-20 11:53:54.2448 INFO Get User Success :vishnu_sgr
+2021-01-20 11:53:57.1612 INFO MIR GetList Sucess
+2021-01-20 11:54:12.7563 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:54:13.0690 INFO Get User Success :harinagar_sgr
+2021-01-20 11:54:16.4733 INFO Sugarcanepurchase Get List Success
+2021-01-20 11:54:16.5461 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:54:16.6333 INFO Get User Success :harinagar_sgr
+2021-01-20 11:54:18.5990 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:54:18.9800 INFO MIR GetList Sucess
+2021-01-20 11:54:19.0844 INFO Get User Success :harinagar_sgr
+2021-01-20 11:54:21.6571 INFO MIR GetList Sucess
+2021-01-20 11:54:32.5008 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-20 11:54:32.8034 INFO Get User Success :majhaulia_sgr
+2021-01-20 11:54:35.4134 INFO Sugarcanepurchase Get List Success
+2021-01-20 11:54:35.4816 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-20 11:54:35.5781 INFO Get User Success :majhaulia_sgr
+2021-01-20 11:54:36.6400 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-01-20 11:54:36.9462 INFO MIR GetList Sucess
+2021-01-20 11:54:37.1072 INFO Get User Success :majhaulia_sgr
+2021-01-20 11:54:39.6052 INFO MIR GetList Sucess
+2021-01-20 11:55:53.3247 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 11:55:54.6165 INFO Get User Success :harinagar_dis
+2021-01-20 11:56:03.7334 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 11:56:12.4358 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:56:12.7255 INFO Get User Success :harinagar_sgr
+2021-01-20 11:56:14.8064 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:56:15.1506 INFO Get User Success :harinagar_sgr
+2021-01-20 11:57:02.3764 INFO Sugarcanepurchase Get List Success
+2021-01-20 11:57:02.4462 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:57:02.5572 INFO Get User Success :harinagar_sgr
+2021-01-20 11:57:04.0121 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:57:04.3032 INFO MIR GetList Sucess
+2021-01-20 11:57:04.4082 INFO Get User Success :harinagar_sgr
+2021-01-20 11:57:05.8887 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 11:57:06.0958 INFO Get VAT Master List Success
+2021-01-20 11:57:06.4016 INFO Get Pass List Success
+2021-01-20 11:57:06.4919 INFO MIR GetDetails Sucess
+2021-01-20 11:57:06.5892 INFO Get Pass List Success
+2021-01-20 11:57:48.8551 INFO Get User Success :harinagar_sgr
+2021-01-20 12:21:07.2114 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:21:08.0707 INFO Get User Success :harinagar_dis
+2021-01-20 12:21:20.1815 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:21:23.6164 INFO Get RR List Success
+2021-01-20 12:21:23.8512 INFO Get User Success :harinagar_dis
+2021-01-20 12:21:29.3180 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:21:29.3987 INFO Get Product Master List Success
+2021-01-20 12:21:29.4915 INFO Get State List Success
+2021-01-20 12:21:29.5659 INFO Get NOC Sucess:48
+2021-01-20 12:21:33.4099 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/8
+2021-01-20 12:21:33.8736 INFO Get NOC Details Success
+2021-01-20 12:21:33.9996 INFO Get Customer Details Success
+2021-01-20 12:21:34.1649 INFO Check WorkFlow List Success
+2021-01-20 12:21:34.5734 INFO Get User Success :harinagar_dis
+2021-01-20 12:21:50.8123 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:21:54.0746 INFO Get RR List Success
+2021-01-20 12:21:54.2316 INFO Get User Success :harinagar_dis
+2021-01-20 12:21:56.1805 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:21:56.2476 INFO Get Product Master List Success
+2021-01-20 12:21:56.3212 INFO Get State List Success
+2021-01-20 12:21:56.3857 INFO Get NOC Sucess:48
+2021-01-20 12:21:56.5202 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/8
+2021-01-20 12:21:56.7846 INFO Get NOC Details Success
+2021-01-20 12:21:56.8615 INFO Get Customer Details Success
+2021-01-20 12:21:56.9304 INFO Check WorkFlow List Success
+2021-01-20 12:21:57.1696 INFO Get User Success :harinagar_dis
+2021-01-20 12:23:17.4379 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:18.0159 INFO Get User Success :hodyco
+2021-01-20 12:23:20.6393 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:20.7119 INFO Check WorkFlow List Success
+2021-01-20 12:23:24.0235 INFO Get RR List Success
+2021-01-20 12:23:24.0982 INFO Get User Success :hodyco
+2021-01-20 12:23:27.1827 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:27.2436 INFO Check WorkFlow List Success
+2021-01-20 12:23:30.7609 INFO Get RR List Success
+2021-01-20 12:23:30.8671 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:30.9317 INFO Check WorkFlow List Success
+2021-01-20 12:23:36.4605 INFO Get RR List Success
+2021-01-20 12:23:36.8930 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:37.0951 INFO Get Product Master List Success
+2021-01-20 12:23:37.1649 INFO Get State List Success
+2021-01-20 12:23:37.2508 INFO Get NOC Sucess:48
+2021-01-20 12:23:37.3818 INFO Get NOC Sucess:Req//1
+2021-01-20 12:23:37.5548 INFO Get State List Success
+2021-01-20 12:23:38.0193 INFO Get NOC Details Success
+2021-01-20 12:23:38.0755 INFO Get Customer Details Success
+2021-01-20 12:23:38.2399 INFO Check WorkFlow List Success
+2021-01-20 12:23:38.5143 INFO Get User Success :hodyco
+2021-01-20 12:23:45.3011 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:45.3649 INFO Check WorkFlow List Success
+2021-01-20 12:23:51.4349 INFO Get RR List Success
+2021-01-20 12:23:51.5609 INFO Get User Success :hodyco
+2021-01-20 12:23:54.8193 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:55.0030 INFO Check WorkFlow List Success
+2021-01-20 12:23:59.4106 INFO Get RR List Success
+2021-01-20 12:23:59.8454 INFO Get User Success :100-Deputy Commissioner
+2021-01-20 12:23:59.9002 INFO Check WorkFlow List Success
+2021-01-20 12:24:03.5129 INFO Get RR List Success
+2021-01-20 12:24:23.2733 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:24:23.7557 INFO Get User Success :harinagar_dis
+2021-01-20 12:24:30.5480 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:24:33.8715 INFO Get RR List Success
+2021-01-20 12:24:34.0738 INFO Get User Success :harinagar_dis
+2021-01-20 12:24:36.7945 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:24:36.8652 INFO Get Product Master List Success
+2021-01-20 12:24:36.9472 INFO Get State List Success
+2021-01-20 12:24:37.0136 INFO Get NOC Sucess:48
+2021-01-20 12:24:37.1506 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/8
+2021-01-20 12:24:37.4270 INFO Get NOC Details Success
+2021-01-20 12:24:37.4971 INFO Get Customer Details Success
+2021-01-20 12:24:37.5692 INFO Check WorkFlow List Success
+2021-01-20 12:24:37.8185 INFO Get User Success :harinagar_dis
+2021-01-20 12:24:48.2348 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:24:51.5600 INFO Get RR List Success
+2021-01-20 12:24:51.7252 INFO Get User Success :harinagar_dis
+2021-01-20 12:24:53.3760 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:24:53.4482 INFO Get Product Master List Success
+2021-01-20 12:24:53.5256 INFO Get State List Success
+2021-01-20 12:24:53.5921 INFO Get NOC Sucess:48
+2021-01-20 12:24:53.7227 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/8
+2021-01-20 12:24:53.9881 INFO Get NOC Details Success
+2021-01-20 12:24:54.0719 INFO Get Customer Details Success
+2021-01-20 12:24:54.1378 INFO Check WorkFlow List Success
+2021-01-20 12:24:54.3700 INFO Get User Success :harinagar_dis
+2021-01-20 12:25:08.5631 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:25:08.9461 INFO Get User Success :harinagar_dis
+2021-01-20 12:25:20.8771 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:25:22.0254 INFO Get RR List Success
+2021-01-20 12:25:22.2054 INFO Get User Success :harinagar_dis
+2021-01-20 12:26:39.5626 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:26:40.4984 INFO Get User Success :harinagar_dis
+2021-01-20 12:26:57.9919 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:03.0693 INFO Get RR List Success
+2021-01-20 12:27:03.4961 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:06.0453 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:06.5965 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:11.0217 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:11.4673 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:21.8779 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:22.3641 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:28.7671 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:29.0723 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:30.2887 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:30.5228 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:31.7882 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:35.0110 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:37.8656 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:38.2900 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:45.3243 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:48.2061 INFO Get RR List Success
+2021-01-20 12:27:48.4425 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:49.1394 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:49.6683 INFO Get Pass List Success
+2021-01-20 12:27:49.8294 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:51.8388 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:27:52.2682 INFO Get Pass List Success
+2021-01-20 12:27:52.3971 INFO Get User Success :harinagar_dis
+2021-01-20 12:27:54.2173 INFO Get Pass List Success
+2021-01-20 12:27:56.4053 INFO Get Pass List Success
+2021-01-20 12:28:06.5595 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:28:09.1659 INFO Get RR List Success
+2021-01-20 12:28:09.3003 INFO Get User Success :harinagar_dis
+2021-01-20 12:28:14.4036 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:28:14.7601 INFO Get User Success :harinagar_dis
+2021-01-20 12:28:31.4561 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:28:32.0474 INFO Get Pass List Success
+2021-01-20 12:28:32.1904 INFO Get User Success :harinagar_dis
+2021-01-20 12:28:35.2179 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:28:35.2858 INFO Get Dispach Master List Success
+2021-01-20 12:28:35.4402 INFO Get VAT Master List Success
+2021-01-20 12:28:35.5132 INFO Get Pass List Success
+2021-01-20 12:28:40.3001 INFO Get User Success :harinagar_dis
+2021-01-20 12:29:27.8377 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 12:29:28.2689 INFO Get Pass List Success
+2021-01-20 12:29:28.4269 INFO Get User Success :harinagar_dis
+2021-01-20 14:40:21.1830 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:40:21.8667 INFO Get User Success :hpcl_wc
+2021-01-20 14:40:33.3264 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:40:33.7116 INFO Get User Success :hpcl_wc
+2021-01-20 14:40:36.2309 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:40:57.2091 INFO Get User Success :hpcl_wc
+2021-01-20 14:41:00.4200 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:41:00.6477 INFO Get User Success :hpcl_wc
+2021-01-20 14:49:38.9450 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:49:39.8649 INFO Get User Success :hpcl_wc
+2021-01-20 14:49:50.7204 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:49:51.2283 INFO Get User Success :hpcl_wc
+2021-01-20 14:49:52.7104 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:49:56.8917 INFO Get User Success :hpcl_wc
+2021-01-20 14:50:32.1221 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:50:32.3508 INFO Get User Success :hpcl_wc
+2021-01-20 14:52:59.7279 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:52:59.8647 INFO Get User Success :hpcl_wc
+2021-01-20 14:53:03.6910 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:53:03.7626 INFO Get User Success :hpcl_wc
+2021-01-20 14:53:04.9064 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:53:04.9503 INFO Get User Success :hpcl_wc
+2021-01-20 14:53:17.5732 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:54:02.9502 INFO Get User Success :hpcl_wc
+2021-01-20 14:54:06.7190 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:54:09.2287 INFO Get User Success :hpcl_wc
+2021-01-20 14:54:11.4077 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2021-01-20 14:54:11.4682 INFO Get User Success :hpcl_wc
+2021-01-20 15:33:05.2737 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:33:05.3927 INFO Get User Success :hpcl_wc_sgrbo
+2021-01-20 15:33:08.3757 INFO Sugarcanepurchase Get List Success
+2021-01-20 15:33:08.3757 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:33:08.4128 INFO Get User Success :hpcl_wc_sgrbo
+2021-01-20 15:33:09.5075 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:38:28.4755 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:38:28.5429 INFO Get User Success :hpcl_wc_sgrbo
+2021-01-20 15:38:51.0752 INFO Sugarcanepurchase Get List Success
+2021-01-20 15:38:51.0752 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:38:51.1030 INFO Get User Success :hpcl_wc_sgrbo
+2021-01-20 15:38:52.7420 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:38:52.8531 INFO Get User Success :hpcl_wc_sgrbo
+2021-01-20 15:38:55.3646 INFO Get User Success :127-Hpcl Biofuels Limited, Wc, Bond Officer
+2021-01-20 15:38:59.7656 INFO Get User Success :hpcl_wc_sgrbo
+2021-01-20 15:43:40.7305 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 15:43:42.2415 INFO Get User Success :harinagar_dis
+2021-01-20 15:43:54.1100 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 15:43:54.7102 INFO Get User Success :harinagar_dis
+2021-01-20 15:43:57.0962 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-20 15:43:58.1397 INFO Get Pass List Success
+2021-01-20 15:43:58.4601 INFO Get User Success :harinagar_dis
+2021-01-20 15:44:00.3289 INFO Get Report  Success
+2021-01-20 15:44:00.7221 INFO Get GetSeverList Success
+2021-01-20 15:46:02.5795 INFO Get Pass List Success
+2021-01-20 15:46:54.2383 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 15:46:54.4694 INFO Get User Success :harinagar_sgr
+2021-01-20 15:46:59.9804 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 15:47:01.0934 INFO Get User Success :harinagar_sgr
+2021-01-20 15:47:02.9697 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-01-20 15:47:03.5802 INFO Get Pass List Success
+2021-01-20 15:47:03.6966 INFO Get User Success :harinagar_sgr
+2021-01-20 15:47:06.6268 INFO Get Pass List Success
+2021-01-20 15:47:13.6753 INFO Get Report  Success
+2021-01-20 15:47:13.8260 INFO Get GetSeverList Success
+2021-01-20 15:49:19.2868 INFO Get Pass List Success
+2021-01-20 15:49:22.2523 INFO Get Pass List Success
+2021-01-20 15:49:28.6049 INFO Get Pass List Success
+2021-01-20 15:49:31.6816 INFO Get Pass List Success
+2021-01-20 15:49:35.0675 INFO Get Pass List Success
+2021-01-20 15:49:45.6751 INFO Get Pass List Success
+2021-01-20 15:49:46.4304 INFO Get Pass List Success
+2021-01-20 15:52:21.2412 INFO Get Pass List Success
+2021-01-20 15:52:43.1424 INFO Get Pass List Success
+2021-01-20 15:59:05.6513 INFO Get Report  Success
+2021-01-20 15:59:05.8739 INFO Get GetSeverList Success
+2021-01-20 17:53:44.8452 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-20 17:53:45.5146 INFO Get User Success :newswadeshi_dis
+2021-01-20 17:53:50.9519 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-20 17:53:51.2514 INFO Get User Success :newswadeshi_dis
+2021-01-20 17:53:59.1831 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-20 17:53:59.5112 INFO Get User Success :newswadeshi_dis
+2021-01-20 17:55:43.3901 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-20 17:55:43.7253 INFO Get User Success :newswadeshi_dis
+2021-01-20 17:57:40.4902 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-20 17:57:40.8269 INFO Get User Success :newswadeshi_dis

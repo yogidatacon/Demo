@@ -1,0 +1,209 @@
+2021-07-01 09:22:52.0147 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:23:03.1740 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:23:03.9040 INFO Get User Success :harinagar_sgr
+2021-07-01 09:23:47.8782 INFO Sugarcanepurchase Get List Success
+2021-07-01 09:23:47.9632 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:23:48.1352 INFO Get User Success :harinagar_sgr
+2021-07-01 09:24:06.6709 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:24:07.0589 INFO MIR GetList Sucess
+2021-07-01 09:24:07.1729 INFO Get User Success :harinagar_sgr
+2021-07-01 09:24:10.9116 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:24:11.1467 INFO Get VAT Master List Success
+2021-07-01 09:24:19.6661 INFO Get Pass List Success
+2021-07-01 09:24:19.7801 INFO Get User Success :harinagar_sgr
+2021-07-01 09:24:27.4494 INFO Get Pass List Success
+2021-07-01 09:27:31.2106 INFO MIR Insertion Sucess:377-HSM
+2021-07-01 09:29:19.1587 INFO MIR Update Success:HSM-HSMMST0001_377
+2021-07-01 09:29:19.3677 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:29:19.6677 INFO MIR GetList Sucess
+2021-07-01 09:29:19.8077 INFO Get User Success :harinagar_sgr
+2021-07-01 09:29:30.2760 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:29:30.5030 INFO Get VAT Master List Success
+2021-07-01 09:29:33.1468 INFO Get Pass List Success
+2021-07-01 09:29:34.5337 INFO MIR GetDetails Fail :Field not found in row: customer_id
+2021-07-01 09:29:36.2916 INFO Get Pass List Success
+2021-07-01 09:29:44.5411 INFO Get User Success :harinagar_sgr
+2021-07-01 09:30:09.0875 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-07-01 09:30:09.4105 INFO Get VAT Master List Success
+2021-07-01 12:36:54.0618 INFO Get User Success :44-Administrator
+2021-07-01 12:36:54.7927 INFO Get User Success :44-Administrator
+2021-07-01 12:36:55.2497 INFO Get User Success :Admin
+2021-07-01 12:37:24.7838 INFO Get DocFromat Master List Success
+2021-07-01 12:37:24.9428 INFO Get User Success :Admin
+2021-07-01 12:37:28.7855 INFO Get Party Master List Success
+2021-07-01 12:37:28.8965 INFO Get User Success :Admin
+2021-07-01 12:38:00.5205 INFO Get DocFromat Master List Success
+2021-07-01 12:38:00.6575 INFO Get User Success :Admin
+2021-07-01 12:38:09.0729 INFO Get DocFromat Master List Success
+2021-07-01 12:38:12.8517 INFO Get Party Master List Success
+2021-07-01 12:38:12.9487 INFO Get DocFromat Master List Success
+2021-07-01 12:38:13.0337 INFO Get User Success :Admin
+2021-07-01 13:00:30.3480 INFO Get User Success :44-Administrator
+2021-07-01 13:00:31.0250 INFO Get User Success :44-Administrator
+2021-07-01 13:00:31.3700 INFO Get User Success :Admin
+2021-07-01 13:02:10.3266 INFO Get DocFromat Master List Success
+2021-07-01 13:02:10.4486 INFO Get User Success :Admin
+2021-07-01 13:02:14.5573 INFO Get DocFromat Master List Success
+2021-07-01 13:02:17.3802 INFO Get Party Master List Success
+2021-07-01 13:02:17.4571 INFO Get DocFromat Master List Success
+2021-07-01 13:02:17.5561 INFO Get User Success :Admin
+2021-07-01 13:02:44.6084 INFO Insert DocFromat Master Success :1
+2021-07-01 13:02:44.7264 INFO Get DocFromat Master List Success
+2021-07-01 13:02:44.8264 INFO Get User Success :Admin
+2021-07-01 13:02:48.2732 INFO Get DocFromat Master List Success
+2021-07-01 13:02:50.9360 INFO Get Party Master List Success
+2021-07-01 13:02:51.0220 INFO Get DocFromat Master List Success
+2021-07-01 13:02:51.1130 INFO Get User Success :Admin
+2021-07-01 13:03:15.4894 INFO Get DocFromat Master List Success
+2021-07-01 13:03:15.5814 INFO Get User Success :Admin
+2021-07-01 13:03:18.7012 INFO Get DocFromat Master List Success
+2021-07-01 13:03:22.6220 INFO Get Party Master List Success
+2021-07-01 13:04:19.2033 INFO Get DocFromat Master List Success
+2021-07-01 13:04:19.2993 INFO Get User Success :Admin
+2021-07-01 13:04:36.1771 INFO Get User Success :353-M and TP Unit
+2021-07-01 13:04:36.4441 INFO Get User Success :353-M and TP Unit
+2021-07-01 13:04:36.5301 INFO Get User Success :mtp1
+2021-07-01 13:04:42.5307 INFO Get User Success :353-M and TP Unit
+2021-07-01 13:04:59.7936 INFO Get User Success :mtp1
+2021-07-01 13:05:02.8754 INFO Get User Success :353-M and TP Unit
+2021-07-01 14:11:45.4688 INFO Get Party Master List Success
+2021-07-01 14:12:12.1291 INFO Get Party Master List Success
+2021-07-01 14:12:31.9589 INFO Get User Success :353-M and TP Unit
+2021-07-01 14:12:32.5638 INFO Get User Success :353-M and TP Unit
+2021-07-01 14:12:32.9538 INFO Get User Success :mtp1
+2021-07-01 14:29:04.8830 INFO Get User Fail :-The operation has timed out.
+2021-07-01 14:48:17.1993 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:48:17.7083 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:48:18.0403 INFO Get User Success :globus_dis
+2021-07-01 14:48:25.8668 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:48:40.6009 INFO Get User Success :globus_dis
+2021-07-01 14:48:50.0143 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:48:53.6301 INFO Get Pass List Success
+2021-07-01 14:48:53.9151 INFO Get User Success :globus_dis
+2021-07-01 14:49:01.3856 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:49:05.3784 INFO Get User Success :globus_dis
+2021-07-01 14:49:05.9954 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:49:09.8471 INFO Get User Success :globus_dis
+2021-07-01 14:49:16.3597 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:49:20.4985 INFO Get Pass List Success
+2021-07-01 14:49:20.6205 INFO Get User Success :globus_dis
+2021-07-01 14:49:24.1563 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:49:24.3192 INFO Get Dispach Master List Success
+2021-07-01 14:51:00.0014 INFO Get VAT Master List Success
+2021-07-01 14:51:00.3214 INFO Get Pass List Success
+2021-07-01 14:51:01.4974 INFO Get User Success :globus_dis
+2021-07-01 14:53:16.2061 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:53:49.0881 INFO Get RR List Success
+2021-07-01 14:53:55.3157 INFO Get User Success :globus_dis
+2021-07-01 14:53:55.7277 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:54:24.2350 INFO Get RR List Success
+2021-07-01 14:54:31.4835 INFO Get User Success :globus_dis
+2021-07-01 14:54:37.9632 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:54:38.0951 INFO Get Product Master List Success
+2021-07-01 14:54:43.2478 INFO Get State List Success
+2021-07-01 14:54:44.3008 INFO Get NOC Sucess:160
+2021-07-01 14:54:45.0608 INFO Get NOC Sucess:Req/VA/GSL/NOC/2020-21/6
+2021-07-01 14:54:45.8697 INFO Get NOC Details Success
+2021-07-01 14:54:45.9977 INFO Get Customer Details Success
+2021-07-01 14:54:46.2346 INFO Check WorkFlow List Success
+2021-07-01 14:54:46.7016 INFO Get User Success :globus_dis
+2021-07-01 14:58:27.2872 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:58:31.9969 INFO Get User Success :globus_dis
+2021-07-01 14:58:38.2865 INFO Get User Success :350-Globus Spirits Limited
+2021-07-01 14:58:42.9402 INFO Get Pass List Success
+2021-07-01 14:58:43.1422 INFO Get User Success :globus_dis
+2021-07-01 14:58:52.5087 INFO Get Report  Success
+2021-07-01 14:58:53.9576 INFO Get GetSeverList Success
+2021-07-01 15:00:12.9157 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:00:13.7486 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:00:14.1096 INFO Get User Success :mtp1
+2021-07-01 15:00:20.9202 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:00:23.7030 INFO Get User Success :mtp1
+2021-07-01 15:00:31.2875 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:00:33.5054 INFO Get Allotment List Success
+2021-07-01 15:00:34.5283 INFO Get Product Master List Success
+2021-07-01 15:00:34.6333 INFO Get UOM List Success
+2021-07-01 15:00:34.8543 INFO Get User Success :mtp1
+2021-07-01 15:00:45.7325 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:06:27.6717 INFO Get Allotment List Success
+2021-07-01 15:06:28.0517 INFO Get Product Master List Success
+2021-07-01 15:06:28.1377 INFO Get UOM List Success
+2021-07-01 15:06:28.2457 INFO Get User Success :mtp1
+2021-07-01 15:13:00.7539 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:13:05.4935 INFO Get Allotment List Success
+2021-07-01 15:13:05.8455 INFO Get Product Master List Success
+2021-07-01 15:13:05.9285 INFO Get UOM List Success
+2021-07-01 15:13:06.0225 INFO Get User Success :mtp1
+2021-07-01 15:13:06.3385 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:13:07.5734 INFO Get Allotment List Success
+2021-07-01 15:13:07.9494 INFO Get Product Master List Success
+2021-07-01 15:13:08.0504 INFO Get UOM List Success
+2021-07-01 15:13:08.1434 INFO Get User Success :mtp1
+2021-07-01 15:13:20.5266 INFO Get Allotment Details Success
+2021-07-01 15:17:53.4580 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:17:56.6538 INFO Get User Success :mtp1
+2021-07-01 15:18:02.1445 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:18:17.8345 INFO Get Allotment List Success
+2021-07-01 15:18:18.2075 INFO Get Product Master List Success
+2021-07-01 15:18:18.2695 INFO Get UOM List Success
+2021-07-01 15:18:31.5667 INFO Get Allotment Details Success
+2021-07-01 15:18:35.1935 INFO Get User Success :mtp1
+2021-07-01 15:18:57.0431 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:18:59.7770 INFO Get User Success :mtp1
+2021-07-01 15:19:09.7764 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:19:11.8382 INFO Get Allotment List Success
+2021-07-01 15:19:12.1842 INFO Get Product Master List Success
+2021-07-01 15:19:12.2642 INFO Get UOM List Success
+2021-07-01 15:19:12.3582 INFO Get User Success :mtp1
+2021-07-01 15:21:45.8309 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:21:48.2127 INFO Get User Success :mtp1
+2021-07-01 15:22:18.0239 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:22:18.9858 INFO Get Allotment List Success
+2021-07-01 15:22:19.2928 INFO Get Product Master List Success
+2021-07-01 15:22:19.3648 INFO Get UOM List Success
+2021-07-01 15:22:19.4538 INFO Get User Success :mtp1
+2021-07-01 15:26:43.3028 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:26:46.1456 INFO Get User Success :mtp1
+2021-07-01 15:26:55.4430 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:26:58.2918 INFO Get Allotment List Success
+2021-07-01 15:26:58.6578 INFO Get Product Master List Success
+2021-07-01 15:26:58.7478 INFO Get UOM List Success
+2021-07-01 15:26:58.8578 INFO Get User Success :mtp1
+2021-07-01 15:28:18.8099 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:28:21.1768 INFO Get User Success :mtp1
+2021-07-01 15:28:25.4876 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:28:28.4224 INFO Get Allotment List Success
+2021-07-01 15:28:28.7944 INFO Get Product Master List Success
+2021-07-01 15:28:28.8693 INFO Get UOM List Success
+2021-07-01 15:28:31.7002 INFO Get Allotment Details Success
+2021-07-01 15:28:35.1719 INFO Get User Success :mtp1
+2021-07-01 15:28:44.4604 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:28:45.8243 INFO Get User Success :mtp1
+2021-07-01 15:28:51.8190 INFO Get User Success :353-M and TP Unit
+2021-07-01 15:28:54.3798 INFO Get Allotment List Success
+2021-07-01 15:28:54.7828 INFO Get Product Master List Success
+2021-07-01 15:28:54.8567 INFO Get UOM List Success
+2021-07-01 15:28:57.6486 INFO Get Allotment Details Success
+2021-07-01 15:29:00.9764 INFO Get User Success :mtp1
+2021-07-01 16:40:43.1221 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:40:43.6510 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:40:44.0660 INFO Get User Success :mtp1
+2021-07-01 16:40:51.9525 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:40:58.2271 INFO Get User Success :mtp1
+2021-07-01 16:41:01.4939 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:41:11.1114 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:41:11.1934 INFO Get License_Type List Success
+2021-07-01 16:41:11.2964 INFO Get License Fee List Success
+2021-07-01 16:41:11.3774 INFO Get State List Success
+2021-07-01 16:41:11.5844 INFO Get User Success :mtp1
+2021-07-01 16:44:25.0945 INFO Get Division List Success
+2021-07-01 16:44:49.9700 INFO Get Existing data Fail :lic_application
+2021-07-01 16:44:50.3080 INFO Get License_Type List Success
+2021-07-01 16:54:59.3144 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:55:02.5702 INFO Get User Success :mtp1
+2021-07-01 16:55:06.6829 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:55:09.8168 INFO Get User Success :353-M and TP Unit
+2021-07-01 16:55:09.8947 INFO Get License_Type List Success
+2021-07-01 16:55:09.9678 INFO Get License Fee List Success
+2021-07-01 16:55:10.1687 INFO Get State List Success
+2021-07-01 16:55:10.3317 INFO Get User Success :mtp1

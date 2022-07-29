@@ -1,0 +1,641 @@
+2020-11-03 14:06:53.6086 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:06:57.2892 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:06:57.2967 INFO Get RR List Success
+2020-11-03 14:08:16.9936 INFO Get RR List Success
+2020-11-03 14:08:24.8484 INFO Get RR List Success
+2020-11-03 14:09:01.4799 INFO Get RR List Success
+2020-11-03 14:09:36.4143 INFO Get RR List Fail:Field not found in row: party_code
+2020-11-03 14:10:11.4442 INFO Get RR List Success
+2020-11-03 14:14:03.7086 INFO Get RR List Success
+2020-11-03 14:14:12.0412 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:20:32.2842 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:20:34.9220 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:20:36.6978 INFO Get RR List Success
+2020-11-03 14:20:54.1079 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:20:55.6490 INFO Get RR List Success
+2020-11-03 14:22:54.6849 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:22:57.1945 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:22:58.6159 INFO Get RR List Success
+2020-11-03 14:23:00.5711 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:23:09.8257 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:34:39.7464 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:34:43.2425 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:34:43.2493 INFO Get RR List Success
+2020-11-03 14:34:43.2896 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:34:44.8177 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:35:11.7730 INFO Get RR List Success
+2020-11-03 14:35:18.3268 INFO Get RR No Sucess:1
+2020-11-03 14:52:52.5337 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:52:55.1398 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:52:55.1398 INFO Get RR List Success
+2020-11-03 14:52:55.1897 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:52:57.5369 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:52:57.5369 INFO Get RR List Success
+2020-11-03 14:53:00.0455 INFO Get RR No Sucess:1
+2020-11-03 14:53:00.0455 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:59:46.9145 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 14:59:46.9200 INFO Get RR List Success
+2020-11-03 14:59:46.9200 INFO Get RR No Sucess:1
+2020-11-03 14:59:46.9200 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:01:18.4377 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:01:18.4377 INFO Get RR List Success
+2020-11-03 15:01:18.4377 INFO Get RR No Sucess:1
+2020-11-03 15:01:18.4377 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:23.3964 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:23.3964 INFO Get RR List Success
+2020-11-03 15:03:23.3964 INFO Get RR No Sucess:1
+2020-11-03 15:03:23.3964 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:28.7761 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:28.7761 INFO Get RR List Success
+2020-11-03 15:03:28.7871 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:29.7379 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:29.7379 INFO Get RR List Success
+2020-11-03 15:03:29.7379 INFO Get RR No Sucess:1
+2020-11-03 15:03:29.7379 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:32.4019 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:03:32.4019 INFO Get RR List Success
+2020-11-03 15:03:32.4058 INFO Get RR No Sucess:1
+2020-11-03 15:03:32.4058 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:04:07.8808 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:04:07.8808 INFO Get RR List Success
+2020-11-03 15:04:07.8808 INFO Get RR No Sucess:1
+2020-11-03 15:04:07.8808 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:07:48.6770 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:07:51.2665 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:07:51.2665 INFO Get RR List Success
+2020-11-03 15:07:51.3129 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:07:52.7999 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:07:52.7999 INFO Get RR List Success
+2020-11-03 15:07:52.8144 INFO Get RR No Sucess:1
+2020-11-03 15:07:52.8144 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:04.4422 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:04.4422 INFO Get RR List Success
+2020-11-03 15:11:04.4529 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:05.4984 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:05.4984 INFO Get RR List Success
+2020-11-03 15:11:05.4984 INFO Get RR No Sucess:1
+2020-11-03 15:11:42.6873 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:46.3380 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:46.3380 INFO Get RR List Success
+2020-11-03 15:11:46.3420 INFO Get RR No Sucess:1
+2020-11-03 15:11:46.3420 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:49.1287 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:49.1287 INFO Get RR List Success
+2020-11-03 15:11:49.1287 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:50.4095 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:50.4095 INFO Get RR List Success
+2020-11-03 15:11:50.4095 INFO Get RR No Sucess:1
+2020-11-03 15:11:50.4095 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:56.3960 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:11:56.3960 INFO Get RR List Success
+2020-11-03 15:11:56.3960 INFO Get RR No Sucess:1
+2020-11-03 15:12:14.4566 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:13:21.9841 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:13:21.9841 INFO Get RR List Success
+2020-11-03 15:13:21.9841 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:13:26.9673 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:13:26.9673 INFO Get RR List Success
+2020-11-03 15:13:26.9673 INFO Get RR No Sucess:1
+2020-11-03 15:13:29.4492 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:47:15.0516 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:47:17.3468 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:47:17.3468 INFO Get RR List Success
+2020-11-03 15:47:17.3952 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:47:34.1526 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 15:47:34.1556 INFO Get RR List Success
+2020-11-03 15:47:34.1556 INFO Get RR No Sucess:1
+2020-11-03 15:47:34.1556 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:04:56.0257 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:05:38.3544 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:05:38.3594 INFO Get RR List Success
+2020-11-03 16:05:38.3594 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:05:39.9196 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:05:39.9216 INFO Get RR List Success
+2020-11-03 16:05:39.9216 INFO Get RR No Sucess:1
+2020-11-03 16:05:39.9216 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:06:37.4743 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:06:37.4743 INFO Get Indent List Success
+2020-11-03 16:06:37.4906 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:06:42.5317 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:06:42.5317 INFO Get RR List Success
+2020-11-03 16:06:42.5317 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:06:44.5145 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:06:44.5145 INFO Get RR List Success
+2020-11-03 16:06:44.5145 INFO Get RR No Sucess:1
+2020-11-03 16:06:44.5145 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:08:43.9683 INFO Get MaxID Success :Module_master
+2020-11-03 16:15:39.3593 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:15:41.8976 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:15:41.9284 INFO Get RR List Fail:42703: column "requested_fromunit" does not exist
+2020-11-03 16:15:41.9505 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:16:13.3381 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:16:14.9866 INFO Get RR List Fail:42803: column "view_release_request_list.requested_fromunit" must appear in the GROUP BY clause or be used in an aggregate function
+2020-11-03 16:16:28.3757 INFO Get RR List Success
+2020-11-03 16:16:28.3955 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:16:31.0111 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:16:31.0139 INFO Get RR List Success
+2020-11-03 16:16:31.0139 INFO Get RR No Sucess:1
+2020-11-03 16:16:34.9273 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:39.7894 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:44.2412 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:46.5656 INFO Get RR List Success
+2020-11-03 16:22:46.6036 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:49.0801 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:49.0801 INFO Get RR List Success
+2020-11-03 16:22:49.0801 INFO Get RR No Sucess:2
+2020-11-03 16:22:49.0937 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:59.1487 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:22:59.1487 INFO Get RR List Success
+2020-11-03 16:22:59.1487 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:23:11.0201 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:23:11.0201 INFO Get RR List Success
+2020-11-03 16:23:11.0201 INFO Get RR No Sucess:2
+2020-11-03 16:23:11.0201 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:23:17.2514 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:23:17.2514 INFO Get RR List Success
+2020-11-03 16:23:17.2514 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:23:34.0094 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:29:05.6485 INFO Get RR List Success
+2020-11-03 16:29:05.6485 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:29:09.2200 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:29:12.0393 INFO Get RR List Success
+2020-11-03 16:29:12.0393 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:29:26.5780 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:29:26.5780 INFO Get RR List Success
+2020-11-03 16:29:26.5780 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:36.8214 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:39.3070 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:39.3140 INFO Get RR List Success
+2020-11-03 16:36:39.3588 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:42.1953 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:42.1953 INFO Get RR List Success
+2020-11-03 16:36:42.2051 INFO Get RR No Sucess:2
+2020-11-03 16:36:42.2051 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:46.1183 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:36:46.1183 INFO Get RR List Success
+2020-11-03 16:36:46.1238 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:37:49.5873 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:37:49.5873 INFO Get RR List Success
+2020-11-03 16:37:49.5873 INFO Get RR No Sucess:2
+2020-11-03 16:37:49.5933 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:38:16.9868 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:38:16.9868 INFO Get RR List Success
+2020-11-03 16:38:16.9868 INFO Get RR No Sucess:2
+2020-11-03 16:38:44.4536 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:40:07.4568 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:40:07.4568 INFO Get RR List Success
+2020-11-03 16:40:07.4568 INFO Get RR No Sucess:2
+2020-11-03 16:40:07.4568 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:40:47.5633 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:40:47.5633 INFO Get RR List Success
+2020-11-03 16:40:47.5633 INFO Get RR No Sucess:2
+2020-11-03 16:40:47.5633 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:43:25.9755 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:43:25.9755 INFO Get RR List Success
+2020-11-03 16:43:25.9755 INFO Get RR No Sucess:2
+2020-11-03 16:43:25.9755 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:43:49.5195 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:43:49.5195 INFO Get RR List Success
+2020-11-03 16:43:49.5319 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:22.7263 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:22.7263 INFO Get RR List Success
+2020-11-03 16:45:22.7381 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:26.2862 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:26.2862 INFO Get RR List Success
+2020-11-03 16:45:26.2862 INFO Get RR No Sucess:2
+2020-11-03 16:45:26.2862 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:30.7909 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:30.7909 INFO Get RR List Success
+2020-11-03 16:45:30.7959 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:45:32.2547 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:57:10.8452 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:57:38.2400 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 16:57:38.2484 INFO Get RR List Success
+2020-11-03 16:57:38.2903 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:13:09.8501 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:13:57.8918 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:13:57.8918 INFO Get RR List Success
+2020-11-03 17:13:57.9437 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:15:19.5071 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:15:22.7377 INFO Get RR List Fail:Field not found in row: final_allotmentno
+2020-11-03 17:15:22.7377 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:15:34.1555 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:17:30.7899 INFO Get RR List Success
+2020-11-03 17:17:30.8019 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:18:12.1781 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:18:14.5450 INFO Get RR List Success
+2020-11-03 17:18:14.5450 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:19:39.3287 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:19:39.3287 INFO Get RR List Success
+2020-11-03 17:19:39.3287 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:19:51.1374 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:19:51.1402 INFO Get RR List Success
+2020-11-03 17:19:51.1402 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:20:21.8876 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:20:21.8898 INFO Get RR List Success
+2020-11-03 17:20:21.8898 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:20:49.9685 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:20:49.9685 INFO Get RR List Success
+2020-11-03 17:20:49.9685 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:21:17.3764 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:21:17.3764 INFO Get RR List Success
+2020-11-03 17:21:17.3764 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:21:56.8602 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:21:56.8602 INFO Get RR List Success
+2020-11-03 17:21:56.8602 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:22:24.1946 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:22:24.1946 INFO Get RR List Success
+2020-11-03 17:22:24.1946 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:23:17.2285 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:23:17.2285 INFO Get RR List Success
+2020-11-03 17:23:17.2402 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:24:24.2908 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:24:24.2908 INFO Get RR List Success
+2020-11-03 17:24:24.3029 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:25:25.5721 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:25:25.5721 INFO Get RR List Success
+2020-11-03 17:25:25.5835 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:25:53.8345 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:25:53.8345 INFO Get RR List Success
+2020-11-03 17:25:53.8450 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:26:12.3187 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:26:12.3187 INFO Get RR List Success
+2020-11-03 17:26:12.3290 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:26:30.5998 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:26:30.5998 INFO Get RR List Success
+2020-11-03 17:26:30.6105 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:26:41.5043 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:26:41.5043 INFO Get RR List Success
+2020-11-03 17:26:41.5147 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:39.4991 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:41.6681 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:41.6751 INFO Get RR List Success
+2020-11-03 17:27:41.7171 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:42.9749 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:42.9749 INFO Get RR List Success
+2020-11-03 17:27:42.9869 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:59.4096 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:27:59.4096 INFO Get RR List Success
+2020-11-03 17:27:59.4203 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:28:26.2998 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:28:26.2998 INFO Get RR List Success
+2020-11-03 17:28:26.2998 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:28:37.8066 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:28:37.8066 INFO Get RR List Success
+2020-11-03 17:28:37.8177 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:28:55.7338 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:28:55.7338 INFO Get RR List Success
+2020-11-03 17:28:55.7338 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:07.0393 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:07.0393 INFO Get RR List Success
+2020-11-03 17:29:07.0503 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:10.7301 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:10.7301 INFO Get RR List Success
+2020-11-03 17:29:10.7352 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:10.9287 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:10.9287 INFO Get RR List Success
+2020-11-03 17:29:10.9287 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:11.0993 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:11.0993 INFO Get RR List Success
+2020-11-03 17:29:11.0993 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:20.2311 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:20.2331 INFO Get RR List Success
+2020-11-03 17:29:20.2331 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:38.0648 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:29:38.0648 INFO Get RR List Success
+2020-11-03 17:29:38.0817 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:33:12.1216 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:33:12.1240 INFO Get RR List Success
+2020-11-03 17:35:33.6126 INFO Get RR List Success
+2020-11-03 17:35:36.6749 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:35:52.8155 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:36:03.6234 INFO Get RR List Success
+2020-11-03 17:36:03.6234 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:36:23.3999 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:36:23.3999 INFO Get RR List Success
+2020-11-03 17:36:23.4099 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:36:59.4928 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:36:59.4928 INFO Get RR List Success
+2020-11-03 17:36:59.5031 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:40:54.6082 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:40:54.6082 INFO Get RR List Success
+2020-11-03 17:40:54.6082 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:41:42.0651 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:41:42.0651 INFO Get RR List Success
+2020-11-03 17:41:42.0764 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:42:09.6699 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:42:09.6721 INFO Get RR List Success
+2020-11-03 17:42:09.6721 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:32.0968 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:34.5951 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:34.5951 INFO Get RR List Success
+2020-11-03 17:48:34.6430 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:36.3070 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:36.3070 INFO Get RR List Success
+2020-11-03 17:48:36.3120 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:41.4049 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:41.4049 INFO Get Indent List Success
+2020-11-03 17:48:41.4207 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:44.5890 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:44.5923 INFO Get RR List Success
+2020-11-03 17:48:44.5923 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:45.8068 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:45.8068 INFO Get RR List Success
+2020-11-03 17:48:45.8118 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:46.7860 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:46.7860 INFO Get Indent List Success
+2020-11-03 17:48:46.7860 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:48.7503 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:48.7503 INFO Get Indent List Success
+2020-11-03 17:48:48.7931 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:48.7974 INFO Get Allotment List Success
+2020-11-03 17:48:48.7974 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:50.9040 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:48:50.9071 INFO Get RR List Success
+2020-11-03 17:48:50.9071 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:50:55.5146 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:51:20.3665 INFO Get RR List Success
+2020-11-03 17:51:20.3760 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:52:07.5020 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:52:08.9790 INFO Get RR List Success
+2020-11-03 17:52:08.9891 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:52:42.6215 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:52:45.2229 INFO Get RR List Success
+2020-11-03 17:52:45.2229 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:52:58.9220 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:52:58.9220 INFO Get RR List Success
+2020-11-03 17:52:58.9220 INFO Get RR No Sucess:2
+2020-11-03 17:52:58.9359 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:02.0434 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:02.0454 INFO Get RR List Success
+2020-11-03 17:53:02.0454 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:03.2504 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:03.2504 INFO Get RR List Success
+2020-11-03 17:53:03.2504 INFO Get RR No Sucess:2
+2020-11-03 17:53:03.2504 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:05.3619 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:05.3619 INFO Get RR List Success
+2020-11-03 17:53:05.3619 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:06.1470 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:06.1470 INFO Get RR List Success
+2020-11-03 17:53:06.1550 INFO Get RR No Sucess:2
+2020-11-03 17:53:06.1550 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:10.1991 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:53:10.2022 INFO Get RR List Success
+2020-11-03 17:53:10.2022 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:54:21.8608 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:54:21.8608 INFO Get RR List Success
+2020-11-03 17:54:21.8608 INFO Get RR No Sucess:2
+2020-11-03 17:57:10.3480 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:12.8340 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:12.8423 INFO Get RR List Success
+2020-11-03 17:57:12.8842 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:14.8017 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:14.8017 INFO Get RR List Success
+2020-11-03 17:57:14.8125 INFO Get RR No Sucess:2
+2020-11-03 17:57:14.8125 INFO Get RR List Success
+2020-11-03 17:57:14.8266 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:31.0033 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:31.0033 INFO Get RR List Success
+2020-11-03 17:57:31.0144 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:34.6183 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:34.6183 INFO Get RR List Success
+2020-11-03 17:57:34.6232 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:35.5873 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:57:35.5873 INFO Get RR List Success
+2020-11-03 17:57:35.5873 INFO Get RR No Sucess:2
+2020-11-03 17:57:35.5932 INFO Get RR List Success
+2020-11-03 17:57:35.5932 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:58:15.7789 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:58:15.7819 INFO Get RR List Success
+2020-11-03 17:58:15.7819 INFO Get RR No Sucess:2
+2020-11-03 17:58:15.7819 INFO Get RR List Success
+2020-11-03 17:58:15.7819 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:58:58.6233 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:58:58.6233 INFO Get RR List Success
+2020-11-03 17:58:58.6233 INFO Get RR No Sucess:2
+2020-11-03 17:58:58.6233 INFO Get RR List Success
+2020-11-03 17:59:10.1627 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:59:13.2913 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:59:13.2913 INFO Get RR List Success
+2020-11-03 17:59:13.2958 INFO Get RR No Sucess:2
+2020-11-03 17:59:13.2958 INFO Get RR List Success
+2020-11-03 17:59:13.2958 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:59:40.5303 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 17:59:40.5303 INFO Get RR List Success
+2020-11-03 17:59:40.5303 INFO Get RR No Sucess:2
+2020-11-03 17:59:40.5303 INFO Get RR List Success
+2020-11-03 17:59:40.5303 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:02.1629 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:02.1629 INFO Get RR List Success
+2020-11-03 18:00:02.1709 INFO Get RR No Sucess:2
+2020-11-03 18:00:02.1709 INFO Get RR List Success
+2020-11-03 18:00:02.1709 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:24.8439 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:24.8439 INFO Get RR List Success
+2020-11-03 18:00:24.8439 INFO Get RR No Sucess:2
+2020-11-03 18:00:24.8439 INFO Get RR List Success
+2020-11-03 18:00:24.8439 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:26.7393 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:26.7393 INFO Get RR List Success
+2020-11-03 18:00:26.7393 INFO Get RR No Sucess:2
+2020-11-03 18:00:26.7393 INFO Get RR List Success
+2020-11-03 18:00:26.7393 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:26.9403 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:26.9403 INFO Get RR List Success
+2020-11-03 18:00:26.9403 INFO Get RR No Sucess:2
+2020-11-03 18:00:26.9403 INFO Get RR List Success
+2020-11-03 18:00:26.9403 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:27.1328 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:27.1497 INFO Get RR List Success
+2020-11-03 18:00:27.1497 INFO Get RR No Sucess:2
+2020-11-03 18:00:27.1497 INFO Get RR List Success
+2020-11-03 18:00:27.1567 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:27.3098 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:27.3118 INFO Get RR List Success
+2020-11-03 18:00:27.3118 INFO Get RR No Sucess:2
+2020-11-03 18:00:27.3268 INFO Get RR List Success
+2020-11-03 18:00:27.3268 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:57.0374 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:00:57.0374 INFO Get RR List Success
+2020-11-03 18:00:57.0374 INFO Get RR No Sucess:2
+2020-11-03 18:00:57.0374 INFO Get RR List Success
+2020-11-03 18:00:57.0524 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:19.1100 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:19.1100 INFO Get RR List Success
+2020-11-03 18:01:19.1100 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:40.3250 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:40.3272 INFO Get RR List Success
+2020-11-03 18:01:40.3272 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:44.8725 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:44.8753 INFO Get RR List Success
+2020-11-03 18:01:44.8753 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:45.9838 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:01:45.9838 INFO Get RR List Success
+2020-11-03 18:01:45.9838 INFO Get RR No Sucess:2
+2020-11-03 18:01:45.9838 INFO Get RR List Success
+2020-11-03 18:01:45.9838 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:04.6821 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:04.6821 INFO Get RR List Success
+2020-11-03 18:02:04.6861 INFO Get RR No Sucess:2
+2020-11-03 18:02:04.6861 INFO Get RR List Success
+2020-11-03 18:02:04.6861 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:08.6344 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:08.6344 INFO Get RR List Success
+2020-11-03 18:02:08.6454 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:40.7769 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:40.7794 INFO Get RR List Success
+2020-11-03 18:02:40.7794 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:42.4980 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:42.4999 INFO Get RR List Success
+2020-11-03 18:02:42.4999 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:42.7064 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:42.7064 INFO Get RR List Success
+2020-11-03 18:02:42.7064 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:42.8810 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:42.8810 INFO Get RR List Success
+2020-11-03 18:02:42.8949 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:43.0675 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:43.0675 INFO Get RR List Success
+2020-11-03 18:02:43.0675 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:43.2330 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:02:43.2330 INFO Get RR List Success
+2020-11-03 18:02:43.2500 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:04.1226 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:04.1250 INFO Get RR List Success
+2020-11-03 18:03:04.1250 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:24.8452 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:24.8452 INFO Get RR List Success
+2020-11-03 18:03:24.8452 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:35.8193 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:35.8193 INFO Get RR List Success
+2020-11-03 18:03:35.8298 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:59.8729 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:03:59.8751 INFO Get RR List Success
+2020-11-03 18:03:59.8751 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:18.2712 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:18.2712 INFO Get RR List Success
+2020-11-03 18:04:18.2823 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:20.5138 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:20.5138 INFO Get RR List Success
+2020-11-03 18:04:20.5138 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:20.7066 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:20.7066 INFO Get RR List Success
+2020-11-03 18:04:20.7066 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:20.8742 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:20.8742 INFO Get RR List Success
+2020-11-03 18:04:20.8742 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:21.0577 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:21.0577 INFO Get RR List Success
+2020-11-03 18:04:21.0617 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:21.2192 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:21.2192 INFO Get RR List Success
+2020-11-03 18:04:21.2192 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:21.3938 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:21.3938 INFO Get RR List Success
+2020-11-03 18:04:21.3938 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:38.7545 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:38.7545 INFO Get RR List Success
+2020-11-03 18:04:38.7661 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.4334 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.4334 INFO Get RR List Success
+2020-11-03 18:04:40.4384 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.6110 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.6110 INFO Get RR List Success
+2020-11-03 18:04:40.6110 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.8064 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.8064 INFO Get RR List Success
+2020-11-03 18:04:40.8194 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.9492 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:40.9532 INFO Get RR List Success
+2020-11-03 18:04:40.9532 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.1218 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.1258 INFO Get RR List Success
+2020-11-03 18:04:41.1258 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.2804 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.2804 INFO Get RR List Success
+2020-11-03 18:04:41.2804 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.4609 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.4609 INFO Get RR List Success
+2020-11-03 18:04:41.4609 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.6085 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:04:41.6085 INFO Get RR List Success
+2020-11-03 18:04:41.6085 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:07:38.2767 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:07:40.5529 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:07:40.5529 INFO Get RR List Success
+2020-11-03 18:07:40.6010 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:07:41.8543 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:07:41.8543 INFO Get RR List Success
+2020-11-03 18:07:41.8663 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:08:17.4880 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:08:17.4880 INFO Get RR List Success
+2020-11-03 18:08:17.4987 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:08:37.9592 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:08:37.9592 INFO Get RR List Success
+2020-11-03 18:08:37.9714 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:31.0711 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:31.0711 INFO Get RR List Success
+2020-11-03 18:09:31.0826 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:32.7542 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:32.7542 INFO Get RR List Success
+2020-11-03 18:09:32.7542 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:32.9447 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:32.9447 INFO Get RR List Success
+2020-11-03 18:09:32.9447 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:33.1262 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:33.1262 INFO Get RR List Success
+2020-11-03 18:09:33.1262 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:33.2968 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:33.2968 INFO Get RR List Success
+2020-11-03 18:09:33.2968 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:33.4644 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:33.4644 INFO Get RR List Success
+2020-11-03 18:09:33.4704 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:35.1556 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:35.1556 INFO Get RR List Success
+2020-11-03 18:09:35.1556 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:35.6084 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:35.6084 INFO Get RR List Success
+2020-11-03 18:09:35.6084 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:38.1395 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:38.1395 INFO Get RR List Success
+2020-11-03 18:09:38.1395 INFO Get RR No Sucess:2
+2020-11-03 18:09:38.1395 INFO Get RR List Success
+2020-11-03 18:09:38.1584 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:40.0285 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:40.0335 INFO Get RR List Success
+2020-11-03 18:09:40.0335 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:41.0843 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:09:41.0843 INFO Get RR List Success
+2020-11-03 18:09:41.0843 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:10:22.8439 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:10:22.8439 INFO Get RR List Success
+2020-11-03 18:10:22.8439 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:13:21.4622 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:13:21.4622 INFO Get RR List Success
+2020-11-03 18:13:21.4732 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:13:44.8830 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:13:44.8830 INFO Get RR List Success
+2020-11-03 18:13:44.8930 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:13:56.1039 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:13:56.1074 INFO Get RR List Success
+2020-11-03 18:13:56.1289 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:14:05.8925 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:14:05.8925 INFO Get RR List Success
+2020-11-03 18:14:05.8925 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:14:07.6109 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:14:07.6109 INFO Get RR List Success
+2020-11-03 18:14:07.6109 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:17.6260 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:17.6260 INFO Get RR List Success
+2020-11-03 18:15:17.6260 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:36.9523 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:36.9523 INFO Get RR List Success
+2020-11-03 18:15:36.9523 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:48.7238 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:48.7238 INFO Get RR List Success
+2020-11-03 18:15:48.7348 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:59.2899 INFO Get User Success :18-Harinagar Distillery
+2020-11-03 18:15:59.2899 INFO Get RR List Success
+2020-11-03 18:15:59.3008 INFO Get User Success :18-Harinagar Distillery

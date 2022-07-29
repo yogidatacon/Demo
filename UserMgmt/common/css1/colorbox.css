@@ -1,0 +1,404 @@
+/*
+    ColorBox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+.cboxPhoto{float:left; margin:auto; border:0; display:block; max-width:none;}
+.cboxIframe{width:100%; height:100%; display:block; border:0;}
+#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box;}
+
+/* 
+    User Style:
+    Change the following styles to modify the appearance of ColorBox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay{background:#000;}
+#colorbox{}
+    #cboxTopLeft{width:14px; height:14px; background:url(../img/controls.png) no-repeat 0 0;}
+    #cboxTopCenter{height:14px; background:url(../img/border.png) repeat-x top left;}
+    #cboxTopRight{width:14px; height:14px; background:url(../img/controls.png) no-repeat -36px 0;}
+    #cboxBottomLeft{width:14px; height:43px; background:url(../img/controls.png) no-repeat 0 -32px;}
+    #cboxBottomCenter{height:43px; background:url(../img/border.png) repeat-x bottom left;}
+    #cboxBottomRight{width:14px; height:43px; background:url(../img/controls.png) no-repeat -36px -32px;}
+    #cboxMiddleLeft{width:14px; background:url(../img/controls.png) repeat-y -175px 0;}
+    #cboxMiddleRight{width:14px; background:url(../img/controls.png) repeat-y -211px 0;}
+    #cboxContent{background:#fff; overflow:visible;}
+        .cboxIframe{background:#fff;}
+        #cboxError{padding:50px; border:1px solid #ccc;}
+        #cboxLoadedContent{margin-bottom:5px;}
+        #cboxLoadingOverlay{background:url(../img/loading_background.png) no-repeat center center;}
+        #cboxLoadingGraphic{background:url(../img/loading.gif) no-repeat center center;}
+        #cboxTitle{position:absolute; bottom:-25px; left:0; text-align:center; width:100%; font-weight:bold; color:#7C7C7C;}
+        #cboxCurrent{position:absolute; bottom:-25px; left:58px; font-weight:bold; color:#7C7C7C;}
+        
+        #cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{position:absolute; bottom:-29px; background:url(../img/controls.png) no-repeat 0px 0px; width:23px; height:23px; text-indent:-9999px;}
+        #cboxPrevious{left:0px; background-position: -51px -25px;}
+        #cboxPrevious:hover{background-position:-51px 0px;}
+        #cboxNext{left:27px; background-position:-75px -25px;}
+        #cboxNext:hover{background-position:-75px 0px;}
+        #cboxClose{right:0; background-position:-100px -25px;}
+        #cboxClose:hover{background-position:-100px 0px;}
+        
+        .cboxSlideshow_on #cboxSlideshow{background-position:-125px 0px; right:27px;}
+        .cboxSlideshow_on #cboxSlideshow:hover{background-position:-150px 0px;}
+        .cboxSlideshow_off #cboxSlideshow{background-position:-150px -25px; right:27px;}
+        .cboxSlideshow_off #cboxSlideshow:hover{background-position:-125px 0px;}
+
+        
+        .button
+    {        
+        display: inline-block;
+        white-space: nowrap;
+        background-color: #ddd;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ccc));
+        background-image: -webkit-linear-gradient(top, #eee, #ccc);
+        background-image: -moz-linear-gradient(top, #eee, #ccc);
+        background-image: -ms-linear-gradient(top, #eee, #ccc);
+        background-image: -o-linear-gradient(top, #eee, #ccc);
+        background-image: linear-gradient(top, #eee, #ccc);
+        border: 1px solid #777;
+        padding: 0 1.5em;
+        margin: 0.5em;
+        font: bold 1em/2em Arial, Helvetica;
+        text-decoration: none;
+        color: #333;
+        text-shadow: 0 1px 0 rgba(255,255,255,.8);
+        -moz-border-radius: .2em;
+        -webkit-border-radius: .2em;
+        border-radius: .2em;
+        -moz-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.3);
+        -webkit-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.3);
+        box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.3);
+    }
+    
+    .button:hover
+    {
+        background-color: #eee;        
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#fafafa), to(#ddd));
+        background-image: -webkit-linear-gradient(top, #fafafa, #ddd);
+        background-image: -moz-linear-gradient(top, #fafafa, #ddd);
+        background-image: -ms-linear-gradient(top, #fafafa, #ddd);
+        background-image: -o-linear-gradient(top, #fafafa, #ddd);
+        background-image: linear-gradient(top, #fafafa, #ddd);
+    }
+    
+    .button:active
+    {
+        -moz-box-shadow: 0 0 4px 2px rgba(0,0,0,.3) inset;
+        -webkit-box-shadow: 0 0 4px 2px rgba(0,0,0,.3) inset;
+        box-shadow: 0 0 4px 2px rgba(0,0,0,.3) inset;
+        position: relative;
+        top: 1px;
+    }
+    
+    .button:focus
+    {
+        outline: 0;
+        background: #fafafa;
+    }    
+    
+    .button:before
+    {
+        background: #ccc;
+        background: rgba(0,0,0,.1);
+        float: left;        
+        width: 1em;
+        text-align: center;
+        font-size: 1.5em;
+        margin: 0 1em 0 -1em;
+        padding: 0 .2em;
+        -moz-box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+        -webkit-box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+        box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+        -moz-border-radius: .15em 0 0 .15em;
+        -webkit-border-radius: .15em 0 0 .15em;
+        border-radius: .15em 0 0 .15em;     
+        pointer-events: none;		
+    }
+    .button ul{
+        display: inline-block;
+    }
+    
+	
+	/* Buttons and inputs */
+	
+	button.button, input.button 
+	{ 
+		cursor: pointer;
+		overflow: visible; /* removes extra side spacing in IE */
+	}
+	
+	/* removes extra inner spacing in Firefox */
+	button::-moz-focus-inner 
+	{
+	  border: 0;
+	  padding: 0;
+	}
+        
+        /* If line-height can't be modified, then fix Firefox spacing with padding */
+	 input::-moz-focus-inner 
+	{
+	  padding: .4em;
+	}
+
+	/* The disabled styles */
+	.button[disabled], .button[disabled]:hover, .button.disabled, .button.disabled:hover 
+	{
+		background: #eee;
+		color: #aaa;
+		border-color: #aaa;
+		cursor: default;
+		text-shadow: none;
+		position: static;
+		-moz-box-shadow: none;
+		-webkit-box-shadow: none;
+		box-shadow: none;		
+	}
+    
+    /* Hexadecimal entities for the icons */
+    
+    .add:before
+    {
+        content: "\271A";
+    }
+    
+    .edit:before
+    {
+        content: "\270E";        
+    }
+    
+    .delete:before
+    {
+        content: "\2718";        
+    }
+    
+    .save:before
+    {
+        content: "\2714";        
+    }
+    
+    .email:before
+    {
+        content: "\2709";        
+    }
+    
+    .like:before
+    {
+        content: "\2764";        
+    }
+    
+    .next:before
+    {
+        content: "\279C";
+    }
+    
+    .star:before
+    {
+        content: "\2605";
+    }
+    
+    .spark:before
+    {
+        content: "\2737";
+    }
+    
+    .play:before
+    {
+        content: "\25B6";
+    }
+
+
+	/* Social media buttons */	
+	.tw, .fb,
+	.tw:hover, .fb:hover
+	{
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.5)), to(rgba(255,255,255,0)));
+        background-image: -webkit-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+        background-image: -moz-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+        background-image: -ms-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+        background-image: -o-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+        background-image: linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+	}
+
+	.tw, .tw:focus
+	{
+	  background-color: #88E1E6;
+	}
+	
+	.fb, .fb:focus
+	{
+	  background-color: #3C5A98;
+	  color: #fff;	  
+	  text-shadow: 0 1px 0 rgba(0,0,0,.4);		
+	}
+
+	.tw:hover
+	{
+	  background-color: #b1f0f3;
+	}
+	
+	.fb:hover
+	{
+	  background-color: #879bc3; 
+	}
+	
+    .tw:before
+    {
+        content: "t";
+        background: #91cfd3;
+        background: rgba(0,0,0,.1);		
+		color: #fff;
+		font-family: verdana;
+		text-shadow: 0 1px 0 rgba(0,0,0,.4);
+    }
+    
+    .fb:before
+    {
+        content: "f";
+        background: #4467ac;
+        background: rgba(0,0,0,.1);		
+		color: #fff;	
+		text-shadow: 0 1px 0 rgba(0,0,0,.4);
+    }
+    
+    
+    #Hr-13 {
+position:relative;
+list-style:none;
+margin:3px;
+padding:0;
+float:left;
+}
+#Hr-13 li {
+margin:0;
+padding:0;
+float:left;
+}
+#Hr-13 li .deactive {
+display:inline;
+float:left;
+margin:0;
+padding:11px 14px;
+width:auto;
+padding:auto;
+text-decoration:none;
+text-align:center;
+text-transform:capitalize;
+font-size:12px;
+
+font-style:normal;
+color:#EFEFEF;
+font-weight:bold;
+background:#2c2c2c;
+border-right:1px solid #7B5812;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #0074cc), color-stop(100%, grey));
+background:-webkit-linear-gradient(#64676e 0%, grey 100%);
+background:-moz-linear-gradient(#0074cc 0%, grey 100%);
+background:-o-linear-gradient(top, #0074cc 0%, grey 50%, grey 100%);
+background:-ms-linear-gradient(top, #0074cc 0%, grey 50%, grey 100%);
+background:linear-gradient(#0074cc 0%, grey 100%);
+text-shadow: 0 1px 1px grey;
+}
+#Hr-13 li a:hover,#Hr-13 li a:focus {
+-webkit-box-shadow:inset 0px 64px 0px 0px #604714;
+-moz-box-shadow:inset 0px 64px 0px 0px #604714;
+box-shadow:inset 0px 64px 0px 0px #604714;
+-moz-transition:all .3s ease-in-out;
+-webkit-transition:all .3s ease-in-out;
+-o-transition:all .3s ease-in-out;
+transition:all .3s ease-in-out;
+}
+#Hr-13 li .active{
+display:inline;
+float:left;
+margin:0;
+padding:11px 14px;
+width:auto;
+padding:auto;
+text-decoration:none;
+text-align:center;
+text-transform:capitalize;
+font-size:12px;
+font-style:normal;
+color:#EFEFEF;
+background-color: #cc6600;
+font-weight:bold;
+background:#cc6600;
+border-right:1px solid #7B5812;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #0074cc), color-stop(100%, #709400));
+background:-webkit-linear-gradient(#64676e 0%, #709400 100%);
+background:-moz-linear-gradient(#0074cc 0%, #709400 100%);
+background:-o-linear-gradient(top, #0074cc 0%, grey 50%, #709400 100%);
+background:-ms-linear-gradient(top, #0074cc 0%, grey 50%, #709400 100%);
+background:linear-gradient(#0074cc 0%, #709400 100%);
+text-shadow: 0 1px 1px #709400;
+}
+#Hr-13 li:last-child a {
+border-right:none;
+}
+
+label.error {
+    color: #FB3A3A;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.successalert{   
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+border: 1px solid;
+margin: 5px 0px;
+padding:5px 10px 5px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;color: #4F8A10;
+background-color: #DFF2BF;
+background-image:url('success.png');
+}
+
+.mandatory{   
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+float: right;
+color: #AA0000;
+}
+
+.gridtable{
+    border: 1px solid #dddddd;
+  border-collapse: collapse;
+    width: 100%;
+    overflow:scroll;
+}
+
+.gridtable .theader{
+  
+	font-weight: bold;
+  	border:1px solid grey;
+  	color:#353F3E;
+  	background-color:#EDEDED;
+  	text-align:center;
+}
+
+
+#blanket {
+   background-color:#111;
+   opacity: 0.65;
+   position:absolute;
+   z-index: 9001; /*ooveeerrrr nine thoussaaaannnd*/
+   top:0px;
+   left:0px;
+   width:100%;
+}
+#popUpDiv {
+	position:absolute;
+	background-color:white;
+	width:1000px;
+	height:auto;
+	z-index: 9002; /*ooveeerrrr nine thoussaaaannnd*/
+}

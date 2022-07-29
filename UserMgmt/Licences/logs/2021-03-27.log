@@ -1,0 +1,43 @@
+2021-03-27 12:23:41.1099 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:23:41.2188 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:23:41.7564 INFO Get User Success :hodyco
+2021-03-27 12:23:55.8276 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:29:19.2752 INFO Get User Success :hodyco
+2021-03-27 12:29:23.6020 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:30:48.9584 INFO Get RR List Success
+2021-03-27 12:31:50.6819 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-27 12:38:23.1123 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-27 12:38:59.8669 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:39:02.5318 INFO Get User Success :hodyco
+2021-03-27 12:39:05.4031 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:39:07.5406 INFO Get RR List Success
+2021-03-27 12:40:10.8479 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-27 12:40:21.0674 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:40:23.0604 INFO Get User Success :hodyco
+2021-03-27 12:40:32.2453 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:40:35.2695 INFO Get RR List Success
+2021-03-27 12:44:08.6634 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:44:13.0274 INFO Get User Success :hodyco
+2021-03-27 12:44:16.1795 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:44:58.6375 INFO Get RR List Success
+2021-03-27 12:46:34.7711 INFO Get RR List Success
+2021-03-27 12:51:09.6081 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-27 12:51:10.4269 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:51:10.7008 INFO Get RR List Success
+2021-03-27 12:51:13.3154 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-03-27 12:51:18.6618 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:51:21.3882 INFO Get User Success :hodyco
+2021-03-27 12:52:30.8032 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 12:53:04.5653 INFO Get RR List Success
+2021-03-27 13:01:18.8659 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 13:01:20.8827 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 13:01:21.4385 INFO Get User Success :hodyco
+2021-03-27 13:01:51.3191 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 13:01:56.1956 INFO Get User Success :hodyco
+2021-03-27 13:02:02.1524 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 13:02:04.0467 INFO Get RR List Success
+2021-03-27 13:02:21.2171 INFO Get NOC Details Success
+2021-03-27 13:02:29.3298 INFO Get NOC Details Success
+2021-03-27 13:02:29.3328 INFO Get User Success :100-Deputy Commissioner
+2021-03-27 13:02:29.3328 INFO Get Balance Request Pass Success
+2021-03-27 13:02:30.5903 INFO Get User Success :hodyco

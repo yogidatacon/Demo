@@ -1,0 +1,1247 @@
+2020-10-12 10:15:52.8670 INFO Get User Success :41-Administrator
+2020-10-12 10:16:01.0856 INFO Get User Success :41-Administrator
+2020-10-12 10:16:02.5710 INFO Get User Success :41-Administrator
+2020-10-12 10:16:02.6253 INFO Get User Success :41-Administrator
+2020-10-12 10:16:05.7776 INFO Get User Success :41-Administrator
+2020-10-12 10:16:08.1253 INFO Get User Success :41-Administrator
+2020-10-12 10:16:08.1315 INFO Get VAT Master List Success
+2020-10-12 10:16:08.1315 INFO Get User Success :41-Administrator
+2020-10-12 10:17:49.2571 INFO Get User Success :41-Administrator
+2020-10-12 10:17:49.2571 INFO Get VAT Master List Success
+2020-10-12 10:17:49.2571 INFO Get User Success :41-Administrator
+2020-10-12 10:18:57.8742 INFO Get User Success :41-Administrator
+2020-10-12 10:18:57.8742 INFO Get VAT Master List Success
+2020-10-12 10:18:57.8807 INFO Get User Success :41-Administrator
+2020-10-12 10:20:29.5063 INFO Get User Success :41-Administrator
+2020-10-12 10:20:29.5063 INFO Get VAT Master List Success
+2020-10-12 10:20:29.5063 INFO Get User Success :41-Administrator
+2020-10-12 10:21:50.4722 INFO Get User Success :41-Administrator
+2020-10-12 10:21:50.4763 INFO Get VAT Master List Success
+2020-10-12 10:21:50.4763 INFO Get User Success :41-Administrator
+2020-10-12 10:22:12.5633 INFO Get User Success :41-Administrator
+2020-10-12 10:22:12.5673 INFO Get VAT Master List Success
+2020-10-12 10:22:12.5673 INFO Get User Success :41-Administrator
+2020-10-12 10:22:47.3696 INFO Get User Success :41-Administrator
+2020-10-12 10:22:47.3696 INFO Get VAT Master List Success
+2020-10-12 10:22:47.3696 INFO Get User Success :41-Administrator
+2020-10-12 10:23:20.6932 INFO Get User Success :41-Administrator
+2020-10-12 10:23:20.6932 INFO Get VAT Master List Success
+2020-10-12 10:23:20.6932 INFO Get User Success :41-Administrator
+2020-10-12 10:23:40.6750 INFO Get User Success :41-Administrator
+2020-10-12 10:28:01.0370 INFO Get User Success :41-Administrator
+2020-10-12 10:28:08.3577 INFO Get User Success :41-Administrator
+2020-10-12 10:28:10.0073 INFO Get User Success :41-Administrator
+2020-10-12 10:28:10.0508 INFO Get User Success :41-Administrator
+2020-10-12 10:28:11.6388 INFO Get User Success :41-Administrator
+2020-10-12 10:28:12.6988 INFO Get User Success :41-Administrator
+2020-10-12 10:28:12.6988 INFO Get VAT Master List Success
+2020-10-12 10:28:12.7098 INFO Get User Success :41-Administrator
+2020-10-12 10:28:26.5256 INFO Get User Success :41-Administrator
+2020-10-12 10:28:26.5540 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:28:33.5266 INFO Get User Success :41-Administrator
+2020-10-12 10:28:33.5398 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:30:36.0632 INFO Get User Success :41-Administrator
+2020-10-12 10:30:40.9774 INFO Get User Success :41-Administrator
+2020-10-12 10:30:42.5493 INFO Get User Success :41-Administrator
+2020-10-12 10:30:45.8059 INFO Get User Success :41-Administrator
+2020-10-12 10:30:47.2573 INFO Get User Success :41-Administrator
+2020-10-12 10:30:50.4821 INFO Get User Success :41-Administrator
+2020-10-12 10:30:50.4883 INFO Get VAT Master List Success
+2020-10-12 10:30:50.4883 INFO Get User Success :41-Administrator
+2020-10-12 10:31:02.3281 INFO Get User Success :41-Administrator
+2020-10-12 10:31:02.3540 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:31:14.2505 INFO Get User Success :41-Administrator
+2020-10-12 10:31:14.2644 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:38:55.3969 INFO Get User Success :41-Administrator
+2020-10-12 10:38:59.6781 INFO Get User Success :41-Administrator
+2020-10-12 10:39:01.0228 INFO Get User Success :41-Administrator
+2020-10-12 10:39:05.4016 INFO Get User Success :41-Administrator
+2020-10-12 10:39:06.9500 INFO Get User Success :41-Administrator
+2020-10-12 10:39:06.9907 INFO Get User Success :41-Administrator
+2020-10-12 10:39:06.9907 INFO Get VAT Master List Success
+2020-10-12 10:39:06.9907 INFO Get User Success :41-Administrator
+2020-10-12 10:39:19.5602 INFO Get User Success :41-Administrator
+2020-10-12 10:39:19.5852 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:40:12.5118 INFO Get User Success :41-Administrator
+2020-10-12 10:40:12.5248 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:40:58.5016 INFO Get User Success :41-Administrator
+2020-10-12 10:40:58.5137 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:41:10.0608 INFO Get User Success :41-Administrator
+2020-10-12 10:41:10.0728 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:41:27.7531 INFO Get User Success :41-Administrator
+2020-10-12 10:41:27.7670 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:41:35.0679 INFO Get User Success :41-Administrator
+2020-10-12 10:41:35.0828 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:42:19.6734 INFO Get User Success :41-Administrator
+2020-10-12 10:42:19.6887 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:42:57.6364 INFO Get User Success :41-Administrator
+2020-10-12 10:42:57.6514 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:46:57.8876 INFO Get User Success :41-Administrator
+2020-10-12 10:46:57.9014 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:47:01.8545 INFO Get User Success :41-Administrator
+2020-10-12 10:47:01.8694 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:47:20.3600 INFO Get User Success :41-Administrator
+2020-10-12 10:47:20.3734 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:57:22.3362 INFO Get User Success :41-Administrator
+2020-10-12 10:57:26.1768 INFO Get User Success :41-Administrator
+2020-10-12 10:57:28.3186 INFO Get User Success :41-Administrator
+2020-10-12 10:57:31.9060 INFO Get User Success :41-Administrator
+2020-10-12 10:57:34.6544 INFO Get User Success :41-Administrator
+2020-10-12 10:57:35.6183 INFO Get User Success :41-Administrator
+2020-10-12 10:57:35.6183 INFO Get VAT Master List Success
+2020-10-12 10:57:35.6183 INFO Get User Success :41-Administrator
+2020-10-12 10:57:54.8326 INFO Get User Success :41-Administrator
+2020-10-12 10:57:54.8585 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:58:42.7699 INFO Get User Success :41-Administrator
+2020-10-12 10:58:42.7699 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 10:59:00.5782 INFO Get User Success :41-Administrator
+2020-10-12 10:59:00.5908 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 11:00:06.7861 INFO Get User Success :41-Administrator
+2020-10-12 11:00:06.7861 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 11:01:12.5736 INFO Get User Success :41-Administrator
+2020-10-12 11:01:12.5886 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 11:01:20.2234 INFO Get User Success :41-Administrator
+2020-10-12 11:01:20.2234 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 11:03:28.4656 INFO Get VAT Master List Success
+2020-10-12 11:03:43.6339 INFO Insert Party Master Success : -  - 42601: syntax error at or near "("
+2020-10-12 11:05:52.1560 INFO Insert Party Master Success :1-7
+2020-10-12 11:08:55.9686 INFO Get Form84 List Success
+2020-10-12 11:08:58.8314 INFO Get VAT Master List Fail :42703: column a.vat_code does not exist
+2020-10-12 11:08:58.8374 INFO Get VAT Master List Success
+2020-10-12 12:13:43.4825 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:13:47.3129 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:13:48.8098 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:13:49.8255 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:14:20.6275 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:14:24.6472 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:14:24.6472 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:16:11.2941 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:16:12.4617 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:16:12.4617 INFO Get VAT Master List Success
+2020-10-12 12:16:12.4617 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:16:51.7216 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:17:53.5493 INFO Get VAT Master List Success
+2020-10-12 12:17:53.5523 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:18:34.0961 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:18:38.2236 INFO Get VAT Master List Success
+2020-10-12 12:18:38.2236 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:18:57.6475 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:19:05.2519 INFO Get VAT Master List Success
+2020-10-12 12:19:56.9926 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:21:13.7259 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:21:16.3855 INFO Get VAT Master List Success
+2020-10-12 12:21:16.3855 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:30.3872 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:30.3872 INFO Get VAT Master List Success
+2020-10-12 12:22:30.3872 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:35.1636 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:35.6530 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:41.2046 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:42.5738 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:53.3493 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:59.0394 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:22:59.0394 INFO Get VAT Master List Success
+2020-10-12 12:22:59.0394 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:23:12.5978 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:23:14.4387 INFO Get VAT Master List Success
+2020-10-12 12:24:18.8118 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:25:07.3106 INFO Insert Party Master Success :7-7
+2020-10-12 12:25:07.3535 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:27:44.3383 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:40:55.2424 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:40:58.4876 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:41:33.8025 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:42:03.0645 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:42:50.6267 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:42:50.6355 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:52:47.6687 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:52:53.3435 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:52:58.7223 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:52:58.7223 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:53:52.0817 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:53:52.0817 INFO Get VAT Master List Success
+2020-10-12 12:53:52.0817 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:54:21.5917 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 12:54:21.5917 INFO Get VAT Master List Success
+2020-10-12 12:55:43.0631 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:01:04.2299 INFO Insert Party Master Success :7-
+2020-10-12 13:01:40.0476 INFO Insert Party Master Success :7-
+2020-10-12 13:02:18.9928 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:02:22.3495 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:02:25.2893 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:02:26.5416 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:02:48.9689 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:02:51.7546 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:02:51.7546 INFO Get VAT Master List Success
+2020-10-12 13:03:32.2929 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:03:32.8255 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:03:32.8255 INFO Get VAT Master List Success
+2020-10-12 13:03:32.8325 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:06:05.2929 INFO Update vat_transfer Success :7-7-2
+2020-10-12 13:06:12.3025 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:06:12.3025 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:06:34.7284 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:06:34.7284 INFO Get VAT Master List Success
+2020-10-12 13:06:34.7284 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:07:50.2454 INFO Update vat_transfer Success :7 - -2 - 23503: insert or update on table "vat_transfer" violates foreign key constraint "fk_to_vat_master"
+2020-10-12 13:08:48.0416 INFO Update vat_transfer Success :7 - -2 - 23503: insert or update on table "vat_transfer" violates foreign key constraint "fk_to_vat_master"
+2020-10-12 13:10:16.9697 INFO Update vat_transfer Success :9-9-2
+2020-10-12 13:10:16.9926 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:16.9926 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:37.4705 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:37.4748 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:48.5229 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:50.0775 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:51.2498 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:10:51.2538 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:11:23.1635 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:11:23.1635 INFO Get VAT Master List Success
+2020-10-12 13:15:13.4629 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:16:09.1544 INFO Update vat_transfer Success :9 - -2 - 23503: insert or update on table "vat_transfer" violates foreign key constraint "fk_to_vat_master"
+2020-10-12 13:16:22.2102 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:16:23.6118 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:16:24.5243 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:16:52.6151 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:16:57.2791 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:16:57.2791 INFO Get VAT Master List Success
+2020-10-12 13:16:58.1729 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:29.2477 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:29.2477 INFO Get VAT Master List Success
+2020-10-12 13:17:32.3825 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:32.9276 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:34.8758 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:34.8798 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:36.3890 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:36.3890 INFO Get VAT Master List Success
+2020-10-12 13:17:36.3950 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:57.9088 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:17:57.9114 INFO Get VAT Master List Success
+2020-10-12 13:18:50.1094 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:18:53.0124 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:18:53.0124 INFO Get VAT Master List Success
+2020-10-12 13:18:53.0194 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:18:58.2864 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:18:59.4129 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:18:59.4129 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:00.9219 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:00.9219 INFO Get VAT Master List Success
+2020-10-12 13:19:00.9279 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:09.7514 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:09.7536 INFO Get VAT Master List Success
+2020-10-12 13:19:09.7536 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:17.7957 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:17.7957 INFO Get VAT Master List Success
+2020-10-12 13:19:17.8027 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:38.3056 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:38.3056 INFO Get VAT Master List Success
+2020-10-12 13:19:38.3056 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:45.9747 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:46.9246 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:46.9286 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:48.4209 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:48.4209 INFO Get VAT Master List Success
+2020-10-12 13:19:48.4279 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:53.4253 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:53.4286 INFO Get VAT Master List Success
+2020-10-12 13:19:53.4286 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:54.6753 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:54.6772 INFO Get VAT Master List Success
+2020-10-12 13:19:54.6772 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:55.6001 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:55.6001 INFO Get VAT Master List Success
+2020-10-12 13:19:55.6001 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:57.0590 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:57.0590 INFO Get VAT Master List Success
+2020-10-12 13:19:57.0590 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:57.7606 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:57.7606 INFO Get VAT Master List Success
+2020-10-12 13:19:57.7724 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:58.3669 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:58.3669 INFO Get VAT Master List Success
+2020-10-12 13:19:58.3669 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:59.1077 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:19:59.1077 INFO Get VAT Master List Success
+2020-10-12 13:19:59.1137 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:20:06.1154 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:20:06.1154 INFO Get VAT Master List Success
+2020-10-12 13:20:06.1154 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:20:48.4015 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:20:48.4015 INFO Get VAT Master List Success
+2020-10-12 13:20:48.4015 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:20:54.1472 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:20:54.1472 INFO Get VAT Master List Success
+2020-10-12 13:20:54.1472 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:14.9684 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:14.9684 INFO Get VAT Master List Success
+2020-10-12 13:21:14.9772 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:23.3480 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:23.3480 INFO Get VAT Master List Success
+2020-10-12 13:21:23.3480 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:40.3785 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:40.3812 INFO Get VAT Master List Success
+2020-10-12 13:21:40.3812 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:48.4758 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:21:48.4758 INFO Get VAT Master List Success
+2020-10-12 13:21:48.4758 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:22:16.2209 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:22:16.2229 INFO Get VAT Master List Success
+2020-10-12 13:22:56.2468 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:23:49.1096 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:23:49.1096 INFO Get VAT Master List Success
+2020-10-12 13:24:12.8388 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:18.1963 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:18.1963 INFO Get VAT Master List Success
+2020-10-12 13:24:18.1963 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:19.5158 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:19.5158 INFO Get VAT Master List Success
+2020-10-12 13:24:19.5230 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.2195 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.2195 INFO Get VAT Master List Success
+2020-10-12 13:24:20.2255 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.4419 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.4419 INFO Get VAT Master List Success
+2020-10-12 13:24:20.4419 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.6413 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.6413 INFO Get VAT Master List Success
+2020-10-12 13:24:20.6473 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.8426 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:20.8426 INFO Get VAT Master List Success
+2020-10-12 13:24:20.8525 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:21.0101 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:24:21.0101 INFO Get VAT Master List Success
+2020-10-12 13:24:21.0101 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:25:00.2914 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:25:00.2914 INFO Get VAT Master List Success
+2020-10-12 13:25:00.2914 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:25:06.2815 INFO Update vat_transfer Success :9-9-2
+2020-10-12 13:25:06.3049 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:25:06.3049 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:25:08.3398 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:25:08.3398 INFO Get VAT Master List Success
+2020-10-12 13:25:08.3398 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:29:18.8134 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:29:22.6295 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:29:30.3533 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:29:30.3654 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:29:33.2431 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:29:33.2431 INFO Get VAT Master List Success
+2020-10-12 13:29:33.2547 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:49:34.7919 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:49:46.6293 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:49:51.1467 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:49:54.7102 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:49:54.7234 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:49:57.5492 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:49:57.5550 INFO Get VAT Master List Success
+2020-10-12 13:49:57.5550 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:50:24.3795 INFO vat_transfer  Approved By Bond Officer Sucess:2
+2020-10-12 13:50:24.4271 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:50:24.4271 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:50:43.6188 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:50:58.3028 INFO Get User Success :19-Harinagar Bond Officer
+2020-10-12 13:51:08.0696 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:51:10.7600 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:51:12.1982 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:51:22.6999 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:52:19.5423 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:52:22.1771 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:52:24.6944 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:52:24.6944 INFO Get VAT Master List Success
+2020-10-12 13:52:48.1136 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:52:48.1136 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:06.2468 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:06.2468 INFO Get VAT Master List Success
+2020-10-12 13:54:15.5301 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:15.5301 INFO Get VAT Master List Success
+2020-10-12 13:54:29.3577 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:29.3778 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:31.0115 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:32.2006 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:54:32.2006 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:21.0960 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:22.2163 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:22.2163 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:28.0594 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:28.0594 INFO Get VAT Master List Success
+2020-10-12 13:55:28.0704 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:49.7044 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:55:49.7073 INFO Get VAT Master List Success
+2020-10-12 13:56:14.1591 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:56:21.5296 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:56:21.5366 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:56:23.1437 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:56:23.1457 INFO Get VAT Master List Success
+2020-10-12 13:56:26.1374 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:56:53.6743 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 13:56:53.6782 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:42:44.9460 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:42:48.9402 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:42:55.2124 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:42:55.2247 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:44:04.3075 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:44:38.6820 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:44:39.6810 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:44:39.6810 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:47:21.3472 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:47:42.0752 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:47:44.4609 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:47:48.6349 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:47:52.9277 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:47:52.9277 INFO Get VAT Master List Success
+2020-10-12 14:47:52.9277 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:49:35.6421 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:49:35.6447 INFO Get VAT Master List Success
+2020-10-12 14:49:35.6447 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:50:02.1149 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:50:02.1149 INFO Get VAT Master List Success
+2020-10-12 14:50:02.1149 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:50:04.4497 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:50:04.4497 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:50:06.5415 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:50:06.5415 INFO Get VAT Master List Success
+2020-10-12 14:50:06.5415 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:51:06.9836 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:51:06.9836 INFO Get VAT Master List Success
+2020-10-12 14:51:06.9893 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:05.0146 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:11.3016 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:13.4311 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:16.2032 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:16.2082 INFO Get VAT Master List Success
+2020-10-12 14:52:16.2082 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:19.1441 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:19.1461 INFO Get VAT Master List Success
+2020-10-12 14:52:19.1461 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:21.0427 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:21.0427 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:23.9251 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:23.9291 INFO Get Form84 List Success
+2020-10-12 14:52:23.9291 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:25.4785 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:25.4785 INFO Get VAT Master List Success
+2020-10-12 14:52:25.4785 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:26.8585 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:29.0877 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:52:32.9507 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:17.0254 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:28.0351 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:29.7497 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:30.8503 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:32.3908 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:32.3908 INFO Get Form84 List Success
+2020-10-12 14:53:32.3958 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:33.2708 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:49.9847 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:52.7816 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:56.2996 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:57.5359 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:58.7459 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:53:58.7579 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:00.1313 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:00.1313 INFO Get VAT Master List Success
+2020-10-12 14:54:00.1313 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:37.4558 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:37.4588 INFO Get VAT Master List Success
+2020-10-12 14:54:37.4588 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:43.4044 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:43.4044 INFO Get VAT Master List Success
+2020-10-12 14:54:43.4044 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:48.5926 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:54:48.5926 INFO Get VAT Master List Success
+2020-10-12 14:54:48.5976 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:56:19.1806 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:56:19.1806 INFO Get VAT Master List Success
+2020-10-12 14:56:19.1806 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:56:31.5846 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:56:31.5846 INFO Get VAT Master List Success
+2020-10-12 14:56:31.5846 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:58:44.3905 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:58:56.9739 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:01.3595 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:01.3719 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:05.3069 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:05.3069 INFO Get VAT Master List Success
+2020-10-12 14:59:05.3311 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:07.3353 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:07.3353 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:08.1781 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 14:59:08.1781 INFO Get VAT Master List Success
+2020-10-12 14:59:08.1781 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:00:33.0365 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:00:54.6658 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:00:57.0055 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:00:57.0055 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:01:01.4637 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:01:01.4637 INFO Get VAT Master List Success
+2020-10-12 15:01:01.4728 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:02:15.6721 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:02:19.5009 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:02:25.3802 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:02:25.3991 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:02:28.3001 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:02:28.3045 INFO Get VAT Master List Success
+2020-10-12 15:02:28.3045 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:04:44.9529 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:04:44.9529 INFO Get VAT Master List Success
+2020-10-12 15:04:44.9581 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:38.4765 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:38.4765 INFO Get VAT Master List Success
+2020-10-12 15:07:38.4765 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:42.2520 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:44.0430 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:44.0430 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:50.9434 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:07:50.9434 INFO Get VAT Master List Success
+2020-10-12 15:07:50.9434 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:08:01.0508 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:08:01.0508 INFO Get VAT Master List Success
+2020-10-12 15:08:01.0508 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:08:01.9151 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:08:02.4925 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:08:06.6643 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:08:08.1654 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:09:38.7330 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:09:44.0185 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:09:49.9864 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:09:49.9992 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:09:52.3797 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:09:52.3797 INFO Get VAT Master List Success
+2020-10-12 15:09:52.3797 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:12:50.2118 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:12:50.2118 INFO Get VAT Master List Success
+2020-10-12 15:12:50.2118 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:12:57.9788 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:12:59.0795 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:12:59.0835 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:13:00.5147 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:13:00.5147 INFO Get VAT Master List Success
+2020-10-12 15:13:00.5206 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:14:21.9569 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:14:21.9569 INFO Get VAT Master List Success
+2020-10-12 15:14:21.9569 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:33.3445 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:33.3445 INFO Get VAT Master List Success
+2020-10-12 15:18:33.3495 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:36.6155 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:36.6155 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:37.5598 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:37.5668 INFO Get VAT Master List Success
+2020-10-12 15:18:37.5668 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:41.1475 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:41.1475 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:43.6137 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:43.6137 INFO Get VAT Master List Success
+2020-10-12 15:18:43.6137 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:43.9826 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:43.9826 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:44.8038 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:44.8038 INFO Get VAT Master List Success
+2020-10-12 15:18:44.8038 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:47.7562 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:48.6697 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:50.8550 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:50.8550 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:52.2364 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:18:52.2384 INFO Get VAT Master List Success
+2020-10-12 15:18:52.2384 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:03.1505 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:03.1505 INFO Get VAT Master List Success
+2020-10-12 15:19:03.1505 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:05.4860 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:05.4910 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:06.4790 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:06.4790 INFO Get VAT Master List Success
+2020-10-12 15:19:06.4929 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:14.4466 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:14.4466 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:16.3897 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:16.3897 INFO Get VAT Master List Success
+2020-10-12 15:19:16.4026 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:18.1774 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:18.1774 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:18.8452 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:18.8452 INFO Get VAT Master List Success
+2020-10-12 15:19:18.8493 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:22.0913 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:22.0913 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:23.1097 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:19:23.1097 INFO Get VAT Master List Success
+2020-10-12 15:19:23.1167 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:25.8884 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:25.8884 INFO Get VAT Master List Success
+2020-10-12 15:20:25.8981 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:29.5559 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:29.5559 INFO Get VAT Master List Success
+2020-10-12 15:20:29.5559 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:35.4557 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:35.4589 INFO Get VAT Master List Success
+2020-10-12 15:20:35.4589 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:41.0224 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:41.0224 INFO Get VAT Master List Success
+2020-10-12 15:20:41.0224 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:45.7879 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:45.7879 INFO Get VAT Master List Success
+2020-10-12 15:20:45.7879 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:46.7339 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:46.7339 INFO Get VAT Master List Success
+2020-10-12 15:20:46.7419 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:47.5560 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:47.5560 INFO Get VAT Master List Success
+2020-10-12 15:20:47.5560 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:48.3187 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:48.3187 INFO Get VAT Master List Success
+2020-10-12 15:20:48.3187 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:49.1336 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:49.1336 INFO Get VAT Master List Success
+2020-10-12 15:20:49.1336 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:49.8576 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:49.8576 INFO Get VAT Master List Success
+2020-10-12 15:20:49.8665 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:50.6640 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:50.6640 INFO Get VAT Master List Success
+2020-10-12 15:20:50.6759 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:51.4379 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:51.4379 INFO Get VAT Master List Success
+2020-10-12 15:20:51.4449 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:52.2056 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:20:52.2076 INFO Get VAT Master List Success
+2020-10-12 15:20:52.2076 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:21:36.9826 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:21:36.9826 INFO Get VAT Master List Success
+2020-10-12 15:21:36.9931 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:21:44.3969 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:21:44.3969 INFO Get VAT Master List Success
+2020-10-12 15:21:44.3969 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:21.2144 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:21.2144 INFO Get VAT Master List Success
+2020-10-12 15:22:21.2144 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:32.0140 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:32.0140 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:33.6076 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:33.6076 INFO Get VAT Master List Success
+2020-10-12 15:22:33.6076 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:36.7776 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:36.7776 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:39.9023 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:22:39.9023 INFO Get VAT Master List Success
+2020-10-12 15:22:39.9111 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:23:59.7041 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:23:59.7071 INFO Get VAT Master List Success
+2020-10-12 15:23:59.7071 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:01.9349 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:01.9349 INFO Get VAT Master List Success
+2020-10-12 15:24:01.9435 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:02.7299 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:02.7299 INFO Get VAT Master List Success
+2020-10-12 15:24:02.7388 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:03.2076 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:03.2076 INFO Get VAT Master List Success
+2020-10-12 15:24:03.2076 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:05.8167 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:05.8167 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:07.8554 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:24:07.8554 INFO Get VAT Master List Success
+2020-10-12 15:24:07.8554 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:15.8303 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:15.8330 INFO Get VAT Master List Success
+2020-10-12 15:25:15.8330 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:25.9466 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:25.9466 INFO Get VAT Master List Success
+2020-10-12 15:25:25.9605 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:42.9339 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:42.9339 INFO Get VAT Master List Success
+2020-10-12 15:25:42.9416 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:48.3542 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:48.3542 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:49.3398 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:49.3398 INFO Get VAT Master List Success
+2020-10-12 15:25:49.3398 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:51.7237 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:51.7237 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:52.7025 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:52.7025 INFO Get VAT Master List Success
+2020-10-12 15:25:52.7107 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:57.2195 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:57.2298 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:57.8932 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:57.8962 INFO Get VAT Master List Success
+2020-10-12 15:25:57.8962 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:25:59.6355 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:00.5962 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:01.3965 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:01.3965 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:02.0667 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:02.0667 INFO Get VAT Master List Success
+2020-10-12 15:26:02.0667 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:07.2379 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:07.2379 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:08.1591 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:08.1610 INFO Get VAT Master List Success
+2020-10-12 15:26:08.1610 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:09.6699 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:09.6858 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:11.5484 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:26:11.5484 INFO Get VAT Master List Success
+2020-10-12 15:26:11.5574 INFO Get User Success :18-Harinagar Distillery
+2020-10-12 15:35:12.1667 INFO Get State List Success
+2020-10-12 15:35:16.9986 INFO Get State List Success
+2020-10-12 15:35:18.3378 INFO Get Division List Success
+2020-10-12 15:35:20.5149 INFO Get State List Success
+2020-10-12 15:43:17.1973 INFO Get User Success :41-Administrator
+2020-10-12 15:43:20.7931 INFO Org Get List Success
+2020-10-12 15:43:20.8015 INFO Get User Success :41-Administrator
+2020-10-12 15:43:26.3990 INFO Module Get List Success
+2020-10-12 15:43:26.3990 INFO Get User Success :41-Administrator
+2020-10-12 15:43:29.4503 INFO Module Get List Success
+2020-10-12 15:43:51.5642 INFO Module Get List Success
+2020-10-12 16:11:48.3388 INFO Module Get List Success
+2020-10-12 16:11:50.6895 INFO Module Get List Success
+2020-10-12 16:11:52.4121 INFO Module Get List Success
+2020-10-12 16:11:54.3706 INFO Module Get List Success
+2020-10-12 16:11:57.4175 INFO Module Get List Success
+2020-10-12 16:11:59.6655 INFO Module Get List Success
+2020-10-12 16:12:01.9684 INFO Module Get List Success
+2020-10-12 16:17:48.2471 INFO Module Get List Success
+2020-10-12 16:18:06.9270 INFO Module Get List Success
+2020-10-12 16:18:30.6691 INFO Module Get List Success
+2020-10-12 16:18:34.2342 INFO Module Get List Success
+2020-10-12 16:18:43.8661 INFO Module Get List Success
+2020-10-12 16:19:07.8983 INFO Module Get List Success
+2020-10-12 16:19:07.9115 INFO Get User Success :41-Administrator
+2020-10-12 16:19:15.3591 INFO Module Get List Success
+2020-10-12 16:19:36.4498 INFO Module Get List Success
+2020-10-12 16:19:40.3131 INFO Module Get List Success
+2020-10-12 16:20:18.3183 INFO Module Get List Success
+2020-10-12 16:20:22.8322 INFO Module Get List Success
+2020-10-12 16:20:54.0291 INFO Module Get List Success
+2020-10-12 16:21:44.6682 INFO Module Get List Success
+2020-10-12 16:21:49.0662 INFO Module Get List Success
+2020-10-12 16:22:26.8492 INFO Module Get List Success
+2020-10-12 16:23:01.8438 INFO Module Get List Success
+2020-10-12 16:23:54.1523 INFO Module Get List Success
+2020-10-12 16:23:58.0129 INFO Module Get List Success
+2020-10-12 16:24:00.7039 INFO Module Get List Success
+2020-10-12 16:24:11.7527 INFO Module Get List Success
+2020-10-12 16:26:16.5514 INFO Module Get List Success
+2020-10-12 16:26:38.3934 INFO Module Get List Success
+2020-10-12 16:26:46.2763 INFO Module Get List Success
+2020-10-12 16:26:56.8158 INFO Module Get List Success
+2020-10-12 16:28:14.1996 INFO Module Get List Success
+2020-10-12 16:29:18.7408 INFO Module Get List Success
+2020-10-12 16:29:35.4522 INFO Module Get List Success
+2020-10-12 16:35:19.4126 INFO Get User Success :41-Administrator
+2020-10-12 16:35:27.2220 INFO Org Get List Success
+2020-10-12 16:35:27.2368 INFO Get User Success :41-Administrator
+2020-10-12 16:35:30.6323 INFO Get SubModule Sucess
+2020-10-12 16:35:30.6323 INFO Get User Success :41-Administrator
+2020-10-12 16:35:31.8683 INFO Module Get List Success
+2020-10-12 16:35:31.8801 INFO Get User Success :41-Administrator
+2020-10-12 16:35:34.8120 INFO Module Get List Success
+2020-10-12 16:36:04.7576 INFO Get SubModule Sucess
+2020-10-12 16:36:04.7576 INFO Get User Success :41-Administrator
+2020-10-12 16:36:06.7043 INFO Get SubModule Sucess
+2020-10-12 16:36:14.0713 INFO Get SubModule Sucess
+2020-10-12 16:36:16.3223 INFO Get TabNames List Success
+2020-10-12 16:36:16.3223 INFO Get User Success :41-Administrator
+2020-10-12 16:41:53.9961 INFO Get TabNames List Success
+2020-10-12 16:41:54.0049 INFO Get User Success :41-Administrator
+2020-10-12 16:42:03.0577 INFO Get State List Success
+2020-10-12 16:42:03.0577 INFO Get User Success :41-Administrator
+2020-10-12 16:42:06.8651 INFO Get Division List Success
+2020-10-12 16:42:06.8651 INFO Get User Success :41-Administrator
+2020-10-12 16:42:09.0910 INFO Get User Success :41-Administrator
+2020-10-12 16:42:12.9353 INFO Get Role Level List Success
+2020-10-12 16:42:12.9414 INFO Get User Success :41-Administrator
+2020-10-12 16:42:13.7370 INFO Get access_type List Success
+2020-10-12 16:42:13.7430 INFO Get User Success :41-Administrator
+2020-10-12 16:42:15.4865 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-12 16:42:15.4965 INFO Get User Success :41-Administrator
+2020-10-12 16:42:20.9762 INFO Get RolePermissions List Success
+2020-10-12 16:42:20.9762 INFO Get User Success :41-Administrator
+2020-10-12 16:42:22.6181 INFO Get Users List Success
+2020-10-12 16:42:22.6181 INFO Get User Success :41-Administrator
+2020-10-12 16:42:24.8511 INFO Get Users List Success
+2020-10-12 16:42:26.7837 INFO Get Users List Success
+2020-10-12 16:42:28.7051 INFO Get Users List Success
+2020-10-12 16:42:30.4983 INFO Get Users List Success
+2020-10-12 16:42:32.7003 INFO Get Users List Success
+2020-10-12 16:42:35.1446 INFO Get Users List Success
+2020-10-12 16:42:39.1054 INFO Get Users List Success
+2020-10-12 16:42:43.5354 INFO Get Users List Success
+2020-10-12 16:42:53.8889 INFO Get Users List Success
+2020-10-12 16:42:58.5517 INFO Get Users List Success
+2020-10-12 16:43:08.0021 INFO Get Users List Success
+2020-10-12 16:43:11.3948 INFO Get Users List Success
+2020-10-12 16:43:14.1198 INFO Get Users List Success
+2020-10-12 16:43:17.1675 INFO Get Users List Success
+2020-10-12 16:43:23.4583 INFO Get Users List Success
+2020-10-12 16:43:42.5150 INFO Get WorkFlow List Success
+2020-10-12 16:43:42.5218 INFO Get User Success :41-Administrator
+2020-10-12 16:43:49.4531 INFO Get Party Type Master List Success
+2020-10-12 16:43:49.4620 INFO Get User Success :41-Administrator
+2020-10-12 16:43:50.7992 INFO Get Party Master List Success
+2020-10-12 16:43:50.8070 INFO Get User Success :41-Administrator
+2020-10-12 16:43:53.0990 INFO Get Product Type Master List Success
+2020-10-12 16:43:53.0990 INFO Get User Success :41-Administrator
+2020-10-12 16:43:56.5478 INFO Get Product Master List Success
+2020-10-12 16:43:56.5557 INFO Get User Success :41-Administrator
+2020-10-12 16:43:57.5491 INFO Get UOM List Success
+2020-10-12 16:43:57.5551 INFO Get User Success :41-Administrator
+2020-10-12 16:43:58.2668 INFO Get User Success :41-Administrator
+2020-10-12 16:43:59.6743 INFO Get VAT Type Master List Success
+2020-10-12 16:43:59.6792 INFO Get User Success :41-Administrator
+2020-10-12 16:43:59.9784 INFO Get User Success :41-Administrator
+2020-10-12 16:44:00.4154 INFO Get User Success :41-Administrator
+2020-10-12 16:44:06.8588 INFO Get Party Type Master List Success
+2020-10-12 16:44:06.8588 INFO Get UOM List Success
+2020-10-12 16:44:06.8588 INFO Get Product Type Master List Success
+2020-10-12 16:44:06.8639 INFO Get VAT Type Master List Success
+2020-10-12 16:44:06.8639 INFO Get User Success :41-Administrator
+2020-10-12 16:44:10.3632 INFO Get VAT Type Master List Success
+2020-10-12 16:44:10.3632 INFO Get User Success :41-Administrator
+2020-10-12 16:44:13.9852 INFO Get User Success :41-Administrator
+2020-10-12 16:47:36.9601 INFO Get VAT Master List Success
+2020-10-12 16:47:39.8361 INFO Get User Success :41-Administrator
+2020-10-12 16:47:45.6387 INFO Get VAT Master List Success
+2020-10-12 16:47:47.1471 INFO Get VAT Master List Success
+2020-10-12 16:47:53.5579 INFO Get Party Type Master List Success
+2020-10-12 16:47:53.5579 INFO Get UOM List Success
+2020-10-12 16:47:53.5579 INFO Get Product Type Master List Success
+2020-10-12 16:47:53.5579 INFO Get VAT Type Master List Success
+2020-10-12 16:47:53.5828 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:47:53.5828 INFO Get Party Master List Success
+2020-10-12 16:47:53.5828 INFO Get Product Master List Success
+2020-10-12 16:47:53.5828 INFO Get User Success :41-Administrator
+2020-10-12 16:47:56.0988 INFO Get VAT Master List Success
+2020-10-12 16:47:56.0988 INFO Get User Success :41-Administrator
+2020-10-12 16:47:57.2435 INFO Get Party Type Master List Success
+2020-10-12 16:47:57.2435 INFO Get UOM List Success
+2020-10-12 16:47:57.2435 INFO Get Product Type Master List Success
+2020-10-12 16:47:57.2435 INFO Get VAT Type Master List Success
+2020-10-12 16:47:57.2631 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:47:57.2631 INFO Get Party Master List Success
+2020-10-12 16:47:57.2631 INFO Get Product Master List Success
+2020-10-12 16:47:57.2631 INFO Get User Success :41-Administrator
+2020-10-12 16:47:59.4182 INFO Get VAT Master List Success
+2020-10-12 16:47:59.4182 INFO Get User Success :41-Administrator
+2020-10-12 16:48:00.4677 INFO Get Party Type Master List Success
+2020-10-12 16:48:00.4677 INFO Get UOM List Success
+2020-10-12 16:48:00.4677 INFO Get Product Type Master List Success
+2020-10-12 16:48:00.4727 INFO Get VAT Type Master List Success
+2020-10-12 16:48:00.4887 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:48:00.4887 INFO Get Party Master List Success
+2020-10-12 16:48:00.4887 INFO Get Product Master List Success
+2020-10-12 16:48:00.4887 INFO Get User Success :41-Administrator
+2020-10-12 16:48:18.1060 INFO Get Party Type Master List Success
+2020-10-12 16:48:18.1060 INFO Get UOM List Success
+2020-10-12 16:48:18.1060 INFO Get Product Type Master List Success
+2020-10-12 16:48:18.1060 INFO Get VAT Type Master List Success
+2020-10-12 16:49:24.8628 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:49:24.8647 INFO Get Party Master List Success
+2020-10-12 16:49:24.8647 INFO Get Product Master List Success
+2020-10-12 16:49:24.8647 INFO Get User Success :41-Administrator
+2020-10-12 16:49:31.5171 INFO Get Party Type Master List Success
+2020-10-12 16:49:31.5171 INFO Get UOM List Success
+2020-10-12 16:49:31.5198 INFO Get Product Type Master List Success
+2020-10-12 16:49:31.5198 INFO Get VAT Type Master List Success
+2020-10-12 16:50:09.9070 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:09.9070 INFO Get Party Master List Success
+2020-10-12 16:50:09.9111 INFO Get Product Master List Success
+2020-10-12 16:50:09.9111 INFO Get User Success :41-Administrator
+2020-10-12 16:50:17.7954 INFO Get Party Type Master List Success
+2020-10-12 16:50:17.7954 INFO Get UOM List Success
+2020-10-12 16:50:17.7954 INFO Get Product Type Master List Success
+2020-10-12 16:50:17.7954 INFO Get VAT Type Master List Success
+2020-10-12 16:50:36.3599 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:36.3599 INFO Get Party Master List Success
+2020-10-12 16:50:36.3638 INFO Get Product Master List Success
+2020-10-12 16:50:36.3638 INFO Get User Success :41-Administrator
+2020-10-12 16:50:39.3370 INFO Get VAT Master List Success
+2020-10-12 16:50:39.3370 INFO Get User Success :41-Administrator
+2020-10-12 16:50:40.9049 INFO Get Party Type Master List Success
+2020-10-12 16:50:40.9049 INFO Get UOM List Success
+2020-10-12 16:50:40.9049 INFO Get Product Type Master List Success
+2020-10-12 16:50:40.9099 INFO Get VAT Type Master List Success
+2020-10-12 16:50:43.8728 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:43.8728 INFO Get Party Master List Success
+2020-10-12 16:50:43.8728 INFO Get Product Master List Success
+2020-10-12 16:50:43.8728 INFO Get User Success :41-Administrator
+2020-10-12 16:50:46.7348 INFO Get VAT Master List Success
+2020-10-12 16:50:46.7388 INFO Get User Success :41-Administrator
+2020-10-12 16:50:48.3369 INFO Get Party Type Master List Success
+2020-10-12 16:50:48.3369 INFO Get UOM List Success
+2020-10-12 16:50:48.3479 INFO Get Product Type Master List Success
+2020-10-12 16:50:48.3479 INFO Get VAT Type Master List Success
+2020-10-12 16:50:48.3648 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:48.3648 INFO Get Party Master List Success
+2020-10-12 16:50:48.3648 INFO Get Product Master List Success
+2020-10-12 16:50:48.3648 INFO Get User Success :41-Administrator
+2020-10-12 16:50:50.2960 INFO Get VAT Master List Success
+2020-10-12 16:50:50.3020 INFO Get User Success :41-Administrator
+2020-10-12 16:50:51.8656 INFO Get Party Type Master List Success
+2020-10-12 16:50:51.8656 INFO Get UOM List Success
+2020-10-12 16:50:51.8656 INFO Get Product Type Master List Success
+2020-10-12 16:50:51.8656 INFO Get VAT Type Master List Success
+2020-10-12 16:50:51.8865 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:51.8865 INFO Get Party Master List Success
+2020-10-12 16:50:51.8865 INFO Get Product Master List Success
+2020-10-12 16:50:51.8865 INFO Get User Success :41-Administrator
+2020-10-12 16:50:54.4466 INFO Get VAT Master List Success
+2020-10-12 16:50:54.4466 INFO Get User Success :41-Administrator
+2020-10-12 16:50:56.2697 INFO Get Party Type Master List Success
+2020-10-12 16:50:56.2697 INFO Get UOM List Success
+2020-10-12 16:50:56.2697 INFO Get Product Type Master List Success
+2020-10-12 16:50:56.2697 INFO Get VAT Type Master List Success
+2020-10-12 16:50:56.2896 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:56.2896 INFO Get Party Master List Success
+2020-10-12 16:50:56.2896 INFO Get Product Master List Success
+2020-10-12 16:50:56.3006 INFO Get User Success :41-Administrator
+2020-10-12 16:50:58.1066 INFO Get VAT Master List Success
+2020-10-12 16:50:58.1066 INFO Get User Success :41-Administrator
+2020-10-12 16:50:59.1228 INFO Get Party Type Master List Success
+2020-10-12 16:50:59.1228 INFO Get UOM List Success
+2020-10-12 16:50:59.1228 INFO Get Product Type Master List Success
+2020-10-12 16:50:59.1228 INFO Get VAT Type Master List Success
+2020-10-12 16:50:59.1427 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:50:59.1447 INFO Get Party Master List Success
+2020-10-12 16:50:59.1447 INFO Get Product Master List Success
+2020-10-12 16:50:59.1447 INFO Get User Success :41-Administrator
+2020-10-12 16:51:00.3318 INFO Get VAT Master List Success
+2020-10-12 16:51:00.3318 INFO Get User Success :41-Administrator
+2020-10-12 16:51:01.1506 INFO Get Party Type Master List Success
+2020-10-12 16:51:01.1506 INFO Get UOM List Success
+2020-10-12 16:51:01.1506 INFO Get Product Type Master List Success
+2020-10-12 16:51:01.1506 INFO Get VAT Type Master List Success
+2020-10-12 16:51:01.1705 INFO Get VAT Details Fail :Field not found in row: party_name
+2020-10-12 16:51:01.1705 INFO Get Party Master List Success
+2020-10-12 16:51:01.1705 INFO Get Product Master List Success
+2020-10-12 16:51:01.1764 INFO Get User Success :41-Administrator
+2020-10-12 16:51:53.7550 INFO Get VAT Master List Success
+2020-10-12 16:51:53.7550 INFO Get User Success :41-Administrator
+2020-10-12 16:52:04.0687 INFO Sugarcanepurchase Get List Success
+2020-10-12 16:52:04.0687 INFO Get User Success :41-Administrator
+2020-10-12 16:52:04.0827 INFO Get User Success :41-Administrator
+2020-10-12 16:52:11.9102 INFO Get User Success :41-Administrator
+2020-10-12 16:52:11.9102 INFO Get User Success :41-Administrator
+2020-10-12 16:52:15.7199 INFO Sugarcanepurchase Get List Success
+2020-10-12 16:52:15.7229 INFO Get User Success :41-Administrator
+2020-10-12 16:52:15.7229 INFO Get User Success :41-Administrator
+2020-10-12 16:52:16.8050 INFO Get User Success :41-Administrator
+2020-10-12 16:52:16.8050 INFO Get User Success :41-Administrator
+2020-10-12 16:52:19.0802 INFO Get User Success :41-Administrator
+2020-10-12 16:52:19.1079 INFO Get User Success :41-Administrator
+2020-10-12 16:52:23.9550 INFO Get User Success :41-Administrator
+2020-10-12 16:52:23.9610 INFO Get User Success :41-Administrator
+2020-10-12 16:52:25.3697 INFO Get User Success :41-Administrator
+2020-10-12 16:52:25.3697 INFO Get User Success :41-Administrator
+2020-10-12 16:53:05.5005 INFO Get User Success :41-Administrator
+2020-10-12 16:53:05.5065 INFO Get User Success :41-Administrator
+2020-10-12 16:53:07.0300 INFO Get User Success :41-Administrator
+2020-10-12 16:53:08.3283 INFO Get User Success :41-Administrator
+2020-10-12 16:53:08.3373 INFO Get User Success :41-Administrator
+2020-10-12 16:53:10.9321 INFO Get User Success :41-Administrator
+2020-10-12 16:53:11.9876 INFO Sugarcanepurchase Get List Success
+2020-10-12 16:53:11.9906 INFO Get User Success :41-Administrator
+2020-10-12 16:53:11.9906 INFO Get User Success :41-Administrator
+2020-10-12 16:53:17.1318 INFO Get User Success :41-Administrator
+2020-10-12 16:53:17.1318 INFO Get User Success :41-Administrator
+2020-10-12 16:53:17.7794 INFO Get User Success :41-Administrator
+2020-10-12 16:53:18.1819 INFO Get User Success :41-Administrator
+2020-10-12 16:53:18.1819 INFO Get User Success :41-Administrator
+2020-10-12 16:53:20.8838 INFO Get User Success :41-Administrator
+2020-10-12 16:53:20.8838 INFO Get User Success :41-Administrator
+2020-10-12 17:00:25.6311 INFO Get User Success :41-Administrator
+2020-10-12 17:00:31.8812 INFO Org Get List Success
+2020-10-12 17:00:31.8812 INFO Get User Success :41-Administrator
+2020-10-12 17:00:34.2400 INFO Get SubModule Sucess
+2020-10-12 17:00:34.2400 INFO Get User Success :41-Administrator
+2020-10-12 17:00:41.5151 INFO Module Get List Success
+2020-10-12 17:00:41.5250 INFO Get User Success :41-Administrator
+2020-10-12 17:01:13.8684 INFO Module Get List Success
+2020-10-12 17:01:13.8684 INFO Get User Success :41-Administrator
+2020-10-12 17:01:19.3821 INFO Get SubModule Sucess
+2020-10-12 17:01:19.3821 INFO Get User Success :41-Administrator
+2020-10-12 17:01:25.3194 INFO Org Get List Success
+2020-10-12 17:01:25.3194 INFO Get User Success :41-Administrator
+2020-10-12 17:01:59.9647 INFO Org Get List Success
+2020-10-12 17:01:59.9647 INFO Get User Success :41-Administrator
+2020-10-12 17:02:01.5880 INFO Module Get List Success
+2020-10-12 17:02:05.5853 INFO Module Get List Success
+2020-10-12 17:02:08.9786 INFO Module Get List Success
+2020-10-12 17:02:11.9462 INFO Module Get List Success
+2020-10-12 17:02:27.5324 INFO Module Get List Success
+2020-10-12 17:02:46.2163 INFO Module Get List Success
+2020-10-12 17:02:49.4932 INFO Module Get List Success
+2020-10-12 17:02:53.4022 INFO Module Get List Success
+2020-10-12 17:02:56.2769 INFO Module Get List Success
+2020-10-12 17:02:58.6437 INFO Module Get List Success
+2020-10-12 17:03:02.1136 INFO Get TabNames List Success
+2020-10-12 17:03:02.1136 INFO Get User Success :41-Administrator
+2020-10-12 17:03:06.3341 INFO Org Get List Success
+2020-10-12 17:03:06.3341 INFO Module Get List Success
+2020-10-12 17:03:06.3341 INFO Get User Success :41-Administrator
+2020-10-12 17:16:09.0991 INFO Get User Success :41-Administrator
+2020-10-12 17:16:13.1548 INFO Org Get List Success
+2020-10-12 17:16:13.1643 INFO Get User Success :41-Administrator
+2020-10-12 17:16:18.0394 INFO Get SubModule Sucess
+2020-10-12 17:16:18.0394 INFO Get User Success :41-Administrator
+2020-10-12 17:16:22.5659 INFO Org Get List Success
+2020-10-12 17:19:08.5233 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:19:08.5233 INFO Get User Success :41-Administrator
+2020-10-12 17:19:14.6176 INFO Module Get List Success
+2020-10-12 17:19:21.6251 INFO Update SubModule Success :RPT-1-Reports
+2020-10-12 17:19:21.6494 INFO Get SubModule Sucess
+2020-10-12 17:19:21.6494 INFO Get User Success :41-Administrator
+2020-10-12 17:19:25.3798 INFO Org Get List Success
+2020-10-12 17:20:20.7065 INFO Module Get List Success
+2020-10-12 17:24:13.1483 INFO Get User Success :41-Administrator
+2020-10-12 17:24:17.6057 INFO Org Get List Success
+2020-10-12 17:24:17.6136 INFO Get User Success :41-Administrator
+2020-10-12 17:24:21.3724 INFO Get SubModule Sucess
+2020-10-12 17:24:21.3812 INFO Get User Success :41-Administrator
+2020-10-12 17:24:26.2284 INFO Org Get List Success
+2020-10-12 17:24:28.3727 INFO Module Get List Success
+2020-10-12 17:25:15.7603 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:25:15.7603 INFO Get User Success :41-Administrator
+2020-10-12 17:25:30.6101 INFO Org Get List Success
+2020-10-12 17:25:30.6133 INFO Module Get List Success
+2020-10-12 17:25:30.6286 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:25:30.6286 INFO Get User Success :41-Administrator
+2020-10-12 17:25:41.6651 INFO Org Get List Success
+2020-10-12 17:25:41.6651 INFO Module Get List Success
+2020-10-12 17:26:11.2169 INFO Module Get List Success
+2020-10-12 17:26:19.6298 INFO Module Get List Success
+2020-10-12 17:28:53.1933 INFO Module Get List Success
+2020-10-12 17:30:18.6012 INFO Org Get List Success
+2020-10-12 17:30:18.6012 INFO Module Get List Success
+2020-10-12 17:30:18.6221 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:18.6221 INFO Get User Success :41-Administrator
+2020-10-12 17:30:20.8567 INFO Get SubModule Sucess
+2020-10-12 17:30:20.8567 INFO Get User Success :41-Administrator
+2020-10-12 17:30:22.0494 INFO Org Get List Success
+2020-10-12 17:30:22.0514 INFO Module Get List Success
+2020-10-12 17:30:22.0693 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:22.0693 INFO Get User Success :41-Administrator
+2020-10-12 17:30:24.3117 INFO Get SubModule Sucess
+2020-10-12 17:30:24.3117 INFO Get User Success :41-Administrator
+2020-10-12 17:30:25.4759 INFO Org Get List Success
+2020-10-12 17:30:25.4759 INFO Module Get List Success
+2020-10-12 17:30:25.4949 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:25.4949 INFO Get User Success :41-Administrator
+2020-10-12 17:30:27.4975 INFO Get SubModule Sucess
+2020-10-12 17:30:27.4975 INFO Get User Success :41-Administrator
+2020-10-12 17:30:28.5455 INFO Get SubModule Sucess
+2020-10-12 17:30:29.8498 INFO Org Get List Success
+2020-10-12 17:30:29.8498 INFO Module Get List Success
+2020-10-12 17:30:29.8677 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:29.8677 INFO Get User Success :41-Administrator
+2020-10-12 17:30:36.6748 INFO Get SubModule Sucess
+2020-10-12 17:30:36.6838 INFO Get User Success :41-Administrator
+2020-10-12 17:30:37.6811 INFO Org Get List Success
+2020-10-12 17:30:37.6811 INFO Module Get List Success
+2020-10-12 17:30:37.6981 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:37.6981 INFO Get User Success :41-Administrator
+2020-10-12 17:30:39.1889 INFO Get SubModule Sucess
+2020-10-12 17:30:39.1930 INFO Get User Success :41-Administrator
+2020-10-12 17:30:39.9945 INFO Org Get List Success
+2020-10-12 17:30:40.0064 INFO Module Get List Success
+2020-10-12 17:30:40.0246 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:40.0246 INFO Get User Success :41-Administrator
+2020-10-12 17:30:41.1761 INFO Get SubModule Sucess
+2020-10-12 17:30:41.1761 INFO Get User Success :41-Administrator
+2020-10-12 17:30:42.0877 INFO Org Get List Success
+2020-10-12 17:30:42.0877 INFO Module Get List Success
+2020-10-12 17:30:42.1133 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:42.1133 INFO Get User Success :41-Administrator
+2020-10-12 17:30:43.2876 INFO Get SubModule Sucess
+2020-10-12 17:30:43.2876 INFO Get User Success :41-Administrator
+2020-10-12 17:30:44.1796 INFO Org Get List Success
+2020-10-12 17:30:44.1796 INFO Module Get List Success
+2020-10-12 17:30:44.1981 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:44.1981 INFO Get User Success :41-Administrator
+2020-10-12 17:30:45.5287 INFO Get SubModule Sucess
+2020-10-12 17:30:45.5287 INFO Get User Success :41-Administrator
+2020-10-12 17:30:46.5154 INFO Org Get List Success
+2020-10-12 17:30:46.5154 INFO Module Get List Success
+2020-10-12 17:30:46.5344 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:46.5368 INFO Get User Success :41-Administrator
+2020-10-12 17:30:47.9277 INFO Get SubModule Sucess
+2020-10-12 17:30:47.9277 INFO Get User Success :41-Administrator
+2020-10-12 17:30:49.4897 INFO Org Get List Success
+2020-10-12 17:30:49.4897 INFO Module Get List Success
+2020-10-12 17:30:49.5096 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 17:30:49.5096 INFO Get User Success :41-Administrator
+2020-10-12 17:32:52.9034 INFO Get User Success :41-Administrator
+2020-10-12 17:32:57.6134 INFO Get State List Success
+2020-10-12 17:32:57.6134 INFO Get User Success :41-Administrator
+2020-10-12 17:32:59.3527 INFO Get Division List Success
+2020-10-12 17:32:59.3527 INFO Get User Success :41-Administrator
+2020-10-12 17:33:02.0879 INFO Get State List Success
+2020-10-12 17:33:02.0879 INFO Get User Success :41-Administrator
+2020-10-12 17:33:04.0965 INFO Get Division List Success
+2020-10-12 17:33:04.0985 INFO Get User Success :41-Administrator
+2020-10-12 17:33:05.0559 INFO Get State List Success
+2020-10-12 17:33:05.0559 INFO Get User Success :41-Administrator
+2020-10-12 17:33:06.2133 INFO Get Division List Success
+2020-10-12 17:33:06.2133 INFO Get User Success :41-Administrator
+2020-10-12 17:33:06.9177 INFO Get State List Success
+2020-10-12 17:33:06.9177 INFO Get User Success :41-Administrator
+2020-10-12 17:33:14.8139 INFO Get Existing data Fail :Division_Master
+2020-10-12 17:40:02.9503 INFO Get User Success :41-Administrator
+2020-10-12 17:40:05.6124 INFO Get State List Success
+2020-10-12 17:40:05.6148 INFO Get User Success :41-Administrator
+2020-10-12 17:40:54.3412 INFO Get User Success :41-Administrator
+2020-10-12 17:40:58.7365 INFO Get Division List Success
+2020-10-12 17:40:58.7395 INFO Get User Success :41-Administrator
+2020-10-12 17:41:00.8170 INFO Get State List Success
+2020-10-12 17:41:00.8170 INFO Get User Success :41-Administrator
+2020-10-12 17:41:02.1079 INFO Get Division List Success
+2020-10-12 17:41:02.1079 INFO Get User Success :41-Administrator
+2020-10-12 17:41:03.1667 INFO Get State List Success
+2020-10-12 17:41:03.1667 INFO Get User Success :41-Administrator
+2020-10-12 17:41:04.8472 INFO Get Division List Success
+2020-10-12 17:41:04.8683 INFO Get User Success :41-Administrator
+2020-10-12 17:41:05.9911 INFO Get State List Success
+2020-10-12 17:41:05.9911 INFO Get User Success :41-Administrator
+2020-10-12 17:41:07.6673 INFO Get Division List Success
+2020-10-12 17:41:07.6673 INFO Get User Success :41-Administrator
+2020-10-12 17:41:12.4297 INFO Get User Success :41-Administrator
+2020-10-12 17:43:25.2335 INFO Get RolePermissions List Success
+2020-10-12 17:43:25.2395 INFO Get User Success :41-Administrator
+2020-10-12 17:43:31.8126 INFO Org Get List Success
+2020-10-12 17:43:31.8284 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8371 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8371 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8690 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8690 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8690 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8690 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8690 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8690 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8795 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:43:31.8943 INFO Get ViewModel Success 
+2020-10-12 17:43:31.9539 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-12 17:43:31.9570 INFO Get GetMaxID Success : role_permission
+2020-10-12 17:43:31.9570 INFO Get User Success :41-Administrator
+2020-10-12 17:44:14.4996 INFO Get RolePermissions List Success
+2020-10-12 17:44:14.4996 INFO Get User Success :41-Administrator
+2020-10-12 17:44:20.9074 INFO Org Get List Success
+2020-10-12 17:44:20.9074 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9114 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9258 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get ViewModel Success 
+2020-10-12 17:44:20.9418 INFO Get User Success :41-Administrator
+2020-10-12 17:44:21.0858 INFO Get RolePermission Success
+2020-10-12 17:44:22.9206 INFO Get RolePermissions List Success
+2020-10-12 17:44:22.9206 INFO Get User Success :41-Administrator
+2020-10-12 17:44:25.4653 INFO Get Single User Details Success
+2020-10-12 17:44:25.4723 INFO Get User Success :41-Administrator
+2020-10-12 17:44:27.5818 INFO Get Single User Details Success
+2020-10-12 17:44:27.6265 INFO Get RolePermissions List Success
+2020-10-12 17:44:27.6291 INFO Get User Success :41-Administrator
+2020-10-12 17:45:05.8730 INFO Org Get List Success
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:21.9912 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0051 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get SubModule_master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get TabName Master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get Module_master In ViewModel Success 
+2020-10-12 17:45:22.0200 INFO Get ViewModel Success 
+2020-10-12 17:45:22.0485 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-10-12 17:45:22.0505 INFO Get GetMaxID Success : role_permission
+2020-10-12 17:45:22.0505 INFO Get User Success :41-Administrator
+2020-10-12 17:58:34.1856 INFO Get User Success :41-Administrator
+2020-10-12 17:58:42.0416 INFO Get State List Success
+2020-10-12 17:58:42.0416 INFO Get User Success :41-Administrator
+2020-10-12 17:58:45.0255 INFO Org Get List Success
+2020-10-12 17:58:45.0255 INFO Get User Success :41-Administrator
+2020-10-12 17:58:51.1275 INFO Get TabNames List Success :42703: column a.tab_name_code does not exist
+2020-10-12 18:00:08.9287 INFO Get User Success :41-Administrator
+2020-10-12 18:00:16.2087 INFO Org Get List Success
+2020-10-12 18:00:16.2087 INFO Get User Success :41-Administrator
+2020-10-12 18:00:22.4576 INFO Get TabNames List Success
+2020-10-12 18:00:24.7677 INFO Get User Success :41-Administrator
+2020-10-12 18:00:27.7007 INFO Get TabNames List Success

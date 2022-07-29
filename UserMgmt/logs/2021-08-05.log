@@ -1,0 +1,148 @@
+2021-08-05 10:24:19.6061 INFO Get User Success :44-Administrator
+2021-08-05 10:24:20.4070 INFO Get User Success :44-Administrator
+2021-08-05 10:24:35.9451 INFO Get Product Type Master List Success
+2021-08-05 10:24:36.0451 INFO Get User Success :Admin
+2021-08-05 10:24:47.8253 INFO Get State List Success
+2021-08-05 10:24:49.2942 INFO Get Product Type Master List Success
+2021-08-05 10:24:49.4082 INFO Get User Success :Admin
+2021-08-05 10:25:14.8827 INFO Get State List Success
+2021-08-05 11:18:16.4475 INFO Get User Success :44-Administrator
+2021-08-05 11:18:17.1875 INFO Get User Success :44-Administrator
+2021-08-05 11:18:55.0681 INFO Get Product Type Master List Success
+2021-08-05 11:18:55.3632 INFO Get User Success :Admin
+2021-08-05 11:19:06.6994 INFO Get State List Success
+2021-08-05 11:19:07.1584 INFO Get Product Type Master List Success
+2021-08-05 11:19:07.2174 INFO Get User Success :Admin
+2021-08-05 11:19:11.9611 INFO Get Division List Success
+2021-08-05 11:19:12.0591 INFO Get Product Type Master List Success
+2021-08-05 11:19:12.1231 INFO Get User Success :Admin
+2021-08-05 11:19:21.8925 INFO Get access_type List Success
+2021-08-05 11:19:51.2907 INFO Get access_type List Success
+2021-08-05 11:20:12.1224 INFO Get access_type List Success
+2021-08-05 11:20:17.8591 INFO Get Product Type Master List Success
+2021-08-05 11:20:17.9411 INFO Get User Success :Admin
+2021-08-05 11:20:29.8323 INFO Get access_type List Success
+2021-08-05 11:20:51.1271 INFO Get access_type List Success
+2021-08-05 11:20:57.6097 INFO Get access_type List Success
+2021-08-05 11:21:12.5427 INFO Get access_type List Success
+2021-08-05 11:21:17.0624 INFO Get Product Type Master List Success
+2021-08-05 11:21:17.1324 INFO Get User Success :Admin
+2021-08-05 11:21:23.8900 INFO Get access_type List Success
+2021-08-05 11:21:24.8580 INFO Get Product Type Master List Success
+2021-08-05 11:21:24.9229 INFO Get User Success :Admin
+2021-08-05 11:21:32.9085 INFO Get access_type List Success
+2021-08-05 11:22:06.2064 INFO Get access_type List Success
+2021-08-05 11:24:03.1982 INFO Get Product Type Master List Success
+2021-08-05 11:24:03.2662 INFO Get User Success :Admin
+2021-08-05 11:24:06.7070 INFO Get Role Level List Success
+2021-08-05 11:24:06.7760 INFO Get Product Type Master List Success
+2021-08-05 11:24:06.8310 INFO Get User Success :Admin
+2021-08-05 11:24:16.7584 INFO Get view_Role_master List Success
+2021-08-05 11:24:20.7382 INFO Get Product Type Master List Success
+2021-08-05 11:24:20.7962 INFO Get User Success :Admin
+2021-08-05 12:08:00.1493 INFO Get State List Fail :Exception while writing to stream
+2021-08-05 12:17:01.9730 INFO Get User Success :44-Administrator
+2021-08-05 12:17:04.5969 INFO Get User Success :44-Administrator
+2021-08-05 12:17:16.0941 INFO Get Product Type Master List Success
+2021-08-05 12:17:16.4461 INFO Get User Success :Admin
+2021-08-05 12:17:28.0414 INFO Get State List Success
+2021-08-05 12:17:28.4544 INFO Get Product Type Master List Success
+2021-08-05 12:17:28.5334 INFO Get User Success :Admin
+2021-08-05 12:17:35.3530 INFO Get Product Type Master List Success
+2021-08-05 12:17:35.5059 INFO Get User Success :Admin
+2021-08-05 12:19:39.3903 INFO Get State List Success
+2021-08-05 12:19:39.9333 INFO Get Product Type Master List Success
+2021-08-05 12:19:40.0323 INFO Get User Success :Admin
+2021-08-05 12:19:47.2379 INFO Get Product Type Master List Success
+2021-08-05 12:19:47.5268 INFO Get User Success :Admin
+2021-08-05 12:22:59.3411 INFO Get State List Success
+2021-08-05 12:22:59.9480 INFO Get Product Type Master List Success
+2021-08-05 12:23:01.7760 INFO Get User Success :Admin
+2021-08-05 12:23:06.7526 INFO Get Product Type Master List Success
+2021-08-05 12:23:06.8286 INFO Get User Success :Admin
+2021-08-05 12:24:47.4994 INFO Get Role Level List Success
+2021-08-05 12:24:47.5764 INFO Get Product Type Master List Success
+2021-08-05 12:24:47.6505 INFO Get User Success :Admin
+2021-08-05 12:24:55.2600 INFO Get Role Level List Success
+2021-08-05 12:25:06.3153 INFO Get Role Level List Success
+2021-08-05 12:25:14.7018 INFO Get view_Role_master List Success
+2021-08-05 12:25:19.7885 INFO Get Product Type Master List Success
+2021-08-05 12:25:19.8424 INFO Get User Success :Admin
+2021-08-05 12:25:26.3021 INFO Get view_Role_master List Success
+2021-08-05 12:25:39.6772 INFO Get view_Role_master List Success
+2021-08-05 12:25:54.5563 INFO Get view_Role_master List Success
+2021-08-05 12:26:08.7904 INFO Get view_Role_master List Success
+2021-08-05 15:07:34.6629 INFO Get User Fail :-Exception while writing to stream
+2021-08-05 15:27:32.8643 INFO Get User Success :44-Administrator
+2021-08-05 15:27:59.1597 INFO Get User Success :44-Administrator
+2021-08-05 15:30:16.1593 INFO Get Product Type Master List Success
+2021-08-05 15:30:16.2333 INFO Get User Success :Admin
+2021-08-05 15:30:24.2968 INFO Get State List Success
+2021-08-05 15:30:24.8518 INFO Get Product Type Master List Success
+2021-08-05 15:30:25.0568 INFO Get User Success :Admin
+2021-08-05 15:30:48.2313 INFO Get view_Role_master List Success
+2021-08-05 15:30:54.5110 INFO Get Product Type Master List Success :Exception while writing to stream
+2021-08-05 15:31:59.5450 INFO Get State List Fail :Exception while writing to stream
+2021-08-05 15:32:42.3873 INFO Get User Success :44-Administrator
+2021-08-05 15:34:13.3158 INFO Get User Success :44-Administrator
+2021-08-05 15:34:13.5967 INFO Get User Success :44-Administrator
+2021-08-05 15:34:16.5046 INFO Get Product Type Master List Success
+2021-08-05 15:34:16.5936 INFO Get User Success :Admin
+2021-08-05 15:34:50.3365 INFO Get State List Success
+2021-08-05 15:34:50.9335 INFO Get Product Type Master List Success
+2021-08-05 15:34:51.0175 INFO Get User Success :Admin
+2021-08-05 15:35:01.5008 INFO Get view_Role_master List Success
+2021-08-05 15:35:08.9953 INFO Get Product Type Master List Success
+2021-08-05 15:35:09.0513 INFO Get User Success :Admin
+2021-08-05 15:36:02.0561 INFO Get view_Role_master List Success
+2021-08-05 16:27:36.1623 INFO Get User Success :44-Administrator
+2021-08-05 16:27:36.5453 INFO Get User Success :44-Administrator
+2021-08-05 16:27:40.8280 INFO Get Product Type Master List Success
+2021-08-05 16:27:40.8970 INFO Get User Success :Admin
+2021-08-05 16:28:53.6835 INFO Get State List Success
+2021-08-05 16:28:54.3405 INFO Get Product Type Master List Success
+2021-08-05 16:28:54.4395 INFO Get User Success :Admin
+2021-08-05 16:29:01.6891 INFO Get view_Role_master List Success
+2021-08-05 16:29:02.8410 INFO Get Product Type Master List Success
+2021-08-05 16:29:02.9100 INFO Get User Success :Admin
+2021-08-05 16:53:26.2792 INFO Get User Success :44-Administrator
+2021-08-05 16:53:29.3240 INFO Get User Success :44-Administrator
+2021-08-05 16:53:33.8537 INFO Get Product Type Master List Success
+2021-08-05 16:53:33.9647 INFO Get User Success :Admin
+2021-08-05 16:53:47.7429 INFO Get State List Success
+2021-08-05 16:53:48.2779 INFO Get Product Type Master List Success
+2021-08-05 16:53:48.3579 INFO Get User Success :Admin
+2021-08-05 16:54:31.6552 INFO Get view_Role_master List Success
+2021-08-05 16:54:32.6271 INFO Get Product Type Master List Success
+2021-08-05 16:54:32.7012 INFO Get User Success :Admin
+2021-08-05 16:55:12.1947 INFO Get view_Role_master List Success
+2021-08-05 16:55:14.0186 INFO Get Product Type Master List Success
+2021-08-05 16:55:14.0906 INFO Get User Success :Admin
+2021-08-05 16:55:22.0011 INFO Get State List Success
+2021-08-05 16:55:22.5411 INFO Get Product Type Master List Success
+2021-08-05 16:55:22.6071 INFO Get User Success :Admin
+2021-08-05 16:55:31.9695 INFO Get view_Role_master List Success
+2021-08-05 16:55:34.5453 INFO Get Product Type Master List Success
+2021-08-05 16:55:34.6143 INFO Get User Success :Admin
+2021-08-05 16:56:30.3179 INFO Get view_Role_master List Success
+2021-08-05 16:56:31.2679 INFO Get Product Type Master List Success
+2021-08-05 16:56:31.3339 INFO Get User Success :Admin
+2021-08-05 16:57:28.0094 INFO Get view_Role_master List Success
+2021-08-05 17:23:28.7026 INFO Get view_Role_master List Success
+2021-08-05 17:23:35.8572 INFO Get view_Role_master List Success
+2021-08-05 17:23:36.8051 INFO Get Product Type Master List Success
+2021-08-05 17:23:36.8891 INFO Get User Success :Admin
+2021-08-05 17:24:03.1285 INFO Get view_Role_master List Success
+2021-08-05 17:24:23.3983 INFO Get view_Role_master List Success
+2021-08-05 17:37:29.8390 INFO Get view_Role_master List Success
+2021-08-05 17:37:31.1100 INFO Get Product Type Master List Success
+2021-08-05 17:37:31.1880 INFO Get User Success :Admin
+2021-08-05 17:37:48.3579 INFO Get view_Role_master List Success
+2021-08-05 17:37:56.4974 INFO Get Product Type Master List Success
+2021-08-05 17:37:56.5724 INFO Get User Success :Admin
+2021-08-05 17:50:48.8740 INFO Get Product Type Master List Success
+2021-08-05 17:50:48.9451 INFO Get User Success :Admin
+2021-08-05 17:50:57.3275 INFO Get view_Role_master List Success
+2021-08-05 17:50:59.3674 INFO Get Product Type Master List Success
+2021-08-05 17:50:59.4494 INFO Get User Success :Admin
+2021-08-05 17:51:21.8890 INFO Get view_Role_master List Success

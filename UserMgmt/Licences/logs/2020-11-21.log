@@ -1,0 +1,95 @@
+2020-11-21 12:41:51.7133 INFO Get User Success :44-Administrator
+2020-11-21 12:44:28.1663 INFO Get User Success :44-Administrator
+2020-11-21 12:44:31.7002 INFO Get User Success :44-Administrator
+2020-11-21 12:44:33.6047 INFO Get User Success :44-Administrator
+2020-11-21 13:17:05.3190 INFO Get User Success :44-Administrator
+2020-11-21 13:17:08.3170 INFO Get User Success :44-Administrator
+2020-11-21 13:18:15.2570 INFO Get User Success :44-Administrator
+2020-11-21 13:22:14.6996 INFO Get User Success :44-Administrator
+2020-11-21 13:22:17.1923 INFO Get User Success :44-Administrator
+2020-11-21 13:22:18.7501 INFO Get Party Master List Success
+2020-11-21 13:22:18.7609 INFO Get User Success :44-Administrator
+2020-11-21 14:17:39.6767 INFO Get User Success :44-Administrator
+2020-11-21 14:18:09.0534 INFO Get User Success :44-Administrator
+2020-11-21 14:18:10.4700 INFO Get Party Master List Success
+2020-11-21 14:18:10.5128 INFO Get Dispach Master List Success
+2020-11-21 14:18:10.5128 INFO Get User Success :44-Administrator
+2020-11-21 14:18:31.9333 INFO Get Party Master List Success
+2020-11-21 14:18:56.5792 INFO Get Dispach Master List Success
+2020-11-21 14:18:56.5792 INFO Get User Success :44-Administrator
+2020-11-21 14:19:24.2475 INFO Get Party Master List Success
+2020-11-21 14:19:46.8269 INFO Get Dispach Master List Success
+2020-11-21 14:19:46.8269 INFO Get User Success :44-Administrator
+2020-11-21 14:19:53.4984 INFO Get Party Master List Success
+2020-11-21 14:19:53.4984 INFO Get Dispach Master List Success
+2020-11-21 14:19:53.4984 INFO Get User Success :44-Administrator
+2020-11-21 14:20:01.8217 INFO Get Party Master List Success
+2020-11-21 14:20:17.7910 INFO Get Dispach Master List Success
+2020-11-21 14:20:17.7910 INFO Get User Success :44-Administrator
+2020-11-21 14:39:46.1730 INFO Get User Success :44-Administrator
+2020-11-21 14:39:53.7243 INFO Get User Success :44-Administrator
+2020-11-21 14:39:55.1650 INFO Get Party Master List Success
+2020-11-21 14:39:55.1831 INFO Get Dispach Master List Success
+2020-11-21 14:39:55.1831 INFO Get User Success :44-Administrator
+2020-11-21 14:40:08.3492 INFO Get Party Master List Success
+2020-11-21 14:40:08.3551 INFO Get Dispach Master List Success
+2020-11-21 14:40:58.2018 INFO Get Party Master List Success
+2020-11-21 14:40:58.2139 INFO Get Dispach Master List Success
+2020-11-21 14:46:20.0093 INFO Get User Success :44-Administrator
+2020-11-21 14:46:23.6675 INFO Get User Success :44-Administrator
+2020-11-21 14:46:24.9641 INFO Get Party Master List Success
+2020-11-21 14:46:24.9830 INFO Get Dispach Master List Success
+2020-11-21 14:46:24.9830 INFO Get User Success :44-Administrator
+2020-11-21 14:46:32.4118 INFO Get Party Master List Success
+2020-11-21 14:46:32.4180 INFO Get Dispach Master List Success
+2020-11-21 14:47:31.5676 INFO Insert Party Master Success :1
+2020-11-21 14:47:31.5876 INFO Get User Success :44-Administrator
+2020-11-21 14:47:36.1478 INFO Get Party Master List Success
+2020-11-21 14:47:36.1528 INFO Get Dispach Master List Success
+2020-11-21 14:47:36.1528 INFO Get User Success :44-Administrator
+2020-11-21 14:48:00.7849 INFO Insert Party Master Success :1
+2020-11-21 14:48:00.8049 INFO Get User Success :44-Administrator
+2020-11-21 15:07:11.0861 INFO Get User Success :44-Administrator
+2020-11-21 15:07:15.2088 INFO Get DocFromat Master List Success
+2020-11-21 15:07:15.2458 INFO Get User Success :44-Administrator
+2020-11-21 15:07:17.9229 INFO Get Party Master List Success
+2020-11-21 15:07:17.9376 INFO Get DocFromat Master List Success
+2020-11-21 15:07:17.9376 INFO Get User Success :44-Administrator
+2020-11-21 15:07:28.7866 INFO Get Party Master List Success
+2020-11-21 15:07:28.7922 INFO Get DocFromat Master List Success
+2020-11-21 15:08:20.0355 INFO Get User Success :44-Administrator
+2020-11-21 15:08:26.8158 INFO Get Party Master List Success
+2020-11-21 15:08:26.8158 INFO Get DocFromat Master List Success
+2020-11-21 15:08:51.7591 INFO Get User Success :44-Administrator
+2020-11-21 15:08:55.0025 INFO Get Party Master List Success
+2020-11-21 15:08:55.0025 INFO Get DocFromat Master List Success
+2020-11-21 15:08:55.0109 INFO Get User Success :44-Administrator
+2020-11-21 15:08:56.9654 INFO Get DocFromat Master List Success
+2020-11-21 15:08:56.9654 INFO Get User Success :44-Administrator
+2020-11-21 15:08:58.3607 INFO Get Party Master List Success
+2020-11-21 15:08:58.3607 INFO Get DocFromat Master List Success
+2020-11-21 15:08:58.3607 INFO Get User Success :44-Administrator
+2020-11-21 15:09:09.2845 INFO Get DocFromat Master List Success
+2020-11-21 15:09:09.2845 INFO Get User Success :44-Administrator
+2020-11-21 15:09:15.4635 INFO Get Party Master List Success
+2020-11-21 15:09:15.4635 INFO Get DocFromat Master List Success
+2020-11-21 15:09:15.4635 INFO Get User Success :44-Administrator
+2020-11-21 15:09:43.2976 INFO Get Party Master List Success
+2020-11-21 15:09:43.2976 INFO Get DocFromat Master List Success
+2020-11-21 15:09:43.3061 INFO Get User Success :44-Administrator
+2020-11-21 15:10:20.3814 INFO Insert DocFromat Master Success :xxxxx
+2020-11-21 15:10:26.1745 INFO Insert DocFromat Master Success :
+2020-11-21 15:10:28.1808 INFO Insert DocFromat Master Success :xxxxx
+2020-11-21 15:10:29.9783 INFO Insert DocFromat Master Success :
+2020-11-21 15:10:32.6913 INFO Insert DocFromat Master Success :xxxxx
+2020-11-21 15:10:34.8467 INFO Insert DocFromat Master Success :
+2020-11-21 15:10:39.2282 INFO Insert DocFromat Master Success :xxxxx
+2020-11-21 15:10:43.5585 INFO Insert DocFromat Master Success :1
+2020-11-21 15:10:43.5800 INFO Get DocFromat Master List Success
+2020-11-21 15:10:43.5800 INFO Get User Success :44-Administrator
+2020-11-21 15:10:44.9536 INFO Get Party Master List Success
+2020-11-21 15:10:44.9536 INFO Get DocFromat Master List Success
+2020-11-21 15:10:44.9635 INFO Get User Success :44-Administrator
+2020-11-21 15:10:46.8794 INFO Insert DocFromat Master Success :xxxxxyy
+2020-11-21 15:10:50.1194 INFO Get DocFromat Master List Success
+2020-11-21 15:10:50.1194 INFO Get User Success :44-Administrator

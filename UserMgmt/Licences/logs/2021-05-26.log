@@ -1,0 +1,186 @@
+2021-05-26 10:06:59.0448 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:07:30.3750 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:07:30.8860 INFO Get User Success :mtp1
+2021-05-26 10:51:48.5022 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:51:48.9912 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:51:49.4992 INFO Get User Success :mtp1
+2021-05-26 10:52:22.3991 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:52:25.5229 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:52:25.8528 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:52:26.0258 INFO Get User Success :mtp1
+2021-05-26 10:55:07.0277 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:55:44.2112 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:55:44.5912 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:55:44.7752 INFO Get User Success :mtp1
+2021-05-26 10:57:28.6277 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:57:36.0112 INFO Get Allotment List Success
+2021-05-26 10:57:36.7871 INFO Get User Success :mtp1
+2021-05-26 10:57:44.1887 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:57:48.1434 INFO Get Allotment List Success
+2021-05-26 10:57:48.4804 INFO Get User Success :353-M and TP Unit
+2021-05-26 10:57:48.8223 INFO Get Party Master List Success
+2021-05-26 10:57:50.4482 INFO Get Product Master List Success
+2021-05-26 10:57:52.1431 INFO Get User Success :mtp1
+2021-05-26 10:58:20.6943 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:02:25.0469 INFO Get Allotment List Success
+2021-05-26 11:02:25.2238 INFO Get User Success :mtp1
+2021-05-26 11:02:30.7135 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:02:33.2943 INFO Get Allotment List Success
+2021-05-26 11:02:33.5883 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:02:33.7463 INFO Get Party Master List Success
+2021-05-26 11:02:35.2232 INFO Get Product Master List Success
+2021-05-26 11:02:36.6451 INFO Get User Success :mtp1
+2021-05-26 11:03:03.8424 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:03:07.3042 INFO Get User Success :mtp1
+2021-05-26 11:03:11.6519 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:03:14.3047 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:03:14.5087 INFO Get License_Type List Success
+2021-05-26 11:03:14.5977 INFO Get License Fee List Success
+2021-05-26 11:03:14.7577 INFO Get State List Success
+2021-05-26 11:03:15.0596 INFO Get User Success :mtp1
+2021-05-26 11:09:07.5443 INFO Get User Fail :-The operation has timed out.
+2021-05-26 11:12:41.2667 INFO Get User Fail :mtp1_The operation has timed out.
+2021-05-26 11:13:51.5713 INFO Get User Fail :-The operation has timed out.
+2021-05-26 11:14:10.6791 INFO Get User Fail :-The operation has timed out.
+2021-05-26 11:14:25.7441 INFO Get User Fail :mtp1_The operation has timed out.
+2021-05-26 11:14:41.0541 INFO Get User Fail :-The operation has timed out.
+2021-05-26 11:15:00.7379 INFO Get User Fail :-The operation has timed out.
+2021-05-26 11:15:15.8109 INFO Get User Fail :mtp1_The operation has timed out.
+2021-05-26 11:15:31.3169 INFO Get User Fail :-The operation has timed out.
+2021-05-26 11:19:41.7567 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:19:42.2247 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:19:42.7647 INFO Get User Success :mtp1
+2021-05-26 11:20:06.4071 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:20:09.9009 INFO Get User Success :mtp1
+2021-05-26 11:20:17.8614 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:20:27.7688 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:20:27.8878 INFO Get License_Type List Success
+2021-05-26 11:20:28.0298 INFO Get License Fee List Success
+2021-05-26 11:20:28.1308 INFO Get State List Success
+2021-05-26 11:20:28.4457 INFO Get User Success :mtp1
+2021-05-26 11:20:51.6693 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:21:33.2826 INFO Get User Success :mtp1
+2021-05-26 11:21:38.4153 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:21:42.1681 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:21:42.2851 INFO Get License_Type List Success
+2021-05-26 11:21:42.4251 INFO Get License Fee List Success
+2021-05-26 11:21:42.5290 INFO Get State List Success
+2021-05-26 11:21:42.8730 INFO Get User Success :mtp1
+2021-05-26 11:21:55.1272 INFO Get User Success :353-M and TP Unit
+2021-05-26 11:27:23.1575 INFO Get User Success :mtp1
+2021-05-26 11:33:35.9668 INFO Get User Fail :-The operation has timed out.
+2021-05-26 15:04:06.4713 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-26 15:04:31.2808 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-26 15:04:35.9685 INFO Get User Success :newswadeshi_dis
+2021-05-26 15:05:11.9372 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-26 15:05:16.0509 INFO Get User Success :newswadeshi_dis
+2021-05-26 15:05:25.5073 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-26 15:05:26.3913 INFO Get Form84 List Success
+2021-05-26 15:05:26.9373 INFO Get User Success :newswadeshi_dis
+2021-05-26 15:07:13.6513 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:07:14.2893 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:07:45.3823 INFO Get User Fail :newswadeshi_disbo_Exception while reading from stream
+2021-05-26 15:07:58.4876 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:07:59.8964 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:08:06.2960 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:08:07.0700 INFO Get VAT Master List Success
+2021-05-26 15:08:07.4060 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:08:11.4097 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:08:12.2266 INFO Get VAT Master List Success
+2021-05-26 15:08:12.4666 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:08:16.9663 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:08:18.8122 INFO Get Form84 List Success
+2021-05-26 15:08:19.1682 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:08:29.2416 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:08:29.4976 INFO Get VAT Master List Success
+2021-05-26 15:08:29.7226 INFO Get VAT Master List Success
+2021-05-26 15:08:29.8875 INFO Get VAT Master List Success
+2021-05-26 15:08:30.0255 INFO Get VAT Master List Success
+2021-05-26 15:08:40.5998 INFO Get VAT Master List Success
+2021-05-26 15:08:42.1238 INFO Get VAT Master List Success
+2021-05-26 15:08:43.2337 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:09:47.9846 INFO Get VAT Master List Success
+2021-05-26 15:11:48.5492 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:11:49.7631 INFO Get Form84 List Success
+2021-05-26 15:11:50.1241 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:11:50.6390 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:11:51.7610 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:12:01.3390 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:12:02.4390 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:12:06.6248 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:12:07.5037 INFO Get Form84 List Success
+2021-05-26 15:12:07.6926 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:12:30.9472 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:12:31.1732 INFO Get VAT Master List Success
+2021-05-26 15:12:31.4281 INFO Get VAT Master List Success
+2021-05-26 15:12:31.7351 INFO Get VAT Master List Success
+2021-05-26 15:12:31.8951 INFO Get VAT Master List Success
+2021-05-26 15:12:37.0228 INFO Get VAT Master List Success
+2021-05-26 15:12:38.2677 INFO Get VAT Master List Success
+2021-05-26 15:12:38.7957 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:12:53.9267 INFO Get VAT Master List Success
+2021-05-26 15:30:25.7284 INFO Get VAT Master List Success
+2021-05-26 15:39:38.4984 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:39:39.4363 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:39:46.5299 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:39:54.2834 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:39:56.0453 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:40:02.6059 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:40:03.6878 INFO Get Form84 List Success
+2021-05-26 15:40:04.2328 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:40:17.5289 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:40:17.8109 INFO Get VAT Master List Success
+2021-05-26 15:40:18.0469 INFO Get VAT Master List Success
+2021-05-26 15:40:18.2849 INFO Get VAT Master List Success
+2021-05-26 15:40:18.6029 INFO Get VAT Master List Success
+2021-05-26 15:40:27.1623 INFO Get VAT Master List Success
+2021-05-26 15:40:59.3263 INFO Get VAT Master List Success
+2021-05-26 15:40:59.8902 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:41:17.4831 INFO Get VAT Master List Success
+2021-05-26 15:41:48.5771 INFO Get VAT Master List Success
+2021-05-26 15:44:01.3677 INFO Form84 Approve Sucess:140
+2021-05-26 15:44:01.6437 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:44:02.7496 INFO Get Form84 List Success
+2021-05-26 15:44:03.1066 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:44:18.9216 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:44:19.8955 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:44:53.0694 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-26 15:44:54.1004 INFO Get Form84 List Success
+2021-05-26 15:44:54.2894 INFO Get User Success :newswadeshi_disbo
+2021-05-26 15:45:13.9703 INFO Get User Success :353-M and TP Unit
+2021-05-26 15:45:14.6013 INFO Get User Success :353-M and TP Unit
+2021-05-26 15:45:16.3042 INFO Get User Success :mtp1
+2021-05-26 15:45:26.5595 INFO Get User Success :353-M and TP Unit
+2021-05-26 15:45:30.4003 INFO Get User Success :mtp1
+2021-05-26 15:53:08.8503 INFO Get User Fail :-The operation has timed out.
+2021-05-26 16:03:16.3092 INFO Get User Success :44-Administrator
+2021-05-26 16:03:20.3950 INFO Get User Success :44-Administrator
+2021-05-26 16:03:21.1359 INFO Get User Success :Admin
+2021-05-26 16:06:23.8503 INFO Get License_Type List Fail
+2021-05-26 16:06:23.9563 INFO Get User Fail :Admin_Exception while writing to stream
+2021-05-26 16:06:47.3869 INFO Get User Fail :Admin_The operation has timed out.
+2021-05-26 16:20:39.1164 INFO Get User Success :44-Administrator
+2021-05-26 16:20:40.5363 INFO Get User Success :44-Administrator
+2021-05-26 16:20:43.3001 INFO Get User Success :Admin
+2021-05-26 16:21:59.4752 INFO Get License_Type List Success
+2021-05-26 16:22:00.0412 INFO Get User Success :Admin
+2021-05-26 16:22:18.2801 INFO Get User Success :Admin
+2021-05-26 16:22:24.9616 INFO Get Existing data Fail :lic_type_Master
+2021-05-26 16:22:59.5534 INFO Get Existing data Fail :lic_type_Master
+2021-05-26 16:22:59.8885 INFO Insert license_type Success :A-MNTP
+2021-05-26 16:23:00.1664 INFO Get License_Type List Success
+2021-05-26 16:23:00.3594 INFO Get User Success :Admin
+2021-05-26 16:23:10.0088 INFO Get License_Type List Success
+2021-05-26 16:23:10.1838 INFO Get User Success :Admin
+2021-05-26 16:23:20.1391 INFO Get License_Type List Success
+2021-05-26 16:23:20.2752 INFO Get User Success :Admin
+2021-05-26 16:23:36.3181 INFO Get Existing data Fail :lic_subtype_Master
+2021-05-26 16:23:49.7622 INFO Get Existing data Fail :lic_subtype_Master
+2021-05-26 16:23:53.7146 INFO Insert license_type Success :B-MTP
+2021-05-26 16:23:53.9945 INFO Get License_Type List Success
+2021-05-26 16:23:54.2506 INFO Get User Success :Admin
+2021-05-26 16:23:58.3099 INFO Get License_Type List Success
+2021-05-26 16:23:58.4699 INFO Get License_Type List Success
+2021-05-26 16:23:58.6419 INFO Get User Success :Admin
+2021-05-26 16:24:04.8835 INFO Get User Success :44-Administrator
+2021-05-26 16:24:09.9702 INFO Get User Success :44-Administrator

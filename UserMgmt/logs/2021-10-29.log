@@ -1,0 +1,133 @@
+2021-10-29 10:31:30.3711 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:31:30.4819 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:31:30.5578 INFO Get Product Type Master List Success
+2021-10-29 10:31:30.5668 INFO Get User Success :majhaulia_dis
+2021-10-29 10:31:36.2976 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:31:38.5993 INFO Get Product Type Master List Success
+2021-10-29 10:31:38.5993 INFO Get User Success :majhaulia_dis
+2021-10-29 10:31:43.6193 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:31:43.8872 INFO Get Indent List Success
+2021-10-29 10:31:43.8902 INFO Get Product Type Master List Success
+2021-10-29 10:31:43.8902 INFO Get User Success :majhaulia_dis
+2021-10-29 10:31:56.8643 INFO Get User Success :44-Administrator
+2021-10-29 10:31:56.9072 INFO Get User Success :44-Administrator
+2021-10-29 10:31:56.9072 INFO Get Product Type Master List Success
+2021-10-29 10:31:56.9072 INFO Get User Success :Admin
+2021-10-29 10:33:14.5402 INFO Get User Success :44-Administrator
+2021-10-29 10:33:14.5642 INFO Get Users List Success
+2021-10-29 10:33:14.5792 INFO GetFinacListValues Success
+2021-10-29 10:33:14.5792 INFO Get Product Type Master List Success
+2021-10-29 10:33:14.5792 INFO Get User Success :Admin
+2021-10-29 10:33:34.1514 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:33:34.1724 INFO Get Existing data Fail :rawmaterial_receipt
+2021-10-29 10:33:34.2072 INFO Get Existing data Fail :rmreceipt_storage
+2021-10-29 10:33:34.2298 INFO Get Existing data Fail :rawmaterial_fermenter
+2021-10-29 10:33:34.2477 INFO Get Existing data Fail :fermenter_setup
+2021-10-29 10:33:34.2641 INFO Get Existing data Fail :distillation
+2021-10-29 10:33:34.2833 INFO Get Existing data Fail :distillation_tostore
+2021-10-29 10:33:34.2994 INFO Get Existing data Fail :fermenter_receiver
+2021-10-29 10:33:34.3165 INFO Get Existing data Fail :fermenter_receiver_input
+2021-10-29 10:33:34.3341 INFO Get Existing data Fail :fermenter_receiver_output
+2021-10-29 10:33:34.3519 INFO Get Existing data Fail :receiver_storage_receipt
+2021-10-29 10:33:34.3694 INFO Get Existing data Fail :receiver_storage_receiptvat
+2021-10-29 10:33:34.3870 INFO Get Existing data Fail :receiver_storage_transfer
+2021-10-29 10:33:34.4044 INFO Get Existing data Fail :storage_dispatch
+2021-10-29 10:33:34.4044 INFO Get Existing data Fail :dailydispatchclosure
+2021-10-29 10:33:34.4044 INFO Get Existing data Fail :vat_transfer
+2021-10-29 10:33:34.4263 INFO Get Existing data Fail :rawmaterial_wastage
+2021-10-29 10:33:34.4445 INFO Get Existing data Fail :molasses_indent
+2021-10-29 10:33:34.4445 INFO Get Existing data Fail :molasses_prov_prod
+2021-10-29 10:33:34.4624 INFO Get Existing data Fail :molasses_allotment_request
+2021-10-29 10:33:34.4805 INFO Get Existing data Fail :noc
+2021-10-29 10:33:34.4973 INFO Get Existing data Fail :noc_depotdetail
+2021-10-29 10:33:34.5143 INFO Get Existing data Fail :release_request
+2021-10-29 10:33:34.5322 INFO Get Existing data Fail :request_for_pass
+2021-10-29 10:33:34.5496 INFO Get Existing data Fail :pass
+2021-10-29 10:34:54.4657 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:34:54.5085 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:34:54.5383 INFO Get Product Type Master List Success
+2021-10-29 10:34:54.5383 INFO Get User Success :majhaulia_dis
+2021-10-29 10:34:57.8832 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:34:59.7793 INFO Get Product Type Master List Success
+2021-10-29 10:34:59.7793 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:03.0737 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:03.0767 INFO Get Product Type Master List Success
+2021-10-29 10:35:03.0767 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:04.5161 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:04.5161 INFO Get VAT Master List Success
+2021-10-29 10:35:04.5161 INFO Get Product Type Master List Success
+2021-10-29 10:35:04.5321 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:05.7474 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:05.7563 INFO Get Form84 List Success
+2021-10-29 10:35:05.7563 INFO Get Product Type Master List Success
+2021-10-29 10:35:05.7663 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:06.7127 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:06.7217 INFO Get Product Type Master List Success
+2021-10-29 10:35:06.7217 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:07.8293 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:07.8293 INFO Get Product Type Master List Success
+2021-10-29 10:35:07.8434 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:08.9490 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:08.9544 INFO Get Product Type Master List Success
+2021-10-29 10:35:08.9544 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:11.3660 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:11.3660 INFO Get Product Type Master List Success
+2021-10-29 10:35:11.3730 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:26.6679 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:26.9304 INFO Get Indent List Success
+2021-10-29 10:35:26.9304 INFO Get Product Type Master List Success
+2021-10-29 10:35:26.9364 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:30.2722 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:32.0562 INFO Get Product Type Master List Success
+2021-10-29 10:35:32.0622 INFO Get User Success :majhaulia_dis
+2021-10-29 10:35:34.2802 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-10-29 10:35:35.4910 INFO Get Product Type Master List Success
+2021-10-29 10:35:35.4910 INFO Get User Success :majhaulia_dis
+2021-10-29 10:36:24.3248 INFO Get User Success :44-Administrator
+2021-10-29 10:36:24.3644 INFO Get User Success :44-Administrator
+2021-10-29 10:36:24.3644 INFO Get Product Type Master List Success
+2021-10-29 10:36:24.3754 INFO Get User Success :Admin
+2021-10-29 10:36:33.2125 INFO Org Get List Success
+2021-10-29 10:36:33.2315 INFO Get Product Type Master List Success
+2021-10-29 10:36:33.2365 INFO Get User Success :Admin
+2021-10-29 10:36:44.0950 INFO GetFinacListValues Success
+2021-10-29 10:36:44.0950 INFO Get Product Type Master List Success
+2021-10-29 10:36:44.1116 INFO Get User Success :Admin
+2021-10-29 10:37:01.5968 INFO Get OrgNames in Financial Form Success
+2021-10-29 10:37:01.5968 INFO Get Product Type Master List Success
+2021-10-29 10:37:01.5968 INFO Get User Success :Admin
+2021-10-29 10:37:05.9087 INFO GetFinacListValues Success
+2021-10-29 10:37:34.2701 INFO GetFinacListValues Success
+2021-10-29 10:37:34.2701 INFO Get Product Type Master List Success
+2021-10-29 10:37:34.2701 INFO Get User Success :Admin
+2021-10-29 10:38:00.0749 INFO Get OrgNames in Financial Form Success
+2021-10-29 10:38:00.0769 INFO Get Product Type Master List Success
+2021-10-29 10:38:00.0769 INFO Get User Success :Admin
+2021-10-29 10:38:10.8979 INFO GetFinacListValues Success
+2021-10-29 10:38:10.8979 INFO Get Product Type Master List Success
+2021-10-29 10:38:10.8979 INFO Get User Success :Admin
+2021-10-29 10:38:19.2973 INFO Get OrgNames in Financial Form Success
+2021-10-29 10:38:19.2973 INFO Get Product Type Master List Success
+2021-10-29 10:38:19.2973 INFO Get User Success :Admin
+2021-10-29 10:38:46.6578 INFO GetFinacListValues Success
+2021-10-29 10:38:46.6578 INFO Get Product Type Master List Success
+2021-10-29 10:38:46.6578 INFO Get User Success :Admin
+2021-10-29 10:38:56.1100 INFO Get OrgNames in Financial Form Success
+2021-10-29 10:38:56.1100 INFO Get Product Type Master List Success
+2021-10-29 10:38:56.1100 INFO Get User Success :Admin
+2021-10-29 10:39:06.1404 INFO GetFinacListValues Success
+2021-10-29 10:39:06.1404 INFO Get Product Type Master List Success
+2021-10-29 10:39:06.1404 INFO Get User Success :Admin
+2021-10-29 10:39:18.4387 INFO Get OrgNames in Financial Form Success
+2021-10-29 10:39:18.4387 INFO Get Product Type Master List Success
+2021-10-29 10:39:18.4387 INFO Get User Success :Admin
+2021-10-29 10:42:08.1417 INFO Get User Success :44-Administrator
+2021-10-29 10:42:08.1682 INFO Get Users List Success
+2021-10-29 10:42:08.1702 INFO GetFinacListValues Success
+2021-10-29 10:42:08.1702 INFO Get Product Type Master List Success
+2021-10-29 10:42:08.1702 INFO Get User Success :Admin
+2021-10-29 10:43:32.8054 INFO Get User Success :44-Administrator
+2021-10-29 10:44:00.0935 INFO Get Users List Success
+2021-10-29 10:44:00.0935 INFO GetFinacListValues Success
+2021-10-29 10:44:00.0935 INFO Get Product Type Master List Success
+2021-10-29 10:44:00.0935 INFO Get User Success :Admin

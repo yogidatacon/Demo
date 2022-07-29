@@ -1,0 +1,1766 @@
+2020-11-06 10:20:52.9829 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:20:55.5878 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:20:55.5878 INFO Get RR List Success
+2020-11-06 10:20:55.6346 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:20:58.6947 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:20:58.6947 INFO Get Product Type Master List Success
+2020-11-06 10:20:58.6947 INFO Get NOC Sucess:2
+2020-11-06 10:20:58.7130 INFO Get State List Success
+2020-11-06 10:20:58.7678 INFO Get RR List Fail:Index and length must refer to a location within the string.
+Parameter name: length
+2020-11-06 10:20:58.7678 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:21:10.2469 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:21:10.2469 INFO Get Product Type Master List Success
+2020-11-06 10:21:10.2469 INFO Get NOC Sucess:2
+2020-11-06 10:21:10.2469 INFO Get State List Success
+2020-11-06 10:21:14.1021 INFO Get RR List Fail:Index and length must refer to a location within the string.
+Parameter name: length
+2020-11-06 10:22:18.3907 INFO Get RR List Fail:Column 'Depot_name' does not belong to table .
+2020-11-06 10:22:18.3907 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:22:21.2058 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:22:21.2058 INFO Get Product Type Master List Success
+2020-11-06 10:22:21.2058 INFO Get NOC Sucess:2
+2020-11-06 10:22:21.2128 INFO Get State List Success
+2020-11-06 10:25:28.1152 INFO Get RR List Success
+2020-11-06 10:25:28.1182 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:25:40.8155 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:25:40.8155 INFO Get Product Type Master List Success
+2020-11-06 10:25:40.8155 INFO Get NOC Sucess:2
+2020-11-06 10:25:40.8206 INFO Get State List Success
+2020-11-06 10:25:40.8206 INFO Get RR List Success
+2020-11-06 10:26:32.7670 INFO Get RR List Success
+2020-11-06 10:27:18.9862 INFO Get RR List Success
+2020-11-06 10:27:34.8143 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:27:45.5750 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:27:45.5750 INFO Get Product Type Master List Success
+2020-11-06 10:27:45.5750 INFO Get NOC Sucess:2
+2020-11-06 10:27:45.5750 INFO Get State List Success
+2020-11-06 10:27:45.5750 INFO Get RR List Success
+2020-11-06 10:29:03.8300 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:29:27.1177 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:29:27.1177 INFO Get Product Type Master List Success
+2020-11-06 10:29:27.1177 INFO Get NOC Sucess:2
+2020-11-06 10:29:27.1177 INFO Get State List Success
+2020-11-06 10:29:27.1177 INFO Get RR List Success
+2020-11-06 10:29:46.6827 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:29:50.3483 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:29:50.3483 INFO Get Product Type Master List Success
+2020-11-06 10:29:50.3513 INFO Get NOC Sucess:2
+2020-11-06 10:29:50.3513 INFO Get State List Success
+2020-11-06 10:29:50.3513 INFO Get RR List Success
+2020-11-06 10:30:00.9577 INFO Get Customer Details Success
+2020-11-06 10:30:13.6860 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:30:57.9989 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:30:57.9989 INFO Get Product Type Master List Success
+2020-11-06 10:30:57.9989 INFO Get NOC Sucess:2
+2020-11-06 10:30:57.9989 INFO Get State List Success
+2020-11-06 10:30:58.0097 INFO Get RR List Success
+2020-11-06 10:30:58.0097 INFO Get Customer Details Success
+2020-11-06 10:34:01.0323 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:03.9332 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:03.9332 INFO Get RR List Success
+2020-11-06 10:34:03.9789 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:06.0003 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:06.0003 INFO Get Product Type Master List Success
+2020-11-06 10:34:06.0108 INFO Get NOC Sucess:2
+2020-11-06 10:34:06.0108 INFO Get State List Success
+2020-11-06 10:34:06.0296 INFO Get RR List Success
+2020-11-06 10:34:06.0296 INFO Get Customer Details Success
+2020-11-06 10:34:06.0618 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:36.7749 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:36.7749 INFO Get RR List Success
+2020-11-06 10:34:36.7749 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:38.2969 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:34:38.2969 INFO Get Product Type Master List Success
+2020-11-06 10:34:38.2969 INFO Get NOC Sucess:2
+2020-11-06 10:34:38.2969 INFO Get State List Success
+2020-11-06 10:34:53.1864 INFO Get RR List Success
+2020-11-06 10:34:53.1864 INFO Get Customer Details Success
+2020-11-06 10:34:53.1864 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:35:12.3455 INFO Get MaxID Success :Module_master
+2020-11-06 10:35:54.3343 INFO Get MaxID Success :Module_master
+2020-11-06 10:36:23.6062 INFO Get MaxID Success :Module_master
+2020-11-06 10:36:51.5252 INFO Get MaxID Success :Module_master
+2020-11-06 10:45:50.9809 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:45:53.1873 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:45:53.1873 INFO Get RR List Success
+2020-11-06 10:45:53.2366 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:45:55.2110 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:45:55.2110 INFO Get Product Type Master List Success
+2020-11-06 10:45:55.2110 INFO Get NOC Sucess:2
+2020-11-06 10:45:55.2292 INFO Get State List Success
+2020-11-06 10:45:55.2411 INFO Get RR List Success
+2020-11-06 10:45:55.2411 INFO Get Customer Details Success
+2020-11-06 10:45:55.2731 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:47:31.5949 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:47:33.9084 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:47:33.9141 INFO Get RR List Success
+2020-11-06 10:47:33.9531 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:47:35.4291 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:47:35.4291 INFO Get Product Type Master List Success
+2020-11-06 10:47:35.4291 INFO Get NOC Sucess:2
+2020-11-06 10:47:35.4462 INFO Get State List Success
+2020-11-06 10:47:35.4462 INFO Get RR List Success
+2020-11-06 10:47:35.4642 INFO Get Customer Details Success
+2020-11-06 10:47:35.4931 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:48:31.2131 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:48:33.6366 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:48:33.6366 INFO Get RR List Success
+2020-11-06 10:48:33.6830 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:48:35.4040 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:48:35.4040 INFO Get Product Type Master List Success
+2020-11-06 10:48:35.4146 INFO Get NOC Sucess:2
+2020-11-06 10:48:35.4146 INFO Get State List Success
+2020-11-06 10:48:35.4343 INFO Get RR List Success
+2020-11-06 10:48:35.4343 INFO Get Customer Details Success
+2020-11-06 10:48:35.4665 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:51:42.1964 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:51:45.7817 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:51:45.7817 INFO Get RR List Success
+2020-11-06 10:51:45.8255 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:51:47.2711 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:51:47.2741 INFO Get Product Type Master List Success
+2020-11-06 10:51:47.2741 INFO Get NOC Sucess:2
+2020-11-06 10:51:47.2741 INFO Get State List Success
+2020-11-06 10:51:47.2995 INFO Get RR List Success
+2020-11-06 10:51:47.3038 INFO Get Customer Details Success
+2020-11-06 10:51:47.3314 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:58:06.8425 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:58:06.8425 INFO Get RR List Success
+2020-11-06 10:58:06.8425 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:58:10.3964 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 10:58:10.3984 INFO Get Product Type Master List Success
+2020-11-06 10:58:10.3984 INFO Get NOC Sucess:2
+2020-11-06 10:58:10.3984 INFO Get State List Success
+2020-11-06 10:58:10.3984 INFO Get RR List Success
+2020-11-06 10:58:10.3984 INFO Get Customer Details Success
+2020-11-06 10:58:10.3984 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:13:10.1980 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:13:13.0245 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:13:13.0245 INFO Get RR List Success
+2020-11-06 11:13:13.0691 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:13:14.2874 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:13:14.2903 INFO Get Product Type Master List Success
+2020-11-06 11:13:14.2903 INFO Get NOC Sucess:2
+2020-11-06 11:13:14.3053 INFO Get State List Success
+2020-11-06 11:13:14.3053 INFO Get RR List Success
+2020-11-06 11:13:14.3223 INFO Get Customer Details Success
+2020-11-06 11:13:14.3552 INFO Check WorkFlow List Success
+2020-11-06 11:13:29.5617 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:23.2793 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:25.5015 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:25.5015 INFO Get RR List Success
+2020-11-06 11:15:25.5486 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:27.1303 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:27.1332 INFO Get Product Type Master List Success
+2020-11-06 11:15:27.1332 INFO Get NOC Sucess:2
+2020-11-06 11:15:27.1480 INFO Get State List Success
+2020-11-06 11:15:27.1480 INFO Get RR List Success
+2020-11-06 11:15:27.1641 INFO Get Customer Details Success
+2020-11-06 11:15:27.1944 INFO Check WorkFlow List Success
+2020-11-06 11:15:27.1944 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:38.9351 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:15:38.9351 INFO Get Product Type Master List Success
+2020-11-06 11:15:38.9351 INFO Get NOC Sucess:2
+2020-11-06 11:15:38.9351 INFO Get State List Success
+2020-11-06 11:15:38.9351 INFO Get RR List Success
+2020-11-06 11:15:38.9470 INFO Get Customer Details Success
+2020-11-06 11:15:38.9470 INFO Check WorkFlow List Success
+2020-11-06 11:16:05.7580 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:16:17.8541 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:16:17.8541 INFO Get RR List Success
+2020-11-06 11:16:17.8541 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:16:28.2551 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:30.7703 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:30.7724 INFO Check WorkFlow List Success
+2020-11-06 11:16:30.7724 INFO Get RR List Success
+2020-11-06 11:16:30.7724 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:32.3759 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:32.3759 INFO Get Product Type Master List Success
+2020-11-06 11:16:32.3759 INFO Get NOC Sucess:2
+2020-11-06 11:16:32.3828 INFO Get RR List Success
+2020-11-06 11:16:32.4158 INFO Get Customer Details Fail :22P02: invalid input syntax for integer: ""
+2020-11-06 11:16:32.4158 INFO Check WorkFlow List Success
+2020-11-06 11:16:32.4158 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:41.3526 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:41.3526 INFO Check WorkFlow List Success
+2020-11-06 11:16:41.3526 INFO Get RR List Success
+2020-11-06 11:16:41.3526 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:45.1247 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:16:45.1247 INFO Get Product Type Master List Success
+2020-11-06 11:16:45.1247 INFO Get NOC Sucess:2
+2020-11-06 11:16:45.1323 INFO Get RR List Success
+2020-11-06 11:16:45.1323 INFO Get Customer Details Fail :22P02: invalid input syntax for integer: ""
+2020-11-06 11:16:45.1485 INFO Check WorkFlow List Success
+2020-11-06 11:16:45.1485 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:17:04.8485 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:17:19.6573 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:17:19.6573 INFO Get RR List Success
+2020-11-06 11:17:19.6573 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:17:58.8845 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:17:58.8845 INFO Get Product Type Master List Success
+2020-11-06 11:17:58.8845 INFO Get NOC Sucess:2
+2020-11-06 11:17:58.8845 INFO Get State List Success
+2020-11-06 11:17:58.8976 INFO Get RR List Success
+2020-11-06 11:17:58.8976 INFO Get Customer Details Success
+2020-11-06 11:17:58.8976 INFO Check WorkFlow List Success
+2020-11-06 11:17:58.8976 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:20.1423 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:20.1423 INFO Get RR List Success
+2020-11-06 11:18:20.1483 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:24.1735 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:24.1735 INFO Get Product Type Master List Success
+2020-11-06 11:18:24.1735 INFO Get NOC Sucess:2
+2020-11-06 11:18:24.1795 INFO Get State List Success
+2020-11-06 11:18:24.1795 INFO Get RR List Success
+2020-11-06 11:18:24.1795 INFO Get Customer Details Success
+2020-11-06 11:18:24.1795 INFO Check WorkFlow List Success
+2020-11-06 11:18:24.1795 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:32.6686 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:32.6686 INFO Get Product Type Master List Success
+2020-11-06 11:18:32.6686 INFO Get NOC Sucess:2
+2020-11-06 11:18:32.6686 INFO Get State List Success
+2020-11-06 11:18:32.6686 INFO Get RR List Success
+2020-11-06 11:18:32.6799 INFO Get Customer Details Success
+2020-11-06 11:18:32.6799 INFO Check WorkFlow List Success
+2020-11-06 11:18:32.6799 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:34.1576 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:34.1576 INFO Get RR List Success
+2020-11-06 11:18:34.1576 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:40.3150 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:18:40.3150 INFO Get Product Type Master List Success
+2020-11-06 11:18:40.3150 INFO Get NOC Sucess:2
+2020-11-06 11:18:40.3150 INFO Get State List Success
+2020-11-06 11:18:40.3231 INFO Get RR List Success
+2020-11-06 11:18:40.3231 INFO Get Customer Details Success
+2020-11-06 11:18:40.3231 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:17.0288 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:17.0288 INFO Get RR List Success
+2020-11-06 11:21:17.0288 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:19.9208 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:19.9208 INFO Get Product Type Master List Success
+2020-11-06 11:21:19.9208 INFO Get NOC Sucess:2
+2020-11-06 11:21:19.9208 INFO Get State List Success
+2020-11-06 11:21:19.9299 INFO Get RR List Success
+2020-11-06 11:21:19.9299 INFO Get Customer Details Success
+2020-11-06 11:21:19.9299 INFO Check WorkFlow List Success
+2020-11-06 11:21:19.9299 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:24.6220 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:24.6220 INFO Get RR List Success
+2020-11-06 11:21:24.6220 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:21:56.6133 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:21:59.0729 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:21:59.0729 INFO Check WorkFlow List Success
+2020-11-06 11:24:59.6952 INFO Get RR List Success
+2020-11-06 11:25:27.5825 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:25:33.7517 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:25:33.7517 INFO Check WorkFlow List Success
+2020-11-06 11:25:33.7517 INFO Get RR List Success
+2020-11-06 11:25:33.7580 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:27:17.7901 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:27:17.7901 INFO Check WorkFlow List Success
+2020-11-06 11:27:17.7901 INFO Get RR List Success
+2020-11-06 11:27:17.8072 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:27:20.9931 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:27:20.9931 INFO Get Product Type Master List Success
+2020-11-06 11:27:20.9931 INFO Get NOC Sucess:2
+2020-11-06 11:27:20.9931 INFO Get RR List Success
+2020-11-06 11:27:21.0169 INFO Get Customer Details Fail :22P02: invalid input syntax for integer: ""
+2020-11-06 11:27:21.0169 INFO Check WorkFlow List Success
+2020-11-06 11:27:21.0169 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:27:48.0698 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:27:48.0698 INFO Get Product Type Master List Success
+2020-11-06 11:27:48.0698 INFO Get NOC Sucess:2
+2020-11-06 11:27:50.9443 INFO Get RR List Success
+2020-11-06 11:28:24.7875 INFO Get RR List Success
+2020-11-06 11:30:01.8453 INFO Get State List Success
+2020-11-06 11:30:03.7979 INFO Get RR List Success
+2020-11-06 11:30:03.7979 INFO Get Customer Details Success
+2020-11-06 11:30:03.7979 INFO Check WorkFlow List Success
+2020-11-06 11:30:03.8059 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:30:18.8635 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:30:18.8635 INFO Get Product Type Master List Success
+2020-11-06 11:30:18.8669 INFO Get NOC Sucess:2
+2020-11-06 11:30:18.8669 INFO Get State List Success
+2020-11-06 11:30:28.4383 INFO Get RR List Success
+2020-11-06 11:30:28.4383 INFO Get Customer Details Success
+2020-11-06 11:30:58.8067 INFO Check WorkFlow List Success
+2020-11-06 11:31:55.6025 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:32:10.5030 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:32:10.5030 INFO Get Product Type Master List Success
+2020-11-06 11:32:10.5030 INFO Get NOC Sucess:2
+2020-11-06 11:32:10.5083 INFO Get State List Success
+2020-11-06 11:32:12.9208 INFO Get RR List Success
+2020-11-06 11:32:12.9208 INFO Get Customer Details Success
+2020-11-06 11:32:12.9208 INFO Check WorkFlow List Success
+2020-11-06 11:34:40.9423 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:34:44.8775 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:34:44.8775 INFO Check WorkFlow List Success
+2020-11-06 11:34:44.8775 INFO Get RR List Success
+2020-11-06 11:34:44.8835 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:34:46.1235 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:34:46.1235 INFO Get Product Type Master List Success
+2020-11-06 11:34:46.1235 INFO Get NOC Sucess:2
+2020-11-06 11:34:46.1235 INFO Get State List Success
+2020-11-06 11:34:46.1335 INFO Get RR List Success
+2020-11-06 11:34:46.1335 INFO Get Customer Details Success
+2020-11-06 11:34:46.1335 INFO Check WorkFlow List Success
+2020-11-06 11:42:50.1563 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:42:53.1495 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:42:53.1495 INFO Get RR List Success
+2020-11-06 11:42:53.1925 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:42:54.5507 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:42:54.5537 INFO Get Product Type Master List Success
+2020-11-06 11:42:54.5537 INFO Get NOC Sucess:2
+2020-11-06 11:42:54.5697 INFO Get State List Success
+2020-11-06 11:42:54.5697 INFO Get RR List Success
+2020-11-06 11:42:54.5866 INFO Get Customer Details Success
+2020-11-06 11:42:54.6166 INFO Check WorkFlow List Success
+2020-11-06 11:43:21.6697 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:43:48.9732 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:43:48.9732 INFO Get Product Type Master List Success
+2020-11-06 11:43:48.9758 INFO Get NOC Sucess:2
+2020-11-06 11:43:48.9758 INFO Get State List Success
+2020-11-06 11:43:48.9758 INFO Get RR List Success
+2020-11-06 11:43:48.9758 INFO Get Customer Details Success
+2020-11-06 11:43:48.9758 INFO Check WorkFlow List Success
+2020-11-06 11:44:22.1735 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:44:36.6872 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:44:36.6872 INFO Get Product Type Master List Success
+2020-11-06 11:44:36.6872 INFO Get NOC Sucess:2
+2020-11-06 11:44:36.6872 INFO Get State List Success
+2020-11-06 11:44:36.6963 INFO Get RR List Success
+2020-11-06 11:44:36.6963 INFO Get Customer Details Success
+2020-11-06 11:44:36.6963 INFO Check WorkFlow List Success
+2020-11-06 11:45:03.3992 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:45:11.7430 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:45:11.7430 INFO Get Product Type Master List Success
+2020-11-06 11:45:11.7430 INFO Get NOC Sucess:2
+2020-11-06 11:45:11.7430 INFO Get State List Success
+2020-11-06 11:45:11.7430 INFO Get RR List Success
+2020-11-06 11:45:11.7430 INFO Get Customer Details Success
+2020-11-06 11:45:11.7586 INFO Check WorkFlow List Success
+2020-11-06 11:45:24.5318 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:45:29.0069 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:45:29.0069 INFO Get Product Type Master List Success
+2020-11-06 11:45:29.0069 INFO Get NOC Sucess:2
+2020-11-06 11:45:29.0069 INFO Get State List Success
+2020-11-06 11:45:29.0069 INFO Get RR List Success
+2020-11-06 11:45:29.0069 INFO Get Customer Details Success
+2020-11-06 11:45:29.0069 INFO Check WorkFlow List Success
+2020-11-06 11:45:43.8973 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 11:45:54.8972 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:45:57.6902 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:45:57.6902 INFO Check WorkFlow List Success
+2020-11-06 11:45:57.6953 INFO Get RR List Success
+2020-11-06 11:45:57.6953 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:45:58.9782 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:45:58.9782 INFO Get Product Type Master List Success
+2020-11-06 11:45:58.9782 INFO Get NOC Sucess:2
+2020-11-06 11:45:58.9782 INFO Get State List Success
+2020-11-06 11:45:58.9782 INFO Get RR List Success
+2020-11-06 11:45:58.9782 INFO Get Customer Details Success
+2020-11-06 11:45:58.9929 INFO Check WorkFlow List Success
+2020-11-06 11:46:13.5440 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 11:46:24.3880 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:26.5930 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:26.5930 INFO Check WorkFlow List Success
+2020-11-06 11:46:26.5930 INFO Get RR List Success
+2020-11-06 11:46:26.6009 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:27.9711 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:27.9711 INFO Get Product Type Master List Success
+2020-11-06 11:46:27.9711 INFO Get NOC Sucess:2
+2020-11-06 11:46:27.9711 INFO Get State List Success
+2020-11-06 11:46:27.9791 INFO Get RR List Success
+2020-11-06 11:46:27.9791 INFO Get Customer Details Success
+2020-11-06 11:46:27.9791 INFO Check WorkFlow List Success
+2020-11-06 11:46:27.9791 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:31.0160 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:31.0259 INFO Check WorkFlow List Success
+2020-11-06 11:46:31.0259 INFO Get RR List Success
+2020-11-06 11:46:31.0259 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 11:46:40.4945 INFO Get User Success :20-Commisoner
+2020-11-06 11:46:41.9400 INFO Get User Success :20-Commisoner
+2020-11-06 11:46:44.0020 INFO Get User Success :20-Commisoner
+2020-11-06 11:46:44.0020 INFO Check WorkFlow List Success
+2020-11-06 11:46:44.0020 INFO Get RR List Success
+2020-11-06 11:46:44.0084 INFO Get User Success :20-Commisoner
+2020-11-06 11:46:48.6418 INFO Get User Success :20-Commisoner
+2020-11-06 11:46:48.6418 INFO Get Product Type Master List Success
+2020-11-06 11:46:48.6418 INFO Get NOC Sucess:2
+2020-11-06 11:46:48.6481 INFO Get State List Success
+2020-11-06 11:46:48.6481 INFO Get RR List Success
+2020-11-06 11:46:48.6481 INFO Get Customer Details Success
+2020-11-06 11:46:48.6481 INFO Check WorkFlow List Success
+2020-11-06 11:46:48.6481 INFO Get User Success :20-Commisoner
+2020-11-06 11:47:08.6685 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:05:37.0015 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:05:39.1973 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:05:39.1973 INFO Check WorkFlow List Success
+2020-11-06 12:05:39.1973 INFO Get RR List Success
+2020-11-06 12:05:39.2462 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:05:40.6774 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:05:40.6804 INFO Get Product Type Master List Success
+2020-11-06 12:05:40.6804 INFO Get NOC Sucess:2
+2020-11-06 12:05:40.6804 INFO Get State List Success
+2020-11-06 12:05:40.7060 INFO Get RR List Success
+2020-11-06 12:05:40.7105 INFO Get Customer Details Success
+2020-11-06 12:05:40.7382 INFO Check WorkFlow List Success
+2020-11-06 12:05:40.7447 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:10:26.5911 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:10:29.1294 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:10:29.1354 INFO Check WorkFlow List Success
+2020-11-06 12:10:29.1354 INFO Get RR List Success
+2020-11-06 12:10:29.1777 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:10:30.6362 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:10:30.6362 INFO Get Product Type Master List Success
+2020-11-06 12:10:30.6482 INFO Get NOC Sucess:2
+2020-11-06 12:10:30.6482 INFO Get State List Success
+2020-11-06 12:10:30.6692 INFO Get RR List Success
+2020-11-06 12:10:30.6692 INFO Get Customer Details Success
+2020-11-06 12:10:30.7061 INFO Check WorkFlow List Success
+2020-11-06 12:11:13.8393 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:12:12.1345 INFO NOC Approve Sucess:1
+2020-11-06 12:12:12.1595 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:12:12.1595 INFO Check WorkFlow List Success
+2020-11-06 12:12:12.1645 INFO Get RR List Success
+2020-11-06 12:12:12.1645 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:12:15.4307 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:12:15.4307 INFO Get Product Type Master List Success
+2020-11-06 12:12:15.4307 INFO Get NOC Sucess:2
+2020-11-06 12:12:15.4307 INFO Get State List Success
+2020-11-06 12:12:15.4464 INFO Get RR List Success
+2020-11-06 12:12:15.4464 INFO Get Customer Details Success
+2020-11-06 12:12:15.4464 INFO Check WorkFlow List Success
+2020-11-06 12:12:20.3755 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:12:33.6688 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:12:33.6688 INFO Get Product Type Master List Success
+2020-11-06 12:12:33.6688 INFO Get NOC Sucess:2
+2020-11-06 12:12:33.6688 INFO Get State List Success
+2020-11-06 12:12:33.6688 INFO Get RR List Success
+2020-11-06 12:12:33.6797 INFO Get Customer Details Success
+2020-11-06 12:12:33.6797 INFO Check WorkFlow List Success
+2020-11-06 12:14:13.8066 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:18.4612 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:18.4612 INFO Get Product Type Master List Success
+2020-11-06 12:14:18.4612 INFO Get NOC Sucess:2
+2020-11-06 12:14:18.4612 INFO Get State List Success
+2020-11-06 12:14:18.4612 INFO Get RR List Success
+2020-11-06 12:14:18.4612 INFO Get Customer Details Success
+2020-11-06 12:14:18.4761 INFO Check WorkFlow List Success
+2020-11-06 12:14:18.4761 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:23.7854 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:23.7854 INFO Check WorkFlow List Success
+2020-11-06 12:14:23.7884 INFO Get RR List Success
+2020-11-06 12:14:23.7884 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:24.7492 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:24.7696 INFO Get Product Type Master List Success
+2020-11-06 12:14:24.7696 INFO Get NOC Sucess:2
+2020-11-06 12:14:24.7730 INFO Get State List Success
+2020-11-06 12:14:24.7730 INFO Get RR List Success
+2020-11-06 12:14:24.7730 INFO Get Customer Details Success
+2020-11-06 12:14:24.7730 INFO Check WorkFlow List Success
+2020-11-06 12:14:24.7730 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:31.4141 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:31.4141 INFO Check WorkFlow List Success
+2020-11-06 12:14:31.4141 INFO Get RR List Success
+2020-11-06 12:14:31.4141 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:14:42.4835 INFO Get User Success :20-Commisoner
+2020-11-06 12:14:48.9182 INFO Get User Success :20-Commisoner
+2020-11-06 12:14:48.9182 INFO Check WorkFlow List Success
+2020-11-06 12:14:48.9182 INFO Get RR List Success
+2020-11-06 12:14:48.9182 INFO Get User Success :20-Commisoner
+2020-11-06 12:14:50.3402 INFO Get User Success :20-Commisoner
+2020-11-06 12:14:50.3402 INFO Get Product Type Master List Success
+2020-11-06 12:14:50.3402 INFO Get NOC Sucess:2
+2020-11-06 12:14:50.3402 INFO Get State List Success
+2020-11-06 12:14:50.3402 INFO Get RR List Success
+2020-11-06 12:14:50.3512 INFO Get Customer Details Success
+2020-11-06 12:14:50.3512 INFO Check WorkFlow List Success
+2020-11-06 12:14:50.3512 INFO Get User Success :20-Commisoner
+2020-11-06 12:14:59.4064 INFO Get User Success :20-Commisoner
+2020-11-06 12:14:59.4064 INFO Check WorkFlow List Success
+2020-11-06 12:14:59.4064 INFO Get RR List Success
+2020-11-06 12:14:59.4064 INFO Get User Success :20-Commisoner
+2020-11-06 12:15:06.6805 INFO Get User Success :20-Commisoner
+2020-11-06 12:15:06.6805 INFO Get Product Type Master List Success
+2020-11-06 12:15:06.6805 INFO Get NOC Sucess:2
+2020-11-06 12:15:06.6805 INFO Get State List Success
+2020-11-06 12:15:06.6805 INFO Get RR List Success
+2020-11-06 12:15:06.6805 INFO Get Customer Details Success
+2020-11-06 12:15:06.6805 INFO Check WorkFlow List Success
+2020-11-06 12:15:06.6955 INFO Get User Success :20-Commisoner
+2020-11-06 12:15:15.2938 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:17.5378 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:17.5398 INFO Check WorkFlow List Success
+2020-11-06 12:15:17.5398 INFO Get RR List Success
+2020-11-06 12:15:17.5398 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:18.8183 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:18.8203 INFO Get Product Type Master List Success
+2020-11-06 12:15:18.8203 INFO Get NOC Sucess:2
+2020-11-06 12:15:18.8203 INFO Get State List Success
+2020-11-06 12:15:18.8203 INFO Get RR List Success
+2020-11-06 12:15:18.8203 INFO Get Customer Details Success
+2020-11-06 12:15:18.8203 INFO Check WorkFlow List Success
+2020-11-06 12:15:18.8349 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:49.1658 INFO NOC Approve Sucess:1
+2020-11-06 12:15:49.1927 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:49.1947 INFO Check WorkFlow List Success
+2020-11-06 12:15:49.1947 INFO Get RR List Success
+2020-11-06 12:15:49.1947 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:50.6675 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:15:50.6675 INFO Get Product Type Master List Success
+2020-11-06 12:15:50.6675 INFO Get NOC Sucess:2
+2020-11-06 12:15:50.6675 INFO Get State List Success
+2020-11-06 12:15:50.6675 INFO Get RR List Success
+2020-11-06 12:15:50.6675 INFO Get Customer Details Success
+2020-11-06 12:15:50.6794 INFO Check WorkFlow List Success
+2020-11-06 12:15:50.6794 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:16:07.8723 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:10.3147 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:10.3147 INFO Check WorkFlow List Success
+2020-11-06 12:16:10.3147 INFO Get RR List Success
+2020-11-06 12:16:10.3214 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:11.7160 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:11.7160 INFO Get Product Type Master List Success
+2020-11-06 12:16:11.7160 INFO Get NOC Sucess:2
+2020-11-06 12:16:11.7160 INFO Get State List Success
+2020-11-06 12:16:11.7160 INFO Get RR List Success
+2020-11-06 12:16:11.7259 INFO Get Customer Details Success
+2020-11-06 12:16:11.7259 INFO Check WorkFlow List Success
+2020-11-06 12:16:11.7259 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:14.3258 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:14.3258 INFO Check WorkFlow List Success
+2020-11-06 12:16:14.3258 INFO Get RR List Success
+2020-11-06 12:16:14.3258 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:16:23.0120 INFO Get User Success :20-Commisoner
+2020-11-06 12:16:25.1544 INFO Get User Success :20-Commisoner
+2020-11-06 12:16:25.1544 INFO Check WorkFlow List Success
+2020-11-06 12:16:25.1544 INFO Get RR List Success
+2020-11-06 12:16:25.1544 INFO Get User Success :20-Commisoner
+2020-11-06 12:16:26.3164 INFO Get User Success :20-Commisoner
+2020-11-06 12:16:26.3164 INFO Get Product Type Master List Success
+2020-11-06 12:16:26.3204 INFO Get NOC Sucess:2
+2020-11-06 12:16:26.3204 INFO Get State List Success
+2020-11-06 12:16:26.3204 INFO Get RR List Success
+2020-11-06 12:16:26.3204 INFO Get Customer Details Success
+2020-11-06 12:16:26.3204 INFO Check WorkFlow List Success
+2020-11-06 12:16:26.3204 INFO Get User Success :20-Commisoner
+2020-11-06 12:18:21.4402 INFO NOC Approve Sucess:1
+2020-11-06 12:18:21.4620 INFO Get User Success :20-Commisoner
+2020-11-06 12:18:21.4620 INFO Check WorkFlow List Success
+2020-11-06 12:18:21.4620 INFO Get RR List Success
+2020-11-06 12:18:21.4620 INFO Get User Success :20-Commisoner
+2020-11-06 12:18:24.3719 INFO Get User Success :20-Commisoner
+2020-11-06 12:18:24.3719 INFO Get Product Type Master List Success
+2020-11-06 12:18:24.3719 INFO Get NOC Sucess:2
+2020-11-06 12:18:24.3719 INFO Get State List Success
+2020-11-06 12:18:24.3719 INFO Get RR List Success
+2020-11-06 12:18:24.3827 INFO Get Customer Details Success
+2020-11-06 12:18:24.3827 INFO Check WorkFlow List Success
+2020-11-06 12:18:24.3827 INFO Get User Success :20-Commisoner
+2020-11-06 12:18:39.3434 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:18:41.8094 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:18:41.8094 INFO Check WorkFlow List Success
+2020-11-06 12:18:41.8094 INFO Get RR List Success
+2020-11-06 12:18:41.8094 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:18:43.0911 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:18:43.0911 INFO Get Product Type Master List Success
+2020-11-06 12:18:43.0911 INFO Get NOC Sucess:2
+2020-11-06 12:18:43.0911 INFO Get State List Success
+2020-11-06 12:18:43.0911 INFO Get RR List Success
+2020-11-06 12:18:43.1020 INFO Get Customer Details Success
+2020-11-06 12:18:43.1020 INFO Check WorkFlow List Success
+2020-11-06 12:18:43.1020 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:18:57.9035 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:00.1808 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:00.1808 INFO Get RR List Success
+2020-11-06 12:19:00.1808 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:01.4577 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:01.4577 INFO Get Product Type Master List Success
+2020-11-06 12:19:01.4607 INFO Get NOC Sucess:2
+2020-11-06 12:19:01.4607 INFO Get State List Success
+2020-11-06 12:19:01.4607 INFO Get RR List Success
+2020-11-06 12:19:01.4607 INFO Get Customer Details Success
+2020-11-06 12:19:01.4607 INFO Check WorkFlow List Success
+2020-11-06 12:19:01.4607 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:35.6924 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:35.6924 INFO Get Product Type Master List Success
+2020-11-06 12:19:35.6954 INFO Get NOC Sucess:2
+2020-11-06 12:19:35.6954 INFO Get State List Success
+2020-11-06 12:19:35.6954 INFO Get RR List Success
+2020-11-06 12:19:35.6954 INFO Get Customer Details Success
+2020-11-06 12:19:35.6954 INFO Check WorkFlow List Success
+2020-11-06 12:19:41.9577 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:19:54.0969 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:19:56.2179 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:19:56.2179 INFO Check WorkFlow List Success
+2020-11-06 12:19:56.2179 INFO Get RR List Success
+2020-11-06 12:19:56.2179 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:20:28.0481 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:30.3073 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:30.3073 INFO Check WorkFlow List Success
+2020-11-06 12:20:30.3073 INFO Get RR List Success
+2020-11-06 12:20:30.3073 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:31.9941 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:31.9941 INFO Get Product Type Master List Success
+2020-11-06 12:20:31.9941 INFO Get NOC Sucess:2
+2020-11-06 12:20:31.9941 INFO Get State List Success
+2020-11-06 12:20:31.9941 INFO Get RR List Success
+2020-11-06 12:20:31.9941 INFO Get Customer Details Success
+2020-11-06 12:20:32.0068 INFO Check WorkFlow List Success
+2020-11-06 12:20:32.0068 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:40.1643 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:40.1643 INFO Check WorkFlow List Success
+2020-11-06 12:20:40.1643 INFO Get RR List Success
+2020-11-06 12:20:40.1643 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:20:48.8130 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:20:59.5303 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:20:59.5303 INFO Check WorkFlow List Success
+2020-11-06 12:20:59.5303 INFO Get RR List Success
+2020-11-06 12:20:59.5391 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:21:01.5006 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:21:01.5006 INFO Get Product Type Master List Success
+2020-11-06 12:21:01.5006 INFO Get NOC Sucess:2
+2020-11-06 12:21:01.5006 INFO Get State List Success
+2020-11-06 12:21:01.5076 INFO Get RR List Success
+2020-11-06 12:21:01.5076 INFO Get Customer Details Success
+2020-11-06 12:21:01.5076 INFO Check WorkFlow List Success
+2020-11-06 12:21:01.5076 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:21:24.8229 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:21:24.8229 INFO Check WorkFlow List Success
+2020-11-06 12:21:24.8229 INFO Get RR List Success
+2020-11-06 12:21:24.8229 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:28:55.5304 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:28:57.9333 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:28:57.9333 INFO Check WorkFlow List Success
+2020-11-06 12:28:57.9333 INFO Get RR List Success
+2020-11-06 12:28:57.9804 INFO Get User Success :22-Assistant Commissioner
+2020-11-06 12:29:14.2057 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:29:16.7936 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:29:16.7936 INFO Check WorkFlow List Success
+2020-11-06 12:29:16.7936 INFO Get RR List Success
+2020-11-06 12:29:16.7936 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:33:45.7645 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:33:48.3021 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:33:48.3056 INFO Check WorkFlow List Success
+2020-11-06 12:33:48.3056 INFO Get RR List Success
+2020-11-06 12:33:48.3487 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:34:34.1028 INFO NOC Approve Sucess:1
+2020-11-06 12:34:34.1028 INFO Get RR List Success
+2020-11-06 12:35:37.1748 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:35:39.3323 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:35:39.3382 INFO Get RR List Success
+2020-11-06 12:35:39.3782 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:35:46.7460 INFO Get GetSeverList Success
+2020-11-06 12:36:00.7713 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:36:00.7744 INFO Get Product Type Master List Success
+2020-11-06 12:36:00.7744 INFO Get NOC Sucess:2
+2020-11-06 12:36:00.7902 INFO Get State List Success
+2020-11-06 12:36:00.8036 INFO Get RR List Success
+2020-11-06 12:36:00.8036 INFO Get Customer Details Success
+2020-11-06 12:36:00.8387 INFO Check WorkFlow List Success
+2020-11-06 12:36:00.8387 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:36:15.2082 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:36:15.2102 INFO Get RR List Success
+2020-11-06 12:36:15.2102 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 12:36:37.0214 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:36:39.4826 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:36:39.4826 INFO Check WorkFlow List Success
+2020-11-06 12:36:39.4826 INFO Get RR List Success
+2020-11-06 12:36:39.4826 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:36:45.5984 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:36:45.5984 INFO Get Product Type Master List Success
+2020-11-06 12:36:45.6014 INFO Get NOC Sucess:2
+2020-11-06 12:36:45.6014 INFO Get State List Success
+2020-11-06 12:36:45.6014 INFO Get RR List Success
+2020-11-06 12:36:45.6014 INFO Get Customer Details Success
+2020-11-06 12:36:45.6014 INFO Check WorkFlow List Success
+2020-11-06 12:36:45.6014 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:36:48.7570 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 12:36:48.7570 INFO Check WorkFlow List Success
+2020-11-06 12:36:48.7570 INFO Get RR List Success
+2020-11-06 12:36:48.7570 INFO Get User Success :21-Deputy Commissioner
+2020-11-06 13:06:21.3681 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:06:45.8103 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:06:49.4651 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:06:56.8586 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:07:01.6181 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:07:04.0906 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:07:24.8341 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 13:07:28.9180 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:09:46.3619 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:09:49.9832 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:09:54.3189 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:09:59.4685 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:09:59.4685 INFO Get Indent List Success
+2020-11-06 14:09:59.5125 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:10:02.5063 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:10:02.5093 INFO Get Indent List Success
+2020-11-06 14:10:02.5693 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:10:02.5693 INFO Get Party Master List Success
+2020-11-06 14:10:02.5693 INFO Get Product Master List Success
+2020-11-06 14:10:02.5693 INFO Get User Success :18-Harinagar Distillery
+2020-11-06 14:11:28.0397 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:30.7750 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:30.7750 INFO Get Indent List Success
+2020-11-06 14:11:30.8205 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:36.1300 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:36.1329 INFO Get Indent List Success
+2020-11-06 14:11:36.2103 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:36.2103 INFO Get Party Master List Success
+2020-11-06 14:11:36.2103 INFO Get Product Master List Success
+2020-11-06 14:11:36.2353 INFO Get Indent Details Success
+2020-11-06 14:11:36.2576 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:40.5713 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:40.5713 INFO Get Indent List Success
+2020-11-06 14:11:40.5713 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:41.1198 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:41.1198 INFO Get Indent List Success
+2020-11-06 14:11:41.1442 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:41.1442 INFO Get Party Master List Success
+2020-11-06 14:11:41.1492 INFO Get Product Master List Success
+2020-11-06 14:11:41.1492 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:55.2942 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:55.2942 INFO Get Allotment List Success
+2020-11-06 14:11:55.2942 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:58.0884 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:58.0884 INFO Get Allotment List Success
+2020-11-06 14:11:58.1471 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:11:58.1508 INFO Get Party Master List Success
+2020-11-06 14:11:58.1508 INFO Get Indent List Success
+2020-11-06 14:11:58.1508 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 14:12:40.5180 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:12:42.9891 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:12:42.9931 INFO Get MF2 List Success
+2020-11-06 14:12:42.9931 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:12:44.2359 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:12:44.2359 INFO Get Party Master List Success
+2020-11-06 14:12:44.2419 INFO Get Product Master List Success
+2020-11-06 14:12:44.2419 INFO Get VAT Master List Success
+2020-11-06 14:12:44.2608 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:26:39.5684 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:26:43.0874 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:26:43.0874 INFO Get MF2 List Success
+2020-11-06 14:26:43.1133 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:27:29.5492 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:27:59.5292 INFO Get Party Master List Success
+2020-11-06 14:27:59.5292 INFO Get Party Master List Success
+2020-11-06 14:27:59.5771 INFO Get Product Master List Success
+2020-11-06 14:27:59.5771 INFO Get VAT Master List Success
+2020-11-06 14:27:59.6240 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:30:17.8970 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:30:17.9002 INFO Get Party Master List Success
+2020-11-06 14:30:17.9002 INFO Get Party Master List Success
+2020-11-06 14:31:39.1003 INFO Get Product Master List Success
+2020-11-06 14:31:39.1093 INFO Get VAT Master List Success
+2020-11-06 14:31:39.1093 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:43:13.8060 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:44:06.1450 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:44:06.1489 INFO Get MF2 List Success
+2020-11-06 14:44:06.1702 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:44:07.9839 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:44:07.9839 INFO Get Party Master List Success
+2020-11-06 14:44:07.9933 INFO Get Party Master List Success
+2020-11-06 14:44:07.9933 INFO Get Product Master List Success
+2020-11-06 14:44:08.0083 INFO Get VAT Master List Success
+2020-11-06 14:44:08.0384 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:44:54.0295 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 14:44:54.0295 INFO Get Party Master List Success
+2020-11-06 14:44:54.0295 INFO Get Party Master List Success
+2020-11-06 15:18:09.1473 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:18:15.2347 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:18:15.2347 INFO Get MF2 List Success
+2020-11-06 15:18:15.2601 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:18:32.5840 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:18:32.5902 INFO Get Party Master List Success
+2020-11-06 15:18:32.5902 INFO Get Party Master List Success
+2020-11-06 15:18:32.6030 INFO Get Product Master List Success
+2020-11-06 15:18:32.6030 INFO Get VAT Master List Success
+2020-11-06 15:18:32.6401 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:28.9245 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:32.1427 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:32.1483 INFO Get MF2 List Success
+2020-11-06 15:21:32.1698 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:33.4539 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:33.4599 INFO Get Party Master List Success
+2020-11-06 15:21:33.4599 INFO Get Party Master List Success
+2020-11-06 15:21:33.4599 INFO Get Product Master List Success
+2020-11-06 15:21:33.4778 INFO Get VAT Master List Success
+2020-11-06 15:21:33.5107 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:50.9426 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:50.9465 INFO Get MF3 List Success
+2020-11-06 15:21:50.9465 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:52.6610 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:21:52.6631 INFO Get VAT Master List Success
+2020-11-06 15:21:52.6631 INFO Get Product Master List Success
+2020-11-06 15:21:52.6631 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:23:20.1565 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:23:24.0245 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:23:24.0245 INFO Get MF2 List Success
+2020-11-06 15:23:24.0515 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:23:27.8141 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:23:27.8203 INFO Get Party Master List Success
+2020-11-06 15:23:27.8203 INFO Get Party Master List Success
+2020-11-06 15:23:27.8203 INFO Get Product Master List Success
+2020-11-06 15:23:27.8382 INFO Get VAT Master List Success
+2020-11-06 15:23:27.8698 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:26:52.6619 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:26:52.6655 INFO Get Party Master List Success
+2020-11-06 15:26:52.6655 INFO Get Party Master List Success
+2020-11-06 15:26:52.6655 INFO Get Product Master List Success
+2020-11-06 15:26:52.6655 INFO Get VAT Master List Success
+2020-11-06 15:26:52.6655 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:27:17.1402 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:27:17.1402 INFO Get Party Master List Success
+2020-11-06 15:27:17.1402 INFO Get Party Master List Success
+2020-11-06 15:27:17.1492 INFO Get Product Master List Success
+2020-11-06 15:27:17.1492 INFO Get VAT Master List Success
+2020-11-06 15:27:17.1492 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:29:46.7916 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:29:46.7916 INFO Get Party Master List Success
+2020-11-06 15:29:46.7916 INFO Get Party Master List Success
+2020-11-06 15:29:46.7916 INFO Get Product Master List Success
+2020-11-06 15:29:46.7916 INFO Get VAT Master List Success
+2020-11-06 15:29:46.8091 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:31:43.9764 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:31:43.9764 INFO Get Party Master List Success
+2020-11-06 15:31:43.9764 INFO Get Party Master List Success
+2020-11-06 15:31:43.9764 INFO Get Product Master List Success
+2020-11-06 15:31:43.9764 INFO Get VAT Master List Success
+2020-11-06 15:31:43.9934 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:32:37.3207 INFO Insert MF2 Success :06-11-2020-003
+2020-11-06 15:32:37.3486 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:32:37.3506 INFO Get MF2 List Success
+2020-11-06 15:32:37.3506 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:32:39.8039 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:32:39.8039 INFO Get MF3 List Success
+2020-11-06 15:32:39.8039 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:32:41.0287 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:32:41.0287 INFO Get VAT Master List Success
+2020-11-06 15:32:41.0287 INFO Get Product Master List Success
+2020-11-06 15:32:41.0287 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 15:37:21.5062 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:23.6626 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:23.6690 INFO Get Indent List Success
+2020-11-06 15:37:23.7085 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:25.6245 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:25.6245 INFO Get Indent List Success
+2020-11-06 15:37:25.6666 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:25.6666 INFO Get Allotment List Success
+2020-11-06 15:37:25.6666 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:26.8348 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:26.8348 INFO Get Allotment List Success
+2020-11-06 15:37:26.9112 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:26.9162 INFO Get Party Master List Success
+2020-11-06 15:37:26.9162 INFO Get Indent List Success
+2020-11-06 15:37:26.9162 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:43.6849 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:43.6849 INFO Get Indent List Success
+2020-11-06 15:37:43.6849 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:45.9001 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:45.9001 INFO Get Indent List Success
+2020-11-06 15:37:45.9586 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:45.9622 INFO Get Party Master List Success
+2020-11-06 15:37:45.9622 INFO Get Product Master List Success
+2020-11-06 15:37:45.9790 INFO Get Indent Details Success
+2020-11-06 15:37:45.9960 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:48.7229 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:37:48.7259 INFO Get Indent List Success
+2020-11-06 15:37:48.7259 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:00.3378 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:00.3378 INFO Get Indent List Success
+2020-11-06 15:38:00.3624 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:00.3624 INFO Get Allotment List Success
+2020-11-06 15:38:00.3674 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:03.2081 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:03.2107 INFO Get Allotment List Success
+2020-11-06 15:38:03.2302 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:03.2302 INFO Get Party Master List Success
+2020-11-06 15:38:03.2302 INFO Get Indent List Success
+2020-11-06 15:38:03.2302 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:54.3737 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:38:54.3737 INFO Get Party Master List Success
+2020-11-06 15:38:54.3737 INFO Get Indent List Success
+2020-11-06 15:38:54.3828 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:40:25.5351 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:40:25.5388 INFO Get Party Master List Success
+2020-11-06 15:40:25.5388 INFO Get Indent List Success
+2020-11-06 15:40:25.5388 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:41:37.0619 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:41:37.0619 INFO Get Party Master List Success
+2020-11-06 15:41:37.0712 INFO Get Indent List Success
+2020-11-06 15:41:37.0712 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:42:48.1727 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:42:48.1727 INFO Get Party Master List Success
+2020-11-06 15:42:48.1813 INFO Get Indent List Success
+2020-11-06 15:42:48.1813 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:46:17.2083 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:46:49.6459 INFO Get Party Master List Success
+2020-11-06 15:46:49.6489 INFO Get Indent List Success
+2020-11-06 15:46:49.6489 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:48:23.0297 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:48:25.6357 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:48:25.6357 INFO Get Indent List Success
+2020-11-06 15:48:25.6357 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:07.4169 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:07.4169 INFO Get Indent List Success
+2020-11-06 15:49:07.4169 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:11.3626 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:11.3666 INFO Get Indent List Success
+2020-11-06 15:49:11.3666 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:24.6925 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:24.6952 INFO Get Indent List Success
+2020-11-06 15:49:24.6952 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:27.5286 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:27.5286 INFO Get Indent List Success
+2020-11-06 15:49:27.5596 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:27.5596 INFO Get Indent List Success
+2020-11-06 15:49:27.5596 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:34.8754 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:34.8754 INFO Get Indent List Success
+2020-11-06 15:49:34.8996 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:36.8427 INFO Get Allotment List Success
+2020-11-06 15:49:36.8427 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:45.2846 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:51.0288 INFO Get Allotment List Success
+2020-11-06 15:49:51.0498 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:49:51.0548 INFO Get Indent List Success
+2020-11-06 15:49:51.0548 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:07.5802 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:07.5802 INFO Get Indent List Success
+2020-11-06 15:50:07.5870 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:09.9282 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:09.9316 INFO Get Indent List Success
+2020-11-06 15:50:09.9585 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:09.9610 INFO Get Indent List Success
+2020-11-06 15:50:09.9610 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:11.5692 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:11.5692 INFO Get Indent List Success
+2020-11-06 15:50:11.5692 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:19.2043 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:19.2043 INFO Get Indent List Success
+2020-11-06 15:50:19.2101 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:20.1812 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:20.1812 INFO Get Indent List Success
+2020-11-06 15:50:20.1812 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:20.4106 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:20.4145 INFO Get Indent List Success
+2020-11-06 15:50:20.4145 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:20.6110 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:20.6190 INFO Get Indent List Success
+2020-11-06 15:50:20.6190 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:50:29.4548 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:52:13.9944 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:52:17.5500 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:52:17.5561 INFO Get Indent List Success
+2020-11-06 15:52:17.5775 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:52:19.4132 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:52:19.4132 INFO Get Indent List Success
+2020-11-06 15:52:19.5252 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:52:23.3966 INFO Get Party Master List Success
+2020-11-06 15:52:23.4055 INFO Get Product Master List Success
+2020-11-06 15:52:23.4055 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 15:56:51.2492 INFO Insert Indent Success :06-11-2020-004-23503: insert or update on table "molasses_indent" violates foreign key constraint "fk_from_unit"
+2020-11-06 15:56:55.2318 INFO Insert Indent Success :06-11-2020-004-23503: insert or update on table "molasses_indent" violates foreign key constraint "fk_from_unit"
+2020-11-06 15:59:49.6309 INFO Insert Indent Success :06-11-2020-004-23503: insert or update on table "molasses_indent" violates foreign key constraint "fk_from_unit"
+2020-11-06 16:00:03.2094 INFO Insert Indent Success :06-11-2020-004
+2020-11-06 16:00:03.2297 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:00:03.2297 INFO Get Indent List Success
+2020-11-06 16:00:03.2456 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:08.0749 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:08.0749 INFO Get Indent List Success
+2020-11-06 16:02:08.1008 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:08.1008 INFO Get Party Master List Success
+2020-11-06 16:02:08.1008 INFO Get Product Master List Success
+2020-11-06 16:02:08.1162 INFO Get Indent Details Success
+2020-11-06 16:02:08.1162 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:17.2880 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:17.2880 INFO Get Indent List Success
+2020-11-06 16:02:17.2880 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:19.4302 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:19.4302 INFO Get Indent List Success
+2020-11-06 16:02:19.4606 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:19.4606 INFO Get Party Master List Success
+2020-11-06 16:02:19.4606 INFO Get Product Master List Success
+2020-11-06 16:02:19.4606 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:34.8438 INFO Insert Indent Success :05-11-2020-004-23503: insert or update on table "molasses_indent" violates foreign key constraint "fk_from_unit"
+2020-11-06 16:02:41.2374 INFO Insert Indent Success :05-11-2020-004
+2020-11-06 16:02:41.2629 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:41.2629 INFO Get Indent List Success
+2020-11-06 16:02:41.2629 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:49.2938 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:49.2938 INFO Get Indent List Success
+2020-11-06 16:02:49.3186 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:49.3216 INFO Get Party Master List Success
+2020-11-06 16:02:49.3216 INFO Get Product Master List Success
+2020-11-06 16:02:49.3216 INFO Get Indent Details Success
+2020-11-06 16:02:49.3216 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:56.2124 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:02:56.2124 INFO Get Indent List Success
+2020-11-06 16:02:56.2124 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:03:14.0124 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:03:14.0124 INFO Get Indent List Success
+2020-11-06 16:03:14.0383 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:03:14.0383 INFO Get Party Master List Success
+2020-11-06 16:03:14.0383 INFO Get Product Master List Success
+2020-11-06 16:03:14.0383 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:04:19.7600 INFO Insert Indent Success :04-11-2020-004
+2020-11-06 16:04:19.7819 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:04:19.7819 INFO Get Indent List Success
+2020-11-06 16:04:19.7879 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:04:22.3378 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:04:22.3378 INFO Get Indent List Success
+2020-11-06 16:04:22.3603 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:04:22.3603 INFO Get Party Master List Success
+2020-11-06 16:04:22.3603 INFO Get Product Master List Success
+2020-11-06 16:04:22.3683 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:05:25.6085 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:05:28.5021 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:05:28.5084 INFO Get Indent List Success
+2020-11-06 16:05:28.5473 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:05:33.9390 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:05:33.9390 INFO Get Indent List Success
+2020-11-06 16:05:34.0191 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:05:34.0251 INFO Get Party Master List Success
+2020-11-06 16:05:34.0251 INFO Get Product Master List Success
+2020-11-06 16:05:34.0438 INFO Get Indent Details Success
+2020-11-06 16:05:34.0663 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:07:54.7758 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:07:54.7758 INFO Get Indent List Success
+2020-11-06 16:07:54.7758 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:07:58.7964 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:07:58.7964 INFO Get Indent List Success
+2020-11-06 16:07:58.8214 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:07:58.8214 INFO Get Party Master List Success
+2020-11-06 16:07:58.8214 INFO Get Product Master List Success
+2020-11-06 16:07:58.8214 INFO Get Indent Details Success
+2020-11-06 16:07:58.8214 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:01.1118 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:01.1118 INFO Get Indent List Success
+2020-11-06 16:08:01.1179 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:02.8459 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:02.8459 INFO Get Indent List Success
+2020-11-06 16:08:02.8699 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:02.8699 INFO Get Party Master List Success
+2020-11-06 16:08:02.8699 INFO Get Product Master List Success
+2020-11-06 16:08:02.8699 INFO Get Indent Details Success
+2020-11-06 16:08:02.8699 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:48.0001 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:48.0001 INFO Get Indent List Success
+2020-11-06 16:08:48.0080 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:49.9552 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:49.9552 INFO Get Indent List Success
+2020-11-06 16:08:49.9759 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:49.9759 INFO Get Party Master List Success
+2020-11-06 16:08:49.9759 INFO Get Product Master List Success
+2020-11-06 16:08:49.9759 INFO Get Indent Details Success
+2020-11-06 16:08:49.9759 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:53.1247 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:53.1247 INFO Get Indent List Success
+2020-11-06 16:08:53.1247 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:54.2581 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:54.2581 INFO Get Indent List Success
+2020-11-06 16:08:54.2811 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:54.2881 INFO Get Party Master List Success
+2020-11-06 16:08:54.2881 INFO Get Product Master List Success
+2020-11-06 16:08:54.2881 INFO Get Indent Details Success
+2020-11-06 16:08:54.2881 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:57.1615 INFO Update Indent Success :06-11-2020-004
+2020-11-06 16:08:57.1881 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:57.1881 INFO Get Indent List Success
+2020-11-06 16:08:57.1881 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:59.4669 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:59.4669 INFO Get Indent List Success
+2020-11-06 16:08:59.4971 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:08:59.4971 INFO Get Party Master List Success
+2020-11-06 16:08:59.4971 INFO Get Product Master List Success
+2020-11-06 16:08:59.4971 INFO Get Indent Details Success
+2020-11-06 16:08:59.5083 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:00.9397 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:03.5286 INFO Get Allotment List Success
+2020-11-06 16:09:03.5286 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:06.6895 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:06.6895 INFO Get Allotment List Success
+2020-11-06 16:09:06.7455 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:06.7455 INFO Get Party Master List Success
+2020-11-06 16:09:06.7455 INFO Get Indent List Success
+2020-11-06 16:09:06.7455 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:28.3814 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:09:28.3844 INFO Get Party Master List Success
+2020-11-06 16:09:28.3844 INFO Get Indent List Success
+2020-11-06 16:09:43.2973 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:10:04.1271 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:10:04.1271 INFO Get Party Master List Success
+2020-11-06 16:10:42.5523 INFO Get Indent List Success
+2020-11-06 16:10:43.3580 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:21.9399 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:27.3160 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:27.3323 INFO Get RR List Success
+2020-11-06 16:19:27.3571 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:34.3705 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:34.3705 INFO Get RR List Success
+2020-11-06 16:19:34.3705 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:35.5056 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:19:35.5086 INFO Get RR List Success
+2020-11-06 16:19:35.5086 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-06 16:20:02.6703 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:20:06.6409 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:20:06.6995 INFO Get MF2 List Success
+2020-11-06 16:20:06.7324 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:20:29.2450 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:20:29.2610 INFO Get Party Master List Success
+2020-11-06 16:20:29.2610 INFO Get Party Master List Success
+2020-11-06 16:20:29.2610 INFO Get Product Master List Success
+2020-11-06 16:20:29.2760 INFO Get VAT Master List Success
+2020-11-06 16:20:29.2929 INFO Get MF2  Details Success
+2020-11-06 16:20:29.2929 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:06.8389 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:06.8389 INFO Get MF2 List Success
+2020-11-06 16:21:06.8389 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:14.3307 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:15.7331 INFO Get Party Master List Success
+2020-11-06 16:21:15.7331 INFO Get Party Master List Success
+2020-11-06 16:21:15.7331 INFO Get Product Master List Success
+2020-11-06 16:21:15.7411 INFO Get VAT Master List Success
+2020-11-06 16:21:15.7411 INFO Get MF2  Details Success
+2020-11-06 16:21:15.7681 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:20.6816 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:20.6816 INFO Get MF2 List Success
+2020-11-06 16:21:20.6816 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:22.0441 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:23.3802 INFO Get Party Master List Success
+2020-11-06 16:21:23.3831 INFO Get Party Master List Success
+2020-11-06 16:21:23.3831 INFO Get Product Master List Success
+2020-11-06 16:21:23.3831 INFO Get VAT Master List Success
+2020-11-06 16:21:23.3831 INFO Get MF2  Details Success
+2020-11-06 16:21:23.3831 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:28.0745 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:28.0745 INFO Get MF2 List Success
+2020-11-06 16:21:28.0745 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:29.2229 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:52.3711 INFO Get Party Master List Success
+2020-11-06 16:21:52.3711 INFO Get Party Master List Success
+2020-11-06 16:21:52.3711 INFO Get Product Master List Success
+2020-11-06 16:21:52.3831 INFO Get VAT Master List Success
+2020-11-06 16:21:52.3831 INFO Get MF2  Details Success
+2020-11-06 16:21:52.3831 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:57.8326 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:57.8348 INFO Get MF2 List Success
+2020-11-06 16:21:57.8348 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:21:58.8960 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:22:30.9545 INFO Get Party Master List Success
+2020-11-06 16:22:30.9545 INFO Get Party Master List Success
+2020-11-06 16:22:30.9545 INFO Get Product Master List Success
+2020-11-06 16:22:30.9615 INFO Get VAT Master List Success
+2020-11-06 16:22:30.9615 INFO Get MF2  Details Success
+2020-11-06 16:22:30.9615 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:22:38.3661 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:22:38.3661 INFO Get MF2 List Success
+2020-11-06 16:22:38.3661 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:22:42.7274 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:06.9043 INFO Get Party Master List Success
+2020-11-06 16:23:06.9043 INFO Get Party Master List Success
+2020-11-06 16:23:06.9043 INFO Get Product Master List Success
+2020-11-06 16:23:06.9043 INFO Get VAT Master List Success
+2020-11-06 16:23:06.9182 INFO Get MF2  Details Success
+2020-11-06 16:23:11.8285 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:19.4165 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:19.4165 INFO Get MF2 List Success
+2020-11-06 16:23:19.4165 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:20.4622 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:36.6420 INFO Get Party Master List Success
+2020-11-06 16:23:36.6420 INFO Get Party Master List Success
+2020-11-06 16:23:36.6420 INFO Get Product Master List Success
+2020-11-06 16:23:36.6489 INFO Get VAT Master List Success
+2020-11-06 16:23:36.6489 INFO Get MF2  Details Success
+2020-11-06 16:23:39.0615 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:44.4427 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:44.4447 INFO Get MF2 List Success
+2020-11-06 16:23:44.4447 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:46.1974 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:23:46.1974 INFO Get Party Master List Success
+2020-11-06 16:23:46.1974 INFO Get Party Master List Success
+2020-11-06 16:23:46.1974 INFO Get Product Master List Success
+2020-11-06 16:23:46.1974 INFO Get VAT Master List Success
+2020-11-06 16:23:46.2144 INFO Get MF2  Details Success
+2020-11-06 16:25:16.2114 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:25:34.0573 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:25:34.0573 INFO Get Party Master List Success
+2020-11-06 16:25:34.0573 INFO Get Party Master List Success
+2020-11-06 16:25:34.0573 INFO Get Product Master List Success
+2020-11-06 16:25:34.0700 INFO Get VAT Master List Success
+2020-11-06 16:25:34.0700 INFO Get MF2  Details Success
+2020-11-06 16:25:41.8295 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:25:50.2101 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:25:50.2101 INFO Get Party Master List Success
+2020-11-06 16:25:50.2101 INFO Get Party Master List Success
+2020-11-06 16:25:50.2101 INFO Get Product Master List Success
+2020-11-06 16:25:50.2101 INFO Get VAT Master List Success
+2020-11-06 16:25:50.2274 INFO Get MF2  Details Success
+2020-11-06 16:26:03.7899 INFO Get Party Master List Success
+2020-11-06 16:26:03.7899 INFO Get Party Master List Success
+2020-11-06 16:26:03.7899 INFO Get Product Master List Success
+2020-11-06 16:26:10.5170 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:26:10.5170 INFO Get Party Master List Success
+2020-11-06 16:26:10.5239 INFO Get Party Master List Success
+2020-11-06 16:26:10.5239 INFO Get Product Master List Success
+2020-11-06 16:26:10.5239 INFO Get VAT Master List Success
+2020-11-06 16:26:10.5239 INFO Get MF2  Details Success
+2020-11-06 16:26:19.8558 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:26:23.9921 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:26:23.9921 INFO Get Party Master List Success
+2020-11-06 16:26:23.9921 INFO Get Party Master List Success
+2020-11-06 16:26:23.9921 INFO Get Product Master List Success
+2020-11-06 16:26:23.9921 INFO Get VAT Master List Success
+2020-11-06 16:26:24.0120 INFO Get MF2  Details Success
+2020-11-06 16:26:45.0927 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:26:48.1085 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:26:48.1085 INFO Get Party Master List Success
+2020-11-06 16:26:48.1085 INFO Get Party Master List Success
+2020-11-06 16:26:48.1184 INFO Get Product Master List Success
+2020-11-06 16:26:48.1184 INFO Get VAT Master List Success
+2020-11-06 16:26:48.1184 INFO Get MF2  Details Success
+2020-11-06 16:27:06.2749 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:27:50.2629 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:27:50.2629 INFO Get Party Master List Success
+2020-11-06 16:27:50.2629 INFO Get Party Master List Success
+2020-11-06 16:27:50.2726 INFO Get Product Master List Success
+2020-11-06 16:27:50.2726 INFO Get VAT Master List Success
+2020-11-06 16:27:50.2726 INFO Get MF2  Details Success
+2020-11-06 16:28:25.1886 INFO Get User Success :45-Riga Sugar Company Limited
+2020-11-06 16:29:02.8620 INFO Update MF2 Fail :06-11-2020-001-Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2020-11-06 16:30:38.9933 INFO Update MF2 Fail :06-11-2020-001-Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2020-11-06 16:30:52.1353 INFO Update MF2 Fail :06-11-2020-001-Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2020-11-06 16:34:22.6936 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:34:25.0095 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:34:25.0095 INFO Get MF2 List Success
+2020-11-06 16:34:25.0554 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:34:27.5600 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:34:27.5823 INFO Get Party Master List Success
+2020-11-06 16:34:27.5856 INFO Get Party Master List Success
+2020-11-06 16:34:27.5856 INFO Get Product Master List Success
+2020-11-06 16:34:27.6113 INFO Get MF2  Details Success
+2020-11-06 16:34:40.9293 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:34:53.2150 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:34:53.2150 INFO Get Party Master List Success
+2020-11-06 16:34:53.2150 INFO Get Party Master List Success
+2020-11-06 16:34:53.2150 INFO Get Product Master List Success
+2020-11-06 16:34:53.2317 INFO Get MF2  Details Success
+2020-11-06 16:35:07.8123 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:35:10.6850 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:35:10.6850 INFO Get Party Master List Success
+2020-11-06 16:35:10.6850 INFO Get Party Master List Success
+2020-11-06 16:35:10.6944 INFO Get Product Master List Success
+2020-11-06 16:35:10.6944 INFO Get MF2  Details Success
+2020-11-06 16:35:20.0120 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:35:33.8326 INFO Update MF2 Success :06-11-2020-003
+2020-11-06 16:35:34.6748 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:35:34.6748 INFO Get MF2 List Success
+2020-11-06 16:35:34.6798 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:35:41.0247 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:35:41.0247 INFO Get Party Master List Success
+2020-11-06 16:35:41.0247 INFO Get Party Master List Success
+2020-11-06 16:35:41.0247 INFO Get Product Master List Success
+2020-11-06 16:35:41.0415 INFO Get MF2  Details Success
+2020-11-06 16:36:03.3573 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:13.7607 INFO Update MF2 Success :06-11-2020-003
+2020-11-06 16:36:13.7836 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:13.7916 INFO Get MF2 List Success
+2020-11-06 16:36:13.7916 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:17.9825 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:17.9825 INFO Get Party Master List Success
+2020-11-06 16:36:17.9825 INFO Get Party Master List Success
+2020-11-06 16:36:17.9915 INFO Get Product Master List Success
+2020-11-06 16:36:17.9915 INFO Get MF2  Details Success
+2020-11-06 16:36:17.9915 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:22.2241 INFO Update MF2 Success :06-11-2020-003
+2020-11-06 16:36:22.2450 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:22.2450 INFO Get MF2 List Success
+2020-11-06 16:36:22.2450 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:24.9478 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:24.9786 INFO Get MF3 List Success
+2020-11-06 16:36:24.9786 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:26.2897 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:36:26.2897 INFO Get Product Master List Success
+2020-11-06 16:36:26.2897 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:37:00.0942 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:37:39.8974 INFO Get Product Master List Success
+2020-11-06 16:37:39.8974 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:43:00.4906 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:05.7030 INFO Sugarcanepurchase Get List Success
+2020-11-06 16:43:05.7030 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:05.7472 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:06.8783 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:06.8883 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:08.5093 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:08.5093 INFO Get User Success :53-Hpcl Biofuels Limited, Wc
+2020-11-06 16:43:44.5272 INFO Get User Success :44-Administrator
+2020-11-06 16:43:48.5063 INFO Get Party Type Master List Success
+2020-11-06 16:43:48.5132 INFO Get User Success :44-Administrator
+2020-11-06 16:43:50.5518 INFO Get VAT Type Master List Success
+2020-11-06 16:43:50.5571 INFO Get User Success :44-Administrator
+2020-11-06 16:43:51.2340 INFO Get User Success :44-Administrator
+2020-11-06 16:43:52.7051 INFO Get Party Type Master List Success
+2020-11-06 16:43:52.7101 INFO Get UOM List Success
+2020-11-06 16:43:52.7101 INFO Get Product Type Master List Success
+2020-11-06 16:43:52.7101 INFO Get VAT Type Master List Success
+2020-11-06 16:43:52.7101 INFO Get User Success :44-Administrator
+2020-11-06 16:44:09.5953 INFO Get Party Master List Success
+2020-11-06 16:44:30.5137 INFO Get Product Master List Success
+2020-11-06 16:44:43.1577 INFO Get User Success :44-Administrator
+2020-11-06 16:44:44.9785 INFO Get User Success :44-Administrator
+2020-11-06 16:44:45.9708 INFO Get Party Type Master List Success
+2020-11-06 16:44:45.9708 INFO Get UOM List Success
+2020-11-06 16:44:45.9708 INFO Get Product Type Master List Success
+2020-11-06 16:44:45.9708 INFO Get VAT Type Master List Success
+2020-11-06 16:44:45.9778 INFO Get User Success :44-Administrator
+2020-11-06 16:44:50.2506 INFO Get User Success :44-Administrator
+2020-11-06 16:45:57.5138 INFO Get Party Type Master List Success
+2020-11-06 16:45:57.5138 INFO Get UOM List Success
+2020-11-06 16:45:57.5138 INFO Get Product Type Master List Success
+2020-11-06 16:45:57.5138 INFO Get VAT Type Master List Success
+2020-11-06 16:45:57.5138 INFO Get User Success :44-Administrator
+2020-11-06 16:51:25.5637 INFO Get User Success :44-Administrator
+2020-11-06 16:51:28.7368 INFO Get Party Master List Success
+2020-11-06 16:51:28.7448 INFO Get User Success :44-Administrator
+2020-11-06 16:51:31.0418 INFO Get VAT Type Master List Success
+2020-11-06 16:51:31.0418 INFO Get User Success :44-Administrator
+2020-11-06 16:51:32.8650 INFO Get User Success :44-Administrator
+2020-11-06 16:51:34.2264 INFO Get VAT Type Master List Success
+2020-11-06 16:51:34.2264 INFO Get User Success :44-Administrator
+2020-11-06 16:51:36.1954 INFO Get User Success :44-Administrator
+2020-11-06 16:51:37.7982 INFO Get VAT Type Master List Success
+2020-11-06 16:51:37.7982 INFO Get User Success :44-Administrator
+2020-11-06 16:51:38.4953 INFO Get User Success :44-Administrator
+2020-11-06 16:51:39.1378 INFO Get User Success :44-Administrator
+2020-11-06 16:51:39.6418 INFO Get UOM List Success
+2020-11-06 16:51:39.6478 INFO Get User Success :44-Administrator
+2020-11-06 16:51:40.0132 INFO Get UOM List Success
+2020-11-06 16:51:40.0132 INFO Get User Success :44-Administrator
+2020-11-06 16:51:40.4291 INFO Get Product Master List Success
+2020-11-06 16:51:40.4291 INFO Get User Success :44-Administrator
+2020-11-06 16:51:40.7493 INFO Get Product Type Master List Success
+2020-11-06 16:51:40.7493 INFO Get User Success :44-Administrator
+2020-11-06 16:51:41.2834 INFO Get Party Master List Success
+2020-11-06 16:51:41.2834 INFO Get User Success :44-Administrator
+2020-11-06 16:51:41.9126 INFO Get Party Type Master List Success
+2020-11-06 16:51:41.9156 INFO Get User Success :44-Administrator
+2020-11-06 16:51:45.7957 INFO Get State List Success
+2020-11-06 16:51:45.8036 INFO Get User Success :44-Administrator
+2020-11-06 16:51:46.8037 INFO Get access_type List Success
+2020-11-06 16:51:46.8037 INFO Get User Success :44-Administrator
+2020-11-06 16:51:47.5615 INFO Get view_Role_master List Success
+2020-11-06 16:51:47.5722 INFO Get User Success :44-Administrator
+2020-11-06 16:51:48.2277 INFO Get Role Level List Success
+2020-11-06 16:51:48.2277 INFO Get User Success :44-Administrator
+2020-11-06 16:51:48.8385 INFO Get User Success :44-Administrator
+2020-11-06 16:51:49.1035 INFO Get Division List Success
+2020-11-06 16:51:49.1035 INFO Get User Success :44-Administrator
+2020-11-06 16:51:49.5774 INFO Get State List Success
+2020-11-06 16:51:49.5903 INFO Get User Success :44-Administrator
+2020-11-06 16:51:52.5081 INFO Org Get List Success
+2020-11-06 16:51:52.5081 INFO Get User Success :44-Administrator
+2020-11-06 16:51:53.5252 INFO GetFinacListValues Success
+2020-11-06 16:51:53.5252 INFO Get User Success :44-Administrator
+2020-11-06 16:51:54.3059 INFO Module Get List Success
+2020-11-06 16:51:54.3059 INFO Get User Success :44-Administrator
+2020-11-06 16:51:54.8677 INFO Get SubModule Sucess
+2020-11-06 16:51:54.8677 INFO Get User Success :44-Administrator
+2020-11-06 16:51:55.5164 INFO Get TabNames List Success
+2020-11-06 16:51:55.5254 INFO Get User Success :44-Administrator
+2020-11-06 16:51:57.7173 INFO Org Get List Success
+2020-11-06 16:51:57.7173 INFO Module Get List Success
+2020-11-06 16:51:57.7173 INFO Get User Success :44-Administrator
+2020-11-06 16:52:04.4582 INFO GetFinacListValues Success
+2020-11-06 16:52:04.4662 INFO Get User Success :44-Administrator
+2020-11-06 16:52:06.7605 INFO Get Party Type Master List Success
+2020-11-06 16:52:06.7605 INFO Get User Success :44-Administrator
+2020-11-06 16:52:07.7840 INFO Get Party Master List Success
+2020-11-06 16:52:07.7919 INFO Get User Success :44-Administrator
+2020-11-06 16:52:08.5544 INFO Get Product Type Master List Success
+2020-11-06 16:52:08.5544 INFO Get User Success :44-Administrator
+2020-11-06 16:52:09.2663 INFO Get Product Master List Success
+2020-11-06 16:52:09.2663 INFO Get User Success :44-Administrator
+2020-11-06 16:52:10.0967 INFO Get UOM List Success
+2020-11-06 16:52:10.0967 INFO Get User Success :44-Administrator
+2020-11-06 16:52:10.7195 INFO Get User Success :44-Administrator
+2020-11-06 16:52:11.2171 INFO Get User Success :44-Administrator
+2020-11-06 16:52:12.5627 INFO Get User Success :44-Administrator
+2020-11-06 16:52:28.9786 INFO Get User Success :44-Administrator
+2020-11-06 16:52:29.8680 INFO Get VAT Type Master List Success
+2020-11-06 16:52:29.8680 INFO Get User Success :44-Administrator
+2020-11-06 16:52:30.3419 INFO Get User Success :44-Administrator
+2020-11-06 16:52:31.9230 INFO Get VAT Type Master List Success
+2020-11-06 16:52:31.9230 INFO Get User Success :44-Administrator
+2020-11-06 16:52:32.5782 INFO Get User Success :44-Administrator
+2020-11-06 16:55:36.9441 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:39.6614 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:39.6674 INFO Get MF2 List Success
+2020-11-06 16:55:39.6674 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:45.5735 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:45.5735 INFO Get Party Master List Success
+2020-11-06 16:55:45.5735 INFO Get Party Master List Success
+2020-11-06 16:55:45.5735 INFO Get Product Master List Success
+2020-11-06 16:55:45.5995 INFO Get MF2  Details Success
+2020-11-06 16:55:45.6040 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:49.6202 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:49.6202 INFO Get MF2 List Success
+2020-11-06 16:55:49.6202 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:50.2017 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 16:55:50.2017 INFO Get Party Master List Success
+2020-11-06 16:55:50.2017 INFO Get Party Master List Success
+2020-11-06 16:55:50.2101 INFO Get Product Master List Success
+2020-11-06 16:55:50.2101 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:07.3766 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:10.2192 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:10.2192 INFO Get RR List Success
+2020-11-06 17:05:10.2470 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:11.3688 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:11.3688 INFO Get MF2 List Success
+2020-11-06 17:05:11.3935 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:13.8323 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:05:13.9197 INFO Get Party Master List Success
+2020-11-06 17:05:13.9197 INFO Get Party Master List Success
+2020-11-06 17:05:13.9345 INFO Get Product Master List Success
+2020-11-06 17:05:13.9345 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:06:01.4862 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:06:01.4862 INFO Get Party Master List Success
+2020-11-06 17:06:01.4925 INFO Get Party Master List Success
+2020-11-06 17:06:01.4925 INFO Get Product Master List Success
+2020-11-06 17:06:01.4925 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:06:58.2331 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:06:58.2331 INFO Get Party Master List Success
+2020-11-06 17:06:58.2331 INFO Get Party Master List Success
+2020-11-06 17:06:58.2418 INFO Get Product Master List Success
+2020-11-06 17:06:58.2418 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:07:24.9927 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:07:24.9927 INFO Get Party Master List Success
+2020-11-06 17:07:24.9927 INFO Get Party Master List Success
+2020-11-06 17:07:24.9927 INFO Get Product Master List Success
+2020-11-06 17:07:24.9927 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:07:39.4184 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:07:39.4184 INFO Get Party Master List Success
+2020-11-06 17:07:39.4184 INFO Get Party Master List Success
+2020-11-06 17:07:39.4184 INFO Get Product Master List Success
+2020-11-06 17:07:39.4314 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:07:58.1899 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:07:58.1899 INFO Get Party Master List Success
+2020-11-06 17:07:58.1963 INFO Get Party Master List Success
+2020-11-06 17:07:58.1963 INFO Get Product Master List Success
+2020-11-06 17:07:58.1963 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:08:05.0531 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:08:05.0562 INFO Get Party Master List Success
+2020-11-06 17:08:05.0562 INFO Get Party Master List Success
+2020-11-06 17:08:05.0562 INFO Get Product Master List Success
+2020-11-06 17:08:05.0562 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:15:04.7739 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:15:08.6973 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:15:08.6973 INFO Get MF2 List Success
+2020-11-06 17:15:08.7434 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:15:10.8220 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:15:10.8220 INFO Get Party Master List Success
+2020-11-06 17:15:10.8220 INFO Get Party Master List Success
+2020-11-06 17:15:10.8372 INFO Get Product Master List Success
+2020-11-06 17:15:10.8372 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:18:13.5525 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:18:13.5595 INFO Get Party Master List Success
+2020-11-06 17:18:13.5595 INFO Get Party Master List Success
+2020-11-06 17:18:13.5595 INFO Get Product Master List Success
+2020-11-06 17:18:13.5595 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:18:53.9488 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:18:53.9488 INFO Get Party Master List Success
+2020-11-06 17:18:53.9488 INFO Get Party Master List Success
+2020-11-06 17:18:53.9488 INFO Get Product Master List Success
+2020-11-06 17:18:53.9621 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:22:53.7643 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:22:56.7556 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:22:56.7648 INFO Get MF2 List Success
+2020-11-06 17:22:56.8041 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:23:00.5473 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:23:00.5567 INFO Get Party Master List Success
+2020-11-06 17:23:00.5567 INFO Get Party Master List Success
+2020-11-06 17:23:00.5739 INFO Get Product Master List Success
+2020-11-06 17:23:00.5850 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:23:10.1676 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:23:10.1676 INFO Get MF2 List Success
+2020-11-06 17:23:10.1785 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:23:25.7137 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:05.4122 INFO Get MF2 List Success
+2020-11-06 17:24:05.4182 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:14.9850 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:42.3018 INFO Get MF2 List Success
+2020-11-06 17:24:42.3118 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:46.4533 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:46.4610 INFO Get Party Master List Success
+2020-11-06 17:24:46.4610 INFO Get Party Master List Success
+2020-11-06 17:24:46.4610 INFO Get Product Master List Success
+2020-11-06 17:24:46.5079 INFO Get MF2  Details Success
+2020-11-06 17:24:46.5079 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:48.6049 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:48.6049 INFO Get MF2 List Success
+2020-11-06 17:24:48.6049 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:50.8595 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:50.8665 INFO Get Party Master List Success
+2020-11-06 17:24:50.8665 INFO Get Party Master List Success
+2020-11-06 17:24:50.8665 INFO Get Product Master List Success
+2020-11-06 17:24:50.8967 INFO Get MF2  Details Success
+2020-11-06 17:24:50.8996 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:54.8255 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:54.8255 INFO Get MF3 List Success
+2020-11-06 17:24:54.8255 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:56.1445 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:24:56.1474 INFO Get Product Master List Success
+2020-11-06 17:24:56.1474 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:30:58.3153 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:31:00.8175 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:31:00.8244 INFO Get MF2 List Success
+2020-11-06 17:31:00.8629 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:31:01.9329 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:31:01.9329 INFO Get MF3 List Success
+2020-11-06 17:31:01.9329 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:31:03.1623 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:31:03.1713 INFO Get Product Master List Success
+2020-11-06 17:31:03.1713 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:36:19.3095 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:36:19.3095 INFO Get MF2 List Success
+2020-11-06 17:36:19.3095 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:36:20.9495 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:36:20.9495 INFO Get Party Master List Success
+2020-11-06 17:36:20.9495 INFO Get Party Master List Success
+2020-11-06 17:36:20.9621 INFO Get Product Master List Success
+2020-11-06 17:36:20.9621 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:01.8538 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:01.8538 INFO Get Party Master List Success
+2020-11-06 17:39:01.8538 INFO Get Party Master List Success
+2020-11-06 17:39:01.8538 INFO Get Product Master List Success
+2020-11-06 17:39:01.8665 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:03.7026 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:03.7026 INFO Get MF2 List Success
+2020-11-06 17:39:03.7026 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:04.5207 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:04.5237 INFO Get Party Master List Success
+2020-11-06 17:39:04.5237 INFO Get Party Master List Success
+2020-11-06 17:39:04.5237 INFO Get Product Master List Success
+2020-11-06 17:39:04.5237 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:06.1972 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:06.1972 INFO Get MF2 List Success
+2020-11-06 17:39:06.1972 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:08.0355 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:08.0385 INFO Get MF3 List Success
+2020-11-06 17:39:08.0385 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:09.3050 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:09.3050 INFO Get MF2 List Success
+2020-11-06 17:39:09.3050 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:11.0422 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:11.0422 INFO Get Party Master List Success
+2020-11-06 17:39:11.0422 INFO Get Party Master List Success
+2020-11-06 17:39:11.0422 INFO Get Product Master List Success
+2020-11-06 17:39:11.0551 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:13.3835 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:39:13.3835 INFO Get MF2 List Success
+2020-11-06 17:39:13.3835 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:24.4988 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:24.4988 INFO Get MF2 List Success
+2020-11-06 17:44:24.5121 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:28.2490 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:28.2490 INFO Get Party Master List Success
+2020-11-06 17:44:28.2490 INFO Get Party Master List Success
+2020-11-06 17:44:28.2591 INFO Get Product Master List Success
+2020-11-06 17:44:28.2768 INFO Get MF2  Details Success
+2020-11-06 17:44:28.2768 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:34.3049 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:34.3049 INFO Get MF2 List Success
+2020-11-06 17:44:34.3049 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:36.3893 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:36.3893 INFO Get Party Master List Success
+2020-11-06 17:44:36.3893 INFO Get Party Master List Success
+2020-11-06 17:44:36.3981 INFO Get Product Master List Success
+2020-11-06 17:44:36.3981 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:37.8823 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:44:37.8823 INFO Get MF2 List Success
+2020-11-06 17:44:37.8823 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:54.1623 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:54.1643 INFO Get MF2 List Success
+2020-11-06 17:47:54.1643 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:55.1510 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:55.1510 INFO Get Party Master List Success
+2020-11-06 17:47:55.1510 INFO Get Party Master List Success
+2020-11-06 17:47:55.1510 INFO Get Product Master List Success
+2020-11-06 17:47:55.1670 INFO Get MF2  Details Success
+2020-11-06 17:47:55.1670 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:56.9837 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:56.9837 INFO Get MF2 List Success
+2020-11-06 17:47:56.9837 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:58.3261 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:47:58.3261 INFO Get Party Master List Success
+2020-11-06 17:47:58.3261 INFO Get Party Master List Success
+2020-11-06 17:47:58.3261 INFO Get Product Master List Success
+2020-11-06 17:47:58.3406 INFO Get MF2  Details Success
+2020-11-06 17:47:58.3406 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:06.8390 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:06.8390 INFO Get MF3 List Success
+2020-11-06 17:48:06.8550 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:08.4347 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:08.4347 INFO Get Product Master List Success
+2020-11-06 17:48:08.4347 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:16.0689 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:16.0726 INFO Get RR List Success
+2020-11-06 17:48:16.0726 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:17.6145 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:17.6176 INFO Get Product Type Master List Success
+2020-11-06 17:48:17.6176 INFO Get NOC Sucess:1
+2020-11-06 17:48:17.6176 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:20.7163 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:48:30.5382 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:39.3992 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:39.3992 INFO Get MF2 List Success
+2020-11-06 17:51:39.3992 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:41.4001 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:41.4001 INFO Get Party Master List Success
+2020-11-06 17:51:41.4001 INFO Get Party Master List Success
+2020-11-06 17:51:41.4001 INFO Get Product Master List Success
+2020-11-06 17:51:41.4163 INFO Get MF2  Details Success
+2020-11-06 17:51:41.4163 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:42.9052 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:42.9052 INFO Get MF2 List Success
+2020-11-06 17:51:42.9052 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:43.4544 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:51:43.4544 INFO Get Party Master List Success
+2020-11-06 17:51:43.4614 INFO Get Party Master List Success
+2020-11-06 17:51:43.4614 INFO Get Product Master List Success
+2020-11-06 17:51:43.4614 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:52:56.3577 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:52:56.3577 INFO Get Party Master List Success
+2020-11-06 17:52:56.3577 INFO Get Party Master List Success
+2020-11-06 17:52:56.3667 INFO Get Product Master List Success
+2020-11-06 17:52:56.3667 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:53:26.3297 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:53:26.3297 INFO Get Party Master List Success
+2020-11-06 17:53:26.3367 INFO Get Party Master List Success
+2020-11-06 17:53:26.3367 INFO Get Product Master List Success
+2020-11-06 17:53:26.3367 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:15.5344 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:15.5344 INFO Get Party Master List Success
+2020-11-06 17:54:15.5414 INFO Get Party Master List Success
+2020-11-06 17:54:15.5414 INFO Get Product Master List Success
+2020-11-06 17:54:15.5414 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:16.5339 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:16.5339 INFO Get Party Master List Success
+2020-11-06 17:54:16.5407 INFO Get Party Master List Success
+2020-11-06 17:54:16.5407 INFO Get Product Master List Success
+2020-11-06 17:54:16.5407 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:16.8927 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:16.8927 INFO Get Party Master List Success
+2020-11-06 17:54:16.8986 INFO Get Party Master List Success
+2020-11-06 17:54:16.8986 INFO Get Product Master List Success
+2020-11-06 17:54:16.8986 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.1081 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.1081 INFO Get Party Master List Success
+2020-11-06 17:54:17.1171 INFO Get Party Master List Success
+2020-11-06 17:54:17.1171 INFO Get Product Master List Success
+2020-11-06 17:54:17.1171 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.4514 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.4514 INFO Get Party Master List Success
+2020-11-06 17:54:17.4514 INFO Get Party Master List Success
+2020-11-06 17:54:17.4514 INFO Get Product Master List Success
+2020-11-06 17:54:17.4633 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.6478 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.6478 INFO Get Party Master List Success
+2020-11-06 17:54:17.6478 INFO Get Party Master List Success
+2020-11-06 17:54:17.6478 INFO Get Product Master List Success
+2020-11-06 17:54:17.6698 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.9884 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:17.9914 INFO Get Party Master List Success
+2020-11-06 17:54:17.9914 INFO Get Party Master List Success
+2020-11-06 17:54:17.9914 INFO Get Product Master List Success
+2020-11-06 17:54:17.9914 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:18.1910 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:18.1910 INFO Get Party Master List Success
+2020-11-06 17:54:18.1969 INFO Get Party Master List Success
+2020-11-06 17:54:18.1969 INFO Get Product Master List Success
+2020-11-06 17:54:18.1969 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:19.9057 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:19.9057 INFO Get MF3 List Success
+2020-11-06 17:54:19.9057 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:20.9958 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 17:54:20.9958 INFO Get Product Master List Success
+2020-11-06 17:54:20.9958 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:11.6621 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:11.6673 INFO Get Product Master List Success
+2020-11-06 18:00:11.6673 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:13.5887 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:13.5887 INFO Get Product Master List Success
+2020-11-06 18:00:13.5887 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:13.8044 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:13.8044 INFO Get Product Master List Success
+2020-11-06 18:00:13.8044 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:13.9879 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.0009 INFO Get Product Master List Success
+2020-11-06 18:00:14.0009 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.1735 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.1735 INFO Get Product Master List Success
+2020-11-06 18:00:14.1794 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.3560 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.3560 INFO Get Product Master List Success
+2020-11-06 18:00:14.3560 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.5714 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:14.5714 INFO Get Product Master List Success
+2020-11-06 18:00:14.5714 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:17.9627 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:00:17.9627 INFO Get Product Master List Success
+2020-11-06 18:00:17.9627 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:01:53.7954 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:01:57.5097 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:01:57.5097 INFO Get MF2 List Success
+2020-11-06 18:01:57.5534 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:01:59.2165 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:01:59.2165 INFO Get Party Master List Success
+2020-11-06 18:01:59.2265 INFO Get Party Master List Success
+2020-11-06 18:01:59.2265 INFO Get Product Master List Success
+2020-11-06 18:01:59.2534 INFO Get MF2  Details Success
+2020-11-06 18:01:59.2584 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:02:01.6125 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:02:01.6125 INFO Get MF2 List Success
+2020-11-06 18:02:01.6175 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:02:02.2347 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:02:02.2347 INFO Get Party Master List Success
+2020-11-06 18:02:02.2416 INFO Get Party Master List Success
+2020-11-06 18:02:02.2416 INFO Get Product Master List Success
+2020-11-06 18:02:02.2416 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:05:38.2674 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:05:38.2745 INFO Get Party Master List Success
+2020-11-06 18:05:38.2745 INFO Get Party Master List Success
+2020-11-06 18:05:38.2745 INFO Get Product Master List Success
+2020-11-06 18:05:38.2984 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:05:49.6767 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:05:49.6828 INFO Get Party Master List Success
+2020-11-06 18:05:49.6828 INFO Get Party Master List Success
+2020-11-06 18:05:49.6828 INFO Get Product Master List Success
+2020-11-06 18:05:49.7036 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:13.6084 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:13.6084 INFO Get Party Master List Success
+2020-11-06 18:10:13.6214 INFO Get Party Master List Success
+2020-11-06 18:10:13.6214 INFO Get Product Master List Success
+2020-11-06 18:10:13.6384 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:15.7273 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:15.7273 INFO Get MF3 List Success
+2020-11-06 18:10:15.7273 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:16.8598 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:16.8668 INFO Get Product Master List Success
+2020-11-06 18:10:16.8668 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:17.8576 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:17.8576 INFO Get MF2 List Success
+2020-11-06 18:10:17.8698 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:19.6398 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:19.6398 INFO Get Party Master List Success
+2020-11-06 18:10:19.6527 INFO Get Party Master List Success
+2020-11-06 18:10:19.6527 INFO Get Product Master List Success
+2020-11-06 18:10:19.6865 INFO Get MF2  Details Success
+2020-11-06 18:10:19.6865 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:21.2865 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-06 18:10:21.2915 INFO Get MF2 List Success
+2020-11-06 18:10:21.2915 INFO Get User Success :49-Harinagar Sugar Mills Limited

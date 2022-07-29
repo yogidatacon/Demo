@@ -1,0 +1,206 @@
+2021-05-17 09:34:49.0434 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 09:34:49.0883 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 09:34:49.1382 INFO Get User Success :hpcl_wc
+2021-05-17 09:34:49.2100 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 09:34:49.2409 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 09:34:49.2519 INFO Get User Success :hpcl_wc
+2021-05-17 09:35:01.7770 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 09:35:01.8388 INFO Get RR List Success
+2021-05-17 09:35:01.8447 INFO Get User Success :hpcl_wc
+2021-05-17 09:35:47.0276 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 09:35:47.0314 INFO Get Product Master List Success
+2021-05-17 09:35:59.5962 INFO Get State List Success
+2021-05-17 09:35:59.5962 INFO Get NOC Sucess:126
+2021-05-17 09:35:59.6099 INFO Get NOC Sucess:Req/WC/HPL/ETH-NOC/2020-21/6
+2021-05-17 09:35:59.6380 INFO Get NOC Details Success
+2021-05-17 09:35:59.6380 INFO Get Customer Details Success
+2021-05-17 09:35:59.7174 INFO Check WorkFlow List Success
+2021-05-17 09:35:59.7174 INFO Get User Success :hpcl_wc
+2021-05-17 10:10:34.1289 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 10:10:34.1648 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 10:10:34.2093 INFO Get User Success :hpcl_wc
+2021-05-17 10:10:41.6209 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-05-17 10:10:41.6865 INFO Get RR List Success
+2021-05-17 10:10:41.6865 INFO Get User Success :hpcl_wc
+2021-05-17 10:23:58.6641 INFO Get User Success :100-Deputy Commissioner
+2021-05-17 10:23:58.7080 INFO Get User Success :100-Deputy Commissioner
+2021-05-17 10:23:58.7612 INFO Get User Success :hodyco
+2021-05-17 10:24:03.9298 INFO Get User Success :100-Deputy Commissioner
+2021-05-17 10:24:04.0640 INFO Get User Success :100-Deputy Commissioner
+2021-05-17 10:24:04.0640 INFO Check WorkFlow List Success
+2021-05-17 10:24:04.1338 INFO Get RR List Success
+2021-05-17 10:24:04.1379 INFO Get User Success :hodyco
+2021-05-17 10:24:07.4339 INFO Get User Success :100-Deputy Commissioner
+2021-05-17 10:24:07.4359 INFO Check WorkFlow List Success
+2021-05-17 10:24:07.4999 INFO Get RR List Success
+2021-05-17 10:24:07.4999 INFO Get User Success :hodyco
+2021-05-17 10:24:09.2135 INFO Get User Success :100-Deputy Commissioner
+2021-05-17 10:24:09.2135 INFO Check WorkFlow List Success
+2021-05-17 10:24:09.2778 INFO Get RR List Success
+2021-05-17 10:24:09.2818 INFO Get User Success :hodyco
+2021-05-17 10:24:29.1549 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 10:24:29.2003 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 10:24:29.2003 INFO Get User Success :newswadeshi_dis
+2021-05-17 10:24:40.8730 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 10:24:40.9376 INFO Get RR List Success
+2021-05-17 10:24:40.9376 INFO Get User Success :newswadeshi_dis
+2021-05-17 11:43:29.1140 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 11:43:29.2420 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 11:43:29.3357 INFO Get User Success :newswadeshi_dis
+2021-05-17 11:46:16.8605 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 11:46:16.9172 INFO Get User Success :newswadeshi_dis
+2021-05-17 11:46:49.8706 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 11:46:49.8955 INFO Get Dispach Master List Success
+2021-05-17 11:46:49.9202 INFO Get VAT Master List Success
+2021-05-17 11:46:49.9202 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:22:36.0667 INFO Pass Insertion Sucess:748-NSD
+2021-05-17 12:23:02.1746 INFO Pass Insertion Sucess:749-NSD
+2021-05-17 12:23:02.2204 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:23:02.2414 INFO Get Pass List Success
+2021-05-17 12:23:03.9266 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:23:14.7490 INFO Get Pass List Success
+2021-05-17 12:23:35.5014 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:23:35.5014 INFO Get Dispach Master List Success
+2021-05-17 12:23:35.5204 INFO Get VAT Master List Success
+2021-05-17 12:23:35.5204 INFO Get Pass List Success
+2021-05-17 12:23:35.5464 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:24:11.4414 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:24:11.4414 INFO Get Dispach Master List Success
+2021-05-17 12:24:11.4514 INFO Get VAT Master List Success
+2021-05-17 12:24:11.4514 INFO Get Pass List Success
+2021-05-17 12:24:11.4514 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:26:56.4308 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:26:56.4438 INFO Get Pass List Success
+2021-05-17 12:35:00.5994 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:35:13.9688 INFO Get Pass List Success
+2021-05-17 12:35:24.5060 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:35:24.5060 INFO Get Dispach Master List Success
+2021-05-17 12:35:24.5240 INFO Get VAT Master List Success
+2021-05-17 12:35:24.5240 INFO Get Pass List Success
+2021-05-17 12:35:24.5384 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:35:40.0522 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:35:40.0651 INFO Get Pass List Success
+2021-05-17 12:35:44.9923 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:35:55.1090 INFO Get Pass List Success
+2021-05-17 12:36:40.0579 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:36:40.0579 INFO Get Dispach Master List Success
+2021-05-17 12:36:40.0664 INFO Get VAT Master List Success
+2021-05-17 12:36:40.0664 INFO Get Pass List Success
+2021-05-17 12:36:40.0764 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:37:09.3419 INFO Pass Insertion Fail:0-NSD - 22007: invalid input syntax for type timestamp: ""
+2021-05-17 12:51:19.9800 INFO Pass Insertion Fail:0-NSD - 25P02: current transaction is aborted, commands ignored until end of transaction block
+2021-05-17 12:54:36.2649 INFO Pass Insertion Fail:0-NSD - 25P02: current transaction is aborted, commands ignored until end of transaction block
+2021-05-17 12:56:26.0848 INFO Pass Insertion Fail:0-NSD - 22007: invalid input syntax for type timestamp: ""
+2021-05-17 12:56:36.5816 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:56:36.5947 INFO Get Pass List Success
+2021-05-17 12:56:41.5385 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:56:53.9785 INFO Get Pass List Success
+2021-05-17 12:57:17.0901 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:57:17.0911 INFO Get Dispach Master List Success
+2021-05-17 12:57:17.1070 INFO Get VAT Master List Success
+2021-05-17 12:57:17.1070 INFO Get Pass List Success
+2021-05-17 12:57:17.1070 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:59:12.4288 INFO Pass Insertion Fail:0-NSD - 22007: invalid input syntax for type timestamp: ""
+2021-05-17 12:59:21.2159 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:59:21.2159 INFO Get Pass List Success
+2021-05-17 12:59:23.8060 INFO Get User Success :newswadeshi_dis
+2021-05-17 12:59:29.1768 INFO Get Pass List Success
+2021-05-17 12:59:38.3233 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 12:59:38.3253 INFO Get Dispach Master List Success
+2021-05-17 12:59:38.3253 INFO Get VAT Master List Success
+2021-05-17 12:59:38.3253 INFO Get Pass List Success
+2021-05-17 13:00:00.8504 INFO Get User Success :newswadeshi_dis
+2021-05-17 13:00:40.0254 INFO Pass Insertion Sucess:0-NSD
+2021-05-17 13:00:40.0492 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 13:00:40.0661 INFO Get Pass List Success
+2021-05-17 13:00:41.3208 INFO Get User Success :newswadeshi_dis
+2021-05-17 13:00:47.3800 INFO Get Pass List Success
+2021-05-17 15:15:40.8825 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 15:15:41.0448 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 15:15:41.0990 INFO Get User Success :newswadeshi_dis
+2021-05-17 15:16:20.5048 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 15:16:20.5604 INFO Get User Success :newswadeshi_dis
+2021-05-17 15:16:23.9729 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 15:16:23.9924 INFO Get Pass List Success
+2021-05-17 15:17:18.7801 INFO Get User Success :newswadeshi_dis
+2021-05-17 15:17:25.7755 INFO Get Pass List Success
+2021-05-17 15:17:36.1852 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-17 15:17:36.2042 INFO Get Dispach Master List Success
+2021-05-17 15:17:36.2288 INFO Get VAT Master List Success
+2021-05-17 15:17:36.2569 INFO Get Pass List Success
+2021-05-17 15:17:39.0841 INFO Get User Success :newswadeshi_dis
+2021-05-17 15:18:14.6711 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 15:18:14.7067 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 15:18:14.7188 INFO Get User Success :newswadeshi_disbo
+2021-05-17 15:18:19.5216 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 15:18:19.5466 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 15:18:19.5597 INFO Get Pass List Success
+2021-05-17 15:18:22.1190 INFO Get User Success :newswadeshi_disbo
+2021-05-17 15:18:27.6060 INFO Get Pass List Success
+2021-05-17 15:18:34.3451 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 15:18:34.3451 INFO Get Dispach Master List Success
+2021-05-17 15:18:34.3451 INFO Get VAT Master List Success
+2021-05-17 15:18:34.3573 INFO Get Pass List Success
+2021-05-17 15:18:38.0381 INFO Get User Success :newswadeshi_disbo
+2021-05-17 15:43:01.9120 INFO Pass Issued Fail:NSD - 22001: value too long for type character varying(50)
+2021-05-17 15:47:11.1980 INFO Pass Issued Fail:NSD - 25P02: current transaction is aborted, commands ignored until end of transaction block
+2021-05-17 15:57:13.8436 INFO Pass Issued Fail:NSD - 42601: syntax error at or near "insert"
+2021-05-17 16:09:55.3599 INFO Pass Issued Fail:NSD - 42601: syntax error at or near "insert"
+2021-05-17 16:10:31.3217 INFO Pass Issued Sucess:NSD
+2021-05-17 16:10:38.1487 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:10:38.1657 INFO Get Pass List Success
+2021-05-17 16:10:39.5300 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:10:52.1229 INFO Get Pass List Success
+2021-05-17 16:11:11.7204 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:11:11.7204 INFO Get Dispach Master List Success
+2021-05-17 16:11:11.7383 INFO Get VAT Master List Success
+2021-05-17 16:11:11.7383 INFO Get Pass List Success
+2021-05-17 16:11:14.3431 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:11:46.8242 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:11:46.8251 INFO Get Dispach Master List Success
+2021-05-17 16:11:46.8251 INFO Get VAT Master List Success
+2021-05-17 16:11:46.8251 INFO Get Pass List Success
+2021-05-17 16:11:49.6903 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:12:10.8458 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:12:10.8588 INFO Get Pass List Success
+2021-05-17 16:12:13.6078 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:12:21.8755 INFO Get Pass List Success
+2021-05-17 16:12:27.5943 INFO Get Report  Success
+2021-05-17 16:12:27.8102 INFO Get GetSeverList Success
+2021-05-17 16:34:24.1084 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:34:24.1084 INFO Get Dispach Master List Success
+2021-05-17 16:34:24.1422 INFO Get VAT Master List Success
+2021-05-17 16:34:24.1422 INFO Get Pass List Success
+2021-05-17 16:35:22.8714 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:35:26.3177 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:35:26.3317 INFO Get Pass List Success
+2021-05-17 16:35:30.6055 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:35:36.6050 INFO Get Pass List Success
+2021-05-17 16:36:22.9104 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:36:22.9104 INFO Get Dispach Master List Success
+2021-05-17 16:36:22.9104 INFO Get VAT Master List Success
+2021-05-17 16:36:22.9199 INFO Get Pass List Success
+2021-05-17 16:36:24.6638 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:40:09.9366 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:40:09.9535 INFO Get Pass List Success
+2021-05-17 16:40:12.2048 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:40:17.7145 INFO Get Pass List Success
+2021-05-17 16:46:38.7385 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:46:38.7385 INFO Get Dispach Master List Success
+2021-05-17 16:46:38.7739 INFO Get VAT Master List Success
+2021-05-17 16:46:38.7739 INFO Get Pass List Success
+2021-05-17 16:46:41.5888 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:48:37.7452 INFO Pass Issued Sucess:NSD
+2021-05-17 16:48:44.7010 INFO Get User Success :128-New Swadeshi Distillery Unit , Bond Officer
+2021-05-17 16:48:44.7339 INFO Get Pass List Success
+2021-05-17 16:48:50.2142 INFO Get User Success :newswadeshi_disbo
+2021-05-17 16:49:08.9429 INFO Get Pass List Success
+2021-05-17 16:49:16.5100 INFO Get Report  Success
+2021-05-17 16:49:16.6266 INFO Get GetSeverList Success
+2021-05-17 16:55:15.2000 INFO Get Report  Success
+2021-05-17 16:55:15.3677 INFO Get GetSeverList Success
+2021-05-17 17:16:29.6840 INFO Get User Success :101-Commissioner
+2021-05-17 17:16:29.8305 INFO Get User Success :101-Commissioner
+2021-05-17 17:16:29.9123 INFO Get User Success :com
+2021-05-17 17:16:33.8489 INFO Get User Success :101-Commissioner
+2021-05-17 17:16:33.8822 INFO Get User Success :101-Commissioner

@@ -1,0 +1,1654 @@
+2021-01-28 10:39:33.6829 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 10:39:34.7079 INFO Get User Success :harinagar_dis
+2021-01-28 10:39:50.5729 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 10:39:50.6626 INFO Get Indent List Success
+2021-01-28 10:39:50.9496 INFO Get User Success :harinagar_dis
+2021-01-28 10:39:53.2815 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 10:39:53.3653 INFO Get Indent List Success
+2021-01-28 10:39:53.6036 INFO Get GetSeverList Success
+2021-01-28 12:01:20.9397 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:01:21.0331 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:01:24.9878 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:01:25.0232 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:01:34.7169 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:01:34.7409 INFO Get RR List Success
+2021-01-28 12:01:34.7568 INFO Get NOC Details Success
+2021-01-28 12:01:34.7568 INFO Get NOC Details Success
+2021-01-28 12:01:34.7568 INFO Get Balance Request Pass Success
+2021-01-28 12:01:34.7763 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:01:44.1107 INFO Get NOC Details Success
+2021-01-28 12:01:44.1127 INFO Get Balance Request Pass Success
+2021-01-28 12:01:55.0221 INFO Get NOC Details Success
+2021-01-28 12:01:59.9354 INFO Get Balance Request Pass Success
+2021-01-28 12:03:02.4323 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:03:02.4491 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:03:05.7977 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:03:05.8108 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:03:19.8208 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:03:19.8376 INFO Get RR List Success
+2021-01-28 12:03:19.8376 INFO Get NOC Details Success
+2021-01-28 12:03:19.8469 INFO Get NOC Details Success
+2021-01-28 12:07:24.1028 INFO Get Balance Request Pass Success
+2021-01-28 12:07:58.3148 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:09:27.6073 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-28 12:09:27.7045 INFO Get User Success :com
+2021-01-28 12:09:30.5436 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-28 12:09:30.5601 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-28 12:11:04.4223 INFO Get User Success :101-Commissioner
+2021-01-28 12:11:05.5866 INFO Get User Success :com
+2021-01-28 12:11:13.5092 INFO Get User Success :com
+2021-01-28 12:11:19.9733 INFO Get User Success :101-Commissioner
+2021-01-28 12:11:20.0590 INFO Check WorkFlow List Success
+2021-01-28 12:11:20.1901 INFO Get User Success :101-Commissioner
+2021-01-28 12:11:20.2749 INFO Check WorkFlow List Success
+2021-01-28 12:11:20.4444 INFO Get Allotment List Success
+2021-01-28 12:11:20.5771 INFO Get User Success :com
+2021-01-28 12:12:36.9151 INFO Get User Success :101-Commissioner
+2021-01-28 12:12:36.9988 INFO Check WorkFlow List Success
+2021-01-28 12:12:37.0935 INFO Get Allotment List Success
+2021-01-28 12:12:45.3004 INFO Get User Success :101-Commissioner
+2021-01-28 12:12:45.8876 INFO Get User Success :com
+2021-01-28 12:21:45.7820 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:21:45.8891 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:21:52.9229 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:21:52.9759 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:22:10.1368 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:22:10.1630 INFO Get RR List Success
+2021-01-28 12:22:10.1794 INFO Get NOC Details Success
+2021-01-28 12:22:10.1794 INFO Get NOC Details Success
+2021-01-28 12:22:10.1794 INFO Get Balance Request Pass Success
+2021-01-28 12:22:30.1095 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:22:30.6142 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:22:30.6291 INFO Get RR List Success
+2021-01-28 12:22:30.6291 INFO Get NOC Details Success
+2021-01-28 12:22:30.6291 INFO Get NOC Details Success
+2021-01-28 12:22:30.6291 INFO Get Balance Request Pass Success
+2021-01-28 12:22:30.6511 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:23:51.6305 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:23:51.6468 INFO Get RR List Success
+2021-01-28 12:23:51.6468 INFO Get NOC Details Success
+2021-01-28 12:23:51.6468 INFO Get NOC Details Success
+2021-01-28 12:23:51.6468 INFO Get Balance Request Pass Success
+2021-01-28 12:23:51.6673 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:24:29.8977 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:24:29.9138 INFO Get RR List Success
+2021-01-28 12:24:29.9138 INFO Get NOC Details Success
+2021-01-28 12:24:29.9138 INFO Get NOC Details Success
+2021-01-28 12:24:29.9138 INFO Get Balance Request Pass Success
+2021-01-28 12:24:29.9330 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:30:14.4902 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:30:14.5086 INFO Get RR List Success
+2021-01-28 12:30:14.5086 INFO Get NOC Details Success
+2021-01-28 12:30:14.5193 INFO Get NOC Details Success
+2021-01-28 12:30:14.5193 INFO Get Balance Request Pass Success
+2021-01-28 12:30:26.1752 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:31:11.7719 INFO Update Request Pass Success
+2021-01-28 12:31:11.8095 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:31:11.8255 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:47:02.4959 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 12:47:02.5899 INFO Get User Success :harinagar_dis
+2021-01-28 12:47:09.7750 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 12:47:09.7750 INFO Get Indent List Success
+2021-01-28 12:47:09.8260 INFO Get User Success :harinagar_dis
+2021-01-28 12:47:11.5321 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 12:47:11.5355 INFO Get Indent List Success
+2021-01-28 12:47:11.7241 INFO Get GetSeverList Success
+2021-01-28 12:47:37.2060 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 12:47:37.2060 INFO Get Indent List Success
+2021-01-28 12:47:37.2503 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 12:47:37.2567 INFO Get Allotment List Success
+2021-01-28 12:47:37.2750 INFO Get User Success :harinagar_dis
+2021-01-28 12:47:40.3593 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 12:47:40.3623 INFO Get Report  Success
+2021-01-28 12:47:40.3623 INFO Get Party Master List Success
+2021-01-28 12:47:40.3806 INFO Get User Success :harinagar_dis
+2021-01-28 12:47:53.8293 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:47:53.8454 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:47:57.2458 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:47:57.2764 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:48:01.8957 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:48:01.9186 INFO Get RR List Success
+2021-01-28 12:48:01.9306 INFO Get NOC Details Success
+2021-01-28 12:48:01.9306 INFO Get NOC Details Success
+2021-01-28 12:48:01.9306 INFO Get Balance Request Pass Success
+2021-01-28 12:48:01.9482 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:48:45.3062 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:48:45.3222 INFO Get RR List Success
+2021-01-28 12:48:45.3222 INFO Get NOC Details Success
+2021-01-28 12:48:45.3318 INFO Get NOC Details Success
+2021-01-28 12:48:45.3318 INFO Get Balance Request Pass Success
+2021-01-28 12:49:01.4541 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:51:10.8982 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:51:10.9155 INFO Get RR List Success
+2021-01-28 12:51:10.9155 INFO Get NOC Details Success
+2021-01-28 12:51:10.9263 INFO Get NOC Details Success
+2021-01-28 12:51:10.9263 INFO Get Balance Request Pass Success
+2021-01-28 12:52:39.1817 INFO Get NOC Details Success
+2021-01-28 12:52:39.1817 INFO Get NOC Details Success
+2021-01-28 12:52:39.1817 INFO Get Balance Request Pass Success
+2021-01-28 12:52:40.7015 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:52:43.5727 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:52:43.5846 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:52:52.2125 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:52:52.2291 INFO Get RR List Success
+2021-01-28 12:53:49.5147 INFO Get NOC Details Success
+2021-01-28 12:53:49.5197 INFO Get NOC Details Success
+2021-01-28 12:53:49.5197 INFO Get Balance Request Pass Success
+2021-01-28 12:53:53.2732 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:53:59.4326 INFO Update Request Pass Success
+2021-01-28 12:53:59.4593 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:53:59.4718 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:54:06.6326 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:54:06.6565 INFO Get RR List Success
+2021-01-28 12:54:06.6615 INFO Get NOC Details Success
+2021-01-28 12:54:06.6615 INFO Get NOC Details Success
+2021-01-28 12:54:06.6615 INFO Get Balance Request Pass Success
+2021-01-28 12:54:06.6815 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:54:33.2827 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:54:33.2991 INFO Get RR List Success
+2021-01-28 12:54:33.3031 INFO Get NOC Details Success
+2021-01-28 12:54:33.3031 INFO Get NOC Details Success
+2021-01-28 12:54:33.3031 INFO Get Balance Request Pass Success
+2021-01-28 12:56:04.3263 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:56:10.0646 INFO Update Request Pass Success
+2021-01-28 12:56:10.0912 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:56:10.1037 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:56:15.4892 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:56:15.5141 INFO Get RR List Success
+2021-01-28 12:56:15.5197 INFO Get NOC Details Success
+2021-01-28 12:56:15.5197 INFO Get NOC Details Success
+2021-01-28 12:56:15.5197 INFO Get Balance Request Pass Success
+2021-01-28 12:56:15.5355 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:56:40.8569 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:56:40.8748 INFO Get RR List Success
+2021-01-28 12:56:40.8803 INFO Get NOC Details Success
+2021-01-28 12:56:40.8803 INFO Get NOC Details Success
+2021-01-28 12:56:40.8803 INFO Get Balance Request Pass Success
+2021-01-28 12:56:44.5580 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:56:46.5642 INFO Update Request Pass Success
+2021-01-28 12:56:46.5883 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:56:46.6009 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:56:54.3973 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:56:54.4135 INFO Get RR List Success
+2021-01-28 12:56:54.4135 INFO Get NOC Details Success
+2021-01-28 12:56:54.4135 INFO Get NOC Details Success
+2021-01-28 12:56:54.4135 INFO Get Balance Request Pass Success
+2021-01-28 12:56:54.4340 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:57:22.6898 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:57:22.7037 INFO Get RR List Success
+2021-01-28 12:57:22.7087 INFO Get NOC Details Success
+2021-01-28 12:57:22.7087 INFO Get NOC Details Success
+2021-01-28 12:57:22.7087 INFO Get Balance Request Pass Success
+2021-01-28 12:57:55.7791 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:58:00.6878 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:58:00.7105 INFO Get RR List Success
+2021-01-28 12:58:00.7105 INFO Get NOC Details Success
+2021-01-28 12:58:00.7105 INFO Get NOC Details Success
+2021-01-28 12:58:00.7105 INFO Get Balance Request Pass Success
+2021-01-28 12:58:00.7314 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:58:06.6814 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:58:06.6969 INFO Get RR List Success
+2021-01-28 12:58:06.6969 INFO Get NOC Details Success
+2021-01-28 12:58:06.7061 INFO Get NOC Details Success
+2021-01-28 12:58:06.7061 INFO Get Balance Request Pass Success
+2021-01-28 12:58:17.8777 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:58:21.3517 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:58:21.3697 INFO Get RR List Success
+2021-01-28 12:58:21.3697 INFO Get NOC Details Success
+2021-01-28 12:58:21.3804 INFO Get NOC Details Success
+2021-01-28 12:58:21.3804 INFO Get Balance Request Pass Success
+2021-01-28 12:58:55.2916 INFO Get NOC Details Success
+2021-01-28 12:58:55.2916 INFO Get NOC Details Success
+2021-01-28 12:58:55.2916 INFO Get Balance Request Pass Success
+2021-01-28 12:58:57.8913 INFO Get User Success :newswadeshi_dis
+2021-01-28 12:59:10.3527 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 12:59:10.3683 INFO Get RR List Success
+2021-01-28 12:59:10.3683 INFO Get NOC Details Success
+2021-01-28 12:59:10.3788 INFO Get NOC Details Success
+2021-01-28 12:59:10.3788 INFO Get Balance Request Pass Success
+2021-01-28 13:00:04.3073 INFO Get NOC Details Success
+2021-01-28 13:00:04.3073 INFO Get Balance Request Pass Success
+2021-01-28 13:00:08.9467 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:00:12.7473 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:00:12.7649 INFO Get RR List Success
+2021-01-28 13:00:12.7702 INFO Get NOC Details Success
+2021-01-28 13:00:12.7702 INFO Get NOC Details Success
+2021-01-28 13:00:12.7702 INFO Get Balance Request Pass Success
+2021-01-28 13:00:12.7862 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:00:14.7832 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:00:14.7999 INFO Get RR List Success
+2021-01-28 13:00:14.7999 INFO Get NOC Details Success
+2021-01-28 13:00:14.7999 INFO Get NOC Details Success
+2021-01-28 13:00:14.7999 INFO Get Balance Request Pass Success
+2021-01-28 13:00:14.8207 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:00:32.8713 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:00:32.8872 INFO Get RR List Success
+2021-01-28 13:00:32.8934 INFO Get NOC Details Success
+2021-01-28 13:00:32.8934 INFO Get NOC Details Success
+2021-01-28 13:00:32.8934 INFO Get Balance Request Pass Success
+2021-01-28 13:02:08.2178 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:02:20.9110 INFO Update Request Pass Success
+2021-01-28 13:02:20.9341 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:02:20.9470 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:02:25.2191 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:02:25.2380 INFO Get RR List Success
+2021-01-28 13:02:25.2550 INFO Get RR List Success
+2021-01-28 13:02:25.2550 INFO Get Balance Request Pass Success
+2021-01-28 13:02:25.2688 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:02:27.8792 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:02:27.8933 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:02:32.7933 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:02:32.8090 INFO Get RR List Success
+2021-01-28 13:02:32.8090 INFO Get NOC Details Success
+2021-01-28 13:02:32.8176 INFO Get NOC Details Success
+2021-01-28 13:02:32.8176 INFO Get Balance Request Pass Success
+2021-01-28 13:02:35.1661 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:02:54.9002 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:02:54.9132 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:03:00.2287 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-01-28 13:03:00.2438 INFO Get RR List Success
+2021-01-28 13:03:00.2705 INFO Get User Success :newswadeshi_dis
+2021-01-28 13:14:09.3016 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:14:09.3870 INFO Get User Success :harinagar_dis
+2021-01-28 13:14:16.4022 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:14:16.4101 INFO Get Indent List Success
+2021-01-28 13:14:16.4526 INFO Get User Success :harinagar_dis
+2021-01-28 13:14:19.6332 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:14:19.6332 INFO Get Indent List Success
+2021-01-28 13:14:21.6606 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:14:21.6606 INFO Get Indent List Success
+2021-01-28 13:14:31.2519 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:14:31.2588 INFO Get Allotment List Success
+2021-01-28 13:14:31.2847 INFO Get User Success :harinagar_dis
+2021-01-28 13:14:34.3045 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:14:34.3045 INFO Get Party Master List Success
+2021-01-28 13:14:34.3159 INFO Get Product Master List Success
+2021-01-28 13:14:34.3159 INFO Get Indent Details Success
+2021-01-28 13:14:34.3398 INFO Get User Success :harinagar_dis
+2021-01-28 13:15:02.3624 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 13:15:02.3624 INFO Get Report  Success
+2021-01-28 13:15:02.3624 INFO Get Party Master List Success
+2021-01-28 13:15:02.3783 INFO Get User Success :harinagar_dis
+2021-01-28 13:15:07.3558 INFO Get VAT Master List Success
+2021-01-28 13:15:14.3769 INFO Get GetSeverList Success
+2021-01-28 13:16:26.0144 INFO Get GetSeverList Success
+2021-01-28 13:16:47.4750 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-28 13:16:47.4903 INFO Get User Success :hpcl_ec
+2021-01-28 13:16:49.9780 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-28 13:16:49.9780 INFO Get Report  Success
+2021-01-28 13:16:49.9780 INFO Get Party Master List Success
+2021-01-28 13:16:49.9919 INFO Get User Success :hpcl_ec
+2021-01-28 13:16:51.9088 INFO Get VAT Master List Success
+2021-01-28 13:17:05.0282 INFO Get GetSeverList Success
+2021-01-28 13:18:04.5094 INFO Get VAT Master List Success
+2021-01-28 13:18:04.5094 INFO Get VAT Master List Success
+2021-01-28 13:18:19.5614 INFO Get VAT Master List Success
+2021-01-28 13:18:47.2987 INFO Get GetSeverList Success
+2021-01-28 13:20:17.1078 INFO Get VAT Master List Success
+2021-01-28 13:22:18.0319 INFO Get VAT Master List Success
+2021-01-28 13:24:41.4789 INFO Get GetSeverList Success
+2021-01-28 13:24:56.3263 INFO Get GetSeverList Success
+2021-01-28 13:25:11.8058 INFO Get VAT Master List Success
+2021-01-28 13:25:21.9132 INFO Get GetSeverList Success
+2021-01-28 13:29:38.7379 INFO Get GetSeverList Success
+2021-01-28 13:30:27.2167 INFO Get GetSeverList Success
+2021-01-28 13:48:10.4243 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-28 13:48:10.4776 INFO Get User Success :hpcl_ec
+2021-01-28 13:48:13.9273 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2021-01-28 13:48:13.9273 INFO Get Report  Success
+2021-01-28 13:48:13.9273 INFO Get Party Master List Success
+2021-01-28 13:48:13.9417 INFO Get User Success :hpcl_ec
+2021-01-28 13:48:19.7315 INFO Get VAT Master List Success
+2021-01-28 13:48:32.9096 INFO Get GetSeverList Success
+2021-01-28 14:45:07.1250 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:45:07.1994 INFO Get User Success :harinagar_dis
+2021-01-28 14:45:13.4398 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:45:13.4483 INFO Get Indent List Success
+2021-01-28 14:45:13.4910 INFO Get User Success :harinagar_dis
+2021-01-28 14:45:14.6846 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:45:14.6846 INFO Get Indent List Success
+2021-01-28 14:45:14.7294 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:45:14.7294 INFO Get Allotment List Success
+2021-01-28 14:45:14.7536 INFO Get User Success :harinagar_dis
+2021-01-28 14:45:15.7648 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:45:15.7681 INFO Get Allotment List Success
+2021-01-28 14:45:15.9513 INFO Get GetSeverList Success
+2021-01-28 14:45:41.0214 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:45:41.0214 INFO Get Allotment List Success
+2021-01-28 14:45:43.6850 INFO Get GetSeverList Success
+2021-01-28 14:46:10.7533 INFO Get GetSeverList Success
+2021-01-28 14:46:54.0975 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:46:54.0975 INFO Get Allotment List Success
+2021-01-28 14:46:54.2778 INFO Get GetSeverList Success
+2021-01-28 14:48:24.2227 INFO Get GetSeverList Success
+2021-01-28 14:49:08.1714 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:49:08.1746 INFO Get Allotment List Success
+2021-01-28 14:49:08.3687 INFO Get GetSeverList Success
+2021-01-28 14:50:36.7797 INFO Get GetSeverList Success
+2021-01-28 14:53:48.2690 INFO Get GetSeverList Success
+2021-01-28 14:54:51.7529 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 14:54:51.7529 INFO Get Allotment List Success
+2021-01-28 14:54:55.5791 INFO Get GetSeverList Success
+2021-01-28 14:55:09.1628 INFO Get GetSeverList Success
+2021-01-28 14:55:11.5016 INFO Get GetSeverList Success
+2021-01-28 14:55:13.1267 INFO Get GetSeverList Success
+2021-01-28 15:10:48.7371 INFO Get GetSeverList Success
+2021-01-28 15:13:24.5300 INFO Get GetSeverList Success
+2021-01-28 16:11:52.3020 INFO Get User Success :103-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:11:52.3923 INFO Get User Success :harinagar_disbo
+2021-01-28 16:15:03.5510 INFO Get User Success :44-Administrator
+2021-01-28 16:15:17.8260 INFO Get RolePermissions List Success
+2021-01-28 16:15:20.2789 INFO Org Get List Success
+2021-01-28 16:15:20.3642 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:15:20.4402 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:20.7193 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.7193 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.7223 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:20.7940 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.7940 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.7940 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.7940 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.8000 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:20.8712 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.8712 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:20.9428 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.9428 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:20.9428 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.0136 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.0136 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.0136 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.0882 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.0882 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:15:21.1620 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.2365 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.2375 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.3172 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3172 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3172 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3172 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3172 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.3889 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:15:21.4618 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:15:21.5329 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.6043 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.6043 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.6043 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.6786 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:15:21.7518 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8229 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.8987 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8987 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8987 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8987 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8987 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.8987 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:21.9732 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:22.0556 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.0556 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.0556 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:22.1300 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.1300 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:22.2021 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.2021 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:22.2744 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:22.3497 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.3497 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.3497 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.3497 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:15:22.4249 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:15:22.4960 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:15:22.4960 INFO Get ViewModel Success 
+2021-01-28 16:15:23.1684 INFO Get RolePermission Success
+2021-01-28 16:17:14.0931 INFO Clear role_permission  Fail : System.String[]
+2021-01-28 16:17:14.1675 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:14.5906 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:14.7286 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:14.8675 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.0107 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.1483 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.2887 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.4275 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.5679 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.7120 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.8506 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:15.9904 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:16.1306 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:16.2690 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:16.4079 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:16.5485 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:16.6877 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:16.8292 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:17.0385 INFO Insert User_permission Add Success : 4470-add_role_permission
+2021-01-28 16:17:17.1792 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:17.1792 INFO Insert role_permission Add Success : 66-add_role_permission
+2021-01-28 16:17:17.2505 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:17.3211 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:17.4620 INFO Update role_permission Success : 67-edit_role_permission
+2021-01-28 16:17:17.5321 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:17.6015 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:17.7413 INFO Update role_permission Success : 67-delete_role_permission
+2021-01-28 16:17:17.8105 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:17.8813 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:18.0326 INFO Update role_permission Success : 67-review_role_permission
+2021-01-28 16:17:18.1024 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:18.1728 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:18.3114 INFO Update role_permission Success : 67-approve_role_permission
+2021-01-28 16:17:18.4499 INFO Clear role_permission  Fail : System.String[]
+2021-01-28 16:17:18.5189 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:18.9329 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.0745 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.2156 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.3555 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.4958 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.6356 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.7763 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:19.9169 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.0574 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.1974 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.3377 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.4784 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.6180 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.7593 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:20.8993 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:21.0389 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:21.1796 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:21.3869 INFO Insert User_permission Add Success : 4471-add_role_permission
+2021-01-28 16:17:21.5274 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:21.5274 INFO Insert role_permission Add Success : 67-add_role_permission
+2021-01-28 16:17:21.5990 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:21.6689 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:21.8099 INFO Update role_permission Success : 68-edit_role_permission
+2021-01-28 16:17:21.8788 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:21.9485 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:22.0897 INFO Update role_permission Success : 68-delete_role_permission
+2021-01-28 16:17:22.1595 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:22.2288 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:22.3684 INFO Update role_permission Success : 68-review_role_permission
+2021-01-28 16:17:22.4390 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:22.5094 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:22.6490 INFO Update role_permission Success : 68-approve_role_permission
+2021-01-28 16:17:22.7870 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:22.8570 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:23.2701 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:23.4089 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:23.5494 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:23.6883 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:23.8278 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:23.9671 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.1063 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.2475 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.3872 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.5277 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.6726 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.8140 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:24.9527 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.0927 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.2330 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.3733 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.5142 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.6537 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.7943 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:25.7943 INFO Insert role_permission Add Success : 68-add_role_permission
+2021-01-28 16:17:25.8658 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:25.9343 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:26.0726 INFO Update role_permission Success : 69-edit_role_permission
+2021-01-28 16:17:26.1438 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:26.2137 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:26.3523 INFO Update role_permission Success : 69-delete_role_permission
+2021-01-28 16:17:26.4212 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:26.4907 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:26.6297 INFO Update role_permission Success : 69-review_role_permission
+2021-01-28 16:17:26.7155 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:26.7855 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:26.9235 INFO Update role_permission Success : 69-approve_role_permission
+2021-01-28 16:17:27.0623 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:27.1311 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:27.4465 INFO Org Get List Success
+2021-01-28 16:17:27.5186 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:17:27.5479 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:27.6878 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:27.7960 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:27.8277 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:27.9665 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.0728 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.0728 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.0728 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.1050 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.1436 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.1436 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.1436 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.1436 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.1436 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.2157 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.2157 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.2445 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.2862 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.3581 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.3581 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.3581 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.3851 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.4315 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.4315 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:17:28.5048 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.5251 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5812 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.5981 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.6666 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.6773 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.6773 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.6773 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.6773 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.6773 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.7494 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7494 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7494 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7494 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7524 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7524 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7524 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.7524 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:17:28.8056 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.8241 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:17:28.8950 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:28.9451 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:28.9663 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.9663 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:28.9663 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.0384 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.0384 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:17:29.0847 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:29.1117 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.2003 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2003 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2003 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2003 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2072 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2072 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2072 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2072 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2072 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2072 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.2246 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:29.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2862 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.2862 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.3653 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.4379 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.4379 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.4399 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.5031 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:29.5031 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.5031 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.5804 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.5824 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.6433 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:29.6433 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.7244 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.7244 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.7244 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.7244 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:17:29.7898 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:29.8028 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:17:29.8717 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:17:29.8717 INFO Get ViewModel Success 
+2021-01-28 16:17:29.9285 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:30.0669 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:30.0669 INFO Insert role_permission Add Success : 69-add_role_permission
+2021-01-28 16:17:30.1359 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:30.2039 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:30.3415 INFO Update role_permission Success : 70-edit_role_permission
+2021-01-28 16:17:30.4091 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:30.4787 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:30.6181 INFO Update role_permission Success : 70-delete_role_permission
+2021-01-28 16:17:30.6879 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:30.7583 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:30.8980 INFO Update role_permission Success : 70-review_role_permission
+2021-01-28 16:17:30.9676 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:31.0381 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:31.1769 INFO Update role_permission Success : 70-approve_role_permission
+2021-01-28 16:17:31.3134 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:31.3819 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:31.7955 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:31.9505 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.0897 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.2304 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.3697 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.5108 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.6541 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.7929 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:32.9330 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.0731 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.2130 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.3520 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.4908 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.6309 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.7711 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:33.9106 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:34.0507 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:34.1946 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:34.3347 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:34.3347 INFO Insert role_permission Add Success : 70-add_role_permission
+2021-01-28 16:17:34.4052 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:34.4780 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:34.6218 INFO Update role_permission Success : 71-edit_role_permission
+2021-01-28 16:17:34.6921 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:34.7611 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:34.9006 INFO Update role_permission Success : 71-delete_role_permission
+2021-01-28 16:17:34.9711 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:35.0398 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:35.1798 INFO Update role_permission Success : 71-review_role_permission
+2021-01-28 16:17:35.2492 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:35.3199 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:35.4585 INFO Update role_permission Success : 71-approve_role_permission
+2021-01-28 16:17:35.5970 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:35.6665 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:36.0797 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:36.2197 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:36.3578 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:36.4998 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:36.6407 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:36.7801 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:36.9187 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.0606 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.2007 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.3391 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.4784 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.6176 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.7562 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:37.8957 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:38.0356 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:38.1740 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:38.3146 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:38.4536 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:38.5936 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:38.5936 INFO Insert role_permission Add Success : 71-add_role_permission
+2021-01-28 16:17:38.6645 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:38.7335 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:38.8720 INFO Update role_permission Success : 72-edit_role_permission
+2021-01-28 16:17:38.9411 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:39.0099 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:39.1504 INFO Update role_permission Success : 72-delete_role_permission
+2021-01-28 16:17:39.2192 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:39.2872 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:39.4273 INFO Update role_permission Success : 72-review_role_permission
+2021-01-28 16:17:39.4952 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:39.5637 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:39.7015 INFO Update role_permission Success : 72-approve_role_permission
+2021-01-28 16:17:39.8392 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:39.9085 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:40.3284 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:40.4679 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:40.6077 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:40.7487 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:40.9573 INFO Insert User_permission Add Success : 4472-add_role_permission
+2021-01-28 16:17:41.0980 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:41.2385 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:41.3780 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:41.5171 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:41.6709 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:41.8116 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:41.9572 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.0985 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.2371 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.3756 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.5146 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.6549 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.7947 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.9349 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:42.9349 INFO Insert role_permission Add Success : 72-add_role_permission
+2021-01-28 16:17:43.0044 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:43.0729 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:43.2259 INFO Update role_permission Success : 73-edit_role_permission
+2021-01-28 16:17:43.2957 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:43.3655 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:43.5077 INFO Update role_permission Success : 73-delete_role_permission
+2021-01-28 16:17:43.5777 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:43.6470 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:43.7859 INFO Update role_permission Success : 73-review_role_permission
+2021-01-28 16:17:43.8559 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:43.9263 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:44.0654 INFO Update role_permission Success : 73-approve_role_permission
+2021-01-28 16:17:44.2032 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:44.2733 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:44.6884 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:44.8284 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:44.9691 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:45.1094 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:45.3222 INFO Insert User_permission Add Success : 4473-add_role_permission
+2021-01-28 16:17:45.4629 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:45.6032 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:45.7419 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:45.8809 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.0161 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.1491 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.2818 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.4146 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.5464 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.6826 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.8162 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:46.9481 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:47.0806 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:47.2267 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:47.2267 INFO Insert role_permission Add Success : 73-add_role_permission
+2021-01-28 16:17:47.2943 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:47.3609 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:47.4934 INFO Update role_permission Success : 74-edit_role_permission
+2021-01-28 16:17:47.5704 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:47.6378 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:47.7695 INFO Update role_permission Success : 74-delete_role_permission
+2021-01-28 16:17:47.8357 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:47.9016 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:48.0347 INFO Update role_permission Success : 74-review_role_permission
+2021-01-28 16:17:48.1005 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:48.1670 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:48.2999 INFO Update role_permission Success : 74-approve_role_permission
+2021-01-28 16:17:48.4296 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:48.4959 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:48.8913 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:49.0224 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:49.1556 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:49.2887 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:49.4959 INFO Insert User_permission Add Success : 4474-add_role_permission
+2021-01-28 16:17:49.6286 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:49.7611 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:49.8933 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.0263 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.1609 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.2939 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.4279 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.5611 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.6935 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.8272 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:50.9594 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:51.0916 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:51.2265 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:51.3798 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:51.3798 INFO Insert role_permission Add Success : 74-add_role_permission
+2021-01-28 16:17:51.4473 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:51.5139 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:51.6468 INFO Update role_permission Success : 75-edit_role_permission
+2021-01-28 16:17:51.7125 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:51.7792 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:51.9131 INFO Update role_permission Success : 75-delete_role_permission
+2021-01-28 16:17:51.9791 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:52.0445 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:52.1766 INFO Update role_permission Success : 75-review_role_permission
+2021-01-28 16:17:52.2425 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:52.3083 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:52.4413 INFO Update role_permission Success : 75-approve_role_permission
+2021-01-28 16:17:52.5727 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:52.6401 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:53.0505 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:53.1834 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:53.3223 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:53.4553 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:53.6545 INFO Insert User_permission Add Success : 4475-add_role_permission
+2021-01-28 16:17:53.7875 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:53.9205 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.0555 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.1875 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.3202 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.4529 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.5864 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.7622 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:54.8980 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:55.0301 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:55.1614 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:55.2935 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:55.4259 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:55.5599 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:55.5599 INFO Insert role_permission Add Success : 75-add_role_permission
+2021-01-28 16:17:55.6268 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:55.6917 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:55.8233 INFO Update role_permission Success : 76-edit_role_permission
+2021-01-28 16:17:55.8892 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:55.9555 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:56.0879 INFO Update role_permission Success : 76-delete_role_permission
+2021-01-28 16:17:56.1535 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:56.2194 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:56.3502 INFO Update role_permission Success : 76-review_role_permission
+2021-01-28 16:17:56.4159 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:56.4813 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:56.6134 INFO Update role_permission Success : 76-approve_role_permission
+2021-01-28 16:17:56.7449 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:17:56.8110 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:57.2145 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:57.3478 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:57.4795 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:57.6111 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:57.8079 INFO Insert User_permission Add Success : 4476-add_role_permission
+2021-01-28 16:17:57.9390 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.0715 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.2054 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.3389 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.4714 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.6063 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.7395 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:58.8711 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.0028 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.1375 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.2710 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.4061 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.5398 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.6732 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:17:59.6756 INFO Insert role_permission Add Success : 76-add_role_permission
+2021-01-28 16:17:59.7421 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:17:59.8084 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:17:59.9413 INFO Update role_permission Success : 77-edit_role_permission
+2021-01-28 16:18:00.0217 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:00.1399 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:00.2718 INFO Update role_permission Success : 77-delete_role_permission
+2021-01-28 16:18:00.3388 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:00.4176 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:00.5484 INFO Update role_permission Success : 77-review_role_permission
+2021-01-28 16:18:00.6134 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:00.6852 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:00.8164 INFO Update role_permission Success : 77-approve_role_permission
+2021-01-28 16:18:00.9500 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:18:01.0152 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:01.4208 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:01.5554 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:01.6877 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:01.8194 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.0162 INFO Insert User_permission Add Success : 4477-add_role_permission
+2021-01-28 16:18:02.1485 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.2808 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.4133 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.5451 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.6789 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.8218 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:02.9555 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.0875 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.2192 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.3521 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.4860 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.6173 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.7493 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.8898 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:03.8898 INFO Insert role_permission Add Success : 77-add_role_permission
+2021-01-28 16:18:03.9586 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:04.0234 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:04.1563 INFO Update role_permission Success : 78-edit_role_permission
+2021-01-28 16:18:04.2222 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:04.2875 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:04.4217 INFO Update role_permission Success : 78-delete_role_permission
+2021-01-28 16:18:04.4856 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:04.5599 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:04.7029 INFO Update role_permission Success : 78-review_role_permission
+2021-01-28 16:18:04.7747 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:04.8399 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:05.0125 INFO Update role_permission Success : 78-approve_role_permission
+2021-01-28 16:18:05.1981 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:18:05.2651 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:05.6659 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:05.7980 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:05.9306 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:06.0652 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:06.2622 INFO Insert User_permission Add Success : 4478-add_role_permission
+2021-01-28 16:18:06.3951 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:06.5286 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:06.6610 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:06.7936 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:06.9277 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.0606 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.1933 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.3267 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.4629 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.5960 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.7296 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.8624 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:07.9951 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:08.1281 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:08.1281 INFO Insert role_permission Add Success : 78-add_role_permission
+2021-01-28 16:18:08.1961 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:08.2616 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:08.3940 INFO Update role_permission Success : 79-edit_role_permission
+2021-01-28 16:18:08.4606 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:08.5271 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:08.6588 INFO Update role_permission Success : 79-delete_role_permission
+2021-01-28 16:18:08.7246 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:08.7914 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:08.9249 INFO Update role_permission Success : 79-review_role_permission
+2021-01-28 16:18:08.9908 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:09.0578 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:09.1912 INFO Update role_permission Success : 79-approve_role_permission
+2021-01-28 16:18:09.3227 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:18:09.3905 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:09.7837 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:09.9169 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.0508 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.1842 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.3171 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.4512 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.5837 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.7171 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.8514 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:10.9835 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.1179 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.2547 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.4052 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.5391 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.6766 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.8104 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:11.9656 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:12.0992 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:12.2333 INFO Update User_permission  Success : 0-add_role_permission
+2021-01-28 16:18:12.2333 INFO Insert role_permission Add Success : 79-add_role_permission
+2021-01-28 16:18:12.3020 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:12.3687 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:12.5017 INFO Update role_permission Success : 80-edit_role_permission
+2021-01-28 16:18:12.5675 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:12.6343 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:12.7669 INFO Update role_permission Success : 80-delete_role_permission
+2021-01-28 16:18:12.8335 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:12.8995 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:13.0318 INFO Update role_permission Success : 80-review_role_permission
+2021-01-28 16:18:13.0984 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:13.1648 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:13.3038 INFO Update role_permission Success : 80-approve_role_permission
+2021-01-28 16:18:15.1496 INFO Get RolePermission Success
+2021-01-28 16:18:50.2075 INFO Clear role_permission  Fail : System.String[]
+2021-01-28 16:18:50.2747 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:50.7336 INFO Insert User_permission Add Success : 4470-add_role_permission
+2021-01-28 16:18:50.9390 INFO Insert User_permission Add Success : 4471-add_role_permission
+2021-01-28 16:18:51.1374 INFO Insert User_permission Add Success : 4472-add_role_permission
+2021-01-28 16:18:51.3352 INFO Insert User_permission Add Success : 4473-add_role_permission
+2021-01-28 16:18:51.5321 INFO Insert User_permission Add Success : 4474-add_role_permission
+2021-01-28 16:18:51.7293 INFO Insert User_permission Add Success : 4475-add_role_permission
+2021-01-28 16:18:51.9268 INFO Insert User_permission Add Success : 4476-add_role_permission
+2021-01-28 16:18:52.1234 INFO Insert User_permission Add Success : 4477-add_role_permission
+2021-01-28 16:18:52.3226 INFO Insert User_permission Add Success : 4478-add_role_permission
+2021-01-28 16:18:52.5209 INFO Insert User_permission Add Success : 4479-add_role_permission
+2021-01-28 16:18:52.7213 INFO Insert User_permission Add Success : 4480-add_role_permission
+2021-01-28 16:18:52.9213 INFO Insert User_permission Add Success : 4481-add_role_permission
+2021-01-28 16:18:53.1248 INFO Insert User_permission Add Success : 4482-add_role_permission
+2021-01-28 16:18:53.3290 INFO Insert User_permission Add Success : 4483-add_role_permission
+2021-01-28 16:18:53.5266 INFO Insert User_permission Add Success : 4484-add_role_permission
+2021-01-28 16:18:53.7246 INFO Insert User_permission Add Success : 4485-add_role_permission
+2021-01-28 16:18:53.9213 INFO Insert User_permission Add Success : 4486-add_role_permission
+2021-01-28 16:18:54.1200 INFO Insert User_permission Add Success : 4487-add_role_permission
+2021-01-28 16:18:54.3193 INFO Insert User_permission Add Success : 4488-add_role_permission
+2021-01-28 16:18:54.3193 INFO Insert role_permission Add Success : 66-add_role_permission
+2021-01-28 16:18:54.3853 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:54.4522 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:54.5849 INFO Update role_permission Success : 67-edit_role_permission
+2021-01-28 16:18:54.6506 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:54.7174 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:54.8511 INFO Update role_permission Success : 67-delete_role_permission
+2021-01-28 16:18:54.9158 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:54.9828 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:55.1224 INFO Update role_permission Success : 67-review_role_permission
+2021-01-28 16:18:55.1941 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:55.2608 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:55.3985 INFO Update role_permission Success : 67-approve_role_permission
+2021-01-28 16:18:55.5297 INFO Clear role_permission  Fail : System.String[]
+2021-01-28 16:18:55.5964 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:56.0559 INFO Insert User_permission Add Success : 4489-add_role_permission
+2021-01-28 16:18:56.2541 INFO Insert User_permission Add Success : 4490-add_role_permission
+2021-01-28 16:18:56.4505 INFO Insert User_permission Add Success : 4491-add_role_permission
+2021-01-28 16:18:56.6484 INFO Insert User_permission Add Success : 4492-add_role_permission
+2021-01-28 16:18:56.8480 INFO Insert User_permission Add Success : 4493-add_role_permission
+2021-01-28 16:18:57.0456 INFO Insert User_permission Add Success : 4494-add_role_permission
+2021-01-28 16:18:57.2426 INFO Insert User_permission Add Success : 4495-add_role_permission
+2021-01-28 16:18:57.4404 INFO Insert User_permission Add Success : 4496-add_role_permission
+2021-01-28 16:18:57.6463 INFO Insert User_permission Add Success : 4497-add_role_permission
+2021-01-28 16:18:57.8438 INFO Insert User_permission Add Success : 4498-add_role_permission
+2021-01-28 16:18:58.0407 INFO Insert User_permission Add Success : 4499-add_role_permission
+2021-01-28 16:18:58.2375 INFO Insert User_permission Add Success : 4500-add_role_permission
+2021-01-28 16:18:58.4357 INFO Insert User_permission Add Success : 4501-add_role_permission
+2021-01-28 16:18:58.6333 INFO Insert User_permission Add Success : 4502-add_role_permission
+2021-01-28 16:18:58.8331 INFO Insert User_permission Add Success : 4503-add_role_permission
+2021-01-28 16:18:59.0312 INFO Insert User_permission Add Success : 4504-add_role_permission
+2021-01-28 16:18:59.2307 INFO Insert User_permission Add Success : 4505-add_role_permission
+2021-01-28 16:18:59.4328 INFO Insert User_permission Add Success : 4506-add_role_permission
+2021-01-28 16:18:59.6293 INFO Insert User_permission Add Success : 4507-add_role_permission
+2021-01-28 16:18:59.6293 INFO Insert role_permission Add Success : 67-add_role_permission
+2021-01-28 16:18:59.6951 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:18:59.7771 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:18:59.9079 INFO Update role_permission Success : 68-edit_role_permission
+2021-01-28 16:18:59.9733 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:00.0394 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:00.1703 INFO Update role_permission Success : 68-delete_role_permission
+2021-01-28 16:19:00.2365 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:00.3017 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:00.4341 INFO Update role_permission Success : 68-review_role_permission
+2021-01-28 16:19:00.5011 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:00.5675 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:00.7003 INFO Update role_permission Success : 68-approve_role_permission
+2021-01-28 16:19:00.8317 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:00.8966 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:01.3564 INFO Insert User_permission Add Success : 4508-add_role_permission
+2021-01-28 16:19:01.6088 INFO Insert User_permission Add Success : 4509-add_role_permission
+2021-01-28 16:19:01.8065 INFO Insert User_permission Add Success : 4510-add_role_permission
+2021-01-28 16:19:02.0036 INFO Insert User_permission Add Success : 4511-add_role_permission
+2021-01-28 16:19:02.1999 INFO Insert User_permission Add Success : 4512-add_role_permission
+2021-01-28 16:19:02.4024 INFO Insert User_permission Add Success : 4513-add_role_permission
+2021-01-28 16:19:02.5993 INFO Insert User_permission Add Success : 4514-add_role_permission
+2021-01-28 16:19:02.7963 INFO Insert User_permission Add Success : 4515-add_role_permission
+2021-01-28 16:19:02.9926 INFO Insert User_permission Add Success : 4516-add_role_permission
+2021-01-28 16:19:03.2017 INFO Insert User_permission Add Success : 4517-add_role_permission
+2021-01-28 16:19:03.4001 INFO Insert User_permission Add Success : 4518-add_role_permission
+2021-01-28 16:19:03.5985 INFO Insert User_permission Add Success : 4519-add_role_permission
+2021-01-28 16:19:03.7969 INFO Insert User_permission Add Success : 4520-add_role_permission
+2021-01-28 16:19:03.9961 INFO Insert User_permission Add Success : 4521-add_role_permission
+2021-01-28 16:19:04.1944 INFO Insert User_permission Add Success : 4522-add_role_permission
+2021-01-28 16:19:04.3910 INFO Insert User_permission Add Success : 4523-add_role_permission
+2021-01-28 16:19:04.5871 INFO Insert User_permission Add Success : 4524-add_role_permission
+2021-01-28 16:19:04.7856 INFO Insert User_permission Add Success : 4525-add_role_permission
+2021-01-28 16:19:04.9821 INFO Insert User_permission Add Success : 4526-add_role_permission
+2021-01-28 16:19:04.9821 INFO Insert role_permission Add Success : 68-add_role_permission
+2021-01-28 16:19:05.0474 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:05.1140 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:05.2459 INFO Update role_permission Success : 69-edit_role_permission
+2021-01-28 16:19:05.3119 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:05.3813 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:05.5131 INFO Update role_permission Success : 69-delete_role_permission
+2021-01-28 16:19:05.5926 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:05.6589 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:05.7910 INFO Update role_permission Success : 69-review_role_permission
+2021-01-28 16:19:05.8569 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:05.9217 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:06.0787 INFO Update role_permission Success : 69-approve_role_permission
+2021-01-28 16:19:06.2091 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:06.2759 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:06.7340 INFO Insert User_permission Add Success : 4527-add_role_permission
+2021-01-28 16:19:06.9289 INFO Insert User_permission Add Success : 4528-add_role_permission
+2021-01-28 16:19:07.1257 INFO Insert User_permission Add Success : 4529-add_role_permission
+2021-01-28 16:19:07.3229 INFO Insert User_permission Add Success : 4530-add_role_permission
+2021-01-28 16:19:07.5213 INFO Insert User_permission Add Success : 4531-add_role_permission
+2021-01-28 16:19:07.7194 INFO Insert User_permission Add Success : 4532-add_role_permission
+2021-01-28 16:19:07.9171 INFO Insert User_permission Add Success : 4533-add_role_permission
+2021-01-28 16:19:08.1143 INFO Insert User_permission Add Success : 4534-add_role_permission
+2021-01-28 16:19:08.3122 INFO Insert User_permission Add Success : 4535-add_role_permission
+2021-01-28 16:19:08.5088 INFO Insert User_permission Add Success : 4536-add_role_permission
+2021-01-28 16:19:08.7053 INFO Insert User_permission Add Success : 4537-add_role_permission
+2021-01-28 16:19:08.9019 INFO Insert User_permission Add Success : 4538-add_role_permission
+2021-01-28 16:19:09.0990 INFO Insert User_permission Add Success : 4539-add_role_permission
+2021-01-28 16:19:09.2979 INFO Insert User_permission Add Success : 4540-add_role_permission
+2021-01-28 16:19:09.4954 INFO Insert User_permission Add Success : 4541-add_role_permission
+2021-01-28 16:19:09.7007 INFO Insert User_permission Add Success : 4542-add_role_permission
+2021-01-28 16:19:09.8971 INFO Insert User_permission Add Success : 4543-add_role_permission
+2021-01-28 16:19:10.1008 INFO Insert User_permission Add Success : 4544-add_role_permission
+2021-01-28 16:19:10.3300 INFO Insert User_permission Add Success : 4545-add_role_permission
+2021-01-28 16:19:10.3300 INFO Insert role_permission Add Success : 69-add_role_permission
+2021-01-28 16:19:10.4001 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:10.4652 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:10.5987 INFO Update role_permission Success : 70-edit_role_permission
+2021-01-28 16:19:10.6650 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:10.7298 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:10.8619 INFO Update role_permission Success : 70-delete_role_permission
+2021-01-28 16:19:10.9276 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:10.9942 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:11.1269 INFO Update role_permission Success : 70-review_role_permission
+2021-01-28 16:19:11.1928 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:11.2595 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:11.3912 INFO Update role_permission Success : 70-approve_role_permission
+2021-01-28 16:19:11.5225 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:11.5894 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:12.0468 INFO Insert User_permission Add Success : 4546-add_role_permission
+2021-01-28 16:19:12.2451 INFO Insert User_permission Add Success : 4547-add_role_permission
+2021-01-28 16:19:12.4434 INFO Insert User_permission Add Success : 4548-add_role_permission
+2021-01-28 16:19:12.6411 INFO Insert User_permission Add Success : 4549-add_role_permission
+2021-01-28 16:19:12.8414 INFO Insert User_permission Add Success : 4550-add_role_permission
+2021-01-28 16:19:13.0377 INFO Insert User_permission Add Success : 4551-add_role_permission
+2021-01-28 16:19:13.2345 INFO Insert User_permission Add Success : 4552-add_role_permission
+2021-01-28 16:19:13.4344 INFO Insert User_permission Add Success : 4553-add_role_permission
+2021-01-28 16:19:13.6316 INFO Insert User_permission Add Success : 4554-add_role_permission
+2021-01-28 16:19:13.8285 INFO Insert User_permission Add Success : 4555-add_role_permission
+2021-01-28 16:19:14.0271 INFO Insert User_permission Add Success : 4556-add_role_permission
+2021-01-28 16:19:14.2232 INFO Insert User_permission Add Success : 4557-add_role_permission
+2021-01-28 16:19:14.4200 INFO Insert User_permission Add Success : 4558-add_role_permission
+2021-01-28 16:19:14.6161 INFO Insert User_permission Add Success : 4559-add_role_permission
+2021-01-28 16:19:14.8127 INFO Insert User_permission Add Success : 4560-add_role_permission
+2021-01-28 16:19:15.0093 INFO Insert User_permission Add Success : 4561-add_role_permission
+2021-01-28 16:19:15.2076 INFO Insert User_permission Add Success : 4562-add_role_permission
+2021-01-28 16:19:15.4083 INFO Insert User_permission Add Success : 4563-add_role_permission
+2021-01-28 16:19:15.6066 INFO Insert User_permission Add Success : 4564-add_role_permission
+2021-01-28 16:19:15.6066 INFO Insert role_permission Add Success : 70-add_role_permission
+2021-01-28 16:19:15.6722 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:15.7390 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:15.8741 INFO Update role_permission Success : 71-edit_role_permission
+2021-01-28 16:19:15.9399 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:16.0057 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:16.1394 INFO Update role_permission Success : 71-delete_role_permission
+2021-01-28 16:19:16.2052 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:16.2721 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:16.4038 INFO Update role_permission Success : 71-review_role_permission
+2021-01-28 16:19:16.4693 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:16.5354 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:16.6653 INFO Update role_permission Success : 71-approve_role_permission
+2021-01-28 16:19:16.8083 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:16.8737 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:17.3373 INFO Insert User_permission Add Success : 4565-add_role_permission
+2021-01-28 16:19:17.5374 INFO Insert User_permission Add Success : 4566-add_role_permission
+2021-01-28 16:19:17.7338 INFO Insert User_permission Add Success : 4567-add_role_permission
+2021-01-28 16:19:17.9358 INFO Insert User_permission Add Success : 4568-add_role_permission
+2021-01-28 16:19:18.1372 INFO Insert User_permission Add Success : 4569-add_role_permission
+2021-01-28 16:19:18.3448 INFO Insert User_permission Add Success : 4570-add_role_permission
+2021-01-28 16:19:18.5427 INFO Insert User_permission Add Success : 4571-add_role_permission
+2021-01-28 16:19:18.7446 INFO Insert User_permission Add Success : 4572-add_role_permission
+2021-01-28 16:19:18.9395 INFO Insert User_permission Add Success : 4573-add_role_permission
+2021-01-28 16:19:19.1363 INFO Insert User_permission Add Success : 4574-add_role_permission
+2021-01-28 16:19:19.3344 INFO Insert User_permission Add Success : 4575-add_role_permission
+2021-01-28 16:19:19.5306 INFO Insert User_permission Add Success : 4576-add_role_permission
+2021-01-28 16:19:19.7286 INFO Insert User_permission Add Success : 4577-add_role_permission
+2021-01-28 16:19:19.9252 INFO Insert User_permission Add Success : 4578-add_role_permission
+2021-01-28 16:19:20.1239 INFO Insert User_permission Add Success : 4579-add_role_permission
+2021-01-28 16:19:20.3210 INFO Insert User_permission Add Success : 4580-add_role_permission
+2021-01-28 16:19:20.5173 INFO Insert User_permission Add Success : 4581-add_role_permission
+2021-01-28 16:19:20.7151 INFO Insert User_permission Add Success : 4582-add_role_permission
+2021-01-28 16:19:20.9120 INFO Insert User_permission Add Success : 4583-add_role_permission
+2021-01-28 16:19:20.9120 INFO Insert role_permission Add Success : 71-add_role_permission
+2021-01-28 16:19:20.9783 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:21.0545 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:21.1852 INFO Update role_permission Success : 72-edit_role_permission
+2021-01-28 16:19:21.2502 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:21.3200 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:21.4522 INFO Update role_permission Success : 72-delete_role_permission
+2021-01-28 16:19:21.5200 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:21.5848 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:21.7170 INFO Update role_permission Success : 72-review_role_permission
+2021-01-28 16:19:21.7818 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:21.8473 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:21.9783 INFO Update role_permission Success : 72-approve_role_permission
+2021-01-28 16:19:22.1094 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:22.1763 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:22.6366 INFO Insert User_permission Add Success : 4584-add_role_permission
+2021-01-28 16:19:22.8347 INFO Insert User_permission Add Success : 4585-add_role_permission
+2021-01-28 16:19:23.0307 INFO Insert User_permission Add Success : 4586-add_role_permission
+2021-01-28 16:19:23.2314 INFO Insert User_permission Add Success : 4587-add_role_permission
+2021-01-28 16:19:23.4811 INFO Insert User_permission Add Success : 4588-add_role_permission
+2021-01-28 16:19:23.6782 INFO Insert User_permission Add Success : 4589-add_role_permission
+2021-01-28 16:19:23.8751 INFO Insert User_permission Add Success : 4590-add_role_permission
+2021-01-28 16:19:24.0736 INFO Insert User_permission Add Success : 4591-add_role_permission
+2021-01-28 16:19:24.2711 INFO Insert User_permission Add Success : 4592-add_role_permission
+2021-01-28 16:19:24.4683 INFO Insert User_permission Add Success : 4593-add_role_permission
+2021-01-28 16:19:24.6651 INFO Insert User_permission Add Success : 4594-add_role_permission
+2021-01-28 16:19:24.8616 INFO Insert User_permission Add Success : 4595-add_role_permission
+2021-01-28 16:19:25.0582 INFO Insert User_permission Add Success : 4596-add_role_permission
+2021-01-28 16:19:25.2565 INFO Insert User_permission Add Success : 4597-add_role_permission
+2021-01-28 16:19:25.4539 INFO Insert User_permission Add Success : 4598-add_role_permission
+2021-01-28 16:19:25.6519 INFO Insert User_permission Add Success : 4599-add_role_permission
+2021-01-28 16:19:25.8495 INFO Insert User_permission Add Success : 4600-add_role_permission
+2021-01-28 16:19:26.0474 INFO Insert User_permission Add Success : 4601-add_role_permission
+2021-01-28 16:19:26.2477 INFO Insert User_permission Add Success : 4602-add_role_permission
+2021-01-28 16:19:26.2477 INFO Insert role_permission Add Success : 72-add_role_permission
+2021-01-28 16:19:26.3162 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:26.3832 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:26.5168 INFO Update role_permission Success : 73-edit_role_permission
+2021-01-28 16:19:26.5819 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:26.6483 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:26.7819 INFO Update role_permission Success : 73-delete_role_permission
+2021-01-28 16:19:26.8479 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:26.9139 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:27.0456 INFO Update role_permission Success : 73-review_role_permission
+2021-01-28 16:19:27.1119 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:27.1780 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:27.3109 INFO Update role_permission Success : 73-approve_role_permission
+2021-01-28 16:19:27.4412 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:27.5082 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:27.9680 INFO Insert User_permission Add Success : 4603-add_role_permission
+2021-01-28 16:19:28.1708 INFO Insert User_permission Add Success : 4604-add_role_permission
+2021-01-28 16:19:28.3692 INFO Insert User_permission Add Success : 4605-add_role_permission
+2021-01-28 16:19:28.5649 INFO Insert User_permission Add Success : 4606-add_role_permission
+2021-01-28 16:19:28.7632 INFO Insert User_permission Add Success : 4607-add_role_permission
+2021-01-28 16:19:28.9616 INFO Insert User_permission Add Success : 4608-add_role_permission
+2021-01-28 16:19:29.1631 INFO Insert User_permission Add Success : 4609-add_role_permission
+2021-01-28 16:19:29.3593 INFO Insert User_permission Add Success : 4610-add_role_permission
+2021-01-28 16:19:29.5566 INFO Insert User_permission Add Success : 4611-add_role_permission
+2021-01-28 16:19:29.7602 INFO Insert User_permission Add Success : 4612-add_role_permission
+2021-01-28 16:19:29.9596 INFO Insert User_permission Add Success : 4613-add_role_permission
+2021-01-28 16:19:30.1603 INFO Insert User_permission Add Success : 4614-add_role_permission
+2021-01-28 16:19:30.3580 INFO Insert User_permission Add Success : 4615-add_role_permission
+2021-01-28 16:19:30.5554 INFO Insert User_permission Add Success : 4616-add_role_permission
+2021-01-28 16:19:30.7570 INFO Insert User_permission Add Success : 4617-add_role_permission
+2021-01-28 16:19:30.9566 INFO Insert User_permission Add Success : 4618-add_role_permission
+2021-01-28 16:19:31.1539 INFO Insert User_permission Add Success : 4619-add_role_permission
+2021-01-28 16:19:31.3522 INFO Insert User_permission Add Success : 4620-add_role_permission
+2021-01-28 16:19:31.5502 INFO Insert User_permission Add Success : 4621-add_role_permission
+2021-01-28 16:19:31.5502 INFO Insert role_permission Add Success : 73-add_role_permission
+2021-01-28 16:19:31.6162 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:31.6817 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:31.8148 INFO Update role_permission Success : 74-edit_role_permission
+2021-01-28 16:19:31.8823 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:31.9482 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:32.0815 INFO Update role_permission Success : 74-delete_role_permission
+2021-01-28 16:19:32.1482 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:32.2143 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:32.3474 INFO Update role_permission Success : 74-review_role_permission
+2021-01-28 16:19:32.4127 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:32.4798 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:32.6119 INFO Update role_permission Success : 74-approve_role_permission
+2021-01-28 16:19:32.7451 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:32.8114 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:33.2775 INFO Insert User_permission Add Success : 4622-add_role_permission
+2021-01-28 16:19:33.4759 INFO Insert User_permission Add Success : 4623-add_role_permission
+2021-01-28 16:19:33.6736 INFO Insert User_permission Add Success : 4624-add_role_permission
+2021-01-28 16:19:33.8723 INFO Insert User_permission Add Success : 4625-add_role_permission
+2021-01-28 16:19:34.0809 INFO Insert User_permission Add Success : 4626-add_role_permission
+2021-01-28 16:19:34.2765 INFO Insert User_permission Add Success : 4627-add_role_permission
+2021-01-28 16:19:34.4756 INFO Insert User_permission Add Success : 4628-add_role_permission
+2021-01-28 16:19:34.6728 INFO Insert User_permission Add Success : 4629-add_role_permission
+2021-01-28 16:19:34.8698 INFO Insert User_permission Add Success : 4630-add_role_permission
+2021-01-28 16:19:35.0660 INFO Insert User_permission Add Success : 4631-add_role_permission
+2021-01-28 16:19:35.2661 INFO Insert User_permission Add Success : 4632-add_role_permission
+2021-01-28 16:19:35.4641 INFO Insert User_permission Add Success : 4633-add_role_permission
+2021-01-28 16:19:35.6629 INFO Insert User_permission Add Success : 4634-add_role_permission
+2021-01-28 16:19:35.8605 INFO Insert User_permission Add Success : 4635-add_role_permission
+2021-01-28 16:19:36.0589 INFO Insert User_permission Add Success : 4636-add_role_permission
+2021-01-28 16:19:36.2566 INFO Insert User_permission Add Success : 4637-add_role_permission
+2021-01-28 16:19:36.4552 INFO Insert User_permission Add Success : 4638-add_role_permission
+2021-01-28 16:19:36.6521 INFO Insert User_permission Add Success : 4639-add_role_permission
+2021-01-28 16:19:36.8512 INFO Insert User_permission Add Success : 4640-add_role_permission
+2021-01-28 16:19:36.8512 INFO Insert role_permission Add Success : 74-add_role_permission
+2021-01-28 16:19:36.9191 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:36.9882 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:37.1196 INFO Update role_permission Success : 75-edit_role_permission
+2021-01-28 16:19:37.1854 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:37.2519 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:37.3849 INFO Update role_permission Success : 75-delete_role_permission
+2021-01-28 16:19:37.4509 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:37.5175 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:37.6495 INFO Update role_permission Success : 75-review_role_permission
+2021-01-28 16:19:37.7183 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:37.7844 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:37.9174 INFO Update role_permission Success : 75-approve_role_permission
+2021-01-28 16:19:38.0510 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:38.1172 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:38.5786 INFO Insert User_permission Add Success : 4641-add_role_permission
+2021-01-28 16:19:38.7786 INFO Insert User_permission Add Success : 4642-add_role_permission
+2021-01-28 16:19:38.9765 INFO Insert User_permission Add Success : 4643-add_role_permission
+2021-01-28 16:19:39.1753 INFO Insert User_permission Add Success : 4644-add_role_permission
+2021-01-28 16:19:39.3773 INFO Insert User_permission Add Success : 4645-add_role_permission
+2021-01-28 16:19:39.5764 INFO Insert User_permission Add Success : 4646-add_role_permission
+2021-01-28 16:19:39.7747 INFO Insert User_permission Add Success : 4647-add_role_permission
+2021-01-28 16:19:39.9708 INFO Insert User_permission Add Success : 4648-add_role_permission
+2021-01-28 16:19:40.1676 INFO Insert User_permission Add Success : 4649-add_role_permission
+2021-01-28 16:19:40.3666 INFO Insert User_permission Add Success : 4650-add_role_permission
+2021-01-28 16:19:40.5650 INFO Insert User_permission Add Success : 4651-add_role_permission
+2021-01-28 16:19:40.7675 INFO Insert User_permission Add Success : 4652-add_role_permission
+2021-01-28 16:19:40.9694 INFO Insert User_permission Add Success : 4653-add_role_permission
+2021-01-28 16:19:41.1661 INFO Insert User_permission Add Success : 4654-add_role_permission
+2021-01-28 16:19:41.3646 INFO Insert User_permission Add Success : 4655-add_role_permission
+2021-01-28 16:19:41.5629 INFO Insert User_permission Add Success : 4656-add_role_permission
+2021-01-28 16:19:41.7605 INFO Insert User_permission Add Success : 4657-add_role_permission
+2021-01-28 16:19:41.9578 INFO Insert User_permission Add Success : 4658-add_role_permission
+2021-01-28 16:19:42.1557 INFO Insert User_permission Add Success : 4659-add_role_permission
+2021-01-28 16:19:42.1557 INFO Insert role_permission Add Success : 75-add_role_permission
+2021-01-28 16:19:42.2245 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:42.2911 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:42.4391 INFO Update role_permission Success : 76-edit_role_permission
+2021-01-28 16:19:42.5053 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:42.5709 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:42.7059 INFO Update role_permission Success : 76-delete_role_permission
+2021-01-28 16:19:42.7725 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:42.8386 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:42.9699 INFO Update role_permission Success : 76-review_role_permission
+2021-01-28 16:19:43.0364 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:43.1026 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:43.2357 INFO Update role_permission Success : 76-approve_role_permission
+2021-01-28 16:19:43.3685 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:43.4349 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:43.9143 INFO Insert User_permission Add Success : 4660-add_role_permission
+2021-01-28 16:19:44.1142 INFO Insert User_permission Add Success : 4661-add_role_permission
+2021-01-28 16:19:44.3150 INFO Insert User_permission Add Success : 4662-add_role_permission
+2021-01-28 16:19:44.5150 INFO Insert User_permission Add Success : 4663-add_role_permission
+2021-01-28 16:19:44.7121 INFO Insert User_permission Add Success : 4664-add_role_permission
+2021-01-28 16:19:44.9089 INFO Insert User_permission Add Success : 4665-add_role_permission
+2021-01-28 16:19:45.1061 INFO Insert User_permission Add Success : 4666-add_role_permission
+2021-01-28 16:19:45.3034 INFO Insert User_permission Add Success : 4667-add_role_permission
+2021-01-28 16:19:45.4997 INFO Insert User_permission Add Success : 4668-add_role_permission
+2021-01-28 16:19:45.6965 INFO Insert User_permission Add Success : 4669-add_role_permission
+2021-01-28 16:19:45.8965 INFO Insert User_permission Add Success : 4670-add_role_permission
+2021-01-28 16:19:46.0947 INFO Insert User_permission Add Success : 4671-add_role_permission
+2021-01-28 16:19:46.2936 INFO Insert User_permission Add Success : 4672-add_role_permission
+2021-01-28 16:19:46.4914 INFO Insert User_permission Add Success : 4673-add_role_permission
+2021-01-28 16:19:46.6899 INFO Insert User_permission Add Success : 4674-add_role_permission
+2021-01-28 16:19:46.8876 INFO Insert User_permission Add Success : 4675-add_role_permission
+2021-01-28 16:19:47.0880 INFO Insert User_permission Add Success : 4676-add_role_permission
+2021-01-28 16:19:47.2879 INFO Insert User_permission Add Success : 4677-add_role_permission
+2021-01-28 16:19:47.5051 INFO Insert User_permission Add Success : 4678-add_role_permission
+2021-01-28 16:19:47.5051 INFO Insert role_permission Add Success : 76-add_role_permission
+2021-01-28 16:19:47.5736 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:47.6396 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:47.7722 INFO Update role_permission Success : 77-edit_role_permission
+2021-01-28 16:19:47.8383 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:47.9049 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:48.0387 INFO Update role_permission Success : 77-delete_role_permission
+2021-01-28 16:19:48.1053 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:48.1736 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:48.3069 INFO Update role_permission Success : 77-review_role_permission
+2021-01-28 16:19:48.3743 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:48.4417 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:48.5752 INFO Update role_permission Success : 77-approve_role_permission
+2021-01-28 16:19:48.7050 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:48.7717 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:49.2347 INFO Insert User_permission Add Success : 4679-add_role_permission
+2021-01-28 16:19:49.6995 INFO Insert User_permission Add Success : 4680-add_role_permission
+2021-01-28 16:19:49.9010 INFO Insert User_permission Add Success : 4681-add_role_permission
+2021-01-28 16:19:50.1088 INFO Insert User_permission Add Success : 4682-add_role_permission
+2021-01-28 16:19:50.3187 INFO Insert User_permission Add Success : 4683-add_role_permission
+2021-01-28 16:19:50.5312 INFO Insert User_permission Add Success : 4684-add_role_permission
+2021-01-28 16:19:50.7387 INFO Insert User_permission Add Success : 4685-add_role_permission
+2021-01-28 16:19:50.9466 INFO Insert User_permission Add Success : 4686-add_role_permission
+2021-01-28 16:19:51.1555 INFO Insert User_permission Add Success : 4687-add_role_permission
+2021-01-28 16:19:51.3660 INFO Insert User_permission Add Success : 4688-add_role_permission
+2021-01-28 16:19:51.5749 INFO Insert User_permission Add Success : 4689-add_role_permission
+2021-01-28 16:19:51.7845 INFO Insert User_permission Add Success : 4690-add_role_permission
+2021-01-28 16:19:51.9935 INFO Insert User_permission Add Success : 4691-add_role_permission
+2021-01-28 16:19:52.2018 INFO Insert User_permission Add Success : 4692-add_role_permission
+2021-01-28 16:19:52.4111 INFO Insert User_permission Add Success : 4693-add_role_permission
+2021-01-28 16:19:52.6200 INFO Insert User_permission Add Success : 4694-add_role_permission
+2021-01-28 16:19:52.8287 INFO Insert User_permission Add Success : 4695-add_role_permission
+2021-01-28 16:19:53.0365 INFO Insert User_permission Add Success : 4696-add_role_permission
+2021-01-28 16:19:53.2445 INFO Insert User_permission Add Success : 4697-add_role_permission
+2021-01-28 16:19:53.2445 INFO Insert role_permission Add Success : 77-add_role_permission
+2021-01-28 16:19:53.3156 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:53.3859 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:53.5251 INFO Update role_permission Success : 78-edit_role_permission
+2021-01-28 16:19:53.5932 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:53.6632 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:53.8021 INFO Update role_permission Success : 78-delete_role_permission
+2021-01-28 16:19:53.8719 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:53.9406 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:54.0816 INFO Update role_permission Success : 78-review_role_permission
+2021-01-28 16:19:54.1517 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:54.2218 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:54.3612 INFO Update role_permission Success : 78-approve_role_permission
+2021-01-28 16:19:54.5008 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:19:54.5705 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:55.0527 INFO Insert User_permission Add Success : 4698-add_role_permission
+2021-01-28 16:19:55.2604 INFO Insert User_permission Add Success : 4699-add_role_permission
+2021-01-28 16:19:55.4685 INFO Insert User_permission Add Success : 4700-add_role_permission
+2021-01-28 16:19:55.6792 INFO Insert User_permission Add Success : 4701-add_role_permission
+2021-01-28 16:19:55.8877 INFO Insert User_permission Add Success : 4702-add_role_permission
+2021-01-28 16:19:56.0954 INFO Insert User_permission Add Success : 4703-add_role_permission
+2021-01-28 16:19:56.3036 INFO Insert User_permission Add Success : 4704-add_role_permission
+2021-01-28 16:19:56.5126 INFO Insert User_permission Add Success : 4705-add_role_permission
+2021-01-28 16:19:56.7212 INFO Insert User_permission Add Success : 4706-add_role_permission
+2021-01-28 16:19:56.9296 INFO Insert User_permission Add Success : 4707-add_role_permission
+2021-01-28 16:19:57.1386 INFO Insert User_permission Add Success : 4708-add_role_permission
+2021-01-28 16:19:57.3472 INFO Insert User_permission Add Success : 4709-add_role_permission
+2021-01-28 16:19:57.5555 INFO Insert User_permission Add Success : 4710-add_role_permission
+2021-01-28 16:19:57.7644 INFO Insert User_permission Add Success : 4711-add_role_permission
+2021-01-28 16:19:57.9729 INFO Insert User_permission Add Success : 4712-add_role_permission
+2021-01-28 16:19:58.1815 INFO Insert User_permission Add Success : 4713-add_role_permission
+2021-01-28 16:19:58.3899 INFO Insert User_permission Add Success : 4714-add_role_permission
+2021-01-28 16:19:58.5977 INFO Insert User_permission Add Success : 4715-add_role_permission
+2021-01-28 16:19:58.8063 INFO Insert User_permission Add Success : 4716-add_role_permission
+2021-01-28 16:19:58.8063 INFO Insert role_permission Add Success : 78-add_role_permission
+2021-01-28 16:19:58.8758 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:58.9448 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:59.0842 INFO Update role_permission Success : 79-edit_role_permission
+2021-01-28 16:19:59.1542 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:59.2243 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:59.3640 INFO Update role_permission Success : 79-delete_role_permission
+2021-01-28 16:19:59.4338 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:59.5034 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:59.6430 INFO Update role_permission Success : 79-review_role_permission
+2021-01-28 16:19:59.7129 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:19:59.7829 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:19:59.9228 INFO Update role_permission Success : 79-approve_role_permission
+2021-01-28 16:20:00.0613 INFO Clear User_permission  Success : System.String[]
+2021-01-28 16:20:00.1301 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:20:00.6128 INFO Insert User_permission Add Success : 4717-add_role_permission
+2021-01-28 16:20:00.8202 INFO Insert User_permission Add Success : 4718-add_role_permission
+2021-01-28 16:20:01.0273 INFO Insert User_permission Add Success : 4719-add_role_permission
+2021-01-28 16:20:01.2352 INFO Insert User_permission Add Success : 4720-add_role_permission
+2021-01-28 16:20:01.4529 INFO Insert User_permission Add Success : 4721-add_role_permission
+2021-01-28 16:20:01.6608 INFO Insert User_permission Add Success : 4722-add_role_permission
+2021-01-28 16:20:01.8717 INFO Insert User_permission Add Success : 4723-add_role_permission
+2021-01-28 16:20:02.0790 INFO Insert User_permission Add Success : 4724-add_role_permission
+2021-01-28 16:20:02.2877 INFO Insert User_permission Add Success : 4725-add_role_permission
+2021-01-28 16:20:02.4973 INFO Insert User_permission Add Success : 4726-add_role_permission
+2021-01-28 16:20:02.7058 INFO Insert User_permission Add Success : 4727-add_role_permission
+2021-01-28 16:20:02.9142 INFO Insert User_permission Add Success : 4728-add_role_permission
+2021-01-28 16:20:03.1227 INFO Insert User_permission Add Success : 4729-add_role_permission
+2021-01-28 16:20:03.3298 INFO Insert User_permission Add Success : 4730-add_role_permission
+2021-01-28 16:20:03.5395 INFO Insert User_permission Add Success : 4731-add_role_permission
+2021-01-28 16:20:03.7478 INFO Insert User_permission Add Success : 4732-add_role_permission
+2021-01-28 16:20:03.9569 INFO Insert User_permission Add Success : 4733-add_role_permission
+2021-01-28 16:20:04.1661 INFO Insert User_permission Add Success : 4734-add_role_permission
+2021-01-28 16:20:04.3747 INFO Insert User_permission Add Success : 4735-add_role_permission
+2021-01-28 16:20:04.3747 INFO Insert role_permission Add Success : 79-add_role_permission
+2021-01-28 16:20:04.4461 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:20:04.5160 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:20:04.6565 INFO Update role_permission Success : 80-edit_role_permission
+2021-01-28 16:20:04.7254 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:20:04.7951 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:20:04.9351 INFO Update role_permission Success : 80-delete_role_permission
+2021-01-28 16:20:05.0080 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:20:05.0784 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:20:05.2187 INFO Update role_permission Success : 80-review_role_permission
+2021-01-28 16:20:05.2874 INFO Get GetMaxID Success : role_permission
+2021-01-28 16:20:05.3579 INFO Update role_permission No Records : System.String[]
+2021-01-28 16:20:05.4972 INFO Update role_permission Success : 80-approve_role_permission
+2021-01-28 16:20:07.4721 INFO Get RolePermissions List Success
+2021-01-28 16:20:10.9694 INFO Org Get List Success
+2021-01-28 16:20:11.0403 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:20:11.1129 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.1839 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.1839 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.1839 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.2550 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.2550 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.2550 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.2550 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.2550 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.3265 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.3265 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.3984 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.3984 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.3984 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.4736 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.4736 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.4736 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.5482 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.5500 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:20:11.6213 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.6961 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7061 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.7766 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7766 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7766 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7766 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.7766 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:11.8490 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:20:12.3204 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:20:12.3900 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.4614 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.4614 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.4614 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.5371 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.5371 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:20:12.6079 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.6786 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.7564 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.7564 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.7564 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.7564 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.7564 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.7564 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.8350 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.9078 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.9088 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.9088 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:12.9781 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:12.9781 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:13.0487 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:13.0507 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:13.1211 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:13.1956 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:13.1956 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:13.1956 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:13.1956 INFO Get Module_master In ViewModel Success 
+2021-01-28 16:20:13.2664 INFO Get SubModule_master In ViewModel Success 
+2021-01-28 16:20:13.3362 INFO Get TabName Master In ViewModel Success 
+2021-01-28 16:20:13.3362 INFO Get ViewModel Success 
+2021-01-28 16:20:13.6512 INFO Get RolePermission Success
+2021-01-28 16:20:27.2785 INFO Get User Success :103-Harinagar Distillery Division - Bond Officer
+2021-01-28 16:20:27.6489 INFO Get User Success :harinagar_disbo
+2021-01-28 16:26:12.9655 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:13.0653 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:25.6380 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:25.6465 INFO Get Indent List Success
+2021-01-28 16:26:25.7068 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:28.0665 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:28.0945 INFO Get RR List Success
+2021-01-28 16:26:28.1032 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:29.6106 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:29.6372 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:31.3890 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:31.3998 INFO Get Pass List Success
+2021-01-28 16:26:31.4174 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:37.4865 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:37.4935 INFO Get Pass List Success
+2021-01-28 16:26:37.5028 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:39.3833 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:39.3833 INFO Get Indent List Success
+2021-01-28 16:26:39.3957 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:41.1908 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:41.1908 INFO Get Indent List Success
+2021-01-28 16:26:41.2340 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:41.2410 INFO Get Allotment List Success
+2021-01-28 16:26:41.2590 INFO Get User Success :harinagar_dis
+2021-01-28 16:26:42.3743 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:26:42.3782 INFO Get Allotment List Success
+2021-01-28 16:26:42.5219 INFO Get GetSeverList Success
+2021-01-28 16:28:39.2301 INFO Get GetSeverList Success
+2021-01-28 16:29:14.6137 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-28 16:29:14.6137 INFO Get Allotment List Success
+2021-01-28 16:29:15.3021 INFO Get GetSeverList Success
+2021-01-28 16:29:27.4495 INFO Get GetSeverList Success
+2021-01-28 16:33:06.3677 INFO Get GetSeverList Success
+2021-01-28 16:37:40.9856 INFO Get GetSeverList Success
+2021-01-28 16:40:07.8546 INFO Get GetSeverList Success

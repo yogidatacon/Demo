@@ -1,0 +1,45 @@
+2022-03-26 10:09:49.4749 INFO Get User Success :101-Commissioner
+2022-03-26 10:10:00.7907 INFO Get User Success :101-Commissioner
+2022-03-26 10:10:01.4910 INFO Get Product Type Master List Success
+2022-03-26 10:10:01.5634 INFO Get User Success :com
+2022-03-26 10:11:18.2840 INFO Get User Success :101-Commissioner
+2022-03-26 10:11:18.6886 INFO Get Product Type Master List Success
+2022-03-26 10:11:18.7770 INFO Get User Success :com
+2022-03-26 10:12:41.9032 INFO Get Existing data Success :complaint
+2022-03-26 10:12:44.6738 INFO Get Existing data Success :complaint
+2022-03-26 10:12:49.2330 INFO Get Existing data Success :complaint
+2022-03-26 10:16:53.2019 INFO Get Existing data Success :complaint
+2022-03-26 10:17:31.5385 INFO Get Existing data Success :complaint
+2022-03-26 10:20:01.2462 INFO Get Existing data Success :complaint
+2022-03-26 10:20:31.1573 INFO Get Existing data Success :complaint
+2022-03-26 10:21:37.2559 INFO Get Existing data Success :complaint
+2022-03-26 17:51:25.8646 INFO Get User Success :44-Administrator
+2022-03-26 17:51:25.9890 INFO Get User Success :44-Administrator
+2022-03-26 17:51:26.0255 INFO Get Product Type Master List Success
+2022-03-26 17:51:26.0441 INFO Get User Success :Admin
+2022-03-26 17:51:34.0204 INFO Get Dept List Success
+2022-03-26 17:51:34.0693 INFO Get Product Type Master List Success
+2022-03-26 17:51:34.0753 INFO Get User Success :Admin
+2022-03-26 17:51:35.8780 INFO Get Users List Success
+2022-03-26 17:51:35.8930 INFO Get Product Type Master List Success
+2022-03-26 17:51:35.8996 INFO Get User Success :Admin
+2022-03-26 17:51:37.3793 INFO Org Get List Success
+2022-03-26 17:51:37.3879 INFO Get Party Master List Success
+2022-03-26 17:51:37.4244 INFO Get Role Level List Success
+2022-03-26 17:51:37.4415 INFO Get access_type List Success
+2022-03-26 17:51:37.4545 INFO Get view_Role_master List Success
+2022-03-26 17:51:37.4545 INFO Get State List Success
+2022-03-26 17:51:37.4545 INFO Get Dept List Success
+2022-03-26 17:51:37.5095 INFO Get Emp List Success
+2022-03-26 17:51:37.6013 INFO Get Users List Success
+2022-03-26 17:51:37.6013 INFO Get Product Type Master List Success
+2022-03-26 17:51:37.6087 INFO Get User Success :Admin
+2022-03-26 17:52:26.7113 INFO Get Existing data Success :user_registration
+2022-03-26 17:52:37.7858 INFO Get Existing data Fail :user_registration
+2022-03-26 17:52:57.3277 INFO Get Existing data Fail :user_registration
+2022-03-26 17:53:16.7799 INFO Get Division List Success
+2022-03-26 17:56:57.5641 INFO Get User Success :44-Administrator
+2022-03-26 17:56:57.6679 INFO Get User Success :44-Administrator
+2022-03-26 17:56:57.7008 INFO Get Product Type Master List Success
+2022-03-26 17:56:57.7008 INFO Get User Success :Admin
+2022-03-26 17:57:07.2832 INFO Get User Success :44-Administrator

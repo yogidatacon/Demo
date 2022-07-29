@@ -1,0 +1,295 @@
+2022-01-27 10:45:39.5467 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 10:45:40.8812 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 10:45:42.5629 INFO Get Product Type Master List Success
+2022-01-27 10:45:42.7185 INFO Get User Success :hasanpur_sgr
+2022-01-27 10:45:49.6627 INFO Sugarcanepurchase Get List Success
+2022-01-27 10:45:49.7187 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 10:45:51.5863 INFO Get Product Type Master List Success
+2022-01-27 10:45:51.7970 INFO Get User Success :hasanpur_sgr
+2022-01-27 10:45:58.1472 INFO Get User Fail :110--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 10:45:59.1288 INFO Get Product Type Master List Success
+2022-01-27 10:45:59.2940 INFO Get User Success :hasanpur_sgr
+2022-01-27 10:46:06.5421 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 10:46:25.6987 INFO Get Product Type Master List Success
+2022-01-27 10:46:25.8631 INFO Get User Success :hasanpur_sgr
+2022-01-27 10:46:34.5128 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 10:50:49.4123 INFO Get Product Type Master List Success
+2022-01-27 10:50:49.5745 INFO Get User Success :hasanpur_sgr
+2022-01-27 10:50:55.6808 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 10:51:00.5634 INFO Get Product Type Master List Success
+2022-01-27 10:51:00.7250 INFO Get User Success :hasanpur_sgr
+2022-01-27 10:51:04.5994 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 11:00:24.8303 INFO Get User Fail :110--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 11:00:26.7081 INFO Get Product Type Master List Success
+2022-01-27 11:00:26.8144 INFO Get User Success :hasanpur_sgr
+2022-01-27 11:00:31.2338 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 11:00:33.0358 INFO Get Product Type Master List Success
+2022-01-27 11:00:33.1475 INFO Get User Success :hasanpur_sgr
+2022-01-27 11:01:18.7462 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-27 11:01:19.2225 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-27 11:01:19.9440 INFO Get Product Type Master List Success
+2022-01-27 11:01:20.0537 INFO Get User Success :newswadeshi_dis
+2022-01-27 11:01:24.5513 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-27 11:01:27.5050 INFO Get Product Type Master List Success
+2022-01-27 11:01:27.6078 INFO Get User Success :newswadeshi_dis
+2022-01-27 11:01:37.7315 INFO Get User Fail :108--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 11:01:38.1913 INFO Get Product Type Master List Success
+2022-01-27 11:01:38.3459 INFO Get User Success :newswadeshi_dis
+2022-01-27 11:01:42.4904 INFO Get User Success :108-New Swadeshi Distillery Unit
+2022-01-27 11:01:47.1707 INFO Get Product Type Master List Success
+2022-01-27 11:01:47.2728 INFO Get User Success :newswadeshi_dis
+2022-01-27 11:01:57.1981 INFO Get User Fail :108--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 11:01:57.9437 INFO Get Product Type Master List Success
+2022-01-27 11:01:58.0484 INFO Get User Success :newswadeshi_dis
+2022-01-27 11:02:13.8195 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 11:02:14.3937 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 11:02:14.8892 INFO Get Product Type Master List Success
+2022-01-27 11:02:15.0876 INFO Get User Success :hasanpur_sgr
+2022-01-27 11:02:28.8211 INFO Sugarcanepurchase Get List Success
+2022-01-27 11:02:28.8735 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 11:02:32.0623 INFO Get Product Type Master List Success
+2022-01-27 11:02:32.2168 INFO Get User Success :hasanpur_sgr
+2022-01-27 11:02:37.4703 INFO Get User Fail :110--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 11:02:37.8916 INFO Get Product Type Master List Success
+2022-01-27 11:02:38.1035 INFO Get User Success :hasanpur_sgr
+2022-01-27 11:02:42.6577 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 11:02:44.2067 INFO Get Product Type Master List Success
+2022-01-27 11:02:44.4008 INFO Get User Success :hasanpur_sgr
+2022-01-27 11:33:30.6081 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 11:33:31.0928 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 11:33:32.2982 INFO Get Product Type Master List Success
+2022-01-27 11:33:32.3550 INFO Get User Success :sam_lab
+2022-01-27 11:33:37.0747 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 11:33:49.6346 INFO Get Product Type Master List Success
+2022-01-27 11:33:49.9868 INFO Get User Success :sam_lab
+2022-01-27 11:33:55.0131 INFO Get User Fail :355--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 11:33:56.5314 INFO Get Product Type Master List Success
+2022-01-27 11:33:56.5867 INFO Get User Success :sam_lab
+2022-01-27 11:34:00.9248 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 11:34:03.3576 INFO Get Product Type Master List Success
+2022-01-27 11:34:03.4114 INFO Get User Success :sam_lab
+2022-01-27 11:34:18.2124 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 11:34:18.8058 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 11:34:19.3852 INFO Get Product Type Master List Success
+2022-01-27 11:34:19.4401 INFO Get User Success :sam_labbo
+2022-01-27 11:34:23.8719 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 11:34:36.5673 INFO Get Product Type Master List Success
+2022-01-27 11:34:36.6710 INFO Get User Success :sam_labbo
+2022-01-27 11:34:40.2590 INFO Get User Fail :356--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 11:34:41.8344 INFO Get Product Type Master List Success
+2022-01-27 11:34:42.6813 INFO Get User Success :sam_labbo
+2022-01-27 11:34:46.8054 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 11:34:50.2685 INFO Get Product Type Master List Success
+2022-01-27 11:34:50.4300 INFO Get User Success :sam_labbo
+2022-01-27 13:34:26.2966 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 13:34:27.7819 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 13:34:29.6578 INFO Get Product Type Master List Success
+2022-01-27 13:34:29.8315 INFO Get User Success :bharath_sgr
+2022-01-27 13:34:37.2216 INFO Sugarcanepurchase Get List Success
+2022-01-27 13:34:37.3092 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 13:34:38.9821 INFO Get Product Type Master List Success
+2022-01-27 13:34:39.1413 INFO Get User Success :bharath_sgr
+2022-01-27 13:34:43.3121 INFO Get User Fail :139--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 13:34:46.1442 INFO Get Product Type Master List Success
+2022-01-27 13:34:46.4451 INFO Get User Success :bharath_sgr
+2022-01-27 13:34:56.5118 INFO Get User Fail :139--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 13:34:56.7477 INFO Get Party Master List Success
+2022-01-27 13:34:59.4464 INFO Get Product Type Master List Success
+2022-01-27 13:34:59.8346 INFO Get User Success :bharath_sgr
+2022-01-27 14:57:16.2362 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 14:57:17.7136 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 14:57:19.6709 INFO Get Product Type Master List Success
+2022-01-27 14:57:19.8402 INFO Get User Success :bharath_sgr
+2022-01-27 14:57:28.6394 INFO Sugarcanepurchase Get List Success
+2022-01-27 14:57:28.9482 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 14:57:31.1583 INFO Get Product Type Master List Success
+2022-01-27 14:57:31.4222 INFO Get User Success :bharath_sgr
+2022-01-27 14:57:35.8983 INFO Get User Fail :139--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 14:57:38.9117 INFO Get Product Type Master List Success
+2022-01-27 14:57:39.3765 INFO Get User Success :bharath_sgr
+2022-01-27 14:57:45.0582 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 14:57:56.8180 INFO MIR GetList Sucess
+2022-01-27 14:57:58.9851 INFO Get Product Type Master List Success
+2022-01-27 14:57:59.1966 INFO Get User Success :bharath_sgr
+2022-01-27 14:58:04.8051 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 14:58:05.8433 INFO Get VAT Master List Success
+2022-01-27 14:59:07.3312 INFO Get Pass List Success
+2022-01-27 14:59:45.6219 INFO Get Product Type Master List Success
+2022-01-27 14:59:46.1966 INFO Get User Success :bharath_sgr
+2022-01-27 15:00:02.7950 INFO Get Pass List Success
+2022-01-27 15:01:50.2566 INFO MIR Insertion Sucess:107-BSM
+2022-01-27 15:01:50.3523 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 15:02:11.3502 INFO MIR GetList Sucess
+2022-01-27 15:04:09.5268 INFO Get Product Type Master List Success
+2022-01-27 15:04:09.8460 INFO Get User Success :bharath_sgr
+2022-01-27 15:04:19.1513 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2022-01-27 15:04:31.2848 INFO Get VAT Master List Success
+2022-01-27 15:07:42.5328 INFO Get User Success :120-Bharat Sugar Mills, Sidhwalia, Bond Officer
+2022-01-27 15:07:44.4733 INFO Get User Success :120-Bharat Sugar Mills, Sidhwalia, Bond Officer
+2022-01-27 15:07:47.0829 INFO Get Product Type Master List Success
+2022-01-27 15:07:47.3050 INFO Get User Success :bharat_sgrbo
+2022-01-27 15:07:58.2004 INFO Sugarcanepurchase Get List Success
+2022-01-27 15:07:58.5379 INFO Get User Success :120-Bharat Sugar Mills, Sidhwalia, Bond Officer
+2022-01-27 15:08:05.4120 INFO Get Product Type Master List Success
+2022-01-27 15:08:05.6655 INFO Get User Success :bharat_sgrbo
+2022-01-27 15:08:12.6081 INFO Get Pass List Success
+2022-01-27 15:08:22.9793 INFO Get User Success :120-Bharat Sugar Mills, Sidhwalia, Bond Officer
+2022-01-27 15:08:43.0376 INFO MIR GetList Sucess
+2022-01-27 15:08:57.1118 INFO Get Product Type Master List Success
+2022-01-27 15:08:57.3874 INFO Get User Success :bharat_sgrbo
+2022-01-27 15:09:06.8324 INFO Get User Success :120-Bharat Sugar Mills, Sidhwalia, Bond Officer
+2022-01-27 15:09:11.3330 INFO Get VAT Master List Success
+2022-01-27 15:10:21.4821 INFO Get Pass List Success
+2022-01-27 15:10:21.5512 INFO MIR GetDetails Sucess
+2022-01-27 15:10:21.6183 INFO Get Pass List Success
+2022-01-27 15:10:25.0627 INFO Get Product Type Master List Success
+2022-01-27 15:10:25.4715 INFO Get User Success :bharat_sgrbo
+2022-01-27 15:14:34.8160 INFO MIR Approve Sucess:107
+2022-01-27 15:14:34.8998 INFO Get User Success :120-Bharat Sugar Mills, Sidhwalia, Bond Officer
+2022-01-27 15:14:52.2078 INFO MIR GetList Sucess
+2022-01-27 15:17:31.8905 INFO Get Product Type Master List Success
+2022-01-27 15:17:32.2529 INFO Get User Success :bharat_sgrbo
+2022-01-27 15:28:02.7772 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:28:06.4225 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:28:22.7525 INFO Get Product Type Master List Success
+2022-01-27 15:28:22.9389 INFO Get User Success :bdbl_dis
+2022-01-27 15:29:15.4336 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:29:15.7617 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:29:17.7282 INFO Get Product Type Master List Success
+2022-01-27 15:29:17.9005 INFO Get User Success :bdbl_dis
+2022-01-27 15:29:42.6601 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:29:42.8107 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:29:44.6552 INFO Get Product Type Master List Success
+2022-01-27 15:29:44.7799 INFO Get User Success :bdbl_dis
+2022-01-27 15:31:36.0673 INFO Get Product Master List Success
+2022-01-27 15:31:43.3236 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:31:43.4249 INFO Get Balance Request Pass Success
+2022-01-27 15:32:15.2423 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:32:15.6035 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:32:16.8805 INFO Get Product Type Master List Success
+2022-01-27 15:32:17.3851 INFO Get User Success :bdbl_dis
+2022-01-27 15:32:27.1090 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:32:27.2127 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:32:28.2503 INFO Get Product Type Master List Success
+2022-01-27 15:32:28.4763 INFO Get User Success :bdbl_dis
+2022-01-27 15:32:33.9122 INFO Get Product Master List Success
+2022-01-27 15:32:34.8137 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:32:34.8982 INFO Get Balance Request Pass Success
+2022-01-27 15:32:40.9925 INFO Get Product Master List Success
+2022-01-27 15:32:43.1376 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-27 15:32:43.2204 INFO Get Balance Request Pass Success
+2022-01-27 16:17:20.3728 INFO Get User Success :101-Commissioner
+2022-01-27 16:17:23.9256 INFO Get User Success :101-Commissioner
+2022-01-27 16:17:28.2522 INFO Get Product Type Master List Success
+2022-01-27 16:17:28.3290 INFO Get User Success :com
+2022-01-27 16:17:33.7147 INFO Get User Success :101-Commissioner
+2022-01-27 16:17:33.7760 INFO Get Report  Success
+2022-01-27 16:17:35.4589 INFO Get Product Type Master List Success
+2022-01-27 16:17:35.5694 INFO Get User Success :com
+2022-01-27 16:17:41.6753 INFO Get User Success :101-Commissioner
+2022-01-27 16:17:41.7805 INFO Get Report  Success
+2022-01-27 16:17:43.4560 INFO Get Product Type Master List Success
+2022-01-27 16:17:43.5271 INFO Get User Success :com
+2022-01-27 16:18:00.4607 INFO Get Report  Success
+2022-01-27 16:18:00.7390 INFO Get GetSeverList Success
+2022-01-27 16:18:31.7102 INFO Get Report  Success
+2022-01-27 16:18:31.9322 INFO Get GetSeverList Success
+2022-01-27 16:37:01.6112 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:37:04.3446 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:37:06.0365 INFO Get Product Type Master List Success
+2022-01-27 16:37:06.2098 INFO Get User Success :sonasati_sgd
+2022-01-27 16:37:12.8294 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:37:12.9092 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:37:15.9114 INFO Get Product Type Master List Success
+2022-01-27 16:37:15.9852 INFO Get User Success :sonasati_sgd
+2022-01-27 16:37:19.1518 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:37:51.5560 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:37:51.6617 INFO Get Dispach Master List Success
+2022-01-27 16:37:51.8692 INFO Get VAT Master List Success
+2022-01-27 16:37:51.9619 INFO Get VAT Master List Success
+2022-01-27 16:37:52.0563 INFO Get Product Type Master List Success
+2022-01-27 16:37:52.3220 INFO Get User Success :sonasati_sgd
+2022-01-27 16:43:39.9060 INFO Get User Fail :374--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:43:40.2011 INFO Get Product Type Master List Success
+2022-01-27 16:43:40.2813 INFO Get User Success :sonasati_sgd
+2022-01-27 16:43:44.2435 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:51:54.2334 INFO Get Product Type Master List Success
+2022-01-27 16:51:54.3091 INFO Get User Success :sonasati_sgd
+2022-01-27 16:52:05.4619 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:54:33.8706 INFO Get User Fail :374--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:54:34.1343 INFO Get Product Type Master List Success
+2022-01-27 16:54:34.2092 INFO Get User Success :sonasati_sgd
+2022-01-27 16:54:43.5469 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 16:54:48.1209 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 16:54:48.6114 INFO Get Product Type Master List Success
+2022-01-27 16:54:48.7860 INFO Get User Success :hasanpur_sgr
+2022-01-27 16:54:57.4430 INFO Sugarcanepurchase Get List Success
+2022-01-27 16:54:57.5115 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 16:54:57.6019 INFO Get Product Type Master List Success
+2022-01-27 16:54:57.7837 INFO Get User Success :hasanpur_sgr
+2022-01-27 16:54:59.5579 INFO Get User Fail :110--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:54:59.8189 INFO Get Product Type Master List Success
+2022-01-27 16:54:59.9896 INFO Get User Success :hasanpur_sgr
+2022-01-27 16:55:01.5087 INFO Get User Success :110-Hasanpur Sugar Mills
+2022-01-27 16:55:07.6843 INFO Get Product Type Master List Success
+2022-01-27 16:55:07.8252 INFO Get User Success :hasanpur_sgr
+2022-01-27 16:55:54.7581 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 16:55:54.9278 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 16:55:55.0590 INFO Get Product Type Master List Success
+2022-01-27 16:55:55.1292 INFO Get User Success :sam_lab
+2022-01-27 16:55:57.5584 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 16:56:05.1284 INFO Get Product Type Master List Success
+2022-01-27 16:56:05.2680 INFO Get User Success :sam_lab
+2022-01-27 16:56:06.6941 INFO Get User Fail :355--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:56:06.9564 INFO Get Product Type Master List Success
+2022-01-27 16:56:07.0273 INFO Get User Success :sam_lab
+2022-01-27 16:56:08.8689 INFO Get User Success :355-Samrat Laboratories
+2022-01-27 16:56:14.9957 INFO Get Product Type Master List Success
+2022-01-27 16:56:15.0685 INFO Get User Success :sam_lab
+2022-01-27 16:56:25.2094 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 16:56:25.3809 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 16:56:25.5116 INFO Get Product Type Master List Success
+2022-01-27 16:56:25.5824 INFO Get User Success :sam_labbo
+2022-01-27 16:56:28.3909 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 16:56:31.8080 INFO Get Product Type Master List Success
+2022-01-27 16:56:31.8758 INFO Get User Success :sam_labbo
+2022-01-27 16:56:35.0756 INFO Get User Fail :356--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:56:35.2794 INFO Get Product Type Master List Success
+2022-01-27 16:56:35.3482 INFO Get User Success :sam_labbo
+2022-01-27 16:56:36.9188 INFO Get User Success :356-Samrat Laboratories, Bond officer
+2022-01-27 16:56:40.6503 INFO Get Product Type Master List Success
+2022-01-27 16:56:40.7231 INFO Get User Success :sam_labbo
+2022-01-27 16:56:45.4729 INFO Get User Fail :356--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:56:45.6729 INFO Get Product Type Master List Success
+2022-01-27 16:56:45.7426 INFO Get User Success :sam_labbo
+2022-01-27 16:57:12.0290 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:57:12.1896 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:57:12.3371 INFO Get Product Type Master List Success
+2022-01-27 16:57:12.4089 INFO Get User Success :sonasati_sgd
+2022-01-27 16:57:15.6470 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:57:16.2143 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:57:16.8660 INFO Get Product Type Master List Success
+2022-01-27 16:57:16.9358 INFO Get User Success :sonasati_sgd
+2022-01-27 16:57:19.1727 INFO Get User Fail :374--Index and length must refer to a location within the string.
+Parameter name: length
+2022-01-27 16:57:19.4361 INFO Get Product Type Master List Success
+2022-01-27 16:57:19.5135 INFO Get User Success :sonasati_sgd
+2022-01-27 16:57:21.2829 INFO Get User Success :374-Sona Sati Organics Pvt Ltd Grain
+2022-01-27 16:57:25.4939 INFO Get Product Type Master List Success
+2022-01-27 16:57:25.5747 INFO Get User Success :sonasati_sgd

@@ -1,0 +1,60 @@
+#header,#footer,#content { position:absolute; right:0;left:0}
+
+#header{
+   	height:125px; top:0;background-color:#000;
+}
+#footer{
+  	height:20px; bottom:0;
+	background-color: #002448;
+}
+#content{
+	top:15%;
+	bottom:10px;
+	overflow:hidden; /* use this if don't want any window scrollbars and use an inner element for scrolling*/
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    background-color: #002448;
+    height : 100%;
+}
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-weight : bold;
+    font-size:13px;
+}
+
+li a.active {
+    background-color: #bb0301;
+    color: white;
+	font-size:13px;
+}
+
+li a:hover:not(.active) {
+    background-color: #bb0301;
+    color: white;
+	font-size:13px;
+}
+
+.form-signin {
+
+	padding: 15px 35px 45px;
+	margin: 0 auto;
+	background-color: #fff;
+	border: 1px solid rgba(0,0,0,0.1);  
+
+}
+.main {
+	width:100%;
+	height:100%;
+}
+.menutd {
+	width:10%;
+}

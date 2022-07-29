@@ -1,0 +1,771 @@
+2021-06-05 07:47:51.9742 INFO Get User Success :353-M and TP Unit
+2021-06-05 07:47:52.5981 INFO Get User Success :353-M and TP Unit
+2021-06-05 07:47:52.9732 INFO Get User Success :mtp1
+2021-06-05 07:48:02.0475 INFO Get User Success :353-M and TP Unit
+2021-06-05 07:48:10.1440 INFO Get User Success :mtp1
+2021-06-05 07:48:14.4348 INFO Get User Success :353-M and TP Unit
+2021-06-05 07:48:17.7485 INFO Get User Success :353-M and TP Unit
+2021-06-05 07:48:17.8865 INFO Get License_Type List Success
+2021-06-05 07:48:17.9955 INFO Get License Fee List Success
+2021-06-05 07:48:18.1195 INFO Get State List Success
+2021-06-05 07:48:19.5514 INFO Get User Success :mtp1
+2021-06-05 07:50:04.5443 INFO Get Division List Success
+2021-06-05 07:50:24.1230 INFO Get License_Type List Success
+2021-06-05 07:50:32.9213 INFO Get License_Type List Success
+2021-06-05 07:50:44.2682 INFO Get License_Type List Success
+2021-06-05 07:50:52.2714 INFO Get License_Type List Success
+2021-06-05 07:52:56.6741 INFO Get License_Type List Success
+2021-06-05 08:12:38.2401 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:12:40.8100 INFO Get User Success :mtp1
+2021-06-05 08:12:56.8950 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:13:00.7737 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:13:00.8887 INFO Get License_Type List Success
+2021-06-05 08:13:00.9757 INFO Get License Fee List Success
+2021-06-05 08:13:01.0647 INFO Get State List Success
+2021-06-05 08:13:03.8655 INFO Get License_Type List Success
+2021-06-05 08:13:04.8455 INFO Get Division List Success
+2021-06-05 08:13:05.9954 INFO Get License_Type List Success
+2021-06-05 08:13:08.0033 INFO Get User Success :mtp1
+2021-06-05 08:18:55.0162 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:18:57.7801 INFO Get User Success :mtp1
+2021-06-05 08:19:01.1329 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:19:04.9336 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:19:05.0096 INFO Get License_Type List Success
+2021-06-05 08:19:05.1016 INFO Get License Fee List Success
+2021-06-05 08:19:05.1796 INFO Get State List Success
+2021-06-05 08:19:45.0531 INFO Get License_Type List Success
+2021-06-05 08:20:12.8113 INFO Get Division List Success
+2021-06-05 08:20:14.0582 INFO Get License_Type List Success
+2021-06-05 08:20:16.0931 INFO Get User Success :mtp1
+2021-06-05 08:25:10.6604 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:29:07.9324 INFO Get User Success :mtp1
+2021-06-05 08:29:13.5900 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:29:17.0118 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:29:17.0768 INFO Get License_Type List Success
+2021-06-05 08:29:17.1458 INFO Get License Fee List Success
+2021-06-05 08:29:17.2118 INFO Get State List Success
+2021-06-05 08:29:22.0444 INFO Get License_Type List Success
+2021-06-05 08:29:23.7283 INFO Get Division List Success
+2021-06-05 08:29:24.8383 INFO Get License_Type List Success
+2021-06-05 08:29:26.6612 INFO Get User Success :mtp1
+2021-06-05 08:31:03.3449 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:36:36.2748 INFO Get User Success :mtp1
+2021-06-05 08:36:40.1685 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:36:44.6952 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:36:44.7632 INFO Get License_Type List Success
+2021-06-05 08:36:44.8212 INFO Get License Fee List Success
+2021-06-05 08:36:44.8882 INFO Get State List Success
+2021-06-05 08:36:50.1419 INFO Get License_Type List Success
+2021-06-05 08:36:51.3458 INFO Get Division List Success
+2021-06-05 08:36:52.7097 INFO Get License_Type List Success
+2021-06-05 08:36:55.0736 INFO Get User Success :mtp1
+2021-06-05 08:37:03.4110 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:42:13.6913 INFO Get User Success :mtp1
+2021-06-05 08:42:27.4503 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:42:30.7558 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:42:30.8248 INFO Get License_Type List Success
+2021-06-05 08:42:30.8868 INFO Get License Fee List Success
+2021-06-05 08:42:30.9748 INFO Get State List Success
+2021-06-05 08:42:34.1356 INFO Get License_Type List Success
+2021-06-05 08:42:34.3926 INFO Get Division List Success
+2021-06-05 08:42:34.8645 INFO Get License_Type List Success
+2021-06-05 08:42:35.6735 INFO Get User Success :mtp1
+2021-06-05 08:42:58.6448 INFO Get License_Type List Success
+2021-06-05 08:43:07.4848 INFO Get License_Type List Success
+2021-06-05 08:43:32.9252 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:43:33.1141 INFO Get User Success :mtp1
+2021-06-05 08:43:37.4099 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:46:46.2449 INFO Get Product Master List Success
+2021-06-05 08:46:47.5949 INFO Get UOM List Success
+2021-06-05 08:46:47.7498 INFO Get User Success :mtp1
+2021-06-05 08:48:10.4823 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:48:10.6903 INFO Get User Success :mtp1
+2021-06-05 08:50:52.9119 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:50:56.1347 INFO Get User Success :mtp1
+2021-06-05 08:50:59.6416 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:51:08.3130 INFO Get User Success :353-M and TP Unit
+2021-06-05 08:51:08.3790 INFO Get License_Type List Success
+2021-06-05 08:51:08.4470 INFO Get License Fee List Success
+2021-06-05 08:51:08.5360 INFO Get State List Success
+2021-06-05 08:51:14.5976 INFO Get License_Type List Success
+2021-06-05 08:51:18.8793 INFO Get Division List Success
+2021-06-05 08:51:24.0370 INFO Get License_Type List Success
+2021-06-05 08:58:51.5109 INFO Get User Success :44-Administrator
+2021-06-05 08:58:51.9739 INFO Get User Success :44-Administrator
+2021-06-05 08:58:52.3719 INFO Get User Success :Admin
+2021-06-05 09:04:14.9161 INFO Get User Success :44-Administrator
+2021-06-05 09:04:27.6012 INFO Get User Success :44-Administrator
+2021-06-05 09:04:27.9982 INFO Get User Success :Admin
+2021-06-05 09:05:28.4154 INFO Get License_Type List Success
+2021-06-05 09:05:28.6094 INFO Get User Success :Admin
+2021-06-05 09:05:42.1325 INFO Get License Fee List Success
+2021-06-05 09:05:42.2595 INFO Get User Success :Admin
+2021-06-05 09:05:49.5960 INFO Get License Fee List Success
+2021-06-05 09:05:50.0660 INFO Get License_Type List Success
+2021-06-05 09:05:50.1900 INFO Get License_Type List Success
+2021-06-05 09:05:50.2880 INFO Get User Success :Admin
+2021-06-05 09:06:08.5698 INFO Get Existing data Fail :lic_fee_master
+2021-06-05 09:08:08.1198 INFO Update License Type Fail :LF3-CSD
+2021-06-05 09:09:19.4234 INFO Insert license_type Fail :LF3-CSD-23505: duplicate key value violates unique constraint "lic_fee_master_pkey"
+2021-06-05 09:09:19.5004 INFO Update License Type Fail :LF3-CSD
+2021-06-05 09:09:31.9756 INFO Get License Fee List Success
+2021-06-05 09:09:32.0636 INFO Get User Success :Admin
+2021-06-05 09:09:35.1702 INFO Get License Fee List Success
+2021-06-05 09:09:35.4292 INFO Get License_Type List Success
+2021-06-05 09:09:35.4992 INFO Get License_Type List Success
+2021-06-05 09:09:35.8102 INFO Get User Success :Admin
+2021-06-05 09:09:52.2561 INFO Update License Type Success :LF-3-HOT
+2021-06-05 09:10:08.0001 INFO Get License Fee List Success
+2021-06-05 09:10:08.0812 INFO Get User Success :Admin
+2021-06-05 09:10:38.2272 INFO Get License Fee List Success
+2021-06-05 09:10:38.7352 INFO Get License_Type List Success
+2021-06-05 09:10:38.8152 INFO Get License_Type List Success
+2021-06-05 09:10:38.9102 INFO Get User Success :Admin
+2021-06-05 09:10:58.8559 INFO Get Existing data Fail :lic_fee_master
+2021-06-05 09:11:12.4981 INFO Get Existing data Success :lic_fee_master
+2021-06-05 09:11:32.7005 INFO Get Existing data Fail :lic_fee_master
+2021-06-05 09:18:22.8054 INFO Update License Type Fail :LF4-MOL
+2021-06-05 09:18:35.8047 INFO Get License Fee List Success
+2021-06-05 09:18:36.0627 INFO Get User Success :Admin
+2021-06-05 09:18:55.5454 INFO Get License Fee List Success
+2021-06-05 09:18:55.9433 INFO Get License_Type List Success
+2021-06-05 09:18:56.0203 INFO Get License_Type List Success
+2021-06-05 09:18:56.1044 INFO Get User Success :Admin
+2021-06-05 09:19:12.1743 INFO Get Existing data Fail :lic_fee_master
+2021-06-05 09:23:01.4743 INFO Update License Type Fail :LF5-HOT
+2021-06-05 09:28:45.6327 INFO Insert license_type Fail :LF5-HOT-23505: duplicate key value violates unique constraint "lic_fee_master_pkey"
+2021-06-05 09:33:04.3342 INFO Insert license_type Fail :LF5-HOT-23505: duplicate key value violates unique constraint "lic_fee_master_pkey"
+2021-06-05 09:33:53.2541 INFO Get License Fee List Success
+2021-06-05 09:33:53.3311 INFO Get User Success :Admin
+2021-06-05 09:34:16.2547 INFO Get License Fee List Success
+2021-06-05 09:34:16.5447 INFO Get License_Type List Success
+2021-06-05 09:34:16.6097 INFO Get License_Type List Success
+2021-06-05 09:34:16.7157 INFO Get User Success :Admin
+2021-06-05 09:34:24.0522 INFO Get Existing data Fail :lic_fee_master
+2021-06-05 09:35:32.6915 INFO Get License Fee List Success
+2021-06-05 09:35:32.7745 INFO Get User Success :Admin
+2021-06-05 09:35:38.3232 INFO Get License Fee List Success
+2021-06-05 09:35:38.6711 INFO Get License_Type List Success
+2021-06-05 09:35:38.7471 INFO Get License_Type List Success
+2021-06-05 09:35:38.8981 INFO Get User Success :Admin
+2021-06-05 09:35:55.0520 INFO Update License Type Success :LF6-MOL
+2021-06-05 09:36:03.0455 INFO Get License Fee List Success
+2021-06-05 09:36:03.1885 INFO Get User Success :Admin
+2021-06-05 09:36:20.8964 INFO Get User Success :44-Administrator
+2021-06-05 09:36:27.0818 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:36:27.4098 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:36:27.4928 INFO Get User Success :mtp1
+2021-06-05 09:36:32.9025 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:37:54.9053 INFO Get User Success :mtp1
+2021-06-05 09:37:55.3732 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:38:00.5530 INFO Get User Success :44-Administrator
+2021-06-05 09:38:01.0729 INFO Get User Success :44-Administrator
+2021-06-05 09:38:01.1528 INFO Get User Success :Admin
+2021-06-05 09:38:14.3536 INFO Get User Success :Admin
+2021-06-05 09:38:18.3184 INFO Get RolePermissions List Success
+2021-06-05 09:38:18.4154 INFO Get User Success :Admin
+2021-06-05 09:38:32.6215 INFO Org Get List Success
+2021-06-05 09:38:32.8915 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:32.9645 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.3725 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.3725 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.3725 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.4294 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.4294 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.4294 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.4294 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.4294 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.4904 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.4904 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.5494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.5494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.5494 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.6094 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.6094 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.6094 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.6094 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.6694 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.6694 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.7314 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.7314 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.7314 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.7924 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.7924 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.8514 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.8514 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:33.9824 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:33.9824 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:34.0494 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1134 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1254 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1254 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1254 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.1254 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.2034 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2034 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2034 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2034 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2034 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.2794 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2794 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2794 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2814 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2814 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2814 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2814 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.2814 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.3404 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.3404 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.3404 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.3404 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:34.3994 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.4594 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.4594 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.5204 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.5204 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.5804 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.5804 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.6384 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.6384 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:34.7003 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.7604 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.7604 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.7604 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.8204 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.8204 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:34.8894 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:34.9494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9494 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9533 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9533 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9533 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:34.9533 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.0273 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.0273 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.0273 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.0273 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.0273 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.0273 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.1064 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.2993 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.2993 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.2993 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.3783 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.3783 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.4413 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.4413 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.5463 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.6433 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.6433 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.6433 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.6433 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:35.7333 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.7983 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:35.7983 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:35.8763 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:35.9423 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:36.0003 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:36.0803 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:36.1393 INFO Get ViewModel Success 
+2021-06-05 09:38:36.2892 INFO Get User Success :Admin
+2021-06-05 09:38:37.3622 INFO Get RolePermission Success
+2021-06-05 09:38:53.5752 INFO Get RolePermissions List Success
+2021-06-05 09:38:53.6742 INFO Get User Success :Admin
+2021-06-05 09:38:59.0488 INFO Org Get List Success
+2021-06-05 09:38:59.1198 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:59.1938 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.2668 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.2668 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.2668 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.3368 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.3368 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.3368 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.3368 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.3368 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.3998 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.3998 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.4638 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.4638 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.4638 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.5808 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.5808 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.5808 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.5808 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.6408 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.6408 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.6998 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.6998 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.6998 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.7588 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.7588 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.8218 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.8218 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:38:59.8858 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:38:59.8858 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:38:59.9487 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0197 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.0987 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0987 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0987 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0987 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.0987 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.1677 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.2287 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.2287 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.2287 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.2287 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:39:00.2928 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.3498 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.3498 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.4107 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.4107 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.4728 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.4728 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.5478 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.5478 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:39:00.6267 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.6887 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.6887 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.6887 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:00.8967 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:00.8967 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:39:00.9697 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.0487 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.1087 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1097 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1097 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1097 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1097 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1097 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.1707 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1707 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1707 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1727 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1727 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1727 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1727 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.1727 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.2487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.2487 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.2487 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.3257 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.3257 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.3887 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.3887 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.4497 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.5107 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.5107 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.5107 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.5107 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:39:01.5696 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.6297 INFO Get TabName Master In ViewModel Success 
+2021-06-05 09:39:01.6297 INFO Get Module_master In ViewModel Success 
+2021-06-05 09:39:01.6976 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.7606 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.8546 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.9276 INFO Get SubModule_master In ViewModel Success 
+2021-06-05 09:39:01.9966 INFO Get ViewModel Success 
+2021-06-05 09:39:02.0966 INFO Get User Success :Admin
+2021-06-05 09:39:02.6606 INFO Get RolePermission Success
+2021-06-05 09:39:59.2081 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:00.0009 INFO Insert User_permission Add Success : 5697-add_role_permission
+2021-06-05 09:40:00.3279 INFO Insert User_permission Add Success : 5698-add_role_permission
+2021-06-05 09:40:00.6309 INFO Insert User_permission Add Success : 5699-add_role_permission
+2021-06-05 09:40:00.9859 INFO Insert User_permission Add Success : 5700-add_role_permission
+2021-06-05 09:40:01.2899 INFO Insert User_permission Add Success : 5701-add_role_permission
+2021-06-05 09:40:01.6379 INFO Insert User_permission Add Success : 5702-add_role_permission
+2021-06-05 09:40:02.1958 INFO Insert User_permission Add Success : 5703-add_role_permission
+2021-06-05 09:40:02.1958 INFO Insert role_permission Add Success : 117-add_role_permission
+2021-06-05 09:40:02.2928 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:02.4958 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:02.7178 INFO Update role_permission Success : 118-edit_role_permission
+2021-06-05 09:40:02.8048 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:02.8748 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:03.0248 INFO Update role_permission Success : 118-delete_role_permission
+2021-06-05 09:40:03.0867 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:03.1967 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:03.3668 INFO Update role_permission Success : 118-review_role_permission
+2021-06-05 09:40:03.4378 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:03.5057 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:03.6567 INFO Update role_permission Success : 118-approve_role_permission
+2021-06-05 09:40:03.7348 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:04.2237 INFO Insert User_permission Add Success : 5704-add_role_permission
+2021-06-05 09:40:04.4497 INFO Insert User_permission Add Success : 5705-add_role_permission
+2021-06-05 09:40:05.1146 INFO Insert User_permission Add Success : 5706-add_role_permission
+2021-06-05 09:40:05.3486 INFO Insert User_permission Add Success : 5707-add_role_permission
+2021-06-05 09:40:05.6006 INFO Insert User_permission Add Success : 5708-add_role_permission
+2021-06-05 09:40:05.8596 INFO Insert User_permission Add Success : 5709-add_role_permission
+2021-06-05 09:40:06.0966 INFO Insert User_permission Add Success : 5710-add_role_permission
+2021-06-05 09:40:06.0966 INFO Insert role_permission Add Success : 118-add_role_permission
+2021-06-05 09:40:06.2235 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:06.3075 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:06.4855 INFO Update role_permission Success : 119-edit_role_permission
+2021-06-05 09:40:06.5565 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:06.6325 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:06.8116 INFO Update role_permission Success : 119-delete_role_permission
+2021-06-05 09:40:06.8865 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:06.9585 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:07.1186 INFO Update role_permission Success : 119-review_role_permission
+2021-06-05 09:40:07.2155 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:07.2825 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:07.4295 INFO Update role_permission Success : 119-approve_role_permission
+2021-06-05 09:40:07.4995 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:08.0444 INFO Insert User_permission Add Success : 5711-add_role_permission
+2021-06-05 09:40:08.2754 INFO Insert User_permission Add Success : 5712-add_role_permission
+2021-06-05 09:40:08.5744 INFO Insert User_permission Add Success : 5713-add_role_permission
+2021-06-05 09:40:09.0854 INFO Insert User_permission Add Success : 5714-add_role_permission
+2021-06-05 09:40:09.3433 INFO Insert User_permission Add Success : 5715-add_role_permission
+2021-06-05 09:40:09.6063 INFO Insert User_permission Add Success : 5716-add_role_permission
+2021-06-05 09:40:09.9113 INFO Insert User_permission Add Success : 5717-add_role_permission
+2021-06-05 09:40:09.9113 INFO Insert role_permission Add Success : 119-add_role_permission
+2021-06-05 09:40:10.2303 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:10.3243 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:10.5113 INFO Update role_permission Success : 120-edit_role_permission
+2021-06-05 09:40:10.5743 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:10.6443 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:10.8043 INFO Update role_permission Success : 120-delete_role_permission
+2021-06-05 09:40:10.8672 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:10.9462 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:11.1062 INFO Update role_permission Success : 120-review_role_permission
+2021-06-05 09:40:11.1692 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:11.5252 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:11.6772 INFO Update role_permission Success : 120-approve_role_permission
+2021-06-05 09:40:11.7452 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:12.2722 INFO Insert User_permission Add Success : 5718-add_role_permission
+2021-06-05 09:40:12.7382 INFO Insert User_permission Add Success : 5719-add_role_permission
+2021-06-05 09:40:12.9911 INFO Insert User_permission Add Success : 5720-add_role_permission
+2021-06-05 09:40:13.1941 INFO Insert User_permission Add Success : 5721-add_role_permission
+2021-06-05 09:40:13.4891 INFO Insert User_permission Add Success : 5722-add_role_permission
+2021-06-05 09:40:13.9900 INFO Insert User_permission Add Success : 5723-add_role_permission
+2021-06-05 09:40:14.2791 INFO Insert User_permission Add Success : 5724-add_role_permission
+2021-06-05 09:40:14.2791 INFO Insert role_permission Add Success : 120-add_role_permission
+2021-06-05 09:40:14.3510 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:14.4460 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:14.6161 INFO Update role_permission Success : 121-edit_role_permission
+2021-06-05 09:40:14.7070 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:14.7790 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:14.9730 INFO Update role_permission Success : 121-delete_role_permission
+2021-06-05 09:40:15.0450 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:15.1260 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:15.2960 INFO Update role_permission Success : 121-review_role_permission
+2021-06-05 09:40:15.3740 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:15.4450 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:15.6099 INFO Update role_permission Success : 121-approve_role_permission
+2021-06-05 09:40:18.9777 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:19.9297 INFO Insert User_permission Add Success : 5697-add_role_permission
+2021-06-05 09:40:20.1757 INFO Insert User_permission Add Success : 5698-add_role_permission
+2021-06-05 09:40:20.4136 INFO Insert User_permission Add Success : 5699-add_role_permission
+2021-06-05 09:40:20.6127 INFO Insert User_permission Add Success : 5700-add_role_permission
+2021-06-05 09:40:20.8266 INFO Insert User_permission Add Success : 5701-add_role_permission
+2021-06-05 09:40:21.0506 INFO Insert User_permission Add Success : 5702-add_role_permission
+2021-06-05 09:40:21.2586 INFO Insert User_permission Add Success : 5703-add_role_permission
+2021-06-05 09:40:21.2586 INFO Insert role_permission Add Success : 117-add_role_permission
+2021-06-05 09:40:21.3166 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:21.3846 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:21.5586 INFO Update role_permission Success : 118-edit_role_permission
+2021-06-05 09:40:21.6186 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:21.6846 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:21.8286 INFO Update role_permission Success : 118-delete_role_permission
+2021-06-05 09:40:21.8865 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:21.9485 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:22.1156 INFO Update role_permission Success : 118-review_role_permission
+2021-06-05 09:40:22.1995 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:23.4574 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:23.6525 INFO Update role_permission Success : 118-approve_role_permission
+2021-06-05 09:40:23.7534 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:24.5174 INFO Insert User_permission Add Success : 5704-add_role_permission
+2021-06-05 09:40:24.7444 INFO Insert User_permission Add Success : 5705-add_role_permission
+2021-06-05 09:40:24.9543 INFO Insert User_permission Add Success : 5706-add_role_permission
+2021-06-05 09:40:25.1764 INFO Insert User_permission Add Success : 5707-add_role_permission
+2021-06-05 09:40:25.4413 INFO Insert User_permission Add Success : 5708-add_role_permission
+2021-06-05 09:40:25.6434 INFO Insert User_permission Add Success : 5709-add_role_permission
+2021-06-05 09:40:25.8473 INFO Insert User_permission Add Success : 5710-add_role_permission
+2021-06-05 09:40:25.8473 INFO Insert role_permission Add Success : 118-add_role_permission
+2021-06-05 09:40:25.9073 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:25.9763 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:26.1163 INFO Update role_permission Success : 119-edit_role_permission
+2021-06-05 09:40:26.1763 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:26.2453 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:26.3933 INFO Update role_permission Success : 119-delete_role_permission
+2021-06-05 09:40:26.4563 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:26.7162 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:26.9033 INFO Update role_permission Success : 119-review_role_permission
+2021-06-05 09:40:26.9772 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:27.0443 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:27.1882 INFO Update role_permission Success : 119-approve_role_permission
+2021-06-05 09:40:27.2482 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:27.7582 INFO Insert User_permission Add Success : 5711-add_role_permission
+2021-06-05 09:40:28.2792 INFO Insert User_permission Add Success : 5712-add_role_permission
+2021-06-05 09:40:28.5412 INFO Insert User_permission Add Success : 5713-add_role_permission
+2021-06-05 09:40:28.9071 INFO Insert User_permission Add Success : 5714-add_role_permission
+2021-06-05 09:40:29.3871 INFO Insert User_permission Add Success : 5715-add_role_permission
+2021-06-05 09:40:29.7301 INFO Insert User_permission Add Success : 5716-add_role_permission
+2021-06-05 09:40:30.3860 INFO Insert User_permission Add Success : 5717-add_role_permission
+2021-06-05 09:40:30.3860 INFO Insert role_permission Add Success : 119-add_role_permission
+2021-06-05 09:40:31.0440 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:31.1240 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:31.8859 INFO Update role_permission Success : 120-edit_role_permission
+2021-06-05 09:40:33.2248 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:34.0298 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:35.7557 INFO Update role_permission Success : 120-delete_role_permission
+2021-06-05 09:40:35.8267 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:35.9716 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:36.7916 INFO Update role_permission Success : 120-review_role_permission
+2021-06-05 09:40:36.8676 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:36.9446 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:37.0897 INFO Update role_permission Success : 120-approve_role_permission
+2021-06-05 09:40:37.1576 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:37.6816 INFO Insert User_permission Add Success : 5718-add_role_permission
+2021-06-05 09:40:37.8956 INFO Insert User_permission Add Success : 5719-add_role_permission
+2021-06-05 09:40:38.3515 INFO Insert User_permission Add Success : 5720-add_role_permission
+2021-06-05 09:40:38.6085 INFO Insert User_permission Add Success : 5721-add_role_permission
+2021-06-05 09:40:38.8365 INFO Insert User_permission Add Success : 5722-add_role_permission
+2021-06-05 09:40:39.3464 INFO Insert User_permission Add Success : 5723-add_role_permission
+2021-06-05 09:40:39.5774 INFO Insert User_permission Add Success : 5724-add_role_permission
+2021-06-05 09:40:39.5784 INFO Insert role_permission Add Success : 120-add_role_permission
+2021-06-05 09:40:39.6374 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:39.7064 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:39.8494 INFO Update role_permission Success : 121-edit_role_permission
+2021-06-05 09:40:39.9084 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:39.9944 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:40.1475 INFO Update role_permission Success : 121-delete_role_permission
+2021-06-05 09:40:40.2154 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:40.2864 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:40.4394 INFO Update role_permission Success : 121-review_role_permission
+2021-06-05 09:40:40.4974 INFO Get GetMaxID Success : role_permission
+2021-06-05 09:40:40.5754 INFO Update role_permission No Records : System.String[]
+2021-06-05 09:40:40.7413 INFO Update role_permission Success : 121-approve_role_permission
+2021-06-05 09:40:46.1220 INFO Get RolePermissions List Success
+2021-06-05 09:40:49.0018 INFO Get User Success :Admin
+2021-06-05 09:40:58.9366 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:40:59.2646 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:40:59.4166 INFO Get User Success :mtp1
+2021-06-05 09:41:05.0768 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:50:52.0785 INFO Get User Success :mtp1
+2021-06-05 09:52:44.8015 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:52:45.3774 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:52:45.6943 INFO Get User Success :mtp1
+2021-06-05 09:52:51.6310 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:52:54.8338 INFO Get User Success :mtp1
+2021-06-05 09:52:58.2735 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:53:01.4963 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:53:01.5664 INFO Get License_Type List Success
+2021-06-05 09:53:01.6473 INFO Get License Fee List Success
+2021-06-05 09:53:01.8634 INFO Get State List Success
+2021-06-05 09:53:07.1740 INFO Get License_Type List Success
+2021-06-05 09:53:08.2509 INFO Get Division List Success
+2021-06-05 09:53:09.6859 INFO Get License_Type List Success
+2021-06-05 09:53:09.8458 INFO Get User Success :mtp1
+2021-06-05 09:53:46.0145 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:56:00.1970 INFO Get User Success :mtp1
+2021-06-05 09:56:01.1399 INFO Get User Success :353-M and TP Unit
+2021-06-05 09:56:04.8867 INFO Get User Success :mtp1
+2021-06-05 09:59:42.2422 INFO Get User Success :353-M and TP Unit
+2021-06-05 10:00:39.7956 INFO Get User Success :353-M and TP Unit
+2021-06-05 10:00:40.1855 INFO Get User Success :mtp1
+2021-06-05 10:00:48.3440 INFO Get User Success :353-M and TP Unit
+2021-06-05 10:00:58.5014 INFO Get User Success :mtp1
+2021-06-05 10:01:04.3749 INFO Get User Success :353-M and TP Unit
+2021-06-05 10:01:07.3438 INFO Get User Success :353-M and TP Unit
+2021-06-05 10:01:07.4118 INFO Get License_Type List Success
+2021-06-05 10:01:07.5057 INFO Get License Fee List Success
+2021-06-05 10:01:07.5848 INFO Get State List Success
+2021-06-05 10:01:11.9065 INFO Get License_Type List Success
+2021-06-05 10:01:12.2524 INFO Get Division List Success
+2021-06-05 10:01:12.7334 INFO Get License_Type List Success
+2021-06-05 10:01:13.3474 INFO Get User Success :mtp1
+2021-06-05 14:35:16.5691 INFO Get User Success :100-Deputy Commissioner
+2021-06-05 14:35:17.3121 INFO Get User Success :100-Deputy Commissioner
+2021-06-05 14:35:18.8000 INFO Get User Success :hodyco
+2021-06-05 14:35:29.6203 INFO Get User Success :100-Deputy Commissioner
+2021-06-05 14:35:29.7693 INFO Check WorkFlow List Success
+2021-06-05 14:35:30.0893 INFO Get User Success :100-Deputy Commissioner
+2021-06-05 14:35:30.2013 INFO Check WorkFlow List Success
+2021-06-05 14:35:30.4502 INFO Get Allotment List Success
+2021-06-05 14:35:30.6562 INFO Get User Success :hodyco
+2021-06-05 14:35:39.0447 INFO Get User Success :100-Deputy Commissioner
+2021-06-05 14:35:39.2077 INFO Get Party Master List Success
+2021-06-05 14:35:39.3467 INFO Get Indent List Success
+2021-06-05 14:35:39.7936 INFO Get Allotment Details Success
+2021-06-05 14:35:39.9416 INFO Check WorkFlow List Success
+2021-06-05 14:35:40.1996 INFO Get User Success :hodyco
+2021-06-05 14:36:56.0199 INFO Allotement Approve Fail:71-23503: insert or update on table "molasses_allotment_request" violates foreign key constraint "fk_fromunit"
+2021-06-05 14:53:04.5428 INFO Get User Success :101-Commissioner
+2021-06-05 14:53:08.6666 INFO Get User Success :101-Commissioner
+2021-06-05 14:53:12.1214 INFO Get User Success :com
+2021-06-05 16:19:52.1658 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 16:19:52.7738 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 16:19:53.8737 INFO Get User Success :newswadeshi_dis
+2021-06-05 16:20:07.8818 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 16:20:08.3388 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 16:20:08.5098 INFO Get User Success :newswadeshi_dis
+2021-06-05 16:21:05.0270 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:21:05.3680 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:21:06.7659 INFO Get User Success :harinagar_dis
+2021-06-05 16:21:12.2136 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:21:31.9943 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 16:21:45.6165 INFO Get User Success :harinagar_dis
+2021-06-05 16:21:59.4156 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:21:59.6346 INFO Get Product Master List Success
+2021-06-05 16:22:10.6819 INFO Get State List Success
+2021-06-05 16:22:10.8699 INFO Get NOC Sucess:214
+2021-06-05 16:22:11.2568 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/58
+2021-06-05 16:22:11.9638 INFO Get User Success :harinagar_dis
+2021-06-05 16:22:13.7257 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:26:06.2489 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 16:28:46.7787 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:28:47.3387 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:28:48.5856 INFO Get User Success :harinagar_dis
+2021-06-05 16:29:16.2848 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:32:24.7919 INFO Get RR List Fail:Exception while reading from stream
+2021-06-05 16:32:54.8650 INFO Get User Fail :harinagar_dis_Exception while reading from stream
+2021-06-05 16:34:34.0432 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:34:34.7031 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:34:37.7439 INFO Get User Success :harinagar_dis
+2021-06-05 16:34:44.6175 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:36:09.5181 INFO Get RR List Fail:A command is already in progress: select a.*,b.Cust_name,c.district_code,c.party_name,d.noc,f.product_name from exciseautomation.noc a inner join exciseautomation.customer_master b on a.customer_id=b.customer_id and a.party_code=b.party_code inner join exciseautomation.party_master c on a.party_code=c.party_code left join exciseautomation.document_format_master d on a.party_code=d.party_code inner join exciseautomation.product_master f on a.noc_for =f.product_code   order by a.party_code,req_nocno
+2021-06-05 16:36:10.3971 INFO Get User Success :harinagar_dis
+2021-06-05 16:36:19.9834 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:36:20.3764 INFO Get RR List Success
+2021-06-05 16:36:21.1614 INFO Get User Success :harinagar_dis
+2021-06-05 16:40:09.8799 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:50:50.3352 INFO Get RR List Fail:A command is already in progress: select a.*,b.Cust_name,c.district_code,c.party_name,d.noc,f.product_name from exciseautomation.noc a inner join exciseautomation.customer_master b on a.customer_id=b.customer_id and a.party_code=b.party_code inner join exciseautomation.party_master c on a.party_code=c.party_code left join exciseautomation.document_format_master d on a.party_code=d.party_code inner join exciseautomation.product_master f on a.noc_for =f.product_code   order by a.party_code,req_nocno
+2021-06-05 16:50:59.6526 INFO Get User Success :harinagar_dis
+2021-06-05 16:51:18.5464 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:51:18.6705 INFO Get Product Master List Success
+2021-06-05 16:51:23.1432 INFO Get State List Success
+2021-06-05 16:51:23.2381 INFO Get NOC Sucess:214
+2021-06-05 16:51:23.4391 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/58
+2021-06-05 16:51:23.7301 INFO Get User Success :harinagar_dis
+2021-06-05 16:51:24.4231 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:51:24.5210 INFO Get Product Master List Success
+2021-06-05 16:51:27.0049 INFO Get State List Success
+2021-06-05 16:51:27.1009 INFO Get NOC Sucess:214
+2021-06-05 16:51:27.2819 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2020-2021/58
+2021-06-05 16:51:27.5629 INFO Get User Success :harinagar_dis
+2021-06-05 16:51:29.8727 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:52:36.7295 INFO Get RR List Fail:A command is already in progress: select a.*,b.Cust_name,c.district_code,c.party_name,d.noc,f.product_name from exciseautomation.noc a inner join exciseautomation.customer_master b on a.customer_id=b.customer_id and a.party_code=b.party_code inner join exciseautomation.party_master c on a.party_code=c.party_code left join exciseautomation.document_format_master d on a.party_code=d.party_code inner join exciseautomation.product_master f on a.noc_for =f.product_code   order by a.party_code,req_nocno
+2021-06-05 16:52:36.9635 INFO Get User Success :harinagar_dis
+2021-06-05 16:58:14.8270 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:58:36.6736 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 16:58:39.3075 INFO Get User Success :harinagar_dis
+2021-06-05 16:58:49.4818 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:00:08.1228 INFO Get RR List Success
+2021-06-05 17:00:09.3707 INFO Get User Success :harinagar_dis
+2021-06-05 17:12:36.2820 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 17:12:36.6990 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 17:12:37.4279 INFO Get User Success :newswadeshi_dis
+2021-06-05 17:12:42.8216 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 17:12:58.7896 INFO Get RR List Success
+2021-06-05 17:12:59.0216 INFO Get User Success :newswadeshi_dis
+2021-06-05 17:46:35.8476 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 17:46:36.8685 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 17:46:39.0564 INFO Get User Success :newswadeshi_dis
+2021-06-05 17:46:48.8658 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-05 17:46:55.4728 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:46:55.9718 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:46:57.7977 INFO Get User Success :harinagar_dis
+2021-06-05 17:47:02.8603 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:47:54.0061 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 17:47:55.7130 INFO Get User Success :harinagar_dis
+2021-06-05 17:48:00.4557 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:48:01.1046 INFO Get RR List Success
+2021-06-05 17:48:01.3626 INFO Get User Success :harinagar_dis
+2021-06-05 17:48:03.6415 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:48:08.9351 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 17:48:11.6650 INFO Get User Success :harinagar_dis
+2021-06-05 17:48:16.7716 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:48:17.1826 INFO Get RR List Success
+2021-06-05 17:48:17.4326 INFO Get User Success :harinagar_dis
+2021-06-05 17:48:19.7435 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:55:45.6762 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 17:55:47.3101 INFO Get User Success :harinagar_dis
+2021-06-05 17:55:50.9498 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 17:55:51.3638 INFO Get RR List Success
+2021-06-05 17:55:51.4868 INFO Get User Success :harinagar_dis
+2021-06-05 17:55:53.7446 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 18:03:03.1494 INFO Get RR List Success
+2021-06-05 18:03:05.2043 INFO Get User Success :harinagar_dis
+2021-06-05 18:03:10.8229 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 18:03:11.0339 INFO Get RR List Success
+2021-06-05 18:03:11.1529 INFO Get User Success :harinagar_dis
+2021-06-05 18:03:13.2558 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 18:11:57.0305 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 18:11:58.5144 INFO Get User Success :harinagar_dis
+2021-06-05 18:13:53.1110 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 18:13:53.3280 INFO Get RR List Success
+2021-06-05 18:13:53.4610 INFO Get User Success :harinagar_dis
+2021-06-05 18:13:55.8118 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-05 18:18:37.4049 INFO Get RR List Fail:Out of the range of DateTime (year must be between 1 and 9999)
+2021-06-05 18:18:39.3308 INFO Get User Success :harinagar_dis

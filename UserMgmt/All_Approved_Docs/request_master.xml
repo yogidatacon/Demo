@@ -1,0 +1,25 @@
+<request>
+<command>pkiNetworkSign</command>
+<ts>2020-12-25T16:00:10.8270708+05:30</ts>
+<txn>90F668C4566</txn>
+<certificate>
+ <attribute name='CN'></attribute>
+ <attribute name='O'></attribute>
+ <attribute name='OU'></attribute>
+ <attribute name='T'></attribute>
+ <attribute name='E'></attribute>
+ <attribute name='SN'>03053c41‎‎</attribute>
+ <attribute name='CA'>Capricorn CA 2014</attribute>
+ <attribute name='TC'>SG</attribute>
+ <attribute name='AP'>1</attribute>
+</certificate>
+<file>
+  <attribute name='type'>pdf</attribute>
+</file>
+<pdf>
+ <page>1</page>
+ <cood>200,100</cood>
+ <size>100,75</size>
+</pdf>
+<data>JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAuMCAwLjAgNjEyLjAgNzkyLjBdCi9QYXJlbnQgMiAwIFIKL0NvbnRlbnRzIDQgMCBSCi9SZXNvdXJjZXMgNSAwIFIKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0xlbmd0aCA1NgovRmlsdGVyIC9GbGF0ZURlY29kZQo+PgpzdHJlYW0NCniccwrh0nczVDAyUwhJ4zIyNVAwB+KQFC6NoNT0zOKSosSSzPw8Bbf8olxNhZAsLtcQLgA7bA1zDQplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmoKPDwKL0ZvbnQgNiAwIFIKPj4KZW5kb2JqCjYgMCBvYmoKPDwKL0YxIDcgMCBSCj4+CmVuZG9iago3IDAgb2JqCjw8Ci9UeXBlIC9Gb250Ci9TdWJ0eXBlIC9UeXBlMQovQmFzZUZvbnQgL0hlbHZldGljYQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKeHJlZgowIDgKMDAwMDAwMDAwMCA2NTUzNSBmDQowMDAwMDAwMDE1IDAwMDAwIG4NCjAwMDAwMDAwNzggMDAwMDAgbg0KMDAwMDAwMDEzNSAwMDAwMCBuDQowMDAwMDAwMjQ3IDAwMDAwIG4NCjAwMDAwMDAzNzYgMDAwMDAgbg0KMDAwMDAwMDQwOSAwMDAwMCBuDQowMDAwMDAwNDQwIDAwMDAwIG4NCnRyYWlsZXIKPDwKL1Jvb3QgMSAwIFIKL0lEIFs8QTZFMEY5NUM2MTgwOTlFNzUwMDg0N0NDMzM2REJCMjE+IDxBNkUwRjk1QzYxODA5OUU3NTAwODQ3Q0MzMzZEQkIyMT5dCi9TaXplIDgKPj4Kc3RhcnR4cmVmCjUzNwolJUVPRgo=</data>
+</request>

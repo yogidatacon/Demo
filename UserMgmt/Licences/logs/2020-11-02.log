@@ -1,0 +1,982 @@
+2020-11-02 10:48:21.7382 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:24.4492 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:24.4552 INFO Get MF2 List Success
+2020-11-02 10:48:24.4933 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:29.0592 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:29.0652 INFO Get Party Master List Success
+2020-11-02 10:48:29.0652 INFO Get Product Master List Success
+2020-11-02 10:48:29.0772 INFO Get VAT Master List Success
+2020-11-02 10:48:29.0942 INFO Get MF2  Details Success
+2020-11-02 10:48:29.1300 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:31.0084 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:31.0084 INFO Get MF3 List Success
+2020-11-02 10:48:31.0214 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:32.4702 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:32.4702 INFO Get VAT Master List Success
+2020-11-02 10:48:32.4702 INFO Get MF3  Details Success
+2020-11-02 10:48:32.4832 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:54.4549 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:54.4549 INFO Get MF3 List Success
+2020-11-02 10:48:54.4549 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:56.4025 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:48:56.4045 INFO Get VAT Master List Success
+2020-11-02 10:48:56.4045 INFO Get MF3  Details Success
+2020-11-02 10:48:56.4045 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:49:05.5943 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:49:05.5943 INFO Get MF3 List Success
+2020-11-02 10:49:05.5943 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:58:37.5106 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:58:45.9274 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:58:45.9274 INFO Get MF2 List Success
+2020-11-02 10:58:45.9680 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:58:47.6984 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:58:47.7017 INFO Get MF3 List Success
+2020-11-02 10:58:47.7017 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:59:47.0346 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 10:59:47.0346 INFO Get VAT Master List Success
+2020-11-02 10:59:47.0456 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:38.9437 INFO Insert MF3 Success :10-11-2020-H02
+2020-11-02 11:03:38.9740 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:38.9740 INFO Get MF2 List Success
+2020-11-02 11:03:38.9740 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:41.3050 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:41.3050 INFO Get Party Master List Success
+2020-11-02 11:03:41.3138 INFO Get Product Master List Success
+2020-11-02 11:03:41.3138 INFO Get VAT Master List Success
+2020-11-02 11:03:41.3352 INFO Get MF2  Details Success
+2020-11-02 11:03:41.3570 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:43.9301 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:43.9301 INFO Get MF3 List Success
+2020-11-02 11:03:43.9301 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:47.3694 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:03:47.3694 INFO Get VAT Master List Success
+2020-11-02 11:03:47.3754 INFO Get MF3  Details Success
+2020-11-02 11:03:47.3754 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:06:39.6551 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:06:39.6551 INFO Get MF3 List Success
+2020-11-02 11:06:39.6551 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:06:44.8297 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:06:44.8297 INFO Get VAT Master List Success
+2020-11-02 11:06:44.8297 INFO Get MF3  Details Success
+2020-11-02 11:06:44.8436 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:10:53.0915 INFO Update MF3 Success :10-11-2020-H02
+2020-11-02 11:10:53.1461 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:10:53.1461 INFO Get MF2 List Success
+2020-11-02 11:10:53.1565 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:11:08.0039 INFO Sugarcanepurchase Get List Success
+2020-11-02 11:11:08.0039 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:11:08.0164 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:11:09.2119 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:11:09.2258 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:11:11.2918 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:11:11.3074 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:40.2771 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:43.6016 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:43.6075 INFO Get MF2 List Success
+2020-11-02 11:35:43.6455 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:45.0652 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:45.0652 INFO Get MF3 List Success
+2020-11-02 11:35:45.0782 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:47.2543 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:35:47.2543 INFO Get VAT Master List Success
+2020-11-02 11:35:47.2722 INFO Get MF3  Details Success
+2020-11-02 11:35:47.2922 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:28.6080 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:30.5742 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:30.5803 INFO Get MF2 List Success
+2020-11-02 11:38:30.6169 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:31.8741 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:31.8741 INFO Get MF3 List Success
+2020-11-02 11:38:31.8741 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:33.5686 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:33.5686 INFO Get VAT Master List Success
+2020-11-02 11:38:33.5805 INFO Get Product Master List Success
+2020-11-02 11:38:33.5805 INFO Get MF3  Details Success
+2020-11-02 11:38:33.6115 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:43.2599 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:38:43.2599 INFO Get VAT Master List Success
+2020-11-02 11:38:43.2641 INFO Get Product Master List Success
+2020-11-02 11:40:09.5477 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:11.3400 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:11.3460 INFO Get MF2 List Success
+2020-11-02 11:40:11.3849 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:13.9936 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:13.9936 INFO Get MF3 List Success
+2020-11-02 11:40:14.0067 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:15.9709 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:15.9709 INFO Get VAT Master List Success
+2020-11-02 11:40:15.9709 INFO Get Product Master List Success
+2020-11-02 11:40:15.9919 INFO Get MF3  Details Success
+2020-11-02 11:40:16.0168 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:21.7346 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:21.7346 INFO Get MF3 List Success
+2020-11-02 11:40:21.7346 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:22.2736 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:40:22.2736 INFO Get VAT Master List Success
+2020-11-02 11:40:22.2736 INFO Get Product Master List Success
+2020-11-02 11:40:22.2796 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:41:11.2909 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:41:11.2909 INFO Get VAT Master List Success
+2020-11-02 11:41:11.2909 INFO Get Product Master List Success
+2020-11-02 11:41:11.2968 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:41:59.6732 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:41:59.6732 INFO Get VAT Master List Success
+2020-11-02 11:41:59.6732 INFO Get Product Master List Success
+2020-11-02 11:41:59.6732 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:42:34.5626 INFO Insert MF3 Success :03-11-2020-H02
+2020-11-02 11:42:34.5857 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:42:34.5857 INFO Get MF2 List Success
+2020-11-02 11:42:34.5857 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:49:02.8493 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:49:05.0145 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:49:05.0145 INFO Get MF2 List Success
+2020-11-02 11:49:05.0579 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:49:08.4080 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:49:08.4080 INFO Get Party Master List Success
+2020-11-02 11:49:08.4206 INFO Get Product Master List Success
+2020-11-02 11:49:08.4206 INFO Get VAT Master List Success
+2020-11-02 11:49:08.4438 INFO Get MF2  Details Success
+2020-11-02 11:49:08.4637 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:50:22.0817 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 11:50:22.0817 INFO Get Party Master List Success
+2020-11-02 11:50:22.0817 INFO Get Product Master List Success
+2020-11-02 11:50:22.0817 INFO Get VAT Master List Success
+2020-11-02 11:50:22.0967 INFO Get MF2  Details Success
+2020-11-02 11:50:22.0967 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:06:04.6625 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:06:06.5206 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:06:06.5206 INFO Get MF2 List Success
+2020-11-02 12:06:06.5651 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:06:09.8244 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:06:09.8297 INFO Get Party Master List Success
+2020-11-02 12:06:09.8297 INFO Get Product Master List Success
+2020-11-02 12:06:09.8424 INFO Get VAT Master List Success
+2020-11-02 12:06:09.8591 INFO Get MF2  Details Success
+2020-11-02 12:06:09.8820 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:28.2910 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:30.2795 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:30.2795 INFO Get MF2 List Success
+2020-11-02 12:14:30.3229 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:32.5517 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:32.5517 INFO Get MF3 List Success
+2020-11-02 12:14:32.5640 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:33.6432 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:33.6432 INFO Get MF2 List Success
+2020-11-02 12:14:33.6432 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:34.8136 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:14:34.8136 INFO Get Party Master List Success
+2020-11-02 12:14:34.8136 INFO Get Product Master List Success
+2020-11-02 12:14:34.8315 INFO Get VAT Master List Success
+2020-11-02 12:14:34.8475 INFO Get MF2  Details Success
+2020-11-02 12:14:34.8674 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:11.0950 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:13.0494 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:18:13.0494 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:13.0913 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:16.7710 INFO Get Party Master List Success
+2020-11-02 12:18:16.7710 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:16.7882 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:18:16.8181 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:19.8446 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:18:19.8446 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:19.8446 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:20.2076 INFO Get Party Master List Success
+2020-11-02 12:18:20.2076 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:20.2076 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:26.0305 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-02 12:18:45.9375 INFO Get MaxID Success :sugarcanepurchase
+2020-11-02 12:18:45.9696 INFO Sugarcanepurchase Insertion Success:0-H02
+2020-11-02 12:18:46.0035 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:18:46.0035 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:46.0035 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:49.4349 INFO Get Party Master List Success
+2020-11-02 12:18:49.4379 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:18:49.4379 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:18:49.4379 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:23.5570 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:19:23.5570 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:23.5630 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:25.5970 INFO Get Party Master List Success
+2020-11-02 12:19:25.5970 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:25.5970 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:19:25.5970 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:42.3316 INFO Get Party Master List Success
+2020-11-02 12:19:42.3316 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:42.3316 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:19:42.3316 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:44.1019 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:19:44.1019 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:44.1098 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:45.3618 INFO Get Party Master List Success
+2020-11-02 12:19:45.3618 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:19:45.3618 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:19:45.3618 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:20:29.6801 INFO Get Party Master List Success
+2020-11-02 12:20:29.6801 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:20:29.6801 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:20:29.6881 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:20:37.0369 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-02 12:20:38.7141 INFO Get Existing data Fail :sugarcanepurchase
+2020-11-02 12:20:46.0476 INFO Get Party Master List Success
+2020-11-02 12:20:46.0476 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:20:46.0476 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:20:46.0476 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:22:24.2815 INFO Sugarcanepurchase Get List Success
+2020-11-02 12:22:24.2815 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:22:24.2815 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 12:49:57.8288 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:49:59.9869 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:50:00.0145 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:50:29.3987 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:50:33.6337 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:51:49.9808 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:52:22.0724 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:52:24.3703 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:52:24.3949 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-02 12:53:08.6297 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 12:53:14.0668 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 12:53:49.4414 INFO Get Indent List Success
+2020-11-02 12:53:49.4892 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 12:53:55.3761 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 12:53:55.4017 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 12:59:25.8987 INFO Get User Success :44-Administrator
+2020-11-02 12:59:29.2546 INFO Get State List Success
+2020-11-02 12:59:29.2916 INFO Get User Success :44-Administrator
+2020-11-02 12:59:33.4370 INFO Get Role Level List Success
+2020-11-02 12:59:33.4370 INFO Get User Success :44-Administrator
+2020-11-02 12:59:34.8480 INFO Get access_type List Success
+2020-11-02 12:59:34.8480 INFO Get User Success :44-Administrator
+2020-11-02 12:59:36.8386 INFO Get view_Role_master List Success
+2020-11-02 12:59:36.8485 INFO Get User Success :44-Administrator
+2020-11-02 12:59:40.5634 INFO Org Get List Success
+2020-11-02 12:59:40.5634 INFO Get Role Level List Success
+2020-11-02 12:59:40.5634 INFO Get access_type List Success
+2020-11-02 12:59:40.5634 INFO Get view_Role_master List Success
+2020-11-02 12:59:40.5780 INFO Get Users List Success
+2020-11-02 12:59:40.5780 INFO Get User Success :44-Administrator
+2020-11-02 12:59:47.2952 INFO Get Existing data Fail :role_master
+2020-11-02 12:59:51.6352 INFO Update role_master Success :29-Applicant
+2020-11-02 12:59:51.6606 INFO Get view_Role_master List Success
+2020-11-02 12:59:51.6606 INFO Get User Success :44-Administrator
+2020-11-02 13:00:11.8289 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 13:00:13.7102 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 13:00:13.7252 INFO Get Indent List Success
+2020-11-02 13:00:13.7342 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 13:00:17.3302 INFO Get User Success :47-Riga Distillery Division
+2020-11-02 13:00:17.3302 INFO Get Indent List Success
+2020-11-02 13:06:34.1771 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:36.4601 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:36.4679 INFO Get MF2 List Success
+2020-11-02 13:06:36.4889 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:38.1846 INFO Sugarcanepurchase Get List Success
+2020-11-02 13:06:38.1872 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:38.2079 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:39.5484 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:39.5484 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:41.4958 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:06:41.5110 INFO Get Party Master List Success
+2020-11-02 13:06:41.5184 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:07:00.6438 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:07:00.6438 INFO Get Party Master List Success
+2020-11-02 13:07:23.0899 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:07:44.0039 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:07:44.0039 INFO Get Party Master List Success
+2020-11-02 13:08:00.5917 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:08:13.8362 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:08:13.8362 INFO Get Party Master List Success
+2020-11-02 13:09:46.8753 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:10:24.1558 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:10:24.1558 INFO Get Party Master List Success
+2020-11-02 13:10:26.1742 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:10:33.2020 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:11:11.6968 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:52.7844 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:52.8656 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:52.8742 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:55.2368 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:55.2368 INFO Get Party Master List Success
+2020-11-02 13:12:55.2493 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:59.0384 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:12:59.0384 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:13:00.4244 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:13:00.4244 INFO Get Party Master List Success
+2020-11-02 13:13:00.4244 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:13:02.9180 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:13:02.9240 INFO Get User Success :79-Sasa Musa Sugar Works Pvt Ltd
+2020-11-02 13:31:29.0983 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:31:32.5571 INFO Sugarcanepurchase Get List Success
+2020-11-02 13:31:32.5610 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:31:32.6076 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:31:37.4987 INFO MIR GetList Sucess
+2020-11-02 13:31:37.4987 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:31:37.4987 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:31:39.2508 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:31:39.3050 INFO Get Party Master List Success
+2020-11-02 13:31:39.3683 INFO Get VAT Master List Success
+2020-11-02 13:31:39.3762 INFO MIR GetPassDetails Sucess
+2020-11-02 13:31:39.3762 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:34:10.6917 INFO Sugarcanepurchase Get List Success
+2020-11-02 13:34:10.6917 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:34:10.6917 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:34:12.4698 INFO Get Party Master List Success
+2020-11-02 13:34:12.4698 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 13:34:12.4698 INFO Sugarcanepurchase Get List Success
+2020-11-02 13:34:12.4979 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:09.6302 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:12.7087 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:33:12.7087 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:12.7526 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:14.6517 INFO Get Party Master List Success
+2020-11-02 14:33:14.6581 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:14.6806 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:33:14.7013 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:23.7803 INFO Get Party Master List Success
+2020-11-02 14:33:23.7803 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:33:36.2036 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:33:36.2036 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:34:41.1640 INFO Get Party Master List Success
+2020-11-02 14:34:41.1640 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:34:41.1714 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:34:41.1714 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:36:43.8525 INFO Get Party Master List Success
+2020-11-02 14:36:43.8525 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:36:43.8584 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:36:43.8584 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:37:19.1712 INFO Get Party Master List Success
+2020-11-02 14:37:19.1712 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:37:19.1712 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:37:19.1872 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:37:35.0280 INFO Get Party Master List Success
+2020-11-02 14:37:35.0310 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:38:03.1163 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:38:03.1233 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:38:48.4609 INFO Get Party Master List Success
+2020-11-02 14:38:48.4609 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:39:42.3946 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:39:42.3946 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:40:26.4895 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:40:26.4895 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:40:26.4895 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:40:28.4261 INFO Get Party Master List Success
+2020-11-02 14:40:28.4261 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:40:35.7505 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:40:35.7505 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:41:13.3089 INFO Get Party Master List Success
+2020-11-02 14:41:13.3109 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:56:33.2956 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:56:33.2956 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:58:06.6684 INFO Get Party Master List Success
+2020-11-02 14:58:06.6722 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 14:58:13.0073 INFO Sugarcanepurchase Get List Success
+2020-11-02 14:58:13.0163 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:08.6289 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:02:08.6289 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:08.6289 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:10.2996 INFO Get Party Master List Success
+2020-11-02 15:02:10.2996 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:10.2996 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:02:10.2996 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:34.2505 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:02:34.2505 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:34.2505 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:35.1472 INFO Get Party Master List Success
+2020-11-02 15:02:35.1472 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:02:35.1472 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:02:35.1572 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:03:34.9763 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:03:34.9763 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:03:34.9763 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:03:36.2933 INFO Get Party Master List Success
+2020-11-02 15:03:36.2963 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:03:36.2963 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:03:36.2963 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:04:07.4973 INFO Get Party Master List Success
+2020-11-02 15:04:07.5003 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:04:07.5003 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:04:07.5003 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:06:05.5012 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:06:05.5012 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:06:05.5012 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:06:06.8285 INFO Get Party Master List Success
+2020-11-02 15:06:06.8285 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:06:06.8285 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:06:06.8285 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:07:41.5095 INFO Get Party Master List Success
+2020-11-02 15:07:41.5095 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:07:41.5154 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:07:41.5154 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:07:54.2582 INFO Get Party Master List Success
+2020-11-02 15:07:54.2582 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:07:54.2730 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:07:54.2820 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:09:05.7393 INFO Get Party Master List Success
+2020-11-02 15:09:05.7393 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:09:05.7393 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:09:05.7543 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:11:59.4967 INFO Get Party Master List Success
+2020-11-02 15:11:59.4997 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:11:59.4997 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:11:59.4997 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:12:26.0920 INFO Get Party Master List Success
+2020-11-02 15:12:26.0920 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:12:26.0920 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:12:26.0920 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:12:55.6127 INFO Get Party Master List Success
+2020-11-02 15:12:55.6127 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:12:55.6127 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:12:55.6267 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:16:34.2252 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:16:34.2252 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:16:34.2252 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:16:35.4868 INFO Get Party Master List Success
+2020-11-02 15:16:35.4868 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:16:35.4868 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:16:35.4868 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:18:09.0488 INFO Get Party Master List Success
+2020-11-02 15:18:09.0488 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:18:09.0488 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:18:09.0618 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:20:59.6965 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:01.9520 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:01.9671 INFO Get MF2 List Success
+2020-11-02 15:21:02.0044 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:04.7840 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:21:04.7840 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:04.8009 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:06.3665 INFO Get Party Master List Success
+2020-11-02 15:21:06.3736 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:06.3965 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:21:06.4184 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:38.3569 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:21:38.3599 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:21:38.3599 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:44.3638 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:49.5965 INFO Sugarcanepurchase Get List Success
+2020-11-02 15:26:49.5965 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:49.6392 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:50.7947 INFO MIR GetList Sucess
+2020-11-02 15:26:50.7977 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:50.7977 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:52.1377 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:26:52.1427 INFO Get Party Master List Success
+2020-11-02 15:26:52.1427 INFO Get VAT Master List Success
+2020-11-02 15:26:52.1546 INFO MIR GetPassDetails Sucess
+2020-11-02 15:26:52.1546 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:14.0428 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:14.0428 INFO Get Party Master List Success
+2020-11-02 15:28:14.0468 INFO Get VAT Master List Success
+2020-11-02 15:28:14.0468 INFO MIR GetPassDetails Sucess
+2020-11-02 15:28:14.0468 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:22.6282 INFO MIR GetList Sucess
+2020-11-02 15:28:22.6282 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:22.6282 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:25.1938 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:25.1938 INFO Get Party Master List Success
+2020-11-02 15:28:25.1938 INFO Get VAT Master List Success
+2020-11-02 15:28:25.2015 INFO MIR GetPassDetails Sucess
+2020-11-02 15:28:25.2015 INFO MIR GetDetails Sucess
+2020-11-02 15:28:25.2015 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:27.4445 INFO MIR GetList Sucess
+2020-11-02 15:28:27.4445 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:27.4445 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:28.9173 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:28.9173 INFO Get Party Master List Success
+2020-11-02 15:28:28.9223 INFO Get VAT Master List Success
+2020-11-02 15:28:28.9223 INFO MIR GetPassDetails Sucess
+2020-11-02 15:28:28.9223 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:32.1346 INFO MIR GetList Sucess
+2020-11-02 15:28:32.1346 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:32.1396 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:34.0085 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:34.0085 INFO Get Party Master List Success
+2020-11-02 15:28:34.0085 INFO Get VAT Master List Success
+2020-11-02 15:28:34.0155 INFO MIR GetPassDetails Sucess
+2020-11-02 15:28:34.0155 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:28:48.0891 INFO MIR GetDetails Sucess
+2020-11-02 15:54:25.9547 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:54:27.9294 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:54:27.9294 INFO Get MF2 List Success
+2020-11-02 15:54:27.9722 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:54:32.4471 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:54:32.4530 INFO Get Party Master List Success
+2020-11-02 15:54:32.4530 INFO Get Product Master List Success
+2020-11-02 15:54:32.4700 INFO Get VAT Master List Success
+2020-11-02 15:54:32.4870 INFO Get MF2  Details Success
+2020-11-02 15:54:32.5269 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:54:38.9484 INFO Update MF2 Fail :31-10-2020-H02-Object reference not set to an instance of an object.
+2020-11-02 15:55:29.9675 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:29.9675 INFO Get MF3 List Success
+2020-11-02 15:55:29.9675 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:32.5667 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:32.5667 INFO Get VAT Master List Success
+2020-11-02 15:55:32.5667 INFO Get Product Master List Success
+2020-11-02 15:55:32.5667 INFO Get MF3  Details Success
+2020-11-02 15:55:32.5827 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:51.2675 INFO Update MF3 Success :03-11-2020-H02
+2020-11-02 15:55:51.2923 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:51.2923 INFO Get MF3 List Success
+2020-11-02 15:55:51.2963 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:54.0839 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 15:55:54.0839 INFO Get VAT Master List Success
+2020-11-02 15:55:54.0839 INFO Get Product Master List Success
+2020-11-02 15:55:54.0930 INFO Get MF3  Details Success
+2020-11-02 15:55:54.0930 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:03:54.3447 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:03:54.3447 INFO Get VAT Master List Success
+2020-11-02 16:03:54.3447 INFO Get Product Master List Success
+2020-11-02 16:03:54.3447 INFO Get MF3  Details Success
+2020-11-02 16:03:54.3587 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:03:54.8688 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:03:54.8688 INFO Get MF3 List Success
+2020-11-02 16:03:54.8737 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:03:56.5480 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:03:56.5480 INFO Get VAT Master List Success
+2020-11-02 16:03:56.5480 INFO Get Product Master List Success
+2020-11-02 16:03:56.5480 INFO Get MF3  Details Success
+2020-11-02 16:03:56.5480 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:04:35.7932 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:04:35.7951 INFO Get MF3 List Success
+2020-11-02 16:04:35.7951 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:04:37.1647 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:04:37.1647 INFO Get VAT Master List Success
+2020-11-02 16:04:37.1647 INFO Get Product Master List Success
+2020-11-02 16:04:37.1737 INFO Get MF3  Details Success
+2020-11-02 16:04:37.1737 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:05:05.6373 INFO Update MF3 Success :31-10-2020-H02
+2020-11-02 16:05:05.6583 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:05:05.6583 INFO Get MF3 List Success
+2020-11-02 16:05:05.6583 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:05:32.6936 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:05:32.6936 INFO Get MF3 List Success
+2020-11-02 16:05:32.6936 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:05:34.5866 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:05:34.5866 INFO Get VAT Master List Success
+2020-11-02 16:05:34.5866 INFO Get Product Master List Success
+2020-11-02 16:05:34.5949 INFO Get MF3  Details Success
+2020-11-02 16:05:34.5949 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:08:59.5859 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:08:59.5859 INFO Get VAT Master List Success
+2020-11-02 16:08:59.5859 INFO Get Product Master List Success
+2020-11-02 16:08:59.5938 INFO Get MF3  Details Success
+2020-11-02 16:08:59.5938 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:10:49.1641 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:10:49.1641 INFO Get MF3 List Success
+2020-11-02 16:10:49.1641 INFO Get User Success :16-Harinagar Sugar
+2020-11-02 16:23:53.5644 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:23:55.7917 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:23:55.7974 INFO Get Indent List Success
+2020-11-02 16:23:55.8373 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:23:57.5911 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:23:57.5938 INFO Get Indent List Success
+2020-11-02 16:23:57.6328 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:23:57.6328 INFO Get Allotment List Success
+2020-11-02 16:23:57.6497 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:00.0924 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:00.0924 INFO Get Allotment List Success
+2020-11-02 16:24:00.1692 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:00.1751 INFO Get Party Master List Success
+2020-11-02 16:24:00.1751 INFO Get Indent List Success
+2020-11-02 16:24:00.1913 INFO Get Allotment Details Success
+2020-11-02 16:24:00.2175 INFO Check WorkFlow List Success
+2020-11-02 16:24:00.2175 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:19.7610 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:19.7610 INFO Get Allotment List Success
+2020-11-02 16:24:19.7660 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:23.2040 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:23.2040 INFO Get Allotment List Success
+2020-11-02 16:24:23.2040 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:24.5885 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:24.5885 INFO Get Allotment List Success
+2020-11-02 16:24:24.5935 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:24.7949 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:24.7969 INFO Get Allotment List Success
+2020-11-02 16:24:24.7969 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:24.9864 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:24.9864 INFO Get Allotment List Success
+2020-11-02 16:24:24.9864 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:25.1879 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:25.1879 INFO Get Allotment List Success
+2020-11-02 16:24:25.1879 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.0352 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.0352 INFO Get Allotment List Success
+2020-11-02 16:24:26.0352 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.2729 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.2729 INFO Get Allotment List Success
+2020-11-02 16:24:26.2819 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.4594 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.4594 INFO Get Allotment List Success
+2020-11-02 16:24:26.4594 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.6499 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:26.6499 INFO Get Allotment List Success
+2020-11-02 16:24:26.6559 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:30.6757 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:30.6757 INFO Get Allotment List Success
+2020-11-02 16:24:30.6876 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:40.2751 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 16:24:40.2751 INFO Get Allotment List Success
+2020-11-02 16:24:50.6320 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:24:53.3935 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:24:53.4214 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:21.1552 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:24.8493 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:24.8714 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:28.0748 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:28.0985 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:45.5938 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:25:45.6217 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:26:25.3232 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:26:25.3449 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:26:36.4918 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:27:02.1960 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:27:38.7718 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:27:43.6090 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:28:06.2247 INFO Get User Success :19-Harinagar Bond Officer
+2020-11-02 16:28:16.6126 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:28:29.0242 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:28:41.2856 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:00.7973 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:12.0356 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:26.8039 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:26.8039 INFO Check WorkFlow List Success
+2020-11-02 16:29:27.7940 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:27.7950 INFO Check WorkFlow List Success
+2020-11-02 16:29:27.7950 INFO Get Allotment List Success
+2020-11-02 16:29:27.7950 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:58.8300 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:29:58.8300 INFO Check WorkFlow List Success
+2020-11-02 16:29:58.8300 INFO Get Allotment List Success
+2020-11-02 16:29:58.8300 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:30:14.0497 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:30:14.0497 INFO Check WorkFlow List Success
+2020-11-02 16:30:15.3964 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:30:15.3964 INFO Check WorkFlow List Success
+2020-11-02 16:30:15.3964 INFO Get Allotment List Success
+2020-11-02 16:30:15.3964 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:30:25.3464 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:30:26.1926 INFO Check WorkFlow List Success
+2020-11-02 16:30:26.1926 INFO Get Allotment List Success
+2020-11-02 16:30:26.1926 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:35:59.9232 INFO Allotement Issued Sucess:2
+2020-11-02 16:36:02.9740 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:02.9740 INFO Check WorkFlow List Success
+2020-11-02 16:36:02.9740 INFO Get Allotment List Success
+2020-11-02 16:36:02.9740 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:09.9791 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:09.9791 INFO Check WorkFlow List Success
+2020-11-02 16:36:09.9831 INFO Get Allotment List Success
+2020-11-02 16:36:10.0027 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:10.0027 INFO Get Party Master List Success
+2020-11-02 16:36:10.0027 INFO Get Indent List Success
+2020-11-02 16:36:10.0143 INFO Get Allotment Details Success
+2020-11-02 16:36:10.0143 INFO Check WorkFlow List Success
+2020-11-02 16:36:10.0143 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:20.5847 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:20.5847 INFO Check WorkFlow List Success
+2020-11-02 16:36:20.5847 INFO Get Allotment List Success
+2020-11-02 16:36:20.5847 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:22.1134 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:22.1134 INFO Check WorkFlow List Success
+2020-11-02 16:36:22.1134 INFO Get Allotment List Success
+2020-11-02 16:36:22.1394 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:36:22.1394 INFO Get Party Master List Success
+2020-11-02 16:36:22.1394 INFO Get Indent List Success
+2020-11-02 16:36:22.1394 INFO Get Allotment Details Success
+2020-11-02 16:36:22.1394 INFO Check WorkFlow List Success
+2020-11-02 16:36:22.1394 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:37:01.9159 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:37:01.9159 INFO Get Party Master List Success
+2020-11-02 16:37:01.9211 INFO Get Indent List Success
+2020-11-02 16:37:01.9211 INFO Get Allotment Details Success
+2020-11-02 16:37:01.9211 INFO Check WorkFlow List Success
+2020-11-02 16:37:44.2871 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:37:47.0358 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:37:47.0358 INFO Get Party Master List Success
+2020-11-02 16:37:47.0358 INFO Get Indent List Success
+2020-11-02 16:37:47.0454 INFO Get Allotment Details Success
+2020-11-02 16:37:47.9779 INFO Check WorkFlow List Success
+2020-11-02 16:37:47.9779 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:38:05.0015 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:38:05.0015 INFO Check WorkFlow List Success
+2020-11-02 16:38:05.0015 INFO Get Allotment List Success
+2020-11-02 16:38:05.0015 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:38:06.4595 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:38:06.4595 INFO Check WorkFlow List Success
+2020-11-02 16:38:06.4595 INFO Get Allotment List Success
+2020-11-02 16:38:06.4811 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:38:06.4840 INFO Get Party Master List Success
+2020-11-02 16:38:06.4840 INFO Get Indent List Success
+2020-11-02 16:38:06.4840 INFO Get Allotment Details Success
+2020-11-02 16:38:18.7164 INFO Check WorkFlow List Success
+2020-11-02 16:38:57.0454 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:02.5120 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:02.5120 INFO Check WorkFlow List Success
+2020-11-02 16:39:02.5150 INFO Get Allotment List Success
+2020-11-02 16:39:02.5150 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:05.1555 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:05.1555 INFO Check WorkFlow List Success
+2020-11-02 16:39:05.1555 INFO Get Allotment List Success
+2020-11-02 16:39:05.1807 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:05.1807 INFO Get Party Master List Success
+2020-11-02 16:39:05.1856 INFO Get Indent List Success
+2020-11-02 16:39:05.1856 INFO Get Allotment Details Success
+2020-11-02 16:39:07.3970 INFO Check WorkFlow List Success
+2020-11-02 16:39:09.3116 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:19.5897 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:19.5897 INFO Check WorkFlow List Success
+2020-11-02 16:39:19.5987 INFO Get Allotment List Success
+2020-11-02 16:39:19.5987 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:20.9460 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:20.9460 INFO Check WorkFlow List Success
+2020-11-02 16:39:20.9460 INFO Get Allotment List Success
+2020-11-02 16:39:20.9701 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:20.9701 INFO Get Party Master List Success
+2020-11-02 16:39:20.9701 INFO Get Indent List Success
+2020-11-02 16:39:20.9853 INFO Get Allotment Details Success
+2020-11-02 16:39:20.9853 INFO Check WorkFlow List Success
+2020-11-02 16:39:20.9853 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:39.4493 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:39.4493 INFO Check WorkFlow List Success
+2020-11-02 16:39:39.4523 INFO Get Allotment List Success
+2020-11-02 16:39:39.4523 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:43.6783 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:43.6783 INFO Check WorkFlow List Success
+2020-11-02 16:39:43.6783 INFO Get Allotment List Success
+2020-11-02 16:39:43.7045 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:39:43.7045 INFO Get Party Master List Success
+2020-11-02 16:39:43.7045 INFO Get Indent List Success
+2020-11-02 16:39:43.7045 INFO Get Allotment Details Success
+2020-11-02 16:39:43.7045 INFO Check WorkFlow List Success
+2020-11-02 16:39:43.7180 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:40:35.9020 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:40:35.9020 INFO Check WorkFlow List Success
+2020-11-02 16:40:35.9070 INFO Get Allotment List Success
+2020-11-02 16:40:35.9070 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:40:37.6070 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:40:37.6095 INFO Check WorkFlow List Success
+2020-11-02 16:40:37.6095 INFO Get Allotment List Success
+2020-11-02 16:40:37.6304 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:40:37.6304 INFO Get Party Master List Success
+2020-11-02 16:40:37.6304 INFO Get Indent List Success
+2020-11-02 16:40:37.6304 INFO Get Allotment Details Success
+2020-11-02 16:40:37.6404 INFO Check WorkFlow List Success
+2020-11-02 16:40:37.6404 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:12.2691 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:12.2691 INFO Get Party Master List Success
+2020-11-02 16:41:12.2691 INFO Get Indent List Success
+2020-11-02 16:41:12.2691 INFO Get Allotment Details Success
+2020-11-02 16:41:12.2808 INFO Check WorkFlow List Success
+2020-11-02 16:41:37.1469 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:40.5506 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:40.5506 INFO Check WorkFlow List Success
+2020-11-02 16:41:40.5506 INFO Get Allotment List Success
+2020-11-02 16:41:40.5506 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:43.0467 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:43.0467 INFO Check WorkFlow List Success
+2020-11-02 16:41:43.0467 INFO Get Allotment List Success
+2020-11-02 16:41:43.0467 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:45.8834 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:45.8834 INFO Check WorkFlow List Success
+2020-11-02 16:41:45.8834 INFO Get Allotment List Success
+2020-11-02 16:41:45.8894 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:46.1091 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:46.1091 INFO Check WorkFlow List Success
+2020-11-02 16:41:46.1091 INFO Get Allotment List Success
+2020-11-02 16:41:46.1091 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:46.2806 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:46.2806 INFO Check WorkFlow List Success
+2020-11-02 16:41:46.2806 INFO Get Allotment List Success
+2020-11-02 16:41:46.2806 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:46.4332 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:46.4332 INFO Check WorkFlow List Success
+2020-11-02 16:41:46.4372 INFO Get Allotment List Success
+2020-11-02 16:41:46.4372 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:48.2835 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:48.2835 INFO Check WorkFlow List Success
+2020-11-02 16:41:48.2835 INFO Get Allotment List Success
+2020-11-02 16:41:48.3060 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:48.3060 INFO Get Party Master List Success
+2020-11-02 16:41:48.3110 INFO Get Indent List Success
+2020-11-02 16:41:48.3110 INFO Get Allotment Details Success
+2020-11-02 16:41:48.3110 INFO Check WorkFlow List Success
+2020-11-02 16:41:51.7493 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:54.6719 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:54.6719 INFO Check WorkFlow List Success
+2020-11-02 16:41:54.6719 INFO Get Allotment List Success
+2020-11-02 16:41:54.6719 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:57.3787 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:57.3787 INFO Check WorkFlow List Success
+2020-11-02 16:41:57.3787 INFO Get Allotment List Success
+2020-11-02 16:41:57.4029 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:41:57.4059 INFO Get Party Master List Success
+2020-11-02 16:41:57.4059 INFO Get Indent List Success
+2020-11-02 16:41:57.4059 INFO Get Allotment Details Success
+2020-11-02 16:41:57.4059 INFO Check WorkFlow List Success
+2020-11-02 16:42:15.5530 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:42:22.4997 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:42:22.4997 INFO Get Party Master List Success
+2020-11-02 16:42:22.4997 INFO Get Indent List Success
+2020-11-02 16:42:22.4997 INFO Get Allotment Details Success
+2020-11-02 16:42:22.4997 INFO Check WorkFlow List Success
+2020-11-02 16:42:26.5408 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:42:42.3143 INFO Allotement Approve Sucess:2
+2020-11-02 16:42:42.3376 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:42:42.3376 INFO Check WorkFlow List Success
+2020-11-02 16:42:42.3426 INFO Get Allotment List Success
+2020-11-02 16:42:42.3426 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:42:49.3085 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:42:49.3108 INFO Check WorkFlow List Success
+2020-11-02 16:42:49.3108 INFO Get Allotment List Success
+2020-11-02 16:43:01.8957 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:03.6337 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:03.6337 INFO Check WorkFlow List Success
+2020-11-02 16:43:03.6581 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:03.6581 INFO Check WorkFlow List Success
+2020-11-02 16:43:03.6581 INFO Get Allotment List Success
+2020-11-02 16:43:03.6581 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:05.2105 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:05.2105 INFO Check WorkFlow List Success
+2020-11-02 16:43:05.2105 INFO Get Allotment List Success
+2020-11-02 16:43:05.2343 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:05.2343 INFO Get Party Master List Success
+2020-11-02 16:43:05.2343 INFO Get Indent List Success
+2020-11-02 16:43:05.2343 INFO Get Allotment Details Success
+2020-11-02 16:43:05.2343 INFO Check WorkFlow List Success
+2020-11-02 16:43:06.6854 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:11.2306 INFO Allotement Approve Sucess:2
+2020-11-02 16:43:11.2507 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:11.2507 INFO Check WorkFlow List Success
+2020-11-02 16:43:11.2507 INFO Get Allotment List Success
+2020-11-02 16:43:11.2507 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:32.0677 INFO Get User Success :20-Commisoner
+2020-11-02 16:43:32.0677 INFO Check WorkFlow List Success
+2020-11-02 16:49:55.6806 INFO Get Allotment List Success
+2020-11-02 16:49:55.6858 INFO Get User Success :20-Commisoner
+2020-11-02 16:50:05.4313 INFO Get User Success :20-Commisoner
+2020-11-02 16:50:05.4313 INFO Check WorkFlow List Success
+2020-11-02 16:50:09.6697 INFO Get Allotment List Success
+2020-11-02 16:50:34.1327 INFO Get User Success :20-Commisoner
+2020-11-02 16:50:39.3977 INFO Get User Success :20-Commisoner
+2020-11-02 16:50:39.3977 INFO Check WorkFlow List Success
+2020-11-02 16:50:39.3977 INFO Get Allotment List Success
+2020-11-02 16:50:39.4051 INFO Get User Success :20-Commisoner
+2020-11-02 16:50:47.7557 INFO Get User Success :20-Commisoner
+2020-11-02 16:50:47.7557 INFO Check WorkFlow List Success
+2020-11-02 16:50:47.7557 INFO Get Allotment List Success
+2020-11-02 16:51:07.3674 INFO Get User Success :20-Commisoner
+2020-11-02 16:51:10.1690 INFO Get User Success :20-Commisoner
+2020-11-02 16:51:10.1707 INFO Check WorkFlow List Success
+2020-11-02 16:51:10.1707 INFO Get Allotment List Success
+2020-11-02 16:51:16.1964 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:51:18.3866 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:51:18.3866 INFO Check WorkFlow List Success
+2020-11-02 16:51:18.4094 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:51:18.4094 INFO Check WorkFlow List Success
+2020-11-02 16:51:18.4094 INFO Get Allotment List Success
+2020-11-02 16:51:18.4216 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:51:21.1942 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:51:21.1942 INFO Check WorkFlow List Success
+2020-11-02 16:51:21.1942 INFO Get Allotment List Success
+2020-11-02 16:51:21.2017 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:52:56.7895 INFO Allotement Issued Sucess:1
+2020-11-02 16:52:56.8134 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:52:56.8134 INFO Check WorkFlow List Success
+2020-11-02 16:52:56.8134 INFO Get Allotment List Success
+2020-11-02 16:52:56.8134 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:53:00.5235 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:53:00.5235 INFO Check WorkFlow List Success
+2020-11-02 16:53:00.5235 INFO Get Allotment List Success
+2020-11-02 16:53:00.5317 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:53:41.6768 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:53:41.6768 INFO Check WorkFlow List Success
+2020-11-02 16:53:41.6768 INFO Get Allotment List Success
+2020-11-02 16:54:17.1017 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:21.0582 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:21.0582 INFO Check WorkFlow List Success
+2020-11-02 16:54:21.0625 INFO Get Allotment List Success
+2020-11-02 16:54:21.0860 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:21.0860 INFO Get Party Master List Success
+2020-11-02 16:54:21.0940 INFO Get Indent List Success
+2020-11-02 16:54:21.0940 INFO Get Allotment Details Success
+2020-11-02 16:54:21.0940 INFO Check WorkFlow List Success
+2020-11-02 16:54:23.4351 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:26.8779 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:26.8779 INFO Check WorkFlow List Success
+2020-11-02 16:54:26.8779 INFO Get Allotment List Success
+2020-11-02 16:54:26.8779 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:28.6418 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:54:28.6418 INFO Check WorkFlow List Success
+2020-11-02 16:54:28.6418 INFO Get Allotment List Success
+2020-11-02 16:54:28.6418 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:04.4324 INFO Allotement Issued Sucess:2
+2020-11-02 16:55:04.4520 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:04.4520 INFO Check WorkFlow List Success
+2020-11-02 16:55:04.4520 INFO Get Allotment List Success
+2020-11-02 16:55:04.4520 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:09.5643 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:09.5643 INFO Check WorkFlow List Success
+2020-11-02 16:55:09.5643 INFO Get Allotment List Success
+2020-11-02 16:55:09.5884 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:09.5884 INFO Get Party Master List Success
+2020-11-02 16:55:09.5944 INFO Get Indent List Success
+2020-11-02 16:55:09.5944 INFO Get Allotment Details Success
+2020-11-02 16:55:09.5944 INFO Check WorkFlow List Success
+2020-11-02 16:55:09.5944 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:11.7887 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:11.7887 INFO Check WorkFlow List Success
+2020-11-02 16:55:11.7887 INFO Get Allotment List Success
+2020-11-02 16:55:11.7887 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:12.4660 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:12.4678 INFO Check WorkFlow List Success
+2020-11-02 16:55:12.4678 INFO Get Allotment List Success
+2020-11-02 16:55:12.4917 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 16:55:12.4917 INFO Get Party Master List Success
+2020-11-02 16:55:12.4917 INFO Get Indent List Success
+2020-11-02 16:55:12.5007 INFO Get Allotment Details Success
+2020-11-02 16:55:12.5007 INFO Check WorkFlow List Success
+2020-11-02 16:55:12.5007 INFO Get User Success :21-Deputy Commissioner
+2020-11-02 17:15:58.6249 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:16:17.7948 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:16:38.9170 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:16:53.2889 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:16:56.3604 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:17:26.2738 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:17:30.3844 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:17:33.9306 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:25:42.0897 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 17:25:54.3718 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:19:53.8817 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:20:05.5809 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:20:05.6203 INFO Get RR List Fail:42601: syntax error at or near "."
+2020-11-02 18:23:59.9313 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:24:20.0983 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:25:06.6529 INFO Get RR List Success
+2020-11-02 18:26:55.1654 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:26:58.2806 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:26:59.7068 INFO Get RR List Success
+2020-11-02 18:27:35.8844 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:27:36.7409 INFO Get RR List Success
+2020-11-02 18:27:36.7529 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:27:50.8106 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:27:53.9734 INFO Get RR List Success
+2020-11-02 18:27:53.9734 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:28:24.0175 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:28:24.0175 INFO Get RR List Success
+2020-11-02 18:28:24.0384 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:28:43.3722 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:29:00.2942 INFO Get RR List Success
+2020-11-02 18:29:00.2972 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:29:27.8496 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:29:27.8496 INFO Get RR List Success
+2020-11-02 18:29:27.8636 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:29:54.1450 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:29:56.8707 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:29:56.8707 INFO Get RR List Success
+2020-11-02 18:29:56.8757 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:30:04.9616 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:30:07.2664 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:30:07.2664 INFO Get RR List Success
+2020-11-02 18:30:07.2664 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:30:08.1086 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:30:09.9143 INFO Get User Success :18-Harinagar Distillery
+2020-11-02 18:30:09.9143 INFO Get RR List Success
+2020-11-02 18:30:09.9143 INFO Get User Success :18-Harinagar Distillery

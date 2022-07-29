@@ -1,0 +1,47 @@
+2021-06-26 10:43:19.6407 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 10:43:50.9278 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 10:43:51.2077 INFO Get User Success :globus_dis
+2021-06-26 10:44:03.6400 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 10:45:37.1663 INFO Get User Success :globus_dis
+2021-06-26 10:45:47.2027 INFO Get Report  Success
+2021-06-26 10:45:47.8476 INFO Get GetSeverList Success
+2021-06-26 13:58:37.6679 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 13:58:38.2799 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 13:58:38.5859 INFO Get User Success :globus_dis
+2021-06-26 13:59:39.1992 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 13:59:53.1134 INFO Get User Success :globus_dis
+2021-06-26 13:59:58.5090 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 13:59:59.0060 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 14:00:28.6432 INFO Get Product Master List Success
+2021-06-26 14:00:29.0881 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 14:00:29.4131 INFO Get Balance Request Pass Success
+2021-06-26 14:00:30.0471 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 14:00:30.4030 INFO Get Balance Request Pass Success
+2021-06-26 14:00:30.6770 INFO Get User Success :globus_dis
+2021-06-26 14:00:37.9506 INFO Update Request Pass fail :42601: syntax error at or near "user_id"
+2021-06-26 14:00:47.6850 INFO Update Request Pass fail :42601: syntax error at or near "user_id"
+2021-06-26 14:06:25.4854 INFO Update Request Pass fail :42601: syntax error at or near "user_id"
+2021-06-26 14:07:09.1187 INFO Update Request Pass Success
+2021-06-26 14:07:09.3057 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 14:07:16.2143 INFO Get User Success :globus_dis
+2021-06-26 14:53:34.9458 INFO Get User Success :353-M and TP Unit
+2021-06-26 14:53:35.5228 INFO Get User Success :353-M and TP Unit
+2021-06-26 14:53:35.9007 INFO Get User Success :mtp1
+2021-06-26 14:53:52.2128 INFO Get User Success :353-M and TP Unit
+2021-06-26 14:55:10.1360 INFO Get User Success :mtp1
+2021-06-26 14:55:18.9804 INFO Get User Success :353-M and TP Unit
+2021-06-26 14:55:20.7294 INFO Get Allotment List Success
+2021-06-26 14:55:21.2983 INFO Get Product Master List Success
+2021-06-26 14:55:21.4753 INFO Get UOM List Success
+2021-06-26 14:55:21.6533 INFO Get User Success :mtp1
+2021-06-26 14:55:50.2053 INFO Get Allotment Details Success
+2021-06-26 14:59:22.8625 INFO Get User Success :353-M and TP Unit
+2021-06-26 14:59:24.7144 INFO Get User Success :mtp1
+2021-06-26 16:55:51.4999 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 16:55:52.0828 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 16:55:52.3758 INFO Get User Success :globus_dis
+2021-06-26 16:56:22.7709 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 16:56:31.3354 INFO Get User Success :globus_dis
+2021-06-26 16:56:34.5752 INFO Get User Success :350-Globus Spirits Limited
+2021-06-26 16:56:37.6700 INFO Get Pass List Success
+2021-06-26 16:56:37.8040 INFO Get User Success :globus_dis

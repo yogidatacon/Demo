@@ -1,0 +1,75 @@
+2021-06-19 10:52:09.5086 INFO Get User Success :341-Assistant Commissioner
+2021-06-19 10:52:10.2036 INFO Get User Success :341-Assistant Commissioner
+2021-06-19 10:52:10.7296 INFO Get User Success :bhedo
+2021-06-19 10:53:48.7334 INFO Get User Success :341-Assistant Commissioner
+2021-06-19 10:54:10.1031 INFO Get User Success :353-M and TP Unit
+2021-06-19 10:54:10.4231 INFO Get User Success :353-M and TP Unit
+2021-06-19 10:54:10.5351 INFO Get User Success :mtp1
+2021-06-19 10:55:20.5704 INFO Get User Success :353-M and TP Unit
+2021-06-19 10:56:59.3783 INFO Get User Success :mtp1
+2021-06-19 10:57:03.1740 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:09:02.1232 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:09:02.6162 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:09:02.9891 INFO Get User Success :mtp1
+2021-06-19 11:09:11.9475 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:09:23.0628 INFO Get User Success :mtp1
+2021-06-19 11:09:26.3716 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:13:54.3379 INFO Get Existing data Success : lic_application
+2021-06-19 11:14:10.8519 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:14:13.7757 INFO Get User Success :mtp1
+2021-06-19 11:14:24.0420 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:14:28.7467 INFO Get Existing data Success : lic_application
+2021-06-19 11:14:28.8777 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:14:31.4136 INFO Get User Success :mtp1
+2021-06-19 11:14:34.6784 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:14:38.0242 INFO Get Existing data Success : lic_application
+2021-06-19 11:14:38.1902 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:14:44.5898 INFO Get User Success :mtp1
+2021-06-19 11:21:52.2021 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:22:20.7573 INFO Get Existing data Success : lic_application
+2021-06-19 11:22:20.9943 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:22:23.5011 INFO Get User Success :mtp1
+2021-06-19 11:23:09.4682 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:28:48.2061 INFO Get Existing data Success : lic_application
+2021-06-19 11:28:48.3371 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:28:50.5919 INFO Get User Success :mtp1
+2021-06-19 11:28:54.1157 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:28:58.7994 INFO Get Existing data Success : lic_application
+2021-06-19 11:28:58.9334 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:29:01.3383 INFO Get User Success :mtp1
+2021-06-19 11:29:51.2932 INFO Get User Success :353-M and TP Unit
+2021-06-19 11:29:53.7180 INFO Get User Success :mtp1
+2021-06-19 11:31:20.1546 INFO Get User Success :353-M and TP Unit
+2021-06-19 12:47:25.3085 INFO Get User Success :mtp1
+2021-06-19 12:52:07.1300 INFO Get User Success :353-M and TP Unit
+2021-06-19 12:53:12.1679 INFO Get User Success :353-M and TP Unit
+2021-06-19 12:53:12.7058 INFO Get User Success :mtp1
+2021-06-19 12:55:11.6284 INFO Get User Success :353-M and TP Unit
+2021-06-19 12:55:16.3061 INFO Get Report  Success
+2021-06-19 12:55:17.1541 INFO Get Party Master List Success
+2021-06-19 12:55:17.2371 INFO Get User Success :mtp1
+2021-06-19 12:55:52.2600 INFO Get GetSeverList Success
+2021-06-19 12:59:28.9938 INFO Get GetSeverList Success
+2021-06-19 13:00:20.1699 INFO Get GetSeverList Success
+2021-06-19 13:00:48.7026 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:00:52.6433 INFO Get User Success :mtp1
+2021-06-19 13:01:06.3235 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:01:09.3833 INFO Get Report  Success
+2021-06-19 13:01:10.1102 INFO Get Party Master List Success
+2021-06-19 13:01:10.1963 INFO Get User Success :mtp1
+2021-06-19 13:02:20.6427 INFO Get GetSeverList Success
+2021-06-19 13:04:45.7316 INFO Get VAT Master List Success
+2021-06-19 13:05:09.7101 INFO Get GetSeverList Success
+2021-06-19 13:53:51.7337 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:54:21.5340 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:54:21.8760 INFO Get User Success :mtp1
+2021-06-19 13:54:44.3226 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:54:51.6762 INFO Get User Success :mtp1
+2021-06-19 13:54:55.4059 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:54:55.4810 INFO Get Allotment List Success
+2021-06-19 13:54:55.5929 INFO Get User Success :mtp1
+2021-06-19 13:54:57.5018 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:54:57.5788 INFO Get Allotment List Success
+2021-06-19 13:54:57.6718 INFO Get User Success :mtp1
+2021-06-19 13:54:59.5887 INFO Get User Success :353-M and TP Unit
+2021-06-19 13:55:00.1337 INFO Get User Success :mtp1

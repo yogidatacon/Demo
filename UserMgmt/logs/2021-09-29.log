@@ -1,0 +1,1261 @@
+2021-09-29 09:54:22.7889 INFO Get User Success :44-Administrator
+2021-09-29 09:54:22.8936 INFO Get User Success :44-Administrator
+2021-09-29 09:54:22.9256 INFO Get Product Type Master List Success
+2021-09-29 09:54:22.9345 INFO Get User Success :Admin
+2021-09-29 09:54:35.6114 INFO Get User Success :44-Administrator
+2021-09-29 09:54:37.4348 INFO Get Product Type Master List Success
+2021-09-29 09:54:37.4348 INFO Get User Success :Admin
+2021-09-29 10:23:18.3573 INFO Get User Success :44-Administrator
+2021-09-29 10:23:18.3755 INFO Get Product Type Master List Success
+2021-09-29 10:23:18.3755 INFO Get User Success :Admin
+2021-09-29 10:23:21.1583 INFO Get User Success :44-Administrator
+2021-09-29 10:23:21.1869 INFO Get Product Type Master List Success
+2021-09-29 10:23:21.1869 INFO Get User Success :Admin
+2021-09-29 10:23:22.7551 INFO Get User Success :44-Administrator
+2021-09-29 10:23:24.2921 INFO Get Product Type Master List Success
+2021-09-29 10:23:24.2921 INFO Get User Success :Admin
+2021-09-29 11:39:48.2354 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:39:48.2711 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:39:48.4494 INFO Get Product Type Master List Success
+2021-09-29 11:39:48.4494 INFO Get User Success :hodyco
+2021-09-29 11:39:52.7313 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:39:54.2923 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:39:54.6678 INFO Check WorkFlow List Success
+2021-09-29 11:39:55.3041 INFO Get Allotment List Success
+2021-09-29 11:39:56.1065 INFO Get Product Type Master List Success
+2021-09-29 11:39:56.1065 INFO Get User Success :hodyco
+2021-09-29 11:39:58.8990 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:39:58.8990 INFO Check WorkFlow List Success
+2021-09-29 11:39:58.9034 INFO Get Allotment List Success
+2021-09-29 11:39:58.9223 INFO Get Product Type Master List Success
+2021-09-29 11:39:58.9223 INFO Get User Success :hodyco
+2021-09-29 11:40:00.9441 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:40:06.9806 INFO Get Party Master List Success
+2021-09-29 11:40:06.9806 INFO Get Product Master List Success
+2021-09-29 11:40:06.9806 INFO Get Allotment Details Success
+2021-09-29 11:40:06.9975 INFO Get Party Master List Success
+2021-09-29 11:40:12.9747 INFO Check WorkFlow List Success
+2021-09-29 11:43:14.2009 INFO Check WorkFlow List Success
+2021-09-29 11:46:45.0511 INFO Get Product Type Master List Success
+2021-09-29 11:46:45.0511 INFO Get User Success :hodyco
+2021-09-29 11:46:50.9507 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 11:52:28.7931 INFO Get Party Master List Success
+2021-09-29 11:52:28.7931 INFO Get Product Master List Success
+2021-09-29 11:52:28.7931 INFO Get Allotment Details Success
+2021-09-29 11:52:28.7931 INFO Get Party Master List Success
+2021-09-29 11:52:28.8070 INFO Check WorkFlow List Success
+2021-09-29 11:54:30.4676 INFO Check WorkFlow List Success
+2021-09-29 12:14:29.1103 INFO Get Product Type Master List Success
+2021-09-29 12:14:29.1202 INFO Get User Success :hodyco
+2021-09-29 12:14:57.2780 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:14:57.2780 INFO Check WorkFlow List Success
+2021-09-29 12:14:57.2780 INFO Get Allotment List Success
+2021-09-29 12:14:57.2940 INFO Get Product Type Master List Success
+2021-09-29 12:14:57.2940 INFO Get User Success :hodyco
+2021-09-29 12:15:01.9561 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:15:03.3703 INFO Get Party Master List Success
+2021-09-29 12:15:03.3703 INFO Get Product Master List Success
+2021-09-29 12:15:03.3703 INFO Get Allotment Details Success
+2021-09-29 12:15:03.3703 INFO Get Party Master List Success
+2021-09-29 12:15:03.3703 INFO Check WorkFlow List Success
+2021-09-29 12:15:04.1378 INFO Get Product Type Master List Success
+2021-09-29 12:15:04.1378 INFO Get User Success :hodyco
+2021-09-29 12:15:19.8982 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:15:19.8982 INFO Check WorkFlow List Success
+2021-09-29 12:15:19.9021 INFO Get Allotment List Success
+2021-09-29 12:15:19.9021 INFO Get Product Type Master List Success
+2021-09-29 12:15:19.9021 INFO Get User Success :hodyco
+2021-09-29 12:15:21.4242 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:15:26.4919 INFO Get Party Master List Success
+2021-09-29 12:15:26.4919 INFO Get Product Master List Success
+2021-09-29 12:15:26.4959 INFO Get Allotment Details Success
+2021-09-29 12:15:26.4959 INFO Get Party Master List Success
+2021-09-29 12:15:26.4959 INFO Check WorkFlow List Success
+2021-09-29 12:15:48.9716 INFO Get Product Type Master List Success
+2021-09-29 12:15:48.9716 INFO Get User Success :hodyco
+2021-09-29 12:27:33.8196 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:27:33.8196 INFO Check WorkFlow List Success
+2021-09-29 12:27:33.8263 INFO Get Allotment List Success
+2021-09-29 12:27:33.8263 INFO Get Product Type Master List Success
+2021-09-29 12:27:33.8263 INFO Get User Success :hodyco
+2021-09-29 12:27:43.2228 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 12:27:43.2583 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 12:27:43.2642 INFO Get Product Type Master List Success
+2021-09-29 12:27:43.2642 INFO Get User Success :bhedo
+2021-09-29 12:27:46.4942 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 12:27:48.0684 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 12:27:48.2592 INFO Check WorkFlow List Success
+2021-09-29 12:27:48.4859 INFO Get Allotment List Success
+2021-09-29 12:27:48.4859 INFO Get Product Type Master List Success
+2021-09-29 12:27:48.4859 INFO Get User Success :bhedo
+2021-09-29 12:27:50.5908 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 12:27:50.5908 INFO Check WorkFlow List Success
+2021-09-29 12:27:50.5908 INFO Get Allotment List Success
+2021-09-29 12:27:50.5908 INFO Get Product Type Master List Success
+2021-09-29 12:27:50.5908 INFO Get User Success :bhedo
+2021-09-29 12:30:52.8534 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:30:52.8886 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:30:52.9816 INFO Get Product Type Master List Success
+2021-09-29 12:30:52.9816 INFO Get User Success :hodyco
+2021-09-29 12:30:56.1258 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:30:58.4651 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:31:00.1147 INFO Check WorkFlow List Success
+2021-09-29 12:31:00.6392 INFO Get Allotment List Success
+2021-09-29 12:31:00.8407 INFO Get Product Type Master List Success
+2021-09-29 12:31:00.8407 INFO Get User Success :hodyco
+2021-09-29 12:31:03.9777 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:31:03.9777 INFO Check WorkFlow List Success
+2021-09-29 12:31:03.9827 INFO Get Allotment List Success
+2021-09-29 12:31:03.9996 INFO Get Product Type Master List Success
+2021-09-29 12:31:03.9996 INFO Get User Success :hodyco
+2021-09-29 12:31:15.0592 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:31:16.4685 INFO Get Party Master List Success
+2021-09-29 12:31:16.4685 INFO Get Product Master List Success
+2021-09-29 12:31:16.4685 INFO Get Allotment Details Success
+2021-09-29 12:31:16.4685 INFO Get Party Master List Success
+2021-09-29 12:31:16.4685 INFO Check WorkFlow List Success
+2021-09-29 12:31:18.1444 INFO Get Product Type Master List Success
+2021-09-29 12:31:18.1444 INFO Get User Success :hodyco
+2021-09-29 12:31:36.6683 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 12:31:36.6683 INFO Check WorkFlow List Success
+2021-09-29 12:31:36.6683 INFO Get Allotment List Success
+2021-09-29 12:31:36.6683 INFO Get Product Type Master List Success
+2021-09-29 12:31:36.6683 INFO Get User Success :hodyco
+2021-09-29 13:38:03.0946 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:38:03.1967 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:38:03.3313 INFO Get Product Type Master List Success
+2021-09-29 13:38:03.3425 INFO Get User Success :hodyco
+2021-09-29 13:38:40.1975 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:38:42.1499 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:38:42.3551 INFO Check WorkFlow List Success
+2021-09-29 13:38:42.7953 INFO Get Allotment List Success
+2021-09-29 13:38:43.0404 INFO Get Product Type Master List Success
+2021-09-29 13:38:43.0448 INFO Get User Success :hodyco
+2021-09-29 13:38:46.7725 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:38:46.7725 INFO Check WorkFlow List Success
+2021-09-29 13:38:46.7762 INFO Get Allotment List Success
+2021-09-29 13:38:46.7762 INFO Get Product Type Master List Success
+2021-09-29 13:38:46.7762 INFO Get User Success :hodyco
+2021-09-29 13:38:47.6933 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:38:47.6933 INFO Check WorkFlow List Success
+2021-09-29 13:38:49.4582 INFO Get Allotment List Success
+2021-09-29 13:38:49.4902 INFO Get Product Type Master List Success
+2021-09-29 13:38:49.4902 INFO Get User Success :hodyco
+2021-09-29 13:39:09.8047 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:39:11.3626 INFO Get Party Master List Success
+2021-09-29 13:39:11.3626 INFO Get Product Master List Success
+2021-09-29 13:39:11.3740 INFO Get Allotment Details Success
+2021-09-29 13:39:11.3740 INFO Get Party Master List Success
+2021-09-29 13:39:11.3870 INFO Check WorkFlow List Success
+2021-09-29 13:39:11.8624 INFO Get Product Type Master List Success
+2021-09-29 13:39:11.8624 INFO Get User Success :hodyco
+2021-09-29 13:39:16.3551 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 13:39:16.3551 INFO Check WorkFlow List Success
+2021-09-29 13:39:18.1118 INFO Get Allotment List Success
+2021-09-29 13:39:18.1118 INFO Get Product Type Master List Success
+2021-09-29 13:39:18.1118 INFO Get User Success :hodyco
+2021-09-29 13:39:32.4890 INFO Get User Success :101-Commissioner
+2021-09-29 13:39:32.5239 INFO Get User Success :101-Commissioner
+2021-09-29 13:39:32.6022 INFO Get Product Type Master List Success
+2021-09-29 13:39:32.6077 INFO Get User Success :com
+2021-09-29 13:39:36.2334 INFO Get User Success :101-Commissioner
+2021-09-29 13:39:38.7541 INFO Get User Success :101-Commissioner
+2021-09-29 13:39:38.9827 INFO Check WorkFlow List Success
+2021-09-29 13:39:39.6488 INFO Get Allotment List Success
+2021-09-29 13:39:39.6637 INFO Get Product Type Master List Success
+2021-09-29 13:39:39.6687 INFO Get User Success :com
+2021-09-29 13:39:43.4595 INFO Get User Success :101-Commissioner
+2021-09-29 13:39:43.4595 INFO Check WorkFlow List Success
+2021-09-29 13:39:44.8640 INFO Get Allotment List Success
+2021-09-29 13:39:44.8640 INFO Get Product Type Master List Success
+2021-09-29 13:39:44.8700 INFO Get User Success :com
+2021-09-29 14:22:18.6227 INFO Get User Success :101-Commissioner
+2021-09-29 14:22:18.6227 INFO Check WorkFlow List Success
+2021-09-29 14:22:18.6227 INFO Get Allotment List Success
+2021-09-29 14:22:18.6227 INFO Get Product Type Master List Success
+2021-09-29 14:22:18.6352 INFO Get User Success :com
+2021-09-29 14:22:19.6579 INFO Get User Success :101-Commissioner
+2021-09-29 14:22:19.6579 INFO Check WorkFlow List Success
+2021-09-29 14:22:21.9126 INFO Get Allotment List Success
+2021-09-29 14:22:21.9126 INFO Get Product Type Master List Success
+2021-09-29 14:22:21.9176 INFO Get User Success :com
+2021-09-29 14:22:25.2485 INFO Get User Success :101-Commissioner
+2021-09-29 14:22:26.4338 INFO Check WorkFlow List Success
+2021-09-29 14:22:27.1595 INFO Get Allotment List Success
+2021-09-29 14:22:27.1595 INFO Get Product Type Master List Success
+2021-09-29 14:22:27.1595 INFO Get User Success :com
+2021-09-29 14:22:36.6599 INFO Get User Success :101-Commissioner
+2021-09-29 14:22:38.9372 INFO Get Party Master List Success
+2021-09-29 14:22:38.9372 INFO Get Product Master List Success
+2021-09-29 14:22:38.9372 INFO Get Allotment Details Success
+2021-09-29 14:22:38.9372 INFO Get Party Master List Success
+2021-09-29 14:22:38.9372 INFO Check WorkFlow List Success
+2021-09-29 14:22:39.9732 INFO Get Product Type Master List Success
+2021-09-29 14:22:39.9732 INFO Get User Success :com
+2021-09-29 14:22:49.2353 INFO Allotement Approve Sucess:125
+2021-09-29 14:22:49.2572 INFO Get User Success :101-Commissioner
+2021-09-29 14:22:49.6530 INFO Check WorkFlow List Success
+2021-09-29 14:22:50.5446 INFO Get Allotment List Success
+2021-09-29 14:22:50.5446 INFO Get Product Type Master List Success
+2021-09-29 14:22:50.5446 INFO Get User Success :com
+2021-09-29 14:23:03.0183 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:23:03.0529 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:23:03.1649 INFO Get Product Type Master List Success
+2021-09-29 14:23:03.1715 INFO Get User Success :hodyco
+2021-09-29 14:23:06.3979 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:23:07.6441 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:23:07.8598 INFO Check WorkFlow List Success
+2021-09-29 14:23:08.4437 INFO Get Allotment List Success
+2021-09-29 14:23:08.7322 INFO Get Product Type Master List Success
+2021-09-29 14:23:08.7322 INFO Get User Success :hodyco
+2021-09-29 14:23:11.2963 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:23:11.2963 INFO Check WorkFlow List Success
+2021-09-29 14:23:46.8015 INFO Get Allotment List Success
+2021-09-29 14:23:46.8015 INFO Get Product Type Master List Success
+2021-09-29 14:23:46.8075 INFO Get User Success :hodyco
+2021-09-29 14:24:00.6266 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:24:00.6266 INFO Check WorkFlow List Success
+2021-09-29 14:24:43.8397 INFO Get Allotment List Success
+2021-09-29 14:24:43.8397 INFO Get Product Type Master List Success
+2021-09-29 14:24:43.8397 INFO Get User Success :hodyco
+2021-09-29 14:24:48.3081 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:24:48.3081 INFO Check WorkFlow List Success
+2021-09-29 14:24:48.3081 INFO Get Allotment List Success
+2021-09-29 14:24:48.3081 INFO Get Product Type Master List Success
+2021-09-29 14:24:48.3081 INFO Get User Success :hodyco
+2021-09-29 14:24:49.1197 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 14:24:49.1197 INFO Check WorkFlow List Success
+2021-09-29 14:25:19.3981 INFO Get Allotment List Success
+2021-09-29 14:25:51.0408 INFO Get Allotment List Success
+2021-09-29 14:26:49.8393 INFO Get Product Type Master List Success
+2021-09-29 14:26:49.8393 INFO Get User Success :hodyco
+2021-09-29 14:27:18.4568 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:18.4926 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:18.5713 INFO Get Product Type Master List Success
+2021-09-29 14:27:18.5753 INFO Get User Success :com
+2021-09-29 14:27:22.5610 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:23.8802 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:24.5724 INFO Check WorkFlow List Success
+2021-09-29 14:27:26.9670 INFO Get Allotment List Success
+2021-09-29 14:27:26.9670 INFO Get Product Type Master List Success
+2021-09-29 14:27:26.9670 INFO Get User Success :com
+2021-09-29 14:27:32.9386 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:34.0955 INFO Get Party Master List Success
+2021-09-29 14:27:34.0955 INFO Get Product Master List Success
+2021-09-29 14:27:34.0955 INFO Get Allotment Details Success
+2021-09-29 14:27:34.0955 INFO Get Party Master List Success
+2021-09-29 14:27:34.1204 INFO Check WorkFlow List Success
+2021-09-29 14:27:34.7087 INFO Get Product Type Master List Success
+2021-09-29 14:27:34.7137 INFO Get User Success :com
+2021-09-29 14:27:38.3808 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:39.6840 INFO Check WorkFlow List Success
+2021-09-29 14:27:40.6850 INFO Get Allotment List Success
+2021-09-29 14:27:40.6850 INFO Get Product Type Master List Success
+2021-09-29 14:27:40.6850 INFO Get User Success :com
+2021-09-29 14:27:49.5433 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:49.5433 INFO Check WorkFlow List Success
+2021-09-29 14:27:51.2079 INFO Get Allotment List Success
+2021-09-29 14:27:51.5106 INFO Get Product Type Master List Success
+2021-09-29 14:27:51.5106 INFO Get User Success :com
+2021-09-29 14:27:54.0572 INFO Get User Success :101-Commissioner
+2021-09-29 14:27:55.4387 INFO Check WorkFlow List Success
+2021-09-29 14:27:56.2363 INFO Get Allotment List Success
+2021-09-29 14:27:56.2363 INFO Get Product Type Master List Success
+2021-09-29 14:27:56.2363 INFO Get User Success :com
+2021-09-29 14:27:59.7059 INFO Get User Success :101-Commissioner
+2021-09-29 14:28:08.2298 INFO Get Party Master List Success
+2021-09-29 14:28:08.2298 INFO Get Product Master List Success
+2021-09-29 14:28:08.2298 INFO Get Allotment Details Success
+2021-09-29 14:28:08.2298 INFO Get Party Master List Success
+2021-09-29 14:28:08.2298 INFO Check WorkFlow List Success
+2021-09-29 14:51:37.5014 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:51:37.6121 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:51:37.6620 INFO Get Product Type Master List Success
+2021-09-29 14:51:37.6709 INFO Get User Success :mtp1
+2021-09-29 14:51:41.3631 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:51:41.3771 INFO Get Allotment List Success
+2021-09-29 14:51:41.4269 INFO Get Product Type Master List Success
+2021-09-29 14:51:41.4269 INFO Get User Success :mtp1
+2021-09-29 14:51:47.4943 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:51:52.2841 INFO Get Party Master List Success
+2021-09-29 14:51:52.2841 INFO Get Product Master List Success
+2021-09-29 14:51:52.2841 INFO Get Product Type Master List Success
+2021-09-29 14:51:52.2951 INFO Get User Success :mtp1
+2021-09-29 14:52:20.9299 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:52:42.7788 INFO Get Party Master List Success
+2021-09-29 14:52:42.7788 INFO Get Product Master List Success
+2021-09-29 14:52:42.7788 INFO Get Product Type Master List Success
+2021-09-29 14:52:42.7788 INFO Get User Success :mtp1
+2021-09-29 14:52:45.7272 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:52:45.7302 INFO Get Allotment List Success
+2021-09-29 14:52:45.7302 INFO Get Product Type Master List Success
+2021-09-29 14:52:45.7302 INFO Get User Success :mtp1
+2021-09-29 14:52:47.3892 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:52:48.8289 INFO Get Party Master List Success
+2021-09-29 14:52:48.8289 INFO Get Product Master List Success
+2021-09-29 14:52:48.8399 INFO Get Allotment Details Success
+2021-09-29 14:52:48.8399 INFO Get Party Master List Success
+2021-09-29 14:52:50.5234 INFO Get Product Type Master List Success
+2021-09-29 14:52:50.5284 INFO Get User Success :mtp1
+2021-09-29 14:53:03.9756 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:53:03.9756 INFO Get Allotment List Success
+2021-09-29 14:53:03.9816 INFO Get Product Type Master List Success
+2021-09-29 14:53:03.9816 INFO Get User Success :mtp1
+2021-09-29 14:53:05.7276 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:53:06.9983 INFO Get Party Master List Success
+2021-09-29 14:53:06.9983 INFO Get Product Master List Success
+2021-09-29 14:53:06.9983 INFO Get Product Type Master List Success
+2021-09-29 14:53:06.9983 INFO Get User Success :mtp1
+2021-09-29 14:53:24.3796 INFO Get Party Master List Success
+2021-09-29 14:53:37.0884 INFO Insert Allotment Success :-MTP
+2021-09-29 14:53:37.1822 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:53:37.1822 INFO Get Allotment List Success
+2021-09-29 14:53:37.1822 INFO Get Product Type Master List Success
+2021-09-29 14:53:37.1822 INFO Get User Success :mtp1
+2021-09-29 14:53:41.9887 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:53:43.4455 INFO Get Party Master List Success
+2021-09-29 14:53:43.4455 INFO Get Product Master List Success
+2021-09-29 14:53:43.4495 INFO Get Allotment Details Success
+2021-09-29 14:53:43.4495 INFO Get Party Master List Success
+2021-09-29 14:53:43.4495 INFO Get Product Type Master List Success
+2021-09-29 14:53:43.4495 INFO Get User Success :mtp1
+2021-09-29 14:53:47.8317 INFO Update Allotment Success :193-MTP
+2021-09-29 14:53:47.8598 INFO Get User Success :353-M and TP Unit
+2021-09-29 14:53:47.8598 INFO Get Allotment List Success
+2021-09-29 14:53:47.8598 INFO Get Product Type Master List Success
+2021-09-29 14:53:47.8698 INFO Get User Success :mtp1
+2021-09-29 14:53:59.3145 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:53:59.3534 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:53:59.3544 INFO Get Product Type Master List Success
+2021-09-29 14:53:59.3544 INFO Get User Success :bhedo
+2021-09-29 14:54:02.1251 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:54:03.9721 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:54:04.8762 INFO Check WorkFlow List Success
+2021-09-29 14:54:06.3818 INFO Get Allotment List Success
+2021-09-29 14:54:06.3978 INFO Get Product Type Master List Success
+2021-09-29 14:54:06.4017 INFO Get User Success :bhedo
+2021-09-29 14:54:11.4501 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:54:16.4768 INFO Get Party Master List Success
+2021-09-29 14:54:16.4768 INFO Get Product Master List Success
+2021-09-29 14:54:16.4808 INFO Get Allotment Details Success
+2021-09-29 14:54:16.4808 INFO Get Party Master List Success
+2021-09-29 14:54:16.4808 INFO Check WorkFlow List Success
+2021-09-29 14:54:46.3853 INFO Get Product Type Master List Success
+2021-09-29 14:54:46.3853 INFO Get User Success :bhedo
+2021-09-29 14:59:02.1914 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:59:02.2984 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:59:02.3283 INFO Get Product Type Master List Success
+2021-09-29 14:59:02.3283 INFO Get User Success :bhedo
+2021-09-29 14:59:16.0200 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:59:17.4377 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:59:17.6785 INFO Check WorkFlow List Success
+2021-09-29 14:59:17.9324 INFO Get Allotment List Success
+2021-09-29 14:59:17.9800 INFO Get Product Type Master List Success
+2021-09-29 14:59:17.9800 INFO Get User Success :bhedo
+2021-09-29 14:59:21.8223 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 14:59:26.9093 INFO Get Party Master List Success
+2021-09-29 14:59:26.9093 INFO Get Product Master List Success
+2021-09-29 14:59:26.9222 INFO Get Allotment Details Success
+2021-09-29 14:59:26.9222 INFO Get Party Master List Success
+2021-09-29 14:59:26.9372 INFO Check WorkFlow List Success
+2021-09-29 14:59:28.1635 INFO Get Product Type Master List Success
+2021-09-29 14:59:28.1675 INFO Get User Success :bhedo
+2021-09-29 15:00:52.8451 INFO Allotement Approve Sucess:193
+2021-09-29 15:00:52.8680 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:00:54.3150 INFO Check WorkFlow List Success
+2021-09-29 15:00:55.0201 INFO Get Allotment List Success
+2021-09-29 15:00:55.0201 INFO Get Product Type Master List Success
+2021-09-29 15:00:55.0201 INFO Get User Success :bhedo
+2021-09-29 15:00:59.4348 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:00:59.4348 INFO Check WorkFlow List Success
+2021-09-29 15:01:00.9671 INFO Get Allotment List Success
+2021-09-29 15:01:01.5388 INFO Get Product Type Master List Success
+2021-09-29 15:01:01.5437 INFO Get User Success :bhedo
+2021-09-29 15:01:05.6200 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:01:06.9094 INFO Get Party Master List Success
+2021-09-29 15:01:06.9094 INFO Get Product Master List Success
+2021-09-29 15:01:06.9094 INFO Get Allotment Details Success
+2021-09-29 15:01:06.9094 INFO Get Party Master List Success
+2021-09-29 15:01:06.9183 INFO Check WorkFlow List Success
+2021-09-29 15:01:08.6433 INFO Get Product Type Master List Success
+2021-09-29 15:01:08.6433 INFO Get User Success :bhedo
+2021-09-29 15:02:48.0242 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:02:48.0605 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:02:48.1624 INFO Get Product Type Master List Success
+2021-09-29 15:02:48.1673 INFO Get User Success :hodyco
+2021-09-29 15:02:51.5801 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:02:52.7771 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:02:53.0009 INFO Check WorkFlow List Success
+2021-09-29 15:02:53.5571 INFO Get Allotment List Success
+2021-09-29 15:02:53.8409 INFO Get Product Type Master List Success
+2021-09-29 15:02:53.8409 INFO Get User Success :hodyco
+2021-09-29 15:03:01.7914 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:03:03.5651 INFO Get Party Master List Success
+2021-09-29 15:03:03.5651 INFO Get Product Master List Success
+2021-09-29 15:03:03.5651 INFO Get Allotment Details Success
+2021-09-29 15:03:03.5651 INFO Get Party Master List Success
+2021-09-29 15:03:03.5742 INFO Check WorkFlow List Success
+2021-09-29 15:03:19.5450 INFO Get Product Type Master List Success
+2021-09-29 15:03:19.5450 INFO Get User Success :hodyco
+2021-09-29 15:04:40.3495 INFO Allotement Approve Sucess:193
+2021-09-29 15:04:40.3724 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:04:41.0511 INFO Check WorkFlow List Success
+2021-09-29 15:04:41.7473 INFO Get Allotment List Success
+2021-09-29 15:04:42.0171 INFO Get Product Type Master List Success
+2021-09-29 15:04:42.0171 INFO Get User Success :hodyco
+2021-09-29 15:04:44.2789 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:04:44.2789 INFO Check WorkFlow List Success
+2021-09-29 15:04:45.8449 INFO Get Allotment List Success
+2021-09-29 15:04:52.8831 INFO Get Product Type Master List Success
+2021-09-29 15:04:52.8870 INFO Get User Success :hodyco
+2021-09-29 15:05:16.2080 INFO Get User Success :101-Commissioner
+2021-09-29 15:05:16.2439 INFO Get User Success :101-Commissioner
+2021-09-29 15:05:16.3235 INFO Get Product Type Master List Success
+2021-09-29 15:05:16.3235 INFO Get User Success :com
+2021-09-29 15:05:19.7891 INFO Get User Success :101-Commissioner
+2021-09-29 15:05:21.1670 INFO Get User Success :101-Commissioner
+2021-09-29 15:05:21.4422 INFO Check WorkFlow List Success
+2021-09-29 15:05:22.5076 INFO Get Allotment List Success
+2021-09-29 15:05:22.5076 INFO Get Product Type Master List Success
+2021-09-29 15:05:22.5136 INFO Get User Success :com
+2021-09-29 15:05:32.5738 INFO Get User Success :101-Commissioner
+2021-09-29 15:05:34.1697 INFO Get Party Master List Success
+2021-09-29 15:05:34.1697 INFO Get Product Master List Success
+2021-09-29 15:05:34.1697 INFO Get Allotment Details Success
+2021-09-29 15:05:34.1697 INFO Get Party Master List Success
+2021-09-29 15:05:34.1697 INFO Check WorkFlow List Success
+2021-09-29 15:05:35.2830 INFO Get Product Type Master List Success
+2021-09-29 15:05:35.2830 INFO Get User Success :com
+2021-09-29 15:05:46.1447 INFO Get User Success :101-Commissioner
+2021-09-29 15:05:50.1082 INFO Get Party Master List Success
+2021-09-29 15:05:50.1082 INFO Get Product Master List Success
+2021-09-29 15:05:50.1082 INFO Get Allotment Details Success
+2021-09-29 15:05:50.1082 INFO Get Party Master List Success
+2021-09-29 15:05:50.1082 INFO Check WorkFlow List Success
+2021-09-29 15:08:04.6711 INFO Get Product Type Master List Success
+2021-09-29 15:08:04.6711 INFO Get User Success :com
+2021-09-29 15:09:14.7035 INFO Allotement Approve Sucess:193
+2021-09-29 15:09:14.7284 INFO Get User Success :101-Commissioner
+2021-09-29 15:09:15.5065 INFO Check WorkFlow List Success
+2021-09-29 15:09:36.9175 INFO Get Allotment List Success
+2021-09-29 15:09:36.9175 INFO Get Product Type Master List Success
+2021-09-29 15:09:36.9175 INFO Get User Success :com
+2021-09-29 15:09:41.7935 INFO Get User Success :101-Commissioner
+2021-09-29 15:09:41.7935 INFO Check WorkFlow List Success
+2021-09-29 15:10:07.6146 INFO Get Allotment List Success
+2021-09-29 15:10:28.4828 INFO Get Product Type Master List Success
+2021-09-29 15:10:28.4828 INFO Get User Success :com
+2021-09-29 15:10:33.8012 INFO Get User Success :101-Commissioner
+2021-09-29 15:10:34.9043 INFO Get Party Master List Success
+2021-09-29 15:10:34.9043 INFO Get Product Master List Success
+2021-09-29 15:10:34.9043 INFO Get Allotment Details Success
+2021-09-29 15:10:34.9043 INFO Get Party Master List Success
+2021-09-29 15:10:34.9043 INFO Check WorkFlow List Success
+2021-09-29 15:10:36.0518 INFO Get Product Type Master List Success
+2021-09-29 15:10:36.0518 INFO Get User Success :com
+2021-09-29 15:10:47.5790 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:10:47.6216 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:10:47.7185 INFO Get Product Type Master List Success
+2021-09-29 15:10:47.7185 INFO Get User Success :hodyco
+2021-09-29 15:10:50.6705 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:10:51.8387 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:10:52.0787 INFO Check WorkFlow List Success
+2021-09-29 15:10:52.8605 INFO Get Allotment List Success
+2021-09-29 15:10:53.1685 INFO Get Product Type Master List Success
+2021-09-29 15:10:53.1685 INFO Get User Success :hodyco
+2021-09-29 15:10:55.2222 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:10:55.2222 INFO Check WorkFlow List Success
+2021-09-29 15:10:58.1466 INFO Get Allotment List Success
+2021-09-29 15:11:04.9832 INFO Get Product Type Master List Success
+2021-09-29 15:11:04.9832 INFO Get User Success :hodyco
+2021-09-29 15:11:26.3445 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:11:26.3666 INFO Allotement Issued Sucess:193
+2021-09-29 15:11:26.4095 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:11:26.4095 INFO Check WorkFlow List Success
+2021-09-29 15:11:26.4095 INFO Get Allotment List Success
+2021-09-29 15:11:26.4310 INFO Get Product Type Master List Success
+2021-09-29 15:11:26.4360 INFO Get User Success :hodyco
+2021-09-29 15:19:29.1080 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:19:29.1427 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:19:29.1632 INFO Get Product Type Master List Success
+2021-09-29 15:19:29.1679 INFO Get User Success :mtp1
+2021-09-29 15:19:32.1014 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:19:34.2353 INFO Get Product Type Master List Success
+2021-09-29 15:19:34.2353 INFO Get User Success :mtp1
+2021-09-29 15:20:39.7491 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:20:39.7861 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:20:39.7920 INFO Get Product Type Master List Success
+2021-09-29 15:20:39.7920 INFO Get User Success :mtp1
+2021-09-29 15:20:52.6853 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:20:52.6853 INFO Get Allotment List Success
+2021-09-29 15:20:52.7112 INFO Get Product Type Master List Success
+2021-09-29 15:20:52.7152 INFO Get User Success :mtp1
+2021-09-29 15:21:06.1859 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:21:07.7403 INFO Get Party Master List Success
+2021-09-29 15:21:07.7403 INFO Get Product Master List Success
+2021-09-29 15:21:07.7453 INFO Get Allotment Details Success
+2021-09-29 15:21:07.7453 INFO Get Party Master List Success
+2021-09-29 15:21:07.7453 INFO Check WorkFlow List Success
+2021-09-29 15:21:08.5223 INFO Get Product Type Master List Success
+2021-09-29 15:21:08.5273 INFO Get User Success :mtp1
+2021-09-29 15:21:13.2458 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:21:13.2458 INFO Get Allotment List Success
+2021-09-29 15:21:13.2458 INFO Get Product Type Master List Success
+2021-09-29 15:21:13.2458 INFO Get User Success :mtp1
+2021-09-29 15:21:25.2758 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:21:26.4687 INFO Get Party Master List Success
+2021-09-29 15:21:26.4687 INFO Get Product Master List Success
+2021-09-29 15:21:26.4687 INFO Get Product Type Master List Success
+2021-09-29 15:21:26.4687 INFO Get User Success :mtp1
+2021-09-29 15:21:33.1290 INFO Get Party Master List Success
+2021-09-29 15:21:47.9006 INFO Insert Allotment Success :-MTP
+2021-09-29 15:21:47.9285 INFO Get User Success :353-M and TP Unit
+2021-09-29 15:21:47.9325 INFO Get Allotment List Success
+2021-09-29 15:21:47.9325 INFO Get Product Type Master List Success
+2021-09-29 15:21:47.9325 INFO Get User Success :mtp1
+2021-09-29 15:21:58.4972 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:21:58.5331 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:21:58.5331 INFO Get Product Type Master List Success
+2021-09-29 15:21:58.5331 INFO Get User Success :bhedo
+2021-09-29 15:22:02.5628 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:22:03.6080 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:22:03.8414 INFO Check WorkFlow List Success
+2021-09-29 15:22:04.3838 INFO Get Allotment List Success
+2021-09-29 15:22:04.3838 INFO Get Product Type Master List Success
+2021-09-29 15:22:04.3898 INFO Get User Success :bhedo
+2021-09-29 15:22:19.2673 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:22:19.2673 INFO Check WorkFlow List Success
+2021-09-29 15:22:19.2673 INFO Get Allotment List Success
+2021-09-29 15:22:19.2673 INFO Get Product Type Master List Success
+2021-09-29 15:22:19.2780 INFO Get User Success :bhedo
+2021-09-29 15:22:25.6261 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:23:04.3153 INFO Check WorkFlow List Success
+2021-09-29 15:23:05.3120 INFO Get Allotment List Success
+2021-09-29 15:23:05.3120 INFO Get Product Type Master List Success
+2021-09-29 15:23:05.3120 INFO Get User Success :bhedo
+2021-09-29 15:23:05.8512 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:23:06.9620 INFO Check WorkFlow List Success
+2021-09-29 15:23:07.2099 INFO Get Allotment List Success
+2021-09-29 15:23:07.2099 INFO Get Product Type Master List Success
+2021-09-29 15:23:07.2159 INFO Get User Success :bhedo
+2021-09-29 15:23:21.2506 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:23:22.6055 INFO Get Party Master List Success
+2021-09-29 15:23:22.6055 INFO Get Product Master List Success
+2021-09-29 15:23:22.6055 INFO Get Allotment Details Success
+2021-09-29 15:23:22.6055 INFO Get Party Master List Success
+2021-09-29 15:23:22.6055 INFO Check WorkFlow List Success
+2021-09-29 15:23:23.3061 INFO Get Product Type Master List Success
+2021-09-29 15:23:23.3111 INFO Get User Success :bhedo
+2021-09-29 15:23:32.7218 INFO Allotement Approve Sucess:194
+2021-09-29 15:23:32.7428 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:23:32.9378 INFO Check WorkFlow List Success
+2021-09-29 15:23:33.1633 INFO Get Allotment List Success
+2021-09-29 15:23:33.1633 INFO Get Product Type Master List Success
+2021-09-29 15:23:33.1683 INFO Get User Success :bhedo
+2021-09-29 15:23:50.9050 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:23:50.9438 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:23:51.0278 INFO Get Product Type Master List Success
+2021-09-29 15:23:51.0278 INFO Get User Success :hodyco
+2021-09-29 15:23:56.3581 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:23:57.6082 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:23:57.9383 INFO Check WorkFlow List Success
+2021-09-29 15:23:58.4581 INFO Get Allotment List Success
+2021-09-29 15:23:58.7230 INFO Get Product Type Master List Success
+2021-09-29 15:23:58.7230 INFO Get User Success :hodyco
+2021-09-29 15:24:03.1050 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:24:04.3395 INFO Get Party Master List Success
+2021-09-29 15:24:04.3395 INFO Get Product Master List Success
+2021-09-29 15:24:04.3395 INFO Get Allotment Details Success
+2021-09-29 15:24:04.3395 INFO Get Party Master List Success
+2021-09-29 15:24:04.3395 INFO Check WorkFlow List Success
+2021-09-29 15:24:05.0591 INFO Get Product Type Master List Success
+2021-09-29 15:24:05.0591 INFO Get User Success :hodyco
+2021-09-29 15:24:26.0997 INFO Allotement Approve Sucess:194
+2021-09-29 15:24:26.1254 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:24:28.4419 INFO Check WorkFlow List Success
+2021-09-29 15:24:29.7472 INFO Get Allotment List Success
+2021-09-29 15:24:30.4029 INFO Get Product Type Master List Success
+2021-09-29 15:24:30.4029 INFO Get User Success :hodyco
+2021-09-29 15:24:33.1891 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:24:33.1891 INFO Check WorkFlow List Success
+2021-09-29 15:24:33.1891 INFO Get Allotment List Success
+2021-09-29 15:24:33.2107 INFO Get Product Type Master List Success
+2021-09-29 15:24:33.2156 INFO Get User Success :hodyco
+2021-09-29 15:24:40.0350 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:24:41.3572 INFO Get Party Master List Success
+2021-09-29 15:24:41.3572 INFO Get Product Master List Success
+2021-09-29 15:24:41.3572 INFO Get Allotment Details Success
+2021-09-29 15:24:41.3572 INFO Get Party Master List Success
+2021-09-29 15:24:41.3572 INFO Check WorkFlow List Success
+2021-09-29 15:24:42.9143 INFO Get Product Type Master List Success
+2021-09-29 15:24:42.9193 INFO Get User Success :hodyco
+2021-09-29 15:24:56.8295 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:24:56.8295 INFO Check WorkFlow List Success
+2021-09-29 15:24:56.8295 INFO Get Allotment List Success
+2021-09-29 15:24:56.8295 INFO Get Product Type Master List Success
+2021-09-29 15:24:56.8394 INFO Get User Success :hodyco
+2021-09-29 15:25:11.0109 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:27:18.5376 INFO Get Party Master List Success
+2021-09-29 15:27:18.5376 INFO Get Product Master List Success
+2021-09-29 15:27:18.5416 INFO Get Allotment Details Success
+2021-09-29 15:27:18.5416 INFO Get Party Master List Success
+2021-09-29 15:27:18.5416 INFO Check WorkFlow List Success
+2021-09-29 15:27:53.5627 INFO Get Product Type Master List Success
+2021-09-29 15:27:53.5627 INFO Get User Success :hodyco
+2021-09-29 15:28:12.2517 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:28:12.2517 INFO Check WorkFlow List Success
+2021-09-29 15:28:12.2517 INFO Get Allotment List Success
+2021-09-29 15:28:12.2517 INFO Get Product Type Master List Success
+2021-09-29 15:28:12.2616 INFO Get User Success :hodyco
+2021-09-29 15:28:24.9108 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:24.9476 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:24.9476 INFO Get Product Type Master List Success
+2021-09-29 15:28:24.9476 INFO Get User Success :bhedo
+2021-09-29 15:28:27.6510 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:29.1772 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:29.3929 INFO Check WorkFlow List Success
+2021-09-29 15:28:29.6588 INFO Get Allotment List Success
+2021-09-29 15:28:29.6588 INFO Get Product Type Master List Success
+2021-09-29 15:28:29.6588 INFO Get User Success :bhedo
+2021-09-29 15:28:33.2498 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:33.2498 INFO Check WorkFlow List Success
+2021-09-29 15:28:33.2498 INFO Get Allotment List Success
+2021-09-29 15:28:33.2498 INFO Get Product Type Master List Success
+2021-09-29 15:28:33.2498 INFO Get User Success :bhedo
+2021-09-29 15:28:36.1929 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:37.8643 INFO Get Party Master List Success
+2021-09-29 15:28:37.8643 INFO Get Product Master List Success
+2021-09-29 15:28:37.8643 INFO Get Allotment Details Success
+2021-09-29 15:28:37.8713 INFO Get Party Master List Success
+2021-09-29 15:28:37.8713 INFO Check WorkFlow List Success
+2021-09-29 15:28:38.8217 INFO Get Product Type Master List Success
+2021-09-29 15:28:38.8266 INFO Get User Success :bhedo
+2021-09-29 15:28:53.5196 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:28:55.2917 INFO Get Party Master List Success
+2021-09-29 15:28:55.2917 INFO Get Product Master List Success
+2021-09-29 15:28:55.2917 INFO Get Allotment Details Success
+2021-09-29 15:28:55.2917 INFO Get Party Master List Success
+2021-09-29 15:28:55.2917 INFO Check WorkFlow List Success
+2021-09-29 15:31:18.8747 INFO Get Product Type Master List Success
+2021-09-29 15:31:18.8747 INFO Get User Success :bhedo
+2021-09-29 15:31:39.5751 INFO Allotement Approve Sucess:194
+2021-09-29 15:31:39.5971 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 15:31:39.5971 INFO Check WorkFlow List Success
+2021-09-29 15:31:39.5971 INFO Get Allotment List Success
+2021-09-29 15:31:39.5971 INFO Get Product Type Master List Success
+2021-09-29 15:31:39.6070 INFO Get User Success :bhedo
+2021-09-29 15:31:56.8127 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:31:56.8515 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:31:56.9415 INFO Get Product Type Master List Success
+2021-09-29 15:31:56.9415 INFO Get User Success :hodyco
+2021-09-29 15:32:00.3389 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:32:01.4895 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:32:01.7762 INFO Check WorkFlow List Success
+2021-09-29 15:32:02.2755 INFO Get Allotment List Success
+2021-09-29 15:32:02.6039 INFO Get Product Type Master List Success
+2021-09-29 15:32:02.6039 INFO Get User Success :hodyco
+2021-09-29 15:32:07.1210 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:32:08.5592 INFO Get Party Master List Success
+2021-09-29 15:32:08.5592 INFO Get Product Master List Success
+2021-09-29 15:32:08.5592 INFO Get Allotment Details Success
+2021-09-29 15:32:08.5592 INFO Get Party Master List Success
+2021-09-29 15:32:08.5592 INFO Check WorkFlow List Success
+2021-09-29 15:32:09.4163 INFO Get Product Type Master List Success
+2021-09-29 15:32:09.4213 INFO Get User Success :hodyco
+2021-09-29 15:32:32.4680 INFO Allotement Approve Sucess:194
+2021-09-29 15:32:32.4880 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:32:33.0346 INFO Check WorkFlow List Success
+2021-09-29 15:32:33.8367 INFO Get Allotment List Success
+2021-09-29 15:32:34.0754 INFO Get Product Type Master List Success
+2021-09-29 15:32:34.0754 INFO Get User Success :hodyco
+2021-09-29 15:32:44.0957 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:32:44.0957 INFO Check WorkFlow List Success
+2021-09-29 15:32:44.0957 INFO Get Allotment List Success
+2021-09-29 15:32:44.0957 INFO Get Product Type Master List Success
+2021-09-29 15:32:44.1067 INFO Get User Success :hodyco
+2021-09-29 15:32:54.8849 INFO Get User Success :101-Commissioner
+2021-09-29 15:32:54.9268 INFO Get User Success :101-Commissioner
+2021-09-29 15:32:55.0060 INFO Get Product Type Master List Success
+2021-09-29 15:32:55.0060 INFO Get User Success :com
+2021-09-29 15:32:58.4748 INFO Get User Success :101-Commissioner
+2021-09-29 15:32:59.7024 INFO Get User Success :101-Commissioner
+2021-09-29 15:32:59.9342 INFO Check WorkFlow List Success
+2021-09-29 15:33:00.7096 INFO Get Allotment List Success
+2021-09-29 15:33:00.7096 INFO Get Product Type Master List Success
+2021-09-29 15:33:00.7156 INFO Get User Success :com
+2021-09-29 15:33:03.9344 INFO Get User Success :101-Commissioner
+2021-09-29 15:33:25.4655 INFO Get Party Master List Success
+2021-09-29 15:33:25.4655 INFO Get Product Master List Success
+2021-09-29 15:33:25.4655 INFO Get Allotment Details Success
+2021-09-29 15:33:25.4655 INFO Get Party Master List Success
+2021-09-29 15:33:25.4655 INFO Check WorkFlow List Success
+2021-09-29 15:33:26.1333 INFO Get Product Type Master List Success
+2021-09-29 15:33:26.1373 INFO Get User Success :com
+2021-09-29 15:33:35.0173 INFO Allotement Approve Sucess:194
+2021-09-29 15:33:35.0408 INFO Get User Success :101-Commissioner
+2021-09-29 15:33:36.4159 INFO Check WorkFlow List Success
+2021-09-29 15:33:37.5491 INFO Get Allotment List Success
+2021-09-29 15:33:37.5491 INFO Get Product Type Master List Success
+2021-09-29 15:33:37.5491 INFO Get User Success :com
+2021-09-29 15:33:51.3062 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:33:51.3412 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:33:51.4200 INFO Get Product Type Master List Success
+2021-09-29 15:33:51.4200 INFO Get User Success :hodyco
+2021-09-29 15:33:54.4927 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:33:55.6676 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:33:55.8966 INFO Check WorkFlow List Success
+2021-09-29 15:33:56.4362 INFO Get Allotment List Success
+2021-09-29 15:33:56.8415 INFO Get Product Type Master List Success
+2021-09-29 15:33:56.8415 INFO Get User Success :hodyco
+2021-09-29 15:33:58.6994 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:33:58.6994 INFO Check WorkFlow List Success
+2021-09-29 15:33:58.6994 INFO Get Allotment List Success
+2021-09-29 15:33:58.6994 INFO Get Product Type Master List Success
+2021-09-29 15:33:58.6994 INFO Get User Success :hodyco
+2021-09-29 15:34:01.7426 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:34:03.1970 INFO Get Party Master List Success
+2021-09-29 15:34:03.1990 INFO Get Product Master List Success
+2021-09-29 15:34:03.1990 INFO Get Allotment Details Success
+2021-09-29 15:34:03.1990 INFO Get Party Master List Success
+2021-09-29 15:34:03.1990 INFO Check WorkFlow List Success
+2021-09-29 15:34:04.0736 INFO Get Product Type Master List Success
+2021-09-29 15:34:04.0736 INFO Get User Success :hodyco
+2021-09-29 15:34:09.3536 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:34:09.3546 INFO Check WorkFlow List Success
+2021-09-29 15:34:09.3546 INFO Get Allotment List Success
+2021-09-29 15:34:09.3546 INFO Get Product Type Master List Success
+2021-09-29 15:34:09.3546 INFO Get User Success :hodyco
+2021-09-29 15:34:12.8226 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:34:12.8226 INFO Check WorkFlow List Success
+2021-09-29 15:34:12.8226 INFO Get Allotment List Success
+2021-09-29 15:34:12.8226 INFO Get Product Type Master List Success
+2021-09-29 15:34:12.8226 INFO Get User Success :hodyco
+2021-09-29 15:34:15.8468 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:34:18.6350 INFO Get Party Master List Success
+2021-09-29 15:34:18.6470 INFO Get Product Master List Success
+2021-09-29 15:34:18.6470 INFO Get Allotment Details Success
+2021-09-29 15:34:18.6520 INFO Get Party Master List Success
+2021-09-29 15:34:18.6520 INFO Check WorkFlow List Success
+2021-09-29 15:37:28.0977 INFO Get Product Type Master List Success
+2021-09-29 15:37:28.0977 INFO Get User Success :hodyco
+2021-09-29 15:37:48.8685 INFO Allotement Approve Sucess:194
+2021-09-29 15:37:48.8885 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:37:48.8885 INFO Check WorkFlow List Success
+2021-09-29 15:37:48.8885 INFO Get Allotment List Success
+2021-09-29 15:37:48.8885 INFO Get Product Type Master List Success
+2021-09-29 15:37:48.8885 INFO Get User Success :hodyco
+2021-09-29 15:38:02.3223 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:02.3590 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:02.4378 INFO Get Product Type Master List Success
+2021-09-29 15:38:02.4378 INFO Get User Success :com
+2021-09-29 15:38:05.2662 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:06.2695 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:06.4945 INFO Check WorkFlow List Success
+2021-09-29 15:38:07.2052 INFO Get Allotment List Success
+2021-09-29 15:38:07.2052 INFO Get Product Type Master List Success
+2021-09-29 15:38:07.2052 INFO Get User Success :com
+2021-09-29 15:38:17.8024 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:18.8836 INFO Get Party Master List Success
+2021-09-29 15:38:18.8856 INFO Get Product Master List Success
+2021-09-29 15:38:18.8856 INFO Get Allotment Details Success
+2021-09-29 15:38:18.8856 INFO Get Party Master List Success
+2021-09-29 15:38:18.9115 INFO Check WorkFlow List Success
+2021-09-29 15:38:19.7941 INFO Get Product Type Master List Success
+2021-09-29 15:38:19.7941 INFO Get User Success :com
+2021-09-29 15:38:25.0730 INFO Allotement Approve Sucess:120
+2021-09-29 15:38:25.0952 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:26.6099 INFO Check WorkFlow List Success
+2021-09-29 15:38:27.3714 INFO Get Allotment List Success
+2021-09-29 15:38:27.3714 INFO Get Product Type Master List Success
+2021-09-29 15:38:27.3714 INFO Get User Success :com
+2021-09-29 15:38:29.5593 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:29.5593 INFO Check WorkFlow List Success
+2021-09-29 15:38:29.5593 INFO Get Allotment List Success
+2021-09-29 15:38:29.5593 INFO Get Product Type Master List Success
+2021-09-29 15:38:29.5593 INFO Get User Success :com
+2021-09-29 15:38:32.5203 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:33.7316 INFO Get Party Master List Success
+2021-09-29 15:38:33.7316 INFO Get Product Master List Success
+2021-09-29 15:38:33.7316 INFO Get Allotment Details Success
+2021-09-29 15:38:33.7316 INFO Get Party Master List Success
+2021-09-29 15:38:33.7316 INFO Check WorkFlow List Success
+2021-09-29 15:38:35.5216 INFO Get Product Type Master List Success
+2021-09-29 15:38:35.5216 INFO Get User Success :com
+2021-09-29 15:38:50.1745 INFO Get User Success :101-Commissioner
+2021-09-29 15:38:57.1455 INFO Get Party Master List Success
+2021-09-29 15:38:57.1455 INFO Get Product Master List Success
+2021-09-29 15:38:57.1455 INFO Get Allotment Details Success
+2021-09-29 15:38:57.1515 INFO Get Party Master List Success
+2021-09-29 15:38:57.1515 INFO Check WorkFlow List Success
+2021-09-29 15:40:27.1123 INFO Get Product Type Master List Success
+2021-09-29 15:40:27.1123 INFO Get User Success :com
+2021-09-29 15:40:42.7736 INFO Get User Success :101-Commissioner
+2021-09-29 15:40:42.7736 INFO Check WorkFlow List Success
+2021-09-29 15:40:42.7776 INFO Get Allotment List Success
+2021-09-29 15:40:42.7776 INFO Get Product Type Master List Success
+2021-09-29 15:40:42.7776 INFO Get User Success :com
+2021-09-29 15:40:50.3932 INFO Get User Success :101-Commissioner
+2021-09-29 15:40:51.6406 INFO Check WorkFlow List Success
+2021-09-29 15:40:52.6130 INFO Get Allotment List Success
+2021-09-29 15:40:52.6130 INFO Get Product Type Master List Success
+2021-09-29 15:40:52.6130 INFO Get User Success :com
+2021-09-29 15:40:55.2894 INFO Get User Success :101-Commissioner
+2021-09-29 15:40:56.6181 INFO Get Party Master List Success
+2021-09-29 15:40:56.6200 INFO Get Product Master List Success
+2021-09-29 15:40:56.6200 INFO Get Allotment Details Success
+2021-09-29 15:40:56.6200 INFO Get Party Master List Success
+2021-09-29 15:40:56.6200 INFO Check WorkFlow List Success
+2021-09-29 15:40:57.6497 INFO Get Product Type Master List Success
+2021-09-29 15:40:57.6546 INFO Get User Success :com
+2021-09-29 15:41:04.8903 INFO Allotement Approve Sucess:194
+2021-09-29 15:41:04.9195 INFO Get User Success :101-Commissioner
+2021-09-29 15:41:05.2351 INFO Check WorkFlow List Success
+2021-09-29 15:41:06.5962 INFO Get Allotment List Success
+2021-09-29 15:41:06.5962 INFO Get Product Type Master List Success
+2021-09-29 15:41:06.5962 INFO Get User Success :com
+2021-09-29 15:41:08.7479 INFO Get User Success :101-Commissioner
+2021-09-29 15:41:08.7479 INFO Check WorkFlow List Success
+2021-09-29 15:41:10.4230 INFO Get Allotment List Success
+2021-09-29 15:41:26.6566 INFO Get Product Type Master List Success
+2021-09-29 15:41:26.6566 INFO Get User Success :com
+2021-09-29 15:41:33.1898 INFO Get User Success :101-Commissioner
+2021-09-29 15:41:35.0292 INFO Get Party Master List Success
+2021-09-29 15:41:35.0292 INFO Get Product Master List Success
+2021-09-29 15:41:35.0292 INFO Get Allotment Details Success
+2021-09-29 15:41:35.0292 INFO Get Party Master List Success
+2021-09-29 15:41:35.0292 INFO Check WorkFlow List Success
+2021-09-29 15:41:36.0815 INFO Get Product Type Master List Success
+2021-09-29 15:41:36.0815 INFO Get User Success :com
+2021-09-29 15:41:41.0022 INFO Get User Success :101-Commissioner
+2021-09-29 15:41:41.0022 INFO Check WorkFlow List Success
+2021-09-29 15:41:42.4616 INFO Get Allotment List Success
+2021-09-29 15:41:47.4338 INFO Get Product Type Master List Success
+2021-09-29 15:41:47.4338 INFO Get User Success :com
+2021-09-29 15:41:57.7853 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:41:57.8229 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:41:57.9014 INFO Get Product Type Master List Success
+2021-09-29 15:41:57.9014 INFO Get User Success :hodyco
+2021-09-29 15:42:00.8133 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:01.9988 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:02.2489 INFO Check WorkFlow List Success
+2021-09-29 15:42:02.7519 INFO Get Allotment List Success
+2021-09-29 15:42:02.9989 INFO Get Product Type Master List Success
+2021-09-29 15:42:02.9989 INFO Get User Success :hodyco
+2021-09-29 15:42:05.3188 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:05.3188 INFO Check WorkFlow List Success
+2021-09-29 15:42:06.8450 INFO Get Allotment List Success
+2021-09-29 15:42:07.5878 INFO Get Product Type Master List Success
+2021-09-29 15:42:07.5928 INFO Get User Success :hodyco
+2021-09-29 15:42:10.0484 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:17.3972 INFO Get Party Master List Success
+2021-09-29 15:42:17.3972 INFO Get Product Master List Success
+2021-09-29 15:42:17.3972 INFO Get Allotment Details Success
+2021-09-29 15:42:17.4031 INFO Get Party Master List Success
+2021-09-29 15:42:17.4031 INFO Check WorkFlow List Success
+2021-09-29 15:42:18.2585 INFO Get Product Type Master List Success
+2021-09-29 15:42:18.2625 INFO Get User Success :hodyco
+2021-09-29 15:42:21.8790 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:21.8790 INFO Check WorkFlow List Success
+2021-09-29 15:42:23.3565 INFO Get Allotment List Success
+2021-09-29 15:42:24.0406 INFO Get Product Type Master List Success
+2021-09-29 15:42:24.0456 INFO Get User Success :hodyco
+2021-09-29 15:42:26.1735 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:26.1861 INFO Allotement Issued Sucess:194
+2021-09-29 15:42:26.2066 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 15:42:26.2066 INFO Check WorkFlow List Success
+2021-09-29 15:42:26.2066 INFO Get Allotment List Success
+2021-09-29 15:42:26.2066 INFO Get Product Type Master List Success
+2021-09-29 15:42:26.2176 INFO Get User Success :hodyco
+2021-09-29 15:57:46.7327 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:57:46.9397 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:57:47.0661 INFO Get Product Type Master List Success
+2021-09-29 15:57:47.1322 INFO Get User Success :bdbl_disbo
+2021-09-29 15:57:50.5059 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:57:55.3273 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:57:55.8417 INFO Get Product Type Master List Success
+2021-09-29 15:57:55.9056 INFO Get User Success :bdbl_disbo
+2021-09-29 15:58:05.5055 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:58:06.5974 INFO Get VAT Master List Success
+2021-09-29 15:58:06.6697 INFO Get Product Type Master List Success
+2021-09-29 15:58:06.7324 INFO Get User Success :bdbl_disbo
+2021-09-29 15:59:23.9279 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:59:24.8673 INFO Get VAT Master List Success
+2021-09-29 15:59:25.3979 INFO Get Product Type Master List Success
+2021-09-29 15:59:25.5152 INFO Get User Success :bdbl_disbo
+2021-09-29 15:59:39.7563 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:59:41.3665 INFO Get VAT Master List Success
+2021-09-29 15:59:41.4298 INFO Get Product Type Master List Success
+2021-09-29 15:59:41.4927 INFO Get User Success :bdbl_disbo
+2021-09-29 15:59:51.0419 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 15:59:51.1012 INFO Get VAT Master List Success
+2021-09-29 15:59:51.6354 INFO Get Product Type Master List Success
+2021-09-29 15:59:51.6978 INFO Get User Success :bdbl_disbo
+2021-09-29 16:00:01.4766 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:00:03.0039 INFO Get VAT Master List Success
+2021-09-29 16:00:03.0650 INFO Get Product Type Master List Success
+2021-09-29 16:00:03.1280 INFO Get User Success :bdbl_disbo
+2021-09-29 16:00:24.1268 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:00:24.1872 INFO Get VAT Master List Success
+2021-09-29 16:00:24.7101 INFO Get Product Type Master List Success
+2021-09-29 16:00:24.7728 INFO Get User Success :bdbl_disbo
+2021-09-29 16:00:28.0105 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:00:29.2498 INFO Get VAT Master List Success
+2021-09-29 16:00:29.3095 INFO Get Product Type Master List Success
+2021-09-29 16:00:29.3720 INFO Get User Success :bdbl_disbo
+2021-09-29 16:00:34.1947 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:00:34.2539 INFO Get VAT Master List Success
+2021-09-29 16:00:34.7175 INFO Get Product Type Master List Success
+2021-09-29 16:00:34.7921 INFO Get User Success :bdbl_disbo
+2021-09-29 16:01:14.2105 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:01:16.9993 INFO Get VAT Master List Success
+2021-09-29 16:01:17.0612 INFO Get Product Type Master List Success
+2021-09-29 16:01:17.1258 INFO Get User Success :bdbl_disbo
+2021-09-29 16:01:20.5213 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:01:20.5807 INFO Get VAT Master List Success
+2021-09-29 16:01:21.2932 INFO Get Product Type Master List Success
+2021-09-29 16:01:21.4108 INFO Get User Success :bdbl_disbo
+2021-09-29 16:02:07.2866 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:02:09.4690 INFO Get VAT Master List Success
+2021-09-29 16:02:09.5339 INFO Get Product Type Master List Success
+2021-09-29 16:02:09.5983 INFO Get User Success :bdbl_disbo
+2021-09-29 16:02:39.5556 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:02:39.6170 INFO Get VAT Master List Success
+2021-09-29 16:02:40.0902 INFO Get Product Type Master List Success
+2021-09-29 16:02:40.1621 INFO Get User Success :bdbl_disbo
+2021-09-29 16:02:53.7379 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:02:55.3985 INFO Get VAT Master List Success
+2021-09-29 16:02:55.4573 INFO Get Product Type Master List Success
+2021-09-29 16:02:55.5200 INFO Get User Success :bdbl_disbo
+2021-09-29 16:03:04.5841 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:03:04.6449 INFO Get VAT Master List Success
+2021-09-29 16:03:05.4854 INFO Get Product Type Master List Success
+2021-09-29 16:03:05.5490 INFO Get User Success :bdbl_disbo
+2021-09-29 16:03:38.8578 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:03:40.3015 INFO Get VAT Master List Success
+2021-09-29 16:03:40.3684 INFO Get Product Type Master List Success
+2021-09-29 16:03:40.4316 INFO Get User Success :bdbl_disbo
+2021-09-29 16:03:49.1379 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:03:49.1991 INFO Get VAT Master List Success
+2021-09-29 16:03:49.7156 INFO Get Product Type Master List Success
+2021-09-29 16:03:49.7784 INFO Get User Success :bdbl_disbo
+2021-09-29 16:04:04.6975 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:04:05.7431 INFO Get VAT Master List Success
+2021-09-29 16:04:05.8038 INFO Get Product Type Master List Success
+2021-09-29 16:04:05.8657 INFO Get User Success :bdbl_disbo
+2021-09-29 16:04:10.5214 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:04:10.5861 INFO Get VAT Master List Success
+2021-09-29 16:04:11.4284 INFO Get Product Type Master List Success
+2021-09-29 16:04:11.4898 INFO Get User Success :bdbl_disbo
+2021-09-29 16:04:20.2350 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:04:21.2705 INFO Get VAT Master List Success
+2021-09-29 16:04:21.3290 INFO Get Product Type Master List Success
+2021-09-29 16:04:21.3908 INFO Get User Success :bdbl_disbo
+2021-09-29 16:04:43.9155 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:04:44.0239 INFO Get VAT Master List Success
+2021-09-29 16:04:44.5467 INFO Get Product Type Master List Success
+2021-09-29 16:04:44.9159 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:00.3040 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:01.2673 INFO Get VAT Master List Success
+2021-09-29 16:05:01.3251 INFO Get Product Type Master List Success
+2021-09-29 16:05:01.3871 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:03.4985 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:03.5602 INFO Get VAT Master List Success
+2021-09-29 16:05:04.0836 INFO Get Product Type Master List Success
+2021-09-29 16:05:04.1539 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:08.0634 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:09.0423 INFO Get VAT Master List Success
+2021-09-29 16:05:09.1023 INFO Get Product Type Master List Success
+2021-09-29 16:05:09.1653 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:10.6161 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:10.6761 INFO Get VAT Master List Success
+2021-09-29 16:05:11.1953 INFO Get Product Type Master List Success
+2021-09-29 16:05:11.5658 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:16.3869 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:18.2109 INFO Get VAT Master List Success
+2021-09-29 16:05:18.2701 INFO Get Product Type Master List Success
+2021-09-29 16:05:18.3332 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:20.3238 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:20.4069 INFO Get VAT Master List Success
+2021-09-29 16:05:21.1844 INFO Get Product Type Master List Success
+2021-09-29 16:05:21.6207 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:24.0882 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:25.1275 INFO Get VAT Master List Success
+2021-09-29 16:05:25.1880 INFO Get Product Type Master List Success
+2021-09-29 16:05:25.2488 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:33.0367 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:33.0985 INFO Get VAT Master List Success
+2021-09-29 16:05:33.5637 INFO Get Product Type Master List Success
+2021-09-29 16:05:33.6271 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:49.2682 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:50.1809 INFO Get VAT Master List Success
+2021-09-29 16:05:50.2401 INFO Get Product Type Master List Success
+2021-09-29 16:05:50.3032 INFO Get User Success :bdbl_disbo
+2021-09-29 16:05:52.9181 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:05:52.9785 INFO Get VAT Master List Success
+2021-09-29 16:05:53.4627 INFO Get Product Type Master List Success
+2021-09-29 16:05:53.5365 INFO Get User Success :bdbl_disbo
+2021-09-29 16:06:01.3084 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:06:04.3805 INFO Get VAT Master List Success
+2021-09-29 16:06:04.4417 INFO Get Product Type Master List Success
+2021-09-29 16:06:04.5051 INFO Get User Success :bdbl_disbo
+2021-09-29 16:06:13.5396 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:06:13.5995 INFO Get VAT Master List Success
+2021-09-29 16:06:14.4262 INFO Get Product Type Master List Success
+2021-09-29 16:06:14.4883 INFO Get User Success :bdbl_disbo
+2021-09-29 16:06:24.8086 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:06:26.1596 INFO Get VAT Master List Success
+2021-09-29 16:06:26.2207 INFO Get Product Type Master List Success
+2021-09-29 16:06:26.2849 INFO Get User Success :bdbl_disbo
+2021-09-29 16:06:33.5213 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:06:33.5813 INFO Get VAT Master List Success
+2021-09-29 16:06:34.1071 INFO Get Product Type Master List Success
+2021-09-29 16:06:34.2226 INFO Get User Success :bdbl_disbo
+2021-09-29 16:06:43.9697 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:06:45.1567 INFO Get VAT Master List Success
+2021-09-29 16:06:45.2153 INFO Get Product Type Master List Success
+2021-09-29 16:06:45.2791 INFO Get User Success :bdbl_disbo
+2021-09-29 16:09:11.8851 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:09:11.9624 INFO Get Product Type Master List Success
+2021-09-29 16:09:12.0235 INFO Get User Success :bdbl_disbo
+2021-09-29 16:09:25.3329 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:09:25.3925 INFO Get VAT Master List Success
+2021-09-29 16:09:25.6403 INFO Get Product Type Master List Success
+2021-09-29 16:09:25.7028 INFO Get User Success :bdbl_disbo
+2021-09-29 16:09:33.0003 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:09:33.0624 INFO Get Product Type Master List Success
+2021-09-29 16:09:33.1255 INFO Get User Success :bdbl_disbo
+2021-09-29 16:09:34.7824 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:09:36.3182 INFO Get Product Type Master List Success
+2021-09-29 16:09:36.3814 INFO Get User Success :bdbl_disbo
+2021-09-29 16:09:44.3038 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:09:44.6718 INFO Get VAT Master List Success
+2021-09-29 16:09:53.2319 INFO Get Product Type Master List Success
+2021-09-29 16:09:53.2948 INFO Get User Success :bdbl_disbo
+2021-09-29 16:10:32.9789 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:10:33.1124 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:10:33.2275 INFO Get Product Type Master List Success
+2021-09-29 16:10:33.2892 INFO Get User Success :bdbl_disbo
+2021-09-29 16:10:40.5830 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:10:43.5046 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:10:43.8395 INFO Get Product Type Master List Success
+2021-09-29 16:10:43.9023 INFO Get User Success :bdbl_disbo
+2021-09-29 16:10:48.4388 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:10:49.1599 INFO Get VAT Master List Success
+2021-09-29 16:10:49.2215 INFO Get Product Type Master List Success
+2021-09-29 16:10:49.2895 INFO Get User Success :bdbl_disbo
+2021-09-29 16:10:53.0897 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:10:53.1496 INFO Get VAT Master List Success
+2021-09-29 16:10:55.6776 INFO Get Product Type Master List Success
+2021-09-29 16:10:55.7397 INFO Get User Success :bdbl_disbo
+2021-09-29 16:11:04.8740 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:11:06.3368 INFO Get VAT Master List Success
+2021-09-29 16:11:06.3962 INFO Get Product Type Master List Success
+2021-09-29 16:11:06.4579 INFO Get User Success :bdbl_disbo
+2021-09-29 16:11:09.4088 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:11:09.4690 INFO Get VAT Master List Success
+2021-09-29 16:11:20.7468 INFO Get Product Type Master List Success
+2021-09-29 16:11:20.8232 INFO Get User Success :bdbl_disbo
+2021-09-29 16:12:03.3780 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:12:04.9253 INFO Get VAT Master List Success
+2021-09-29 16:12:04.9871 INFO Get Product Type Master List Success
+2021-09-29 16:12:05.0508 INFO Get User Success :bdbl_disbo
+2021-09-29 16:12:11.7812 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:12:11.8426 INFO Get VAT Master List Success
+2021-09-29 16:12:13.9783 INFO Get Product Type Master List Success
+2021-09-29 16:12:14.0407 INFO Get User Success :bdbl_disbo
+2021-09-29 16:12:19.5862 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2021-09-29 16:12:20.7316 INFO Get VAT Master List Success
+2021-09-29 16:12:20.7927 INFO Get Product Type Master List Success
+2021-09-29 16:12:20.8558 INFO Get User Success :bdbl_disbo
+2021-09-29 16:12:30.5559 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:12:30.7021 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:12:30.8153 INFO Get Product Type Master List Success
+2021-09-29 16:12:30.8768 INFO Get User Success :bdbl_dis
+2021-09-29 16:12:35.5309 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:12:39.0160 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:12:39.4744 INFO Get Product Type Master List Success
+2021-09-29 16:12:39.8464 INFO Get User Success :bdbl_dis
+2021-09-29 16:12:41.8796 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:12:43.3956 INFO Get VAT Master List Success
+2021-09-29 16:12:43.4582 INFO Get Product Type Master List Success
+2021-09-29 16:12:43.5213 INFO Get User Success :bdbl_dis
+2021-09-29 16:12:45.3507 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:12:45.4100 INFO Get VAT Master List Success
+2021-09-29 16:12:45.5251 INFO Get Product Type Master List Success
+2021-09-29 16:12:45.5879 INFO Get User Success :bdbl_dis
+2021-09-29 16:15:24.3584 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:15:25.5501 INFO Get VAT Master List Success
+2021-09-29 16:15:25.6087 INFO Get Product Type Master List Success
+2021-09-29 16:15:25.6723 INFO Get User Success :bdbl_dis
+2021-09-29 16:15:31.9214 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:15:31.9822 INFO Get VAT Master List Success
+2021-09-29 16:24:31.1610 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:24:31.4796 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:24:31.7361 INFO Get Product Type Master List Success
+2021-09-29 16:24:31.8538 INFO Get User Success :bdbl_dis
+2021-09-29 16:24:50.1178 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:24:54.2713 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:24:54.8035 INFO Get Product Type Master List Success
+2021-09-29 16:24:54.8647 INFO Get User Success :bdbl_dis
+2021-09-29 16:25:29.2322 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:25:30.7211 INFO Get VAT Master List Success
+2021-09-29 16:25:30.7953 INFO Get Product Type Master List Success
+2021-09-29 16:25:30.8580 INFO Get User Success :bdbl_dis
+2021-09-29 16:25:35.8425 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-09-29 16:25:35.9701 INFO Get VAT Master List Success
+2021-09-29 16:33:17.6899 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:33:17.7913 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:33:17.8171 INFO Get Product Type Master List Success
+2021-09-29 16:33:17.8258 INFO Get User Success :bhedo
+2021-09-29 16:33:24.4686 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:33:25.6439 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:33:25.9010 INFO Check WorkFlow List Success
+2021-09-29 16:33:26.0919 INFO Get Allotment List Success
+2021-09-29 16:33:26.1118 INFO Get Product Type Master List Success
+2021-09-29 16:33:26.1118 INFO Get User Success :bhedo
+2021-09-29 16:33:33.8059 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:33:33.8059 INFO Check WorkFlow List Success
+2021-09-29 16:33:33.8099 INFO Get Allotment List Success
+2021-09-29 16:33:33.8099 INFO Get Product Type Master List Success
+2021-09-29 16:33:33.8099 INFO Get User Success :bhedo
+2021-09-29 16:33:34.7733 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:33:34.7733 INFO Check WorkFlow List Success
+2021-09-29 16:33:36.2032 INFO Get Allotment List Success
+2021-09-29 16:33:36.4875 INFO Get Product Type Master List Success
+2021-09-29 16:33:36.4875 INFO Get User Success :bhedo
+2021-09-29 16:33:45.5276 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:33:45.5626 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:33:45.5856 INFO Get Product Type Master List Success
+2021-09-29 16:33:45.5906 INFO Get User Success :mtp1
+2021-09-29 16:33:48.6086 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:33:49.9287 INFO Get Product Type Master List Success
+2021-09-29 16:33:49.9346 INFO Get User Success :mtp1
+2021-09-29 16:33:53.3566 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:33:53.3566 INFO Get Allotment List Success
+2021-09-29 16:33:53.3826 INFO Get Product Type Master List Success
+2021-09-29 16:33:53.3876 INFO Get User Success :mtp1
+2021-09-29 16:33:59.1268 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:34:00.5704 INFO Get Party Master List Success
+2021-09-29 16:34:00.5734 INFO Get Product Master List Success
+2021-09-29 16:34:00.5734 INFO Get Allotment Details Success
+2021-09-29 16:34:00.5888 INFO Get Party Master List Success
+2021-09-29 16:34:00.5888 INFO Check WorkFlow List Success
+2021-09-29 16:34:01.2631 INFO Get Product Type Master List Success
+2021-09-29 16:34:01.2631 INFO Get User Success :mtp1
+2021-09-29 16:34:04.7615 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:34:04.7615 INFO Get Allotment List Success
+2021-09-29 16:34:04.7615 INFO Get Product Type Master List Success
+2021-09-29 16:34:04.7615 INFO Get User Success :mtp1
+2021-09-29 16:34:16.2636 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:34:17.9134 INFO Get Party Master List Success
+2021-09-29 16:34:17.9134 INFO Get Product Master List Success
+2021-09-29 16:34:17.9134 INFO Get Product Type Master List Success
+2021-09-29 16:34:17.9194 INFO Get User Success :mtp1
+2021-09-29 16:34:31.8470 INFO Get Party Master List Success
+2021-09-29 16:34:45.9903 INFO Insert Allotment Success :-MTP
+2021-09-29 16:34:46.0148 INFO Get User Success :353-M and TP Unit
+2021-09-29 16:34:46.0148 INFO Get Allotment List Success
+2021-09-29 16:34:46.0148 INFO Get Product Type Master List Success
+2021-09-29 16:34:46.0268 INFO Get User Success :mtp1
+2021-09-29 16:34:54.1013 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:34:54.1382 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:34:54.1382 INFO Get Product Type Master List Success
+2021-09-29 16:34:54.1382 INFO Get User Success :bhedo
+2021-09-29 16:34:56.8732 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:34:57.8993 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:34:58.1320 INFO Check WorkFlow List Success
+2021-09-29 16:34:58.3550 INFO Get Allotment List Success
+2021-09-29 16:34:58.3550 INFO Get Product Type Master List Success
+2021-09-29 16:34:58.3739 INFO Get User Success :bhedo
+2021-09-29 16:35:01.1020 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:35:02.4648 INFO Get Party Master List Success
+2021-09-29 16:35:02.4648 INFO Get Product Master List Success
+2021-09-29 16:35:02.4648 INFO Get Allotment Details Success
+2021-09-29 16:35:02.4648 INFO Get Party Master List Success
+2021-09-29 16:35:02.4648 INFO Check WorkFlow List Success
+2021-09-29 16:35:03.5916 INFO Get Product Type Master List Success
+2021-09-29 16:35:03.5916 INFO Get User Success :bhedo
+2021-09-29 16:37:54.6368 INFO Allotement Approve Sucess:197
+2021-09-29 16:37:54.6597 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:37:54.8963 INFO Check WorkFlow List Success
+2021-09-29 16:37:55.0451 INFO Get Allotment List Success
+2021-09-29 16:37:55.0451 INFO Get Product Type Master List Success
+2021-09-29 16:37:55.0451 INFO Get User Success :bhedo
+2021-09-29 16:38:06.5713 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:38:06.6067 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:38:06.6067 INFO Get Product Type Master List Success
+2021-09-29 16:38:06.6067 INFO Get User Success :bhedo
+2021-09-29 16:38:12.1604 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:38:13.6563 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:38:13.8782 INFO Check WorkFlow List Success
+2021-09-29 16:38:14.1621 INFO Get Allotment List Success
+2021-09-29 16:38:14.1621 INFO Get Product Type Master List Success
+2021-09-29 16:38:14.1681 INFO Get User Success :bhedo
+2021-09-29 16:38:38.2987 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 16:38:38.3326 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 16:38:38.4177 INFO Get Product Type Master List Success
+2021-09-29 16:38:38.4177 INFO Get User Success :hodyco
+2021-09-29 16:38:41.7597 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 16:38:42.8945 INFO Get User Success :100-Deputy Commissioner
+2021-09-29 16:38:43.1259 INFO Check WorkFlow List Success
+2021-09-29 16:38:43.5736 INFO Get Allotment List Success
+2021-09-29 16:38:43.7826 INFO Get Product Type Master List Success
+2021-09-29 16:38:43.7826 INFO Get User Success :hodyco
+2021-09-29 16:39:24.8118 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:24.8477 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:24.8477 INFO Get Product Type Master List Success
+2021-09-29 16:39:24.8477 INFO Get User Success :bhedo
+2021-09-29 16:39:29.6260 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:30.8547 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:31.0931 INFO Check WorkFlow List Success
+2021-09-29 16:39:31.2822 INFO Get Allotment List Success
+2021-09-29 16:39:31.2822 INFO Get Product Type Master List Success
+2021-09-29 16:39:31.2822 INFO Get User Success :bhedo
+2021-09-29 16:39:33.0695 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:33.0695 INFO Check WorkFlow List Success
+2021-09-29 16:39:33.0735 INFO Get Allotment List Success
+2021-09-29 16:39:33.0894 INFO Get Product Type Master List Success
+2021-09-29 16:39:33.0894 INFO Get User Success :bhedo
+2021-09-29 16:39:37.9293 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:39.4245 INFO Get Party Master List Success
+2021-09-29 16:39:39.4245 INFO Get Product Master List Success
+2021-09-29 16:39:39.4245 INFO Get Allotment Details Success
+2021-09-29 16:39:39.4245 INFO Get Party Master List Success
+2021-09-29 16:39:39.4335 INFO Check WorkFlow List Success
+2021-09-29 16:39:41.4846 INFO Get Product Type Master List Success
+2021-09-29 16:39:41.5062 INFO Get User Success :bhedo
+2021-09-29 16:39:50.0702 INFO Get User Success :341-Assistant Commissioner
+2021-09-29 16:39:50.0702 INFO Check WorkFlow List Success
+2021-09-29 16:39:50.0752 INFO Get Allotment List Success
+2021-09-29 16:39:50.0752 INFO Get Product Type Master List Success
+2021-09-29 16:39:50.0752 INFO Get User Success :bhedo
+2021-09-29 16:49:21.8982 INFO Get User Success :44-Administrator
+2021-09-29 16:49:21.9332 INFO Get User Success :44-Administrator
+2021-09-29 16:49:21.9332 INFO Get Product Type Master List Success
+2021-09-29 16:49:21.9332 INFO Get User Success :Admin
+2021-09-29 16:49:37.1963 INFO Get User Success :44-Administrator
+2021-09-29 16:49:38.7927 INFO Get Product Type Master List Success
+2021-09-29 16:49:38.7927 INFO Get User Success :Admin
+2021-09-29 16:49:42.4839 INFO Get User Success :44-Administrator
+2021-09-29 16:49:42.4839 INFO Get VAT Master List Success
+2021-09-29 16:49:42.5086 INFO Get Product Type Master List Success
+2021-09-29 16:49:42.5134 INFO Get User Success :Admin
+2021-09-29 16:49:45.6914 INFO Get User Success :44-Administrator
+2021-09-29 16:49:45.7123 INFO Get Product Type Master List Success
+2021-09-29 16:49:45.7173 INFO Get User Success :Admin
+2021-09-29 16:49:47.5151 INFO Get User Success :44-Administrator
+2021-09-29 16:49:47.5450 INFO Get Product Type Master List Success
+2021-09-29 16:49:47.5450 INFO Get User Success :Admin
+2021-09-29 16:49:54.3364 INFO Get User Success :44-Administrator
+2021-09-29 16:50:02.2653 INFO Get User Success :44-Administrator
+2021-09-29 16:50:02.2784 INFO Get Product Type Master List Success
+2021-09-29 16:50:02.2784 INFO Get User Success :Admin
+2021-09-29 16:50:05.3145 INFO Get User Success :44-Administrator
+2021-09-29 16:54:23.7002 INFO Get Product Type Master List Success
+2021-09-29 16:54:23.7002 INFO Get User Success :Admin
+2021-09-29 16:54:34.5121 INFO Get User Success :44-Administrator
+2021-09-29 16:54:34.5121 INFO Get Product Type Master List Success
+2021-09-29 16:54:34.5300 INFO Get User Success :Admin
+2021-09-29 16:54:36.0367 INFO Get User Success :44-Administrator
+2021-09-29 16:54:40.3376 INFO Get Product Type Master List Success
+2021-09-29 16:54:40.3426 INFO Get User Success :Admin

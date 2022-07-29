@@ -1,0 +1,77 @@
+2021-06-12 11:58:16.6053 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 11:58:17.2613 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 11:58:18.4062 INFO Get User Success :harinagar_dis
+2021-06-12 11:58:34.3604 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 11:58:35.2783 INFO Get User Success :harinagar_dis
+2021-06-12 11:58:41.3329 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 11:58:41.6449 INFO Get User Success :harinagar_dis
+2021-06-12 11:59:00.9998 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 11:59:01.2908 INFO Get User Success :harinagar_dis
+2021-06-12 12:00:18.8792 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 12:00:19.1592 INFO Get VAT Master List Success
+2021-06-12 12:00:19.3552 INFO Get User Success :harinagar_dis
+2021-06-12 12:01:17.6403 INFO Insert Party Master Success :HDDDEN0013-HDDDEN0014
+2021-06-12 12:01:17.8633 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 12:01:18.1483 INFO Get User Success :harinagar_dis
+2021-06-12 12:01:24.2600 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 12:01:24.3629 INFO Get VAT Master List Success
+2021-06-12 12:01:24.7940 INFO Get User Success :harinagar_dis
+2021-06-12 12:03:37.2882 INFO Update vat_transfer Success :HDDDEN0013-HDDDEN0014-1
+2021-06-12 12:03:37.4692 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 12:03:37.7472 INFO Get User Success :harinagar_dis
+2021-06-12 12:03:43.7469 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 12:03:43.8358 INFO Get VAT Master List Success
+2021-06-12 12:03:44.1959 INFO Get User Success :harinagar_dis
+2021-06-12 12:04:35.7438 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-12 12:04:36.0048 INFO Get User Success :harinagar_dis
+2021-06-12 12:23:57.3882 INFO Get User Success :44-Administrator
+2021-06-12 12:24:14.1991 INFO Get User Success :44-Administrator
+2021-06-12 12:24:24.6715 INFO Get User Success :44-Administrator
+2021-06-12 12:24:30.4378 INFO Get User Success :101-Commissioner
+2021-06-12 12:24:30.7368 INFO Get User Success :101-Commissioner
+2021-06-12 12:24:32.1418 INFO Get User Success :com
+2021-06-12 16:32:54.8422 INFO Get User Success :101-Commissioner
+2021-06-12 16:32:55.3651 INFO Get User Success :101-Commissioner
+2021-06-12 16:32:56.9180 INFO Get User Success :com
+2021-06-12 16:33:17.0458 INFO Get User Success :101-Commissioner
+2021-06-12 16:33:22.0146 INFO Get User Success :101-Commissioner
+2021-06-12 16:33:22.1216 INFO Check WorkFlow List Success
+2021-06-12 16:33:22.2465 INFO Get Allotment List Success
+2021-06-12 16:33:22.4025 INFO Get User Success :com
+2021-06-12 16:33:25.2524 INFO Get User Success :101-Commissioner
+2021-06-12 16:34:23.6920 INFO Check WorkFlow List Success
+2021-06-12 16:43:26.6955 INFO Get Allotment List Success :Connection is not open
+2021-06-12 16:43:27.0404 INFO Get User Success :com
+2021-06-12 16:47:41.7407 INFO Get User Success :101-Commissioner
+2021-06-12 16:47:42.2356 INFO Get User Success :101-Commissioner
+2021-06-12 16:47:43.4066 INFO Get User Success :com
+2021-06-12 16:49:08.0237 INFO Get User Success :101-Commissioner
+2021-06-12 16:49:31.6303 INFO Get User Success :101-Commissioner
+2021-06-12 16:49:31.7433 INFO Check WorkFlow List Success
+2021-06-12 16:49:31.9113 INFO Get Allotment List Success
+2021-06-12 16:49:32.0033 INFO Get User Success :com
+2021-06-12 16:58:02.2657 INFO Get User Success :101-Commissioner
+2021-06-12 16:58:06.2134 INFO Check WorkFlow List Success
+2021-06-12 16:58:06.3115 INFO Get Allotment List Success
+2021-06-12 16:58:06.4204 INFO Get User Success :com
+2021-06-12 16:58:09.7012 INFO Get User Success :101-Commissioner
+2021-06-12 16:58:09.7772 INFO Check WorkFlow List Success
+2021-06-12 16:58:09.8622 INFO Get Allotment List Success
+2021-06-12 16:58:10.0922 INFO Get User Success :com
+2021-06-12 16:58:18.7527 INFO Get User Success :101-Commissioner
+2021-06-12 16:58:21.2586 INFO Check WorkFlow List Success
+2021-06-12 16:58:21.3406 INFO Get Allotment List Success
+2021-06-12 16:58:21.4456 INFO Get User Success :com
+2021-06-12 16:58:24.5414 INFO Get User Success :101-Commissioner
+2021-06-12 16:58:24.6334 INFO Check WorkFlow List Success
+2021-06-12 16:58:24.7274 INFO Get Allotment List Success
+2021-06-12 16:58:24.8133 INFO Get User Success :com
+2021-06-12 17:01:33.4535 INFO Get User Success :350-Globus Spirits Limited
+2021-06-12 17:01:33.8394 INFO Get User Success :350-Globus Spirits Limited
+2021-06-12 17:01:34.0784 INFO Get User Success :globus_dis
+2021-06-12 17:01:38.4981 INFO Get User Success :350-Globus Spirits Limited
+2021-06-12 17:01:41.4679 INFO Get User Success :globus_dis
+2021-06-12 17:01:45.6917 INFO Get User Success :350-Globus Spirits Limited
+2021-06-12 17:01:46.0087 INFO Get User Success :350-Globus Spirits Limited
+2021-06-12 17:01:49.4865 INFO Get User Success :globus_dis
+2021-06-12 17:01:59.1810 INFO Get User Success :350-Globus Spirits Limited

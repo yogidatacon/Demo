@@ -1,0 +1,734 @@
+2021-02-08 12:34:24.1604 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 12:34:25.5297 INFO Get User Success :harinagar_dis
+2021-02-08 12:34:28.5357 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 12:34:29.4385 INFO Get User Success :harinagar_dis
+2021-02-08 12:35:06.9169 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 12:36:09.9232 INFO Get User Success :harinagar_dis
+2021-02-08 12:36:56.6940 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:36:57.3339 INFO Get User Success :harinagar_sgr
+2021-02-08 12:37:01.6164 INFO Sugarcanepurchase Get List Success
+2021-02-08 12:37:01.7527 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:37:01.9165 INFO Get User Success :harinagar_sgr
+2021-02-08 12:37:03.1731 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:37:03.7886 INFO MIR GetList Sucess
+2021-02-08 12:37:03.9578 INFO Get User Success :harinagar_sgr
+2021-02-08 12:37:12.4326 INFO MIR GetList Sucess
+2021-02-08 12:37:21.9023 INFO MIR GetList Sucess
+2021-02-08 12:38:27.8972 INFO MIR GetList Sucess
+2021-02-08 12:39:02.3435 INFO MIR GetList Sucess
+2021-02-08 12:39:24.7429 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 12:39:25.2196 INFO Get User Success :harinagar_dis
+2021-02-08 12:39:27.1536 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 12:39:32.8375 INFO Get User Success :harinagar_dis
+2021-02-08 12:40:50.2676 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:40:50.7143 INFO Get User Success :harinagar_sgr
+2021-02-08 12:40:53.3406 INFO Sugarcanepurchase Get List Success
+2021-02-08 12:40:54.0694 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:40:54.2530 INFO Get User Success :harinagar_sgr
+2021-02-08 12:40:55.3405 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:40:55.7535 INFO MIR GetList Sucess
+2021-02-08 12:40:56.2352 INFO Get User Success :harinagar_sgr
+2021-02-08 12:41:06.3343 INFO MIR GetList Sucess
+2021-02-08 12:41:09.7155 INFO MIR GetList Sucess
+2021-02-08 12:41:52.6956 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:43:27.3071 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:43:28.5752 INFO Get User Success :harinagar_sgr
+2021-02-08 12:43:32.0478 INFO Sugarcanepurchase Get List Success
+2021-02-08 12:43:32.1523 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:43:32.3446 INFO Get User Success :harinagar_sgr
+2021-02-08 12:43:50.2700 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:44:53.8690 INFO MIR GetList Sucess
+2021-02-08 12:44:54.1510 INFO Get User Success :harinagar_sgr
+2021-02-08 12:45:19.5737 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:46:55.3454 INFO Get User Success :101-Commissioner
+2021-02-08 12:46:56.9702 INFO Get User Success :com
+2021-02-08 12:47:00.0718 INFO Get User Success :101-Commissioner
+2021-02-08 12:47:00.1832 INFO Check WorkFlow List Success
+2021-02-08 12:47:11.8052 INFO Get User Success :101-Commissioner
+2021-02-08 12:47:11.8992 INFO Check WorkFlow List Success
+2021-02-08 12:47:12.0952 INFO Get Allotment List Success
+2021-02-08 12:47:12.2607 INFO Get User Success :com
+2021-02-08 12:47:33.8640 INFO Get User Success :101-Commissioner
+2021-02-08 12:47:33.9574 INFO Check WorkFlow List Success
+2021-02-08 12:47:34.1932 INFO Get Allotment List Success
+2021-02-08 12:47:34.4640 INFO Get User Success :101-Commissioner
+2021-02-08 12:47:34.5685 INFO Get Party Master List Success
+2021-02-08 12:47:34.7126 INFO Get Indent List Success
+2021-02-08 12:47:34.9959 INFO Get Allotment Details Success
+2021-02-08 12:47:35.1717 INFO Get Indent List Success
+2021-02-08 12:47:35.3171 INFO Get Party Master List Success
+2021-02-08 12:47:35.6497 INFO Check WorkFlow List Success
+2021-02-08 12:47:38.6884 INFO Get User Success :com
+2021-02-08 12:48:37.5383 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:48:37.9816 INFO Get User Success :harinagar_sgr
+2021-02-08 12:48:41.2306 INFO Sugarcanepurchase Get List Success
+2021-02-08 12:48:41.3268 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:48:41.4446 INFO Get User Success :harinagar_sgr
+2021-02-08 12:48:43.0095 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:48:46.0828 INFO MIR GetList Sucess
+2021-02-08 12:48:46.2422 INFO Get User Success :harinagar_sgr
+2021-02-08 12:48:51.9842 INFO MIR GetList Sucess
+2021-02-08 12:48:56.0004 INFO MIR GetList Sucess
+2021-02-08 12:48:59.1744 INFO MIR GetList Sucess
+2021-02-08 12:49:01.0783 INFO MIR GetList Sucess
+2021-02-08 12:49:06.4433 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:49:07.1101 INFO Get User Success :harinagar_sgr
+2021-02-08 12:49:43.4413 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:52:01.0327 INFO Get User Success :harinagar_sgr
+2021-02-08 12:52:43.6513 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:52:44.9915 INFO Get User Success :harinagar_sgr
+2021-02-08 12:52:48.9016 INFO Sugarcanepurchase Get List Success
+2021-02-08 12:52:49.0538 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:52:49.2287 INFO Get User Success :harinagar_sgr
+2021-02-08 12:52:50.5136 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:52:54.4600 INFO Get User Success :harinagar_sgr
+2021-02-08 12:52:57.7524 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:52:59.8469 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:53:03.7698 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:53:06.7214 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:53:09.2376 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:53:50.6161 INFO Get User Success :harinagar_sgr
+2021-02-08 12:54:43.0975 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:54:51.1155 INFO Get User Success :harinagar_sgr
+2021-02-08 12:54:58.4408 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:55:00.7609 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:55:01.9182 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:55:02.9444 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:55:05.4722 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:55:07.7243 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:56:01.0785 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:56:16.3984 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:56:54.1225 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:57:35.0118 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:57:40.2156 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:57:45.4976 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:57:48.9214 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 12:58:51.7355 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:00:52.2415 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:01:07.2723 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:01:15.3066 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:01:17.9617 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:01:26.1536 INFO Get User Success :harinagar_sgr
+2021-02-08 13:01:28.8825 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:02:04.1893 INFO Get User Success :harinagar_sgr
+2021-02-08 13:02:13.1953 INFO Sugarcanepurchase Get List Success
+2021-02-08 13:02:13.3176 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:02:13.4248 INFO Get User Success :harinagar_sgr
+2021-02-08 13:02:14.5494 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:02:15.0709 INFO Get User Success :harinagar_sgr
+2021-02-08 13:02:23.3592 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:02:26.9384 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:02:43.0000 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:04:39.5258 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:04:40.4610 INFO Get User Success :harinagar_sgr
+2021-02-08 13:04:43.6942 INFO Sugarcanepurchase Get List Success
+2021-02-08 13:04:43.7925 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:04:43.9368 INFO Get User Success :harinagar_sgr
+2021-02-08 13:05:02.0561 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:02.6943 INFO Get User Success :harinagar_sgr
+2021-02-08 13:05:07.8416 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:14.5937 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:23.3307 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:27.1977 INFO MIR GetList Sucess
+2021-02-08 13:05:27.3457 INFO Get User Success :harinagar_sgr
+2021-02-08 13:05:37.3279 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:37.4504 INFO Get RR List Success
+2021-02-08 13:05:37.5701 INFO Get User Success :harinagar_sgr
+2021-02-08 13:05:39.2245 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:41.7593 INFO Get RR List Success
+2021-02-08 13:05:41.9010 INFO Get User Success :harinagar_sgr
+2021-02-08 13:05:43.1300 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-08 13:05:43.2443 INFO Get RR List Success
+2021-02-08 13:05:43.3578 INFO Get User Success :harinagar_sgr
+2021-02-08 13:06:02.9202 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:06:03.4956 INFO Get User Success :harinagar_dis
+2021-02-08 13:06:07.2303 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:06:07.3544 INFO Get Indent List Success
+2021-02-08 13:06:07.5670 INFO Get User Success :harinagar_dis
+2021-02-08 13:06:09.2874 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:06:09.3986 INFO Get Indent List Success
+2021-02-08 13:06:09.6148 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:06:09.8723 INFO Get Allotment List Success
+2021-02-08 13:06:10.0496 INFO Get User Success :harinagar_dis
+2021-02-08 13:06:51.2790 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:08:13.8447 INFO Get Allotment List Success
+2021-02-08 13:08:13.9644 INFO Get User Success :harinagar_dis
+2021-02-08 13:08:42.2397 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:08:45.3824 INFO Get Allotment List Success
+2021-02-08 13:08:45.6020 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:08:45.8452 INFO Get Party Master List Success
+2021-02-08 13:08:45.9979 INFO Get Indent List Success
+2021-02-08 13:08:46.2416 INFO Get Allotment Details Success
+2021-02-08 13:08:46.3406 INFO Get Indent List Success
+2021-02-08 13:08:46.4468 INFO Get Party Master List Success
+2021-02-08 13:08:46.6949 INFO Check WorkFlow List Success
+2021-02-08 13:08:46.9232 INFO Get User Success :harinagar_dis
+2021-02-08 13:09:16.2279 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:09:16.7419 INFO Get User Success :harinagar_dis
+2021-02-08 13:09:20.9109 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:09:21.0078 INFO Get Indent List Success
+2021-02-08 13:09:21.2071 INFO Get User Success :harinagar_dis
+2021-02-08 13:09:22.5991 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:09:22.6985 INFO Get RR List Success
+2021-02-08 13:09:22.9119 INFO Get User Success :harinagar_dis
+2021-02-08 13:11:16.8718 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:11:17.0065 INFO Get RR List Success
+2021-02-08 13:11:17.2751 INFO Get User Success :harinagar_dis
+2021-02-08 13:11:23.7100 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:11:27.5760 INFO Get RR List Success
+2021-02-08 13:11:27.9288 INFO Get User Success :harinagar_dis
+2021-02-08 13:11:37.1719 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:11:37.2735 INFO Get RR List Success
+2021-02-08 13:11:37.4660 INFO Get User Success :harinagar_dis
+2021-02-08 13:11:41.4781 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:11:41.5808 INFO Get RR List Success
+2021-02-08 13:11:41.7800 INFO Get User Success :harinagar_dis
+2021-02-08 13:11:43.8544 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:11:43.9546 INFO Get RR List Success
+2021-02-08 13:11:44.1494 INFO Get User Success :harinagar_dis
+2021-02-08 13:12:03.8207 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:12:04.6822 INFO Get User Success :harinagar_dis
+2021-02-08 13:12:26.2132 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:14:55.2427 INFO Get User Success :harinagar_dis
+2021-02-08 13:15:02.7267 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:15:05.6345 INFO Get Pass List Success
+2021-02-08 13:15:05.7933 INFO Get User Success :harinagar_dis
+2021-02-08 13:15:24.3405 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-08 13:16:48.4997 INFO Get Pass List Success
+2021-02-08 13:16:48.6077 INFO Get User Success :harinagar_dis
+2021-02-08 13:16:59.3670 INFO Get Pass List Success
+2021-02-08 13:17:11.1537 INFO Get Pass List Success
+2021-02-08 13:17:20.0001 INFO Get Pass List Success
+2021-02-08 14:46:36.7750 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 14:46:37.9039 INFO Get User Success :newswadeshi_dis
+2021-02-08 14:46:41.5389 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 14:46:41.6467 INFO Get RR List Success
+2021-02-08 14:46:41.8510 INFO Get User Success :newswadeshi_dis
+2021-02-08 14:46:44.0674 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 14:46:45.9560 INFO Get RR List Success
+2021-02-08 14:46:46.1186 INFO Get User Success :newswadeshi_dis
+2021-02-08 14:47:10.5777 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:47:10.6530 INFO Get User Success :sitedo
+2021-02-08 14:47:13.4504 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:47:13.5313 INFO Get RR List Success
+2021-02-08 14:47:13.6409 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:47:15.7901 INFO Get RR List Success
+2021-02-08 14:47:45.9395 INFO Get User Success :sitedo
+2021-02-08 14:48:05.1733 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:48:06.7400 INFO Get RR List Success
+2021-02-08 14:48:13.7984 INFO Get User Success :sitedo
+2021-02-08 14:48:23.2770 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 14:48:23.3494 INFO Get User Success :wcedo
+2021-02-08 14:48:25.8925 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 14:48:25.9644 INFO Get RR List Success
+2021-02-08 14:48:26.0781 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 14:48:27.5508 INFO Get RR List Success
+2021-02-08 14:48:31.8403 INFO Get User Success :wcedo
+2021-02-08 14:49:27.8209 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:49:27.9001 INFO Get User Success :smedo
+2021-02-08 14:49:30.1829 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:49:30.2596 INFO Get RR List Success
+2021-02-08 14:49:30.3535 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:49:31.9839 INFO Get RR List Success
+2021-02-08 14:49:34.7099 INFO Get User Success :smedo
+2021-02-08 14:50:10.1455 INFO Get User Fail :-Exception while reading from stream
+2021-02-08 14:50:11.8306 INFO Get RR List Success
+2021-02-08 14:50:30.8887 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:50:32.5749 INFO Get RR List Success
+2021-02-08 14:50:47.5514 INFO Get User Success :smedo
+2021-02-08 14:51:00.1120 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 14:51:00.1915 INFO Get User Success :wcedo
+2021-02-08 14:51:02.7374 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 14:51:02.8189 INFO Get RR List Success
+2021-02-08 14:51:02.9315 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 14:51:04.5678 INFO Get RR List Success
+2021-02-08 14:51:04.6556 INFO Get User Success :wcedo
+2021-02-08 14:51:52.6145 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:51:52.6920 INFO Get User Success :sitedo
+2021-02-08 14:51:57.5388 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:51:57.6135 INFO Get RR List Success
+2021-02-08 14:51:57.7158 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 14:51:59.3964 INFO Get RR List Success
+2021-02-08 14:51:59.4791 INFO Get User Success :sitedo
+2021-02-08 14:52:31.7938 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:52:31.8713 INFO Get User Success :smedo
+2021-02-08 14:52:34.4587 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:52:34.5300 INFO Get RR List Success
+2021-02-08 14:52:34.6208 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:52:36.8146 INFO Get RR List Success
+2021-02-08 14:52:36.9098 INFO Get User Success :smedo
+2021-02-08 14:52:48.1520 INFO Get User Success :44-Administrator
+2021-02-08 14:52:52.5875 INFO Get RolePermissions List Success
+2021-02-08 14:52:54.5592 INFO Get Single User Details Success
+2021-02-08 14:53:00.0558 INFO Get Single User Details Success
+2021-02-08 14:53:00.1401 INFO Get Single User Details Success
+2021-02-08 14:53:08.9782 INFO Get Single User Details Success
+2021-02-08 14:53:09.0844 INFO Get RolePermissions List Success
+2021-02-08 14:53:16.9091 INFO Get State List Success
+2021-02-08 14:53:24.5510 INFO Get Party Type Master List Success
+2021-02-08 14:53:26.3747 INFO Get Party Master List Success
+2021-02-08 14:53:29.6520 INFO Get Party Master List Success
+2021-02-08 14:53:37.5510 INFO Get Party Master List Success
+2021-02-08 14:53:45.0342 INFO Get Party Type Master List Success
+2021-02-08 14:53:45.4093 INFO Get Party Master Details Success
+2021-02-08 14:53:45.5215 INFO GetFinacListValues Success
+2021-02-08 14:53:59.9459 INFO Get State List Success
+2021-02-08 14:54:36.8189 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:54:36.9003 INFO Get User Success :smedo
+2021-02-08 14:54:39.1252 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:54:39.2030 INFO Get RR List Success
+2021-02-08 14:54:39.2987 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:55:14.8532 INFO Get RR List Success
+2021-02-08 14:56:53.4226 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:56:53.7664 INFO Get User Success :smedo
+2021-02-08 14:57:01.7592 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:57:01.8421 INFO Get RR List Success
+2021-02-08 14:57:01.9710 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 14:57:03.6782 INFO Get RR List Success
+2021-02-08 15:00:49.3454 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:00:49.6714 INFO Get User Success :smedo
+2021-02-08 15:01:07.3942 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:01:07.4812 INFO Get RR List Success
+2021-02-08 15:01:07.6174 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:01:09.3165 INFO Get RR List Success
+2021-02-08 15:04:41.5258 INFO Get User Success :smedo
+2021-02-08 15:04:48.3861 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:04:50.1069 INFO Get RR List Success
+2021-02-08 15:05:14.5399 INFO Get RR List Success
+2021-02-08 15:05:14.6214 INFO Get User Success :smedo
+2021-02-08 15:07:04.6185 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:07:04.9305 INFO Get User Success :wcedo
+2021-02-08 15:07:07.1833 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:07:07.2620 INFO Get RR List Success
+2021-02-08 15:07:07.3708 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:07:09.0640 INFO Get RR List Success
+2021-02-08 15:07:09.1658 INFO Get User Success :wcedo
+2021-02-08 15:07:54.5157 INFO Get User Success :135-Assistant Commissioner
+2021-02-08 15:07:54.5960 INFO Get User Success :ecedo
+2021-02-08 15:07:56.9104 INFO Get User Success :135-Assistant Commissioner
+2021-02-08 15:07:56.9898 INFO Get RR List Success
+2021-02-08 15:07:57.0912 INFO Get User Success :135-Assistant Commissioner
+2021-02-08 15:07:58.8022 INFO Get RR List Success
+2021-02-08 15:07:58.8826 INFO Get User Success :ecedo
+2021-02-08 15:08:17.6312 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 15:08:17.7127 INFO Get User Success :sitedo
+2021-02-08 15:08:20.1660 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 15:08:20.2388 INFO Get RR List Success
+2021-02-08 15:08:20.3411 INFO Get User Success :137-Assistant Commissioner
+2021-02-08 15:08:22.7455 INFO Get RR List Success
+2021-02-08 15:08:22.8246 INFO Get User Success :sitedo
+2021-02-08 15:08:51.9694 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:08:52.0494 INFO Get User Success :wcedo
+2021-02-08 15:08:57.1205 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:08:57.1999 INFO Get RR List Success
+2021-02-08 15:08:57.2987 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:08:59.0500 INFO Get RR List Success
+2021-02-08 15:08:59.1323 INFO Get User Success :wcedo
+2021-02-08 15:09:07.8633 INFO Get User Success :99-Assistant Commissioner
+2021-02-08 15:09:08.0260 INFO Get RR Details Success
+2021-02-08 15:09:09.7242 INFO Get RR List Success
+2021-02-08 15:09:09.9118 INFO Get User Success :wcedo
+2021-02-08 15:10:05.8060 INFO Get User Success :134-Assistant Commissioner
+2021-02-08 15:10:05.8841 INFO Get User Success :goedo
+2021-02-08 15:10:07.8190 INFO Get User Success :134-Assistant Commissioner
+2021-02-08 15:10:07.8956 INFO Get RR List Success
+2021-02-08 15:10:07.9994 INFO Get User Success :134-Assistant Commissioner
+2021-02-08 15:10:09.6133 INFO Get RR List Success
+2021-02-08 15:10:09.6889 INFO Get User Success :goedo
+2021-02-08 15:10:38.0914 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:10:38.1684 INFO Get User Success :smedo
+2021-02-08 15:10:40.2450 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:10:40.3198 INFO Get RR List Success
+2021-02-08 15:10:40.4177 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:10:42.0479 INFO Get RR List Success
+2021-02-08 15:10:42.1256 INFO Get User Success :smedo
+2021-02-08 15:10:44.6123 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:10:44.6835 INFO Check WorkFlow List Success
+2021-02-08 15:10:49.5874 INFO Get RR List Success
+2021-02-08 15:10:49.6615 INFO Get User Success :smedo
+2021-02-08 15:11:03.0798 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:03.6727 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:11:07.9386 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:08.0143 INFO Get RR List Success
+2021-02-08 15:11:08.1906 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:11:15.9222 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:17.5334 INFO Get RR List Success
+2021-02-08 15:11:17.6799 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:11:26.3343 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:26.4073 INFO Get RR List Success
+2021-02-08 15:11:26.5541 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:11:35.6387 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:35.7166 INFO Get RR List Success
+2021-02-08 15:11:35.8614 INFO Get RR No Sucess:Req/WC/NSD/RR/2020-21/4
+2021-02-08 15:11:37.4767 INFO Get RR List Success
+2021-02-08 15:11:37.6234 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:11:52.8412 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:52.9161 INFO Get RR List Success
+2021-02-08 15:11:53.0573 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:11:55.2212 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:11:56.9268 INFO Get RR List Success
+2021-02-08 15:11:57.0667 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:12:11.4079 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:12:11.4851 INFO Get RR List Success
+2021-02-08 15:12:11.6317 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:12:30.9427 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:12:31.0210 INFO Get RR List Success
+2021-02-08 15:12:31.1572 INFO Get RR No Sucess:Req/WC/NSD/RR/2020-21/4
+2021-02-08 15:12:32.7671 INFO Get RR List Success
+2021-02-08 15:12:32.9145 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:15:57.0104 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:15:57.0605 INFO Get User Success :smedo
+2021-02-08 15:16:13.8290 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:16:13.8580 INFO Get RR List Success
+2021-02-08 15:16:13.9353 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:16:13.9622 INFO Get RR List Success
+2021-02-08 15:16:13.9836 INFO Get User Success :smedo
+2021-02-08 15:16:38.3154 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:16:38.3727 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:16:42.2480 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:16:42.2480 INFO Get RR List Success
+2021-02-08 15:16:42.2813 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:16:43.5241 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:16:43.5241 INFO Get RR List Success
+2021-02-08 15:16:43.5330 INFO Get RR No Sucess:Req/WC/NSD/RR/2020-21/3
+2021-02-08 15:16:43.5480 INFO Get RR List Success
+2021-02-08 15:16:43.5480 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:16:58.6286 INFO Module Insertion Sucess:Req/WC/NSD/RR/2020-21/3-NSD
+2021-02-08 15:16:58.6764 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:16:58.6764 INFO Get RR List Success
+2021-02-08 15:16:58.6870 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:17:00.4913 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:17:00.5063 INFO Get RR List Success
+2021-02-08 15:17:00.5432 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:17:01.9583 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:17:01.9674 INFO Get RR Details Success
+2021-02-08 15:17:01.9855 INFO Get RR List Success
+2021-02-08 15:17:01.9995 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:17:03.8288 INFO Get MaxID Success :Module_master
+2021-02-08 15:17:03.9164 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-02-08 15:17:03.9333 INFO Get RR List Success
+2021-02-08 15:17:03.9385 INFO Get User Success :newswadeshi_dis
+2021-02-08 15:17:14.1582 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:14.1582 INFO Get User Success :smedo
+2021-02-08 15:17:16.2642 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:16.2642 INFO Get RR List Success
+2021-02-08 15:17:16.2920 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:16.3080 INFO Get RR List Success
+2021-02-08 15:17:16.3120 INFO Get User Success :smedo
+2021-02-08 15:17:19.3886 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:19.3886 INFO Get RR Details Success
+2021-02-08 15:17:19.4125 INFO Get RR List Success
+2021-02-08 15:17:19.4125 INFO Get User Success :smedo
+2021-02-08 15:17:25.1796 INFO RR Approved by Assistant Commissioner  Sucess:18-
+2021-02-08 15:17:25.2178 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:25.2354 INFO Get RR List Success
+2021-02-08 15:17:25.2354 INFO Get User Success :smedo
+2021-02-08 15:17:26.9783 INFO RR Issued by Assistant Commissioner  Sucess:18-NSD
+2021-02-08 15:17:27.0266 INFO Get RR List Success
+2021-02-08 15:17:27.0494 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:27.0630 INFO Get RR List Success
+2021-02-08 15:17:27.0630 INFO Get User Success :smedo
+2021-02-08 15:17:28.9710 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:28.9710 INFO Get RR Details Success
+2021-02-08 15:17:28.9922 INFO Get RR List Success
+2021-02-08 15:17:29.0005 INFO Get User Success :smedo
+2021-02-08 15:17:37.0368 INFO Get User Success :136-Assistant Commissioner
+2021-02-08 15:17:37.0567 INFO Get RR List Success
+2021-02-08 15:17:37.0614 INFO Get User Success :smedo
+2021-02-08 15:39:47.7438 INFO Get User Success :101-Commissioner
+2021-02-08 15:39:48.2932 INFO Get User Success :com
+2021-02-08 15:40:10.3203 INFO Get User Success :101-Commissioner
+2021-02-08 15:40:10.8282 INFO Get User Success :com
+2021-02-08 15:42:44.7625 INFO Get User Success :101-Commissioner
+2021-02-08 15:42:45.3278 INFO Get User Success :com
+2021-02-08 15:44:56.6742 INFO Get User Success :101-Commissioner
+2021-02-08 15:50:53.4427 INFO Get User Success :101-Commissioner
+2021-02-08 15:50:57.9460 INFO Get User Success :com
+2021-02-08 15:55:18.1802 INFO Get User Success :101-Commissioner
+2021-02-08 15:55:18.7485 INFO Get User Success :com
+2021-02-08 15:55:40.6081 INFO Get User Success :101-Commissioner
+2021-02-08 15:55:47.3999 INFO Get User Success :101-Commissioner
+2021-02-08 15:55:47.4129 INFO Get User Success :com
+2021-02-08 15:55:58.3999 INFO Get User Success :101-Commissioner
+2021-02-08 15:58:42.0255 INFO Get User Success :101-Commissioner
+2021-02-08 15:58:42.0549 INFO Get User Success :com
+2021-02-08 15:59:07.0894 INFO Get User Success :101-Commissioner
+2021-02-08 16:22:26.1467 INFO Get User Success :100-Deputy Commissioner
+2021-02-08 16:22:26.6891 INFO Get User Success :hodyco
+2021-02-08 16:22:29.3287 INFO Get User Success :100-Deputy Commissioner
+2021-02-08 16:22:29.3287 INFO Check WorkFlow List Success
+2021-02-08 16:22:42.7089 INFO Get User Success :100-Deputy Commissioner
+2021-02-08 16:22:42.7089 INFO Check WorkFlow List Success
+2021-02-08 16:22:42.7185 INFO Get Allotment List Success
+2021-02-08 16:22:42.7608 INFO Get User Success :hodyco
+2021-02-08 16:22:46.1710 INFO Get User Success :100-Deputy Commissioner
+2021-02-08 16:22:46.1710 INFO Check WorkFlow List Success
+2021-02-08 16:22:46.1710 INFO Get Allotment List Success
+2021-02-08 16:22:46.2525 INFO Get User Success :100-Deputy Commissioner
+2021-02-08 16:22:46.2525 INFO Get Party Master List Success
+2021-02-08 16:22:46.2652 INFO Get Indent List Success
+2021-02-08 16:22:46.2652 INFO Get Allotment Details Success
+2021-02-08 16:22:46.2842 INFO Get Indent List Success
+2021-02-08 16:22:46.2842 INFO Get Party Master List Success
+2021-02-08 16:22:46.3266 INFO Check WorkFlow List Success
+2021-02-08 16:22:46.3266 INFO Get User Success :hodyco
+2021-02-08 17:59:03.0857 INFO Get User Success :101-Commissioner
+2021-02-08 17:59:19.9370 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.3550 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.3789 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.4034 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.4243 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.4463 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.4662 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.4861 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.5071 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.5280 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.5510 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.5719 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.5968 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.6178 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.6418 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.6677 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.6916 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:30.7115 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.7942 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.8171 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.8391 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.8570 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.8770 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.8949 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.9129 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.9318 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.9508 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.9707 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:31.9887 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.0086 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.0276 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.0465 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.0665 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.0844 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.1034 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.1223 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.1413 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:32.1602 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:33.9997 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.0197 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.0386 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.0656 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.0845 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.1104 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.1314 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.1533 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.1743 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.1932 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.2132 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.2331 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.2600 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.2810 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.3019 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.3219 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.3408 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.3608 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.3817 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:34.4017 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.4445 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.4644 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.4844 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.5083 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.5272 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.5472 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.5681 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.5861 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.6060 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.6270 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.6469 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.6679 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.6878 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.7068 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.7307 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.7606 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.7846 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.8015 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.8185 INFO Get User Success :101-Commissioner
+2021-02-08 18:00:39.8354 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.7862 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.8287 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.8516 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.8795 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.9026 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.9225 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.9445 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.9644 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:51.9894 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.0093 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.0342 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.0532 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.0731 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.0991 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.1190 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.1449 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.1779 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.1968 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:52.2177 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.2806 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.3026 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.3235 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.3425 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.3614 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.3814 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.4013 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.4243 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.4442 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.4631 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.4941 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.5130 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.5320 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.5519 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.5719 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.5908 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.6098 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.6287 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.6477 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:53.6666 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.7081 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.7271 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.7460 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.7680 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.7869 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.8069 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.8258 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.8448 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.8637 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.8827 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.9036 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.9236 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.9425 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.9605 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:58.9794 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:59.0003 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:59.0203 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:59.0402 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:59.0702 INFO Get User Success :101-Commissioner
+2021-02-08 18:02:59.0921 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.0381 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.0610 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.0840 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.1089 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.1320 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.1529 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.1718 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.1908 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.2117 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.2357 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.2566 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.2815 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.3075 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.3264 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.3474 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.3683 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.3942 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.4142 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.4351 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:11.4591 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.0263 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.0522 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.0721 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.0940 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.1173 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.1370 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.1560 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.1739 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.1919 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.2158 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.2338 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.2517 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.2707 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.2906 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.3106 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.3345 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.3535 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.3714 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.3914 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:12.4123 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:19.2795 INFO Get User Success :com
+2021-02-08 18:03:37.7210 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:37.7210 INFO Check WorkFlow List Success
+2021-02-08 18:03:37.7813 INFO Get RR List Success
+2021-02-08 18:03:37.8236 INFO Get User Success :com
+2021-02-08 18:03:40.5622 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:40.5622 INFO Check WorkFlow List Success
+2021-02-08 18:03:40.6100 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:40.6100 INFO Check WorkFlow List Success
+2021-02-08 18:03:40.6100 INFO Get Allotment List Success
+2021-02-08 18:03:40.6380 INFO Get User Success :com
+2021-02-08 18:03:44.6988 INFO Get User Success :101-Commissioner
+2021-02-08 18:03:44.7008 INFO Check WorkFlow List Success
+2021-02-08 18:03:44.7008 INFO Get Allotment List Success
+2021-02-08 18:06:40.8542 INFO Get User Success :101-Commissioner
+2021-02-08 18:06:55.1693 INFO Get User Success :101-Commissioner
+2021-02-08 18:06:55.6910 INFO Get User Success :com
+2021-02-08 18:07:00.3629 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:00.9084 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:00.9212 INFO Get User Success :com
+2021-02-08 18:07:02.7838 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:02.8125 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:02.8125 INFO Get User Success :com
+2021-02-08 18:07:16.0166 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:16.0512 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:16.5399 INFO Get User Success :com
+2021-02-08 18:07:19.9068 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:20.3871 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:20.4001 INFO Get User Success :com
+2021-02-08 18:07:25.3462 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:25.3677 INFO Get User Success :101-Commissioner
+2021-02-08 18:07:25.8388 INFO Get User Success :com
+2021-02-08 18:08:36.9354 INFO Get User Success :101-Commissioner
+2021-02-08 18:08:37.4011 INFO Get User Success :com
+2021-02-08 18:08:38.6459 INFO Get User Success :101-Commissioner
+2021-02-08 18:08:39.8825 INFO Get User Success :101-Commissioner
+2021-02-08 18:08:39.8894 INFO Get User Success :com
+2021-02-08 18:08:41.6532 INFO Get User Success :101-Commissioner
+2021-02-08 18:08:41.6762 INFO Get User Success :101-Commissioner
+2021-02-08 18:08:42.1403 INFO Get User Success :com
+2021-02-08 18:09:32.2762 INFO Get User Success :101-Commissioner
+2021-02-08 18:09:32.7449 INFO Get User Success :com
+2021-02-08 18:09:39.7477 INFO Get User Success :101-Commissioner
+2021-02-08 18:09:40.2119 INFO Get User Success :com
+2021-02-08 18:10:11.2615 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:11.7266 INFO Get User Success :com
+2021-02-08 18:10:13.2041 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:14.6452 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:14.6541 INFO Get User Success :com
+2021-02-08 18:10:17.1447 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:17.1714 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:17.6458 INFO Get User Success :com
+2021-02-08 18:10:18.9637 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:19.4764 INFO Get User Success :com
+2021-02-08 18:10:45.8485 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:45.8485 INFO Check WorkFlow List Success
+2021-02-08 18:10:45.8976 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:45.8976 INFO Check WorkFlow List Success
+2021-02-08 18:10:45.9062 INFO Get Allotment List Success
+2021-02-08 18:10:45.9351 INFO Get User Success :com
+2021-02-08 18:10:48.3229 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:48.3229 INFO Check WorkFlow List Success
+2021-02-08 18:10:48.3281 INFO Get Allotment List Success
+2021-02-08 18:10:48.3281 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:48.3281 INFO Check WorkFlow List Success
+2021-02-08 18:10:48.3416 INFO Get Allotment List Success
+2021-02-08 18:10:49.1847 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:49.1870 INFO Check WorkFlow List Success
+2021-02-08 18:10:49.1870 INFO Get Allotment List Success
+2021-02-08 18:10:49.1870 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:49.1870 INFO Check WorkFlow List Success
+2021-02-08 18:10:49.1870 INFO Get Allotment List Success
+2021-02-08 18:10:52.1802 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:52.1802 INFO Check WorkFlow List Success
+2021-02-08 18:10:52.2277 INFO Get RR List Success
+2021-02-08 18:10:52.2446 INFO Get User Success :com
+2021-02-08 18:10:54.6047 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:54.6047 INFO Check WorkFlow List Success
+2021-02-08 18:10:54.6450 INFO Get RR List Success
+2021-02-08 18:10:55.8270 INFO Get User Success :101-Commissioner
+2021-02-08 18:10:55.8270 INFO Check WorkFlow List Success
+2021-02-08 18:10:55.8649 INFO Get RR List Success

@@ -1,0 +1,383 @@
+public static string Insert_MTP_Con(Molasses_Allocation allotment)
+        {
+            string VAL = "";
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                NpgsqlTransaction trn;
+                trn = cn.BeginTransaction();
+                NpgsqlCommand cmd1 = new NpgsqlCommand("SELECT  case when max(consumption_register_id) is null then 0 else max(consumption_register_id) end as consumption_register_id FROM exciseautomation.consumption_register", cn);
+                int m = Convert.ToInt32(cmd1.ExecuteScalar());
+                m = m + 1;
+                try
+                {
+                    allotment.req_allotmentno = m.ToString();
+                    StringBuilder str = new StringBuilder();
+                    str.Append("INSERT INTO exciseautomation.consumption_register(consumption_no, consumption_date, product_code,remarks,record_status,consumption_reqno,party_code) Values(");
+
+                    str.Append("'" + m + "','" + allotment.consumption_date + "','" + allotment.product_code + "','" + allotment.remarks + "','" + allotment.record_status + "','" + allotment.application_requestno + "','" + allotment.party_code + "')");
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    int n = cmd.ExecuteNonQuery();
+                    for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                    {
+
+                        str = new StringBuilder();
+                        str.Append("INSERT INTO exciseautomation.consumption_register_item(consumption_register_id, issue_vat,medicine_name, batch_no, consumption_qty, strength)");
+                        str.Append("Values('" + m + "','" + allotment.docs[i1].issue_vat + "', '" + allotment.docs[i1].medicine_name + "','" + allotment.docs[i1].batch_no + "','" + allotment.docs[i1].consumption_qty + "','" + allotment.docs[i1].strength + "')");
+                        NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                        int r = cmd3.ExecuteNonQuery();
+                    }
+                    VAL = "0";
+                    trn.Commit();
+                    cn.Close();
+                    _log.Info("Insert Consumption Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code);
+                }
+                catch (Exception ex1)
+                {
+                    _log.Info("Insert Consumption Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code + "-" + ex1.Message);
+                    VAL = ex1.Message;
+                    trn.Rollback();
+                }
+
+            }
+            return VAL;
+        }
+
+public static string UpdateMNTConsumReg(Molasses_Allocation allotment)
+        {
+            string VAL = "";
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                try
+                {
+                    //(,molasses_allotment_request_id
+                    StringBuilder str = new StringBuilder();
+                    str.Append("Update exciseautomation.consumption_register set consumption_date='" + allotment.consumption_date + "', product_code='" + allotment.product_code + "', remarks='" + allotment.remarks + "', consumption_reqno='" + allotment.application_requestno + "' WHERE consumption_no=" + allotment.consumption_no);
+
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    int n = cmd.ExecuteNonQuery();
+                    if (n == 1)
+                    {
+                        NpgsqlCommand cmd1 = new NpgsqlCommand("delete from exciseautomation.consumption_register_item where consumption_register_id='" + allotment.consumption_no + "'", cn);
+                        cmd1.ExecuteNonQuery();
+                        for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                        {
+                            n = 0;
+                            str = new StringBuilder();
+
+
+                            str.Append("INSERT INTO exciseautomation.consumption_register_item(consumption_register_id, issue_vat,medicine_name, batch_no, consumption_qty, strength)");
+                            str.Append("Values('" + allotment.consumption_no + "','" + allotment.docs[i1].issue_vat + "', '" + allotment.docs[i1].medicine_name + "','" + allotment.docs[i1].batch_no + "','" + allotment.docs[i1].consumption_qty + "','" + allotment.docs[i1].strength + "')");
+                            NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                            n = cmd3.ExecuteNonQuery();
+
+
+                            
+                        }
+                        VAL = "0";
+                    }
+                    else
+                        VAL = "1";
+                    cn.Close();
+                    _log.Info("Update Allotment Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code);
+                }
+                catch (Exception ex1)
+                {
+                    _log.Info("Update Allotment Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code + "-" + ex1.Message);
+                    VAL = ex1.Message;
+                }
+            }
+
+            return VAL;
+        }
+
+public static string Approve_MTNConsumption(Molasses_Allocation allotment)
+        {
+            string value;
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                NpgsqlTransaction trn;
+                trn = cn.BeginTransaction();
+                try
+                {
+
+                    if (allotment.record_status == "A")
+                    {
+                        //allotment.allotment_status = "Approved by " + lev[2];
+                        allotment.record_status = "A";
+
+                        NpgsqlCommand cmd1 = new NpgsqlCommand("UPDATE exciseautomation.consumption_register SET  record_status='" + allotment.record_status + "' WHERE consumption_no='" + allotment.consumption_no + "'", cn);
+                        int n = cmd1.ExecuteNonQuery();
+                    }
+                    else
+                    {
+
+                        if (allotment.record_status == "R")
+                        {
+                            allotment.record_status = "R";
+
+                            NpgsqlCommand cmd1 = new NpgsqlCommand("UPDATE exciseautomation.consumption_register SET  record_status='" + allotment.record_status + "' WHERE consumption_no='" + allotment.consumption_no + "'", cn);
+                            int n = cmd1.ExecuteNonQuery();
+                        }
+
+
+                    }
+
+                    StringBuilder str = new StringBuilder();
+                    for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                    {
+                        //str = new StringBuilder();
+                        //str.Append("INSERT INTO exciseautomation.eascm_docs(doc_id, doc_name,doc_desc, doc_path, doc_type_code, user_id, creation_date)");
+                        //str.Append("Values('" + allotment.molasses_allotment_request_id + "','" + allotment.docs[i1].doc_name + "', '" + allotment.docs[i1].description + "','" + allotment.docs[i1].doc_path + "','ALT','" + allotment.user_id + "','" + DateTime.Now.ToString("dd-MM-yyyy") + "')");
+                        //NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                        //int r = cmd3.ExecuteNonQuery();
+
+                        NpgsqlCommand cmd2 = new NpgsqlCommand("select case when vat_availablecapacity is null then 0 else vat_availablecapacity end vat_availablecapacity from  exciseautomation.vat_master  WHERE vat_code='" + allotment.docs[i1].issue_vat + "'", cn);
+                        double available = Convert.ToDouble(cmd2.ExecuteScalar());
+                        available = available + Convert.ToDouble(allotment.docs[i1].issue_qty);
+                        cmd2 = new NpgsqlCommand("UPDATE exciseautomation.vat_master SET  vat_availablecapacity='" + available + "' WHERE  vat_code='" + allotment.docs[i1].issue_vat + "'", cn);
+                        int G = cmd2.ExecuteNonQuery();
+
+                        
+
+
+
+                    }
+                    str = new StringBuilder();
+                    str.Append("insert INTO exciseautomation.transaction_history(record_id, record_id_format, transaction_date, transaction_type, transaction_state, remarks, lastmodified_date, createdby_id, creation_date, user_id) VALUES(");
+                    str.Append("'" + allotment.consumption_no + "','','" + DateTime.Now.ToString("dd-MM-yyyy hh:mm:ss") + "','MNT_CON','" + allotment.record_status + "','" + allotment.remarks + "','" + DateTime.Now.ToString("dd-MM-yyyy") + "','" + allotment.user_id + "','" + DateTime.Now.ToString("dd-MM-yyyy") + "','" + allotment.user_id + "')");
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    cmd.ExecuteNonQuery();
+                    value = "0";
+                    trn.Commit();
+                    _log.Info("Allotement Approve Sucess:" + allotment.issue_no);
+                    cn.Close();
+                }
+                catch (Exception ex)
+                {
+                    value = ex.Message;
+                    _log.Info("Allotement Approve Fail:" + allotment.issue_no + "-" + value);
+                    trn.Rollback();
+                }
+                return value;
+
+            }
+        }
+
+public static string Insert_MTP_Issue(Molasses_Allocation allotment)
+        {
+            string VAL = "";
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                NpgsqlTransaction trn;
+                trn = cn.BeginTransaction();
+                NpgsqlCommand cmd1 = new NpgsqlCommand("SELECT  case when max(issue_register_id) is null then 0 else max(issue_register_id) end as issue_register_id FROM exciseautomation.issue_register", cn);
+                int m = Convert.ToInt32(cmd1.ExecuteScalar());
+                m = m + 1;
+                try
+                {
+                    allotment.req_allotmentno = m.ToString();
+                    StringBuilder str = new StringBuilder();
+                    str.Append("INSERT INTO exciseautomation.issue_register(issue_no, issue_date, product_code,remarks,record_status,issue_reqno,party_code) Values(");
+
+                    str.Append("'" + m + "','" + allotment.consumption_date + "','" + allotment.product_code + "','" + allotment.remarks + "','" + allotment.record_status + "','"+allotment.application_requestno + "','" + allotment.party_code + "')");
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    int n = cmd.ExecuteNonQuery();
+                    for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                    {
+
+                        str = new StringBuilder();
+                        str.Append("INSERT INTO exciseautomation.issue_register_item(issue_register_id,storage_vat, issue_vat,issue_qty, strength)");
+                        str.Append("Values('" + m + "','" + allotment.docs[i1].storage_vat + "','" + allotment.docs[i1].issue_vat + "', '" + allotment.docs[i1].issue_qty + "','" + allotment.docs[i1].strength + "')");
+                        NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                        int r = cmd3.ExecuteNonQuery();
+                    }
+                    VAL = "0";
+                    trn.Commit();
+                    cn.Close();
+                    _log.Info("Insert Consumption Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code);
+                }
+                catch (Exception ex1)
+                {
+                    _log.Info("Insert Consumption Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code + "-" + ex1.Message);
+                    VAL = ex1.Message;
+                    trn.Rollback();
+                }
+
+            }
+            return VAL;
+        }
+        public static string Insert_MTP_Con(Molasses_Allocation allotment)
+        {
+            string VAL = "";
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                NpgsqlTransaction trn;
+                trn = cn.BeginTransaction();
+                NpgsqlCommand cmd1 = new NpgsqlCommand("SELECT  case when max(consumption_register_id) is null then 0 else max(consumption_register_id) end as consumption_register_id FROM exciseautomation.consumption_register", cn);
+                int m = Convert.ToInt32(cmd1.ExecuteScalar());
+                m = m + 1;
+                try
+                {
+                    allotment.req_allotmentno = m.ToString();
+                    StringBuilder str = new StringBuilder();
+                    str.Append("INSERT INTO exciseautomation.consumption_register(consumption_no, consumption_date, product_code,remarks,record_status,consumption_reqno,party_code) Values(");
+
+                    str.Append("'" + m + "','" + allotment.consumption_date + "','" + allotment.product_code + "','" + allotment.remarks + "','" + allotment.record_status + "','" + allotment.application_requestno + "','" + allotment.party_code + "')");
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    int n = cmd.ExecuteNonQuery();
+                    for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                    {
+
+                        str = new StringBuilder();
+                        str.Append("INSERT INTO exciseautomation.consumption_register_item(consumption_register_id, issue_vat,medicine_name, batch_no, consumption_qty, strength)");
+                        str.Append("Values('" + m + "','" + allotment.docs[i1].issue_vat + "', '" + allotment.docs[i1].medicine_name + "','" + allotment.docs[i1].batch_no + "','" + allotment.docs[i1].consumption_qty + "','" + allotment.docs[i1].strength + "')");
+                        NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                        int r = cmd3.ExecuteNonQuery();
+                    }
+                    VAL = "0";
+                    trn.Commit();
+                    cn.Close();
+                    _log.Info("Insert Consumption Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code);
+                }
+                catch (Exception ex1)
+                {
+                    _log.Info("Insert Consumption Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code + "-" + ex1.Message);
+                    VAL = ex1.Message;
+                    trn.Rollback();
+                }
+
+            }
+            return VAL;
+        }
+
+public static string UpdateMNTIssueReg(Molasses_Allocation allotment)
+        {
+            string VAL = "";
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                try
+                {
+                    //(,molasses_allotment_request_id
+                    StringBuilder str = new StringBuilder();
+                    str.Append("Update exciseautomation.issue_register set issue_date='" + allotment.consumption_date + "', product_code='" + allotment.product_code + "', remarks='" + allotment.remarks + "', issue_reqno='" + allotment.application_requestno + "',record_status='"+ allotment.record_status + "' WHERE issue_no="+allotment.issue_no);
+                    
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    int n = cmd.ExecuteNonQuery();
+                    if (n == 1)
+                    {
+                        NpgsqlCommand cmd1 = new NpgsqlCommand("delete from exciseautomation.issue_register_item where issue_register_id='" + allotment.issue_no + "'", cn);
+                        cmd1.ExecuteNonQuery();
+                        for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                        {
+                            n = 0;
+                            str = new StringBuilder();
+                            
+
+                            str.Append("INSERT INTO exciseautomation.issue_register_item(issue_register_id,storage_vat, issue_vat,issue_qty, strength)");
+                            str.Append("Values('" + allotment.issue_no + "','" + allotment.docs[i1].storage_vat + "','" + allotment.docs[i1].issue_vat + "', '" + allotment.docs[i1].issue_qty + "','" + allotment.docs[i1].strength + "')");
+                            NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                            n = cmd3.ExecuteNonQuery();
+
+                            
+                            //int r = cmd3.ExecuteNonQuery();
+                        }
+                        VAL = "0";
+                    }
+                    else
+                        VAL = "1";
+                    cn.Close();
+                    _log.Info("Update Allotment Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code);
+                }
+                catch (Exception ex1)
+                {
+                    _log.Info("Update Allotment Success :" + allotment.molasses_allotment_request_id + "-" + allotment.party_code + "-" + ex1.Message);
+                    VAL = ex1.Message;
+                }
+            }
+
+            return VAL;
+        }
+
+public static string Approve_MTNIssue(Molasses_Allocation allotment)
+        {
+            string value;
+            using (NpgsqlConnection cn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString()))
+            {
+                cn.Open();
+                NpgsqlTransaction trn;
+                trn = cn.BeginTransaction();
+                try
+                {
+                    
+                    if (allotment.record_status == "A")
+                    {
+                        //allotment.allotment_status = "Approved by " + lev[2];
+                        allotment.record_status = "A";
+
+                        NpgsqlCommand cmd1 = new NpgsqlCommand("UPDATE exciseautomation.issue_register SET  record_status='" + allotment.record_status + "' WHERE issue_no='" + allotment.issue_no + "'", cn);
+                        int n = cmd1.ExecuteNonQuery();
+                    }
+                    else
+                    {
+
+                        if (allotment.record_status == "R")
+                        {
+                            allotment.record_status = "R";
+
+                            NpgsqlCommand cmd1 = new NpgsqlCommand("UPDATE exciseautomation.issue_register SET  record_status='" + allotment.record_status + "' WHERE issue_no='" + allotment.issue_no + "'", cn);
+                            int n = cmd1.ExecuteNonQuery();
+                        }
+                        
+                        
+                    }
+
+                    StringBuilder str = new StringBuilder();
+                    for (int i1 = 0; i1 < allotment.docs.Count; i1++)
+                    {
+                        //str = new StringBuilder();
+                        //str.Append("INSERT INTO exciseautomation.eascm_docs(doc_id, doc_name,doc_desc, doc_path, doc_type_code, user_id, creation_date)");
+                        //str.Append("Values('" + allotment.molasses_allotment_request_id + "','" + allotment.docs[i1].doc_name + "', '" + allotment.docs[i1].description + "','" + allotment.docs[i1].doc_path + "','ALT','" + allotment.user_id + "','" + DateTime.Now.ToString("dd-MM-yyyy") + "')");
+                        //NpgsqlCommand cmd3 = new NpgsqlCommand(str.ToString(), cn);
+                        //int r = cmd3.ExecuteNonQuery();
+
+                        NpgsqlCommand cmd2 = new NpgsqlCommand("select case when vat_availablecapacity is null then 0 else vat_availablecapacity end vat_availablecapacity from  exciseautomation.vat_master  WHERE vat_code='" + allotment.docs[i1].issue_vat + "'", cn);
+                        double available = Convert.ToDouble(cmd2.ExecuteScalar());
+                        available = available+Convert.ToDouble(allotment.docs[i1].issue_qty);
+                        cmd2 = new NpgsqlCommand("UPDATE exciseautomation.vat_master SET  vat_availablecapacity='" + available + "' WHERE  vat_code='" + allotment.docs[i1].issue_vat + "'", cn);
+                        int G = cmd2.ExecuteNonQuery();
+
+                        NpgsqlCommand cmd3 = new NpgsqlCommand("select case when vat_availablecapacity is null then 0 else vat_availablecapacity end vat_availablecapacity from  exciseautomation.vat_master  WHERE vat_code='" + allotment.docs[i1].storage_vat + "'", cn);
+                        double available_storage = Convert.ToDouble(cmd2.ExecuteScalar());
+                        available_storage = available_storage - Convert.ToDouble(allotment.docs[i1].issue_qty);
+                        cmd2 = new NpgsqlCommand("UPDATE exciseautomation.vat_master SET  vat_availablecapacity='" + available_storage + "' WHERE  vat_code='" + allotment.docs[i1].storage_vat + "'", cn);
+                        int G1 = cmd3.ExecuteNonQuery();
+
+
+
+                    }
+                    str = new StringBuilder();
+                    str.Append("insert INTO exciseautomation.transaction_history(record_id, record_id_format, transaction_date, transaction_type, transaction_state, remarks, lastmodified_date, createdby_id, creation_date, user_id) VALUES(");
+                    str.Append("'" + allotment.issue_no + "','','" + DateTime.Now.ToString("dd-MM-yyyy hh:mm:ss") + "','MTI','" + allotment.record_status + "','" + allotment.remarks + "','" + DateTime.Now.ToString("dd-MM-yyyy") + "','" + allotment.user_id + "','" + DateTime.Now.ToString("dd-MM-yyyy") + "','" + allotment.user_id + "')");
+                    NpgsqlCommand cmd = new NpgsqlCommand(str.ToString(), cn);
+                    cmd.ExecuteNonQuery();
+                    value = "0";
+                    trn.Commit();
+                    _log.Info("Allotement Approve Sucess:" + allotment.issue_no);
+                    cn.Close();
+                }
+                catch (Exception ex)
+                {
+                    value = ex.Message;
+                    _log.Info("Allotement Approve Fail:" + allotment.issue_no + "-" + value);
+                    trn.Rollback();
+                }
+                return value;
+
+            }
+        }

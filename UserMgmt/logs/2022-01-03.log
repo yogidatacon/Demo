@@ -1,0 +1,521 @@
+2022-01-03 10:27:16.2335 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:27:35.4414 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:27:36.1569 INFO Get Product Type Master List Success
+2022-01-03 10:27:36.3105 INFO Get User Success :harinagar_dis
+2022-01-03 10:28:04.2311 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:28:04.2979 INFO Get Report  Success
+2022-01-03 10:28:04.3758 INFO GetFinacListValues Success
+2022-01-03 10:28:04.5047 INFO Get Party Master List Success
+2022-01-03 10:28:04.5706 INFO Get Product Type Master List Success
+2022-01-03 10:28:04.7004 INFO Get User Success :harinagar_dis
+2022-01-03 10:35:35.5083 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:35:35.5732 INFO Get Report  Success
+2022-01-03 10:35:35.6352 INFO GetFinacListValues Success
+2022-01-03 10:35:35.7611 INFO Get Party Master List Success
+2022-01-03 10:35:35.8220 INFO Get Product Type Master List Success
+2022-01-03 10:35:36.0034 INFO Get User Success :harinagar_dis
+2022-01-03 10:35:44.0152 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:38:40.5991 INFO Get Product Type Master List Success
+2022-01-03 10:38:40.7976 INFO Get User Success :harinagar_dis
+2022-01-03 10:38:46.5033 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:38:46.5681 INFO Get Report  Success
+2022-01-03 10:38:46.6320 INFO GetFinacListValues Success
+2022-01-03 10:38:46.7636 INFO Get Party Master List Success
+2022-01-03 10:38:46.8294 INFO Get Product Type Master List Success
+2022-01-03 10:38:46.9601 INFO Get User Success :harinagar_dis
+2022-01-03 10:38:49.2360 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:38:49.8394 INFO Get Product Type Master List Success
+2022-01-03 10:38:50.0359 INFO Get User Success :harinagar_dis
+2022-01-03 10:38:56.5025 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 10:49:20.5429 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-03 10:49:20.7470 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-03 10:49:20.8785 INFO Get Product Type Master List Success
+2022-01-03 10:49:20.9475 INFO Get User Success :bdbl_dis
+2022-01-03 10:49:27.1092 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-01-03 10:49:42.6810 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:49:42.8426 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:49:43.3383 INFO Get Product Type Master List Success
+2022-01-03 10:49:43.4041 INFO Get User Success :similia_lab
+2022-01-03 10:49:45.7957 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:50:09.5800 INFO Get Allotment List Success
+2022-01-03 10:50:09.6790 INFO Get Product Type Master List Success
+2022-01-03 10:50:09.7464 INFO Get User Success :similia_lab
+2022-01-03 10:50:29.3055 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:50:35.8219 INFO Get Party Master List Success
+2022-01-03 10:50:35.8857 INFO Get Product Master List Success
+2022-01-03 10:50:36.0243 INFO Get Allotment Details Success
+2022-01-03 10:50:36.1400 INFO Get Party Master List Success
+2022-01-03 10:50:36.3405 INFO Check WorkFlow List Success
+2022-01-03 10:56:25.9284 INFO Get Product Type Master List Success
+2022-01-03 10:56:26.0139 INFO Get User Success :similia_lab
+2022-01-03 10:56:31.7235 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:56:33.5292 INFO Get Allotment List Success
+2022-01-03 10:56:33.5981 INFO Get Product Type Master List Success
+2022-01-03 10:56:33.6708 INFO Get User Success :similia_lab
+2022-01-03 10:56:36.1695 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:56:38.5643 INFO Get Party Master List Success
+2022-01-03 10:56:38.6342 INFO Get Product Master List Success
+2022-01-03 10:56:38.7738 INFO Get Allotment Details Success
+2022-01-03 10:56:38.9034 INFO Get Party Master List Success
+2022-01-03 10:56:39.1408 INFO Check WorkFlow List Success
+2022-01-03 10:56:42.8631 INFO Get Product Type Master List Success
+2022-01-03 10:56:42.9448 INFO Get User Success :similia_lab
+2022-01-03 10:56:53.5702 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 10:56:56.1053 INFO Get Party Master List Success
+2022-01-03 10:56:56.1741 INFO Get Product Master List Success
+2022-01-03 10:56:56.3804 INFO Get Allotment Details Success
+2022-01-03 10:56:56.5809 INFO Get Party Master List Success
+2022-01-03 10:56:56.7944 INFO Check WorkFlow List Success
+2022-01-03 11:04:05.5183 INFO Get Product Type Master List Success
+2022-01-03 11:04:05.6330 INFO Get User Success :similia_lab
+2022-01-03 11:04:08.2879 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:04:09.5994 INFO Get Party Master List Success
+2022-01-03 11:04:09.6632 INFO Get Product Master List Success
+2022-01-03 11:04:09.7878 INFO Get Allotment Details Success
+2022-01-03 11:04:09.9813 INFO Get Party Master List Success
+2022-01-03 11:04:10.1788 INFO Check WorkFlow List Success
+2022-01-03 11:04:11.9044 INFO Get Product Type Master List Success
+2022-01-03 11:04:12.0211 INFO Get User Success :similia_lab
+2022-01-03 11:04:17.5832 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:04:19.2696 INFO Get Allotment List Success
+2022-01-03 11:04:19.3304 INFO Get Product Type Master List Success
+2022-01-03 11:04:19.4471 INFO Get User Success :similia_lab
+2022-01-03 11:04:22.0973 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:04:28.5140 INFO Get Party Master List Success
+2022-01-03 11:04:28.5766 INFO Get Product Master List Success
+2022-01-03 11:04:28.7086 INFO Get Allotment Details Success
+2022-01-03 11:04:28.8952 INFO Get Party Master List Success
+2022-01-03 11:04:29.0980 INFO Check WorkFlow List Success
+2022-01-03 11:16:28.7259 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:16:28.9553 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:16:29.3659 INFO Get Product Type Master List Success
+2022-01-03 11:16:29.4537 INFO Get User Success :similia_lab
+2022-01-03 11:16:37.3092 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:16:46.5669 INFO Get Allotment List Success
+2022-01-03 11:16:46.6715 INFO Get Product Type Master List Success
+2022-01-03 11:16:46.7401 INFO Get User Success :similia_lab
+2022-01-03 11:16:49.8001 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:16:51.4394 INFO Get Party Master List Success
+2022-01-03 11:16:51.5046 INFO Get Product Master List Success
+2022-01-03 11:16:51.6434 INFO Get Allotment Details Success
+2022-01-03 11:16:51.7643 INFO Get Party Master List Success
+2022-01-03 11:16:51.9859 INFO Check WorkFlow List Success
+2022-01-03 11:16:55.4786 INFO Get Product Type Master List Success
+2022-01-03 11:16:55.5466 INFO Get User Success :similia_lab
+2022-01-03 11:17:20.0094 INFO Get User Fail :-Exception while reading from stream
+2022-01-03 11:17:22.1542 INFO Get Product Type Master List Success :Exception while reading from stream
+2022-01-03 11:17:44.8680 INFO Get User Fail :-Exception while reading from stream
+2022-01-03 11:20:30.9696 INFO Get User Fail :-No connection could be made because the target machine actively refused it
+2022-01-03 11:23:26.4501 INFO Get User Fail :-Exception while reading from stream
+2022-01-03 11:24:01.5100 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:24:01.7075 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:24:02.1163 INFO Get Product Type Master List Success
+2022-01-03 11:24:02.1988 INFO Get User Success :similia_lab
+2022-01-03 11:24:06.1991 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:24:07.8798 INFO Get Allotment List Success
+2022-01-03 11:24:07.9886 INFO Get Product Type Master List Success
+2022-01-03 11:24:08.0577 INFO Get User Success :similia_lab
+2022-01-03 11:24:10.4655 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 11:24:12.1212 INFO Get Party Master List Success
+2022-01-03 11:24:12.1863 INFO Get Product Master List Success
+2022-01-03 11:24:12.3167 INFO Get Allotment Details Success
+2022-01-03 11:24:12.4459 INFO Get Party Master List Success
+2022-01-03 11:24:12.6379 INFO Check WorkFlow List Success
+2022-01-03 11:25:04.1295 INFO Get Product Type Master List Success
+2022-01-03 11:25:04.1969 INFO Get User Success :similia_lab
+2022-01-03 11:25:16.6065 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:25:16.7636 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:25:17.0208 INFO Get Product Type Master List Success
+2022-01-03 11:25:17.2013 INFO Get User Success :harinagar_dis
+2022-01-03 11:25:19.4514 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:25:21.9163 INFO Get State List Success
+2022-01-03 11:25:22.8149 INFO Get Product Type Master List Success
+2022-01-03 11:25:23.0036 INFO Get User Success :harinagar_dis
+2022-01-03 11:25:25.4175 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:25:28.8052 INFO Get Product Type Master List Success
+2022-01-03 11:25:28.9867 INFO Get User Success :harinagar_dis
+2022-01-03 11:25:31.1047 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:25:33.3773 INFO Get Product Type Master List Success
+2022-01-03 11:25:33.5581 INFO Get User Success :harinagar_dis
+2022-01-03 11:25:38.4872 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:27:18.8488 INFO Get Product Type Master List Success
+2022-01-03 11:27:19.0871 INFO Get User Success :harinagar_dis
+2022-01-03 11:27:25.9035 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:31:43.5315 INFO Get Product Type Master List Success
+2022-01-03 11:31:43.7150 INFO Get User Success :harinagar_dis
+2022-01-03 11:31:52.4270 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:33:53.3978 INFO Get Product Type Master List Success
+2022-01-03 11:33:53.8898 INFO Get User Success :harinagar_dis
+2022-01-03 11:33:58.6158 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:38:04.7340 INFO Get Product Type Master List Success
+2022-01-03 11:38:06.4247 INFO Get User Success :harinagar_dis
+2022-01-03 11:38:14.6111 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:38:27.1885 INFO Get Product Type Master List Success
+2022-01-03 11:38:27.8385 INFO Get User Success :harinagar_dis
+2022-01-03 11:38:28.8854 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 11:39:16.9715 INFO Get Product Type Master List Success
+2022-01-03 11:39:17.1551 INFO Get User Success :harinagar_dis
+2022-01-03 14:07:37.1161 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:07:37.4115 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:07:38.0091 INFO Get Product Type Master List Success
+2022-01-03 14:07:38.2443 INFO Get User Success :hpcl_ec
+2022-01-03 14:09:12.2494 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:09:13.2077 INFO Get Indent List Success
+2022-01-03 14:09:13.3174 INFO Get Product Type Master List Success
+2022-01-03 14:09:13.8921 INFO Get User Success :hpcl_ec
+2022-01-03 14:09:36.5714 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:09:36.7330 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:09:36.9327 INFO Get Product Type Master List Success
+2022-01-03 14:09:37.1162 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:09:48.9251 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:09:49.1096 INFO Get MF2 List Success
+2022-01-03 14:09:49.1964 INFO Get Product Type Master List Success
+2022-01-03 14:09:49.3888 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:09:56.4683 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:09:56.6522 INFO Get Party Master List Success
+2022-01-03 14:09:56.8407 INFO Get Party Master List Success
+2022-01-03 14:09:56.9747 INFO Get Product Master List Success
+2022-01-03 14:09:57.0425 INFO Get VAT Master List Success
+2022-01-03 14:09:57.4029 INFO Get MF2  Details Success
+2022-01-03 14:09:57.5076 INFO Get Product Type Master List Success
+2022-01-03 14:09:57.6971 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:10:07.3546 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:10:07.5479 INFO Get Party Master List Success
+2022-01-03 14:10:07.7324 INFO Get Party Master List Success
+2022-01-03 14:10:07.7963 INFO Get Product Master List Success
+2022-01-03 14:10:07.8671 INFO Get VAT Master List Success
+2022-01-03 14:10:08.1881 INFO Get MF2  Details Success
+2022-01-03 14:10:08.2630 INFO Get Product Type Master List Success
+2022-01-03 14:10:08.4704 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:13:15.8736 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:13:16.0721 INFO Get MF2 List Success
+2022-01-03 14:13:16.1408 INFO Get Product Type Master List Success
+2022-01-03 14:13:16.3373 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:13:23.5419 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:13:23.7822 INFO Get Party Master List Success
+2022-01-03 14:13:24.3851 INFO Get Party Master List Success
+2022-01-03 14:13:24.4689 INFO Get Product Master List Success
+2022-01-03 14:13:24.5596 INFO Get VAT Master List Success
+2022-01-03 14:13:25.2458 INFO Get MF2  Details Success
+2022-01-03 14:13:25.3312 INFO Get Product Type Master List Success
+2022-01-03 14:13:25.8498 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:16:59.5868 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:16:59.8769 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:17:00.4883 INFO Get Product Type Master List Success
+2022-01-03 14:17:00.6854 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:17:16.3103 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:17:16.5447 INFO Get MF2 List Success
+2022-01-03 14:17:16.6800 INFO Get Product Type Master List Success
+2022-01-03 14:17:16.8526 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:17:21.4120 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:17:21.5870 INFO Get Party Master List Success
+2022-01-03 14:17:21.7555 INFO Get Party Master List Success
+2022-01-03 14:17:21.8470 INFO Get Product Master List Success
+2022-01-03 14:17:21.9415 INFO Get VAT Master List Success
+2022-01-03 14:17:22.3749 INFO Get MF2  Details Success
+2022-01-03 14:17:22.4924 INFO Get Product Type Master List Success
+2022-01-03 14:17:22.7435 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:17:38.6128 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:17:38.8509 INFO Get Party Master List Success
+2022-01-03 14:17:39.0214 INFO Get Party Master List Success
+2022-01-03 14:17:39.1058 INFO Get Product Master List Success
+2022-01-03 14:17:39.1893 INFO Get VAT Master List Success
+2022-01-03 14:17:39.5946 INFO Get MF2  Details Success
+2022-01-03 14:17:39.6936 INFO Get Product Type Master List Success
+2022-01-03 14:17:39.8814 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:20:49.6740 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-01-03 14:20:49.8069 INFO Get Party Master List Success
+2022-01-03 14:20:49.9482 INFO Get Party Master List Success
+2022-01-03 14:20:50.0154 INFO Get Product Master List Success
+2022-01-03 14:20:50.0847 INFO Get VAT Master List Success
+2022-01-03 14:20:50.4132 INFO Get MF2  Details Success
+2022-01-03 14:20:50.4965 INFO Get Product Type Master List Success
+2022-01-03 14:20:50.6393 INFO Get User Success :hpcl_ec_sgr
+2022-01-03 14:23:39.0446 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-03 14:23:39.2144 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-03 14:23:39.6663 INFO Get Product Type Master List Success
+2022-01-03 14:23:39.8049 INFO Get User Success :vishnu_sgr
+2022-01-03 14:23:46.3865 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-03 14:23:46.5218 INFO Get MF2 List Success
+2022-01-03 14:23:46.5899 INFO Get Product Type Master List Success
+2022-01-03 14:23:47.0524 INFO Get User Success :vishnu_sgr
+2022-01-03 14:23:50.9446 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-01-03 14:23:51.0731 INFO Get Party Master List Success
+2022-01-03 14:23:51.2629 INFO Get Party Master List Success
+2022-01-03 14:23:51.3362 INFO Get Product Master List Success
+2022-01-03 14:23:51.4053 INFO Get VAT Master List Success
+2022-01-03 14:23:52.0082 INFO Get MF2  Details Success
+2022-01-03 14:23:52.0884 INFO Get Product Type Master List Success
+2022-01-03 14:23:52.2879 INFO Get User Success :vishnu_sgr
+2022-01-03 14:26:35.6516 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:26:35.8333 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:26:36.1127 INFO Get Product Type Master List Success
+2022-01-03 14:26:36.4402 INFO Get User Success :hpcl_ec
+2022-01-03 14:26:42.0718 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:26:47.3908 INFO Get RR List Success
+2022-01-03 14:26:48.7225 INFO Get Product Type Master List Success
+2022-01-03 14:26:48.9824 INFO Get User Success :hpcl_ec
+2022-01-03 14:27:07.4657 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:27:30.6096 INFO Get RR List Success
+2022-01-03 14:27:35.0260 INFO Get RR No Sucess:Req/EC/HPS/RR/2021-2022/4
+2022-01-03 14:27:43.1624 INFO Get RR List Success
+2022-01-03 14:27:45.4442 INFO Get Product Type Master List Success
+2022-01-03 14:27:45.6676 INFO Get User Success :hpcl_ec
+2022-01-03 14:28:07.9140 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:28:15.4995 INFO Get RR List Success
+2022-01-03 14:28:20.3887 INFO Get Product Type Master List Success
+2022-01-03 14:28:20.7793 INFO Get User Success :hpcl_ec
+2022-01-03 14:28:28.1590 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:28:33.9415 INFO Get RR Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='71' and doc_type_code='RRL' and financial_year='2021-2022' order by eascm_docs_id
+2022-01-03 14:28:39.3092 INFO Get RR List Success
+2022-01-03 14:28:41.9954 INFO Get Product Type Master List Success
+2022-01-03 14:28:42.3332 INFO Get User Success :hpcl_ec
+2022-01-03 14:28:53.0348 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:33:06.7122 INFO Get RR Details Success
+2022-01-03 14:33:16.8315 INFO Get RR List Success
+2022-01-03 14:33:20.7574 INFO Get Product Type Master List Success
+2022-01-03 14:33:21.4882 INFO Get User Success :hpcl_ec
+2022-01-03 14:33:24.3739 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:33:34.3705 INFO Get RR List Success
+2022-01-03 14:33:40.5329 INFO Get Product Type Master List Success
+2022-01-03 14:33:40.8408 INFO Get User Success :hpcl_ec
+2022-01-03 14:33:46.2339 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:33:48.3045 INFO Get RR Details Success
+2022-01-03 14:33:53.8166 INFO Get RR List Success
+2022-01-03 14:34:35.1322 INFO Get Product Type Master List Success
+2022-01-03 14:34:35.5421 INFO Get User Success :hpcl_ec
+2022-01-03 14:34:48.5195 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 14:34:55.0981 INFO Get RR List Success
+2022-01-03 14:34:59.3826 INFO Get Product Type Master List Success
+2022-01-03 14:34:59.6255 INFO Get User Success :hpcl_ec
+2022-01-03 14:42:53.1644 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2022-01-03 14:42:53.4531 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2022-01-03 14:42:54.1275 INFO Get Product Type Master List Success
+2022-01-03 14:42:54.2663 INFO Get User Success :hpcl_wc_sgr
+2022-01-03 14:42:59.6449 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2022-01-03 14:42:59.7641 INFO Get MF2 List Success
+2022-01-03 14:42:59.8300 INFO Get Product Type Master List Success
+2022-01-03 14:42:59.9585 INFO Get User Success :hpcl_wc_sgr
+2022-01-03 14:43:05.4557 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2022-01-03 14:43:05.5882 INFO Get Party Master List Success
+2022-01-03 14:43:05.7717 INFO Get Party Master List Success
+2022-01-03 14:43:05.8376 INFO Get Product Master List Success
+2022-01-03 14:43:05.9571 INFO Get VAT Master List Success
+2022-01-03 14:43:06.3520 INFO Get MF2  Details Success
+2022-01-03 14:43:06.4168 INFO Get Product Type Master List Success
+2022-01-03 14:43:06.6682 INFO Get User Success :hpcl_wc_sgr
+2022-01-03 15:00:06.4713 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:00:06.8074 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:00:08.6189 INFO Get Product Type Master List Success
+2022-01-03 15:00:08.7581 INFO Get User Success :similia_lab
+2022-01-03 15:01:45.1210 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:02:03.2448 INFO Get Product Type Master List Success
+2022-01-03 15:02:03.3874 INFO Get User Success :similia_lab
+2022-01-03 15:02:05.6423 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:02:07.4445 INFO Get Allotment List Success
+2022-01-03 15:02:07.9647 INFO Get Product Type Master List Success
+2022-01-03 15:02:08.1064 INFO Get User Success :similia_lab
+2022-01-03 15:02:11.5840 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:02:11.7143 INFO Get Product Master List Success
+2022-01-03 15:02:11.8589 INFO Get VAT Master List Success
+2022-01-03 15:02:12.3181 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:02:12.8985 INFO Get Product Type Master List Success
+2022-01-03 15:02:13.0339 INFO Get User Success :similia_lab
+2022-01-03 15:04:02.1640 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:04:02.2977 INFO Get Product Master List Success
+2022-01-03 15:04:02.5324 INFO Get VAT Master List Success
+2022-01-03 15:04:03.2492 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:17:19.0188 INFO Get Product Type Master List Success
+2022-01-03 15:17:19.2890 INFO Get User Success :similia_lab
+2022-01-03 15:17:47.1310 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:17:49.3536 INFO Get Allotment List Success
+2022-01-03 15:17:49.7067 INFO Get Product Type Master List Success
+2022-01-03 15:17:49.8214 INFO Get User Success :similia_lab
+2022-01-03 15:17:56.6191 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:17:56.6870 INFO Get Product Master List Success
+2022-01-03 15:17:56.8117 INFO Get VAT Master List Success
+2022-01-03 15:17:57.0339 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:17:58.9940 INFO Get Product Type Master List Success
+2022-01-03 15:17:59.3252 INFO Get User Success :similia_lab
+2022-01-03 15:22:12.8405 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:22:12.9476 INFO Get Product Master List Success
+2022-01-03 15:22:13.1274 INFO Get VAT Master List Success
+2022-01-03 15:22:13.4431 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:26:32.0622 INFO Get Product Type Master List Success
+2022-01-03 15:26:32.6354 INFO Get User Success :similia_lab
+2022-01-03 15:26:36.8645 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:26:38.9434 INFO Get Allotment List Success
+2022-01-03 15:26:39.3513 INFO Get Product Type Master List Success
+2022-01-03 15:26:39.7897 INFO Get User Success :similia_lab
+2022-01-03 15:26:43.4645 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:26:43.5921 INFO Get Product Master List Success
+2022-01-03 15:26:43.8256 INFO Get VAT Master List Success
+2022-01-03 15:26:44.2125 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:26:47.0156 INFO Get Product Type Master List Success
+2022-01-03 15:26:47.1511 INFO Get User Success :similia_lab
+2022-01-03 15:26:49.3832 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:26:49.5088 INFO Get Product Master List Success
+2022-01-03 15:26:49.7568 INFO Get VAT Master List Success
+2022-01-03 15:26:50.1679 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:44:54.9490 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:44:55.3130 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:44:56.9522 INFO Get Product Type Master List Success
+2022-01-03 15:44:57.1298 INFO Get User Success :similia_lab
+2022-01-03 15:45:25.9556 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:49:31.6555 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:49:35.2368 INFO Get Product Type Master List Success
+2022-01-03 15:49:35.3498 INFO Get User Success :similia_lab
+2022-01-03 15:49:47.9649 INFO Get Product Type Master List Success
+2022-01-03 15:49:48.0977 INFO Get User Success :similia_lab
+2022-01-03 15:49:48.3901 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:00.2548 INFO Get Product Type Master List Success
+2022-01-03 15:50:00.3770 INFO Get User Success :similia_lab
+2022-01-03 15:50:02.9665 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:04.3340 INFO Get Allotment List Success
+2022-01-03 15:50:04.7857 INFO Get Product Type Master List Success
+2022-01-03 15:50:05.8270 INFO Get User Success :similia_lab
+2022-01-03 15:50:09.6900 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:09.8047 INFO Get Product Master List Success
+2022-01-03 15:50:09.9381 INFO Get VAT Master List Success
+2022-01-03 15:50:10.3439 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:50:13.0181 INFO Get Product Type Master List Success
+2022-01-03 15:50:13.1479 INFO Get User Success :similia_lab
+2022-01-03 15:50:18.5623 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:20.4099 INFO Get Allotment List Success
+2022-01-03 15:50:20.7914 INFO Get Product Type Master List Success
+2022-01-03 15:50:20.9064 INFO Get User Success :similia_lab
+2022-01-03 15:50:23.2543 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:23.3668 INFO Get Product Master List Success
+2022-01-03 15:50:23.4819 INFO Get VAT Master List Success
+2022-01-03 15:50:24.1317 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:50:26.0052 INFO Get Product Type Master List Success
+2022-01-03 15:50:26.1205 INFO Get User Success :similia_lab
+2022-01-03 15:50:30.0411 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:31.9265 INFO Get Allotment List Success
+2022-01-03 15:50:32.3149 INFO Get Product Type Master List Success
+2022-01-03 15:50:32.7403 INFO Get User Success :similia_lab
+2022-01-03 15:50:35.8002 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:35.9133 INFO Get Allotment List Success
+2022-01-03 15:50:42.0271 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:50:42.1470 INFO Get Product Master List Success
+2022-01-03 15:50:42.2639 INFO Get VAT Master List Success
+2022-01-03 15:50:42.6394 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:50:44.4971 INFO Get Product Type Master List Success
+2022-01-03 15:50:44.6124 INFO Get User Success :similia_lab
+2022-01-03 15:51:09.3847 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:51:09.8026 INFO Get Product Master List Success
+2022-01-03 15:51:09.9153 INFO Get VAT Master List Success
+2022-01-03 15:51:10.2454 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 15:52:21.0940 INFO Get Product Type Master List Success
+2022-01-03 15:52:21.2053 INFO Get User Success :similia_lab
+2022-01-03 15:53:41.8138 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-01-03 15:53:41.9295 INFO Get Product Master List Success
+2022-01-03 15:53:42.0532 INFO Get VAT Master List Success
+2022-01-03 15:53:42.7633 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 16:00:15.8593 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:00:16.5095 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:00:17.3977 INFO Get Product Type Master List Success
+2022-01-03 16:00:17.6179 INFO Get User Success :harinagar_dis
+2022-01-03 16:00:22.0114 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:00:27.0510 INFO Get Product Type Master List Success
+2022-01-03 16:00:27.2577 INFO Get User Success :harinagar_dis
+2022-01-03 16:01:03.8407 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:01:07.5221 INFO Get VAT Master List Success
+2022-01-03 16:01:07.9563 INFO Get Product Type Master List Success
+2022-01-03 16:01:08.4640 INFO Get User Success :harinagar_dis
+2022-01-03 16:02:08.2723 INFO Get VAT Master List Success
+2022-01-03 16:02:11.3755 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:02:16.2802 INFO Get VAT Master List Success
+2022-01-03 16:02:26.7984 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:02:34.8060 INFO Get VAT Master List Success
+2022-01-03 16:02:35.1565 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 16:02:39.5471 INFO Get Form84 List Success
+2022-01-03 16:02:39.7084 INFO Get Product Type Master List Success
+2022-01-03 16:02:40.2471 INFO Get User Success :harinagar_dis
+2022-01-03 16:03:02.3719 INFO Get Form84 List Success
+2022-01-03 16:03:30.3477 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 17:18:51.8177 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 17:19:07.9914 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 17:19:09.3674 INFO Get Product Type Master List Success
+2022-01-03 17:19:09.6405 INFO Get User Success :harinagar_dis
+2022-01-03 17:19:49.2651 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 17:19:54.5538 INFO Get Product Type Master List Success
+2022-01-03 17:19:54.7844 INFO Get User Success :harinagar_dis
+2022-01-03 17:19:57.1170 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 17:20:03.3090 INFO Get VAT Master List Success
+2022-01-03 17:20:03.4396 INFO Get Product Type Master List Success
+2022-01-03 17:20:03.5615 INFO Get User Success :harinagar_dis
+2022-01-03 17:20:07.6885 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-01-03 17:20:13.3575 INFO Get VAT Master List Success
+2022-01-03 17:20:25.5081 INFO Get User Success :357-Shiva Laboratories Pvt Ltd.
+2022-01-03 17:20:26.1079 INFO Get User Success :357-Shiva Laboratories Pvt Ltd.
+2022-01-03 17:20:26.3375 INFO Get Product Type Master List Success
+2022-01-03 17:20:26.4554 INFO Get User Success :shiva_lab
+2022-01-03 17:20:30.0109 INFO Get User Success :357-Shiva Laboratories Pvt Ltd.
+2022-01-03 17:20:45.1215 INFO Get Product Type Master List Success
+2022-01-03 17:20:45.6554 INFO Get User Success :shiva_lab
+2022-01-03 17:20:47.3269 INFO Get User Success :357-Shiva Laboratories Pvt Ltd.
+2022-01-03 17:20:48.7754 INFO Get Allotment List Success
+2022-01-03 17:20:49.1993 INFO Get Product Type Master List Success
+2022-01-03 17:20:49.3150 INFO Get User Success :shiva_lab
+2022-01-03 17:20:52.2906 INFO Get User Success :357-Shiva Laboratories Pvt Ltd.
+2022-01-03 17:20:52.4013 INFO Get Product Master List Success
+2022-01-03 17:20:52.8222 INFO Get VAT Master List Success
+2022-01-03 17:20:53.5112 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-01-03 17:20:55.2187 INFO Get Product Type Master List Success
+2022-01-03 17:20:55.6660 INFO Get User Success :shiva_lab
+2022-01-03 17:45:20.7548 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:45:41.5593 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:45:42.0838 INFO Get Product Type Master List Success
+2022-01-03 17:45:42.3451 INFO Get User Success :hpcl_ec
+2022-01-03 17:45:47.4992 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:45:48.9680 INFO Get RR List Success
+2022-01-03 17:45:49.3881 INFO Get Product Type Master List Success
+2022-01-03 17:45:49.7402 INFO Get User Success :hpcl_ec
+2022-01-03 17:45:51.1426 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:45:58.1379 INFO Get RR List Success
+2022-01-03 17:46:03.9475 INFO Get Product Type Master List Success
+2022-01-03 17:46:04.2637 INFO Get User Success :hpcl_ec
+2022-01-03 17:46:06.6223 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:46:10.7375 INFO Get RR Details Success
+2022-01-03 17:46:16.1779 INFO Get RR List Success
+2022-01-03 17:46:18.4570 INFO Get Product Type Master List Success
+2022-01-03 17:46:18.8077 INFO Get User Success :hpcl_ec
+2022-01-03 17:48:41.7334 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:48:41.9020 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:48:42.2793 INFO Get Product Type Master List Success
+2022-01-03 17:48:42.7311 INFO Get User Success :wcedo
+2022-01-03 17:48:45.0006 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:48:46.6432 INFO Get RR List Success
+2022-01-03 17:48:46.7390 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:48:53.7559 INFO Get RR List Success
+2022-01-03 17:48:58.2390 INFO Get Product Type Master List Success
+2022-01-03 17:48:58.3704 INFO Get User Success :wcedo
+2022-01-03 17:49:14.4540 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:49:16.4447 INFO Get RR Details Success
+2022-01-03 17:49:21.7865 INFO Get RR List Success
+2022-01-03 17:50:49.3842 INFO Get Product Type Master List Success
+2022-01-03 17:50:49.4555 INFO Get User Success :wcedo
+2022-01-03 17:50:56.2370 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:51:03.1789 INFO Get RR List Success
+2022-01-03 17:51:08.7700 INFO Get Product Type Master List Success
+2022-01-03 17:51:08.8415 INFO Get User Success :wcedo
+2022-01-03 17:51:18.8853 INFO Get User Success :99-Assistant Commissioner, West Champaran
+2022-01-03 17:51:24.1206 INFO Get RR List Success
+2022-01-03 17:51:38.3624 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:51:38.5526 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:51:38.9941 INFO Get Product Type Master List Success
+2022-01-03 17:51:39.4349 INFO Get User Success :hpcl_ec
+2022-01-03 17:51:44.1526 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:51:46.7133 INFO Get RR List Success
+2022-01-03 17:51:47.2347 INFO Get Product Type Master List Success
+2022-01-03 17:51:47.6724 INFO Get User Success :hpcl_ec
+2022-01-03 17:51:53.4949 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:52:00.0052 INFO Get RR List Success
+2022-01-03 17:52:03.8867 INFO Get Product Type Master List Success
+2022-01-03 17:52:04.2544 INFO Get User Success :hpcl_ec
+2022-01-03 17:52:09.5876 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2022-01-03 17:52:12.1740 INFO Get RR Details Success
+2022-01-03 17:52:17.6816 INFO Get RR List Success
+2022-01-03 17:52:19.9707 INFO Get Product Type Master List Success
+2022-01-03 17:52:20.3234 INFO Get User Success :hpcl_ec

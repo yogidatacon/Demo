@@ -1,0 +1,425 @@
+2021-02-15 11:28:56.6637 INFO Get User Success :44-Administrator
+2021-02-15 11:28:56.7455 INFO Get User Success :44-Administrator
+2021-02-15 11:29:25.2991 INFO Get Users List Success
+2021-02-15 11:29:33.2184 INFO Org Get List Success
+2021-02-15 11:29:33.2264 INFO Get Party Master List Success
+2021-02-15 11:29:33.2264 INFO Get Role Level List Success
+2021-02-15 11:29:33.2264 INFO Get access_type List Success
+2021-02-15 11:29:33.2404 INFO Get view_Role_master List Success
+2021-02-15 11:29:33.2404 INFO Get State List Success
+2021-02-15 11:29:33.2404 INFO Get Dept List Success
+2021-02-15 11:29:33.2653 INFO Get Emp List Success
+2021-02-15 11:29:33.2753 INFO Get Users List Success
+2021-02-15 11:31:44.4591 INFO Get Existing data Fail :user_registration
+2021-02-15 11:32:19.2471 INFO Get Existing data Fail :user_registration
+2021-02-15 11:32:56.3065 INFO Get Division List Success
+2021-02-15 11:33:13.2186 INFO Insert User Success :0-admin
+2021-02-15 11:33:13.2534 INFO Get Users List Success
+2021-02-15 11:34:57.5490 INFO Get User Success :44-Administrator
+2021-02-15 11:34:57.5719 INFO Get User Success :44-Administrator
+2021-02-15 11:35:06.9099 INFO Get Users List Success
+2021-02-15 11:35:15.7309 INFO Get Users List Success
+2021-02-15 11:35:17.0082 INFO Get Users List Success
+2021-02-15 11:35:20.1815 INFO Get Users List Success
+2021-02-15 11:35:27.8767 INFO Org Get List Success
+2021-02-15 11:35:27.8767 INFO Get Party Master List Success
+2021-02-15 11:35:27.8807 INFO Get Role Level List Success
+2021-02-15 11:35:27.8807 INFO Get access_type List Success
+2021-02-15 11:35:27.8807 INFO Get view_Role_master List Success
+2021-02-15 11:35:27.8807 INFO Get State List Success
+2021-02-15 11:35:27.8807 INFO Get Dept List Success
+2021-02-15 11:35:27.8807 INFO Get Emp List Success
+2021-02-15 11:35:27.8984 INFO Get Users List Success
+2021-02-15 11:35:27.8984 INFO Get User Success :337-admin
+2021-02-15 11:35:27.8984 INFO Get Division List Success
+2021-02-15 11:37:37.6781 INFO Get User Success :44-Administrator
+2021-02-15 11:37:37.7004 INFO Get User Success :44-Administrator
+2021-02-15 11:38:25.0796 INFO Get User Success :44-Administrator
+2021-02-15 11:38:33.1376 INFO Get User Success :44-Administrator
+2021-02-15 11:38:33.1634 INFO Get User Success :44-Administrator
+2021-02-15 11:38:40.4868 INFO Get User Success :44-Administrator
+2021-02-15 11:44:10.6020 INFO Get User Success :337-Administrator
+2021-02-15 11:44:20.2603 INFO Get User Success :337-Administrator
+2021-02-15 11:44:20.2603 INFO Get User Success :337-Administrator
+2021-02-15 11:44:26.9252 INFO Get User Success :337-Administrator
+2021-02-15 11:44:26.9289 INFO Get User Success :337-Administrator
+2021-02-15 11:44:49.3249 INFO Get User Success :337-Administrator
+2021-02-15 11:45:05.9688 INFO Get User Success :337-Administrator
+2021-02-15 11:49:21.1653 INFO Get User Success :44-Administrator
+2021-02-15 11:49:21.2441 INFO Get User Success :44-Administrator
+2021-02-15 11:49:33.0724 INFO Get User Success :44-Administrator
+2021-02-15 13:02:50.0134 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:02:50.0913 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:02:50.1759 INFO Get User Success :majhaulia_dis
+2021-02-15 13:02:54.7695 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:02:54.8359 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:07.4474 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:07.4723 INFO Get RR List Success
+2021-02-15 13:03:09.1311 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:13.5054 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:13.5054 INFO Get RR List Success
+2021-02-15 13:03:13.5353 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:16.4362 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:16.4601 INFO Get RR List Success
+2021-02-15 13:03:16.4760 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:22.3718 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:22.7408 INFO Get RR List Success
+2021-02-15 13:03:22.7408 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:23.5981 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:23.7042 INFO Get Pass List Success
+2021-02-15 13:03:23.7274 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:24.7872 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:24.7872 INFO Get Indent List Success
+2021-02-15 13:03:24.8092 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:27.8702 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:27.8702 INFO Get Indent List Success
+2021-02-15 13:03:27.9142 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:27.9142 INFO Get Allotment List Success
+2021-02-15 13:03:27.9364 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:39.3516 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:39.3516 INFO Get Allotment List Success
+2021-02-15 13:03:39.4146 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:03:39.4146 INFO Get Party Master List Success
+2021-02-15 13:03:39.4146 INFO Get Indent List Success
+2021-02-15 13:03:39.4320 INFO Get Allotment Details Success
+2021-02-15 13:03:39.4320 INFO Get Indent List Success
+2021-02-15 13:03:39.4320 INFO Get Party Master List Success
+2021-02-15 13:03:39.4732 INFO Check WorkFlow List Success
+2021-02-15 13:03:39.4864 INFO Get User Success :majhaulia_dis
+2021-02-15 13:03:58.7532 INFO Get User Success :101-Commissioner
+2021-02-15 13:03:58.7761 INFO Get User Success :101-Commissioner
+2021-02-15 13:03:59.2659 INFO Get User Success :com
+2021-02-15 13:04:01.7018 INFO Get User Success :101-Commissioner
+2021-02-15 13:04:01.7018 INFO Check WorkFlow List Success
+2021-02-15 13:04:01.7502 INFO Get User Success :101-Commissioner
+2021-02-15 13:04:01.7502 INFO Check WorkFlow List Success
+2021-02-15 13:04:01.7559 INFO Get Allotment List Success
+2021-02-15 13:04:01.7715 INFO Get User Success :com
+2021-02-15 13:04:04.9314 INFO Get User Success :101-Commissioner
+2021-02-15 13:04:04.9314 INFO Get Party Master List Success
+2021-02-15 13:04:04.9314 INFO Get Indent List Success
+2021-02-15 13:04:04.9314 INFO Get Allotment Details Success
+2021-02-15 13:04:04.9443 INFO Get Indent List Success
+2021-02-15 13:04:04.9443 INFO Get Party Master List Success
+2021-02-15 13:04:04.9443 INFO Check WorkFlow List Success
+2021-02-15 13:04:04.9443 INFO Get User Success :com
+2021-02-15 13:04:26.9466 INFO Allotement Approve Sucess:18
+2021-02-15 13:04:26.9734 INFO Get User Success :101-Commissioner
+2021-02-15 13:04:26.9804 INFO Check WorkFlow List Success
+2021-02-15 13:04:26.9804 INFO Get Allotment List Success
+2021-02-15 13:04:26.9897 INFO Get User Success :com
+2021-02-15 13:04:38.7135 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:38.7361 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:39.2176 INFO Get User Success :hodyco
+2021-02-15 13:04:41.7981 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:41.7981 INFO Check WorkFlow List Success
+2021-02-15 13:04:41.8731 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:41.8731 INFO Check WorkFlow List Success
+2021-02-15 13:04:41.8731 INFO Get Allotment List Success
+2021-02-15 13:04:41.8837 INFO Get User Success :hodyco
+2021-02-15 13:04:47.5920 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:47.5920 INFO Check WorkFlow List Success
+2021-02-15 13:04:47.5920 INFO Get Allotment List Success
+2021-02-15 13:04:47.6149 INFO Get User Success :hodyco
+2021-02-15 13:04:50.2277 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:50.2277 INFO Check WorkFlow List Success
+2021-02-15 13:04:50.2277 INFO Get Allotment List Success
+2021-02-15 13:04:53.3812 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:53.3812 INFO Check WorkFlow List Success
+2021-02-15 13:04:53.3812 INFO Get Allotment List Success
+2021-02-15 13:04:53.4008 INFO Get User Success :hodyco
+2021-02-15 13:04:57.6086 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:57.6355 INFO Allotement Issued Sucess:18
+2021-02-15 13:04:57.6587 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:04:57.6587 INFO Check WorkFlow List Success
+2021-02-15 13:04:57.6637 INFO Get Allotment List Success
+2021-02-15 13:04:57.6637 INFO Get User Success :hodyco
+2021-02-15 13:05:01.7173 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:05:01.7173 INFO Check WorkFlow List Success
+2021-02-15 13:05:01.7173 INFO Get Allotment List Success
+2021-02-15 13:05:09.1135 INFO Get User Success :100-Deputy Commissioner
+2021-02-15 13:05:09.1154 INFO Check WorkFlow List Success
+2021-02-15 13:05:09.1154 INFO Get Allotment List Success
+2021-02-15 13:05:23.6590 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:05:23.6830 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:05:23.7061 INFO Get User Success :majhaulia_dis
+2021-02-15 13:05:25.9977 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:05:25.9977 INFO Get RR List Success
+2021-02-15 13:05:26.0097 INFO Get User Success :majhaulia_dis
+2021-02-15 13:05:27.9900 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:05:27.9900 INFO Get RR List Success
+2021-02-15 13:05:27.9900 INFO Get RR No Sucess:Req/WC/MDD/RR/2020-21/4
+2021-02-15 13:05:28.0178 INFO Get RR List Success
+2021-02-15 13:05:28.0238 INFO Get User Success :majhaulia_dis
+2021-02-15 13:05:42.1109 INFO Module Insertion Sucess:Req/WC/MDD/RR/2020-21/4-MDD
+2021-02-15 13:05:42.1345 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:05:42.1345 INFO Get RR List Success
+2021-02-15 13:05:42.1345 INFO Get User Success :majhaulia_dis
+2021-02-15 13:05:44.3497 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:05:44.3667 INFO Get RR List Success
+2021-02-15 13:05:44.3667 INFO Get User Success :majhaulia_dis
+2021-02-15 13:05:57.6304 INFO Get User Success :137-Assistant Commissioner
+2021-02-15 13:05:57.6548 INFO Get User Success :137-Assistant Commissioner
+2021-02-15 13:05:57.6618 INFO Get User Success :sitedo
+2021-02-15 13:06:00.5813 INFO Get User Success :137-Assistant Commissioner
+2021-02-15 13:06:00.5856 INFO Get RR List Success
+2021-02-15 13:06:00.6130 INFO Get User Success :137-Assistant Commissioner
+2021-02-15 13:06:00.6299 INFO Get RR List Success
+2021-02-15 13:06:00.6299 INFO Get User Success :sitedo
+2021-02-15 13:06:12.0477 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:12.0707 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:12.0707 INFO Get User Success :wcedo
+2021-02-15 13:06:14.2892 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:14.2892 INFO Get RR List Success
+2021-02-15 13:06:14.3151 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:14.3335 INFO Get RR List Success
+2021-02-15 13:06:14.3335 INFO Get User Success :wcedo
+2021-02-15 13:06:16.1204 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:16.1324 INFO Get RR Details Success
+2021-02-15 13:06:16.1474 INFO Get RR List Success
+2021-02-15 13:06:16.1613 INFO Get User Success :wcedo
+2021-02-15 13:06:22.2302 INFO RR Approved by Assistant Commissioner  Sucess:19-
+2021-02-15 13:06:22.2744 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:22.2931 INFO Get RR List Success
+2021-02-15 13:06:22.2931 INFO Get User Success :wcedo
+2021-02-15 13:06:24.8004 INFO RR Issued by Assistant Commissioner  Sucess:19-HDD
+2021-02-15 13:06:24.8276 INFO Get RR List Success
+2021-02-15 13:06:24.8523 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 13:06:24.8677 INFO Get RR List Success
+2021-02-15 13:06:24.8677 INFO Get User Success :wcedo
+2021-02-15 13:06:35.6908 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:35.7158 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:35.7435 INFO Get User Success :majhaulia_dis
+2021-02-15 13:06:38.3663 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:38.3663 INFO Get RR List Success
+2021-02-15 13:06:38.3663 INFO Get User Success :majhaulia_dis
+2021-02-15 13:06:41.0304 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:41.0495 INFO Get User Success :majhaulia_dis
+2021-02-15 13:06:42.1409 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:42.1578 INFO Get RR List Success
+2021-02-15 13:06:43.7428 INFO Get User Success :majhaulia_dis
+2021-02-15 13:06:48.0405 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:48.0606 INFO Get User Success :majhaulia_dis
+2021-02-15 13:06:50.6071 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:06:50.6231 INFO Get RR List Success
+2021-02-15 13:07:36.4545 INFO Get User Success :majhaulia_dis
+2021-02-15 13:07:40.8396 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:07:40.8586 INFO Get User Success :majhaulia_dis
+2021-02-15 13:07:45.8404 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:07:45.8404 INFO Get RR List Success
+2021-02-15 13:07:45.8514 INFO Get User Success :majhaulia_dis
+2021-02-15 13:07:54.7341 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:07:54.7341 INFO Get Indent List Success
+2021-02-15 13:07:54.7449 INFO Get User Success :majhaulia_dis
+2021-02-15 13:08:02.8741 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:08:02.8741 INFO Get Indent List Success
+2021-02-15 13:08:02.8998 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:08:02.8998 INFO Get Allotment List Success
+2021-02-15 13:08:02.8998 INFO Get User Success :majhaulia_dis
+2021-02-15 13:08:08.1580 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:08:08.1626 INFO Get Allotment List Success
+2021-02-15 13:08:08.1910 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:08:08.1940 INFO Get Party Master List Success
+2021-02-15 13:08:08.1940 INFO Get Indent List Success
+2021-02-15 13:08:08.1940 INFO Get Allotment Details Success
+2021-02-15 13:08:08.1940 INFO Get Indent List Success
+2021-02-15 13:08:08.1940 INFO Get Party Master List Success
+2021-02-15 13:08:08.2101 INFO Check WorkFlow List Success
+2021-02-15 13:08:08.2101 INFO Get User Success :majhaulia_dis
+2021-02-15 13:08:24.6379 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 13:08:24.6379 INFO Get Allotment List Success
+2021-02-15 13:08:24.6492 INFO Get User Success :majhaulia_dis
+2021-02-15 15:56:14.8388 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:56:14.9185 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:56:15.0277 INFO Get User Success :majhaulia_dis
+2021-02-15 15:56:29.8050 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:56:29.8740 INFO Get User Success :majhaulia_dis
+2021-02-15 15:56:46.1440 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:56:46.1814 INFO Get RR List Success
+2021-02-15 15:56:49.0041 INFO Get User Success :majhaulia_dis
+2021-02-15 15:56:53.2106 INFO Get RR List Success
+2021-02-15 15:56:53.2106 INFO Get Balance Request Pass Success
+2021-02-15 15:57:05.3467 INFO Get RR List Success
+2021-02-15 15:57:05.3487 INFO Get Balance Request Pass Success
+2021-02-15 15:57:08.1626 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:57:08.1813 INFO Get User Success :majhaulia_dis
+2021-02-15 15:57:09.4078 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:57:09.4238 INFO Get RR List Success
+2021-02-15 15:57:58.0354 INFO Get User Success :majhaulia_dis
+2021-02-15 15:58:01.0058 INFO Get RR List Success
+2021-02-15 15:58:01.0058 INFO Get Balance Request Pass Success
+2021-02-15 15:58:11.2880 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:58:11.2880 INFO Get RR List Success
+2021-02-15 15:58:11.3222 INFO Get User Success :majhaulia_dis
+2021-02-15 15:58:16.8029 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:58:16.8215 INFO Get RR List Success
+2021-02-15 15:58:16.8382 INFO Get User Success :majhaulia_dis
+2021-02-15 15:58:28.0641 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 15:58:28.1156 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 15:58:28.1156 INFO Get User Success :wcedo
+2021-02-15 15:58:30.2155 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 15:58:30.2155 INFO Get RR List Success
+2021-02-15 15:58:30.2487 INFO Get User Success :99-Assistant Commissioner
+2021-02-15 15:58:30.2659 INFO Get RR List Success
+2021-02-15 15:58:30.2710 INFO Get User Success :wcedo
+2021-02-15 15:59:00.5871 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:59:00.6130 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:59:00.6385 INFO Get User Success :majhaulia_dis
+2021-02-15 15:59:03.9457 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:59:03.9457 INFO Get RR List Success
+2021-02-15 15:59:03.9457 INFO Get User Success :majhaulia_dis
+2021-02-15 15:59:05.5986 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 15:59:05.6255 INFO Get RR List Success
+2021-02-15 15:59:05.6315 INFO Get User Success :majhaulia_dis
+2021-02-15 15:59:43.8687 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 15:59:43.8937 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 15:59:43.8986 INFO Get User Success :smedo
+2021-02-15 15:59:46.2505 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 15:59:46.2505 INFO Get RR List Success
+2021-02-15 15:59:46.2866 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 15:59:46.3058 INFO Get RR List Success
+2021-02-15 15:59:46.3058 INFO Get User Success :smedo
+2021-02-15 15:59:48.1733 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 15:59:48.1829 INFO Get RR Details Success
+2021-02-15 15:59:48.2018 INFO Get RR List Success
+2021-02-15 15:59:48.2141 INFO Get User Success :smedo
+2021-02-15 15:59:59.3050 INFO RR Approved by Assistant Commissioner  Sucess:20-
+2021-02-15 15:59:59.3443 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 15:59:59.3623 INFO Get RR List Success
+2021-02-15 15:59:59.3670 INFO Get User Success :smedo
+2021-02-15 16:00:01.0564 INFO RR Issued by Assistant Commissioner  Sucess:20-MDD
+2021-02-15 16:00:01.0867 INFO Get RR List Success
+2021-02-15 16:00:01.1106 INFO Get User Success :136-Assistant Commissioner
+2021-02-15 16:00:01.1262 INFO Get RR List Success
+2021-02-15 16:00:01.1302 INFO Get User Success :smedo
+2021-02-15 16:00:11.9659 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:00:11.9898 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:00:12.0154 INFO Get User Success :majhaulia_dis
+2021-02-15 16:00:14.4653 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:00:14.4846 INFO Get User Success :majhaulia_dis
+2021-02-15 16:00:17.8191 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:00:17.8352 INFO Get RR List Success
+2021-02-15 16:00:22.0882 INFO Get User Success :majhaulia_dis
+2021-02-15 16:00:34.3497 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:00:34.3680 INFO Get RR List Success
+2021-02-15 16:03:43.6243 INFO Get User Success :majhaulia_dis
+2021-02-15 16:03:48.8796 INFO Get RR List Success
+2021-02-15 16:03:48.8808 INFO Get Balance Request Pass Success
+2021-02-15 16:04:00.5871 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:04:00.6122 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:04:00.6384 INFO Get User Success :majhaulia_dis
+2021-02-15 16:04:06.9685 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:04:06.9867 INFO Get User Success :majhaulia_dis
+2021-02-15 16:05:52.2068 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-02-15 16:05:52.2872 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-02-15 16:05:52.3447 INFO Get User Success :riga_sgr
+2021-02-15 16:05:54.8569 INFO Sugarcanepurchase Get List Success
+2021-02-15 16:05:54.8569 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-02-15 16:05:54.8844 INFO Get User Success :riga_sgr
+2021-02-15 16:06:20.9216 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-02-15 16:06:20.9906 INFO Get User Success :riga_sgr
+2021-02-15 16:06:31.5655 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:06:31.5878 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:06:31.6081 INFO Get User Success :harinagar_sgr
+2021-02-15 16:06:34.5914 INFO Sugarcanepurchase Get List Success
+2021-02-15 16:06:34.5914 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:06:34.6371 INFO Get User Success :harinagar_sgr
+2021-02-15 16:06:35.5977 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:06:35.6198 INFO Get User Success :harinagar_sgr
+2021-02-15 16:06:37.7655 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:06:37.8017 INFO Get Party Master List Success
+2021-02-15 16:06:37.8675 INFO Get User Success :harinagar_sgr
+2021-02-15 16:09:16.0982 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:09:16.1006 INFO Get Party Master List Success
+2021-02-15 16:09:16.1006 INFO Get User Success :harinagar_sgr
+2021-02-15 16:09:44.7677 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:09:44.7677 INFO Get Party Master List Success
+2021-02-15 16:09:44.7828 INFO Get User Success :harinagar_sgr
+2021-02-15 16:09:45.9890 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:09:46.0050 INFO Get User Success :harinagar_sgr
+2021-02-15 16:09:47.8565 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:09:47.8645 INFO Get Party Master List Success
+2021-02-15 16:09:47.8645 INFO Get User Success :harinagar_sgr
+2021-02-15 16:11:58.9848 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:11:58.9848 INFO Get Party Master List Success
+2021-02-15 16:11:59.0009 INFO Get User Success :harinagar_sgr
+2021-02-15 16:12:44.8560 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-15 16:12:44.8560 INFO Get Party Master List Success
+2021-02-15 16:12:44.8734 INFO Get User Success :harinagar_sgr
+2021-02-15 16:17:40.2989 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:17:55.0243 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:17:55.0812 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:17:55.1689 INFO Get User Success :majhaulia_dis
+2021-02-15 16:18:04.7305 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:18:04.8047 INFO Get User Success :majhaulia_dis
+2021-02-15 16:18:08.5876 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-02-15 16:18:08.6123 INFO Get User Success :majhaulia_dis
+2021-02-15 17:06:18.6426 INFO Get User Success :44-Administrator
+2021-02-15 17:06:18.7234 INFO Get User Success :44-Administrator
+2021-02-15 17:06:41.3034 INFO Get Report List Success
+2021-02-15 17:06:55.9431 INFO Get State List Success
+2021-02-15 17:06:59.1786 INFO Get Emp List Success
+2021-02-15 17:07:01.6182 INFO Get State List Success
+2021-02-15 17:07:01.6182 INFO Get Dept List Success
+2021-02-15 17:07:01.6182 INFO Get Emp List Success
+2021-02-15 17:07:15.2408 INFO Get Users List Success
+2021-02-15 17:07:22.7248 INFO Get Users List Success
+2021-02-15 17:07:26.7091 INFO Get Users List Success
+2021-02-15 17:07:30.2692 INFO Get Users List Success
+2021-02-15 17:07:32.6606 INFO Get Users List Success
+2021-02-15 17:07:33.7494 INFO Get Users List Success
+2021-02-15 17:07:34.5809 INFO Get Users List Success
+2021-02-15 17:07:38.2906 INFO Org Get List Success
+2021-02-15 17:07:38.2906 INFO Get Party Master List Success
+2021-02-15 17:07:38.2906 INFO Get Role Level List Success
+2021-02-15 17:07:38.3018 INFO Get access_type List Success
+2021-02-15 17:07:38.3018 INFO Get view_Role_master List Success
+2021-02-15 17:07:38.3018 INFO Get State List Success
+2021-02-15 17:07:38.3018 INFO Get Dept List Success
+2021-02-15 17:07:38.3018 INFO Get Emp List Success
+2021-02-15 17:07:38.3265 INFO Get Users List Success
+2021-02-15 17:07:38.3265 INFO Get User Success :101-Commissioner
+2021-02-15 17:07:38.3265 INFO Get Division List Success
+2021-02-15 17:08:37.1696 INFO Get Emp List Success
+2021-02-15 17:08:38.7903 INFO Get State List Success
+2021-02-15 17:08:38.7903 INFO Get Dept List Success
+2021-02-15 17:08:38.7903 INFO Get Emp List Success
+2021-02-15 17:09:23.0673 INFO Get Division List Success
+2021-02-15 17:10:02.8857 INFO Insert EMP Fail:22P02: invalid input syntax for integer: ""
+2021-02-15 17:28:30.8078 INFO Get User Success :101-Commissioner
+2021-02-15 17:28:30.8987 INFO Get User Success :101-Commissioner
+2021-02-15 17:28:31.4753 INFO Get User Success :com
+2021-02-15 17:28:39.5156 INFO Get User Success :101-Commissioner
+2021-02-15 17:28:39.5282 INFO Check WorkFlow List Success
+2021-02-15 17:28:39.5825 INFO Get User Success :101-Commissioner
+2021-02-15 17:28:39.5845 INFO Check WorkFlow List Success
+2021-02-15 17:28:39.6243 INFO Get Allotment List Success
+2021-02-15 17:28:39.6555 INFO Get User Success :com
+2021-02-15 17:28:41.6826 INFO Get User Success :101-Commissioner
+2021-02-15 17:28:41.6826 INFO Check WorkFlow List Success
+2021-02-15 17:28:41.6826 INFO Get Allotment List Success
+2021-02-15 17:28:41.7413 INFO Get User Success :com
+2021-02-15 17:28:43.4360 INFO Get GetSeverList Success
+2021-02-15 17:30:13.2368 INFO Get GetSeverList Success
+2021-02-15 17:37:42.6298 INFO Get User Success :101-Commissioner
+2021-02-15 17:37:42.6518 INFO Get User Success :101-Commissioner
+2021-02-15 17:37:43.1782 INFO Get User Success :com
+2021-02-15 17:37:46.6661 INFO Get User Success :101-Commissioner
+2021-02-15 17:37:46.6661 INFO Check WorkFlow List Success
+2021-02-15 17:37:46.6900 INFO Get User Success :101-Commissioner
+2021-02-15 17:37:46.6900 INFO Check WorkFlow List Success
+2021-02-15 17:37:46.6970 INFO Get Allotment List Success
+2021-02-15 17:37:46.6970 INFO Get User Success :com
+2021-02-15 17:37:48.1706 INFO Get User Success :101-Commissioner
+2021-02-15 17:37:48.1706 INFO Check WorkFlow List Success
+2021-02-15 17:37:48.1776 INFO Get Allotment List Success
+2021-02-15 17:37:48.1776 INFO Get User Success :com
+2021-02-15 17:37:49.4163 INFO Get GetSeverList Success
+2021-02-15 17:38:13.9256 INFO Get GetSeverList Success
+2021-02-15 17:42:43.2026 INFO Get User Success :101-Commissioner
+2021-02-15 17:42:44.6680 INFO Get User Success :101-Commissioner
+2021-02-15 17:43:10.0755 INFO Get User Success :101-Commissioner
+2021-02-15 17:43:11.1819 INFO Get User Success :101-Commissioner
+2021-02-15 17:43:11.9221 INFO Get User Success :101-Commissioner
+2021-02-15 17:43:12.5708 INFO Get User Success :101-Commissioner
+2021-02-15 17:43:29.9014 INFO Get User Success :101-Commissioner

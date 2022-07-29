@@ -1,0 +1,189 @@
+2021-11-12 10:18:02.5609 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-11-12 10:18:02.8315 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-11-12 10:18:03.0265 INFO Get Product Type Master List Success
+2021-11-12 10:18:03.0478 INFO Get User Success :majhaulia_dis
+2021-11-12 10:18:36.0824 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-11-12 10:18:36.3827 INFO Get Indent List Success
+2021-11-12 10:18:36.4376 INFO Get Product Type Master List Success
+2021-11-12 10:18:36.4376 INFO Get User Success :majhaulia_dis
+2021-11-12 10:18:41.0176 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-11-12 10:18:41.0425 INFO Get Allotment List Success
+2021-11-12 10:18:41.8485 INFO Get Product Type Master List Success
+2021-11-12 10:18:41.8485 INFO Get User Success :majhaulia_dis
+2021-11-12 10:18:50.2104 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-11-12 10:18:50.2269 INFO Get Party Master List Success
+2021-11-12 10:18:50.2307 INFO Get Indent List Success
+2021-11-12 10:18:50.2307 INFO Get Product Type Master List Success
+2021-11-12 10:18:50.2307 INFO Get User Success :majhaulia_dis
+2021-11-12 10:37:17.8019 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:37:26.8478 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:37:26.9532 INFO Get Product Type Master List Success
+2021-11-12 10:37:26.9645 INFO Get User Success :mtp1
+2021-11-12 10:37:35.6629 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:38:35.7002 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:38:37.7891 INFO Get Product Type Master List Success
+2021-11-12 10:38:37.7944 INFO Get User Success :mtp1
+2021-11-12 10:38:40.5889 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:38:40.5889 INFO Get License_Type List Success
+2021-11-12 10:38:42.0454 INFO Get License Fee List Success
+2021-11-12 10:38:42.0614 INFO Get State List Success
+2021-11-12 10:38:42.0754 INFO Get Product Type Master List Success
+2021-11-12 10:38:42.0754 INFO Get User Success :mtp1
+2021-11-12 10:38:47.6795 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:38:49.2779 INFO Get Product Type Master List Success
+2021-11-12 10:38:49.2779 INFO Get User Success :mtp1
+2021-11-12 10:38:54.4773 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:38:54.5015 INFO Get Allotment List Success
+2021-11-12 10:38:54.9818 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/15
+2021-11-12 10:38:54.9818 INFO Get Product Master List Success
+2021-11-12 10:38:54.9818 INFO Get UOM List Success
+2021-11-12 10:38:54.9818 INFO Get Product Type Master List Success
+2021-11-12 10:38:54.9818 INFO Get User Success :mtp1
+2021-11-12 10:39:00.0676 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:39:01.1704 INFO Get Product Type Master List Success
+2021-11-12 10:39:01.1704 INFO Get User Success :mtp1
+2021-11-12 10:39:04.3754 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:39:05.5569 INFO Get Allotment List Success
+2021-11-12 10:39:05.5852 INFO Get Product Type Master List Success
+2021-11-12 10:39:05.5893 INFO Get User Success :mtp1
+2021-11-12 10:39:11.1557 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:39:12.5316 INFO Get Party Master List Success
+2021-11-12 10:39:12.5316 INFO Get Product Master List Success
+2021-11-12 10:39:12.5316 INFO Get Product Type Master List Success
+2021-11-12 10:39:12.5316 INFO Get User Success :mtp1
+2021-11-12 10:39:17.9932 INFO Get User Success :353-M and TP Unit
+2021-11-12 10:39:19.2811 INFO Get Allotment List Success
+2021-11-12 10:39:19.2811 INFO Get Product Type Master List Success
+2021-11-12 10:39:19.2811 INFO Get User Success :mtp1
+2021-11-12 10:55:02.9691 INFO Get User Success :353-M and TP Unit
+2021-11-12 11:00:14.2275 INFO Get Party Master List Success
+2021-11-12 11:00:14.2297 INFO Get Product Master List Success
+2021-11-12 11:00:14.2297 INFO Get Product Type Master List Success
+2021-11-12 11:00:14.2297 INFO Get User Success :mtp1
+2021-11-12 11:00:37.1409 INFO Get User Success :44-Administrator
+2021-11-12 11:00:37.1788 INFO Get User Success :44-Administrator
+2021-11-12 11:00:37.1848 INFO Get Product Type Master List Success
+2021-11-12 11:00:37.1848 INFO Get User Success :Admin
+2021-11-12 11:02:21.9843 INFO Get User Success :44-Administrator
+2021-11-12 11:02:23.8146 INFO Get Users List Success
+2021-11-12 11:02:23.8146 INFO GetFinacListValues Success
+2021-11-12 11:02:23.8325 INFO Get Product Type Master List Success
+2021-11-12 11:02:23.8325 INFO Get User Success :Admin
+2021-11-12 11:02:31.4410 INFO Get User Success :105-Majhaulia Sugar Industry Ltd Distillery Division
+2021-11-12 11:03:39.4545 INFO GetFinacListValues Success
+2021-11-12 11:10:25.7226 INFO Get Existing data Fail :rawmaterial_receipt-Object reference not set to an instance of an object.
+2021-11-12 11:13:42.0222 INFO Get User Success :44-Administrator
+2021-11-12 11:13:42.0607 INFO Get User Success :44-Administrator
+2021-11-12 11:13:42.0607 INFO Get Product Type Master List Success
+2021-11-12 11:13:42.0767 INFO Get User Success :Admin
+2021-11-12 11:13:46.2615 INFO Get User Success :44-Administrator
+2021-11-12 11:14:28.7237 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:14:28.7597 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:14:28.7627 INFO Get Product Type Master List Success
+2021-11-12 11:14:28.7627 INFO Get User Success :jtcom
+2021-11-12 11:14:35.1121 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:14:35.1121 INFO Get Product Master List Success
+2021-11-12 11:14:36.8232 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:14:36.8242 INFO Get Product Master List Success
+2021-11-12 11:14:36.8242 INFO Check WorkFlow List Success
+2021-11-12 11:14:37.5836 INFO Get RR List Success
+2021-11-12 11:14:37.5836 INFO Get Product Type Master List Success
+2021-11-12 11:14:37.5916 INFO Get User Success :jtcom
+2021-11-12 11:14:40.5696 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:14:40.5696 INFO Get Product Master List Success
+2021-11-12 11:14:40.5696 INFO Check WorkFlow List Success
+2021-11-12 11:14:41.0673 INFO Get RR List Success
+2021-11-12 11:14:41.0922 INFO Get Product Type Master List Success
+2021-11-12 11:14:41.0922 INFO Get User Success :jtcom
+2021-11-12 11:21:22.5051 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:21:22.5051 INFO Get Product Master List Success
+2021-11-12 11:21:22.5051 INFO Check WorkFlow List Success
+2021-11-12 11:21:22.9360 INFO Get RR List Success
+2021-11-12 11:21:22.9573 INFO Get Product Type Master List Success
+2021-11-12 11:21:22.9573 INFO Get User Success :jtcom
+2021-11-12 11:23:45.2961 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:23:46.1051 INFO Check WorkFlow List Success
+2021-11-12 11:23:46.1827 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:23:46.1827 INFO Check WorkFlow List Success
+2021-11-12 11:23:46.1827 INFO Get Allotment List Success
+2021-11-12 11:23:46.2160 INFO Get Product Type Master List Success
+2021-11-12 11:23:46.2160 INFO Get User Success :jtcom
+2021-11-12 11:24:35.7654 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:24:35.7654 INFO Check WorkFlow List Success
+2021-11-12 11:24:35.7654 INFO Get Allotment List Success
+2021-11-12 11:24:35.7787 INFO Get Product Type Master List Success
+2021-11-12 11:24:35.7787 INFO Get User Success :jtcom
+2021-11-12 11:24:36.6921 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:24:36.6921 INFO Check WorkFlow List Success
+2021-11-12 11:24:36.7028 INFO Get Allotment List Success
+2021-11-12 11:24:36.7028 INFO Get Product Type Master List Success
+2021-11-12 11:24:36.7028 INFO Get User Success :jtcom
+2021-11-12 11:24:49.8158 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:24:49.8158 INFO Get Product Master List Success
+2021-11-12 11:24:57.4072 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:24:57.4072 INFO Get Product Master List Success
+2021-11-12 11:24:57.4072 INFO Check WorkFlow List Success
+2021-11-12 11:24:58.4767 INFO Get RR List Success
+2021-11-12 11:24:58.4956 INFO Get Product Type Master List Success
+2021-11-12 11:24:58.4956 INFO Get User Success :jtcom
+2021-11-12 11:25:23.0243 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:25:23.0243 INFO Get Product Master List Success
+2021-11-12 11:25:23.0810 INFO Get State List Success
+2021-11-12 11:25:23.0922 INFO Get NOC Sucess:468
+2021-11-12 11:25:23.0922 INFO Get NOC Sucess:Req//1
+2021-11-12 11:25:23.0922 INFO Get State List Success
+2021-11-12 11:25:23.1132 INFO Get NOC Details Success
+2021-11-12 11:25:23.1132 INFO Get Customer Details Success
+2021-11-12 11:25:23.4618 INFO Check WorkFlow List Success
+2021-11-12 11:25:24.0181 INFO Get Product Type Master List Success
+2021-11-12 11:25:24.0181 INFO Get User Success :jtcom
+2021-11-12 11:25:41.5919 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:26:34.4357 INFO NOC Approve Sucess:467
+2021-11-12 11:26:34.4576 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:26:34.4576 INFO Get Product Master List Success
+2021-11-12 11:26:35.1913 INFO Get User Success :389-Joint Commissioner on behalf of Commissioner
+2021-11-12 11:26:35.1913 INFO Get Product Master List Success
+2021-11-12 11:26:35.1913 INFO Check WorkFlow List Success
+2021-11-12 11:26:35.8408 INFO Get RR List Success
+2021-11-12 11:26:35.8408 INFO Get Product Type Master List Success
+2021-11-12 11:26:35.8408 INFO Get User Success :jtcom
+2021-11-12 11:26:47.6469 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:26:47.6868 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:26:47.7505 INFO Get Product Type Master List Success
+2021-11-12 11:26:47.7505 INFO Get User Success :hodyco
+2021-11-12 11:26:51.5193 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:26:51.5193 INFO Get Product Master List Success
+2021-11-12 11:26:52.6373 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:26:52.6373 INFO Get Product Master List Success
+2021-11-12 11:26:52.6373 INFO Check WorkFlow List Success
+2021-11-12 11:26:53.3001 INFO Get RR List Success
+2021-11-12 11:26:53.3001 INFO Get Product Type Master List Success
+2021-11-12 11:26:53.3001 INFO Get User Success :hodyco
+2021-11-12 11:27:02.0669 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:27:02.0669 INFO Get Product Master List Success
+2021-11-12 11:27:02.0669 INFO Check WorkFlow List Success
+2021-11-12 11:27:02.4834 INFO Get RR List Success
+2021-11-12 11:27:02.4834 INFO Get Product Type Master List Success
+2021-11-12 11:27:02.4834 INFO Get User Success :hodyco
+2021-11-12 11:27:42.5562 INFO Check WorkFlow List Success
+2021-11-12 11:29:58.8825 INFO NOC Approve Sucess:467
+2021-11-12 11:29:59.4582 INFO Get RR List Success
+2021-11-12 11:29:59.4782 INFO Get Report  Success
+2021-11-12 11:29:59.7303 INFO Get GetSeverList Success
+2021-11-12 11:31:22.6233 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:31:22.6233 INFO Get Product Master List Success
+2021-11-12 11:31:22.6233 INFO Check WorkFlow List Success
+2021-11-12 11:31:23.0340 INFO Get RR List Success
+2021-11-12 11:31:23.0544 INFO Get Product Type Master List Success
+2021-11-12 11:31:23.0596 INFO Get User Success :hodyco
+2021-11-12 11:31:48.4824 INFO Get User Success :100-Deputy Commissioner
+2021-11-12 11:31:48.4824 INFO Get Product Master List Success
+2021-11-12 11:31:48.5005 INFO Get State List Success
+2021-11-12 11:31:48.5005 INFO Get NOC Sucess:468
+2021-11-12 11:31:48.5005 INFO Get NOC Sucess:Req//1
+2021-11-12 11:31:48.5005 INFO Get State List Success
+2021-11-12 11:31:48.5005 INFO Get NOC Details Success
+2021-11-12 11:31:48.5115 INFO Get Customer Details Success
+2021-11-12 11:31:50.1657 INFO Check WorkFlow List Success
+2021-11-12 11:31:50.4439 INFO Get Product Type Master List Success
+2021-11-12 11:31:50.4488 INFO Get User Success :hodyco

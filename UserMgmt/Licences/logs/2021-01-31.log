@@ -1,0 +1,1410 @@
+2021-01-31 12:12:27.5474 INFO Get User Success :99-Assistant Commissioner
+2021-01-31 12:12:36.3213 INFO Get User Success :99-Assistant Commissioner
+2021-01-31 12:14:24.2150 INFO Get User Success :44-Administrator
+2021-01-31 12:14:36.0432 INFO Get RolePermissions List Success
+2021-01-31 12:14:52.9132 INFO Get Single User Details Success
+2021-01-31 12:14:58.3655 INFO Get Single User Details Success
+2021-01-31 12:14:58.5356 INFO Org Get List Success
+2021-01-31 12:14:58.7451 INFO Get view_Role_master List Success
+2021-01-31 12:14:58.8352 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:14:58.9213 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:14:59.2423 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.2423 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.2423 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:14:59.3269 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.3269 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.3269 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.3269 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.3308 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:14:59.8261 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.8261 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:14:59.9068 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.9068 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.9088 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:14:59.9889 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.9889 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:14:59.9889 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:00.0714 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.0714 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:15:00.1522 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:00.2364 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2374 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.2524 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:00.3399 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.3399 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.3399 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.3399 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.3399 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:00.4229 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4229 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4248 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4248 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4248 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4248 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4248 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:00.4248 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:15:00.5090 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:15:00.5902 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:01.0869 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.0869 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.0869 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:01.1705 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.1705 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:15:01.2538 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:01.7604 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7604 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7604 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7604 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7604 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7693 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7693 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7693 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7693 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.7693 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:01.8584 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.8584 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.8584 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.8584 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.8584 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:01.8624 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.2226 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:02.3102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.3102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.3102 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:02.7816 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.7836 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:02.8646 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:02.8646 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:02.9483 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:03.0291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:03.0291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:03.0291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:03.0341 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:15:03.1160 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:15:03.1960 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:15:03.1960 INFO Get ViewModel Success 
+2021-01-31 12:15:03.3183 INFO Get GetMaxID Success : user_permission
+2021-01-31 12:15:03.9520 INFO Get User Permission  Success
+2021-01-31 12:19:52.5263 INFO Get User Success :44-Administrator
+2021-01-31 12:20:37.0190 INFO Get RolePermissions List Success
+2021-01-31 12:20:41.5783 INFO Get Single User Details Success
+2021-01-31 12:20:46.5195 INFO Get Single User Details Success
+2021-01-31 12:20:46.7361 INFO Org Get List Success
+2021-01-31 12:20:46.8444 INFO Get view_Role_master List Success
+2021-01-31 12:20:46.9523 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:20:47.0378 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:47.3674 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:47.3674 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:47.3674 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:47.8659 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:47.8659 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:47.8659 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:47.8659 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:47.8659 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:48.3819 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.3819 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:48.4663 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.4663 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.4663 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:48.5522 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.5522 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.5522 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:48.6392 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.6392 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:20:48.7271 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:48.8116 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8116 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8116 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8116 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8116 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8116 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:48.8161 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:49.6209 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.6209 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.6209 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.6209 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.6209 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:49.7061 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:20:50.2117 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:20:50.2947 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:50.3787 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.3787 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.3787 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:50.4615 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.4615 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:20:50.5451 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.6291 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:50.7195 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.7195 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.7215 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.7215 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.7215 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:50.7215 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.2179 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2179 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2179 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2179 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2179 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2179 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2219 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.2219 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.3046 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.3046 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.3046 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.3874 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.3874 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.4702 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.4712 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.5529 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.6414 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.6414 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.6414 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.6434 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:20:51.7254 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:20:51.8074 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:20:51.8074 INFO Get ViewModel Success 
+2021-01-31 12:20:51.9200 INFO Get GetMaxID Success : user_permission
+2021-01-31 12:20:52.4830 INFO Get User Permission  Success
+2021-01-31 12:20:53.6431 INFO Get Single User Details Success
+2021-01-31 12:21:36.9750 INFO Insert User_permission Add Success : 4736-add_role_permission
+2021-01-31 12:21:37.1439 INFO Update User_permission  Success : 4736-edit_role_permission
+2021-01-31 12:21:37.3095 INFO Update User_permission  Success : 4736-delete_role_permission
+2021-01-31 12:21:37.4741 INFO Update User_permission  Success : 4736-review_role_permission
+2021-01-31 12:21:37.7461 INFO Update User_permission  Success : 4736-approve_role_permission
+2021-01-31 12:21:38.0747 INFO Insert User_permission Add Success : 4737-add_role_permission
+2021-01-31 12:21:38.2404 INFO Update User_permission  Success : 4736-edit_role_permission
+2021-01-31 12:21:38.4076 INFO Update User_permission  Success : 4736-delete_role_permission
+2021-01-31 12:21:38.5732 INFO Update User_permission  Success : 4736-review_role_permission
+2021-01-31 12:21:38.7397 INFO Update User_permission  Success : 4736-approve_role_permission
+2021-01-31 12:21:39.0693 INFO Insert User_permission Add Success : 4738-add_role_permission
+2021-01-31 12:21:39.2357 INFO Update User_permission  Success : 4736-edit_role_permission
+2021-01-31 12:21:39.4034 INFO Update User_permission  Success : 4736-delete_role_permission
+2021-01-31 12:21:39.5700 INFO Update User_permission  Success : 4736-review_role_permission
+2021-01-31 12:21:39.7359 INFO Update User_permission  Success : 4736-approve_role_permission
+2021-01-31 12:21:42.1931 INFO Org Get List Success
+2021-01-31 12:21:42.2785 INFO Get view_Role_master List Success
+2021-01-31 12:21:42.3610 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:42.4453 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:42.5284 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.5284 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.5284 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:42.6141 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.6141 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.6141 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.6141 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.6141 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:42.7071 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.7071 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:42.7900 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.7900 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.7900 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:42.8759 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.8779 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:42.8779 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:43.3826 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.3826 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:43.5686 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:43.7336 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7336 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7336 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:43.7526 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:44.1367 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.1367 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.1367 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.1367 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.1367 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:44.2266 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:44.3156 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:44.4011 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:45.2047 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.2067 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.2067 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:45.2919 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.2919 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:45.3757 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.5658 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:45.6622 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.6622 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.6622 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.6622 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.6622 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:45.6622 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:46.4817 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4817 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4817 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4876 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4876 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4876 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4876 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:46.4876 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:47.0026 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.0026 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.0026 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:47.0882 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.0882 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:47.1728 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.1728 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:47.2551 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:47.3394 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.3394 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.3394 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.3394 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:47.4263 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:47.5091 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:47.5091 INFO Get ViewModel Success 
+2021-01-31 12:21:47.6092 INFO Get GetMaxID Success : user_permission
+2021-01-31 12:21:48.7304 INFO Get Single User Details Success
+2021-01-31 12:21:54.1198 INFO Get Single User Details Success
+2021-01-31 12:21:54.2313 INFO Org Get List Success
+2021-01-31 12:21:54.3173 INFO Get view_Role_master List Success
+2021-01-31 12:21:54.4026 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:54.4880 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:54.5719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.5719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.5719 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:54.6570 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.6570 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.6591 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.6591 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.6591 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:54.7432 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.7432 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:54.8259 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.8259 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.8259 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:54.9130 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.9130 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.9130 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:54.9987 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:54.9987 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:55.0825 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.3632 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:55.4590 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.4590 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.4590 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.4590 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.4590 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:55.5444 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5444 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5444 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5444 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.5504 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:55.6394 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:55.7221 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:55.8039 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.8039 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.8039 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:55.8870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:55.8870 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:55.9711 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.0553 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.5571 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.5571 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.5571 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.5571 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.5571 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.5571 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.6426 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.6436 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.7288 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.7288 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.7288 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.8132 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.8132 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.8984 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:56.8984 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:56.9831 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:57.0665 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:57.0665 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:57.0665 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:57.0665 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:21:57.1529 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:21:57.2368 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:21:57.2368 INFO Get ViewModel Success 
+2021-01-31 12:21:57.3201 INFO Get GetMaxID Success : user_permission
+2021-01-31 12:21:57.8978 INFO Get User Permission  Success
+2021-01-31 12:22:02.6638 INFO Org Get List Success
+2021-01-31 12:22:03.1212 INFO Get view_Role_master List Success
+2021-01-31 12:22:03.3075 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:22:03.3919 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:03.4764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.4764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.4764 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:03.5630 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.5660 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.5660 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.5660 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.5660 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:03.6535 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.6535 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:03.7378 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.7378 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.7378 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:03.8236 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.8236 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.8236 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:03.9092 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:03.9092 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:22:03.9968 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1618 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1748 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1748 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1748 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1748 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.1748 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:04.2601 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.2601 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.2601 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.2601 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.2601 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.3510 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:22:04.4428 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:22:04.5264 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:04.6093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.6093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:04.6093 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:05.4060 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.4060 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:22:05.4922 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:05.5784 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5784 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5784 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.5824 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:05.6764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.6764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.6764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.6764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.6764 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.6764 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:05.7672 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.7698 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:05.8684 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.8684 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.8684 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:05.9518 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:05.9518 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:06.0377 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:06.0377 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:06.1213 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:06.2049 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:06.2069 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:06.2069 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:06.2069 INFO Get Module_master In ViewModel Success 
+2021-01-31 12:22:06.2921 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 12:22:06.3756 INFO Get TabName Master In ViewModel Success 
+2021-01-31 12:22:06.3756 INFO Get ViewModel Success 
+2021-01-31 12:22:06.4621 INFO Get GetMaxID Success : user_permission
+2021-01-31 12:22:18.2428 INFO Get User Success :99-Assistant Commissioner
+2021-01-31 12:22:18.4167 INFO Get User Success :wcedo
+2021-01-31 14:54:52.9832 INFO Get User Success :44-Administrator
+2021-01-31 14:55:02.8483 INFO Get RolePermissions List Success
+2021-01-31 14:55:11.9647 INFO Org Get List Success
+2021-01-31 14:55:12.0908 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:12.1907 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:12.5970 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.5970 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.5970 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:12.6962 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.6962 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.6962 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.6962 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.6962 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:12.8013 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.8013 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:12.9010 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.9010 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:12.9010 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:13.0085 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:13.0085 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:13.0085 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:13.4208 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:13.4208 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:13.5228 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0073 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.0192 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:14.1335 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.1335 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.1335 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.1335 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.1335 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:14.2337 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2337 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2337 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.2376 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:14.3438 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:14.4474 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:14.9720 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.9720 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:14.9720 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.0751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.0751 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:15.1780 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.2842 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.3870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.3870 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.4858 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.4868 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.5855 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.5855 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.5855 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.7989 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.7999 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:15.8987 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:15.8987 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:16.2989 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:16.4013 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:16.4013 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:16.4013 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:16.4013 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:16.4990 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:16.5976 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:16.5976 INFO Get ViewModel Success 
+2021-01-31 14:55:17.2190 INFO Get RolePermission Success
+2021-01-31 14:55:25.5607 INFO Get Single User Details Success
+2021-01-31 14:55:32.5743 INFO Get Single User Details Success
+2021-01-31 14:55:33.0845 INFO Org Get List Success
+2021-01-31 14:55:33.2589 INFO Get view_Role_master List Success
+2021-01-31 14:55:33.7258 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:33.8913 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:34.2357 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.2376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.2376 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:34.3808 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.3808 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.3808 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.3808 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.3808 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:34.5347 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.5347 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:34.6937 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.6937 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.6937 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:34.8425 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.8425 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:34.8425 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:35.0022 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.0042 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:35.1639 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4761 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4870 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.4870 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:35.6418 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.6438 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.6438 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.6438 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:35.6438 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:38.3597 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.3617 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:38.4638 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:38.5693 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:38.6730 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.6750 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.6750 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:38.7784 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:38.7784 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:39.3555 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:39.4528 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4528 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4528 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.4568 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:39.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.5563 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.6596 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:39.7623 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.7623 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.7623 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:39.8696 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.8696 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:39.9686 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:39.9686 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:40.0696 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:40.1741 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:40.1762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:40.1762 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:40.1762 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:55:40.2846 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:55:40.8236 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:55:40.8236 INFO Get ViewModel Success 
+2021-01-31 14:55:40.9441 INFO Get GetMaxID Success : user_permission
+2021-01-31 14:55:41.9112 INFO Get User Permission  Success
+2021-01-31 14:57:18.4485 INFO Org Get List Success
+2021-01-31 14:57:18.6768 INFO Get view_Role_master List Success
+2021-01-31 14:57:18.9197 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:19.4920 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:19.6025 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:19.6025 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:19.6025 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:19.7151 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:19.7151 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:19.7151 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:19.7151 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:19.7211 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:20.3103 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:20.3103 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:20.4376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:20.4376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:20.4376 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:21.0205 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.0205 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.0205 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:21.2548 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.2548 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:21.4754 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:21.6721 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6721 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6721 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6751 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.6909 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:21.8025 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.8025 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.8025 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.8025 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.8025 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:21.9042 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9042 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9042 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9042 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9042 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9042 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9094 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:21.9094 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:22.8021 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:22.9071 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:23.0288 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.0288 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.0288 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:23.1316 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.1316 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:23.2422 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3558 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3617 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.3617 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:23.9338 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.9338 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.9338 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.9338 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.9338 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:23.9338 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.0545 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:24.6363 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.6363 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:24.6363 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:25.6018 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:25.6018 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:25.7044 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:25.7074 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:25.8235 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:25.9284 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:25.9284 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:25.9284 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:25.9284 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:26.8936 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:26.9909 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:26.9909 INFO Get ViewModel Success 
+2021-01-31 14:57:27.0984 INFO Get GetMaxID Success : user_permission
+2021-01-31 14:57:27.2266 INFO Get RolePermissions List Success
+2021-01-31 14:57:31.8920 INFO Org Get List Success
+2021-01-31 14:57:32.0011 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:32.5952 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:32.7151 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.7151 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.7151 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:32.8274 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.8274 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.8304 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.8304 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.8304 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:32.9464 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:32.9464 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:33.0726 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:33.0726 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:33.0726 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:33.6398 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:33.6398 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:33.6398 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:34.2010 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.2010 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:34.3070 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:34.5102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5102 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5182 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5341 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5341 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5341 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5341 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.5341 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:34.7678 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.7698 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.7698 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:34.8732 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8732 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8732 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8782 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8782 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8782 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8782 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:34.8782 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:35.3214 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:35.4308 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:35.5270 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:35.5270 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:35.5270 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:35.6276 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:35.6276 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:36.2041 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.0903 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0903 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0903 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0903 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.0963 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.2080 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.2080 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.2080 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.2080 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.2080 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.2080 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.3093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3093 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3154 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3154 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.3154 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.4277 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.4277 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.4277 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.5454 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.5454 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.6583 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.6593 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.7731 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:37.8843 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.8843 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.8843 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:37.8843 INFO Get Module_master In ViewModel Success 
+2021-01-31 14:57:38.4886 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 14:57:38.5849 INFO Get TabName Master In ViewModel Success 
+2021-01-31 14:57:38.5849 INFO Get ViewModel Success 
+2021-01-31 14:57:38.9892 INFO Get RolePermission Success
+2021-01-31 14:59:16.6446 INFO Clear role_permission  Fail : System.String[]
+2021-01-31 15:02:18.1941 INFO Get User Success :44-Administrator
+2021-01-31 15:02:27.8113 INFO Get RolePermissions List Success
+2021-01-31 15:02:32.6496 INFO Org Get List Success
+2021-01-31 15:02:32.9000 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:02:33.0010 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:33.3968 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.3968 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.3968 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:33.4952 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.4952 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.4952 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.4952 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.4952 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:33.6011 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:33.6011 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:34.1555 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:34.1555 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:34.1555 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:34.7278 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:34.7278 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:34.7278 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:34.8440 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:34.8440 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:02:34.9484 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0657 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.0806 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:35.1918 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.1918 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.1918 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.1918 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.1918 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:35.3050 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:02:35.4222 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:02:35.9901 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.0880 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.0880 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.0880 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.1888 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.1908 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:02:36.2862 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.3797 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.4807 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.4807 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.4807 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.4807 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.4807 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.4877 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.5963 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.7068 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.7068 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.7068 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:36.9373 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:36.9403 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:37.0434 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:37.0434 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:37.1502 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:37.2465 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:37.2465 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:37.2465 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:37.2465 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:02:37.3530 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:02:37.4525 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:02:37.4525 INFO Get ViewModel Success 
+2021-01-31 15:02:38.5588 INFO Get RolePermission Success
+2021-01-31 15:04:35.0248 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:06:06.6550 INFO Insert User_permission Add Success : 4743-add_role_permission
+2021-01-31 15:06:17.2263 INFO Insert User_permission Add Success : 4744-add_role_permission
+2021-01-31 15:06:17.5694 INFO Insert User_permission Add Success : 4745-add_role_permission
+2021-01-31 15:06:18.1793 INFO Insert User_permission Add Success : 4746-add_role_permission
+2021-01-31 15:06:18.4909 INFO Insert User_permission Add Success : 4747-add_role_permission
+2021-01-31 15:06:18.4909 INFO Insert role_permission Add Success : 80-add_role_permission
+2021-01-31 15:06:18.6029 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:06:18.7188 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:06:18.9346 INFO Update role_permission Success : 81-edit_role_permission
+2021-01-31 15:06:19.0520 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:06:19.1619 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:06:19.3720 INFO Update role_permission Success : 81-delete_role_permission
+2021-01-31 15:06:19.4943 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:06:19.5997 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:06:19.8276 INFO Update role_permission Success : 81-review_role_permission
+2021-01-31 15:06:19.9235 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:06:20.0302 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:06:21.2057 INFO Update role_permission Success : 81-approve_role_permission
+2021-01-31 15:06:32.1998 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:07:49.9387 INFO Insert User_permission Add Success : 4748-add_role_permission
+2021-01-31 15:09:50.7863 INFO Insert User_permission Add Success : 4749-add_role_permission
+2021-01-31 15:09:57.9994 INFO Insert User_permission Add Success : 4750-add_role_permission
+2021-01-31 15:09:58.2812 INFO Insert User_permission Add Success : 4751-add_role_permission
+2021-01-31 15:09:58.5733 INFO Insert User_permission Add Success : 4752-add_role_permission
+2021-01-31 15:09:58.5733 INFO Insert role_permission Add Success : 81-add_role_permission
+2021-01-31 15:09:58.6721 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:09:58.7647 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:09:58.9789 INFO Update role_permission Success : 82-edit_role_permission
+2021-01-31 15:09:59.0860 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:09:59.1912 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:09:59.3858 INFO Update role_permission Success : 82-delete_role_permission
+2021-01-31 15:09:59.4934 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:09:59.5933 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:09:59.7931 INFO Update role_permission Success : 82-review_role_permission
+2021-01-31 15:09:59.9059 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:10:00.0179 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:10:00.2301 INFO Update role_permission Success : 82-approve_role_permission
+2021-01-31 15:10:00.3323 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:10:01.3655 INFO Insert User_permission Add Success : 4753-add_role_permission
+2021-01-31 15:10:01.6774 INFO Insert User_permission Add Success : 4754-add_role_permission
+2021-01-31 15:10:01.9983 INFO Insert User_permission Add Success : 4755-add_role_permission
+2021-01-31 15:10:02.7961 INFO Insert User_permission Add Success : 4756-add_role_permission
+2021-01-31 15:10:03.1502 INFO Insert User_permission Add Success : 4757-add_role_permission
+2021-01-31 15:10:03.1502 INFO Insert role_permission Add Success : 82-add_role_permission
+2021-01-31 15:10:03.2817 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:10:03.4049 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:10:03.6675 INFO Update role_permission Success : 83-edit_role_permission
+2021-01-31 15:10:03.7974 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:10:04.0776 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:10:05.2537 INFO Update role_permission Success : 83-delete_role_permission
+2021-01-31 15:10:05.3463 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:10:05.4391 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:10:05.6327 INFO Update role_permission Success : 83-review_role_permission
+2021-01-31 15:10:05.7268 INFO Get GetMaxID Success : role_permission
+2021-01-31 15:10:05.8198 INFO Update role_permission No Records : System.String[]
+2021-01-31 15:10:06.0225 INFO Update role_permission Success : 83-approve_role_permission
+2021-01-31 15:10:10.2539 INFO Get RolePermissions List Success
+2021-01-31 15:10:15.6697 INFO Get Single User Details Success
+2021-01-31 15:10:21.0840 INFO Get Single User Details Success
+2021-01-31 15:10:21.4004 INFO Org Get List Success
+2021-01-31 15:10:21.8212 INFO Get view_Role_master List Success
+2021-01-31 15:10:21.9451 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:22.0457 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:22.4806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:22.4806 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:22.4806 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.0361 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.0361 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.0361 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.0361 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.0361 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.1418 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.1418 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.2366 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.2376 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.2376 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.3348 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.3348 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.3348 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.4348 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.4348 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:23.5458 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.6593 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.7710 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.7710 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.7710 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.7710 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.7710 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:23.8829 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8829 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8829 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8829 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8829 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8829 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8938 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:23.8938 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:24.0092 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:24.1199 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:24.2239 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.2239 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.2239 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:24.3246 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.3246 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:24.4405 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:24.5523 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.1252 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.1252 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.1252 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.1292 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.1292 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.1292 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.2484 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2484 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2484 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2484 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2484 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2524 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.2524 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.3582 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.3582 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.3582 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.4747 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.4747 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.5850 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.5850 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.7164 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:25.8223 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.8223 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.8223 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:25.8223 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:25.9236 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:26.0257 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:26.0257 INFO Get ViewModel Success 
+2021-01-31 15:10:27.0039 INFO Get GetMaxID Success : user_permission
+2021-01-31 15:10:27.5143 INFO Get User Permission  Success
+2021-01-31 15:10:33.8786 INFO Org Get List Success
+2021-01-31 15:10:34.1579 INFO Get view_Role_master List Success
+2021-01-31 15:10:34.2935 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:34.4379 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:34.5444 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:34.5444 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:34.5444 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:35.1504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.1504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.1504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.1504 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.1504 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:35.2912 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.2912 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:35.4257 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.4257 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.4257 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:35.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.5563 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.5563 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:35.7959 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:35.7959 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:36.0241 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:36.4207 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4207 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4207 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4207 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4207 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4207 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.4247 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:36.5387 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.5387 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.5387 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.5387 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.5387 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.6451 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:36.7479 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:36.8597 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:36.9715 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.9715 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:36.9715 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:37.5485 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.5504 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:37.6659 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:37.7719 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:38.3776 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.3776 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.3776 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.3776 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.3776 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.3776 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.5041 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:38.6271 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.6281 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.6281 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:38.7387 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.7387 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:38.8437 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:38.8437 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:38.9580 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:39.0555 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:39.0555 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:39.0555 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:39.0555 INFO Get Module_master In ViewModel Success 
+2021-01-31 15:10:39.6555 INFO Get SubModule_master In ViewModel Success 
+2021-01-31 15:10:39.7685 INFO Get TabName Master In ViewModel Success 
+2021-01-31 15:10:39.7685 INFO Get ViewModel Success 
+2021-01-31 15:10:39.8821 INFO Get GetMaxID Success : user_permission
+2021-01-31 15:10:59.9793 INFO Get User Success :137-Assistant Commissioner
+2021-01-31 15:11:00.2579 INFO Get User Success :sitedo

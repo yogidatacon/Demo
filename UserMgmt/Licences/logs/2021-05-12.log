@@ -1,0 +1,91 @@
+2021-05-12 11:59:53.2264 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 11:59:53.3579 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 11:59:53.4229 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:00:07.9925 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:00:08.1081 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:00:11.0600 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:00:11.0817 INFO Get VAT Master List Success
+2021-05-12 12:00:11.0935 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:00:28.9705 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:00:28.9871 INFO Get Form84 List Success
+2021-05-12 12:00:29.0003 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:00:38.3460 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:00:38.3460 INFO Get VAT Master List Success
+2021-05-12 12:00:38.3576 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:00:45.3643 INFO Get VAT Master List Success
+2021-05-12 12:00:52.5415 INFO Get VAT Master List Success
+2021-05-12 12:01:00.5555 INFO Get VAT Master List Success
+2021-05-12 12:01:08.8458 INFO Get VAT Master List Success
+2021-05-12 12:01:17.5648 INFO Get VAT Master List Success
+2021-05-12 12:01:20.5344 INFO Get VAT Master List Success
+2021-05-12 12:01:23.9356 INFO Get VAT Master List Success
+2021-05-12 12:01:43.8380 INFO Get VAT Master List Success
+2021-05-12 12:01:48.5266 INFO Get VAT Master List Success
+2021-05-12 12:01:51.8228 INFO Get VAT Master List Success
+2021-05-12 12:02:18.3764 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:02:18.4039 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:02:24.6394 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:02:24.6747 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:02:26.5000 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:02:26.5095 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:08:55.7190 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:08:55.7282 INFO Get Form84 List Success
+2021-05-12 12:08:55.7282 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:08:58.0350 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:08:58.0419 INFO Get VAT Master List Success
+2021-05-12 12:08:58.0419 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:09:06.2061 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:09:06.2161 INFO Get Form84 List Success
+2021-05-12 12:09:06.2161 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:09:18.2535 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:09:18.2658 INFO Get User Success :newswadeshi_dis
+2021-05-12 12:09:24.8834 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-05-12 12:09:24.8834 INFO Get Form84 List Success
+2021-05-12 12:09:24.8834 INFO Get User Success :newswadeshi_dis
+2021-05-12 14:50:00.0505 INFO Get User Success :44-Administrator
+2021-05-12 14:50:02.5271 INFO Get User Success :44-Administrator
+2021-05-12 14:50:02.5583 INFO Get User Success :Admin
+2021-05-12 14:55:54.2471 INFO Get User Success :44-Administrator
+2021-05-12 14:55:54.3586 INFO Get User Success :44-Administrator
+2021-05-12 14:55:54.3902 INFO Get User Success :Admin
+2021-05-12 14:56:47.1903 INFO Get User Success :44-Administrator
+2021-05-12 14:56:47.2822 INFO Get License_Type List Fail
+2021-05-12 14:56:47.3063 INFO Get License Fee List Fail
+2021-05-12 14:56:47.3205 INFO Get State List Success
+2021-05-12 14:58:49.9709 INFO Get User Success :Admin
+2021-05-12 14:59:03.7994 INFO Get Division List Success
+2021-05-12 14:59:11.1873 INFO Get Division List Success
+2021-05-12 15:08:41.7991 INFO Get User Success :44-Administrator
+2021-05-12 15:08:41.9002 INFO Get User Success :44-Administrator
+2021-05-12 15:08:58.2932 INFO Get User Success :44-Administrator
+2021-05-12 15:08:58.2932 INFO Get License_Type List Success
+2021-05-12 15:08:58.3056 INFO Get License Fee List Success
+2021-05-12 15:11:52.8165 INFO Get License Fee List Success
+2021-05-12 15:12:57.1215 INFO Get License Fee List Success
+2021-05-12 15:12:57.2222 INFO Get State List Success
+2021-05-12 15:13:59.0557 INFO Get User Success :44-Administrator
+2021-05-12 15:15:21.0921 INFO Get User Success :44-Administrator
+2021-05-12 15:15:33.8809 INFO Get License_Type List Success
+2021-05-12 15:15:36.6508 INFO Get User Success :44-Administrator
+2021-05-12 15:15:36.6508 INFO Get License_Type List Success
+2021-05-12 15:15:36.6508 INFO Get License Fee List Success
+2021-05-12 15:15:36.6508 INFO Get State List Success
+2021-05-12 15:16:09.9737 INFO Get User Success :44-Administrator
+2021-05-12 15:16:10.0196 INFO Get User Success :44-Administrator
+2021-05-12 15:16:15.8107 INFO Get User Success :44-Administrator
+2021-05-12 15:16:15.8107 INFO Get License_Type List Success
+2021-05-12 15:16:15.8107 INFO Get License Fee List Success
+2021-05-12 15:16:15.8107 INFO Get State List Success
+2021-05-12 16:51:02.6005 INFO Get User Success :44-Administrator
+2021-05-12 16:51:02.7709 INFO Get User Success :44-Administrator
+2021-05-12 16:51:10.3308 INFO Get User Success :44-Administrator
+2021-05-12 16:51:10.3308 INFO Get License_Type List Success
+2021-05-12 16:51:10.3449 INFO Get License Fee List Success
+2021-05-12 16:51:10.3449 INFO Get State List Success
+2021-05-12 16:53:03.3200 INFO Get License_Type List Success
+2021-05-12 16:53:06.0282 INFO Get User Success :44-Administrator
+2021-05-12 16:53:43.9010 INFO Get User Success :44-Administrator
+2021-05-12 16:53:52.7841 INFO Get User Success :44-Administrator
+2021-05-12 16:53:52.7841 INFO Get License_Type List Success
+2021-05-12 16:53:52.7841 INFO Get License Fee List Success
+2021-05-12 16:53:52.7841 INFO Get State List Success

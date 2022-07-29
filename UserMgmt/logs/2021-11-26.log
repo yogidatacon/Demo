@@ -1,0 +1,224 @@
+2021-11-26 10:02:06.1245 INFO Get User Success :44-Administrator
+2021-11-26 10:02:06.2323 INFO Get User Success :44-Administrator
+2021-11-26 10:02:06.2673 INFO Get Product Type Master List Success
+2021-11-26 10:02:06.2753 INFO Get User Success :Admin
+2021-11-26 10:02:12.0640 INFO Get Party Master List Success
+2021-11-26 10:02:12.1100 INFO GetFinacListValues Success
+2021-11-26 10:02:12.1100 INFO Get Product Type Master List Success
+2021-11-26 10:02:12.1170 INFO Get User Success :Admin
+2021-11-26 10:03:46.0645 INFO Get User Success :44-Administrator
+2021-11-26 10:03:47.6813 INFO GetFinacListValues Success
+2021-11-26 10:03:48.0096 INFO Get Users List Success
+2021-11-26 10:03:48.0096 INFO Get Product Type Master List Success
+2021-11-26 10:03:48.0216 INFO Get User Success :Admin
+2021-11-26 10:03:51.8534 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:04:01.9711 INFO GetFinacListValues Success
+2021-11-26 10:04:23.3128 INFO Get Existing data Fail :sugarcanepurchase
+2021-11-26 10:05:22.8471 INFO GetFinacListValues Success
+2021-11-26 10:05:28.0742 INFO Get Existing data Fail :dailymolassesproduction
+2021-11-26 10:05:29.4111 INFO GetFinacListValues Success
+2021-11-26 10:05:30.5842 INFO Get Existing data Fail :molassesissueregister
+2021-11-26 10:05:30.8751 INFO GetFinacListValues Success
+2021-11-26 10:05:31.5857 INFO Get Existing data Success :vat_transfer
+2021-11-26 10:05:31.8581 INFO GetFinacListValues Success
+2021-11-26 10:05:32.3665 INFO Get Existing data Fail :molasses_indent
+2021-11-26 10:05:32.6330 INFO GetFinacListValues Success
+2021-11-26 10:05:33.1260 INFO Get Existing data Success :molasses_prov_prod
+2021-11-26 10:05:33.3520 INFO GetFinacListValues Success
+2021-11-26 10:05:33.8468 INFO Get Existing data Fail :molasses_allotment_request
+2021-11-26 10:05:34.0881 INFO GetFinacListValues Success
+2021-11-26 10:05:34.5678 INFO Get Existing data Fail :noc
+2021-11-26 10:05:34.8831 INFO GetFinacListValues Success
+2021-11-26 10:05:35.3240 INFO Get Existing data Fail :noc_depotdetail
+2021-11-26 10:05:35.6053 INFO GetFinacListValues Success
+2021-11-26 10:05:36.0923 INFO Get Existing data Fail :release_request
+2021-11-26 10:05:36.3529 INFO GetFinacListValues Success
+2021-11-26 10:05:36.8889 INFO Get Existing data Fail :pass
+2021-11-26 10:05:37.1309 INFO GetFinacListValues Success
+2021-11-26 10:05:37.7655 INFO Get Existing data Fail :openingbalance
+2021-11-26 10:05:38.0397 INFO GetFinacListValues Success
+2021-11-26 10:05:38.7066 INFO Get Existing data Fail :vat_master
+2021-11-26 10:05:38.9343 INFO GetFinacListValues Success
+2021-11-26 10:05:39.4492 INFO Get Existing data Fail :eascm_docs
+2021-11-26 10:15:05.3415 INFO Get Party Master List Success
+2021-11-26 10:15:05.3415 INFO GetFinacListValues Success
+2021-11-26 10:15:05.3415 INFO Get Product Type Master List Success
+2021-11-26 10:15:05.3524 INFO Get User Success :Admin
+2021-11-26 10:15:12.6142 INFO Get User Success :44-Administrator
+2021-11-26 10:15:16.0164 INFO GetFinacListValues Success
+2021-11-26 10:15:16.6229 INFO Get Users List Success
+2021-11-26 10:15:16.6229 INFO Get Product Type Master List Success
+2021-11-26 10:15:16.6295 INFO Get User Success :Admin
+2021-11-26 10:15:19.1412 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:21:56.7330 INFO GetFinacListValues Success
+2021-11-26 10:22:05.1401 INFO Get Existing data Fail :sugarcanepurchase
+2021-11-26 10:23:19.3864 INFO GetFinacListValues Success
+2021-11-26 10:23:24.9521 INFO Get Existing data Fail :dailymolassesproduction
+2021-11-26 10:29:03.5546 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:29:03.6615 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:29:03.7444 INFO Get Product Type Master List Success
+2021-11-26 10:29:03.7542 INFO Get User Success :riga_sgr
+2021-11-26 10:29:08.1864 INFO Sugarcanepurchase Get List Success
+2021-11-26 10:29:08.1864 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:29:08.2086 INFO Get Product Type Master List Success
+2021-11-26 10:29:08.2086 INFO Get User Success :riga_sgr
+2021-11-26 10:29:09.6972 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:30:08.5925 INFO Get Product Type Master List Success
+2021-11-26 10:30:08.5995 INFO Get User Success :riga_sgr
+2021-11-26 10:30:11.2323 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:37:11.4878 INFO Get Product Type Master List Success
+2021-11-26 10:37:11.4948 INFO Get User Success :riga_sgr
+2021-11-26 10:37:20.1219 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:38:00.3152 INFO Get Product Type Master List Success
+2021-11-26 10:38:00.3222 INFO Get User Success :riga_sgr
+2021-11-26 10:38:04.7285 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:38:18.5209 INFO Get Product Type Master List Success
+2021-11-26 10:38:18.5209 INFO Get User Success :riga_sgr
+2021-11-26 10:38:23.8966 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:53:49.3826 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:53:49.4886 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:53:49.5696 INFO Get Product Type Master List Success
+2021-11-26 10:53:49.5833 INFO Get User Success :riga_sgr
+2021-11-26 10:53:52.3043 INFO Sugarcanepurchase Get List Success
+2021-11-26 10:53:52.3043 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:53:52.3274 INFO Get Product Type Master List Success
+2021-11-26 10:53:52.3351 INFO Get User Success :riga_sgr
+2021-11-26 10:53:53.8493 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:54:28.1231 INFO Get Product Type Master List Success
+2021-11-26 10:54:28.1304 INFO Get User Success :riga_sgr
+2021-11-26 10:54:42.0125 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:54:47.9263 INFO Get Product Type Master List Success
+2021-11-26 10:54:47.9263 INFO Get User Success :riga_sgr
+2021-11-26 10:58:55.0549 INFO Sugarcanepurchase Get List Success
+2021-11-26 10:58:55.0549 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:58:55.0549 INFO Get Product Type Master List Success
+2021-11-26 10:58:55.0549 INFO Get User Success :riga_sgr
+2021-11-26 10:58:57.1893 INFO Sugarcanepurchase Get List Success
+2021-11-26 10:58:59.1749 INFO Get Party Master List Success
+2021-11-26 10:58:59.1808 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 10:58:59.6082 INFO Get Product Type Master List Success
+2021-11-26 10:58:59.6142 INFO Get User Success :riga_sgr
+2021-11-26 10:59:05.1584 INFO Get Existing data Fail :sugarcanepurchase
+2021-11-26 11:09:27.8203 INFO Sugarcanepurchase Get List Success
+2021-11-26 11:09:27.8203 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:09:27.8203 INFO Get Product Type Master List Success
+2021-11-26 11:09:27.8364 INFO Get User Success :riga_sgr
+2021-11-26 11:09:28.8855 INFO Sugarcanepurchase Get List Success
+2021-11-26 11:09:41.4187 INFO Get Party Master List Success
+2021-11-26 11:09:41.4187 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:09:55.9077 INFO Get Product Type Master List Success
+2021-11-26 11:09:55.9147 INFO Get User Success :riga_sgr
+2021-11-26 11:10:05.1163 INFO Sugarcanepurchase Get List Success
+2021-11-26 11:10:05.1312 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:10:05.1312 INFO Get Product Type Master List Success
+2021-11-26 11:10:05.1312 INFO Get User Success :riga_sgr
+2021-11-26 11:14:37.2303 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:14:37.2442 INFO Get Product Type Master List Success
+2021-11-26 11:14:37.2442 INFO Get User Success :riga_sgr
+2021-11-26 11:15:34.8272 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:15:36.2682 INFO Get Party Master List Success
+2021-11-26 11:15:36.2851 INFO Get Product Type Master List Success
+2021-11-26 11:15:36.2951 INFO Get User Success :riga_sgr
+2021-11-26 11:46:29.1998 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:46:29.2126 INFO Get Product Type Master List Success
+2021-11-26 11:46:29.2126 INFO Get User Success :riga_sgr
+2021-11-26 11:46:31.4063 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:46:31.4158 INFO Get Product Type Master List Success
+2021-11-26 11:46:31.4158 INFO Get User Success :riga_sgr
+2021-11-26 11:46:33.1287 INFO Sugarcanepurchase Get List Success
+2021-11-26 11:46:33.1327 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:46:33.1327 INFO Get Product Type Master List Success
+2021-11-26 11:46:33.1327 INFO Get User Success :riga_sgr
+2021-11-26 11:46:34.6116 INFO Sugarcanepurchase Get List Success
+2021-11-26 11:48:13.8326 INFO Get Party Master List Success
+2021-11-26 11:48:13.8326 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:48:15.2899 INFO Get Product Type Master List Success
+2021-11-26 11:48:15.2899 INFO Get User Success :riga_sgr
+2021-11-26 11:48:23.8425 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:48:23.8595 INFO Get Product Type Master List Success
+2021-11-26 11:48:23.8655 INFO Get User Success :riga_sgr
+2021-11-26 11:48:25.4991 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:48:26.8155 INFO Get Party Master List Success
+2021-11-26 11:48:26.8313 INFO Get Product Type Master List Success
+2021-11-26 11:48:26.8393 INFO Get User Success :riga_sgr
+2021-11-26 11:52:58.0879 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:52:58.0879 INFO Get Product Type Master List Success
+2021-11-26 11:52:58.1003 INFO Get User Success :riga_sgr
+2021-11-26 11:52:59.6734 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:52:59.6883 INFO MIR GetList Sucess
+2021-11-26 11:52:59.6913 INFO Get Product Type Master List Success
+2021-11-26 11:52:59.6913 INFO Get User Success :riga_sgr
+2021-11-26 11:53:08.1864 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:53:08.1975 INFO Get VAT Master List Success
+2021-11-26 11:53:08.2174 INFO Get Pass List Success
+2021-11-26 11:53:08.2174 INFO Get Product Type Master List Success
+2021-11-26 11:53:08.2255 INFO Get User Success :riga_sgr
+2021-11-26 11:53:10.3901 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:53:10.3901 INFO Get Product Type Master List Success
+2021-11-26 11:53:10.3991 INFO Get User Success :riga_sgr
+2021-11-26 11:53:14.9474 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:53:14.9474 INFO Get VAT Master List Success
+2021-11-26 11:53:16.6139 INFO Get Product Type Master List Success
+2021-11-26 11:53:16.6139 INFO Get User Success :riga_sgr
+2021-11-26 11:55:02.0140 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:55:02.0270 INFO MIR GetList Sucess
+2021-11-26 11:55:02.0270 INFO Get Product Type Master List Success
+2021-11-26 11:55:02.0351 INFO Get User Success :riga_sgr
+2021-11-26 11:58:32.1522 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:58:32.1522 INFO Get Product Type Master List Success
+2021-11-26 11:58:32.1612 INFO Get User Success :riga_sgr
+2021-11-26 11:58:34.1816 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:58:35.6183 INFO Get VAT Master List Success
+2021-11-26 11:58:36.8012 INFO Get Product Type Master List Success
+2021-11-26 11:58:36.8012 INFO Get User Success :riga_sgr
+2021-11-26 11:59:53.8360 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:59:53.8360 INFO Get Product Type Master List Success
+2021-11-26 11:59:53.8360 INFO Get User Success :riga_sgr
+2021-11-26 11:59:55.4080 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:59:55.4180 INFO MIR GetList Sucess
+2021-11-26 11:59:55.4180 INFO Get Product Type Master List Success
+2021-11-26 11:59:55.4264 INFO Get User Success :riga_sgr
+2021-11-26 11:59:56.7870 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:59:56.7870 INFO Get Product Type Master List Success
+2021-11-26 11:59:56.8021 INFO Get User Success :riga_sgr
+2021-11-26 11:59:58.0088 INFO Sugarcanepurchase Get List Success
+2021-11-26 11:59:58.0088 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 11:59:58.0088 INFO Get Product Type Master List Success
+2021-11-26 11:59:58.0195 INFO Get User Success :riga_sgr
+2021-11-26 12:00:18.0207 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 12:00:18.0207 INFO Get Product Type Master List Success
+2021-11-26 12:00:18.0207 INFO Get User Success :riga_sgr
+2021-11-26 12:00:23.3318 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-11-26 12:12:34.6532 INFO Get VAT Master List Success
+2021-11-26 12:12:35.2199 INFO Get Product Type Master List Success
+2021-11-26 12:12:35.2329 INFO Get User Success :riga_sgr
+2021-11-26 12:12:45.0004 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:12:45.0353 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:12:45.0713 INFO Get Product Type Master List Success
+2021-11-26 12:12:45.0713 INFO Get User Success :mtp1
+2021-11-26 12:12:49.5532 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:12:51.2719 INFO Get Product Type Master List Success
+2021-11-26 12:12:51.2719 INFO Get User Success :mtp1
+2021-11-26 12:12:53.2165 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:12:54.4897 INFO Get Allotment List Success
+2021-11-26 12:12:54.4897 INFO Get Product Type Master List Success
+2021-11-26 12:12:54.4897 INFO Get User Success :mtp1
+2021-11-26 12:12:57.1279 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:12:57.1309 INFO Get Product Master List Success
+2021-11-26 12:12:57.1309 INFO Get VAT Master List Success
+2021-11-26 12:12:57.1749 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2021-11-26 12:12:59.1579 INFO Get Product Type Master List Success
+2021-11-26 12:12:59.1629 INFO Get User Success :mtp1
+2021-11-26 12:13:04.8004 INFO Get VAT Details Fail :Field not found in row: party_name
+2021-11-26 12:13:17.6977 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:13:18.0032 INFO Update Allotment Success :-MTP
+2021-11-26 12:13:18.0262 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:13:18.3626 INFO Get Allotment List Success
+2021-11-26 12:13:18.3636 INFO Get Product Type Master List Success
+2021-11-26 12:13:18.3636 INFO Get User Success :mtp1
+2021-11-26 12:13:21.0016 INFO Get User Success :353-M and TP Unit
+2021-11-26 12:13:21.0016 INFO Get Product Master List Success
+2021-11-26 12:13:21.0056 INFO Get VAT Master List Success
+2021-11-26 12:13:21.0245 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2021-11-26 12:13:22.3191 INFO Get Product Type Master List Success
+2021-11-26 12:13:22.3191 INFO Get User Success :mtp1

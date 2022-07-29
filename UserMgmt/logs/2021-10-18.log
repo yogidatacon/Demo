@@ -1,0 +1,113 @@
+2021-10-18 10:55:53.4507 INFO Get User Success :44-Administrator
+2021-10-18 10:56:01.2429 INFO Get User Success :44-Administrator
+2021-10-18 10:56:01.3037 INFO Get Product Type Master List Success
+2021-10-18 10:56:01.3247 INFO Get User Success :Admin
+2021-10-18 10:56:12.9925 INFO Get State List Success
+2021-10-18 10:56:13.0434 INFO Get Product Type Master List Success
+2021-10-18 10:56:13.0434 INFO Get User Success :Admin
+2021-10-18 10:56:14.4347 INFO Get Division List Success
+2021-10-18 10:56:14.4487 INFO Get Product Type Master List Success
+2021-10-18 10:56:14.4487 INFO Get User Success :Admin
+2021-10-18 10:56:15.5530 INFO Get Product Type Master List Success
+2021-10-18 10:56:15.5590 INFO Get User Success :Admin
+2021-10-18 10:56:17.3695 INFO Get State List Success
+2021-10-18 10:56:17.3695 INFO Get Product Type Master List Success
+2021-10-18 10:56:17.3695 INFO Get User Success :Admin
+2021-10-18 10:58:46.4335 INFO Get State List Success
+2021-10-18 10:58:46.4579 INFO Get Product Type Master List Success
+2021-10-18 10:58:46.4638 INFO Get User Success :Admin
+2021-10-18 10:59:30.6850 INFO Get State List Success
+2021-10-18 10:59:30.6850 INFO Get Product Type Master List Success
+2021-10-18 10:59:30.6850 INFO Get User Success :Admin
+2021-10-18 10:59:49.3060 INFO Get Division List Success
+2021-10-18 10:59:56.4020 INFO Get Existing data Fail :District_Master
+2021-10-18 11:00:01.7972 INFO Get Existing data Fail :District_Master
+2021-10-18 11:04:56.1188 INFO Get Product Type Master List Success
+2021-10-18 11:04:56.1188 INFO Get User Success :Admin
+2021-10-18 11:05:12.0578 INFO Get State List Success
+2021-10-18 11:05:12.0578 INFO Get Product Type Master List Success
+2021-10-18 11:05:12.0578 INFO Get User Success :Admin
+2021-10-18 11:05:15.4103 INFO Get Division List Success
+2021-10-18 11:05:27.7074 INFO Get Existing data Fail :District_Master
+2021-10-18 11:05:31.3188 INFO Get Existing data Fail :District_Master
+2021-10-18 11:06:54.7767 INFO Insert District Success :EF-Cge
+2021-10-18 11:06:57.7998 INFO Get Product Type Master List Success
+2021-10-18 11:06:57.8048 INFO Get User Success :Admin
+2021-10-18 11:07:16.1743 INFO Get Users List Success
+2021-10-18 11:07:16.1743 INFO Get State List Success
+2021-10-18 11:07:16.1786 INFO Get Division List Success
+2021-10-18 11:07:16.1786 INFO Get Product Type Master List Success
+2021-10-18 11:07:16.1786 INFO Get User Success :Admin
+2021-10-18 11:08:54.5157 INFO Get Product Type Master List Success
+2021-10-18 11:08:54.5157 INFO Get User Success :Admin
+2021-10-18 11:09:03.8687 INFO Get access_type List Success
+2021-10-18 11:09:53.3569 INFO Get Users List Success
+2021-10-18 11:09:55.1241 INFO Get State List Success
+2021-10-18 11:09:55.1241 INFO Get Division List Success
+2021-10-18 11:09:55.1241 INFO Get Product Type Master List Success
+2021-10-18 11:09:55.1241 INFO Get User Success :Admin
+2021-10-18 11:09:58.4630 INFO Get Product Type Master List Success
+2021-10-18 11:09:58.4630 INFO Get User Success :Admin
+2021-10-18 11:10:03.2439 INFO Get access_type List Success
+2021-10-18 11:10:55.2087 INFO Get Users List Success
+2021-10-18 11:12:58.3556 INFO Get User Success :44-Administrator
+2021-10-18 11:12:58.4546 INFO Get User Success :44-Administrator
+2021-10-18 11:12:58.4815 INFO Get Product Type Master List Success
+2021-10-18 11:12:58.4815 INFO Get User Success :Admin
+2021-10-18 11:13:17.2943 INFO Get State List Success
+2021-10-18 11:13:17.3358 INFO Get Product Type Master List Success
+2021-10-18 11:13:17.3358 INFO Get User Success :Admin
+2021-10-18 11:13:29.2847 INFO Get Product Type Master List Success
+2021-10-18 11:13:29.2897 INFO Get User Success :Admin
+2021-10-18 11:13:29.3359 INFO Get Division List Success
+2021-10-18 11:13:29.3518 INFO Get Product Type Master List Success
+2021-10-18 11:13:29.3518 INFO Get User Success :Admin
+2021-10-18 11:15:01.6938 INFO Get Product Type Master List Success
+2021-10-18 11:15:01.6988 INFO Get User Success :Admin
+2021-10-18 11:15:14.6482 INFO Get access_type List Success
+2021-10-18 11:19:38.0192 INFO Get Users List Success
+2021-10-18 11:19:39.1098 INFO Get State List Success
+2021-10-18 11:19:39.1098 INFO Get Division List Success
+2021-10-18 11:19:39.1098 INFO Get Product Type Master List Success
+2021-10-18 11:19:39.1178 INFO Get User Success :Admin
+2021-10-18 11:23:38.3841 INFO Get User Success :44-Administrator
+2021-10-18 11:23:52.0821 INFO Get User Success :44-Administrator
+2021-10-18 11:23:52.1102 INFO Get Product Type Master List Success
+2021-10-18 11:23:52.1180 INFO Get User Success :Admin
+2021-10-18 11:23:55.9678 INFO Get State List Success
+2021-10-18 11:23:56.0077 INFO Get Product Type Master List Success
+2021-10-18 11:23:56.0077 INFO Get User Success :Admin
+2021-10-18 11:25:47.0813 INFO Get Product Type Master List Success
+2021-10-18 11:25:47.0863 INFO Get User Success :Admin
+2021-10-18 11:26:10.8674 INFO Get Users List Success
+2021-10-18 11:26:11.9077 INFO Get State List Success
+2021-10-18 11:26:11.9077 INFO Get Division List Success
+2021-10-18 11:26:11.9077 INFO Get Product Type Master List Success
+2021-10-18 11:26:11.9176 INFO Get User Success :Admin
+2021-10-18 11:28:36.7804 INFO Update District Fail :--23503: insert or update on table "district_master" violates foreign key constraint "fk_division_master"
+2021-10-18 11:28:38.3669 INFO Get Product Type Master List Success
+2021-10-18 11:28:38.3669 INFO Get User Success :Admin
+2021-10-18 11:28:49.2858 INFO Get Users List Success
+2021-10-18 11:29:15.7959 INFO Get State List Success
+2021-10-18 11:29:15.7959 INFO Get Division List Success
+2021-10-18 11:29:15.7959 INFO Get Product Type Master List Success
+2021-10-18 11:29:15.7959 INFO Get User Success :Admin
+2021-10-18 11:29:47.3610 INFO Update District Fail :--23503: insert or update on table "district_master" violates foreign key constraint "fk_division_master"
+2021-10-18 11:29:48.3574 INFO Get Product Type Master List Success
+2021-10-18 11:29:48.3574 INFO Get User Success :Admin
+2021-10-18 14:36:06.3217 INFO Get User Success :44-Administrator
+2021-10-18 14:36:06.5015 INFO Get User Success :44-Administrator
+2021-10-18 14:36:06.5340 INFO Get Product Type Master List Success
+2021-10-18 14:36:06.5511 INFO Get User Success :Admin
+2021-10-18 14:36:15.8925 INFO Get Product Type Master List Success
+2021-10-18 14:36:15.9091 INFO Get User Success :Admin
+2021-10-18 14:36:18.2010 INFO Get User Success :44-Administrator
+2021-10-18 14:36:18.2010 INFO Get Report  Success
+2021-10-18 14:36:18.2332 INFO Get Party Master List Success
+2021-10-18 14:36:18.2332 INFO Get Product Type Master List Success
+2021-10-18 14:36:18.2332 INFO Get User Success :Admin
+2021-10-18 14:59:32.3073 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-10-18 14:59:50.6866 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-10-18 14:59:50.7661 INFO Get Product Type Master List Success
+2021-10-18 14:59:50.7768 INFO Get User Success :harinagar_dis
+2021-10-18 14:59:56.1115 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)

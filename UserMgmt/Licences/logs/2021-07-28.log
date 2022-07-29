@@ -1,0 +1,134 @@
+2021-07-28 10:58:03.3955 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 10:58:06.5722 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 10:58:15.6796 INFO Get Product Type Master List Success
+2021-07-28 10:58:16.2266 INFO Get User Success :newswadeshi_dis
+2021-07-28 10:58:21.6422 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 10:58:25.7970 INFO Get Product Type Master List Success
+2021-07-28 10:58:25.9740 INFO Get User Success :newswadeshi_dis
+2021-07-28 10:58:44.6608 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 12:01:12.1201 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 12:01:25.6202 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 12:02:13.1452 INFO Get Product Type Master List Success
+2021-07-28 12:02:13.3202 INFO Get User Success :riga_dis
+2021-07-28 12:02:21.0167 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 12:02:24.1915 INFO Get Product Type Master List Success
+2021-07-28 12:02:24.3466 INFO Get User Success :riga_dis
+2021-07-28 15:47:21.7465 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 15:47:22.3415 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 15:47:28.1501 INFO Get Product Type Master List Success
+2021-07-28 15:47:28.3141 INFO Get User Success :globus_dis
+2021-07-28 15:47:43.0601 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 15:47:50.3027 INFO Get Product Type Master List Success
+2021-07-28 15:47:50.4407 INFO Get User Success :globus_dis
+2021-07-28 15:47:55.2524 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 15:48:04.0548 INFO Get Dispach Master List Success
+2021-07-28 15:52:27.0881 INFO Get VAT Master List Success
+2021-07-28 15:52:30.1459 INFO Get Product Type Master List Success
+2021-07-28 15:52:30.3080 INFO Get User Success :globus_dis
+2021-07-28 15:53:59.1174 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:54:15.6070 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:54:20.8666 INFO Get Product Type Master List Success
+2021-07-28 15:54:21.0236 INFO Get User Success :newswadeshi_dis
+2021-07-28 15:54:25.0164 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:54:52.3476 INFO Get RR List Success
+2021-07-28 15:54:57.9133 INFO Get Product Type Master List Success
+2021-07-28 15:54:58.0993 INFO Get User Success :newswadeshi_dis
+2021-07-28 15:55:06.6757 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:55:06.8067 INFO Get Product Master List Success
+2021-07-28 15:55:10.0206 INFO Get State List Success
+2021-07-28 15:55:10.1295 INFO Get NOC Sucess:180
+2021-07-28 15:55:10.2915 INFO Get NOC Sucess:Req/WC/NSD/ETH-NOC/2020-21/22
+2021-07-28 15:55:10.7195 INFO Get NOC Details Success
+2021-07-28 15:55:10.8795 INFO Get Customer Details Success
+2021-07-28 15:55:11.1665 INFO Check WorkFlow List Success
+2021-07-28 15:55:11.3424 INFO Get Product Type Master List Success
+2021-07-28 15:55:11.4285 INFO Get User Success :newswadeshi_dis
+2021-07-28 15:55:27.2805 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:56:20.6900 INFO Get RR List Success
+2021-07-28 15:58:04.4115 INFO Get Product Type Master List Success
+2021-07-28 15:58:06.7934 INFO Get User Success :newswadeshi_dis
+2021-07-28 15:58:28.6089 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:58:29.0269 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:58:34.1356 INFO Get Product Type Master List Success
+2021-07-28 15:58:34.3996 INFO Get User Success :newswadeshi_dis
+2021-07-28 15:58:38.0443 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-07-28 15:59:03.9498 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 15:59:04.3098 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 15:59:07.6956 INFO Get Product Type Master List Success
+2021-07-28 15:59:07.8946 INFO Get User Success :riga_dis
+2021-07-28 15:59:28.8623 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 15:59:58.4334 INFO Get RR List Success
+2021-07-28 16:00:01.7572 INFO Get Product Type Master List Success
+2021-07-28 16:00:02.2551 INFO Get User Success :riga_dis
+2021-07-28 16:00:12.8035 INFO Get User Success :104-Riga Distillery Division
+2021-07-28 16:00:12.8935 INFO Get Product Master List Success
+2021-07-28 16:00:16.2972 INFO Get State List Success
+2021-07-28 16:00:16.3793 INFO Get NOC Sucess:180
+2021-07-28 16:00:16.5323 INFO Get NOC Sucess:Req/SI/RDD/ETH-NOC/2020-21/3
+2021-07-28 16:00:17.0982 INFO Get NOC Details Success
+2021-07-28 16:00:17.1712 INFO Get Customer Details Success
+2021-07-28 16:00:17.4102 INFO Check WorkFlow List Success
+2021-07-28 16:00:17.5712 INFO Get Product Type Master List Success
+2021-07-28 16:00:17.7402 INFO Get User Success :riga_dis
+2021-07-28 16:00:51.9640 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:00:52.3250 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:00:55.7637 INFO Get Product Type Master List Success
+2021-07-28 16:00:55.8507 INFO Get User Success :hodyco
+2021-07-28 16:00:59.7935 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:01:03.8223 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:01:04.1813 INFO Check WorkFlow List Success
+2021-07-28 16:01:36.7932 INFO Get RR List Success
+2021-07-28 16:01:36.9251 INFO Get Product Type Master List Success
+2021-07-28 16:01:37.1331 INFO Get User Success :hodyco
+2021-07-28 16:01:44.7867 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:01:44.8707 INFO Get Product Master List Success
+2021-07-28 16:01:48.0155 INFO Get State List Success
+2021-07-28 16:01:48.1024 INFO Get NOC Sucess:180
+2021-07-28 16:01:48.3294 INFO Get NOC Sucess:Req//1
+2021-07-28 16:01:48.6984 INFO Get State List Success
+2021-07-28 16:01:49.0134 INFO Get NOC Details Success
+2021-07-28 16:01:49.0914 INFO Get Customer Details Success
+2021-07-28 16:01:49.3063 INFO Check WorkFlow List Success
+2021-07-28 16:01:49.5903 INFO Get Product Type Master List Success
+2021-07-28 16:01:49.7793 INFO Get User Success :hodyco
+2021-07-28 16:02:11.1180 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:02:11.4209 INFO Get Product Master List Success
+2021-07-28 16:04:48.7580 INFO Get State List Success
+2021-07-28 16:04:48.8520 INFO Get NOC Sucess:180
+2021-07-28 16:04:48.9900 INFO Get NOC Sucess:Req//1
+2021-07-28 16:04:51.3558 INFO Get State List Success
+2021-07-28 16:04:51.6468 INFO Get NOC Details Success
+2021-07-28 16:04:51.7168 INFO Get Customer Details Success
+2021-07-28 16:04:51.9458 INFO Check WorkFlow List Success
+2021-07-28 16:04:52.1787 INFO Get Product Type Master List Success
+2021-07-28 16:04:52.2708 INFO Get User Success :hodyco
+2021-07-28 16:04:59.3926 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 16:04:59.4647 INFO Get Product Master List Success
+2021-07-28 16:06:02.0340 INFO Get State List Success
+2021-07-28 16:06:02.0960 INFO Get NOC Sucess:180
+2021-07-28 16:06:02.2340 INFO Get NOC Sucess:Req//1
+2021-07-28 16:06:41.4605 INFO Get State List Success
+2021-07-28 16:06:57.5175 INFO Get NOC Details Success
+2021-07-28 16:06:57.5785 INFO Get Customer Details Success
+2021-07-28 17:04:47.9904 INFO Get User Success :100-Deputy Commissioner
+2021-07-28 17:04:48.0784 INFO Get Product Master List Success
+2021-07-28 17:04:49.7432 INFO Get State List Success
+2021-07-28 17:04:49.8142 INFO Get NOC Sucess:180
+2021-07-28 17:04:49.9602 INFO Get NOC Sucess:Req//1
+2021-07-28 17:04:53.8359 INFO Get State List Success
+2021-07-28 17:05:00.0155 INFO Get NOC Details Success
+2021-07-28 17:05:00.0836 INFO Get Customer Details Success
+2021-07-28 17:05:22.8691 INFO Check WorkFlow List Success
+2021-07-28 17:05:23.0031 INFO Get Product Type Master List Success
+2021-07-28 17:05:23.0921 INFO Get User Success :hodyco
+2021-07-28 17:05:58.5468 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 17:05:58.7738 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 17:06:01.4506 INFO Get Product Type Master List Success
+2021-07-28 17:06:01.6666 INFO Get User Success :globus_dis
+2021-07-28 17:06:06.3663 INFO Get User Success :350-Globus Spirits Limited
+2021-07-28 17:06:08.4872 INFO Get Report  Success
+2021-07-28 17:06:09.1692 INFO Get Party Master List Success
+2021-07-28 17:06:09.2481 INFO Get Product Type Master List Success
+2021-07-28 17:06:09.4151 INFO Get User Success :globus_dis
+2021-07-28 17:06:35.4895 INFO Get VAT Master List Success
+2021-07-28 17:07:11.4112 INFO Get GetSeverList Success

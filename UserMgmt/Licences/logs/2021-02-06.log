@@ -1,0 +1,1502 @@
+2021-02-06 10:39:58.8632 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:39:58.9456 INFO Get User Success :sonasati_disbo
+2021-02-06 10:40:13.4885 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:40:13.5385 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:40:13.5385 INFO Get Pass List Success
+2021-02-06 10:40:13.5923 INFO Get User Success :sonasati_disbo
+2021-02-06 10:42:54.5091 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:42:55.3450 INFO Get User Success :sonasati_disbo
+2021-02-06 10:42:58.4108 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:42:58.5325 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:42:59.1109 INFO Get Pass List Success
+2021-02-06 10:42:59.2342 INFO Get User Success :sonasati_disbo
+2021-02-06 10:43:03.4323 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:43:03.5055 INFO Get Dispach Master List Success
+2021-02-06 10:43:03.6905 INFO Get VAT Master List Success
+2021-02-06 10:43:03.7701 INFO Get Pass List Success
+2021-02-06 10:43:04.4026 INFO Get User Success :sonasati_disbo
+2021-02-06 10:43:24.6162 INFO Pass Issued Sucess:
+2021-02-06 10:43:24.7294 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:43:25.3080 INFO Get Pass List Success
+2021-02-06 10:43:25.3918 INFO Get User Success :sonasati_disbo
+2021-02-06 10:45:31.0873 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:45:31.6607 INFO Get Pass List Success
+2021-02-06 10:45:31.7446 INFO Get User Success :sonasati_disbo
+2021-02-06 10:46:37.8567 INFO Get Pass List Success
+2021-02-06 10:46:41.1517 INFO Get Pass List Success
+2021-02-06 10:46:50.4768 INFO Get Pass List Success
+2021-02-06 10:47:08.2853 INFO Get Pass List Success
+2021-02-06 10:52:43.4353 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:52:44.2726 INFO Get User Success :sonasati_disbo
+2021-02-06 10:53:00.4390 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:53:00.5915 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:53:01.1682 INFO Get Pass List Success
+2021-02-06 10:53:01.2948 INFO Get User Success :sonasati_disbo
+2021-02-06 10:53:14.9452 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 10:53:15.0201 INFO Get Dispach Master List Success
+2021-02-06 10:53:15.2028 INFO Get VAT Master List Success
+2021-02-06 10:53:15.2802 INFO Get Pass List Success
+2021-02-06 10:53:15.9394 INFO Get User Success :sonasati_disbo
+2021-02-06 11:25:15.9153 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:25:16.8388 INFO Get User Success :harinagar_dis
+2021-02-06 11:25:24.0737 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:25:24.1544 INFO Get State List Success
+2021-02-06 11:25:24.2709 INFO Get User Success :harinagar_dis
+2021-02-06 11:25:34.8265 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:25:35.1866 INFO Get User Success :harinagar_dis
+2021-02-06 11:25:35.8182 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:25:36.1586 INFO Get User Success :harinagar_dis
+2021-02-06 11:26:13.5662 INFO Get User Fail :-Exception while writing to stream
+2021-02-06 11:28:04.2007 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:28:13.6357 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:28:23.6626 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:29:23.2142 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:29:49.2337 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:30:45.5178 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:01.7634 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:05.4558 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:05.5358 INFO Get Indent List Success
+2021-02-06 11:31:05.7342 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:07.3781 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:11.7854 INFO Get RR List Success
+2021-02-06 11:31:11.8966 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:13.5600 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:13.9221 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:17.9967 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:18.0774 INFO Get State List Success
+2021-02-06 11:31:18.1735 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:19.3704 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:19.4432 INFO Get Indent List Success
+2021-02-06 11:31:19.5908 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:20.6790 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:20.7583 INFO Get RR List Success
+2021-02-06 11:31:20.9165 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:24.2651 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:28.6863 INFO Get RR List Success
+2021-02-06 11:31:28.7748 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:29.0517 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:29.1305 INFO Get State List Success
+2021-02-06 11:31:29.2192 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:29.3361 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:33.6889 INFO Get RR List Success
+2021-02-06 11:31:33.7801 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:33.9858 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:38.3375 INFO Get RR List Success
+2021-02-06 11:31:38.4263 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:38.8136 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:39.1166 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:39.4508 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:39.5309 INFO Get State List Success
+2021-02-06 11:31:39.6904 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:40.0773 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:41.3452 INFO Get RR List Success
+2021-02-06 11:31:41.4699 INFO Get User Success :harinagar_dis
+2021-02-06 11:31:56.0260 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:31:56.1022 INFO Get Indent List Success
+2021-02-06 11:31:56.2514 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:00.4500 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:00.8560 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:02.2813 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:02.3745 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:03.9970 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:04.1664 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:04.2529 INFO Get VAT Master List Success
+2021-02-06 11:32:04.3475 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:06.9005 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:06.9874 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:08.5589 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:08.6723 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:08.7509 INFO Get VAT Master List Success
+2021-02-06 11:32:09.0803 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:12.3027 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:12.3903 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:13.8281 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:13.9249 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:14.0047 INFO Get VAT Master List Success
+2021-02-06 11:32:14.3029 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:16.0694 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:16.1564 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:17.5772 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:17.6913 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:17.7695 INFO Get VAT Master List Success
+2021-02-06 11:32:18.0711 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:19.9513 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:20.0528 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:21.4570 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:21.5655 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:21.6459 INFO Get VAT Master List Success
+2021-02-06 11:32:21.9459 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:24.1271 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:24.2156 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:25.4976 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:25.6142 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:25.7714 INFO Get VAT Master List Success
+2021-02-06 11:32:25.8826 INFO Get User Success :harinagar_dis
+2021-02-06 11:32:27.3107 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:32:27.3910 INFO Get VAT Master List Success
+2021-02-06 11:35:00.2200 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:01.0942 INFO Get User Success :harinagar_dis
+2021-02-06 11:35:04.9861 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:05.3968 INFO Get User Success :harinagar_dis
+2021-02-06 11:35:11.0655 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:11.1612 INFO Get User Success :harinagar_dis
+2021-02-06 11:35:13.3620 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:13.4958 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:13.7679 INFO Get User Success :harinagar_dis
+2021-02-06 11:35:16.4561 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:16.9454 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:17.0308 INFO Get VAT Master List Success
+2021-02-06 11:35:17.1934 INFO Get User Success :harinagar_dis
+2021-02-06 11:35:23.8432 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:30.9797 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:52.6375 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:53.1071 INFO Get User Success :harinagar_dis
+2021-02-06 11:35:57.7638 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:58.1981 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:35:58.2802 INFO Get VAT Master List Success
+2021-02-06 11:35:58.8623 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:08.4298 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:08.8342 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:11.4068 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:11.8255 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:11.9049 INFO Get VAT Master List Success
+2021-02-06 11:36:12.0620 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:14.2880 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:14.5232 INFO Get VAT Master List Success
+2021-02-06 11:36:14.6162 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:15.0295 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:15.2023 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:19.1841 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:19.5107 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:21.6431 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:22.6692 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:24.9533 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:25.2659 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:27.7632 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:27.9965 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:30.1303 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:30.4223 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:35.4066 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:35.8662 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:38.1365 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:38.3570 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:39.2958 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:39.6106 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:40.6870 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:41.6844 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:48.6797 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:48.9906 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:51.2029 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:52.1584 INFO Get User Success :harinagar_dis
+2021-02-06 11:36:54.5253 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:36:54.8374 INFO Get User Success :harinagar_dis
+2021-02-06 11:37:05.5871 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:37:05.8185 INFO Get VAT Master List Success
+2021-02-06 11:37:05.9058 INFO Get User Success :harinagar_dis
+2021-02-06 11:37:07.8286 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:37:07.9072 INFO Get VAT Master List Success
+2021-02-06 11:37:08.0645 INFO Get User Success :harinagar_dis
+2021-02-06 11:37:26.9266 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:37:27.1794 INFO Get VAT Master List Success
+2021-02-06 11:37:27.2661 INFO Get User Success :harinagar_dis
+2021-02-06 11:37:29.1771 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:37:29.4204 INFO Get VAT Master List Success
+2021-02-06 11:37:29.5174 INFO Get User Success :harinagar_dis
+2021-02-06 11:37:31.2608 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:37:31.3413 INFO Get VAT Master List Success
+2021-02-06 11:42:32.1431 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:42:33.0274 INFO Get User Success :harinagar_dis
+2021-02-06 11:42:36.9277 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:42:37.3464 INFO Get User Success :harinagar_dis
+2021-02-06 11:42:42.1554 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:42:42.2540 INFO Get User Success :harinagar_dis
+2021-02-06 11:42:42.6470 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:42:42.8001 INFO Get VAT Master List Success
+2021-02-06 11:42:42.9051 INFO Get User Success :harinagar_dis
+2021-02-06 11:42:53.1120 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 11:42:53.1990 INFO Get VAT Master List Success
+2021-02-06 11:57:59.0270 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:00.2201 INFO Get User Success :hodyco
+2021-02-06 11:58:03.5684 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:03.6440 INFO Check WorkFlow List Success
+2021-02-06 11:58:08.1015 INFO Get RR List Success
+2021-02-06 11:58:08.2389 INFO Get User Success :hodyco
+2021-02-06 11:58:12.2283 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:12.3051 INFO Get Product Master List Success
+2021-02-06 11:58:12.3913 INFO Get State List Success
+2021-02-06 11:58:12.4641 INFO Get NOC Sucess:62
+2021-02-06 11:58:12.6044 INFO Get NOC Sucess:Req//1
+2021-02-06 11:58:12.6978 INFO Get State List Success
+2021-02-06 11:58:12.9978 INFO Get NOC Details Success
+2021-02-06 11:58:13.0740 INFO Get Customer Details Success
+2021-02-06 11:58:13.1780 INFO Check WorkFlow List Success
+2021-02-06 11:58:13.3483 INFO Get User Success :hodyco
+2021-02-06 11:58:28.5660 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:28.6386 INFO Check WorkFlow List Success
+2021-02-06 11:58:33.3327 INFO Get RR List Success
+2021-02-06 11:58:33.4155 INFO Get User Success :hodyco
+2021-02-06 11:58:48.7166 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:48.7878 INFO Get Product Master List Success
+2021-02-06 11:58:48.8695 INFO Get State List Success
+2021-02-06 11:58:48.9395 INFO Get NOC Sucess:62
+2021-02-06 11:58:49.0781 INFO Get NOC Sucess:Req//1
+2021-02-06 11:58:49.1586 INFO Get State List Success
+2021-02-06 11:58:49.4590 INFO Get NOC Details Success
+2021-02-06 11:58:49.5311 INFO Get Customer Details Success
+2021-02-06 11:58:49.6061 INFO Check WorkFlow List Success
+2021-02-06 11:58:49.7583 INFO Get User Success :hodyco
+2021-02-06 11:58:51.5021 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:51.5730 INFO Check WorkFlow List Success
+2021-02-06 11:58:55.9990 INFO Get RR List Success
+2021-02-06 11:58:56.0816 INFO Get User Success :hodyco
+2021-02-06 11:58:57.9543 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:58:58.0251 INFO Get Product Master List Success
+2021-02-06 11:58:58.1039 INFO Get State List Success
+2021-02-06 11:58:58.1736 INFO Get NOC Sucess:62
+2021-02-06 11:58:58.3133 INFO Get NOC Sucess:Req//1
+2021-02-06 11:58:58.3911 INFO Get State List Success
+2021-02-06 11:58:58.6763 INFO Get NOC Details Success
+2021-02-06 11:58:58.7501 INFO Get Customer Details Success
+2021-02-06 11:58:58.8220 INFO Check WorkFlow List Success
+2021-02-06 11:58:58.9715 INFO Get User Success :hodyco
+2021-02-06 11:59:01.6199 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 11:59:01.6913 INFO Check WorkFlow List Success
+2021-02-06 11:59:06.1201 INFO Get RR List Success
+2021-02-06 11:59:06.2063 INFO Get User Success :hodyco
+2021-02-06 11:59:57.1102 INFO Get User Fail :-Exception while writing to stream
+2021-02-06 12:00:00.5197 INFO Get User Fail :-Exception while writing to stream
+2021-02-06 12:00:02.8863 INFO Get User Fail :-Exception while writing to stream
+2021-02-06 12:00:20.5252 INFO Get User Fail :-The operation has timed out.
+2021-02-06 12:00:35.6409 INFO Get User Fail :-The operation has timed out.
+2021-02-06 12:00:51.0681 INFO Get User Fail :-The operation has timed out.
+2021-02-06 12:03:34.1422 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:03:35.3659 INFO Get User Success :hodyco
+2021-02-06 12:03:39.7552 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:03:39.8365 INFO Check WorkFlow List Success
+2021-02-06 12:03:44.3621 INFO Get RR List Success
+2021-02-06 12:03:44.4919 INFO Get User Success :hodyco
+2021-02-06 12:04:02.5640 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:04:02.6385 INFO Check WorkFlow List Success
+2021-02-06 12:04:07.1051 INFO Get RR List Success
+2021-02-06 12:05:32.9183 INFO Check WorkFlow List Fail :22P02: invalid input syntax for integer: "hodyco"
+2021-02-06 12:06:49.1498 INFO Check WorkFlow List Fail :22P02: invalid input syntax for integer: "hodyco"
+2021-02-06 12:08:37.7629 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:08:38.9754 INFO Get User Success :hodyco
+2021-02-06 12:08:42.1220 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:08:42.1969 INFO Check WorkFlow List Success
+2021-02-06 12:08:46.7017 INFO Get RR List Success
+2021-02-06 12:08:46.8236 INFO Get User Success :hodyco
+2021-02-06 12:08:50.4350 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:08:50.5077 INFO Check WorkFlow List Success
+2021-02-06 12:08:54.9551 INFO Get RR List Success
+2021-02-06 12:10:24.8975 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:10:24.9702 INFO Check WorkFlow List Success
+2021-02-06 12:10:25.0980 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:10:25.1708 INFO Check WorkFlow List Success
+2021-02-06 12:10:25.3189 INFO Get Allotment List Success
+2021-02-06 12:10:25.4113 INFO Get User Success :hodyco
+2021-02-06 12:10:27.9775 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:10:37.9213 INFO Check WorkFlow List Success
+2021-02-06 12:10:42.3987 INFO Get RR List Success
+2021-02-06 12:10:42.4880 INFO Get User Success :hodyco
+2021-02-06 12:10:51.1855 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:10:51.2631 INFO Check WorkFlow List Success
+2021-02-06 12:10:55.7175 INFO Get RR List Success
+2021-02-06 12:12:05.7302 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:05.8012 INFO Check WorkFlow List Success
+2021-02-06 12:12:05.9373 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:06.0090 INFO Check WorkFlow List Success
+2021-02-06 12:12:06.1572 INFO Get Allotment List Success
+2021-02-06 12:12:06.2383 INFO Get User Success :hodyco
+2021-02-06 12:12:09.9760 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:12.3250 INFO Check WorkFlow List Success
+2021-02-06 12:12:16.7962 INFO Get RR List Success
+2021-02-06 12:12:16.8816 INFO Get User Success :hodyco
+2021-02-06 12:12:17.4454 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:17.5183 INFO Check WorkFlow List Success
+2021-02-06 12:12:17.6664 INFO Get Allotment List Success
+2021-02-06 12:12:17.7446 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:17.8154 INFO Check WorkFlow List Success
+2021-02-06 12:12:17.8999 INFO Get Allotment List Success
+2021-02-06 12:12:22.5259 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:24.0630 INFO Check WorkFlow List Success
+2021-02-06 12:12:28.5453 INFO Get RR List Success
+2021-02-06 12:12:28.6329 INFO Get User Success :hodyco
+2021-02-06 12:12:44.7208 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:12:44.7931 INFO Check WorkFlow List Success
+2021-02-06 12:12:49.2670 INFO Get RR List Success
+2021-02-06 12:12:53.3785 INFO Check WorkFlow List Success
+2021-02-06 12:13:39.6108 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:13:39.6880 INFO Get Product Master List Success
+2021-02-06 12:13:39.7741 INFO Get State List Success
+2021-02-06 12:13:39.8462 INFO Get NOC Sucess:62
+2021-02-06 12:13:39.9887 INFO Get NOC Sucess:Req//1
+2021-02-06 12:13:40.0804 INFO Get State List Success
+2021-02-06 12:13:40.3853 INFO Get NOC Details Success
+2021-02-06 12:13:40.4637 INFO Get Customer Details Success
+2021-02-06 12:13:40.5723 INFO Check WorkFlow List Success
+2021-02-06 12:13:40.7278 INFO Get User Success :hodyco
+2021-02-06 12:14:03.9685 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:14:09.0439 INFO Check WorkFlow List Success
+2021-02-06 12:14:13.5018 INFO Get RR List Success
+2021-02-06 12:14:13.5843 INFO Get User Success :hodyco
+2021-02-06 12:14:27.5167 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:14:27.5905 INFO Check WorkFlow List Success
+2021-02-06 12:14:32.0631 INFO Get RR List Success
+2021-02-06 12:14:38.3497 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:14:38.4228 INFO Get Product Master List Success
+2021-02-06 12:14:38.5029 INFO Get State List Success
+2021-02-06 12:14:38.5727 INFO Get NOC Sucess:62
+2021-02-06 12:14:38.7159 INFO Get NOC Sucess:Req//1
+2021-02-06 12:14:38.7951 INFO Get State List Success
+2021-02-06 12:14:39.0846 INFO Get NOC Details Success
+2021-02-06 12:14:39.1615 INFO Get Customer Details Success
+2021-02-06 12:14:39.2349 INFO Check WorkFlow List Success
+2021-02-06 12:14:39.4040 INFO Get User Success :hodyco
+2021-02-06 12:16:17.4582 INFO Get User Success :100-Deputy Commissioner
+2021-02-06 12:16:17.5323 INFO Get Product Master List Success
+2021-02-06 12:16:17.6164 INFO Get State List Success
+2021-02-06 12:16:17.6891 INFO Get NOC Sucess:62
+2021-02-06 12:16:17.8322 INFO Get NOC Sucess:Req//1
+2021-02-06 12:16:17.9128 INFO Get State List Success
+2021-02-06 12:16:18.2110 INFO Get NOC Details Success
+2021-02-06 12:16:18.2871 INFO Get Customer Details Success
+2021-02-06 12:16:37.9268 INFO Check WorkFlow List Success
+2021-02-06 12:16:38.0881 INFO Get User Success :hodyco
+2021-02-06 12:17:17.0041 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:17:17.3161 INFO Get User Success :wcedo
+2021-02-06 12:17:20.0331 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:17:20.1101 INFO Check WorkFlow List Success
+2021-02-06 12:17:24.5689 INFO Get RR List Success
+2021-02-06 12:17:24.6500 INFO Get User Success :wcedo
+2021-02-06 12:17:31.0659 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:17:31.1381 INFO Check WorkFlow List Success
+2021-02-06 12:17:35.5993 INFO Get RR List Success
+2021-02-06 12:17:40.1516 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:17:40.2255 INFO Get Product Master List Success
+2021-02-06 12:17:40.3047 INFO Get State List Success
+2021-02-06 12:17:40.3757 INFO Get NOC Sucess:62
+2021-02-06 12:17:40.5198 INFO Get NOC Sucess:Req//1
+2021-02-06 12:17:40.6004 INFO Get State List Success
+2021-02-06 12:17:40.8900 INFO Get NOC Details Success
+2021-02-06 12:17:40.9638 INFO Get Customer Details Success
+2021-02-06 12:17:41.0367 INFO Check WorkFlow List Success
+2021-02-06 12:17:41.1897 INFO Get User Success :wcedo
+2021-02-06 12:18:20.2443 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:18:20.3170 INFO Check WorkFlow List Success
+2021-02-06 12:18:24.7896 INFO Get RR List Success
+2021-02-06 12:18:24.8710 INFO Get User Success :wcedo
+2021-02-06 12:19:51.9832 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:19:52.0568 INFO Get Product Master List Success
+2021-02-06 12:19:52.1387 INFO Get State List Success
+2021-02-06 12:19:52.2107 INFO Get NOC Sucess:62
+2021-02-06 12:19:52.3524 INFO Get NOC Sucess:Req//1
+2021-02-06 12:19:52.4333 INFO Get State List Success
+2021-02-06 12:19:52.7263 INFO Get NOC Details Success
+2021-02-06 12:19:52.8026 INFO Get Customer Details Success
+2021-02-06 12:19:52.8785 INFO Check WorkFlow List Success
+2021-02-06 12:19:53.0311 INFO Get User Success :wcedo
+2021-02-06 12:22:04.8081 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:22:04.8803 INFO Check WorkFlow List Success
+2021-02-06 12:22:09.3487 INFO Get RR List Success
+2021-02-06 12:22:09.4426 INFO Get User Success :wcedo
+2021-02-06 12:24:47.5215 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:24:47.5943 INFO Get Product Master List Success
+2021-02-06 12:24:47.6748 INFO Get State List Success
+2021-02-06 12:24:47.7471 INFO Get NOC Sucess:62
+2021-02-06 12:24:47.8916 INFO Get NOC Sucess:Req//1
+2021-02-06 12:24:47.9727 INFO Get State List Success
+2021-02-06 12:24:48.2609 INFO Get NOC Details Success
+2021-02-06 12:24:48.3337 INFO Get Customer Details Success
+2021-02-06 12:24:48.4113 INFO Check WorkFlow List Success
+2021-02-06 12:24:48.5728 INFO Get User Success :wcedo
+2021-02-06 12:25:19.2687 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:25:19.5109 INFO NOC Approve Sucess:52
+2021-02-06 12:25:19.6413 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:25:19.7137 INFO Check WorkFlow List Success
+2021-02-06 12:25:24.2445 INFO Get RR List Success
+2021-02-06 12:25:24.3313 INFO Get User Success :wcedo
+2021-02-06 12:25:37.3848 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:25:37.4588 INFO Get Product Master List Success
+2021-02-06 12:25:37.5398 INFO Get State List Success
+2021-02-06 12:25:37.6115 INFO Get NOC Sucess:62
+2021-02-06 12:25:37.7545 INFO Get NOC Sucess:Req//1
+2021-02-06 12:25:37.8350 INFO Get State List Success
+2021-02-06 12:25:38.1247 INFO Get NOC Details Success
+2021-02-06 12:25:38.1964 INFO Get Customer Details Success
+2021-02-06 12:25:38.2722 INFO Check WorkFlow List Success
+2021-02-06 12:25:38.4235 INFO Get User Success :wcedo
+2021-02-06 12:28:46.2496 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:28:46.3224 INFO Check WorkFlow List Success
+2021-02-06 12:28:50.8220 INFO Get RR List Success
+2021-02-06 12:28:50.9064 INFO Get User Success :wcedo
+2021-02-06 12:28:56.0351 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:28:56.1077 INFO Get Product Master List Success
+2021-02-06 12:28:56.1885 INFO Get State List Success
+2021-02-06 12:28:56.2613 INFO Get NOC Sucess:62
+2021-02-06 12:28:56.4037 INFO Get NOC Sucess:Req//1
+2021-02-06 12:28:56.4818 INFO Get State List Success
+2021-02-06 12:28:56.7719 INFO Get NOC Details Success
+2021-02-06 12:28:56.8450 INFO Get Customer Details Success
+2021-02-06 12:28:56.9550 INFO Check WorkFlow List Success
+2021-02-06 12:28:57.1051 INFO Get User Success :wcedo
+2021-02-06 12:29:16.3052 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 12:54:30.1306 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:54:31.3000 INFO Get User Success :sonasati_dis
+2021-02-06 12:54:49.4239 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:54:49.8955 INFO Get User Success :sonasati_dis
+2021-02-06 12:54:57.1665 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:54:57.8086 INFO Get Pass List Success
+2021-02-06 12:54:57.9407 INFO Get User Success :sonasati_dis
+2021-02-06 12:55:03.7242 INFO Get Pass List Success
+2021-02-06 12:55:09.8494 INFO Get Pass List Success
+2021-02-06 12:55:18.7407 INFO Get Pass List Success
+2021-02-06 12:55:30.9598 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:55:31.0466 INFO Get Dispach Master List Success
+2021-02-06 12:55:31.2659 INFO Get VAT Master List Success
+2021-02-06 12:55:31.3667 INFO Get Pass List Success
+2021-02-06 12:55:32.1729 INFO Get User Success :sonasati_dis
+2021-02-06 12:55:42.9143 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:55:43.6406 INFO Get Pass List Success
+2021-02-06 12:55:43.7477 INFO Get User Success :sonasati_dis
+2021-02-06 12:55:49.4166 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:55:49.5024 INFO Get Dispach Master List Success
+2021-02-06 12:55:49.6859 INFO Get VAT Master List Success
+2021-02-06 12:55:49.7763 INFO Get Pass List Success
+2021-02-06 12:55:50.5688 INFO Get User Success :sonasati_dis
+2021-02-06 12:55:53.1726 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:55:53.8717 INFO Get Pass List Success
+2021-02-06 12:55:53.9856 INFO Get User Success :sonasati_dis
+2021-02-06 12:56:04.1369 INFO Get Pass List Success
+2021-02-06 12:56:13.3168 INFO Get Pass List Success
+2021-02-06 12:56:36.3282 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:56:36.5071 INFO Get Dispach Master List Success
+2021-02-06 12:56:36.8776 INFO Get VAT Master List Success
+2021-02-06 12:56:37.0677 INFO Get Pass List Success
+2021-02-06 12:56:38.9093 INFO Get User Success :sonasati_dis
+2021-02-06 12:56:43.6401 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:56:45.1456 INFO Get Pass List Success
+2021-02-06 12:56:45.3544 INFO Get User Success :sonasati_dis
+2021-02-06 12:56:51.3012 INFO Get Pass List Success
+2021-02-06 12:56:55.2928 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:56:55.3803 INFO Get Dispach Master List Success
+2021-02-06 12:56:55.5711 INFO Get VAT Master List Success
+2021-02-06 12:56:55.6834 INFO Get Pass List Success
+2021-02-06 12:56:56.5332 INFO Get User Success :sonasati_dis
+2021-02-06 12:57:10.5157 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:57:18.7125 INFO Get RR List Success
+2021-02-06 12:57:18.9244 INFO Get User Success :sonasati_dis
+2021-02-06 12:58:33.9054 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:58:34.6059 INFO Get User Success :sonasati_dis
+2021-02-06 12:58:47.3956 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 12:58:50.1274 INFO Get Pass List Success
+2021-02-06 12:58:50.3284 INFO Get User Success :sonasati_dis
+2021-02-06 12:58:54.7310 INFO Get Pass List Success
+2021-02-06 12:59:14.4447 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 12:59:14.9539 INFO Get User Success :sonasati_disbo
+2021-02-06 12:59:17.3919 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 12:59:17.5079 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 12:59:18.9190 INFO Get Pass List Success
+2021-02-06 12:59:19.0326 INFO Get User Success :sonasati_disbo
+2021-02-06 12:59:23.1534 INFO Get Pass List Success
+2021-02-06 12:59:33.8771 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 12:59:33.9672 INFO Get Dispach Master List Success
+2021-02-06 12:59:34.1563 INFO Get VAT Master List Success
+2021-02-06 12:59:34.2551 INFO Get Pass List Success
+2021-02-06 12:59:35.0532 INFO Get User Success :sonasati_disbo
+2021-02-06 12:59:44.9451 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 12:59:46.0608 INFO Get Pass List Success
+2021-02-06 12:59:46.1698 INFO Get User Success :sonasati_disbo
+2021-02-06 12:59:50.3192 INFO Get Pass List Success
+2021-02-06 13:00:52.1813 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:00:52.2687 INFO Get Dispach Master List Success
+2021-02-06 13:00:52.4554 INFO Get VAT Master List Success
+2021-02-06 13:00:52.5467 INFO Get Pass List Success
+2021-02-06 13:00:53.4337 INFO Get User Success :sonasati_disbo
+2021-02-06 13:21:38.2663 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:21:39.3362 INFO Get Pass List Success
+2021-02-06 13:21:39.4601 INFO Get User Success :sonasati_disbo
+2021-02-06 13:21:44.2946 INFO Get Pass List Success
+2021-02-06 13:21:56.2129 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:21:56.3193 INFO Get Dispach Master List Success
+2021-02-06 13:21:56.8652 INFO Get VAT Master List Success
+2021-02-06 13:21:56.9759 INFO Get Pass List Success
+2021-02-06 13:21:57.9201 INFO Get User Success :sonasati_disbo
+2021-02-06 13:22:32.1000 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:22:32.2051 INFO Get Dispach Master List Success
+2021-02-06 13:22:32.4247 INFO Get VAT Master List Success
+2021-02-06 13:22:32.5332 INFO Get Pass List Success
+2021-02-06 13:22:33.4715 INFO Get User Success :sonasati_disbo
+2021-02-06 13:22:37.7332 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:22:39.1032 INFO Get Pass List Success
+2021-02-06 13:22:39.2245 INFO Get User Success :sonasati_disbo
+2021-02-06 13:22:42.6771 INFO Get Pass List Success
+2021-02-06 13:22:46.5663 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:22:46.6712 INFO Get Dispach Master List Success
+2021-02-06 13:22:46.8921 INFO Get VAT Master List Success
+2021-02-06 13:22:46.9992 INFO Get Pass List Success
+2021-02-06 13:22:47.9387 INFO Get User Success :sonasati_disbo
+2021-02-06 13:22:57.9547 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:22:58.0601 INFO Get Dispach Master List Success
+2021-02-06 13:23:10.4834 INFO Get VAT Master List Success
+2021-02-06 13:23:54.9568 INFO Get Pass List Success
+2021-02-06 13:24:52.6255 INFO Get VAT Master List Success
+2021-02-06 13:24:52.7332 INFO Get Pass List Success
+2021-02-06 13:24:53.6722 INFO Get User Success :sonasati_disbo
+2021-02-06 13:24:55.2224 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:24:56.4172 INFO Get Pass List Success
+2021-02-06 13:24:56.5355 INFO Get User Success :sonasati_disbo
+2021-02-06 13:26:17.3035 INFO Get Pass List Success
+2021-02-06 13:26:24.3245 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:26:24.4308 INFO Get Dispach Master List Success
+2021-02-06 13:26:27.9556 INFO Get VAT Master List Success
+2021-02-06 13:26:28.0644 INFO Get Pass List Success
+2021-02-06 13:26:29.0094 INFO Get User Success :sonasati_disbo
+2021-02-06 13:26:39.7196 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:26:40.7798 INFO Get Pass List Success
+2021-02-06 13:26:40.9004 INFO Get User Success :sonasati_disbo
+2021-02-06 13:26:56.2062 INFO Get Pass List Success
+2021-02-06 13:28:42.9940 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:28:43.0832 INFO Get Dispach Master List Success
+2021-02-06 13:29:24.8602 INFO Get VAT Master List Success
+2021-02-06 13:30:57.4899 INFO Get Pass List Success
+2021-02-06 13:31:22.9423 INFO Get User Success :sonasati_disbo
+2021-02-06 13:31:32.8302 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:31:33.7318 INFO Get Pass List Success
+2021-02-06 13:31:33.8337 INFO Get User Success :sonasati_disbo
+2021-02-06 13:31:37.2714 INFO Get Pass List Success
+2021-02-06 13:31:41.0274 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:31:41.1141 INFO Get Dispach Master List Success
+2021-02-06 13:31:41.3014 INFO Get VAT Master List Success
+2021-02-06 13:32:52.5286 INFO Get Pass List Success
+2021-02-06 13:32:53.3029 INFO Get User Success :sonasati_disbo
+2021-02-06 13:32:55.7304 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 13:32:56.6779 INFO Get Pass List Success
+2021-02-06 13:32:56.7806 INFO Get User Success :sonasati_disbo
+2021-02-06 13:33:00.1907 INFO Get Pass List Success
+2021-02-06 13:36:05.7727 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:36:06.6028 INFO Get User Success :sonasati_dis
+2021-02-06 13:36:09.4986 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:36:09.8963 INFO Get User Success :sonasati_dis
+2021-02-06 13:36:26.8236 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:36:32.1798 INFO Get RR List Success
+2021-02-06 13:36:32.6379 INFO Get NOC Details Success
+2021-02-06 13:36:32.9907 INFO Get NOC Details Success
+2021-02-06 13:36:33.0788 INFO Get Balance Request Pass Success
+2021-02-06 13:36:33.1864 INFO Get User Success :sonasati_dis
+2021-02-06 13:36:40.6623 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:36:41.0581 INFO Get User Success :sonasati_dis
+2021-02-06 13:37:44.4570 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:37:49.8073 INFO Get RR List Success
+2021-02-06 13:37:50.2410 INFO Get NOC Details Success
+2021-02-06 13:37:50.5856 INFO Get NOC Details Success
+2021-02-06 13:37:50.6714 INFO Get Balance Request Pass Success
+2021-02-06 13:37:50.8539 INFO Get User Success :sonasati_dis
+2021-02-06 13:38:14.7279 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:38:14.8251 INFO Get RR List Success
+2021-02-06 13:38:15.0245 INFO Get User Success :sonasati_dis
+2021-02-06 13:40:19.5544 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 13:40:37.0529 INFO Get RR List Success
+2021-02-06 13:41:21.6119 INFO Get User Success :sonasati_dis
+2021-02-06 14:08:22.7068 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:09:33.1636 INFO Get RR List Success
+2021-02-06 14:09:33.3501 INFO Get User Success :sonasati_dis
+2021-02-06 14:09:33.7619 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:09:33.8557 INFO Get Indent List Success
+2021-02-06 14:09:34.0572 INFO Get User Success :sonasati_dis
+2021-02-06 14:09:34.7275 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:09:34.8163 INFO Get Indent List Success
+2021-02-06 14:09:35.0034 INFO Get User Success :sonasati_dis
+2021-02-06 14:09:36.2085 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:09:36.3249 INFO Get Indent List Success
+2021-02-06 14:09:36.4862 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:09:36.7297 INFO Get Allotment List Success
+2021-02-06 14:09:36.9968 INFO Get User Success :sonasati_dis
+2021-02-06 14:10:12.1635 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:12.3797 INFO Get Allotment List Success
+2021-02-06 14:10:12.5462 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:12.6627 INFO Get Party Master List Success
+2021-02-06 14:10:12.7760 INFO Get Indent List Success
+2021-02-06 14:10:13.0061 INFO Get Allotment Details Success
+2021-02-06 14:10:13.1327 INFO Get Indent List Success
+2021-02-06 14:10:13.2607 INFO Get Party Master List Success
+2021-02-06 14:10:13.5506 INFO Check WorkFlow List Success
+2021-02-06 14:10:13.9340 INFO Get User Success :sonasati_dis
+2021-02-06 14:10:29.2161 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:29.5045 INFO Get Allotment List Success
+2021-02-06 14:10:29.7762 INFO Get User Success :sonasati_dis
+2021-02-06 14:10:34.2381 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:34.5390 INFO Get Allotment List Success
+2021-02-06 14:10:34.7188 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:34.8979 INFO Get Party Master List Success
+2021-02-06 14:10:35.0351 INFO Get Indent List Success
+2021-02-06 14:10:35.3559 INFO Get Allotment Details Success
+2021-02-06 14:10:35.5349 INFO Get Indent List Success
+2021-02-06 14:10:35.6984 INFO Get Party Master List Success
+2021-02-06 14:10:36.0139 INFO Check WorkFlow List Success
+2021-02-06 14:10:36.5344 INFO Get User Success :sonasati_dis
+2021-02-06 14:10:42.9361 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:43.3066 INFO Get Allotment List Success
+2021-02-06 14:10:43.7255 INFO Get User Success :sonasati_dis
+2021-02-06 14:10:50.0667 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:50.2695 INFO Get Allotment List Success
+2021-02-06 14:10:50.4129 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:10:50.5114 INFO Get Party Master List Success
+2021-02-06 14:10:50.6113 INFO Get Indent List Success
+2021-02-06 14:10:50.8171 INFO Get Allotment Details Success
+2021-02-06 14:10:50.9320 INFO Get Indent List Success
+2021-02-06 14:10:51.0633 INFO Get Party Master List Success
+2021-02-06 14:10:51.2879 INFO Check WorkFlow List Success
+2021-02-06 14:10:51.5579 INFO Get User Success :sonasati_dis
+2021-02-06 14:11:12.5898 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:11:12.8412 INFO Get Allotment List Success
+2021-02-06 14:11:13.1067 INFO Get User Success :sonasati_dis
+2021-02-06 14:11:17.0614 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:11:17.2434 INFO Get Allotment List Success
+2021-02-06 14:11:17.3759 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:11:17.4691 INFO Get Party Master List Success
+2021-02-06 14:11:17.5590 INFO Get Indent List Success
+2021-02-06 14:11:17.7365 INFO Get Allotment Details Success
+2021-02-06 14:11:17.8261 INFO Get Indent List Success
+2021-02-06 14:11:17.9218 INFO Get Party Master List Success
+2021-02-06 14:11:18.0971 INFO Check WorkFlow List Success
+2021-02-06 14:11:18.3680 INFO Get User Success :sonasati_dis
+2021-02-06 14:11:21.7657 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:11:21.9757 INFO Get Allotment List Success
+2021-02-06 14:11:22.2185 INFO Get User Success :sonasati_dis
+2021-02-06 14:11:28.1285 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:11:28.4388 INFO Get Allotment List Success
+2021-02-06 14:11:28.5937 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:11:28.7409 INFO Get Party Master List Success
+2021-02-06 14:11:28.8693 INFO Get Indent List Success
+2021-02-06 14:11:29.1625 INFO Get Allotment Details Success
+2021-02-06 14:11:29.3011 INFO Get Indent List Success
+2021-02-06 14:11:29.4367 INFO Get Party Master List Success
+2021-02-06 14:11:30.1732 INFO Check WorkFlow List Success
+2021-02-06 14:11:30.5732 INFO Get User Success :sonasati_dis
+2021-02-06 14:55:42.0333 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 14:55:44.7996 INFO Get RR List Success
+2021-02-06 14:55:45.0169 INFO Get User Success :sonasati_dis
+2021-02-06 14:56:08.4932 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 14:56:09.4980 INFO Get User Success :harinagar_dis
+2021-02-06 14:56:12.2808 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 14:56:12.9779 INFO Get User Success :harinagar_dis
+2021-02-06 14:59:05.4701 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 14:59:06.4991 INFO Get User Success :hpcl_wc
+2021-02-06 14:59:06.8207 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 14:59:07.2695 INFO Get User Success :hpcl_wc
+2021-02-06 14:59:16.0008 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 14:59:16.0886 INFO Get RR List Success
+2021-02-06 14:59:16.2900 INFO Get User Success :hpcl_wc
+2021-02-06 14:59:28.3278 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 14:59:29.9401 INFO Get RR List Success
+2021-02-06 14:59:30.1176 INFO Get User Success :hpcl_wc
+2021-02-06 14:59:38.0776 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 14:59:38.1740 INFO Get RR List Success
+2021-02-06 14:59:38.3815 INFO Get User Success :hpcl_wc
+2021-02-06 14:59:40.1682 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 14:59:40.2629 INFO Get RR List Success
+2021-02-06 14:59:40.4258 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 14:59:42.0136 INFO Get RR List Success
+2021-02-06 14:59:42.1872 INFO Get User Success :hpcl_wc
+2021-02-06 15:02:46.6075 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:02:47.0324 INFO Get User Success :sonasati_disbo
+2021-02-06 15:02:49.2982 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:02:49.4574 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:02:51.2125 INFO Get Pass List Success
+2021-02-06 15:02:51.3210 INFO Get User Success :sonasati_disbo
+2021-02-06 15:02:56.3569 INFO Get Pass List Success
+2021-02-06 15:02:58.2104 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:02:58.2929 INFO Get Dispach Master List Success
+2021-02-06 15:02:58.5106 INFO Get VAT Master List Success
+2021-02-06 15:03:02.3937 INFO Get Pass List Success
+2021-02-06 15:03:03.1729 INFO Get User Success :sonasati_disbo
+2021-02-06 15:05:56.7009 INFO Pass Issued Sucess:SOD
+2021-02-06 15:06:00.5485 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:06:01.6049 INFO Get Pass List Success
+2021-02-06 15:06:01.7104 INFO Get User Success :sonasati_disbo
+2021-02-06 15:07:09.5698 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:08:17.5865 INFO Get User Success :sonasati_disbo
+2021-02-06 15:08:20.2592 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2021-02-06 15:08:22.0131 INFO Get RR List Success
+2021-02-06 15:08:22.1058 INFO Get User Success :sonasati_disbo
+2021-02-06 15:08:47.6283 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:08:48.5882 INFO Get User Success :hpcl_wc
+2021-02-06 15:08:54.3466 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:08:54.4599 INFO Get RR List Success
+2021-02-06 15:08:54.6558 INFO Get User Success :hpcl_wc
+2021-02-06 15:08:57.2885 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:08:58.9603 INFO Get RR List Success
+2021-02-06 15:08:59.0678 INFO Get User Success :hpcl_wc
+2021-02-06 15:09:01.2224 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:09:01.3118 INFO Get RR List Success
+2021-02-06 15:09:01.4817 INFO Get User Success :hpcl_wc
+2021-02-06 15:09:03.8922 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:09:04.0047 INFO Get RR List Success
+2021-02-06 15:09:04.1826 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:09:05.7207 INFO Get RR List Success
+2021-02-06 15:09:05.8178 INFO Get User Success :hpcl_wc
+2021-02-06 15:09:39.1537 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:09:39.2435 INFO Get RR List Success
+2021-02-06 15:09:39.4060 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:09:41.0350 INFO Get RR List Success
+2021-02-06 15:09:41.1354 INFO Get User Success :hpcl_wc
+2021-02-06 15:09:59.0933 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:09:59.1838 INFO Get RR List Success
+2021-02-06 15:09:59.3588 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:10:00.9061 INFO Get RR List Success
+2021-02-06 15:10:01.0029 INFO Get User Success :hpcl_wc
+2021-02-06 15:10:04.0774 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:10:04.1805 INFO Get RR List Success
+2021-02-06 15:10:04.3513 INFO Get User Success :hpcl_wc
+2021-02-06 15:10:05.9283 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:10:06.0192 INFO Get RR List Success
+2021-02-06 15:10:06.1800 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:10:07.7174 INFO Get RR List Success
+2021-02-06 15:10:07.8168 INFO Get User Success :hpcl_wc
+2021-02-06 15:10:32.3508 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:10:32.4407 INFO Get RR List Success
+2021-02-06 15:10:32.6121 INFO Get User Success :hpcl_wc
+2021-02-06 15:10:33.7247 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:10:40.0318 INFO Get RR List Success
+2021-02-06 15:10:41.6695 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:12:54.7196 INFO Get RR List Success
+2021-02-06 15:12:54.8955 INFO Get User Success :hpcl_wc
+2021-02-06 15:30:28.5803 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:30:29.5266 INFO Get User Success :hpcl_wc
+2021-02-06 15:30:32.3547 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:30:32.4438 INFO Get RR List Success
+2021-02-06 15:30:32.6482 INFO Get User Success :hpcl_wc
+2021-02-06 15:30:39.3018 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:30:42.4886 INFO Get RR List Success
+2021-02-06 15:30:42.6569 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:30:44.2141 INFO Get RR List Success
+2021-02-06 15:30:44.4027 INFO Get User Success :hpcl_wc
+2021-02-06 15:32:23.5100 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:32:23.6017 INFO Get RR List Success
+2021-02-06 15:32:23.7820 INFO Get User Success :hpcl_wc
+2021-02-06 15:33:18.3119 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:33:18.3989 INFO Get RR List Success
+2021-02-06 15:33:18.5795 INFO Get User Success :hpcl_wc
+2021-02-06 15:33:20.4160 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:33:20.5009 INFO Get RR List Success
+2021-02-06 15:33:20.6575 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:33:22.1864 INFO Get RR List Success
+2021-02-06 15:33:22.3516 INFO Get User Success :hpcl_wc
+2021-02-06 15:33:37.7583 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:33:37.8509 INFO Get RR List Success
+2021-02-06 15:33:38.0316 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:33:39.6921 INFO Get RR List Success
+2021-02-06 15:33:39.8586 INFO Get User Success :hpcl_wc
+2021-02-06 15:33:48.9056 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:33:48.9945 INFO Get RR List Success
+2021-02-06 15:33:49.2011 INFO Get User Success :hpcl_wc
+2021-02-06 15:33:55.5197 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:33:55.6062 INFO Get RR List Success
+2021-02-06 15:33:55.7695 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:33:57.2819 INFO Get RR List Success
+2021-02-06 15:33:57.4480 INFO Get User Success :hpcl_wc
+2021-02-06 15:34:40.2645 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 15:34:40.3546 INFO Get RR List Success
+2021-02-06 15:34:40.5190 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/3
+2021-02-06 15:34:42.0232 INFO Get RR List Success
+2021-02-06 15:34:42.1897 INFO Get User Success :hpcl_wc
+2021-02-06 15:35:34.0773 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:35:34.6282 INFO Get User Success :sonasati_dis
+2021-02-06 15:35:39.1376 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:35:39.7398 INFO Get User Success :sonasati_dis
+2021-02-06 15:35:55.3538 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:35:56.8952 INFO Get Pass List Success
+2021-02-06 15:35:57.0282 INFO Get User Success :sonasati_dis
+2021-02-06 15:36:01.1680 INFO Get Pass List Success
+2021-02-06 15:44:51.3281 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:44:52.4143 INFO Get User Success :sonasati_dis
+2021-02-06 15:45:05.5336 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:45:06.1749 INFO Get User Success :sonasati_dis
+2021-02-06 15:45:08.1801 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:45:27.9819 INFO Get User Success :sonasati_dis
+2021-02-06 15:45:54.1256 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:46:21.9703 INFO Get Pass List Success
+2021-02-06 15:47:03.7936 INFO Get User Success :sonasati_dis
+2021-02-06 15:47:31.3709 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:47:34.9204 INFO Get Pass List Success
+2021-02-06 15:47:35.0293 INFO Get User Success :sonasati_dis
+2021-02-06 15:47:41.6717 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:47:42.8207 INFO Get Pass List Success
+2021-02-06 15:47:42.9241 INFO Get User Success :sonasati_dis
+2021-02-06 15:47:53.3730 INFO Get Pass List Success
+2021-02-06 15:48:19.7570 INFO Get Pass List Success
+2021-02-06 15:49:15.8649 INFO Get Pass List Success
+2021-02-06 15:49:20.3392 INFO Get Pass List Success
+2021-02-06 15:49:22.5070 INFO Get Pass List Success
+2021-02-06 15:49:25.2389 INFO Get Pass List Success
+2021-02-06 15:49:27.4120 INFO Get Pass List Success
+2021-02-06 15:49:31.3710 INFO Get Pass List Success
+2021-02-06 15:49:33.7851 INFO Get Pass List Success
+2021-02-06 15:49:45.4209 INFO Get Pass List Success
+2021-02-06 15:50:15.9415 INFO Get Pass List Success
+2021-02-06 15:50:26.6555 INFO Get Pass List Success
+2021-02-06 15:50:53.6241 INFO Get Pass List Success
+2021-02-06 15:51:22.6429 INFO Get Pass List Success
+2021-02-06 15:55:03.3269 INFO Get Pass List Success
+2021-02-06 15:56:49.2982 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 15:56:51.9526 INFO Get Pass List Success
+2021-02-06 15:56:52.0817 INFO Get User Success :sonasati_dis
+2021-02-06 15:57:05.2996 INFO Get Pass List Success
+2021-02-06 15:57:08.8281 INFO Get Pass List Success
+2021-02-06 15:57:14.3821 INFO Get Pass List Success
+2021-02-06 15:57:34.8291 INFO Get Pass List Success
+2021-02-06 15:57:42.6676 INFO Get Pass List Success
+2021-02-06 16:03:18.6886 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:03:19.8077 INFO Get User Success :sonasati_dis
+2021-02-06 16:03:30.6814 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:03:31.3330 INFO Get User Success :sonasati_dis
+2021-02-06 16:03:33.4136 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:04:34.5651 INFO Get Pass List Success
+2021-02-06 16:04:34.6758 INFO Get User Success :sonasati_dis
+2021-02-06 16:04:38.5775 INFO Get Pass List Success
+2021-02-06 16:05:02.1335 INFO Get Pass List Success
+2021-02-06 16:05:05.6123 INFO Get Pass List Success
+2021-02-06 16:05:10.1587 INFO Get Pass List Success
+2021-02-06 16:05:12.1107 INFO Get Pass List Success
+2021-02-06 16:05:53.1399 INFO Get Pass List Success
+2021-02-06 16:05:56.0137 INFO Get Pass List Success
+2021-02-06 16:05:58.4313 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:05:59.0635 INFO Get Pass List Success
+2021-02-06 16:05:59.1672 INFO Get User Success :sonasati_dis
+2021-02-06 16:06:02.5056 INFO Get Pass List Success
+2021-02-06 16:09:05.8260 INFO Get Pass List Success
+2021-02-06 16:09:10.8629 INFO Get Pass List Success
+2021-02-06 16:10:39.6311 INFO Get Pass List Success
+2021-02-06 16:10:44.4732 INFO Get Pass List Success
+2021-02-06 16:10:49.4601 INFO Get Pass List Success
+2021-02-06 16:11:12.2680 INFO Get Pass List Success
+2021-02-06 16:11:19.6426 INFO Get Pass List Success
+2021-02-06 16:12:01.1332 INFO Get Pass List Success
+2021-02-06 16:12:04.2175 INFO Get Pass List Success
+2021-02-06 16:12:05.9433 INFO Get Pass List Success
+2021-02-06 16:14:03.2493 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:14:04.6838 INFO Get User Success :sonasati_dis
+2021-02-06 16:14:28.7585 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:14:29.6365 INFO Get User Success :sonasati_dis
+2021-02-06 16:14:31.6204 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:14:34.1890 INFO Get Pass List Success
+2021-02-06 16:15:21.5335 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:15:23.6604 INFO Get Pass List Success
+2021-02-06 16:15:36.4858 INFO Get User Success :sonasati_dis
+2021-02-06 16:15:42.9966 INFO Get Pass List Success
+2021-02-06 16:15:55.4077 INFO Get Pass List Success
+2021-02-06 16:16:00.6910 INFO Get Pass List Success
+2021-02-06 16:24:10.5012 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:24:11.8925 INFO Get User Success :sonasati_dis
+2021-02-06 16:24:28.9223 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:24:29.7738 INFO Get User Success :sonasati_dis
+2021-02-06 16:24:32.4575 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:24:32.6876 INFO Get User Success :sonasati_dis
+2021-02-06 16:24:35.2443 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:24:40.2005 INFO Get Pass List Success
+2021-02-06 16:24:41.9083 INFO Get Pass List Success
+2021-02-06 16:24:45.8410 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:25:00.4591 INFO Get Pass List Success
+2021-02-06 16:25:09.4018 INFO Get Pass List Success
+2021-02-06 16:26:51.5618 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:26:52.6598 INFO Get User Success :sonasati_dis
+2021-02-06 16:26:56.0873 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:26:56.6553 INFO Get User Success :sonasati_dis
+2021-02-06 16:26:58.1678 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:27:02.8517 INFO Get Pass List Success
+2021-02-06 16:27:08.5123 INFO Get User Success :sonasati_dis
+2021-02-06 16:27:11.7600 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:27:18.5081 INFO Get Pass List Success
+2021-02-06 16:27:27.5995 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:27:32.7957 INFO Get Pass List Success
+2021-02-06 16:28:18.8492 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:28:22.5329 INFO Get Pass List Success
+2021-02-06 16:28:44.0699 INFO Get User Success :sonasati_dis
+2021-02-06 16:28:46.7680 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:28:55.3011 INFO Get Pass List Success
+2021-02-06 16:33:14.5212 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:33:15.6598 INFO Get User Success :sonasati_dis
+2021-02-06 16:33:29.8106 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:33:30.4508 INFO Get User Success :sonasati_dis
+2021-02-06 16:33:42.3670 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:33:44.5064 INFO Get Pass List Success
+2021-02-06 16:33:44.6470 INFO Get User Success :sonasati_dis
+2021-02-06 16:33:48.6006 INFO Get Pass List Success
+2021-02-06 16:33:55.1936 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:33:56.7456 INFO Get Pass List Success
+2021-02-06 16:34:26.3085 INFO Get User Success :sonasati_dis
+2021-02-06 16:34:32.8682 INFO Get Pass List Success
+2021-02-06 16:34:42.1020 INFO Get Pass List Success
+2021-02-06 16:34:45.3278 INFO Get Pass List Success
+2021-02-06 16:36:39.1658 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:36:40.6185 INFO Get Pass List Success
+2021-02-06 16:36:40.7271 INFO Get User Success :sonasati_dis
+2021-02-06 16:36:47.8632 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:36:49.0152 INFO Get Pass List Success
+2021-02-06 16:36:49.1396 INFO Get User Success :sonasati_dis
+2021-02-06 16:37:00.2882 INFO Get Pass List Success
+2021-02-06 16:37:27.7470 INFO Get Pass List Success
+2021-02-06 16:37:43.3411 INFO Get Pass List Success
+2021-02-06 16:38:18.8963 INFO Get Pass List Success
+2021-02-06 16:38:38.1156 INFO Get Pass List Success
+2021-02-06 16:40:10.8254 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:40:11.9357 INFO Get User Success :sonasati_dis
+2021-02-06 16:40:28.0386 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:40:28.5595 INFO Get User Success :sonasati_dis
+2021-02-06 16:40:31.0384 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 16:40:32.3369 INFO Get Pass List Success
+2021-02-06 16:40:32.4782 INFO Get User Success :sonasati_dis
+2021-02-06 16:40:35.9910 INFO Get Pass List Success
+2021-02-06 16:40:39.2031 INFO Get Pass List Success
+2021-02-06 16:40:43.9047 INFO Get Pass List Success
+2021-02-06 16:40:47.8850 INFO Get Pass List Success
+2021-02-06 17:01:50.4411 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:01:50.8828 INFO Get User Success :wcedo
+2021-02-06 17:02:09.8700 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:02:09.9826 INFO Check WorkFlow List Success
+2021-02-06 17:02:15.5391 INFO Get RR List Success
+2021-02-06 17:02:15.7120 INFO Get User Success :wcedo
+2021-02-06 17:02:20.9304 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:02:21.0129 INFO Check WorkFlow List Success
+2021-02-06 17:02:26.2369 INFO Get RR List Success
+2021-02-06 17:02:28.6505 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:02:28.7434 INFO Get Product Master List Success
+2021-02-06 17:02:28.8628 INFO Get State List Success
+2021-02-06 17:02:28.9466 INFO Get NOC Sucess:62
+2021-02-06 17:02:29.1111 INFO Get NOC Sucess:Req//1
+2021-02-06 17:02:29.2073 INFO Get State List Success
+2021-02-06 17:02:29.5429 INFO Get NOC Details Success
+2021-02-06 17:02:29.6313 INFO Get Customer Details Success
+2021-02-06 17:02:29.7637 INFO Check WorkFlow List Success
+2021-02-06 17:02:29.9389 INFO Get User Success :wcedo
+2021-02-06 17:02:58.2100 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:03:37.6903 INFO NOC Approve Fail:41-Object reference not set to an instance of an object.
+2021-02-06 17:03:53.5015 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:04:50.1556 INFO NOC Approve Sucess:41
+2021-02-06 17:04:50.2574 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:04:50.3384 INFO Check WorkFlow List Success
+2021-02-06 17:04:56.0996 INFO Get RR List Success
+2021-02-06 17:04:56.2182 INFO Get User Success :wcedo
+2021-02-06 17:05:06.6534 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:05:06.7965 INFO Check WorkFlow List Success
+2021-02-06 17:05:13.1137 INFO Get RR List Success
+2021-02-06 17:05:24.5001 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:05:24.6729 INFO Check WorkFlow List Success
+2021-02-06 17:05:31.4166 INFO Get RR List Success
+2021-02-06 17:10:24.5470 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:10:25.5034 INFO Get User Success :hpcl_wc
+2021-02-06 17:10:40.3857 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:10:40.4836 INFO Get RR List Success
+2021-02-06 17:10:40.7042 INFO Get User Success :hpcl_wc
+2021-02-06 17:10:42.6986 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:10:44.3468 INFO Get RR List Success
+2021-02-06 17:10:44.5372 INFO Get User Success :hpcl_wc
+2021-02-06 17:11:01.4093 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:11:01.5435 INFO Get RR List Success
+2021-02-06 17:11:01.7538 INFO Get User Success :hpcl_wc
+2021-02-06 17:11:02.8593 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:11:02.9919 INFO Get RR List Success
+2021-02-06 17:11:03.2005 INFO Get RR No Sucess:Req/WC/HPL/RR/2020-21/4
+2021-02-06 17:11:05.3039 INFO Get RR List Success
+2021-02-06 17:11:05.5066 INFO Get User Success :hpcl_wc
+2021-02-06 17:11:14.4801 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:11:14.6009 INFO Get RR List Success
+2021-02-06 17:11:14.7976 INFO Get User Success :hpcl_wc
+2021-02-06 17:11:16.6687 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:11:18.7944 INFO Get RR List Success
+2021-02-06 17:11:19.0655 INFO Get User Success :hpcl_wc
+2021-02-06 17:11:21.3062 INFO Get User Success :106-HPCL Biofuels Limited, Distillery Division, WC
+2021-02-06 17:11:21.4795 INFO Get RR Details Success
+2021-02-06 17:11:23.1825 INFO Get RR List Success
+2021-02-06 17:11:23.4409 INFO Get User Success :hpcl_wc
+2021-02-06 17:22:21.0267 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:22:21.5861 INFO Get User Success :wcedo
+2021-02-06 17:23:00.1896 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:23:00.2884 INFO Get RR List Success
+2021-02-06 17:23:00.4158 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:23:02.0494 INFO Get RR List Success
+2021-02-06 17:23:02.2085 INFO Get User Success :wcedo
+2021-02-06 17:23:17.4374 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:23:17.5268 INFO Get RR Details Success
+2021-02-06 17:23:19.2935 INFO Get RR List Success
+2021-02-06 17:30:48.7857 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:30:49.8844 INFO Get User Success :sonasati_dis
+2021-02-06 17:30:59.3916 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:31:00.0511 INFO Get User Success :sonasati_dis
+2021-02-06 17:31:03.7512 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:31:03.8390 INFO Get RR List Success
+2021-02-06 17:31:04.0245 INFO Get User Success :sonasati_dis
+2021-02-06 17:31:05.9949 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:31:07.5901 INFO Get RR List Success
+2021-02-06 17:31:07.7832 INFO Get User Success :sonasati_dis
+2021-02-06 17:31:20.3053 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:31:20.4874 INFO Get User Success :wcedo
+2021-02-06 17:31:24.9548 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:31:25.0428 INFO Get RR List Success
+2021-02-06 17:31:25.1538 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:31:26.7430 INFO Get RR List Success
+2021-02-06 17:31:26.8316 INFO Get User Success :wcedo
+2021-02-06 17:31:39.7917 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:31:39.8795 INFO Get RR Details Success
+2021-02-06 17:31:41.4581 INFO Get RR List Success
+2021-02-06 17:33:58.6580 INFO Get RR Details Success
+2021-02-06 17:34:46.6571 INFO Get RR Details Success
+2021-02-06 17:34:48.4128 INFO Get RR List Success
+2021-02-06 17:34:48.6090 INFO Get User Success :wcedo
+2021-02-06 17:38:45.8351 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:38:46.1938 INFO Get User Success :wcedo
+2021-02-06 17:38:49.9538 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:38:50.0353 INFO Get RR List Success
+2021-02-06 17:38:50.1669 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:38:51.6710 INFO Get RR List Success
+2021-02-06 17:38:51.8365 INFO Get User Success :wcedo
+2021-02-06 17:38:53.9262 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:38:54.0770 INFO Get RR Details Success
+2021-02-06 17:38:55.5570 INFO Get RR List Success
+2021-02-06 17:38:55.7725 INFO Get User Success :wcedo
+2021-02-06 17:38:59.4309 INFO Get User Success :99-Assistant Commissioner
+2021-02-06 17:39:00.8985 INFO Get RR List Success
+2021-02-06 17:39:00.9761 INFO Get User Success :wcedo
+2021-02-06 17:39:54.5040 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:39:55.1339 INFO Get User Success :harinagar_dis
+2021-02-06 17:40:04.0483 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:40:04.5973 INFO Get User Success :harinagar_dis
+2021-02-06 17:40:07.4428 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:40:09.1241 INFO Get Pass List Success
+2021-02-06 17:40:09.2237 INFO Get User Success :harinagar_dis
+2021-02-06 17:40:18.9031 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:40:18.9769 INFO Get Dispach Master List Success
+2021-02-06 17:40:19.1591 INFO Get VAT Master List Success
+2021-02-06 17:40:21.7070 INFO Get Pass List Success
+2021-02-06 17:40:22.1546 INFO Get User Success :harinagar_dis
+2021-02-06 17:40:41.9172 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:40:41.9880 INFO Get Dispach Master List Success
+2021-02-06 17:40:42.1388 INFO Get VAT Master List Success
+2021-02-06 17:40:42.2143 INFO Get Pass List Success
+2021-02-06 17:40:42.6438 INFO Get User Success :harinagar_dis
+2021-02-06 17:40:51.0820 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:40:52.3350 INFO Get Pass List Success
+2021-02-06 17:40:52.4382 INFO Get User Success :harinagar_dis
+2021-02-06 17:40:53.9137 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:40:54.0054 INFO Get Dispach Master List Success
+2021-02-06 17:40:54.1848 INFO Get VAT Master List Success
+2021-02-06 17:40:54.2763 INFO Get Pass List Success
+2021-02-06 17:40:54.8013 INFO Get User Success :harinagar_dis
+2021-02-06 17:41:29.2317 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:41:29.3020 INFO Get Dispach Master List Success
+2021-02-06 17:41:29.4791 INFO Get VAT Master List Success
+2021-02-06 17:41:29.5763 INFO Get Pass List Success
+2021-02-06 17:41:30.1317 INFO Get User Success :harinagar_dis
+2021-02-06 17:41:44.5913 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:41:44.6780 INFO Get Dispach Master List Success
+2021-02-06 17:41:44.8703 INFO Get VAT Master List Success
+2021-02-06 17:41:44.9665 INFO Get Pass List Success
+2021-02-06 17:41:45.6410 INFO Get User Success :harinagar_dis
+2021-02-06 17:43:09.8568 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:43:09.9594 INFO Get Dispach Master List Success
+2021-02-06 17:43:10.1248 INFO Get VAT Master List Success
+2021-02-06 17:43:10.2321 INFO Get Pass List Success
+2021-02-06 17:43:10.7372 INFO Get User Success :harinagar_dis
+2021-02-06 17:43:31.1925 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:43:31.2638 INFO Get Dispach Master List Success
+2021-02-06 17:43:31.4144 INFO Get VAT Master List Success
+2021-02-06 17:43:31.4883 INFO Get Pass List Success
+2021-02-06 17:43:31.9439 INFO Get User Success :harinagar_dis
+2021-02-06 17:44:12.9899 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:44:13.0607 INFO Get Dispach Master List Success
+2021-02-06 17:44:13.2083 INFO Get VAT Master List Success
+2021-02-06 17:44:13.2801 INFO Get Pass List Success
+2021-02-06 17:44:13.7168 INFO Get User Success :harinagar_dis
+2021-02-06 17:44:46.6640 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:44:46.7355 INFO Get Dispach Master List Success
+2021-02-06 17:44:46.8868 INFO Get VAT Master List Success
+2021-02-06 17:44:46.9617 INFO Get Pass List Success
+2021-02-06 17:44:47.3882 INFO Get User Success :harinagar_dis
+2021-02-06 17:45:32.4664 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:45:32.5364 INFO Get Dispach Master List Success
+2021-02-06 17:45:32.6873 INFO Get VAT Master List Success
+2021-02-06 17:45:32.7623 INFO Get Pass List Success
+2021-02-06 17:45:33.1922 INFO Get User Success :harinagar_dis
+2021-02-06 17:45:46.7404 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:45:46.8123 INFO Get Dispach Master List Success
+2021-02-06 17:45:46.9656 INFO Get VAT Master List Success
+2021-02-06 17:45:47.0396 INFO Get Pass List Success
+2021-02-06 17:45:47.4700 INFO Get User Success :harinagar_dis
+2021-02-06 17:45:59.6608 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:46:00.4298 INFO Get Pass List Success
+2021-02-06 17:46:00.5159 INFO Get User Success :harinagar_dis
+2021-02-06 17:46:19.1309 INFO Get Pass List Success
+2021-02-06 17:46:31.7852 INFO Get Pass List Success
+2021-02-06 17:46:42.0336 INFO Get Pass List Success
+2021-02-06 17:46:52.2153 INFO Get Pass List Success
+2021-02-06 17:47:08.2142 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:47:08.2855 INFO Get Dispach Master List Success
+2021-02-06 17:47:08.4473 INFO Get VAT Master List Success
+2021-02-06 17:47:40.4317 INFO Get Pass List Success
+2021-02-06 17:47:41.0848 INFO Get User Success :harinagar_dis
+2021-02-06 17:47:45.3240 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-06 17:47:47.3707 INFO Get Pass List Success
+2021-02-06 17:47:47.4647 INFO Get User Success :harinagar_dis
+2021-02-06 17:47:53.8906 INFO Get Pass List Success
+2021-02-06 17:47:57.5704 INFO Get Pass List Success
+2021-02-06 17:48:00.6957 INFO Get Pass List Success
+2021-02-06 17:48:32.7459 INFO Get Pass List Success
+2021-02-06 17:48:37.0285 INFO Get Pass List Success
+2021-02-06 17:48:40.7609 INFO Get Pass List Success
+2021-02-06 17:48:43.4630 INFO Get Pass List Success
+2021-02-06 17:48:47.4363 INFO Get Pass List Success
+2021-02-06 17:48:50.8400 INFO Get Pass List Success
+2021-02-06 17:49:37.3646 INFO Get Pass List Success
+2021-02-06 17:49:45.0903 INFO Get Pass List Success
+2021-02-06 17:49:48.4114 INFO Get Pass List Success
+2021-02-06 17:50:38.9062 INFO Get Pass List Success
+2021-02-06 17:51:03.5181 INFO Get Pass List Success
+2021-02-06 17:52:48.3314 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:52:49.2633 INFO Get User Success :sonasati_dis
+2021-02-06 17:52:53.4035 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:52:53.8007 INFO Get User Success :sonasati_dis
+2021-02-06 17:52:58.5536 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:52:59.7303 INFO Get Pass List Success
+2021-02-06 17:52:59.8824 INFO Get User Success :sonasati_dis
+2021-02-06 17:53:05.9521 INFO Get Pass List Success
+2021-02-06 17:53:58.1098 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:53:58.5024 INFO Get User Success :sonasati_dis
+2021-02-06 17:54:51.7144 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:54:51.7922 INFO Get RR List Success
+2021-02-06 17:54:51.9510 INFO Get User Success :sonasati_dis
+2021-02-06 17:55:40.0339 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:55:40.1131 INFO Get RR List Success
+2021-02-06 17:55:40.2947 INFO Get User Success :sonasati_dis
+2021-02-06 17:55:52.5806 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:55:52.6570 INFO Get RR List Success
+2021-02-06 17:55:52.8179 INFO Get User Success :sonasati_dis
+2021-02-06 17:56:08.2946 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:56:08.3737 INFO Get RR List Success
+2021-02-06 17:56:08.5419 INFO Get User Success :sonasati_dis
+2021-02-06 17:56:11.0956 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:56:11.1740 INFO Get RR List Success
+2021-02-06 17:56:11.3274 INFO Get User Success :sonasati_dis
+2021-02-06 17:56:46.2284 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:56:47.6129 INFO Get RR List Success
+2021-02-06 17:56:47.7675 INFO Get User Success :sonasati_dis
+2021-02-06 17:56:49.1132 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:56:49.1890 INFO Get RR List Success
+2021-02-06 17:56:49.3405 INFO Get User Success :sonasati_dis
+2021-02-06 17:57:30.4101 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:57:30.4879 INFO Get RR List Success
+2021-02-06 17:57:30.6479 INFO Get User Success :sonasati_dis
+2021-02-06 17:57:32.9815 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:57:33.0589 INFO Get RR List Success
+2021-02-06 17:57:33.2123 INFO Get User Success :sonasati_dis
+2021-02-06 17:57:48.4862 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:57:48.5618 INFO Get RR List Success
+2021-02-06 17:57:48.7117 INFO Get User Success :sonasati_dis
+2021-02-06 17:58:08.8192 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:58:10.2541 INFO Get RR List Success
+2021-02-06 17:58:10.4013 INFO Get User Success :sonasati_dis
+2021-02-06 17:58:12.3877 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:58:12.4625 INFO Get RR List Success
+2021-02-06 17:58:12.6858 INFO Get User Success :sonasati_dis
+2021-02-06 17:59:04.3987 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:59:04.4762 INFO Get RR List Success
+2021-02-06 17:59:04.7125 INFO Get User Success :sonasati_dis
+2021-02-06 17:59:14.7217 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:59:16.1575 INFO Get RR List Success
+2021-02-06 17:59:16.3754 INFO Get User Success :sonasati_dis
+2021-02-06 17:59:17.4239 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-02-06 17:59:17.5001 INFO Get RR List Success
+2021-02-06 17:59:17.7141 INFO Get User Success :sonasati_dis
+2021-02-06 18:00:02.3964 INFO Get User Fail :-Exception while reading from stream
+2021-02-06 18:14:05.6815 INFO Get User Success :101-Commissioner
+2021-02-06 18:14:06.9051 INFO Get User Success :com
+2021-02-06 18:14:15.4156 INFO Get User Success :101-Commissioner
+2021-02-06 18:14:15.4885 INFO Check WorkFlow List Success
+2021-02-06 18:14:19.8298 INFO Get RR List Success
+2021-02-06 18:14:19.9678 INFO Get User Success :com
+2021-02-06 18:25:34.6751 INFO Get User Success :144-Police Banka
+2021-02-06 18:28:59.0486 INFO Get User Success :144-Police Banka
+2021-02-06 18:29:04.2854 INFO Get User Success :police_Banka
+2021-02-06 18:30:15.7438 INFO Get User Success :144-Police Banka
+2021-02-06 18:31:55.3251 INFO Get User Success :police_Banka
+2021-02-06 18:34:39.7676 INFO Get User Success :144-Police Banka
+2021-02-06 18:34:43.4281 INFO Get User Success :police_Banka
+2021-02-06 18:34:47.2682 INFO Get User Success :144-Police Banka
+2021-02-06 18:34:47.3451 INFO Get User Success :144-Police Banka
+2021-02-06 18:45:42.0079 INFO Get User Success :167-Police Patna
+2021-02-06 18:46:11.9294 INFO Get User Success :167-Police Patna
+2021-02-06 18:46:20.2928 INFO Get User Success :167-Police Patna
+2021-02-06 18:46:29.5967 INFO Get User Success :167-Police Patna
+2021-02-06 18:46:50.4876 INFO Get User Success :167-Police Patna
+2021-02-06 18:50:14.3918 INFO Get User Success :167-Police Patna
+2021-02-06 18:50:42.5003 INFO Get User Success :167-Police Patna
+2021-02-06 18:50:58.8754 INFO Get User Success :164-Police Munger
+2021-02-06 18:51:00.3915 INFO Get User Success :164-Police Munger
+2021-02-06 18:51:00.4834 INFO Get User Success :164-Police Munger
+2021-02-06 19:03:04.0337 INFO Get User Success :101-Commissioner
+2021-02-06 19:03:05.4610 INFO Get User Success :com
+2021-02-06 19:03:22.8354 INFO Get User Success :101-Commissioner
+2021-02-06 19:03:23.7507 INFO Get User Success :com
+2021-02-06 19:04:26.0114 INFO Get User Success :101-Commissioner
+2021-02-06 19:04:26.9241 INFO Get User Success :com
+2021-02-06 19:05:00.4247 INFO Get User Success :101-Commissioner
+2021-02-06 19:05:01.4714 INFO Get User Success :com
+2021-02-06 19:05:33.1525 INFO Get User Success :101-Commissioner
+2021-02-06 19:05:40.8097 INFO Get User Success :44-Administrator
+2021-02-06 19:05:44.0860 INFO Get RolePermissions List Success
+2021-02-06 19:05:49.1698 INFO Get Single User Details Success
+2021-02-06 19:05:53.0556 INFO Get Single User Details Success
+2021-02-06 19:05:53.2200 INFO Org Get List Success
+2021-02-06 19:05:53.3423 INFO Get view_Role_master List Success
+2021-02-06 19:05:53.4498 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:05:53.5496 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:53.6502 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.6502 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.6502 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:53.7533 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.7543 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.7543 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.7543 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.7543 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:53.8511 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.8511 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:53.9506 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.9506 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:53.9506 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.0515 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.0515 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.0515 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.1536 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.1536 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:05:54.2552 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3560 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.3641 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.4658 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.4658 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.4658 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.4658 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.4658 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.5732 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5732 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5732 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5732 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5732 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5732 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5822 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.5822 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:05:54.6811 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:05:54.7793 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.8783 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.8803 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.8803 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:54.9804 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:54.9804 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:05:55.0841 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.1857 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1857 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1857 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1857 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1857 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1916 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1916 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1916 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1916 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.1916 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.2933 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.2933 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.2933 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.2933 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.2933 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.2933 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.3965 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.5054 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.5054 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.5054 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.6068 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.6068 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.7066 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.7091 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.8080 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:55.9065 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.9065 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.9065 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:55.9065 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:05:56.0051 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:05:56.1019 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:05:56.1019 INFO Get ViewModel Success 
+2021-02-06 19:05:56.2157 INFO Get GetMaxID Success : user_permission
+2021-02-06 19:05:56.8637 INFO Get User Permission  Success
+2021-02-06 19:06:12.9609 INFO Insert User_permission Add Success : 4813-add_role_permission
+2021-02-06 19:06:13.1568 INFO Update User_permission  Success : 4813-edit_role_permission
+2021-02-06 19:06:13.3525 INFO Update User_permission  Success : 4813-delete_role_permission
+2021-02-06 19:06:13.5487 INFO Update User_permission  Success : 4813-review_role_permission
+2021-02-06 19:06:13.7447 INFO Update User_permission  Success : 4813-approve_role_permission
+2021-02-06 19:06:14.0379 INFO Insert User_permission Add Success : 4814-add_role_permission
+2021-02-06 19:06:14.2346 INFO Update User_permission  Success : 4813-edit_role_permission
+2021-02-06 19:06:14.4311 INFO Update User_permission  Success : 4813-delete_role_permission
+2021-02-06 19:06:14.6256 INFO Update User_permission  Success : 4813-review_role_permission
+2021-02-06 19:06:14.8224 INFO Update User_permission  Success : 4813-approve_role_permission
+2021-02-06 19:06:15.1134 INFO Insert User_permission Add Success : 4815-add_role_permission
+2021-02-06 19:06:15.3096 INFO Update User_permission  Success : 4813-edit_role_permission
+2021-02-06 19:06:15.5055 INFO Update User_permission  Success : 4813-delete_role_permission
+2021-02-06 19:06:15.6994 INFO Update User_permission  Success : 4813-review_role_permission
+2021-02-06 19:06:15.8948 INFO Update User_permission  Success : 4813-approve_role_permission
+2021-02-06 19:06:16.1871 INFO Insert User_permission Add Success : 4816-add_role_permission
+2021-02-06 19:06:16.3832 INFO Update User_permission  Success : 4813-edit_role_permission
+2021-02-06 19:06:16.5795 INFO Update User_permission  Success : 4813-delete_role_permission
+2021-02-06 19:06:16.7748 INFO Update User_permission  Success : 4813-review_role_permission
+2021-02-06 19:06:16.9697 INFO Update User_permission  Success : 4813-approve_role_permission
+2021-02-06 19:06:17.2616 INFO Insert User_permission Add Success : 4817-add_role_permission
+2021-02-06 19:06:17.4581 INFO Update User_permission  Success : 4813-edit_role_permission
+2021-02-06 19:06:17.6540 INFO Update User_permission  Success : 4813-delete_role_permission
+2021-02-06 19:06:17.8499 INFO Update User_permission  Success : 4813-review_role_permission
+2021-02-06 19:06:18.0463 INFO Update User_permission  Success : 4813-approve_role_permission
+2021-02-06 19:06:18.3383 INFO Insert User_permission Add Success : 4818-add_role_permission
+2021-02-06 19:06:18.5343 INFO Update User_permission  Success : 4813-edit_role_permission
+2021-02-06 19:06:18.7297 INFO Update User_permission  Success : 4813-delete_role_permission
+2021-02-06 19:06:18.9309 INFO Update User_permission  Success : 4813-review_role_permission
+2021-02-06 19:06:19.1262 INFO Update User_permission  Success : 4813-approve_role_permission
+2021-02-06 19:06:20.5782 INFO Org Get List Success
+2021-02-06 19:06:20.6789 INFO Get view_Role_master List Success
+2021-02-06 19:06:20.7790 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:06:20.8799 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:20.9803 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:20.9803 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:20.9803 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.0825 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.0825 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.0825 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.0825 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.0825 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.1872 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.1872 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.2882 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.2882 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.2882 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.3899 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.3899 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.3899 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.4900 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.4900 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:06:21.5893 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.6909 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.6928 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.7073 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.8106 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.8106 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.8106 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.8106 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.8165 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9169 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:21.9269 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:06:22.0251 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:06:22.1239 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.2230 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.2230 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.2230 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.3254 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.3254 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:06:22.4276 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.5289 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5289 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5289 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5289 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5289 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5369 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5369 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5369 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5369 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.5369 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.6428 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.6428 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.6448 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.6448 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.6448 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.6448 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.7466 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7466 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7466 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7466 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7466 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7466 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7546 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.7546 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.8548 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.8548 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.8548 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:22.9559 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:22.9579 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:23.0561 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:23.0561 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:23.1563 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:23.2561 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:23.2561 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:23.2561 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:23.2561 INFO Get Module_master In ViewModel Success 
+2021-02-06 19:06:23.3595 INFO Get SubModule_master In ViewModel Success 
+2021-02-06 19:06:23.4588 INFO Get TabName Master In ViewModel Success 
+2021-02-06 19:06:23.4588 INFO Get ViewModel Success 
+2021-02-06 19:06:23.5614 INFO Get GetMaxID Success : user_permission
+2021-02-06 19:06:23.8070 INFO Get Single User Details Success
+2021-02-06 19:06:26.9089 INFO Get Single User Details Success
+2021-02-06 19:06:34.9710 INFO Get User Success :101-Commissioner
+2021-02-06 19:06:35.8808 INFO Get User Success :com
+2021-02-06 19:06:39.6187 INFO Get User Success :101-Commissioner

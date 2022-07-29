@@ -1,0 +1,178 @@
+2020-09-16 10:22:16.0796 INFO Get Party Type Master List Success
+2020-09-16 11:48:28.1720 INFO Get Party Type Master List Success
+2020-09-16 12:33:03.5320 INFO Get Party Master List Success
+2020-09-16 12:33:13.3644 INFO Get Party Master List Success
+2020-09-16 12:34:10.5515 INFO Get Party Master List Success
+2020-09-16 12:34:21.9971 INFO Get Party Master List Success
+2020-09-16 12:37:34.4195 INFO Get Party Master List Success
+2020-09-16 12:40:29.7952 INFO Get Party Master List Success
+2020-09-16 12:41:42.6773 INFO Get Party Master List Success
+2020-09-16 12:42:10.0246 INFO Get Party Master List Success
+2020-09-16 12:43:55.3904 INFO Get Party Master List Success
+2020-09-16 12:44:13.7453 INFO Get Party Master List Success
+2020-09-16 12:45:03.2723 INFO Get Party Master List Success
+2020-09-16 12:45:29.3741 INFO Get Party Master List Success
+2020-09-16 12:45:36.2702 INFO Get Party Master List Success
+2020-09-16 12:45:36.4928 INFO Get Party Master List Success
+2020-09-16 12:45:36.6793 INFO Get Party Master List Success
+2020-09-16 12:50:10.8555 INFO Get Party Master List Success
+2020-09-16 12:54:06.7535 INFO Get Party Master List Success
+2020-09-16 13:09:57.4348 INFO Org Get List Success
+2020-09-16 13:10:01.0719 INFO Get State List Success
+2020-09-16 13:10:03.7891 INFO Get Division List Success
+2020-09-16 13:10:04.6162 INFO Get State List Success
+2020-09-16 13:10:14.1429 INFO Get Division List Success
+2020-09-16 13:13:05.8140 INFO Get State List Success
+2020-09-16 13:13:19.2228 INFO Get Division List Success
+2020-09-16 13:13:26.0614 INFO Get State List Success
+2020-09-16 13:14:04.7009 INFO Get State List Success
+2020-09-16 13:14:15.2227 INFO Get Division List Success
+2020-09-16 13:14:16.8335 INFO Get State List Success
+2020-09-16 13:15:04.3637 INFO Get State List Success
+2020-09-16 13:15:36.9449 INFO Update District Fail :--22P02: invalid input syntax for integer: ""
+2020-09-16 13:15:38.9404 INFO Get State List Success
+2020-09-16 13:15:54.3720 INFO Org Get List Success
+2020-09-16 13:16:01.2773 INFO GetFinacListValues Success
+2020-09-16 13:16:10.9230 INFO Get Party Master List Success
+2020-09-16 13:16:23.4903 INFO Org Get List Success
+2020-09-16 13:17:40.4113 INFO GetFinacListValues Success
+2020-09-16 13:17:42.6956 INFO Get OrgNames in Financial Form Success
+2020-09-16 13:17:55.6593 INFO Get State List Success
+2020-09-16 13:18:03.2373 INFO Get Party Type Master List Success
+2020-09-16 13:18:06.5939 INFO Get Party Master List Success
+2020-09-16 13:18:08.5074 INFO Get Party Type Master List Success
+2020-09-16 13:19:45.9423 INFO Org Get List Success
+2020-09-16 13:20:13.7473 INFO Get Party Type Master List Success
+2020-09-16 13:20:23.9415 INFO Get Party Master List Success
+2020-09-16 13:20:25.5291 INFO Get Party Type Master List Success
+2020-09-16 15:01:10.6439 INFO Get Party Master List Success
+2020-09-16 15:34:21.1664 INFO Get Party Master List Success
+2020-09-16 15:35:17.7356 INFO Get Party Master List Success
+2020-09-16 15:37:43.8764 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 15:51:25.1465 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 15:52:02.3548 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 15:52:55.7392 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 15:53:47.0029 INFO Sugarcanepurchase Insertion Sucess:0-Select
+2020-09-16 15:55:16.8487 INFO Get Party Master List Success
+2020-09-16 15:58:07.6771 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 15:59:05.1345 INFO Sugarcanepurchase Insertion Sucess:0-H02
+2020-09-16 16:00:02.7703 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 16:00:17.1578 INFO Sugarcanepurchase Insertion Sucess:0-H02
+2020-09-16 16:11:11.1636 INFO Get MaxID Success :sugarcanepurchase
+2020-09-16 16:11:48.7056 INFO Sugarcanepurchase Insertion Sucess:0-H02
+2020-09-16 16:24:36.2483 INFO Module Get List Success
+2020-09-16 16:43:43.9484 INFO Module Get List Success
+2020-09-16 16:44:50.0188 INFO Module Get List Success
+2020-09-16 16:45:38.5829 INFO Module Get List Success
+2020-09-16 16:45:54.0103 INFO Module Get List Success
+2020-09-16 16:46:33.9231 INFO Module Get List Success
+2020-09-16 16:47:16.1617 INFO Module Get List Success
+2020-09-16 16:47:54.4165 INFO Module Get List Success
+2020-09-16 16:48:28.4336 INFO Module Get List Success
+2020-09-16 16:48:58.1983 INFO Module Get List Success
+2020-09-16 16:50:47.9828 INFO Module Get List Success
+2020-09-16 16:50:54.2420 INFO Module Get List Success
+2020-09-16 16:51:16.0079 INFO Module Get List Success
+2020-09-16 16:51:24.9902 INFO Get Party Master List Success
+2020-09-16 16:51:26.2884 INFO Module Get List Success
+2020-09-16 16:51:27.1157 INFO Get Party Master List Success
+2020-09-16 16:51:38.9257 INFO Module Get List Success
+2020-09-16 17:12:46.6202 INFO Get Party Type Master List Success
+2020-09-16 17:12:49.3208 INFO Module Get List Success
+2020-09-16 17:16:01.5609 INFO Module Get List Success
+2020-09-16 17:46:31.9841 INFO Get WorkFlow List Success
+2020-09-16 17:46:37.3186 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:46:37.3186 INFO Get District In WorkFlow Success
+2020-09-16 17:46:37.3186 INFO Get WorkFlow  Success
+2020-09-16 17:46:42.3181 INFO Get TabName In WorkFlow Success
+2020-09-16 17:47:08.2927 INFO Get TabName In WorkFlow Success
+2020-09-16 17:48:13.3157 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:48:13.3157 INFO Get District In WorkFlow Success
+2020-09-16 17:48:13.3157 INFO Get WorkFlow  Success
+2020-09-16 17:48:13.3157 INFO Get TabName In WorkFlow Success
+2020-09-16 17:49:54.2831 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:49:54.2845 INFO Get District In WorkFlow Success
+2020-09-16 17:49:54.2845 INFO Get WorkFlow  Success
+2020-09-16 17:49:54.2845 INFO Get TabName In WorkFlow Success
+2020-09-16 17:51:10.9581 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:51:10.9581 INFO Get District In WorkFlow Success
+2020-09-16 17:51:10.9581 INFO Get RoleNames In WorkFlow Success
+2020-09-16 17:51:10.9581 INFO Get WorkFlow  Success
+2020-09-16 17:51:10.9581 INFO Get TabName In WorkFlow Success
+2020-09-16 17:51:19.3385 INFO Get UserNames In WorkFlow Success
+2020-09-16 17:53:25.4899 INFO Get WorkFlow List Success
+2020-09-16 17:53:28.7847 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:53:28.7847 INFO Get District In WorkFlow Success
+2020-09-16 17:53:28.7847 INFO Get WorkFlow  Success
+2020-09-16 17:53:28.7847 INFO Get TabName In WorkFlow Success
+2020-09-16 17:54:06.9518 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:54:06.9518 INFO Get District In WorkFlow Success
+2020-09-16 17:54:06.9518 INFO Get WorkFlow  Success
+2020-09-16 17:54:06.9571 INFO Get TabName In WorkFlow Success
+2020-09-16 17:54:30.2682 INFO Get RoleNames In WorkFlow Success
+2020-09-16 17:54:30.2702 INFO Get UserNames In WorkFlow Success
+2020-09-16 17:54:37.1622 INFO Get WorkFlow List Success
+2020-09-16 17:54:38.9430 INFO Get SubModule In WorkFlow Success
+2020-09-16 17:54:38.9430 INFO Get District In WorkFlow Success
+2020-09-16 17:54:38.9430 INFO Get WorkFlow  Success
+2020-09-16 17:54:38.9430 INFO Get TabName In WorkFlow Success
+2020-09-16 17:54:38.9430 INFO Get RoleNames In WorkFlow Success
+2020-09-16 17:54:38.9430 INFO Get UserNames In WorkFlow Success
+2020-09-16 17:54:47.8697 INFO Get UserNames In WorkFlow Success
+2020-09-16 17:54:53.8911 INFO Check WorkFlow List Success
+2020-09-16 17:54:58.9418 INFO Get WorkFlow List Success
+2020-09-16 18:00:34.2408 INFO Get WorkFlow List Success
+2020-09-16 18:00:35.9968 INFO Get SubModule In WorkFlow Success
+2020-09-16 18:00:35.9968 INFO Get District In WorkFlow Success
+2020-09-16 18:00:36.0038 INFO Get WorkFlow  Success
+2020-09-16 18:00:36.0038 INFO Get TabName In WorkFlow Success
+2020-09-16 18:00:36.0038 INFO Get RoleNames In WorkFlow Success
+2020-09-16 18:00:36.0038 INFO Get UserNames In WorkFlow Success
+2020-09-16 18:00:46.1589 INFO Get UserNames In WorkFlow Success
+2020-09-16 18:02:32.6051 INFO Get TabName In WorkFlow Success
+2020-09-16 18:02:37.1836 INFO Get TabName In WorkFlow Success
+2020-09-16 18:02:38.8425 INFO Get RoleNames In WorkFlow Success
+2020-09-16 18:02:40.5114 INFO Get UserNames In WorkFlow Success
+2020-09-16 18:08:11.5334 INFO Get State List Success
+2020-09-16 18:08:15.6635 INFO Get State List Success
+2020-09-16 18:08:29.6081 INFO Get State List Success
+2020-09-16 18:08:29.6081 INFO Get Division List Success
+2020-09-16 18:09:18.7359 INFO Get State List Success
+2020-09-16 18:09:18.7359 INFO Get Division List Success
+2020-09-16 18:09:22.0998 INFO Update District Fail :-Bangalore Rural-23503: update or delete on table "district_master" violates foreign key constraint "fk_district_master" on table "workflow"
+2020-09-16 18:09:32.3571 INFO Get State List Success
+2020-09-16 18:09:32.3571 INFO Get Division List Success
+2020-09-16 18:10:17.0878 INFO Update District Fail :-Bangalore Rural-23503: update or delete on table "district_master" violates foreign key constraint "fk_district_master" on table "workflow"
+2020-09-16 18:20:03.7880 INFO Get WorkFlow List Fail :42P01: missing FROM-clause entry for table "f"
+2020-09-16 18:21:06.4349 INFO Sugarcanepurchase Get List Success
+2020-09-16 18:22:56.9832 INFO Get WorkFlow List Success
+2020-09-16 18:23:00.4062 INFO Get SubModule In WorkFlow Success
+2020-09-16 18:23:00.4062 INFO Get District In WorkFlow Success
+2020-09-16 18:23:00.4119 INFO Get WorkFlow  Success
+2020-09-16 18:23:00.4119 INFO Get TabName In WorkFlow Success
+2020-09-16 18:23:00.4119 INFO Get RoleNames In WorkFlow Success
+2020-09-16 18:23:00.4119 INFO Get UserNames In WorkFlow Success
+2020-09-16 18:23:00.4258 INFO Get UserNames In WorkFlow Success
+2020-09-16 18:23:24.3109 INFO Get UserNames In WorkFlow Success
+2020-09-16 18:25:23.5650 INFO Get Users List Success
+2020-09-16 18:25:40.7056 INFO Get Users List Success
+2020-09-16 18:26:10.2817 INFO Get Users List Success
+2020-09-16 18:26:40.3556 INFO Get Users List Success
+2020-09-16 18:32:08.5587 INFO Get WorkFlow List Success
+2020-09-16 18:32:09.7882 INFO Get SubModule In WorkFlow Success
+2020-09-16 18:32:09.7882 INFO Get District In WorkFlow Success
+2020-09-16 18:32:09.7882 INFO Get WorkFlow  Success
+2020-09-16 18:32:09.7882 INFO Get TabName In WorkFlow Success
+2020-09-16 18:32:09.8018 INFO Get RoleNames In WorkFlow Success
+2020-09-16 18:32:09.8018 INFO Get Users List Success
+2020-09-16 18:32:09.8220 INFO Get Users List Success
+2020-09-16 18:33:55.9575 INFO Get WorkFlow List Success
+2020-09-16 18:33:57.3477 INFO Get SubModule In WorkFlow Success
+2020-09-16 18:33:57.3477 INFO Get District In WorkFlow Success
+2020-09-16 18:33:57.3477 INFO Get WorkFlow  Success
+2020-09-16 18:33:57.3477 INFO Get TabName In WorkFlow Success
+2020-09-16 18:33:57.3477 INFO Get RoleNames In WorkFlow Success
+2020-09-16 18:33:57.3694 INFO Get Users List Success
+2020-09-16 18:33:57.3784 INFO Get Users List Success
+2020-09-16 18:34:05.5643 INFO Get Users List Success
+2020-09-16 18:34:39.0347 INFO Get Users List Success

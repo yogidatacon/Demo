@@ -1,0 +1,317 @@
+2021-11-13 10:08:39.1947 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:08:45.5950 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:08:45.6416 INFO Get Product Type Master List Success
+2021-11-13 10:08:45.6416 INFO Get User Success :mtp1
+2021-11-13 10:08:51.2140 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:08:52.7048 INFO Get Product Type Master List Success
+2021-11-13 10:08:52.7048 INFO Get User Success :mtp1
+2021-11-13 10:08:55.3149 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:08:55.3149 INFO Get License_Type List Success
+2021-11-13 10:08:56.6024 INFO Get License Fee List Success
+2021-11-13 10:08:56.6093 INFO Get State List Success
+2021-11-13 10:08:56.6093 INFO Get Product Type Master List Success
+2021-11-13 10:08:56.6093 INFO Get User Success :mtp1
+2021-11-13 10:09:06.0389 INFO Get Existing data Fail :lic_application
+2021-11-13 10:09:06.0389 INFO Get License_Type List Success
+2021-11-13 10:09:09.2233 INFO Get Existing data Fail :lic_application
+2021-11-13 10:09:09.2233 INFO Get License_Type List Success
+2021-11-13 10:09:11.4727 INFO Get Existing data Fail :lic_application
+2021-11-13 10:09:11.4727 INFO Get License_Type List Success
+2021-11-13 10:09:12.9717 INFO Get Existing data Fail :lic_application
+2021-11-13 10:09:12.9717 INFO Get License_Type List Success
+2021-11-13 10:09:14.5157 INFO Get Existing data Fail :lic_application
+2021-11-13 10:09:14.5157 INFO Get License_Type List Success
+2021-11-13 10:48:21.8112 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:48:43.6597 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:48:43.7131 INFO Get Product Type Master List Success
+2021-11-13 10:48:43.7226 INFO Get User Success :mtp1
+2021-11-13 10:49:33.5691 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:50:02.8387 INFO Get Product Type Master List Success
+2021-11-13 10:50:02.8427 INFO Get User Success :mtp1
+2021-11-13 10:50:14.1308 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:50:14.1308 INFO Get License_Type List Success
+2021-11-13 10:50:15.7100 INFO Get License Fee List Success
+2021-11-13 10:50:15.7160 INFO Get State List Success
+2021-11-13 10:50:15.7160 INFO Get Product Type Master List Success
+2021-11-13 10:50:15.7160 INFO Get User Success :mtp1
+2021-11-13 10:53:51.1943 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:55:10.2556 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:58:57.4053 INFO Get Product Type Master List Success
+2021-11-13 10:58:57.4053 INFO Get User Success :mtp1
+2021-11-13 10:58:59.9457 INFO Get User Success :353-M and TP Unit
+2021-11-13 10:59:01.4586 INFO Get Product Type Master List Success
+2021-11-13 10:59:01.4586 INFO Get User Success :mtp1
+2021-11-13 11:51:04.7317 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:51:10.2200 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:51:10.3224 INFO Get Product Type Master List Success
+2021-11-13 11:51:10.3324 INFO Get User Success :hodyco
+2021-11-13 11:51:14.6746 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:51:16.2443 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:51:16.2473 INFO Check WorkFlow List Success
+2021-11-13 11:51:16.2473 INFO Get Allotment List Success
+2021-11-13 11:51:16.3071 INFO Get Product Type Master List Success
+2021-11-13 11:51:16.3121 INFO Get User Success :hodyco
+2021-11-13 11:51:19.4169 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:51:19.4169 INFO Check WorkFlow List Success
+2021-11-13 11:51:19.4169 INFO Get Allotment List Success
+2021-11-13 11:51:19.4482 INFO Get Product Type Master List Success
+2021-11-13 11:51:19.4482 INFO Get User Success :hodyco
+2021-11-13 11:51:22.6382 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:51:25.6530 INFO Get Party Master List Success
+2021-11-13 11:51:25.6530 INFO Get Product Master List Success
+2021-11-13 11:51:25.6530 INFO Get Allotment Details Success
+2021-11-13 11:51:25.6696 INFO Get Party Master List Success
+2021-11-13 11:51:25.6696 INFO Check WorkFlow List Success
+2021-11-13 11:51:26.4536 INFO Get Product Type Master List Success
+2021-11-13 11:51:26.4536 INFO Get User Success :hodyco
+2021-11-13 11:52:16.0342 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 11:52:16.0342 INFO Check WorkFlow List Success
+2021-11-13 11:52:16.0425 INFO Get Allotment List Success
+2021-11-13 11:52:16.0425 INFO Get Product Type Master List Success
+2021-11-13 11:52:16.0425 INFO Get User Success :hodyco
+2021-11-13 11:52:48.6281 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:52:48.6830 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:52:48.6830 INFO Get Product Type Master List Success
+2021-11-13 11:52:48.6830 INFO Get User Success :mtp1
+2021-11-13 11:52:58.9612 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:52:58.9819 INFO Get Product Type Master List Success
+2021-11-13 11:52:58.9819 INFO Get User Success :mtp1
+2021-11-13 11:53:02.9122 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:53:02.9122 INFO Get License_Type List Success
+2021-11-13 11:53:02.9193 INFO Get License Fee List Success
+2021-11-13 11:53:02.9193 INFO Get State List Success
+2021-11-13 11:53:04.0226 INFO Get Division List Success
+2021-11-13 11:53:04.0575 INFO Get Product Type Master List Success
+2021-11-13 11:53:04.0575 INFO Get User Success :mtp1
+2021-11-13 11:53:10.6454 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:53:10.6454 INFO Get Product Type Master List Success
+2021-11-13 11:53:10.6534 INFO Get User Success :mtp1
+2021-11-13 11:53:13.3842 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:53:13.3842 INFO Get License_Type List Success
+2021-11-13 11:53:13.3872 INFO Get License Fee List Success
+2021-11-13 11:53:13.3872 INFO Get State List Success
+2021-11-13 11:53:14.9082 INFO Get Division List Success
+2021-11-13 11:53:14.9212 INFO Get Product Type Master List Success
+2021-11-13 11:53:14.9212 INFO Get User Success :mtp1
+2021-11-13 11:53:20.9741 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:53:22.5042 INFO Get Product Type Master List Success
+2021-11-13 11:53:22.5132 INFO Get User Success :mtp1
+2021-11-13 11:58:39.3427 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:58:59.1978 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:58:59.2434 INFO Get Product Type Master List Success
+2021-11-13 11:58:59.2516 INFO Get User Success :mtp1
+2021-11-13 11:59:03.6693 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:59:05.3856 INFO Get Product Type Master List Success
+2021-11-13 11:59:05.3905 INFO Get User Success :mtp1
+2021-11-13 11:59:09.7204 INFO Get User Success :353-M and TP Unit
+2021-11-13 11:59:46.7428 INFO Get Allotment List Success
+2021-11-13 12:00:47.2126 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21//1
+2021-11-13 12:01:06.6458 INFO Get Product Master List Success
+2021-11-13 12:01:06.6458 INFO Get UOM List Success
+2021-11-13 12:01:06.6458 INFO Get Product Type Master List Success
+2021-11-13 12:01:06.6547 INFO Get User Success :mtp1
+2021-11-13 12:01:14.8410 INFO Get User Success :353-M and TP Unit
+2021-11-13 12:01:15.6166 INFO Get Product Type Master List Success
+2021-11-13 12:01:15.6256 INFO Get User Success :mtp1
+2021-11-13 12:01:20.5966 INFO Get User Success :353-M and TP Unit
+2021-11-13 12:01:22.2462 INFO Get Allotment List Success
+2021-11-13 12:01:22.2735 INFO Get Product Type Master List Success
+2021-11-13 12:01:22.2775 INFO Get User Success :mtp1
+2021-11-13 12:39:39.6329 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:39:39.7462 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:39:39.8212 INFO Get Product Type Master List Success
+2021-11-13 12:39:39.8292 INFO Get User Success :hodyco
+2021-11-13 12:40:06.6535 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:40:08.3896 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:40:08.7524 INFO Check WorkFlow List Success
+2021-11-13 12:40:09.4695 INFO Get Allotment List Success
+2021-11-13 12:40:09.7647 INFO Get Product Type Master List Success
+2021-11-13 12:40:09.7837 INFO Get User Success :hodyco
+2021-11-13 12:40:13.6931 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:40:13.6931 INFO Check WorkFlow List Success
+2021-11-13 12:40:15.1452 INFO Get Allotment List Success
+2021-11-13 12:40:16.3223 INFO Get Product Type Master List Success
+2021-11-13 12:40:16.3303 INFO Get User Success :hodyco
+2021-11-13 12:40:19.5375 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:40:19.5375 INFO Check WorkFlow List Success
+2021-11-13 12:40:29.6713 INFO Get Allotment List Success
+2021-11-13 12:40:30.1697 INFO Get Product Type Master List Success
+2021-11-13 12:40:30.1697 INFO Get User Success :hodyco
+2021-11-13 12:40:32.0071 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:40:33.1147 INFO Check WorkFlow List Success
+2021-11-13 12:40:33.6179 INFO Get Allotment List Success
+2021-11-13 12:40:33.8441 INFO Get Product Type Master List Success
+2021-11-13 12:40:33.8441 INFO Get User Success :hodyco
+2021-11-13 12:40:42.9032 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:40:44.2859 INFO Get Party Master List Success
+2021-11-13 12:40:44.2859 INFO Get Product Master List Success
+2021-11-13 12:40:44.2953 INFO Get Allotment Details Success
+2021-11-13 12:40:44.2953 INFO Get Party Master List Success
+2021-11-13 12:40:44.3123 INFO Check WorkFlow List Success
+2021-11-13 12:40:45.8076 INFO Get Product Type Master List Success
+2021-11-13 12:40:45.8076 INFO Get User Success :hodyco
+2021-11-13 12:41:09.6192 INFO Allotement Approve Sucess:272
+2021-11-13 12:41:09.6426 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:41:10.4832 INFO Check WorkFlow List Success
+2021-11-13 12:41:11.9213 INFO Get Allotment List Success
+2021-11-13 12:41:12.6422 INFO Get Product Type Master List Success
+2021-11-13 12:41:12.6422 INFO Get User Success :hodyco
+2021-11-13 12:41:26.6005 INFO Get User Success :101-Commissioner
+2021-11-13 12:41:26.6454 INFO Get User Success :101-Commissioner
+2021-11-13 12:41:26.6683 INFO Get Product Type Master List Success
+2021-11-13 12:41:26.6683 INFO Get User Success :com
+2021-11-13 12:41:30.7737 INFO Get User Success :101-Commissioner
+2021-11-13 12:41:32.9697 INFO Get User Success :101-Commissioner
+2021-11-13 12:41:33.2732 INFO Check WorkFlow List Success
+2021-11-13 12:41:34.2554 INFO Get Allotment List Success
+2021-11-13 12:41:34.2554 INFO Get Product Type Master List Success
+2021-11-13 12:41:34.2614 INFO Get User Success :com
+2021-11-13 12:41:37.6470 INFO Get User Success :101-Commissioner
+2021-11-13 12:41:39.7026 INFO Get Party Master List Success
+2021-11-13 12:41:39.7026 INFO Get Product Master List Success
+2021-11-13 12:41:39.7026 INFO Get Allotment Details Success
+2021-11-13 12:41:39.7026 INFO Get Party Master List Success
+2021-11-13 12:41:39.7026 INFO Check WorkFlow List Success
+2021-11-13 12:41:40.9798 INFO Get Product Type Master List Success
+2021-11-13 12:41:40.9798 INFO Get User Success :com
+2021-11-13 12:42:09.0277 INFO Allotement Approve Sucess:272
+2021-11-13 12:42:09.0566 INFO Get User Success :101-Commissioner
+2021-11-13 12:42:09.9186 INFO Check WorkFlow List Success
+2021-11-13 12:42:10.7720 INFO Get Allotment List Success
+2021-11-13 12:42:10.7720 INFO Get Product Type Master List Success
+2021-11-13 12:42:10.7780 INFO Get User Success :com
+2021-11-13 12:42:19.8315 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:42:19.8784 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:42:19.9023 INFO Get Product Type Master List Success
+2021-11-13 12:42:19.9023 INFO Get User Success :hodyco
+2021-11-13 12:42:24.6039 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:42:26.3267 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:42:26.6241 INFO Check WorkFlow List Success
+2021-11-13 12:42:27.1266 INFO Get Allotment List Success
+2021-11-13 12:42:27.4235 INFO Get Product Type Master List Success
+2021-11-13 12:42:27.4235 INFO Get User Success :hodyco
+2021-11-13 12:42:30.5028 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:42:30.5028 INFO Check WorkFlow List Success
+2021-11-13 12:42:31.9788 INFO Get Allotment List Success
+2021-11-13 12:42:32.7036 INFO Get Product Type Master List Success
+2021-11-13 12:42:32.7036 INFO Get User Success :hodyco
+2021-11-13 12:42:38.1676 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:44:53.9708 INFO Allotement Issued Sucess:272
+2021-11-13 12:44:54.4796 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:44:58.9225 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:44:59.7362 INFO Check WorkFlow List Success
+2021-11-13 12:45:00.4808 INFO Get Allotment List Success
+2021-11-13 12:45:00.7387 INFO Get Product Type Master List Success
+2021-11-13 12:45:00.7387 INFO Get User Success :hodyco
+2021-11-13 12:45:11.6282 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:45:15.7947 INFO Check WorkFlow List Success
+2021-11-13 12:45:15.8206 INFO Get Allotment List Success
+2021-11-13 12:45:15.8419 INFO Get Product Type Master List Success
+2021-11-13 12:45:15.8419 INFO Get User Success :hodyco
+2021-11-13 12:45:19.4781 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 12:46:02.9373 INFO Get Party Master List Success
+2021-11-13 12:46:02.9373 INFO Get Product Master List Success
+2021-11-13 12:46:02.9373 INFO Get Allotment Details Success
+2021-11-13 12:46:02.9373 INFO Get Party Master List Success
+2021-11-13 12:46:02.9373 INFO Check WorkFlow List Success
+2021-11-13 12:46:07.1519 INFO Get Product Type Master List Success
+2021-11-13 12:46:07.1519 INFO Get User Success :hodyco
+2021-11-13 12:48:48.5143 INFO Get User Success :100-Deputy Commissioner
+2021-11-13 13:07:24.6525 INFO Get User Success :353-M and TP Unit
+2021-11-13 13:07:40.1848 INFO Get User Success :353-M and TP Unit
+2021-11-13 13:07:40.2387 INFO Get Product Type Master List Success
+2021-11-13 13:07:40.2484 INFO Get User Success :mtp1
+2021-11-13 13:07:47.4758 INFO Get User Success :353-M and TP Unit
+2021-11-13 13:07:49.0961 INFO Get Product Type Master List Success
+2021-11-13 13:07:49.0961 INFO Get User Success :mtp1
+2021-11-13 13:07:58.3502 INFO Get User Success :353-M and TP Unit
+2021-11-13 13:08:08.5898 INFO Get Allotment List Success
+2021-11-13 13:08:09.7362 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21//2021-2022/1
+2021-11-13 13:08:09.7362 INFO Get Product Master List Success
+2021-11-13 13:08:09.7362 INFO Get UOM List Success
+2021-11-13 13:08:09.7362 INFO Get Product Type Master List Success
+2021-11-13 13:08:09.7501 INFO Get User Success :mtp1
+2021-11-13 13:10:43.9669 INFO Get User Success :353-M and TP Unit
+2021-11-13 13:10:45.2085 INFO Get Product Type Master List Success
+2021-11-13 13:10:45.2085 INFO Get User Success :mtp1
+2021-11-13 13:10:49.6164 INFO Get User Success :353-M and TP Unit
+2021-11-13 13:10:49.6284 INFO Get Allotment List Success
+2021-11-13 13:10:50.3549 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2021-2022/1
+2021-11-13 13:10:50.3549 INFO Get Product Master List Success
+2021-11-13 13:10:50.3549 INFO Get UOM List Success
+2021-11-13 13:10:50.3549 INFO Get Product Type Master List Success
+2021-11-13 13:10:50.3718 INFO Get User Success :mtp1
+2021-11-13 15:13:08.2408 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:13:09.3352 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:13:09.3835 INFO Get Product Type Master List Success
+2021-11-13 15:13:09.3929 INFO Get User Success :mtp1
+2021-11-13 15:13:14.4164 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:13:16.2234 INFO Get Product Type Master List Success
+2021-11-13 15:13:16.2234 INFO Get User Success :mtp1
+2021-11-13 15:13:34.2542 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:13:34.2771 INFO Get Allotment List Success
+2021-11-13 15:13:34.5306 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2021-2022/16
+2021-11-13 15:13:34.5306 INFO Get Product Master List Success
+2021-11-13 15:13:34.5306 INFO Get UOM List Success
+2021-11-13 15:13:34.5306 INFO Get Product Type Master List Success
+2021-11-13 15:13:34.5306 INFO Get User Success :mtp1
+2021-11-13 15:13:46.5326 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:13:47.4372 INFO Get Product Type Master List Success
+2021-11-13 15:13:47.4372 INFO Get User Success :mtp1
+2021-11-13 15:13:53.5204 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:13:53.5304 INFO Get Allotment List Success
+2021-11-13 15:46:22.2654 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2021-2022/3
+2021-11-13 15:46:22.3043 INFO Get Product Master List Success
+2021-11-13 15:46:22.3043 INFO Get UOM List Success
+2021-11-13 15:46:22.3043 INFO Get Product Type Master List Success
+2021-11-13 15:46:22.3116 INFO Get User Success :mtp1
+2021-11-13 15:46:38.0594 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:46:38.8509 INFO Get Product Type Master List Success
+2021-11-13 15:46:38.8559 INFO Get User Success :mtp1
+2021-11-13 15:46:42.4453 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:46:42.4553 INFO Get Allotment List Success
+2021-11-13 15:46:42.7321 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2021-2022/3
+2021-11-13 15:46:42.7321 INFO Get Product Master List Success
+2021-11-13 15:46:42.7321 INFO Get UOM List Success
+2021-11-13 15:46:42.7321 INFO Get Product Type Master List Success
+2021-11-13 15:46:42.7321 INFO Get User Success :mtp1
+2021-11-13 15:47:03.6576 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:47:04.1492 INFO Get Product Type Master List Success
+2021-11-13 15:47:04.1541 INFO Get User Success :mtp1
+2021-11-13 15:47:06.6044 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:47:06.6044 INFO Check WorkFlow List Success
+2021-11-13 15:47:08.0389 INFO Get Product Type Master List Success
+2021-11-13 15:47:08.0548 INFO Get User Success :mtp1
+2021-11-13 15:47:10.9747 INFO Get User Success :353-M and TP Unit
+2021-11-13 15:47:10.9747 INFO Get License_Type List Success
+2021-11-13 15:47:12.6679 INFO Get License Fee List Success
+2021-11-13 15:47:12.6679 INFO Get State List Success
+2021-11-13 15:47:12.6679 INFO Check WorkFlow List Success
+2021-11-13 15:47:13.9404 INFO Get Division List Success
+2021-11-13 15:47:14.6362 INFO Get Product Type Master List Success
+2021-11-13 15:47:14.6362 INFO Get User Success :mtp1
+2021-11-13 15:57:45.2990 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:57:45.3962 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:57:45.4092 INFO Get Product Type Master List Success
+2021-11-13 15:57:45.4188 INFO Get User Success :bdbl_dis
+2021-11-13 15:57:48.2180 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:57:48.2180 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:57:50.0071 INFO Get Product Type Master List Success
+2021-11-13 15:57:50.0150 INFO Get User Success :bdbl_dis
+2021-11-13 15:57:55.5351 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:57:55.5351 INFO Get Dispach Master List Success
+2021-11-13 15:57:57.1771 INFO Get VAT Master List Success
+2021-11-13 15:57:57.1771 INFO Get Product Type Master List Success
+2021-11-13 15:57:57.1860 INFO Get User Success :bdbl_dis
+2021-11-13 15:59:14.3856 INFO Pass Insertion Sucess:895-BDB
+2021-11-13 15:59:14.4267 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:59:14.4490 INFO Get Pass List Success
+2021-11-13 15:59:14.4490 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:59:14.4755 INFO Get Product Type Master List Success
+2021-11-13 15:59:14.4812 INFO Get User Success :bdbl_dis
+2021-11-13 15:59:21.7542 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-13 15:59:21.7542 INFO Get Dispach Master List Success
+2021-11-13 15:59:23.4814 INFO Get VAT Master List Success
+2021-11-13 15:59:23.4814 INFO Get Pass List Success
+2021-11-13 15:59:23.4964 INFO Get Product Type Master List Success
+2021-11-13 15:59:23.4964 INFO Get User Success :bdbl_dis

@@ -1,0 +1,1401 @@
+2020-12-23 10:57:01.8293 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 10:57:11.4314 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 10:57:11.4966 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 10:57:13.8674 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 10:57:13.9032 INFO Get Pass List Success
+2020-12-23 10:57:13.9315 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 10:58:01.0744 INFO Get Report  Success
+2020-12-23 10:58:01.3780 INFO Get GetSeverList Success
+2020-12-23 11:03:18.9603 INFO Get Report  Success
+2020-12-23 11:03:19.1458 INFO Get GetSeverList Success
+2020-12-23 11:04:12.2860 INFO Get GetSeverList Success
+2020-12-23 11:10:25.7324 INFO Get User Success :44-Administrator
+2020-12-23 11:10:29.2543 INFO Get User Success :44-Administrator
+2020-12-23 11:10:30.8752 INFO Get Users List Success
+2020-12-23 11:10:30.8932 INFO Get User Success :44-Administrator
+2020-12-23 11:10:35.1380 INFO Get Users List Success
+2020-12-23 11:10:36.5432 INFO Get Users List Success
+2020-12-23 11:10:37.7813 INFO Get Users List Success
+2020-12-23 11:10:38.7696 INFO Get Users List Success
+2020-12-23 11:10:42.9155 INFO Org Get List Success
+2020-12-23 11:10:42.9242 INFO Get Party Master List Success
+2020-12-23 11:10:42.9242 INFO Get Role Level List Success
+2020-12-23 11:10:42.9242 INFO Get access_type List Success
+2020-12-23 11:10:42.9477 INFO Get view_Role_master List Success
+2020-12-23 11:10:42.9477 INFO Get State List Success
+2020-12-23 11:10:42.9477 INFO Get Dept List Success
+2020-12-23 11:10:42.9618 INFO Get Emp List Success
+2020-12-23 11:10:42.9745 INFO Get Users List Success
+2020-12-23 11:10:42.9745 INFO Get User Success :101-Commissioner
+2020-12-23 11:10:42.9745 INFO Get Division List Success
+2020-12-23 11:10:42.9888 INFO Get User Success :44-Administrator
+2020-12-23 11:11:53.6947 INFO Update User Fail :101-B Kartikey Dhanji-22P02: invalid input syntax for integer: ""
+2020-12-23 11:12:57.9242 INFO Update User Fail :101-B Kartikey Dhanji-22P02: invalid input syntax for integer: ""
+2020-12-23 11:19:00.3670 INFO Update User Success :101-B Kartikey Dhanji
+2020-12-23 11:19:00.4001 INFO Get Users List Success
+2020-12-23 11:19:00.4001 INFO Get User Success :44-Administrator
+2020-12-23 11:23:38.4553 INFO Get User Success :101-B Kartikey Dhanji
+2020-12-23 11:24:37.0504 INFO Get User Success :101-B Kartikey Dhanji
+2020-12-23 11:27:38.0293 INFO Sugarcanepurchase Get List Success
+2020-12-23 11:27:38.0293 INFO Get User Success :101-B Kartikey Dhanji
+2020-12-23 11:27:38.0520 INFO Get User Success :101-B Kartikey Dhanji
+2020-12-23 11:27:49.2099 INFO Get User Success :101-B Kartikey Dhanji
+2020-12-23 11:27:49.2099 INFO Get User Success :101-B Kartikey Dhanji
+2020-12-23 11:35:07.4995 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:35:11.3855 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:35:11.4559 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:35:13.3543 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:35:13.3742 INFO Get Pass List Success
+2020-12-23 11:35:13.3882 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:35:14.4647 INFO Get Report  Success
+2020-12-23 11:35:14.6074 INFO Get GetSeverList Success
+2020-12-23 11:36:00.8608 INFO Get GetSeverList Success
+2020-12-23 11:36:23.2216 INFO Get GetSeverList Success
+2020-12-23 11:36:33.9029 INFO Get GetSeverList Success
+2020-12-23 11:37:08.0246 INFO Get GetSeverList Success
+2020-12-23 11:43:03.5332 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:43:11.6642 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:43:11.7117 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:43:13.0216 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:43:13.0216 INFO Get Pass List Success
+2020-12-23 11:43:13.0445 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:43:46.1754 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:51:17.8475 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:51:18.2307 INFO Get Dispach Master List Success
+2020-12-23 11:51:22.9975 INFO Get VAT Master List Success
+2020-12-23 11:51:23.4165 INFO Get Pass List Success
+2020-12-23 11:51:24.6213 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:51:28.5306 INFO Get Pass List Success
+2020-12-23 11:51:28.5346 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:51:43.6150 INFO Get Report  Success
+2020-12-23 11:51:43.8130 INFO Get GetSeverList Success
+2020-12-23 11:52:38.2495 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:52:40.9282 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:52:40.9791 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:52:43.8912 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:52:43.9016 INFO Get Pass List Success
+2020-12-23 11:52:43.9141 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:53:13.2028 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:57:28.1757 INFO Get Pass List Success
+2020-12-23 11:57:28.1757 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:57:39.2640 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:58:08.0237 INFO Get Pass List Success
+2020-12-23 11:58:08.0237 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:58:08.5902 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:58:08.5902 INFO Get Dispach Master List Success
+2020-12-23 11:58:08.6145 INFO Get VAT Master List Success
+2020-12-23 11:58:08.6145 INFO Get Pass List Success
+2020-12-23 11:58:08.6317 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:58:27.0601 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:58:44.2547 INFO Get Pass List Success
+2020-12-23 11:58:44.2547 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:59:21.7849 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 11:59:21.7849 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:01:24.8533 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:01:24.8533 INFO Get Dispach Master List Success
+2020-12-23 12:01:24.8623 INFO Get VAT Master List Success
+2020-12-23 12:01:24.8623 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:01:31.8857 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:01:34.2641 INFO Get Pass List Success
+2020-12-23 12:01:34.2681 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:01:44.3229 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:01:44.3229 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:01.6350 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:01.6350 INFO Get Dispach Master List Success
+2020-12-23 12:02:01.6350 INFO Get VAT Master List Success
+2020-12-23 12:02:01.6440 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:40.8329 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:40.8329 INFO Get Dispach Master List Success
+2020-12-23 12:02:40.8329 INFO Get VAT Master List Success
+2020-12-23 12:02:40.8329 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:46.0036 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:46.0036 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:47.4507 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:02:47.4507 INFO Get Dispach Master List Success
+2020-12-23 12:02:47.4557 INFO Get VAT Master List Success
+2020-12-23 12:02:47.4557 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:03:05.9058 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:03:05.9058 INFO Get Dispach Master List Success
+2020-12-23 12:03:47.5220 INFO Get VAT Master List Success
+2020-12-23 12:04:19.7482 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:04:36.5011 INFO Pass Insertion Sucess:13-RDD
+2020-12-23 12:04:36.5282 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:04:54.8089 INFO Get Pass List Success
+2020-12-23 12:04:54.8089 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:05:03.6414 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:05:03.6434 INFO Get Dispach Master List Success
+2020-12-23 12:05:03.6434 INFO Get VAT Master List Success
+2020-12-23 12:05:03.6434 INFO Get Pass List Success
+2020-12-23 12:05:03.6434 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:27.9574 INFO Pass Insertion Sucess:0-RDD
+2020-12-23 12:16:27.9793 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:27.9793 INFO Get Pass List Success
+2020-12-23 12:16:27.9895 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:35.4963 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:35.5022 INFO Get Pass List Success
+2020-12-23 12:16:35.5022 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:36.6005 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:36.6005 INFO Get Pass List Success
+2020-12-23 12:16:36.6005 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:36.8139 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:36.8209 INFO Get Pass List Success
+2020-12-23 12:16:36.8209 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.0234 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.0234 INFO Get Pass List Success
+2020-12-23 12:16:37.0393 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.2138 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.2288 INFO Get Pass List Success
+2020-12-23 12:16:37.2288 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.4003 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.4003 INFO Get Pass List Success
+2020-12-23 12:16:37.4103 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.5819 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.5819 INFO Get Pass List Success
+2020-12-23 12:16:37.5819 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.7734 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.7734 INFO Get Pass List Success
+2020-12-23 12:16:37.7853 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.9738 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:37.9738 INFO Get Pass List Success
+2020-12-23 12:16:37.9738 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:44.7628 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:44.7628 INFO Get Dispach Master List Success
+2020-12-23 12:16:44.7800 INFO Get VAT Master List Success
+2020-12-23 12:16:44.7800 INFO Get Pass List Success
+2020-12-23 12:16:44.7870 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:47.2902 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:47.2902 INFO Get Pass List Success
+2020-12-23 12:16:47.3009 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:53.4633 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:16:53.4633 INFO Get Dispach Master List Success
+2020-12-23 12:21:36.1649 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:21:42.2892 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:21:42.3384 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:21:48.4856 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:21:48.4915 INFO Get RR List Success
+2020-12-23 12:21:48.4915 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:21:51.7878 INFO Get RR List Success
+2020-12-23 12:21:51.7878 INFO Get Balance Request Pass Success
+2020-12-23 12:22:13.6434 INFO Insert Request Pass Success
+2020-12-23 12:22:13.6735 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:13.6794 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:24.1744 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:24.1744 INFO Get RR List Success
+2020-12-23 12:22:24.1744 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:44.9516 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:44.9619 INFO Get Pass List Success
+2020-12-23 12:22:44.9757 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:46.5419 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:46.5419 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:47.7368 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:22:47.7368 INFO Get RR List Success
+2020-12-23 12:22:47.7368 INFO Get RR List Success
+2020-12-23 12:22:47.7368 INFO Get Balance Request Pass Success
+2020-12-23 12:22:47.7368 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:23:51.2815 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:23:53.7271 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:23:53.7754 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:04.0037 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:04.0037 INFO Get RR List Success
+2020-12-23 12:24:04.0211 INFO Get RR List Success
+2020-12-23 12:24:04.0211 INFO Get Balance Request Pass Success
+2020-12-23 12:24:04.0211 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:08.0605 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:08.0665 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:09.3677 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:09.3677 INFO Get RR List Success
+2020-12-23 12:24:09.3677 INFO Get RR List Success
+2020-12-23 12:24:09.3677 INFO Get Balance Request Pass Success
+2020-12-23 12:24:09.3797 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:10.9499 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:10.9559 INFO Get User Success :104-Riga Distillery Division
+2020-12-23 12:24:36.2194 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:39.0399 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:39.0399 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:43.0168 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:43.0723 INFO Get RR List Success
+2020-12-23 12:24:43.0863 INFO Get NOC Details Success
+2020-12-23 12:24:43.0863 INFO Get NOC Details Success
+2020-12-23 12:24:43.0863 INFO Get Balance Request Pass Success
+2020-12-23 12:24:43.0975 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:46.7920 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:46.8020 INFO Get Pass List Success
+2020-12-23 12:24:46.8275 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:52.4156 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:24:52.4156 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:25:18.7412 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:25:18.7543 INFO Get Dispach Master List Success
+2020-12-23 12:31:33.7128 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:31:36.4903 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:31:36.5396 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:31:38.8225 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:31:38.8225 INFO Get Dispach Master List Success
+2020-12-23 12:35:07.7013 INFO Get VAT Master List Success
+2020-12-23 12:35:07.7083 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:35:47.2655 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:35:47.2685 INFO Get Dispach Master List Success
+2020-12-23 12:36:27.7852 INFO Get VAT Master List Success
+2020-12-23 12:36:27.7852 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 12:37:30.9271 INFO Pass Insertion Fail:14-RDD - Object reference not set to an instance of an object.
+2020-12-23 14:23:10.6759 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:23:21.9785 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:23:21.9785 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:23:22.0168 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:00.9186 INFO Get Party Master List Success
+2020-12-23 14:24:00.9275 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:00.9527 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:00.9645 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:03.1501 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:03.1501 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:03.1501 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:08.5602 INFO Get Party Master List Success
+2020-12-23 14:24:08.5711 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:08.5711 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:08.5804 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:20.6570 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:20.6600 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:20.6600 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:33.4368 INFO Get Party Master List Success
+2020-12-23 14:24:33.4408 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:33.4408 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:33.4408 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:50.7545 INFO Sugarcanepurchase Insertion Sucess:13-HSS
+2020-12-23 14:24:50.7998 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:50.7998 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:50.7998 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:54.3008 INFO Get Party Master List Success
+2020-12-23 14:24:54.3008 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:24:54.3008 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:24:54.3008 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:13.2984 INFO Sugarcanepurchase Insertion Sucess:13-HSS
+2020-12-23 14:25:13.3354 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:25:13.3354 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:13.3354 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:16.2403 INFO Get Party Master List Success
+2020-12-23 14:25:16.2403 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:16.2403 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:25:16.2526 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:23.9473 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:23.9560 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:29.5213 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:29.5213 INFO Get Party Master List Success
+2020-12-23 14:25:29.5480 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:36.2859 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:36.3078 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:37.5709 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:37.6088 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:42.2884 INFO MIR GetList Sucess
+2020-12-23 14:25:44.6266 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:44.6385 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:50.1879 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:25:50.1999 INFO Get VAT Master List Success
+2020-12-23 14:25:50.2102 INFO Get Pass List Success
+2020-12-23 14:25:50.2102 INFO MIR GetDetails Sucess
+2020-12-23 14:25:52.5443 INFO Get Pass List Success
+2020-12-23 14:25:52.5523 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:10.0271 INFO MIR GetList Sucess
+2020-12-23 14:26:10.0271 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:10.0271 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:13.5937 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:13.6027 INFO Get VAT Master List Success
+2020-12-23 14:26:13.6027 INFO Get Pass List Success
+2020-12-23 14:26:13.6116 INFO MIR GetDetails Sucess
+2020-12-23 14:26:13.6116 INFO Get Pass List Success
+2020-12-23 14:26:13.6116 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:25.2162 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:25.2374 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:34.4830 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:34.4898 INFO Get Pass List Success
+2020-12-23 14:26:34.5027 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:43.5076 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:26:43.5076 INFO Get Dispach Master List Success
+2020-12-23 14:26:43.5214 INFO Get VAT Master List Success
+2020-12-23 14:26:43.5214 INFO Get Pass List Success
+2020-12-23 14:26:43.5214 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:14.2908 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:14.2908 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:26.8363 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:27:26.8363 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:26.8363 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:28.2417 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:28.2417 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:32.5910 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:32.5910 INFO Get Party Master List Success
+2020-12-23 14:27:32.6023 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:27:40.2528 INFO Get Existing data Success :dailymolassesproduction
+2020-12-23 14:28:20.1596 INFO Get Existing data Fail :dailymolassesproduction
+2020-12-23 14:28:53.7991 INFO Get Existing data Success :dailymolassesproduction
+2020-12-23 14:32:35.6610 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:32:42.7165 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:32:42.7165 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:32:42.7542 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:32:55.8565 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:32:55.8687 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:32:58.6182 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:32:58.6511 INFO Get Party Master List Success
+2020-12-23 14:33:01.0457 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:07.5960 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:07.5996 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:08.3584 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:08.3584 INFO Get Party Master List Success
+2020-12-23 14:33:09.8264 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:23.6566 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:23.6598 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:26.2603 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:33:26.2603 INFO Get Party Master List Success
+2020-12-23 14:33:29.6449 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:15.7297 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:15.7297 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:17.1105 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:17.1145 INFO Get Party Master List Success
+2020-12-23 14:35:23.1661 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:58.6634 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:58.6634 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:59.6003 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:35:59.6003 INFO Get Party Master List Success
+2020-12-23 14:36:08.2026 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:37:38.5955 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:37:38.5987 INFO Get Party Master List Success
+2020-12-23 14:37:40.0785 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:38:00.6548 INFO MIR GetList Sucess
+2020-12-23 14:38:00.6548 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:38:00.6782 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:38:03.3231 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:38:03.3361 INFO Get VAT Master List Success
+2020-12-23 14:38:03.3711 INFO Get Pass List Success
+2020-12-23 14:38:03.3711 INFO MIR GetDetails Sucess
+2020-12-23 14:38:03.3861 INFO Get Pass List Success
+2020-12-23 14:38:03.3950 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:14.3905 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:14.4247 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:16.4249 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:16.4249 INFO Get RR List Success
+2020-12-23 14:39:16.4425 INFO Get RR List Success
+2020-12-23 14:39:16.4425 INFO Get Balance Request Pass Success
+2020-12-23 14:39:16.4425 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:18.6784 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:18.6784 INFO Get Pass List Success
+2020-12-23 14:39:18.6964 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:20.2945 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:20.3152 INFO Get Dispach Master List Success
+2020-12-23 14:39:20.3402 INFO Get VAT Master List Success
+2020-12-23 14:39:20.3402 INFO Get Pass List Success
+2020-12-23 14:39:20.3572 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:34.4288 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:34.4288 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:42.2730 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:42.2730 INFO Get RR List Success
+2020-12-23 14:39:42.2730 INFO Get RR List Success
+2020-12-23 14:39:42.2848 INFO Get Balance Request Pass Success
+2020-12-23 14:39:42.2848 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:46.7691 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:39:46.7691 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:46.7691 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:49.2582 INFO MIR GetList Sucess
+2020-12-23 14:39:49.2582 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:49.2582 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:51.3917 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:39:51.4007 INFO Get VAT Master List Success
+2020-12-23 14:39:51.4007 INFO Get Pass List Success
+2020-12-23 14:39:51.4100 INFO MIR GetDetails Sucess
+2020-12-23 14:39:51.4100 INFO Get Pass List Success
+2020-12-23 14:39:51.4100 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:13.1853 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:13.1933 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:23.2909 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:40:23.2909 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:23.2909 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:27.2953 INFO MIR GetList Sucess
+2020-12-23 14:40:27.2953 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:27.3014 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:36.6365 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:36.6585 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:39.0028 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:39.0385 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:41.7170 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:41.7312 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:42.4681 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:42.4711 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:43.6201 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:40:43.6201 INFO Get Party Master List Success
+2020-12-23 14:40:56.2156 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:41:05.0718 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:41:05.0718 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:41:05.6582 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:41:05.6622 INFO Get Party Master List Success
+2020-12-23 14:41:06.5766 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:44:32.8072 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:44:46.5573 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:44:46.5573 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:44:46.5934 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:44:49.5093 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:44:49.5215 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:45:28.8498 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:45:28.8983 INFO Get Party Master List Success
+2020-12-23 14:45:30.5905 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:52:50.0560 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:53:01.6964 INFO Sugarcanepurchase Get List Success
+2020-12-23 14:53:01.6964 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:53:01.7373 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:53:03.9398 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:53:03.9398 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:53:11.2648 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:53:11.2700 INFO Get Party Master List Success
+2020-12-23 14:53:11.2917 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:12.2242 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:12.2242 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:13.4300 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:13.4300 INFO Get Party Master List Success
+2020-12-23 14:59:13.4629 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:18.4378 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:18.4408 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:19.2664 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:19.2694 INFO Get Party Master List Success
+2020-12-23 14:59:19.2694 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:25.0984 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:25.0984 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:26.6414 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:26.6444 INFO Get Party Master List Success
+2020-12-23 14:59:26.6444 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:50.7700 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 14:59:50.7700 INFO Get Party Master List Success
+2020-12-23 15:00:36.0846 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:00:40.7750 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:00:40.7750 INFO Get Party Master List Success
+2020-12-23 15:02:51.6483 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:02:55.1144 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:02:55.1144 INFO Get Party Master List Success
+2020-12-23 15:03:10.6546 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:03:57.8935 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:03:57.8935 INFO Get Party Master List Success
+2020-12-23 15:04:28.1475 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:34.5655 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:34.5655 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:35.8683 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:35.8683 INFO Get Party Master List Success
+2020-12-23 15:04:38.5401 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:43.6941 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:43.6941 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:51.8618 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:51.8618 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:54.1476 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:54.1476 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:56.7709 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:04:56.7709 INFO Get Party Master List Success
+2020-12-23 15:06:13.6182 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:06:45.7643 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:06:45.7643 INFO Get Party Master List Success
+2020-12-23 15:06:54.8442 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:07:11.0270 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:07:11.0270 INFO Get Party Master List Success
+2020-12-23 15:07:58.5001 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:08:10.8375 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:08:10.8375 INFO Get Party Master List Success
+2020-12-23 15:08:34.7228 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:08:43.7236 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:08:43.7236 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:08:44.9305 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:08:44.9305 INFO Get Party Master List Success
+2020-12-23 15:09:20.7814 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:24.2527 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:24.2527 INFO Get Party Master List Success
+2020-12-23 15:09:24.2527 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:25.8579 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:25.8617 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:26.8706 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:26.8706 INFO Get Party Master List Success
+2020-12-23 15:09:42.4231 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:44.5736 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:44.5736 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:45.3939 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:09:45.3939 INFO Get Party Master List Success
+2020-12-23 15:09:47.6924 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:10:24.6745 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:10:24.6745 INFO Get Party Master List Success
+2020-12-23 15:11:01.1315 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:11:57.2453 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:11:57.2453 INFO Get Party Master List Success
+2020-12-23 15:12:32.7817 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:12:47.5530 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:12:47.5530 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:12:49.0487 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:12:49.0567 INFO Get Party Master List Success
+2020-12-23 15:12:49.0567 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:31.4140 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:35.6911 INFO Sugarcanepurchase Get List Success
+2020-12-23 15:14:35.6911 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:35.7304 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:36.8253 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:36.8357 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:39.3920 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:39.3983 INFO Get Party Master List Success
+2020-12-23 15:14:40.9627 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:48.5884 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:48.5884 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:49.8645 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:49.8645 INFO Get Party Master List Success
+2020-12-23 15:14:50.7055 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:56.4738 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:14:56.4738 INFO Get Party Master List Success
+2020-12-23 15:16:14.7645 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:16:18.3964 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:16:18.3964 INFO Get Party Master List Success
+2020-12-23 15:16:19.2552 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:16:21.9093 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:16:21.9093 INFO Get Party Master List Success
+2020-12-23 15:17:09.5532 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:15.2081 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:15.2081 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:16.1276 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:16.1276 INFO Get Party Master List Success
+2020-12-23 15:17:16.1276 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:43.7718 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:43.7718 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:45.1248 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:45.1278 INFO Get Party Master List Success
+2020-12-23 15:17:45.1278 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:46.7491 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:46.7527 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:47.7365 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:47.7404 INFO Get Party Master List Success
+2020-12-23 15:17:47.7404 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:50.1939 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:50.1939 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:51.0640 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:51.0721 INFO Get Party Master List Success
+2020-12-23 15:17:52.9341 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:55.1984 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:55.1984 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:57.1998 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:17:57.2058 INFO Get Party Master List Success
+2020-12-23 15:17:59.0212 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:18:09.0170 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:18:09.0207 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:18:10.2321 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:18:10.2321 INFO Get Party Master List Success
+2020-12-23 15:18:10.2410 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:23.9561 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:23.9561 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:25.3305 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:25.3305 INFO Get Party Master List Success
+2020-12-23 15:26:25.3305 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:45.4086 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:45.4086 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:48.5595 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:48.5595 INFO Get Party Master List Success
+2020-12-23 15:26:48.5731 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:50.9123 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:50.9123 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:52.4826 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:26:52.4826 INFO Get Party Master List Success
+2020-12-23 15:26:52.4956 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:28:20.9771 INFO Sugarcanepurchase Insertion Sucess:18-HSS
+2020-12-23 15:28:21.0056 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:28:21.0056 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:28:25.0930 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:28:25.0930 INFO Get Party Master List Success
+2020-12-23 15:28:25.1068 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:32:54.7848 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:00.9495 INFO Sugarcanepurchase Get List Success
+2020-12-23 15:33:00.9495 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:00.9911 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:02.2397 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:02.2397 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:03.8557 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:03.8557 INFO Get Party Master List Success
+2020-12-23 15:33:03.8941 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:13.2604 INFO Sugarcanepurchase Insertion Sucess:18-HSS
+2020-12-23 15:33:13.2833 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:13.2873 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:15.7239 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:33:15.7239 INFO Get Party Master List Success
+2020-12-23 15:33:15.7385 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:34.6771 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:34.6771 INFO Get Party Master List Success
+2020-12-23 15:34:34.6901 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:39.2760 INFO Sugarcanepurchase Insertion Sucess:18-HSS
+2020-12-23 15:34:39.3022 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:39.3022 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:40.8826 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:40.8826 INFO Get Party Master List Success
+2020-12-23 15:34:43.2997 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:46.6060 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:46.6060 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:47.6624 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:47.6624 INFO Get Party Master List Success
+2020-12-23 15:34:47.6904 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:49.7992 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:49.7992 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:52.1928 INFO MIR GetList Sucess
+2020-12-23 15:34:52.1928 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:52.2217 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:52.8391 INFO Sugarcanepurchase Get List Success
+2020-12-23 15:34:52.8391 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:52.8391 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:56.9845 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:34:57.0190 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:37:20.2170 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:37:20.2220 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:37:21.3970 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:37:21.3970 INFO Get Pass List Success
+2020-12-23 15:37:21.4213 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:37:31.9941 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:37:31.9941 INFO Get Dispach Master List Success
+2020-12-23 15:37:32.0093 INFO Get VAT Master List Success
+2020-12-23 15:37:32.0179 INFO Get Pass List Success
+2020-12-23 15:37:32.0179 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:38:58.3894 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:38:58.3951 INFO Get Pass List Success
+2020-12-23 15:38:58.3951 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:38:59.3498 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:38:59.3498 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:39:58.3724 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:39:58.3776 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:41:19.6710 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 15:41:22.1066 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 15:41:22.1119 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 15:41:44.2150 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:41:46.6902 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:41:46.6902 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:41:48.2479 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:41:48.2539 INFO Get RR List Success
+2020-12-23 15:41:48.2539 INFO Get RR List Success
+2020-12-23 15:41:48.2728 INFO Get Balance Request Pass Success
+2020-12-23 15:41:48.2728 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:23.6105 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:23.6137 INFO Get RR List Success
+2020-12-23 15:42:23.6137 INFO Get RR List Success
+2020-12-23 15:42:23.6137 INFO Get Balance Request Pass Success
+2020-12-23 15:42:23.6137 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:24.9783 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:24.9783 INFO Get RR List Success
+2020-12-23 15:42:24.9783 INFO Get RR List Success
+2020-12-23 15:42:24.9876 INFO Get Balance Request Pass Success
+2020-12-23 15:42:24.9876 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.2030 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.2070 INFO Get RR List Success
+2020-12-23 15:42:25.2070 INFO Get RR List Success
+2020-12-23 15:42:25.2070 INFO Get Balance Request Pass Success
+2020-12-23 15:42:25.2070 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.4014 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.4014 INFO Get RR List Success
+2020-12-23 15:42:25.4094 INFO Get RR List Success
+2020-12-23 15:42:25.4094 INFO Get Balance Request Pass Success
+2020-12-23 15:42:25.4094 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.5959 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.5999 INFO Get RR List Success
+2020-12-23 15:42:25.5999 INFO Get RR List Success
+2020-12-23 15:42:25.5999 INFO Get Balance Request Pass Success
+2020-12-23 15:42:25.5999 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.7695 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.7695 INFO Get RR List Success
+2020-12-23 15:42:25.7695 INFO Get RR List Success
+2020-12-23 15:42:25.7695 INFO Get Balance Request Pass Success
+2020-12-23 15:42:25.7695 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.9570 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:25.9570 INFO Get RR List Success
+2020-12-23 15:42:25.9570 INFO Get RR List Success
+2020-12-23 15:42:25.9570 INFO Get Balance Request Pass Success
+2020-12-23 15:42:25.9570 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.1472 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.1472 INFO Get RR List Success
+2020-12-23 15:42:26.1472 INFO Get RR List Success
+2020-12-23 15:42:26.1472 INFO Get Balance Request Pass Success
+2020-12-23 15:42:26.1592 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.3278 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.3317 INFO Get RR List Success
+2020-12-23 15:42:26.3317 INFO Get RR List Success
+2020-12-23 15:42:26.3317 INFO Get Balance Request Pass Success
+2020-12-23 15:42:26.3317 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.5133 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.5183 INFO Get RR List Success
+2020-12-23 15:42:26.5183 INFO Get RR List Success
+2020-12-23 15:42:26.5183 INFO Get Balance Request Pass Success
+2020-12-23 15:42:26.5183 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.6888 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:42:26.6928 INFO Get RR List Success
+2020-12-23 15:42:26.6928 INFO Get RR List Success
+2020-12-23 15:42:26.6928 INFO Get Balance Request Pass Success
+2020-12-23 15:42:26.6928 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:43:36.1436 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:43:36.1436 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:43:37.5839 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:43:37.5839 INFO Get RR List Success
+2020-12-23 15:43:37.5839 INFO Get RR List Success
+2020-12-23 15:43:37.5839 INFO Get Balance Request Pass Success
+2020-12-23 15:43:37.5969 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:44:38.4938 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:44:38.4938 INFO Get RR List Success
+2020-12-23 15:44:38.4938 INFO Get RR List Success
+2020-12-23 15:44:38.5040 INFO Get Balance Request Pass Success
+2020-12-23 15:44:38.5040 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:45:19.3157 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:45:19.3157 INFO Get RR List Success
+2020-12-23 15:45:54.5064 INFO Get RR List Success
+2020-12-23 15:45:54.5064 INFO Get Balance Request Pass Success
+2020-12-23 15:46:07.1700 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:46:40.9093 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:47:02.3085 INFO Get RR List Success
+2020-12-23 15:47:10.0987 INFO Get RR List Success
+2020-12-23 15:47:10.0987 INFO Get Balance Request Pass Success
+2020-12-23 15:47:29.7981 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:46.4431 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:46.4431 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:48.7750 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:50.4014 INFO Get RR List Success
+2020-12-23 15:48:51.2084 INFO Get RR List Success
+2020-12-23 15:48:51.2084 INFO Get Balance Request Pass Success
+2020-12-23 15:48:51.2084 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:54.6477 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:54.6477 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:55.6982 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:48:56.7571 INFO Get RR List Success
+2020-12-23 15:48:58.1142 INFO Get RR List Success
+2020-12-23 15:48:58.1142 INFO Get Balance Request Pass Success
+2020-12-23 15:48:58.1142 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:06.7374 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:06.7374 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:08.4490 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:09.3739 INFO Get RR List Success
+2020-12-23 15:49:09.3739 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:12.5924 INFO Get RR List Success
+2020-12-23 15:49:12.5924 INFO Get Balance Request Pass Success
+2020-12-23 15:49:28.6682 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:28.6682 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:29.9002 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:49:38.0158 INFO Get RR List Success
+2020-12-23 15:49:43.6726 INFO Get RR List Success
+2020-12-23 15:49:48.0847 INFO Get Balance Request Pass Success
+2020-12-23 15:51:54.3183 INFO Get Balance Request Pass Success
+2020-12-23 15:51:54.3458 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:52:15.0804 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:52:15.0804 INFO Get RR List Success
+2020-12-23 15:54:13.9462 INFO Get RR List Success
+2020-12-23 15:56:12.6823 INFO Get Balance Request Pass Success
+2020-12-23 15:56:12.6823 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:18.5531 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:18.5531 INFO Get RR List Success
+2020-12-23 15:56:18.5531 INFO Get RR List Success
+2020-12-23 15:56:20.1378 INFO Get Balance Request Pass Success
+2020-12-23 15:56:20.1378 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:30.7265 INFO Update Request Pass Success
+2020-12-23 15:56:30.7517 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:30.7686 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:33.5593 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:33.5593 INFO Get RR List Success
+2020-12-23 15:56:33.5683 INFO Get RR List Success
+2020-12-23 15:56:33.5683 INFO Get Balance Request Pass Success
+2020-12-23 15:56:33.5683 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:38.1966 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:38.2076 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:41.4794 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:41.4998 INFO Get Indent List Success
+2020-12-23 15:56:41.5110 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:43.1613 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:43.1613 INFO Get Indent List Success
+2020-12-23 15:56:43.2511 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:43.2543 INFO Get Party Master List Success
+2020-12-23 15:56:43.2543 INFO Get Product Master List Success
+2020-12-23 15:56:43.2543 INFO Get Indent Details Success
+2020-12-23 15:56:43.2813 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:50.4019 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:50.4019 INFO Get Indent List Success
+2020-12-23 15:56:50.4019 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:51.1773 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:51.1773 INFO Get Indent List Success
+2020-12-23 15:56:51.2142 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:56:51.2142 INFO Get Party Master List Success
+2020-12-23 15:56:51.2142 INFO Get Product Master List Success
+2020-12-23 15:56:51.2282 INFO Get Indent Details Success
+2020-12-23 15:56:51.2282 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:15.9387 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:15.9417 INFO Get Indent List Success
+2020-12-23 15:58:15.9417 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:16.7271 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:16.7271 INFO Get Indent List Success
+2020-12-23 15:58:16.7600 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:16.7600 INFO Get Party Master List Success
+2020-12-23 15:58:16.7600 INFO Get Product Master List Success
+2020-12-23 15:58:16.7681 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:38.7455 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:38.7455 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:40.2737 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:40.2737 INFO Get RR List Success
+2020-12-23 15:58:40.2737 INFO Get RR List Success
+2020-12-23 15:58:40.2737 INFO Get Balance Request Pass Success
+2020-12-23 15:58:40.2857 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:58:51.4950 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:58:53.9928 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:58:53.9928 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:58:59.2122 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:58:59.2122 INFO Get Pass List Success
+2020-12-23 15:58:59.2226 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:58:59.9061 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:58:59.9115 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:59:01.2831 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:59:01.2881 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:59:17.7176 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:59:20.2360 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:59:20.2416 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 15:59:31.5383 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:35.0213 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:35.0213 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:38.3791 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:38.3791 INFO Get RR List Success
+2020-12-23 15:59:38.3791 INFO Get RR List Success
+2020-12-23 15:59:38.3947 INFO Get Balance Request Pass Success
+2020-12-23 15:59:38.3947 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:54.8834 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:54.8945 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:56.9400 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 15:59:56.9400 INFO Get RR List Success
+2020-12-23 15:59:56.9400 INFO Get RR List Success
+2020-12-23 15:59:56.9400 INFO Get Balance Request Pass Success
+2020-12-23 15:59:56.9400 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:00:02.3763 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:00:02.3813 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:01:32.8563 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:01:35.9136 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:01:35.9136 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:01:52.7828 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:01:54.9224 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:01:54.9274 INFO Get RR List Success
+2020-12-23 16:01:54.9274 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:01:56.2526 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:01:56.2526 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:02:50.5753 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:02:52.6928 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:02:52.6928 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:03:12.7558 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:03:36.8723 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:03:54.9946 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:03:57.2833 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:03:59.1781 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:01.4348 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:01.4348 INFO Get RR List Success
+2020-12-23 16:04:01.4428 INFO Get RR List Success
+2020-12-23 16:04:01.4428 INFO Get Balance Request Pass Success
+2020-12-23 16:04:01.4428 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:06.0125 INFO Approve Request Pass Success
+2020-12-23 16:04:06.0340 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:06.0340 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:07.3449 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:07.3479 INFO Get RR List Success
+2020-12-23 16:04:07.3479 INFO Get RR List Success
+2020-12-23 16:04:07.3479 INFO Get Balance Request Pass Success
+2020-12-23 16:04:07.3479 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:16.6755 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:16.6755 INFO Get Pass List Success
+2020-12-23 16:04:16.6755 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:04:25.6971 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:28.6734 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:28.6794 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:31.0646 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:31.0716 INFO Get Dispach Master List Success
+2020-12-23 16:04:31.0716 INFO Get VAT Master List Success
+2020-12-23 16:04:31.0825 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:48.2123 INFO Pass Insertion Sucess:14-HPS
+2020-12-23 16:04:48.2392 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:48.2392 INFO Get Pass List Success
+2020-12-23 16:04:48.2392 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:49.5668 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:04:49.5668 INFO Get Dispach Master List Success
+2020-12-23 16:08:43.2783 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:08:43.2842 INFO Get Pass List Success
+2020-12-23 16:08:43.2842 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:08:45.6290 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:08:45.6290 INFO Get Pass List Success
+2020-12-23 16:08:45.6290 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:08:47.9147 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:08:49.7433 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:08:53.2670 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:09:20.9002 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:11:50.0375 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:13:02.8552 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:13:44.5530 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:13:44.5530 INFO Get Dispach Master List Success
+2020-12-23 16:13:44.5685 INFO Get VAT Master List Success
+2020-12-23 16:13:44.5685 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:19.9785 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:19.9785 INFO Get Pass List Success
+2020-12-23 16:14:19.9892 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:24.8153 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:24.8153 INFO Get Dispach Master List Success
+2020-12-23 16:14:44.2507 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:44.2577 INFO Get Pass List Success
+2020-12-23 16:14:44.2577 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:47.7313 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:47.7392 INFO Get Pass List Success
+2020-12-23 16:14:47.7392 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:48.8447 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:48.8497 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:50.1780 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:14:50.1780 INFO Get Dispach Master List Success
+2020-12-23 16:14:50.1780 INFO Get VAT Master List Success
+2020-12-23 16:15:53.5343 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:20:13.7740 INFO Pass Insertion Sucess:14-HPS
+2020-12-23 16:20:18.5293 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:20:18.5393 INFO Get Pass List Success
+2020-12-23 16:20:18.5393 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:20:24.8199 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:20:24.8199 INFO Get Pass List Success
+2020-12-23 16:20:24.8199 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:20:39.6088 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:21:58.4800 INFO Get Pass List Success
+2020-12-23 16:21:58.4880 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:22:31.3875 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:22:33.3823 INFO Get Pass List Success
+2020-12-23 16:22:33.3957 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:22:36.7898 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:22:36.7898 INFO Get Dispach Master List Success
+2020-12-23 16:28:42.6947 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:28:42.6947 INFO Get Dispach Master List Success
+2020-12-23 16:28:54.3766 INFO Get Pass List Success
+2020-12-23 16:28:54.3816 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:28:56.8692 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:29:14.4852 INFO Get Pass List Success
+2020-12-23 16:29:14.5131 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:29:49.2822 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:29:49.2881 INFO Get Pass List Success
+2020-12-23 16:29:49.3002 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:31:28.5688 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:31:28.5688 INFO Get Dispach Master List Success
+2020-12-23 16:34:50.1425 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:36:04.1355 INFO Get Pass List Success
+2020-12-23 16:36:04.1355 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:37:17.6347 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:37:25.8920 INFO Get Pass List Success
+2020-12-23 16:37:25.8960 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:37:41.2035 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:37:42.7912 INFO Get Pass List Success
+2020-12-23 16:37:42.7912 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:38:04.5683 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:38:04.5683 INFO Get Dispach Master List Success
+2020-12-23 16:38:15.3717 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:38:17.5726 INFO Get Pass List Success
+2020-12-23 16:38:17.5726 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:39:06.2469 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:39:06.2469 INFO Get Dispach Master List Success
+2020-12-23 16:39:12.1069 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:39:53.0843 INFO Get Pass List Success
+2020-12-23 16:39:53.0843 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:40:21.9953 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:40:21.9953 INFO Get Dispach Master List Success
+2020-12-23 16:40:33.4191 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:40:37.2090 INFO Get Pass List Success
+2020-12-23 16:40:37.2090 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:42:02.0978 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:42:02.0978 INFO Get Dispach Master List Success
+2020-12-23 16:42:06.7643 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:42:06.7702 INFO Get Pass List Success
+2020-12-23 16:43:02.0997 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:43:49.9651 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:43:49.9651 INFO Get Pass List Success
+2020-12-23 16:44:52.4757 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:45:54.2104 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:45:54.2104 INFO Get Dispach Master List Success
+2020-12-23 16:46:05.5232 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:46:09.6065 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:46:09.6124 INFO Get Pass List Success
+2020-12-23 16:46:10.4087 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:46:13.7800 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:46:13.7856 INFO Get Pass List Success
+2020-12-23 16:46:34.5629 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:46:39.6672 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:46:39.6672 INFO Get Pass List Success
+2020-12-23 16:46:41.1072 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:47:08.1316 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:47:08.1316 INFO Get Pass List Success
+2020-12-23 16:47:20.6932 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:47:47.0541 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:47:47.0541 INFO Get Dispach Master List Success
+2020-12-23 16:47:47.0701 INFO Get VAT Master List Success
+2020-12-23 16:47:47.0701 INFO Get Pass List Success
+2020-12-23 16:47:47.0701 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:18.9893 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:18.9893 INFO Get Dispach Master List Success
+2020-12-23 16:49:18.9893 INFO Get VAT Master List Success
+2020-12-23 16:49:18.9893 INFO Get Pass List Success
+2020-12-23 16:49:19.0038 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:22.1310 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:22.1310 INFO Get Pass List Success
+2020-12-23 16:49:24.5387 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:42.7544 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:42.7544 INFO Get Dispach Master List Success
+2020-12-23 16:49:42.7544 INFO Get VAT Master List Success
+2020-12-23 16:49:42.7544 INFO Get Pass List Success
+2020-12-23 16:49:42.7704 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:49.8395 INFO Pass Insertion Sucess:0-HPS
+2020-12-23 16:49:49.8655 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:49.8655 INFO Get Pass List Success
+2020-12-23 16:49:52.4589 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:54.8155 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:49:54.8155 INFO Get Dispach Master List Success
+2020-12-23 16:49:54.8155 INFO Get VAT Master List Success
+2020-12-23 16:49:54.8155 INFO Get Pass List Success
+2020-12-23 16:49:54.8155 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:09.2252 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:15.1643 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:15.1643 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:18.3955 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:18.3955 INFO Get Pass List Success
+2020-12-23 16:54:18.3955 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:19.6369 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:19.6369 INFO Get Dispach Master List Success
+2020-12-23 16:54:19.6429 INFO Get VAT Master List Success
+2020-12-23 16:54:19.6429 INFO Get Pass List Success
+2020-12-23 16:54:19.6429 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:54:30.5009 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:54:32.6942 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:54:32.6942 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:54:36.0735 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:54:36.0735 INFO Get Pass List Success
+2020-12-23 16:54:38.3396 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:54:41.1903 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:54:41.1903 INFO Get Dispach Master List Success
+2020-12-23 16:54:41.1903 INFO Get VAT Master List Success
+2020-12-23 16:54:41.1903 INFO Get Pass List Success
+2020-12-23 16:54:41.2095 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:55:01.3595 INFO Pass Issued Sucess:0-HSS
+2020-12-23 16:55:01.3811 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:55:01.3811 INFO Get Pass List Success
+2020-12-23 16:55:01.3944 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:55:04.5113 INFO Get GetSeverList Success
+2020-12-23 16:55:28.4434 INFO Get GetSeverList Success
+2020-12-23 16:55:42.6186 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:55:42.6186 INFO Get Dispach Master List Success
+2020-12-23 16:55:42.6296 INFO Get VAT Master List Success
+2020-12-23 16:55:42.6296 INFO Get Pass List Success
+2020-12-23 16:55:42.6296 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:55:53.8723 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:55:53.8813 INFO Get Pass List Success
+2020-12-23 16:55:53.8813 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:14.1335 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:14.1335 INFO Get Dispach Master List Success
+2020-12-23 16:56:14.1335 INFO Get VAT Master List Success
+2020-12-23 16:56:14.1335 INFO Get Pass List Success
+2020-12-23 16:56:14.1463 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:18.6398 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:18.6463 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:20.1708 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:20.1758 INFO Get RR List Success
+2020-12-23 16:56:20.1898 INFO Get RR List Success
+2020-12-23 16:56:20.1898 INFO Get Balance Request Pass Success
+2020-12-23 16:56:20.1898 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:21.6974 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:21.6974 INFO Get User Success :126-Hpcl Biofuels Limited, Ec, Bond Officer
+2020-12-23 16:56:40.1196 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:42.8543 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:42.8543 INFO Get MF2 List Success
+2020-12-23 16:56:42.8652 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:44.7428 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:44.7428 INFO Get MF2 List Success
+2020-12-23 16:56:44.7428 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:45.8106 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:45.8106 INFO Get Party Master List Success
+2020-12-23 16:56:45.8181 INFO Get Party Master List Success
+2020-12-23 16:56:45.8181 INFO Get Product Master List Success
+2020-12-23 16:56:45.8181 INFO Get VAT Master List Success
+2020-12-23 16:56:45.8181 INFO Get User Success :116-Hpcl Biofuels Ltd, Ec
+2020-12-23 16:56:57.1273 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:03.0524 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:03.0524 INFO Get Indent List Success
+2020-12-23 16:57:03.0524 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:05.4050 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:05.4050 INFO Get Indent List Success
+2020-12-23 16:57:05.4315 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:05.4315 INFO Get Party Master List Success
+2020-12-23 16:57:05.4315 INFO Get Product Master List Success
+2020-12-23 16:57:05.4415 INFO Get Indent Details Success
+2020-12-23 16:57:05.4415 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:07.4508 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:07.4508 INFO Get Indent List Success
+2020-12-23 16:57:07.4568 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:08.4973 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:08.4973 INFO Get Indent List Success
+2020-12-23 16:57:08.5182 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:08.5182 INFO Get Party Master List Success
+2020-12-23 16:57:08.5182 INFO Get Product Master List Success
+2020-12-23 16:57:08.5182 INFO Get User Success :107-Hpcl Biofuels Limited, Distillery Division, Ec
+2020-12-23 16:57:24.0389 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 16:57:26.6188 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 16:57:26.6188 INFO Get Indent List Success
+2020-12-23 16:57:26.6188 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 16:57:29.0391 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 16:57:29.0391 INFO Get Indent List Success
+2020-12-23 16:57:29.0639 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 16:57:29.0668 INFO Get Party Master List Success
+2020-12-23 16:57:29.0668 INFO Get Product Master List Success
+2020-12-23 16:57:29.0668 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 16:58:29.6303 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:02:09.8071 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:02:09.8071 INFO Get Party Master List Success
+2020-12-23 17:02:09.8161 INFO Get Product Master List Success
+2020-12-23 17:02:09.8161 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:02:20.9341 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:02:23.9559 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:02:23.9559 INFO Get Indent List Success
+2020-12-23 17:02:23.9559 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:02:25.4803 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:02:25.4803 INFO Get Indent List Success
+2020-12-23 17:02:27.5094 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:02:27.5094 INFO Get Party Master List Success
+2020-12-23 17:02:27.5094 INFO Get Product Master List Success
+2020-12-23 17:02:27.5094 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:03:44.4079 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:03:44.4109 INFO Get Party Master List Success
+2020-12-23 17:03:44.4109 INFO Get Product Master List Success
+2020-12-23 17:03:44.4109 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:05.9625 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:05.9625 INFO Get Indent List Success
+2020-12-23 17:04:05.9625 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:07.1395 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:07.1395 INFO Get Indent List Success
+2020-12-23 17:04:07.1614 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:07.1614 INFO Get Party Master List Success
+2020-12-23 17:04:07.1614 INFO Get Product Master List Success
+2020-12-23 17:04:07.1614 INFO Get Indent Details Success
+2020-12-23 17:04:07.1774 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:09.0902 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:09.0902 INFO Get Indent List Success
+2020-12-23 17:04:09.0962 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:10.5067 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:04:10.5067 INFO Get Indent List Success
+2020-12-23 17:04:18.5370 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:29.8453 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:29.8485 INFO Get Indent List Success
+2020-12-23 17:04:29.8485 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:31.2521 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:31.2552 INFO Get Indent List Success
+2020-12-23 17:04:31.2745 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:31.2745 INFO Get Party Master List Success
+2020-12-23 17:04:31.2839 INFO Get Product Master List Success
+2020-12-23 17:04:31.2839 INFO Get Indent Details Success
+2020-12-23 17:04:31.2839 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:37.8413 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:37.8413 INFO Get Indent List Success
+2020-12-23 17:04:37.8472 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:40.3804 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:40.3804 INFO Get Indent List Success
+2020-12-23 17:04:40.4042 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:04:40.4042 INFO Get Party Master List Success
+2020-12-23 17:04:40.4102 INFO Get Product Master List Success
+2020-12-23 17:04:40.4102 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:05:16.5912 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:05:16.6042 INFO Get Party Master List Success
+2020-12-23 17:05:16.6042 INFO Get Product Master List Success
+2020-12-23 17:05:16.6221 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:05:22.9561 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:05:22.9561 INFO Get Indent List Success
+2020-12-23 17:05:22.9561 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:05:25.0526 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:05:25.0526 INFO Get Indent List Success
+2020-12-23 17:05:32.9134 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:05:35.2577 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:05:35.2577 INFO Get Indent List Success
+2020-12-23 17:05:35.2577 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:05:38.2493 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:05:38.2526 INFO Get Indent List Success
+2020-12-23 17:05:38.2724 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:05:38.2724 INFO Get Party Master List Success
+2020-12-23 17:05:38.2724 INFO Get Product Master List Success
+2020-12-23 17:05:38.2724 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:08:07.7076 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:45.0755 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:45.0755 INFO Get Indent List Success
+2020-12-23 17:09:45.0824 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:50.3703 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:50.3703 INFO Get Indent List Success
+2020-12-23 17:09:51.7579 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:51.7579 INFO Get Party Master List Success
+2020-12-23 17:09:51.7579 INFO Get Product Master List Success
+2020-12-23 17:09:51.7579 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:51.8048 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:51.8048 INFO Get Indent List Success
+2020-12-23 17:09:51.8297 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:09:51.8327 INFO Get Party Master List Success
+2020-12-23 17:09:51.8327 INFO Get Product Master List Success
+2020-12-23 17:09:51.8327 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:10:24.7325 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:10:24.7325 INFO Get Party Master List Success
+2020-12-23 17:10:24.7378 INFO Get Product Master List Success
+2020-12-23 17:10:24.7378 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:10:29.2361 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:10:29.2393 INFO Get Party Master List Success
+2020-12-23 17:10:29.2393 INFO Get Product Master List Success
+2020-12-23 17:10:29.2393 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:10:43.2639 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:10:43.2679 INFO Get Party Master List Success
+2020-12-23 17:10:43.2679 INFO Get Product Master List Success
+2020-12-23 17:10:43.2679 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:11:37.3513 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:11:37.3513 INFO Get Party Master List Success
+2020-12-23 17:11:37.3513 INFO Get Product Master List Success
+2020-12-23 17:11:37.3513 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:12:41.1033 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:12:41.1033 INFO Get Party Master List Success
+2020-12-23 17:12:41.1033 INFO Get Product Master List Success
+2020-12-23 17:12:41.1033 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:52.3197 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:52.3197 INFO Get Indent List Success
+2020-12-23 17:14:52.3197 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:53.2814 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:53.2845 INFO Get Indent List Success
+2020-12-23 17:14:53.3548 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:53.3617 INFO Get Allotment List Success
+2020-12-23 17:14:53.3617 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:54.4503 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:54.4503 INFO Get Allotment List Success
+2020-12-23 17:14:54.5458 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:54.5508 INFO Get Party Master List Success
+2020-12-23 17:14:54.5508 INFO Get Indent List Success
+2020-12-23 17:14:54.5508 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:14:57.7821 INFO Get Party Master List Success
+2020-12-23 17:20:09.1757 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:17.2034 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:17.2405 INFO Get Indent List Success
+2020-12-23 17:20:17.2961 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:18.9454 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:18.9454 INFO Get Indent List Success
+2020-12-23 17:20:27.1422 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:27.1645 INFO Get Allotment List Success
+2020-12-23 17:20:27.1645 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:28.7323 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:28.7323 INFO Get Allotment List Success
+2020-12-23 17:20:28.8091 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:28.8502 INFO Get Party Master List Success
+2020-12-23 17:20:28.8502 INFO Get Indent List Success
+2020-12-23 17:20:28.8722 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:20:34.8081 INFO Get Party Master List Success
+2020-12-23 17:23:06.5044 INFO Get Party Master List Success
+2020-12-23 17:24:01.8014 INFO Insert Allotment Success :-SOD
+2020-12-23 17:24:07.2513 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:24:07.2554 INFO Get Allotment List Success
+2020-12-23 17:24:07.2693 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:24:10.6196 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:24:10.6196 INFO Get Allotment List Success
+2020-12-23 17:24:10.6505 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:24:10.6505 INFO Get Party Master List Success
+2020-12-23 17:24:10.6505 INFO Get Indent List Success
+2020-12-23 17:24:10.6654 INFO Get Allotment Details Success
+2020-12-23 17:24:10.6654 INFO Get Party Master List Success
+2020-12-23 17:27:01.1820 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:27:30.6651 INFO Update Allotment Success :21-SOD
+2020-12-23 17:27:30.6860 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:27:30.6960 INFO Get Allotment List Success
+2020-12-23 17:27:30.6960 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:27:33.7974 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:27:33.8025 INFO Get Allotment List Success
+2020-12-23 17:27:33.8264 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:27:33.8264 INFO Get Party Master List Success
+2020-12-23 17:27:33.8324 INFO Get Indent List Success
+2020-12-23 17:27:33.8324 INFO Get Allotment Details Success
+2020-12-23 17:27:33.8324 INFO Get Party Master List Success
+2020-12-23 17:27:33.8544 INFO Check WorkFlow List Success
+2020-12-23 17:27:33.8544 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2020-12-23 17:28:32.0219 INFO Get User Success :112-Riga Sugar Company Ltd
+2020-12-23 17:28:48.5950 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:02.2108 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:02.2348 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:03.8765 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:03.9084 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:05.1384 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:05.1933 INFO Get User Success :129-Sona Sati Organics Pvt Ltd,Bond Officer
+2020-12-23 17:29:41.9842 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:47.5911 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:47.6030 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:48.6396 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:48.6855 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:49.7417 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:49.8336 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:52.1606 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:52.2182 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:53.3484 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:53.4880 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:55.4743 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:29:55.5905 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2020-12-23 17:52:52.1619 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:52:54.6159 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:52:54.6378 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:52:55.5693 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:52:55.6158 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:52:56.8934 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:52:56.9502 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:56:08.8863 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:56:08.9049 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:56:10.2263 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:57:14.3926 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:57:18.1425 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:57:18.1559 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:57:19.5006 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:57:22.6429 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:57:51.1965 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 17:58:09.2175 INFO Get User Success :131-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:08.7875 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:11.8384 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:11.8384 INFO Get Indent List Success
+2020-12-23 18:05:11.8822 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:13.6751 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:13.6751 INFO Get Indent List Success
+2020-12-23 18:05:13.7200 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:13.7270 INFO Get Allotment List Success
+2020-12-23 18:05:13.7409 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:17.6533 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:17.6533 INFO Get Allotment List Success
+2020-12-23 18:05:17.7298 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:17.7298 INFO Get Party Master List Success
+2020-12-23 18:05:17.7394 INFO Get Indent List Success
+2020-12-23 18:05:17.7394 INFO Get Allotment Details Success
+2020-12-23 18:05:17.7576 INFO Get Party Master List Success
+2020-12-23 18:05:17.7875 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:21.8769 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:21.8809 INFO Get Allotment List Success
+2020-12-23 18:05:21.8809 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:23.5452 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:23.5496 INFO Get Allotment List Success
+2020-12-23 18:05:23.5716 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:23.5716 INFO Get Party Master List Success
+2020-12-23 18:05:23.5716 INFO Get Indent List Success
+2020-12-23 18:05:23.5716 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:30.8517 INFO Get Party Master List Success
+2020-12-23 18:05:50.1083 INFO Insert Allotment Success :-HPL
+2020-12-23 18:05:50.1332 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:05:50.1332 INFO Get Allotment List Success
+2020-12-23 18:05:50.1332 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:34.8068 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:46.4054 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:46.4125 INFO Get Indent List Success
+2020-12-23 18:11:46.4458 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:47.5854 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:47.5854 INFO Get Indent List Success
+2020-12-23 18:11:47.6320 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:47.6320 INFO Get Allotment List Success
+2020-12-23 18:11:47.6533 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:50.1777 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:50.1777 INFO Get Allotment List Success
+2020-12-23 18:11:50.2533 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:50.2533 INFO Get Party Master List Success
+2020-12-23 18:11:50.2533 INFO Get Indent List Success
+2020-12-23 18:11:50.2693 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:11:55.6434 INFO Get Party Master List Success
+2020-12-23 18:16:21.5859 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:23.8647 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:23.8647 INFO Get Indent List Success
+2020-12-23 18:16:23.9088 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:25.6403 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:25.6436 INFO Get Indent List Success
+2020-12-23 18:16:25.7258 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:25.7258 INFO Get Party Master List Success
+2020-12-23 18:16:25.7383 INFO Get Product Master List Success
+2020-12-23 18:16:25.7383 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:26.9738 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:26.9868 INFO Get Allotment List Success
+2020-12-23 18:16:27.0103 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:27.8547 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:27.8547 INFO Get Allotment List Success
+2020-12-23 18:16:27.9195 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:27.9245 INFO Get Party Master List Success
+2020-12-23 18:16:27.9245 INFO Get Indent List Success
+2020-12-23 18:16:27.9245 INFO Get User Success :106-Hpcl Biofuels Limited, Distillery Division, Wc
+2020-12-23 18:16:32.8883 INFO Get Party Master List Success
+2020-12-23 18:16:38.9312 INFO Get Party Master List Success

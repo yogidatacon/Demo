@@ -1,0 +1,57 @@
+D:\IEMS\UserManagement_IEMS\Usermngt.BL\bin\Debug\Usermngt.BL.dll
+D:\IEMS\UserManagement_IEMS\Usermngt.BL\bin\Debug\Usermngt.BL.pdb
+D:\IEMS\UserManagement_IEMS\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+D:\IEMS\UserManagement_IEMS\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+D:\IEMS\UserManagement_IEMS\CaseMgmt\bin\Usermngt.BL.dll
+D:\IEMS\UserManagement_IEMS\CaseMgmt\bin\Usermngt.BL.pdb
+D:\IEMS\UserManagement_IEMS\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+E:\IEMS\bck\UserManagement_IEMS\CaseMgmt\bin\Usermngt.BL.dll
+E:\IEMS\bck\UserManagement_IEMS\CaseMgmt\bin\Usermngt.BL.pdb
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\NLog.config
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\Usermngt.BL.dll
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\Usermngt.BL.pdb
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\NLog.config
+D:\BHIHAR\UserMgmt\UserMgmt\Usermngt.BL.dll
+D:\BHIHAR\UserMgmt\UserMgmt\Usermngt.BL.pdb
+D:\BHIHAR\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+D:\BHIHAR\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+D:\BHIHAR\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+D:\IEMS\UserMgmt\UserMgmt\NLog.config
+D:\IEMS\UserMgmt\UserMgmt\Usermngt.BL.dll
+D:\IEMS\UserMgmt\UserMgmt\Usermngt.BL.pdb
+D:\IEMS\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+D:\IEMS\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+D:\IEMS\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+D:\final\UserMgmt\UserMgmt\NLog.config
+D:\final\UserMgmt\UserMgmt\Usermngt.BL.dll
+D:\final\UserMgmt\UserMgmt\Usermngt.BL.pdb
+D:\final\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+D:\final\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+D:\final\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+E:\IEMS\UserMgmt\UserMgmt\NLog.config
+E:\IEMS\UserMgmt\UserMgmt\Usermngt.BL.dll
+E:\IEMS\UserMgmt\UserMgmt\Usermngt.BL.pdb
+E:\IEMS\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+E:\IEMS\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+E:\IEMS\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\NLog.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\Usermngt.BL.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\Usermngt.BL.pdb
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\NLog.config
+E:\partha\New folder\UserMgmt\UserMgmt\Usermngt.BL.dll
+E:\partha\New folder\UserMgmt\UserMgmt\Usermngt.BL.pdb
+E:\partha\New folder\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+E:\partha\New folder\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+E:\partha\New folder\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb
+E:\UserMgmt\UserMgmt\NLog.config
+E:\UserMgmt\UserMgmt\Usermngt.BL.dll
+E:\UserMgmt\UserMgmt\Usermngt.BL.pdb
+E:\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.csprojResolveAssemblyReference.cache
+E:\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.dll
+E:\UserMgmt\Usermngt.BL\obj\Debug\Usermngt.BL.pdb

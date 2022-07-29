@@ -1,0 +1,555 @@
+2021-02-01 11:39:34.8704 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:39:36.8338 INFO Get User Success :harinagar_dis
+2021-02-01 11:39:47.7383 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:39:48.7811 INFO Get User Success :harinagar_dis
+2021-02-01 11:40:01.8971 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:40:05.0472 INFO Get RR List Success
+2021-02-01 11:40:09.0504 INFO Get RR List Success
+2021-02-01 11:40:09.2237 INFO Get Balance Request Pass Success
+2021-02-01 11:40:09.5757 INFO Get User Success :harinagar_dis
+2021-02-01 11:40:14.1492 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:40:15.4106 INFO Get User Success :harinagar_dis
+2021-02-01 11:40:24.8361 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:40:34.4148 INFO Get RR List Success
+2021-02-01 11:40:34.7521 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-02-01 11:40:34.9366 INFO Get NOC Details Fail:22P02: invalid input syntax for integer: "Select"
+2021-02-01 11:41:50.8313 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:42:03.0631 INFO Get RR List Success
+2021-02-01 11:42:41.2100 INFO Get NOC Details Success
+2021-02-01 11:42:41.8603 INFO Get NOC Details Success
+2021-02-01 11:42:42.1938 INFO Get User Success :harinagar_dis
+2021-02-01 11:43:04.8318 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 11:43:16.8715 INFO Get RR List Success
+2021-02-01 11:43:29.3469 INFO Get NOC Details Success
+2021-02-01 11:43:43.9861 INFO Get NOC Details Success
+2021-02-01 11:43:44.1767 INFO Get Balance Request Pass Success
+2021-02-01 11:43:44.8304 INFO Get User Success :harinagar_dis
+2021-02-01 13:16:16.1336 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:16:17.3249 INFO Get User Success :newswadeshi_sgr
+2021-02-01 13:16:50.3521 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:16:50.6060 INFO Get MF2 List Success
+2021-02-01 13:16:50.9195 INFO Get User Success :newswadeshi_sgr
+2021-02-01 13:16:53.4254 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:16:54.0454 INFO Get Party Master List Success
+2021-02-01 13:16:54.2174 INFO Get Party Master List Success
+2021-02-01 13:16:54.3179 INFO Get Product Master List Success
+2021-02-01 13:16:54.9542 INFO Get VAT Master List Success
+2021-02-01 13:20:49.2221 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:20:51.0965 INFO Get User Success :newswadeshi_sgr
+2021-02-01 13:21:04.5261 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:21:04.9187 INFO Get MF2 List Success
+2021-02-01 13:21:05.3608 INFO Get User Success :newswadeshi_sgr
+2021-02-01 13:21:16.3505 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:21:16.5061 INFO Get Party Master List Success
+2021-02-01 13:21:16.6607 INFO Get Party Master List Success
+2021-02-01 13:21:16.8296 INFO Get Product Master List Success
+2021-02-01 13:21:17.0220 INFO Get VAT Master List Success
+2021-02-01 13:21:27.5412 INFO Get MF2 Details Fail :42703: column a.party_code does not exist
+2021-02-01 13:21:27.8912 INFO Get User Success :newswadeshi_sgr
+2021-02-01 13:21:54.5710 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 13:21:54.7270 INFO Get Party Master List Success
+2021-02-01 13:21:54.8936 INFO Get Party Master List Success
+2021-02-01 13:21:55.0938 INFO Get Product Master List Success
+2021-02-01 13:21:55.3098 INFO Get VAT Master List Success
+2021-02-01 13:22:08.2026 INFO Get MF2  Details Success
+2021-02-01 13:22:08.6488 INFO Get User Success :newswadeshi_sgr
+2021-02-01 13:24:47.6463 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 13:24:49.5771 INFO Get User Success :harinagar_dis
+2021-02-01 15:02:59.9978 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:03:01.3514 INFO Get User Success :newswadeshi_sgr
+2021-02-01 15:07:44.5801 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:07:44.6854 INFO Get User Success :newswadeshi_sgr
+2021-02-01 15:07:49.3524 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:07:49.3597 INFO Get MF2 List Success
+2021-02-01 15:07:49.3878 INFO Get User Success :newswadeshi_sgr
+2021-02-01 15:07:59.1485 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:07:59.1761 INFO Get Party Master List Success
+2021-02-01 15:07:59.1761 INFO Get Party Master List Success
+2021-02-01 15:07:59.2030 INFO Get Product Master List Success
+2021-02-01 15:07:59.2460 INFO Get VAT Master List Success
+2021-02-01 15:09:12.6423 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:09:12.7396 INFO Get User Success :newswadeshi_sgr
+2021-02-01 15:09:23.5807 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:09:23.5807 INFO Get MF2 List Success
+2021-02-01 15:09:23.6118 INFO Get User Success :newswadeshi_sgr
+2021-02-01 15:09:25.6421 INFO Get User Success :111-New Swadeshi Sugar Mills
+2021-02-01 15:09:25.6421 INFO Get Party Master List Success
+2021-02-01 15:09:25.6421 INFO Get Party Master List Success
+2021-02-01 15:09:25.6584 INFO Get Product Master List Success
+2021-02-01 15:09:25.6584 INFO Get VAT Master List Success
+2021-02-01 15:09:25.7024 INFO Get User Success :newswadeshi_sgr
+2021-02-01 15:25:14.4863 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:25:17.4447 INFO Get User Success :vishnu_sgr
+2021-02-01 15:25:20.5218 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:25:20.7233 INFO Get MF2 List Success
+2021-02-01 15:25:20.9747 INFO Get User Success :vishnu_sgr
+2021-02-01 15:25:22.9307 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:25:23.0882 INFO Get Party Master List Success
+2021-02-01 15:25:23.2367 INFO Get Party Master List Success
+2021-02-01 15:25:23.3773 INFO Get Product Master List Success
+2021-02-01 15:25:23.5084 INFO Get VAT Master List Success
+2021-02-01 15:25:49.7705 INFO Get MF2  Details Success
+2021-02-01 15:25:53.0441 INFO Get User Success :vishnu_sgr
+2021-02-01 15:26:03.8337 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:26:03.9719 INFO Get Party Master List Success
+2021-02-01 15:26:04.0948 INFO Get Party Master List Success
+2021-02-01 15:26:04.2028 INFO Get Product Master List Success
+2021-02-01 15:26:04.3258 INFO Get VAT Master List Success
+2021-02-01 15:26:06.0998 INFO Get MF2  Details Success
+2021-02-01 15:26:12.3805 INFO Get User Success :vishnu_sgr
+2021-02-01 15:26:15.1046 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:26:15.2475 INFO Get Party Master List Success
+2021-02-01 15:26:15.3622 INFO Get Party Master List Success
+2021-02-01 15:26:15.4780 INFO Get Product Master List Success
+2021-02-01 15:26:15.5935 INFO Get VAT Master List Success
+2021-02-01 15:27:29.9823 INFO Get VAT Master List Success
+2021-02-01 15:27:33.6312 INFO Get MF2  Details Success
+2021-02-01 15:27:37.6423 INFO Get User Success :vishnu_sgr
+2021-02-01 15:29:56.5548 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:29:56.7670 INFO Get MF2 List Success
+2021-02-01 15:29:57.0295 INFO Get User Success :vishnu_sgr
+2021-02-01 15:29:58.1858 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:29:58.2975 INFO Get Party Master List Success
+2021-02-01 15:29:58.4194 INFO Get Party Master List Success
+2021-02-01 15:29:58.5312 INFO Get Product Master List Success
+2021-02-01 15:29:58.6441 INFO Get VAT Master List Success
+2021-02-01 15:29:58.8845 INFO Get User Success :vishnu_sgr
+2021-02-01 15:30:15.4359 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:30:15.6513 INFO Get MF2 List Success
+2021-02-01 15:30:15.9729 INFO Get User Success :vishnu_sgr
+2021-02-01 15:30:17.6703 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:30:17.8929 INFO Get Party Master List Success
+2021-02-01 15:30:18.1281 INFO Get Party Master List Success
+2021-02-01 15:30:18.2498 INFO Get Product Master List Success
+2021-02-01 15:30:18.3939 INFO Get VAT Master List Success
+2021-02-01 15:30:18.9824 INFO Get MF2  Details Success
+2021-02-01 15:30:26.4709 INFO Get User Success :vishnu_sgr
+2021-02-01 15:32:01.3993 INFO Sugarcanepurchase Get List Success
+2021-02-01 15:32:01.4929 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:32:01.7567 INFO Get User Success :vishnu_sgr
+2021-02-01 15:32:03.0258 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:32:04.0160 INFO Get User Success :vishnu_sgr
+2021-02-01 15:32:05.5522 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:32:07.2301 INFO Get User Success :vishnu_sgr
+2021-02-01 15:32:35.8248 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 15:32:37.4618 INFO Get User Success :vishnu_sgr
+2021-02-01 15:32:48.9044 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:32:50.0911 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:32:53.4275 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:32:53.7133 INFO Get MF2 List Success
+2021-02-01 15:32:54.0222 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:32:56.1573 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:32:56.2739 INFO Get Party Master List Success
+2021-02-01 15:32:56.3956 INFO Get Party Master List Success
+2021-02-01 15:32:56.5127 INFO Get Product Master List Success
+2021-02-01 15:32:56.6443 INFO Get VAT Master List Success
+2021-02-01 15:32:57.3083 INFO Get MF2  Details Success
+2021-02-01 15:32:57.8195 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:33:08.7648 INFO Sugarcanepurchase Get List Success
+2021-02-01 15:33:08.8809 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:33:09.2933 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:33:10.8727 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:33:12.3238 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:33:13.8274 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:33:14.2346 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:33:34.4819 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:33:34.7562 INFO Get MF2 List Success
+2021-02-01 15:33:35.1787 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:33:41.1763 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:33:41.3830 INFO Get MF2 List Success
+2021-02-01 15:33:41.7452 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:33:42.8629 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:33:43.0052 INFO Get Party Master List Success
+2021-02-01 15:33:43.1453 INFO Get Party Master List Success
+2021-02-01 15:33:43.4501 INFO Get Product Master List Success
+2021-02-01 15:33:43.5663 INFO Get VAT Master List Success
+2021-02-01 15:33:44.4641 INFO Get MF2  Details Success
+2021-02-01 15:33:44.8224 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:34:45.4312 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:34:45.6380 INFO Get Party Master List Success
+2021-02-01 15:34:45.8467 INFO Get Party Master List Success
+2021-02-01 15:34:45.9682 INFO Get Product Master List Success
+2021-02-01 15:34:46.0823 INFO Get VAT Master List Success
+2021-02-01 15:34:46.6684 INFO Get MF2  Details Success
+2021-02-01 15:35:02.9481 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:39:49.8350 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:39:50.1950 INFO Get Party Master List Success
+2021-02-01 15:39:51.4729 INFO Get Party Master List Success
+2021-02-01 15:39:51.5698 INFO Get Product Master List Success
+2021-02-01 15:39:51.6935 INFO Get VAT Master List Success
+2021-02-01 15:39:52.2614 INFO Get MF2  Details Success
+2021-02-01 15:40:23.2505 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:41:54.0582 INFO Update MF2 Success :21-12-2020-HAS
+2021-02-01 15:41:54.3163 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:41:54.7189 INFO Get MF2 List Success
+2021-02-01 15:41:55.2330 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:42:17.0741 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:42:17.3634 INFO Get Party Master List Success
+2021-02-01 15:42:17.6340 INFO Get Party Master List Success
+2021-02-01 15:42:17.7602 INFO Get Product Master List Success
+2021-02-01 15:42:17.8842 INFO Get VAT Master List Success
+2021-02-01 15:42:18.5259 INFO Get MF2  Details Success
+2021-02-01 15:42:34.7233 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:42:51.0317 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:42:51.3558 INFO Get Party Master List Success
+2021-02-01 15:42:51.6964 INFO Get Party Master List Success
+2021-02-01 15:42:51.8734 INFO Get Product Master List Success
+2021-02-01 15:42:52.0676 INFO Get VAT Master List Success
+2021-02-01 15:42:53.0526 INFO Get MF2  Details Success
+2021-02-01 15:43:10.2855 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:45:18.4544 INFO Update MF2 Success :21-12-2020-HAS
+2021-02-01 15:45:18.6938 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:45:18.9732 INFO Get MF2 List Success
+2021-02-01 15:45:19.4332 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:45:21.8075 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:45:22.2829 INFO Get Party Master List Success
+2021-02-01 15:45:22.5351 INFO Get Party Master List Success
+2021-02-01 15:45:22.6331 INFO Get Product Master List Success
+2021-02-01 15:45:22.7437 INFO Get VAT Master List Success
+2021-02-01 15:45:44.3975 INFO Get MF2  Details Success
+2021-02-01 15:46:12.6857 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:46:27.0905 INFO Sugarcanepurchase Get List Success
+2021-02-01 15:46:27.2070 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:46:27.5238 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:46:33.4721 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:46:34.5128 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:46:36.9028 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:46:37.2806 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:46:47.1044 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:46:47.3087 INFO Get MF2 List Success
+2021-02-01 15:46:47.5727 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:46:49.2733 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:46:49.4103 INFO Get Party Master List Success
+2021-02-01 15:46:49.5355 INFO Get Party Master List Success
+2021-02-01 15:46:49.6482 INFO Get Product Master List Success
+2021-02-01 15:46:49.7741 INFO Get VAT Master List Success
+2021-02-01 15:46:50.4408 INFO Get MF2  Details Success
+2021-02-01 15:46:52.6737 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:47:05.1236 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-02-01 15:47:05.4048 INFO Get MF2 List Success
+2021-02-01 15:47:05.7813 INFO Get User Success :hasanpur_sgr
+2021-02-01 15:47:07.2570 INFO Get GetSeverList Success
+2021-02-01 15:47:37.8089 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-02-01 15:47:40.0632 INFO Get User Success :riga_sgr
+2021-02-01 15:47:47.1471 INFO Get User Success :112-Riga Sugar Company Ltd
+2021-02-01 15:47:47.2652 INFO Get MF2 List Success
+2021-02-01 15:47:47.6139 INFO Get User Success :riga_sgr
+2021-02-01 16:13:04.4048 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 16:13:06.4903 INFO Get User Success :harinagar_dis
+2021-02-01 16:13:16.2512 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 16:13:16.4308 INFO Get Indent List Success
+2021-02-01 16:13:17.3100 INFO Get User Success :harinagar_dis
+2021-02-01 16:13:21.7552 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 16:13:21.8986 INFO Get Indent List Success
+2021-02-01 16:13:22.1361 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-02-01 16:13:22.2914 INFO Get Party Master List Success
+2021-02-01 16:13:22.4335 INFO Get Product Master List Success
+2021-02-01 16:13:22.7380 INFO Get Indent Details Success
+2021-02-01 16:13:23.0517 INFO Get User Success :harinagar_dis
+2021-02-01 16:13:35.9750 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:13:36.3771 INFO Get User Success :harinagar_sgr
+2021-02-01 16:13:40.7188 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:13:40.8976 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:13:41.1094 INFO Get User Success :harinagar_sgr
+2021-02-01 16:13:42.5744 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:13:43.4140 INFO Get User Success :harinagar_sgr
+2021-02-01 16:13:45.1566 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:13:46.5217 INFO Get User Success :harinagar_sgr
+2021-02-01 16:13:55.5122 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:13:55.6969 INFO Get MF2 List Success
+2021-02-01 16:13:55.8832 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:01.1167 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:01.3559 INFO Get MF2 List Success
+2021-02-01 16:14:01.6196 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:03.8502 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:04.0226 INFO Get Party Master List Success
+2021-02-01 16:14:04.1530 INFO Get Party Master List Success
+2021-02-01 16:14:04.2768 INFO Get Product Master List Success
+2021-02-01 16:14:04.4032 INFO Get VAT Master List Success
+2021-02-01 16:14:05.1382 INFO Get MF2  Details Success
+2021-02-01 16:14:09.1283 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:28.7428 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:14:28.9420 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:29.1166 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:30.5666 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:31.4580 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:33.9823 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:35.2921 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:42.4676 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:42.7772 INFO Get MF2 List Success
+2021-02-01 16:14:43.1051 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:47.3953 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:47.6497 INFO Get Party Master List Success
+2021-02-01 16:14:47.9338 INFO Get Party Master List Success
+2021-02-01 16:14:48.0461 INFO Get Product Master List Success
+2021-02-01 16:14:48.1608 INFO Get VAT Master List Success
+2021-02-01 16:14:48.7846 INFO Get MF2  Details Success
+2021-02-01 16:14:51.1875 INFO Get User Success :harinagar_sgr
+2021-02-01 16:14:57.1740 INFO Get User Success :97-Harinagar Sugar Mills Ltd
+2021-02-01 16:14:57.5938 INFO Get MF2 List Success
+2021-02-01 16:14:58.0006 INFO Get User Success :harinagar_sgr
+2021-02-01 16:15:11.8422 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:12.8758 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:15:16.6312 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:15:16.7319 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:16.9535 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:15:18.8196 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:19.5897 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:15:21.1702 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:21.9199 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:15:29.0951 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:30.6270 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:15:32.9610 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:33.2723 INFO Get MF2 List Success
+2021-02-01 16:15:33.7721 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:15:35.5691 INFO Get User Success :117-HPCL Biofuels Limited, WC
+2021-02-01 16:15:35.8840 INFO Get Party Master List Success
+2021-02-01 16:15:36.2083 INFO Get Party Master List Success
+2021-02-01 16:15:36.3650 INFO Get Product Master List Success
+2021-02-01 16:15:36.5158 INFO Get VAT Master List Success
+2021-02-01 16:15:37.2878 INFO Get MF2  Details Success
+2021-02-01 16:15:39.2885 INFO Get User Success :hpcl_wc_sgr
+2021-02-01 16:16:55.2427 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2021-02-01 16:16:55.7983 INFO Get User Success :hpcl_ec_sgr
+2021-02-01 16:17:03.2879 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:17:03.3832 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2021-02-01 16:17:03.5840 INFO Get User Success :hpcl_ec_sgr
+2021-02-01 16:17:05.3549 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2021-02-01 16:17:06.2171 INFO Get User Success :hpcl_ec_sgr
+2021-02-01 16:17:08.0919 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2021-02-01 16:17:08.6403 INFO Get User Success :hpcl_ec_sgr
+2021-02-01 16:17:12.4611 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2021-02-01 16:17:12.6515 INFO Get MF2 List Success
+2021-02-01 16:17:12.8511 INFO Get User Success :hpcl_ec_sgr
+2021-02-01 16:17:14.6212 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2021-02-01 16:17:14.7249 INFO Get Party Master List Success
+2021-02-01 16:17:15.2258 INFO Get Party Master List Success
+2021-02-01 16:17:15.3680 INFO Get Product Master List Success
+2021-02-01 16:17:15.5126 INFO Get VAT Master List Success
+2021-02-01 16:17:16.1840 INFO Get MF2  Details Success
+2021-02-01 16:17:18.3570 INFO Get User Success :hpcl_ec_sgr
+2021-02-01 16:17:33.9887 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:34.5561 INFO Get User Success :bharath_sgr
+2021-02-01 16:17:37.6636 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:38.0010 INFO Get MF2 List Success
+2021-02-01 16:17:38.3417 INFO Get User Success :bharath_sgr
+2021-02-01 16:17:39.9779 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:40.0902 INFO Get Party Master List Success
+2021-02-01 16:17:40.2096 INFO Get Party Master List Success
+2021-02-01 16:17:40.3183 INFO Get Product Master List Success
+2021-02-01 16:17:40.4382 INFO Get VAT Master List Success
+2021-02-01 16:17:41.0889 INFO Get MF2  Details Success
+2021-02-01 16:17:43.7200 INFO Get User Success :bharath_sgr
+2021-02-01 16:17:48.6524 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:48.8486 INFO Get MF2 List Success
+2021-02-01 16:17:49.2299 INFO Get User Success :bharath_sgr
+2021-02-01 16:17:50.6191 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:50.7148 INFO Get MF3 List Success
+2021-02-01 16:17:51.0088 INFO Get User Success :bharath_sgr
+2021-02-01 16:17:56.3441 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:57.1229 INFO Get MF2 List Success
+2021-02-01 16:17:57.4432 INFO Get User Success :bharath_sgr
+2021-02-01 16:17:59.4356 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:17:59.7748 INFO Get Party Master List Success
+2021-02-01 16:18:00.0756 INFO Get Party Master List Success
+2021-02-01 16:18:00.2292 INFO Get Product Master List Success
+2021-02-01 16:18:00.3845 INFO Get VAT Master List Success
+2021-02-01 16:18:01.4391 INFO Get MF2  Details Success
+2021-02-01 16:18:13.9617 INFO Get User Success :bharath_sgr
+2021-02-01 16:18:36.6609 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:18:36.7632 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:18:37.0541 INFO Get User Success :bharath_sgr
+2021-02-01 16:18:38.8237 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:18:39.7564 INFO Get User Success :bharath_sgr
+2021-02-01 16:18:42.2025 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:18:43.0604 INFO Get User Success :bharath_sgr
+2021-02-01 16:19:59.1234 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:19:59.3199 INFO Get MF2 List Success
+2021-02-01 16:19:59.6244 INFO Get User Success :bharath_sgr
+2021-02-01 16:20:01.0507 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:20:01.3817 INFO Get Party Master List Success
+2021-02-01 16:20:01.5747 INFO Get Party Master List Success
+2021-02-01 16:20:01.6961 INFO Get Product Master List Success
+2021-02-01 16:20:01.8277 INFO Get VAT Master List Success
+2021-02-01 16:20:02.5128 INFO Get MF2  Details Success
+2021-02-01 16:20:04.1111 INFO Get User Success :bharath_sgr
+2021-02-01 16:20:16.8130 INFO Update MF2 Success :21-12-2020-BSM
+2021-02-01 16:20:17.1572 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:20:17.4783 INFO Get MF2 List Success
+2021-02-01 16:20:17.9705 INFO Get User Success :bharath_sgr
+2021-02-01 16:20:19.9188 INFO Get User Success :139-Bharath Sugar Mills,Sidhwalia
+2021-02-01 16:20:20.1687 INFO Get Party Master List Success
+2021-02-01 16:20:20.5576 INFO Get Party Master List Success
+2021-02-01 16:20:20.7558 INFO Get Product Master List Success
+2021-02-01 16:20:20.9699 INFO Get VAT Master List Success
+2021-02-01 16:20:21.9155 INFO Get MF2  Details Success
+2021-02-01 16:20:33.6859 INFO Get User Success :bharath_sgr
+2021-02-01 16:20:52.7758 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:20:53.3041 INFO Get User Success :sasa_sgr
+2021-02-01 16:20:56.1777 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:20:56.4520 INFO Get MF2 List Success
+2021-02-01 16:20:56.7015 INFO Get User Success :sasa_sgr
+2021-02-01 16:20:58.5282 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:20:58.7797 INFO Get Party Master List Success
+2021-02-01 16:20:59.0467 INFO Get Party Master List Success
+2021-02-01 16:20:59.1864 INFO Get Product Master List Success
+2021-02-01 16:20:59.3388 INFO Get VAT Master List Success
+2021-02-01 16:21:01.0539 INFO Get MF2  Details Success
+2021-02-01 16:21:10.2246 INFO Get User Success :sasa_sgr
+2021-02-01 16:21:31.3450 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:21:31.4527 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:21:31.6564 INFO Get User Success :sasa_sgr
+2021-02-01 16:21:33.1413 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:21:34.3819 INFO Get User Success :sasa_sgr
+2021-02-01 16:21:35.9521 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:21:36.7909 INFO Get User Success :sasa_sgr
+2021-02-01 16:22:21.9384 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:22:22.8203 INFO Get MF2 List Success
+2021-02-01 16:22:23.2968 INFO Get User Success :sasa_sgr
+2021-02-01 16:22:25.3240 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:22:26.1684 INFO Get Party Master List Success
+2021-02-01 16:22:26.5582 INFO Get Party Master List Success
+2021-02-01 16:22:26.7200 INFO Get Product Master List Success
+2021-02-01 16:22:26.8926 INFO Get VAT Master List Success
+2021-02-01 16:22:27.8684 INFO Get MF2  Details Success
+2021-02-01 16:22:42.6231 INFO Get User Success :sasa_sgr
+2021-02-01 16:23:12.3168 INFO Update MF2 Success :24-12-2020-SMS
+2021-02-01 16:23:12.6554 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:23:13.0104 INFO Get MF2 List Success
+2021-02-01 16:23:13.3067 INFO Get User Success :sasa_sgr
+2021-02-01 16:23:15.2310 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:23:15.4703 INFO Get Party Master List Success
+2021-02-01 16:23:15.7175 INFO Get Party Master List Success
+2021-02-01 16:23:16.8626 INFO Get Product Master List Success
+2021-02-01 16:23:16.9624 INFO Get VAT Master List Success
+2021-02-01 16:23:17.5641 INFO Get MF2  Details Success
+2021-02-01 16:23:20.7701 INFO Get User Success :sasa_sgr
+2021-02-01 16:24:05.8706 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:24:06.1983 INFO Get Party Master List Success
+2021-02-01 16:24:06.5211 INFO Get Party Master List Success
+2021-02-01 16:24:06.7362 INFO Get Product Master List Success
+2021-02-01 16:24:06.9788 INFO Get VAT Master List Success
+2021-02-01 16:24:07.7846 INFO Get MF2  Details Success
+2021-02-01 16:24:09.9328 INFO Get User Success :sasa_sgr
+2021-02-01 16:24:20.8003 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:24:21.0572 INFO Get MF2 List Success
+2021-02-01 16:24:21.3648 INFO Get User Success :sasa_sgr
+2021-02-01 16:24:23.3841 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:24:23.6207 INFO Get Party Master List Success
+2021-02-01 16:24:24.0168 INFO Get Party Master List Success
+2021-02-01 16:24:24.2288 INFO Get Product Master List Success
+2021-02-01 16:24:24.4394 INFO Get VAT Master List Success
+2021-02-01 16:24:25.1983 INFO Get MF2  Details Success
+2021-02-01 16:24:27.6396 INFO Get User Success :sasa_sgr
+2021-02-01 16:25:20.0376 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:25:20.3616 INFO Get Party Master List Success
+2021-02-01 16:25:20.7175 INFO Get Party Master List Success
+2021-02-01 16:25:20.8924 INFO Get Product Master List Success
+2021-02-01 16:25:21.0659 INFO Get VAT Master List Success
+2021-02-01 16:25:21.9406 INFO Get MF2  Details Success
+2021-02-01 16:25:24.3465 INFO Get User Success :sasa_sgr
+2021-02-01 16:26:38.3879 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:26:38.7809 INFO Get Party Master List Success
+2021-02-01 16:26:39.2285 INFO Get Party Master List Success
+2021-02-01 16:26:39.4306 INFO Get Product Master List Success
+2021-02-01 16:26:39.6458 INFO Get VAT Master List Success
+2021-02-01 16:26:40.5834 INFO Get MF2  Details Success
+2021-02-01 16:26:42.5037 INFO Get User Success :sasa_sgr
+2021-02-01 16:26:58.1117 INFO Get User Success :113-Sasa Musa Sugar Works Pvt Ltd 
+2021-02-01 16:26:58.4397 INFO Get MF2 List Success
+2021-02-01 16:26:58.8543 INFO Get User Success :sasa_sgr
+2021-02-01 16:27:16.6646 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:27:21.6937 INFO Get User Success :tirupati_sgr
+2021-02-01 16:27:25.3413 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:27:26.2055 INFO Get MF2 List Success
+2021-02-01 16:27:26.7708 INFO Get User Success :tirupati_sgr
+2021-02-01 16:27:28.9022 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:27:29.2643 INFO Get Party Master List Success
+2021-02-01 16:27:29.6021 INFO Get Party Master List Success
+2021-02-01 16:27:29.7755 INFO Get Product Master List Success
+2021-02-01 16:27:29.9507 INFO Get VAT Master List Success
+2021-02-01 16:27:30.8649 INFO Get MF2  Details Success
+2021-02-01 16:27:44.2849 INFO Get User Success :tirupati_sgr
+2021-02-01 16:27:49.7495 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:27:50.5716 INFO Get MF2 List Success
+2021-02-01 16:27:51.3564 INFO Get User Success :tirupati_sgr
+2021-02-01 16:27:57.4108 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:27:57.7565 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:27:59.1635 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:00.4895 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:01.5506 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:03.2648 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:03.7507 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:08.8010 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:10.0716 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:11.6426 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:11.8745 INFO Get MF2 List Success
+2021-02-01 16:28:12.2574 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:14.5236 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:14.7186 INFO Get MF2 List Success
+2021-02-01 16:28:15.1405 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:17.4224 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:17.6459 INFO Get Party Master List Success
+2021-02-01 16:28:17.8570 INFO Get Party Master List Success
+2021-02-01 16:28:18.0814 INFO Get Product Master List Success
+2021-02-01 16:28:18.2937 INFO Get VAT Master List Success
+2021-02-01 16:28:19.6607 INFO Get MF2  Details Success
+2021-02-01 16:28:21.4397 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:40.8305 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:41.0559 INFO Get MF2 List Success
+2021-02-01 16:28:41.5140 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:47.0386 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:28:47.2125 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:47.4019 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:48.5154 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:49.0369 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:50.7476 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:51.3683 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:53.3576 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:54.1841 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:55.8776 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:56.0390 INFO Get MF2 List Success
+2021-02-01 16:28:56.2197 INFO Get User Success :tirupati_sgr
+2021-02-01 16:28:57.8009 INFO Get User Success :114-Tirupati Sugars Ltd 
+2021-02-01 16:28:58.0254 INFO Get Party Master List Success
+2021-02-01 16:28:58.2493 INFO Get Party Master List Success
+2021-02-01 16:28:58.4608 INFO Get Product Master List Success
+2021-02-01 16:28:58.6315 INFO Get VAT Master List Success
+2021-02-01 16:28:59.4727 INFO Get MF2  Details Success
+2021-02-01 16:29:01.9621 INFO Get User Success :tirupati_sgr
+2021-02-01 16:29:21.6814 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:23.5833 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:29:27.0947 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:27.2714 INFO Get MF2 List Success
+2021-02-01 16:29:27.4516 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:29:31.2344 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:31.4692 INFO Get Party Master List Success
+2021-02-01 16:29:31.7003 INFO Get Party Master List Success
+2021-02-01 16:29:31.8926 INFO Get Product Master List Success
+2021-02-01 16:29:32.0573 INFO Get VAT Master List Success
+2021-02-01 16:29:33.0715 INFO Get MF2  Details Success
+2021-02-01 16:29:35.5424 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:29:46.4829 INFO Sugarcanepurchase Get List Success
+2021-02-01 16:29:46.6707 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:47.7386 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:29:49.5510 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:50.9191 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:29:52.5092 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:53.1299 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:29:57.1517 INFO Get User Success :138-Majhaulia Sugar Industries Pvt Ltd.
+2021-02-01 16:29:58.3583 INFO Get User Success :majhaulia_sgr
+2021-02-01 16:30:30.5181 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 16:30:31.7432 INFO Get User Success :vishnu_sgr
+2021-02-01 16:30:34.8649 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 16:30:35.0914 INFO Get MF2 List Success
+2021-02-01 16:30:35.5526 INFO Get User Success :vishnu_sgr
+2021-02-01 16:30:37.2553 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 16:30:37.3862 INFO Get Party Master List Success
+2021-02-01 16:30:37.5782 INFO Get Party Master List Success
+2021-02-01 16:30:37.7497 INFO Get Product Master List Success
+2021-02-01 16:30:37.9271 INFO Get VAT Master List Success
+2021-02-01 16:30:38.8546 INFO Get MF2  Details Success
+2021-02-01 16:30:41.2071 INFO Get User Success :vishnu_sgr
+2021-02-01 16:30:49.6722 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2021-02-01 16:30:49.8856 INFO Get MF2 List Success
+2021-02-01 16:30:50.2305 INFO Get User Success :vishnu_sgr

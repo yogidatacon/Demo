@@ -1,0 +1,763 @@
+D:\BHIHAR\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+D:\BHIHAR\UserMgmt\UserMgmt\bin\NLog.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\ApplicationInsights.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\msvcr100.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\msvcr100.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\UserMgmt.dll.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\UserMgmt.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\csc.exe
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\csc.exe.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\csc.rsp
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\csi.exe
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\csi.exe.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\csi.rsp
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.AppContext.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Collections.Immutable.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Console.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Globalization.Calendars.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Net.Http.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Net.Sockets.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Reflection.Metadata.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.ValueTuple.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\vbc.exe
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\vbc.exe.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\vbc.rsp
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe
+D:\BHIHAR\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe.config
+D:\BHIHAR\UserMgmt\UserMgmt\bin\AutoMapper.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\JasperServer.Client.Core.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Common.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.DataVisualization.DLL
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Design.DLL
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebDesign.DLL
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WinForms.DLL
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.SqlServer.Types.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Newtonsoft.Json.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\NLog.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.Threading.Thread.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.ValueTuple.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Usermngt.BL.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Usermngt.Entities.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Usermngt.DAL.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\EnvDTE.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\EnvDTE80.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\VSLangProj.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\VSLangProj80.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\VSLangProj2.dll
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Usermngt.BL.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Usermngt.Entities.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\bin\AutoMapper.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\bin\AutoMapper.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Newtonsoft.Json.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\NLog.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\System.ValueTuple.xml
+D:\BHIHAR\UserMgmt\UserMgmt\bin\Usermngt.DAL.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+D:\BHIHAR\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\ApplicationInsights.config
+D:\IEMS\UserMgmt\UserMgmt\bin\NLog.config
+D:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\msvcr100.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\msvcr100.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\UserMgmt.dll.config
+D:\IEMS\UserMgmt\UserMgmt\bin\UserMgmt.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csc.exe
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csc.exe.config
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csc.rsp
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csi.exe
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csi.exe.config
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csi.rsp
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.AppContext.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Collections.Immutable.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Console.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Globalization.Calendars.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Net.Http.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Net.Sockets.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Reflection.Metadata.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.ValueTuple.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\vbc.exe
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\vbc.exe.config
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\vbc.rsp
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe
+D:\IEMS\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe.config
+D:\IEMS\UserMgmt\UserMgmt\bin\AutoMapper.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\DotNetZip.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\FusionExport.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Glob.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\HtmlAgilityPack.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\JasperServer.Client.Core.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Common.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.DataVisualization.DLL
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Design.DLL
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebDesign.DLL
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WinForms.DLL
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.SqlServer.Types.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Newtonsoft.Json.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\NLog.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.IO.FileSystem.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.IO.FileSystem.Primitives.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Threading.Thread.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\System.ValueTuple.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\TimePicker.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.BL.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.Entities.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.DAL.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\EnvDTE.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\EnvDTE80.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\VSLangProj.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\VSLangProj80.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\VSLangProj2.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.BL.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.Entities.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\AutoMapper.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\AutoMapper.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\DotNetZip.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\DotNetZip.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\HtmlAgilityPack.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\HtmlAgilityPack.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Newtonsoft.Json.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\NLog.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\System.ValueTuple.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.DAL.pdb
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.OLE.Interop.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Data.Services.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Data.Core.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.ManagedInterfaces.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+D:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csproj.App.config
+D:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+D:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+D:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb
+D:\final\UserMgmt\UserMgmt\bin\ApplicationInsights.config
+D:\final\UserMgmt\UserMgmt\bin\NLog.config
+D:\final\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\msvcr100.dll
+D:\final\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\final\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\msvcr100.dll
+D:\final\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\final\UserMgmt\UserMgmt\bin\UserMgmt.dll.config
+D:\final\UserMgmt\UserMgmt\bin\UserMgmt.pdb
+D:\final\UserMgmt\UserMgmt\bin\roslyn\csc.exe
+D:\final\UserMgmt\UserMgmt\bin\roslyn\csc.exe.config
+D:\final\UserMgmt\UserMgmt\bin\roslyn\csc.rsp
+D:\final\UserMgmt\UserMgmt\bin\roslyn\csi.exe
+D:\final\UserMgmt\UserMgmt\bin\roslyn\csi.exe.config
+D:\final\UserMgmt\UserMgmt\bin\roslyn\csi.rsp
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.AppContext.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Collections.Immutable.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Console.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Globalization.Calendars.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Net.Http.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Net.Sockets.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Reflection.Metadata.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.ValueTuple.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final\UserMgmt\UserMgmt\bin\roslyn\vbc.exe
+D:\final\UserMgmt\UserMgmt\bin\roslyn\vbc.exe.config
+D:\final\UserMgmt\UserMgmt\bin\roslyn\vbc.rsp
+D:\final\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe
+D:\final\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe.config
+D:\final\UserMgmt\UserMgmt\bin\AutoMapper.dll
+D:\final\UserMgmt\UserMgmt\bin\DotNetZip.dll
+D:\final\UserMgmt\UserMgmt\bin\FusionExport.dll
+D:\final\UserMgmt\UserMgmt\bin\Glob.dll
+D:\final\UserMgmt\UserMgmt\bin\HtmlAgilityPack.dll
+D:\final\UserMgmt\UserMgmt\bin\JasperServer.Client.Core.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Common.dll
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.DataVisualization.DLL
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Design.DLL
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebDesign.DLL
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WinForms.DLL
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.SqlServer.Types.dll
+D:\final\UserMgmt\UserMgmt\bin\Newtonsoft.Json.dll
+D:\final\UserMgmt\UserMgmt\bin\NLog.dll
+D:\final\UserMgmt\UserMgmt\bin\System.IO.FileSystem.dll
+D:\final\UserMgmt\UserMgmt\bin\System.IO.FileSystem.Primitives.dll
+D:\final\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.dll
+D:\final\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.dll
+D:\final\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\final\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.dll
+D:\final\UserMgmt\UserMgmt\bin\System.Threading.Thread.dll
+D:\final\UserMgmt\UserMgmt\bin\System.ValueTuple.dll
+D:\final\UserMgmt\UserMgmt\bin\Usermngt.BL.dll
+D:\final\UserMgmt\UserMgmt\bin\Usermngt.Entities.dll
+D:\final\UserMgmt\UserMgmt\bin\Usermngt.DAL.dll
+D:\final\UserMgmt\UserMgmt\bin\EnvDTE.dll
+D:\final\UserMgmt\UserMgmt\bin\EnvDTE80.dll
+D:\final\UserMgmt\UserMgmt\bin\VSLangProj.dll
+D:\final\UserMgmt\UserMgmt\bin\VSLangProj80.dll
+D:\final\UserMgmt\UserMgmt\bin\VSLangProj2.dll
+D:\final\UserMgmt\UserMgmt\bin\Usermngt.BL.pdb
+D:\final\UserMgmt\UserMgmt\bin\Usermngt.Entities.pdb
+D:\final\UserMgmt\UserMgmt\bin\AutoMapper.pdb
+D:\final\UserMgmt\UserMgmt\bin\AutoMapper.xml
+D:\final\UserMgmt\UserMgmt\bin\DotNetZip.pdb
+D:\final\UserMgmt\UserMgmt\bin\DotNetZip.xml
+D:\final\UserMgmt\UserMgmt\bin\HtmlAgilityPack.pdb
+D:\final\UserMgmt\UserMgmt\bin\HtmlAgilityPack.xml
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.xml
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.xml
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.xml
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.xml
+D:\final\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final\UserMgmt\UserMgmt\bin\Newtonsoft.Json.xml
+D:\final\UserMgmt\UserMgmt\bin\NLog.xml
+D:\final\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.xml
+D:\final\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.xml
+D:\final\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\final\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.xml
+D:\final\UserMgmt\UserMgmt\bin\System.ValueTuple.xml
+D:\final\UserMgmt\UserMgmt\bin\Usermngt.DAL.pdb
+D:\final\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csproj.App.config
+D:\final\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+D:\final\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+D:\final\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\ApplicationInsights.config
+E:\IEMS\UserMgmt\UserMgmt\bin\NLog.config
+E:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\msvcr100.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\msvcr100.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\UserMgmt.dll.config
+E:\IEMS\UserMgmt\UserMgmt\bin\UserMgmt.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csc.exe
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csc.exe.config
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csc.rsp
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csi.exe
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csi.exe.config
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\csi.rsp
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.AppContext.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Collections.Immutable.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Console.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Globalization.Calendars.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Net.Http.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Net.Sockets.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Reflection.Metadata.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.ValueTuple.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\vbc.exe
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\vbc.exe.config
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\vbc.rsp
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe
+E:\IEMS\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe.config
+E:\IEMS\UserMgmt\UserMgmt\bin\AutoMapper.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\DotNetZip.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\FusionExport.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Glob.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\HtmlAgilityPack.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\JasperServer.Client.Core.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Common.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.DataVisualization.DLL
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Design.DLL
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebDesign.DLL
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WinForms.DLL
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.SqlServer.Types.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Newtonsoft.Json.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\NLog.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.IO.FileSystem.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.IO.FileSystem.Primitives.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Threading.Thread.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\System.ValueTuple.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.BL.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.Entities.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.DAL.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\EnvDTE.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\EnvDTE80.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\VSLangProj.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\VSLangProj80.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\VSLangProj2.dll
+E:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.BL.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.Entities.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\AutoMapper.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\AutoMapper.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\DotNetZip.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\DotNetZip.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\HtmlAgilityPack.pdb
+E:\IEMS\UserMgmt\UserMgmt\bin\HtmlAgilityPack.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Newtonsoft.Json.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\NLog.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\System.ValueTuple.xml
+E:\IEMS\UserMgmt\UserMgmt\bin\Usermngt.DAL.pdb
+E:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csproj.App.config
+E:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+E:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+E:\IEMS\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\ApplicationInsights.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\NLog.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\msvcr100.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\msvcr100.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\UserMgmt.dll.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\UserMgmt.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\csc.exe
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\csc.exe.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\csc.rsp
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\csi.exe
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\csi.exe.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\csi.rsp
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.AppContext.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Collections.Immutable.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Console.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Globalization.Calendars.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Net.Http.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Net.Sockets.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Reflection.Metadata.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.ValueTuple.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\vbc.exe
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\vbc.exe.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\vbc.rsp
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\AutoMapper.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\DotNetZip.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\FusionCharts.DataEngine.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\FusionCharts.Visualization.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\FusionExport.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Glob.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\HtmlAgilityPack.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\JasperServer.Client.Core.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Common.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.DataVisualization.DLL
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Design.DLL
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebDesign.DLL
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WinForms.DLL
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.SqlServer.Types.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Newtonsoft.Json.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\NLog.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.IO.FileSystem.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.IO.FileSystem.Primitives.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Threading.Thread.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.ValueTuple.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Usermngt.BL.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Usermngt.Entities.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Usermngt.DAL.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\EnvDTE.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\EnvDTE80.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\VSLangProj.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\VSLangProj80.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\VSLangProj2.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Usermngt.BL.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Usermngt.Entities.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\AutoMapper.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\AutoMapper.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\DotNetZip.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\DotNetZip.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\HtmlAgilityPack.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\HtmlAgilityPack.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Newtonsoft.Json.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\NLog.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\System.ValueTuple.xml
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\bin\Usermngt.DAL.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csproj.App.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\ApplicationInsights.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\NLog.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\msvcr100.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\msvcr100.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\UserMgmt.dll.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\UserMgmt.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\csc.exe
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\csc.exe.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\csc.rsp
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\csi.exe
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\csi.exe.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\csi.rsp
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Managed.Core.targets
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.AppContext.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Collections.Immutable.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Console.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Globalization.Calendars.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Net.Http.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Net.Sockets.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Reflection.Metadata.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.ValueTuple.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XmlDocument.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\vbc.exe
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\vbc.exe.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\vbc.rsp
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe
+E:\partha\New folder\UserMgmt\UserMgmt\bin\roslyn\VBCSCompiler.exe.config
+E:\partha\New folder\UserMgmt\UserMgmt\bin\AutoMapper.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\DotNetZip.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\FusionExport.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Glob.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\HtmlAgilityPack.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\JasperServer.Client.Core.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Common.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.DataVisualization.DLL
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.Design.DLL
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebDesign.DLL
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ReportViewer.WinForms.DLL
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.SqlServer.Types.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Newtonsoft.Json.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\NLog.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.IO.FileSystem.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.IO.FileSystem.Primitives.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Threading.Thread.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.ValueTuple.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Usermngt.BL.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Usermngt.Entities.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Usermngt.DAL.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\EnvDTE.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\EnvDTE80.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\VSLangProj.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\VSLangProj80.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\VSLangProj2.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Usermngt.BL.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Usermngt.Entities.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\AutoMapper.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\AutoMapper.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\DotNetZip.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\DotNetZip.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\HtmlAgilityPack.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\HtmlAgilityPack.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.DependencyCollector.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.Web.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.AI.WindowsServer.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.ApplicationInsights.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Newtonsoft.Json.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\NLog.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Net.Http.Extensions.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Net.Http.Primitives.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.Threading.Tasks.Extensions.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\System.ValueTuple.xml
+E:\partha\New folder\UserMgmt\UserMgmt\bin\Usermngt.DAL.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csproj.App.config
+E:\partha\New folder\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+E:\partha\New folder\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+E:\partha\New folder\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\bin\MSCaptcha.dll
+E:\partha\New folder\UserMgmt\UserMgmt\bin\MSCaptcha.xml
+E:\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csproj.App.config
+E:\UserMgmt\UserMgmt\obj\Debug\UserMgmt.csprojResolveAssemblyReference.cache
+E:\UserMgmt\UserMgmt\obj\Debug\UserMgmt.dll
+E:\UserMgmt\UserMgmt\obj\Debug\UserMgmt.pdb

@@ -1,0 +1,277 @@
+2021-06-23 11:21:28.1929 INFO Get User Success :353-M and TP Unit
+2021-06-23 11:22:08.2595 INFO Get User Success :353-M and TP Unit
+2021-06-23 11:22:08.6655 INFO Get User Success :mtp1
+2021-06-23 11:22:30.8822 INFO Get User Success :353-M and TP Unit
+2021-06-23 11:22:41.0366 INFO Get User Success :mtp1
+2021-06-23 11:22:47.4762 INFO Get User Success :353-M and TP Unit
+2021-06-23 11:22:48.8861 INFO Get Allotment List Success
+2021-06-23 11:22:49.1911 INFO Get Product Master List Success
+2021-06-23 11:22:49.2641 INFO Get UOM List Success
+2021-06-23 11:22:49.3580 INFO Get User Success :mtp1
+2021-06-23 11:49:38.7115 INFO Get User Success :101-Commissioner
+2021-06-23 11:49:40.1963 INFO Get User Success :101-Commissioner
+2021-06-23 11:49:41.1943 INFO Get User Success :com
+2021-06-23 12:40:47.9020 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:40:48.2920 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:40:48.8209 INFO Get User Success :mtp1
+2021-06-23 12:40:53.4947 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:40:59.3363 INFO Get User Success :mtp1
+2021-06-23 12:41:02.5201 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:41:07.0638 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:41:07.1629 INFO Get License_Type List Success
+2021-06-23 12:41:07.2719 INFO Get License Fee List Success
+2021-06-23 12:41:07.3928 INFO Get State List Success
+2021-06-23 12:41:17.7182 INFO Get Division List Success
+2021-06-23 12:43:15.0152 INFO Get User Success :mtp1
+2021-06-23 12:48:13.5013 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 12:48:14.0372 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 12:48:14.2833 INFO Get User Success :globus_dis
+2021-06-23 12:49:11.3608 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 12:54:04.1843 INFO Get User Success :globus_dis
+2021-06-23 12:54:23.5592 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 12:56:32.8655 INFO Get User Success :globus_dis
+2021-06-23 12:58:13.7708 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:58:14.0687 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:58:14.3907 INFO Get User Success :mtp1
+2021-06-23 12:58:18.5694 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:58:21.6242 INFO Get User Success :mtp1
+2021-06-23 12:58:24.6021 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:58:27.7819 INFO Get User Success :353-M and TP Unit
+2021-06-23 12:58:27.8579 INFO Get License_Type List Success
+2021-06-23 12:58:27.9389 INFO Get License Fee List Success
+2021-06-23 12:58:28.0229 INFO Get State List Success
+2021-06-23 12:58:28.1768 INFO Get User Success :mtp1
+2021-06-23 12:58:50.5985 INFO Get Division List Success
+2021-06-23 12:59:12.8972 INFO Get Existing data Success : lic_application
+2021-06-23 12:59:28.0697 INFO Get Existing data Success : lic_application
+2021-06-23 12:59:43.7265 INFO Get Existing data Success : lic_application
+2021-06-23 13:00:11.2495 INFO Get Existing data Success : lic_application
+2021-06-23 13:00:27.2407 INFO Get Existing data Success : lic_application
+2021-06-23 13:00:38.2289 INFO Get Existing data Fail :lic_application
+2021-06-23 13:00:39.4908 INFO Get License_Type List Success
+2021-06-23 13:03:41.1656 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:03:43.8134 INFO Get User Success :mtp1
+2021-06-23 13:03:57.5086 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:04:00.2484 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:04:00.3344 INFO Get License_Type List Success
+2021-06-23 13:04:00.4174 INFO Get License Fee List Success
+2021-06-23 13:04:00.4904 INFO Get State List Success
+2021-06-23 13:04:05.2551 INFO Get Division List Success
+2021-06-23 13:04:11.1208 INFO Get User Success :mtp1
+2021-06-23 13:04:31.0836 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:04:58.1420 INFO Get User Success :mtp1
+2021-06-23 13:05:59.9163 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:06:26.6777 INFO Get User Success :mtp1
+2021-06-23 13:06:36.0268 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:06:46.4332 INFO Get User Success :mtp1
+2021-06-23 13:06:51.8869 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:06:54.0788 INFO Get Allotment List Success
+2021-06-23 13:06:54.2118 INFO Get User Success :mtp1
+2021-06-23 13:07:00.7754 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:07:04.6171 INFO Get User Success :mtp1
+2021-06-23 13:07:14.5155 INFO Get User Success :353-M and TP Unit
+2021-06-23 13:08:29.2351 INFO Get User Success :mtp1
+2021-06-23 13:08:53.3579 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:08:53.6439 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:08:54.5038 INFO Get User Success :harinagar_dis
+2021-06-23 13:09:05.0342 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:09:08.8350 INFO Get User Success :harinagar_dis
+2021-06-23 13:09:11.8948 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:09:12.5458 INFO Get User Success :harinagar_dis
+2021-06-23 13:09:44.6218 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:09:44.8028 INFO Get UOM List Success
+2021-06-23 13:09:47.0557 INFO Get User Success :harinagar_dis
+2021-06-23 13:10:03.0027 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:10:03.7897 INFO Get User Success :harinagar_dis
+2021-06-23 13:13:29.6644 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:13:30.2024 INFO Get User Success :harinagar_dis
+2021-06-23 13:13:37.5039 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:23:07.7728 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:23:19.2521 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:23:20.3540 INFO Get User Success :harinagar_dis
+2021-06-23 13:23:30.2614 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:25:51.2050 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:25:52.4899 INFO Get User Success :harinagar_dis
+2021-06-23 13:25:54.0828 INFO Get User Success :harinagar_dis
+2021-06-23 13:26:18.6204 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:26:19.3303 INFO Get User Success :harinagar_dis
+2021-06-23 13:26:37.7892 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:31:22.4552 INFO Get User Success :harinagar_dis
+2021-06-23 13:31:42.7990 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:31:44.0710 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:31:49.2247 INFO Get User Success :harinagar_dis
+2021-06-23 13:31:54.9743 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:31:58.4771 INFO Get User Success :harinagar_dis
+2021-06-23 13:32:01.0849 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:32:03.9098 INFO Get User Success :harinagar_dis
+2021-06-23 13:32:09.0365 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:33:54.3552 INFO Get User Success :harinagar_dis
+2021-06-23 13:33:57.3050 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:33:59.8349 INFO Get User Success :harinagar_dis
+2021-06-23 13:34:22.3956 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:34:22.6345 INFO Get UOM List Success
+2021-06-23 13:34:26.5873 INFO Get User Success :harinagar_dis
+2021-06-23 13:34:27.4232 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:34:30.7900 INFO Get User Success :harinagar_dis
+2021-06-23 13:34:33.5039 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:36:12.3549 INFO Get User Success :harinagar_dis
+2021-06-23 13:36:17.8937 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:36:21.0324 INFO Get User Success :harinagar_dis
+2021-06-23 13:36:24.3432 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:36:29.8139 INFO Get User Success :harinagar_dis
+2021-06-23 13:36:34.6727 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:36:34.8416 INFO Get UOM List Success
+2021-06-23 13:36:40.2103 INFO Get User Success :harinagar_dis
+2021-06-23 13:36:42.9361 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:37:00.4121 INFO Get User Success :harinagar_dis
+2021-06-23 13:37:31.5773 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:38:42.7020 INFO Get User Success :harinagar_dis
+2021-06-23 13:38:45.8528 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:38:50.8725 INFO Get User Success :harinagar_dis
+2021-06-23 13:41:52.6326 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:42:08.5717 INFO Get User Success :harinagar_dis
+2021-06-23 13:42:13.4964 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:42:16.6842 INFO Get User Success :harinagar_dis
+2021-06-23 13:48:36.0074 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:48:36.4393 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:48:37.3573 INFO Get User Success :harinagar_dis
+2021-06-23 13:48:54.0873 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:49:00.8279 INFO Get User Success :harinagar_dis
+2021-06-23 13:49:08.7574 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 13:50:17.5923 INFO Get User Success :harinagar_dis
+2021-06-23 14:18:49.4936 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:19:13.9382 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:19:14.3581 INFO Get User Success :mtp1
+2021-06-23 14:19:26.0664 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:19:32.3270 INFO Get User Success :mtp1
+2021-06-23 14:19:36.4898 INFO Get GetSeverList Success
+2021-06-23 14:22:27.8635 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:22:30.6384 INFO Get Report  Success
+2021-06-23 14:22:31.2353 INFO Get Party Master List Success
+2021-06-23 14:22:31.3303 INFO Get User Success :mtp1
+2021-06-23 14:22:42.0118 INFO Get VAT Master List Success
+2021-06-23 14:23:09.3906 INFO Get GetSeverList Success
+2021-06-23 14:45:29.9917 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:45:30.5136 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:45:30.8626 INFO Get User Success :mtp1
+2021-06-23 14:46:11.2252 INFO Get User Success :353-M and TP Unit
+2021-06-23 14:46:16.1696 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 14:46:16.4556 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 14:46:17.0395 INFO Get User Success :harinagar_dis
+2021-06-23 14:46:39.5292 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-06-23 14:46:46.3288 INFO Get User Success :harinagar_dis
+2021-06-23 14:47:15.9980 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:47:16.2499 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:47:16.7379 INFO Get User Success :newswadeshi_dis
+2021-06-23 14:47:29.5351 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:47:33.2379 INFO Get User Success :newswadeshi_dis
+2021-06-23 14:47:47.2580 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:47:47.4600 INFO Get User Success :newswadeshi_dis
+2021-06-23 14:47:59.5372 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:47:59.8802 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:48:00.1732 INFO Get Form84 List Success
+2021-06-23 14:48:00.2932 INFO Get User Success :newswadeshi_dis
+2021-06-23 14:48:02.8950 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-06-23 14:48:03.2020 INFO Get VAT Master List Success
+2021-06-23 14:48:03.3030 INFO Get User Success :newswadeshi_dis
+2021-06-23 16:15:55.5909 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 16:15:56.0159 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 16:15:56.5898 INFO Get User Success :globus_dis
+2021-06-23 16:16:02.0645 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 16:16:48.5527 INFO Get User Success :globus_dis
+2021-06-23 16:16:55.8494 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 16:16:55.9753 INFO Get Dispach Master List Success
+2021-06-23 16:20:48.7258 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 16:20:48.8058 INFO Get Dispach Master List Success
+2021-06-23 16:20:51.8086 INFO Get VAT Master List Success
+2021-06-23 16:20:53.0675 INFO Get User Success :globus_dis
+2021-06-23 16:22:26.5889 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 16:22:35.4573 INFO Get User Success :globus_dis
+2021-06-23 16:58:36.1850 INFO Get User Success :353-M and TP Unit
+2021-06-23 16:58:36.6590 INFO Get User Success :353-M and TP Unit
+2021-06-23 16:58:37.0450 INFO Get User Success :mtp1
+2021-06-23 16:58:42.7056 INFO Get User Success :353-M and TP Unit
+2021-06-23 16:58:47.5193 INFO Get Report  Success
+2021-06-23 16:58:49.6632 INFO Get Party Master List Success
+2021-06-23 16:58:49.7562 INFO Get User Success :mtp1
+2021-06-23 16:59:22.1429 INFO Get GetSeverList Success
+2021-06-23 17:17:18.7038 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:17:19.2177 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:17:19.5497 INFO Get User Success :mtp1
+2021-06-23 17:17:25.1344 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:17:29.3081 INFO Get User Success :mtp1
+2021-06-23 17:17:35.2638 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:17:37.3546 INFO Get Allotment List Success
+2021-06-23 17:17:37.7716 INFO Get Product Master List Success
+2021-06-23 17:17:37.8446 INFO Get UOM List Success
+2021-06-23 17:17:37.9306 INFO Get User Success :mtp1
+2021-06-23 17:17:54.3966 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:17:57.3045 INFO Get User Success :mtp1
+2021-06-23 17:18:01.4852 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:18:04.8580 INFO Get Allotment List Success
+2021-06-23 17:18:05.9849 INFO Get Product Master List Success
+2021-06-23 17:18:06.0529 INFO Get UOM List Success
+2021-06-23 17:18:10.0637 INFO Get Allotment Details Success
+2021-06-23 17:18:13.7155 INFO Get User Success :mtp1
+2021-06-23 17:18:22.5240 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:18:25.0968 INFO Get User Success :mtp1
+2021-06-23 17:18:29.4875 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:18:31.8264 INFO Get Allotment List Success
+2021-06-23 17:18:32.1534 INFO Get Product Master List Success
+2021-06-23 17:18:32.2234 INFO Get UOM List Success
+2021-06-23 17:18:35.0042 INFO Get Allotment Details Success
+2021-06-23 17:18:41.3169 INFO Get User Success :mtp1
+2021-06-23 17:19:03.8145 INFO Get User Success :354-M and TP Bond Officer
+2021-06-23 17:19:04.1325 INFO Get User Success :354-M and TP Bond Officer
+2021-06-23 17:19:04.2195 INFO Get User Success :mtp1_bo
+2021-06-23 17:19:12.5210 INFO Get User Success :354-M and TP Bond Officer
+2021-06-23 17:19:20.4833 INFO Get User Success :341-Assistant Commissioner
+2021-06-23 17:19:20.7353 INFO Get User Success :341-Assistant Commissioner
+2021-06-23 17:19:20.8083 INFO Get User Success :bhedo
+2021-06-23 17:19:24.5991 INFO Get User Success :341-Assistant Commissioner
+2021-06-23 17:19:28.2869 INFO Get User Success :bhedo
+2021-06-23 17:19:37.3453 INFO Get User Success :341-Assistant Commissioner
+2021-06-23 17:19:40.1302 INFO Get Allotment List Success
+2021-06-23 17:19:40.4741 INFO Get Product Master List Success
+2021-06-23 17:19:40.5411 INFO Get UOM List Success
+2021-06-23 17:19:43.4450 INFO Get Allotment Details Success
+2021-06-23 17:19:47.9647 INFO Get User Success :bhedo
+2021-06-23 17:20:23.1006 INFO Get User Success :341-Assistant Commissioner
+2021-06-23 17:20:25.5954 INFO Get User Success :bhedo
+2021-06-23 17:52:42.3426 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:52:51.1731 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:52:51.5010 INFO Get User Success :mtp1
+2021-06-23 17:53:23.9971 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:53:29.0238 INFO Get User Success :mtp1
+2021-06-23 17:53:51.2785 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:53:55.4302 INFO Get User Success :mtp1
+2021-06-23 17:54:04.0708 INFO Get User Success :353-M and TP Unit
+2021-06-23 17:54:22.3859 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:54:22.7889 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:54:22.9878 INFO Get User Success :globus_dis
+2021-06-23 17:54:34.1722 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:54:41.3827 INFO Get User Success :globus_dis
+2021-06-23 17:54:51.8641 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:54:52.1081 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:54:56.7669 INFO Get User Success :globus_dis
+2021-06-23 17:55:17.8376 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:55:25.4282 INFO Get User Success :globus_dis
+2021-06-23 17:55:28.7969 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:55:28.9799 INFO Get Dispach Master List Success
+2021-06-23 17:55:31.5148 INFO Get VAT Master List Success
+2021-06-23 17:55:32.7687 INFO Get User Success :globus_dis
+2021-06-23 17:55:39.1903 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:55:39.4973 INFO Get Pass List Success
+2021-06-23 17:55:39.6113 INFO Get User Success :globus_dis
+2021-06-23 17:55:43.5960 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:55:50.2376 INFO Get User Success :globus_dis
+2021-06-23 17:55:53.8575 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:55:53.9414 INFO Get Dispach Master List Success
+2021-06-23 17:59:23.3379 INFO Get VAT Master List Success
+2021-06-23 17:59:26.7927 INFO Get User Success :globus_dis
+2021-06-23 17:59:31.5725 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:59:37.6781 INFO Get User Success :globus_dis
+2021-06-23 17:59:41.3578 INFO Get User Success :350-Globus Spirits Limited
+2021-06-23 17:59:41.4328 INFO Get Dispach Master List Success
+2021-06-23 17:59:46.7345 INFO Get VAT Master List Success
+2021-06-23 17:59:47.1895 INFO Get User Success :globus_dis

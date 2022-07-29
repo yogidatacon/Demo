@@ -1,0 +1,134 @@
+2021-08-19 13:53:38.7266 INFO Get User Success :341-Globus Spirits Limited
+2021-08-19 13:53:39.7345 INFO Get User Success :341-Globus Spirits Limited
+2021-08-19 13:53:42.1834 INFO Get Product Type Master List Success
+2021-08-19 13:53:42.3383 INFO Get User Success :globus_dis
+2021-08-19 13:54:12.4496 INFO Get User Fail :-Exception while reading from stream
+2021-08-19 17:22:11.0137 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:22:11.8587 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:22:16.3434 INFO Get Product Type Master List Success
+2021-08-19 17:22:16.4774 INFO Get User Success :riga_dis
+2021-08-19 17:22:23.2679 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:22:27.1817 INFO Get Product Type Master List Success
+2021-08-19 17:22:27.3887 INFO Get User Success :riga_dis
+2021-08-19 17:22:35.8541 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:22:36.1291 INFO Get VAT Master List Success
+2021-08-19 17:22:36.2241 INFO Get Product Type Master List Success
+2021-08-19 17:22:36.2891 INFO Get User Success :riga_dis
+2021-08-19 17:22:42.9347 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:22:43.0307 INFO Get VAT Master List Success
+2021-08-19 17:22:47.5164 INFO Get Product Type Master List Success
+2021-08-19 17:22:47.6194 INFO Get User Success :riga_dis
+2021-08-19 17:22:58.6277 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:22:58.8177 INFO Get VAT Master List Success
+2021-08-19 17:22:58.8896 INFO Get Product Type Master List Success
+2021-08-19 17:22:58.9726 INFO Get User Success :riga_dis
+2021-08-19 17:23:04.8743 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:23:04.9473 INFO Get VAT Master List Success
+2021-08-19 17:23:05.0763 INFO Get Product Type Master List Success
+2021-08-19 17:23:05.2022 INFO Get User Success :riga_dis
+2021-08-19 17:23:16.9385 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:23:19.8463 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:25:08.9863 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:25:09.4662 INFO Get VAT Master List Success
+2021-08-19 17:25:09.5172 INFO Get Product Type Master List Success
+2021-08-19 17:25:09.6242 INFO Get User Success :riga_dis
+2021-08-19 17:25:42.0691 INFO Get User Success :351-Globus Spirits Limited, Bond Officer
+2021-08-19 17:25:42.3561 INFO Get User Success :351-Globus Spirits Limited, Bond Officer
+2021-08-19 17:25:43.2261 INFO Get Product Type Master List Success
+2021-08-19 17:25:43.2961 INFO Get User Success :globus_disbo
+2021-08-19 17:25:51.6035 INFO Get User Success :351-Globus Spirits Limited, Bond Officer
+2021-08-19 17:25:52.1615 INFO Get User Success :351-Globus Spirits Limited, Bond Officer
+2021-08-19 17:25:55.7043 INFO Get Product Type Master List Success
+2021-08-19 17:25:55.7832 INFO Get User Success :globus_disbo
+2021-08-19 17:26:09.0954 INFO Get User Success :351-Globus Spirits Limited, Bond Officer
+2021-08-19 17:26:09.4314 INFO Get VAT Master List Success
+2021-08-19 17:26:09.4894 INFO Get Product Type Master List Success
+2021-08-19 17:26:09.5554 INFO Get User Success :globus_disbo
+2021-08-19 17:26:36.7696 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:26:37.0656 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:26:39.5424 INFO Get Product Type Master List Success
+2021-08-19 17:26:39.6054 INFO Get User Success :riga_disbo
+2021-08-19 17:26:44.6781 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:26:47.5639 INFO Get Product Type Master List Success
+2021-08-19 17:26:47.6369 INFO Get User Success :riga_disbo
+2021-08-19 17:26:50.7977 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:26:51.0937 INFO Get VAT Master List Success
+2021-08-19 17:26:51.1557 INFO Get Product Type Master List Success
+2021-08-19 17:26:51.2117 INFO Get User Success :riga_disbo
+2021-08-19 17:26:57.0243 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:26:57.1903 INFO Get VAT Master List Success
+2021-08-19 17:27:01.2710 INFO Get Product Type Master List Success
+2021-08-19 17:27:01.4001 INFO Get User Success :riga_disbo
+2021-08-19 17:27:17.8930 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:27:17.9570 INFO Get VAT Master List Success
+2021-08-19 17:28:14.4903 INFO Get Product Type Master List Success
+2021-08-19 17:28:14.6003 INFO Get User Success :riga_disbo
+2021-08-19 17:28:30.7113 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:28:30.7883 INFO Get VAT Master List Success
+2021-08-19 17:28:50.4530 INFO Get Product Type Master List Success
+2021-08-19 17:28:50.5960 INFO Get User Success :riga_disbo
+2021-08-19 17:28:54.6217 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:28:55.2887 INFO Get VAT Master List Success
+2021-08-19 17:28:55.3407 INFO Get Product Type Master List Success
+2021-08-19 17:28:55.4137 INFO Get User Success :riga_disbo
+2021-08-19 17:29:03.6191 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:29:03.6742 INFO Get VAT Master List Success
+2021-08-19 17:29:08.8248 INFO Get Product Type Master List Success
+2021-08-19 17:29:08.9028 INFO Get User Success :riga_disbo
+2021-08-19 17:29:15.4434 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:29:16.0513 INFO Get VAT Master List Success
+2021-08-19 17:29:16.1223 INFO Get Product Type Master List Success
+2021-08-19 17:29:16.2254 INFO Get User Success :riga_disbo
+2021-08-19 17:29:55.5618 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:29:55.6228 INFO Get VAT Master List Success
+2021-08-19 17:31:42.6559 INFO Get Product Type Master List Success
+2021-08-19 17:31:43.7818 INFO Get User Success :riga_disbo
+2021-08-19 17:31:51.9753 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:31:52.0313 INFO Get VAT Master List Success
+2021-08-19 17:31:54.8021 INFO Get Product Type Master List Success
+2021-08-19 17:31:54.9541 INFO Get User Success :riga_disbo
+2021-08-19 17:32:00.5307 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:32:01.1838 INFO Get VAT Master List Success
+2021-08-19 17:32:01.2537 INFO Get Product Type Master List Success
+2021-08-19 17:32:01.3587 INFO Get User Success :riga_disbo
+2021-08-19 17:32:07.7183 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:32:07.7693 INFO Get VAT Master List Success
+2021-08-19 17:40:25.9812 INFO Get Product Type Master List Success
+2021-08-19 17:40:26.0902 INFO Get User Success :riga_disbo
+2021-08-19 17:40:32.8977 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:40:33.2847 INFO Get VAT Master List Success
+2021-08-19 17:40:33.3377 INFO Get Product Type Master List Success
+2021-08-19 17:40:33.4117 INFO Get User Success :riga_disbo
+2021-08-19 17:40:41.2222 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:44:58.4066 INFO Get VAT Master List Success
+2021-08-19 17:45:00.4205 INFO Get Product Type Master List Success
+2021-08-19 17:45:00.5485 INFO Get User Success :riga_disbo
+2021-08-19 17:46:35.8284 INFO Form83 Approve Sucess:459
+2021-08-19 17:46:35.9624 INFO Get User Success :133-Riga Distillery Division
+2021-08-19 17:46:36.4253 INFO Get VAT Master List Success
+2021-08-19 17:46:36.5003 INFO Get Product Type Master List Success
+2021-08-19 17:46:36.5853 INFO Get User Success :riga_disbo
+2021-08-19 17:46:54.6941 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:46:54.9361 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:46:58.6689 INFO Get Product Type Master List Success
+2021-08-19 17:46:58.9169 INFO Get User Success :riga_dis
+2021-08-19 17:47:05.1185 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:47:08.8452 INFO Get Product Type Master List Success
+2021-08-19 17:47:08.9683 INFO Get User Success :riga_dis
+2021-08-19 17:47:14.4579 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:47:14.9339 INFO Get VAT Master List Success
+2021-08-19 17:47:14.9848 INFO Get Product Type Master List Success
+2021-08-19 17:47:15.0718 INFO Get User Success :riga_dis
+2021-08-19 17:47:23.8763 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:47:26.1151 INFO Get VAT Master List Success
+2021-08-19 17:47:31.4998 INFO Get Product Type Master List Success
+2021-08-19 17:47:31.6188 INFO Get User Success :riga_dis
+2021-08-19 17:47:42.0771 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:47:42.5131 INFO Get VAT Master List Success
+2021-08-19 17:47:42.5791 INFO Get Product Type Master List Success
+2021-08-19 17:47:42.6921 INFO Get User Success :riga_dis
+2021-08-19 17:47:57.4991 INFO Get User Success :104-Riga Distillery Division
+2021-08-19 17:48:02.6638 INFO Get VAT Master List Success
+2021-08-19 17:48:02.7608 INFO Get Product Type Master List Success
+2021-08-19 17:48:02.8767 INFO Get User Success :riga_dis
+2021-08-19 17:48:08.5704 INFO Get User Success :104-Riga Distillery Division

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F198976F-4156-4D30-8D70-DF75F3FCEFF6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Usermngt.Entities</RootNamespace>
+    <AssemblyName>Usermngt.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\UserMgmt\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccessType.cs" />
+    <Compile Include="All_Approvals.cs" />
+    <Compile Include="aplliedfor.cs" />
+    <Compile Include="AssignParameter.cs" />
+    <Compile Include="bail_type_master.cs" />
+    <Compile Include="Bank_Master.cs" />
+    <Compile Include="BrandMaster.cs" />
+    <Compile Include="Call_Complaints.cs" />
+    <Compile Include="CaseMgtEntities.cs" />
+    <Compile Include="cm_article_category1.cs" />
+    <Compile Include="cm_seiz_AccusedDetails.cs" />
+    <Compile Include="cm_seiz_Accused_Status.cs" />
+    <Compile Include="cm_seiz_CurrencyCoins.cs" />
+    <Compile Include="cm_seiz_OffencesCommitted.cs" />
+    <Compile Include="cm_seiz_RaidTeam.cs" />
+    <Compile Include="cm_seiz_Witness.cs" />
+    <Compile Include="Compactor.cs" />
+    <Compile Include="Complaint.cs" />
+    <Compile Include="CustomerDetails.cs" />
+    <Compile Include="DailyDispatchClosure.cs" />
+    <Compile Include="DailyMolassesProduction_e.cs" />
+    <Compile Include="DalyMolasses_e.cs" />
+    <Compile Include="Department.cs" />
+    <Compile Include="Designation_Details.cs" />
+    <Compile Include="DigitalSignature.cs" />
+    <Compile Include="DispatchType.cs" />
+    <Compile Include="DistDesg.cs" />
+    <Compile Include="Distillation.cs" />
+    <Compile Include="DistillationToStore.cs" />
+    <Compile Include="Distillery.cs" />
+    <Compile Include="District.cs" />
+    <Compile Include="DistrictUser.cs" />
+    <Compile Include="Division.cs" />
+    <Compile Include="DocumentFormats.cs" />
+    <Compile Include="EASCM_DOCS.cs" />
+    <Compile Include="Employee_Details.cs" />
+    <Compile Include="ExciseDesg.cs" />
+    <Compile Include="ExciseType.cs" />
+    <Compile Include="FermenterSetUp.cs" />
+    <Compile Include="FermentertoReceiverForm_83.cs" />
+    <Compile Include="Financial_Years.cs" />
+    <Compile Include="Form82.cs" />
+    <Compile Include="FReceiverInput.cs" />
+    <Compile Include="FReceiverOuput.cs" />
+    <Compile Include="HD_DOCS.cs" />
+    <Compile Include="Helpdesk.cs" />
+    <Compile Include="Indent_Form.cs" />
+    <Compile Include="LabTechnician.cs" />
+    <Compile Include="LicenseApplication.cs" />
+    <Compile Include="LicenseFee.cs" />
+    <Compile Include="LicenseSubType.cs" />
+    <Compile Include="LicenseType.cs" />
+    <Compile Include="MF3_Details.cs" />
+    <Compile Include="Module_Master.cs" />
+    <Compile Include="Molasses_Allocation.cs" />
+    <Compile Include="Molasses_Delivery_Details_MF2.cs" />
+    <Compile Include="Molasses_Issue_Register.cs" />
+    <Compile Include="Molasses_Other_Delevery_MF2.cs" />
+    <Compile Include="Molasses_Production_MF2.cs" />
+    <Compile Include="Molasses_Storage_Details_MF2.cs" />
+    <Compile Include="NOC.cs" />
+    <Compile Include="NOC_Depot.cs" />
+    <Compile Include="NOC_Details.cs" />
+    <Compile Include="OpeningBalance.cs" />
+    <Compile Include="Org_Finacial_yr.cs" />
+    <Compile Include="Org_Master.cs" />
+    <Compile Include="ParameterMaster.cs" />
+    <Compile Include="Party_Master.cs" />
+    <Compile Include="Party_Type_Master.cs" />
+    <Compile Include="Pass_Details.cs" />
+    <Compile Include="Permit.cs" />
+    <Compile Include="Permit_item.cs" />
+    <Compile Include="PoliceDesg.cs" />
+    <Compile Include="PolType.cs" />
+    <Compile Include="Priority.cs" />
+    <Compile Include="Product_Master.cs" />
+    <Compile Include="ProductType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RawMaterial.cs" />
+    <Compile Include="RawMaterialReceipt.cs" />
+    <Compile Include="RawMaterialType.cs" />
+    <Compile Include="RawmaterialWastage.cs" />
+    <Compile Include="ReaquestForPass.cs" />
+    <Compile Include="ReceiptReceiverVat.cs" />
+    <Compile Include="ReceiverToStorage_84.cs" />
+    <Compile Include="ReceiverToStoragrTransfer.cs" />
+    <Compile Include="ReceivingSection.cs" />
+    <Compile Include="Release_Request.cs" />
+    <Compile Include="Reportmaster.cs" />
+    <Compile Include="RMR_Store.cs" />
+    <Compile Include="RoleLevel.cs" />
+    <Compile Include="RoleMaster.cs" />
+    <Compile Include="RolePermissions.cs" />
+    <Compile Include="RolePerssion_ViewModel.cs" />
+    <Compile Include="Seizure_Docs.cs" />
+    <Compile Include="Server_Configs.cs" />
+    <Compile Include="SizeMaster.cs" />
+    <Compile Include="State.cs" />
+    <Compile Include="StorageToDispatch.cs" />
+    <Compile Include="SubLiquor.cs" />
+    <Compile Include="SubModule_Master.cs" />
+    <Compile Include="SugarCanePurchase.cs" />
+    <Compile Include="SystemSetting.cs" />
+    <Compile Include="Tab_Master.cs" />
+    <Compile Include="Thana.cs" />
+    <Compile Include="ThanaMaster.cs" />
+    <Compile Include="Thana_Details.cs" />
+    <Compile Include="Ticketcategory.cs" />
+    <Compile Include="TicketHistory.cs" />
+    <Compile Include="TicketStatus.cs" />
+    <Compile Include="TypeOfLiquor.cs" />
+    <Compile Include="UOM_Master.cs" />
+    <Compile Include="UserDetails.cs" />
+    <Compile Include="UserPermissions.cs" />
+    <Compile Include="VATTransfers_.cs" />
+    <Compile Include="VatType.cs" />
+    <Compile Include="VAT_Master.cs" />
+    <Compile Include="WorkFlow.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

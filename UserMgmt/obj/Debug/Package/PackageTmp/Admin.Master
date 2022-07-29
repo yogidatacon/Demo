@@ -1,0 +1,770 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="UserMgmt.Admin" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>EXCISE AUTOMATION</title>
+    <link rel="shortcut icon" href="common/theme/assets/ico/fevicon.png">
+    <link href="common/theme/css/datatables/tools/css/dataTables.tableTools.css" rel="stylesheet">
+    <link href="common/theme/css/datatables/css/Grid_page_index_color.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="gobsymbol.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- chat style -->
+    <link href="cssres/homestyle.css" rel="stylesheet" type="text/css" />
+    <link href="cssres/chatstyle.css" rel="stylesheet" type="text/css" />
+
+    <link href="common/theme/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="common/theme/fonts/css/font-awesome.min.css" rel="stylesheet">
+    <link href="common/theme/css/animate.min.css" rel="stylesheet">
+
+    <!-- Custom styling plus plugins -->
+    <link href="common/theme/css/custom.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="common/theme/css/maps/jquery-jvectormap-2.0.1.css" />
+    <link href="common/theme/css/icheck/flat/green.css" rel="stylesheet" />
+    <link href="common/theme/css/floatexamples.css" rel="stylesheet" type="text/css" />
+
+    <script src="common/theme/js/jquery.min.js"></script>
+    <script src="common/theme/js/nprogress.js"></script>
+
+    <script src="common/theme/js/jquery.min.js"></script>
+    <script src="common/theme/js/nprogress.js"></script>
+    <script src="common/datepicker/jquery-1.10.2.js"></script>
+    <script src="common/datepicker/jquery-ui.js"></script>
+    <link rel="stylesheet" href="common/datepicker/jquery-ui.css">
+    <script src="common/datepicker/MonthPicker.min.js"></script>
+    <script src="common/datepicker/jquery.maskedinput.min.js"></script>
+    <link rel="stylesheet" href="common/datepicker/test.css">
+    <script src="common/js/customdatepicker.js"></script>
+    <!-- Jquery Validation Engine-->
+    <link rel="stylesheet" href="common/validate/validationEngine.jquery.css" type="text/css" />
+    <script src="common/validate/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="common/validate/jquery.validationEngine.js" type="text/javascript" charset="utf-8">
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="common/Timepicker/jquery.timepicker.css" />
+    <script type="text/javascript" src="common/Timepicker/jquery.timepicker.js"></script>
+
+    <link href="common/css1/chosen.min.css" rel="stylesheet" type="text/css" />
+    <script src="common/js/chosen1.5.1.jquery.min.js" type="text/javascript"></script>
+    <link href="css/datepicker.css" rel="stylesheet" />
+    <link href="common/css1/customdatepicker.css" rel="stylesheet" />
+    <style>
+        .nav_menu {
+            /*//background-image:  url(common/theme/images/Webtemplate_03.png);*/
+            background-repeat: no-repeat;
+            background-color: #26b8b8;
+            background-attachment: inherit;
+            background-position: top center;
+            background-size: cover;
+            position: relative;
+            height: 100px;
+            border-bottom: 5px solid #ffb400;
+        }
+
+        .dropdown-menu {
+            list-style: none;
+            background-color: #ffffff;
+            border: 1px solid #ccc;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            -webkit-border-radius: 5px;
+            /*//-moz-border-radius: 5px;*/
+            border-radius: 0.5em;
+            -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            /*//-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);*/
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            -webkit-background-clip: padding-box;
+            /*//-moz-background-clip: padding;*/
+            background-clip: padding-box;
+            /*width: 300px;
+                height: 200px;
+                padding-top: 10px;
+                padding-left: 10px;
+                padding-right: 10px;*/
+            margin-right: 5px;
+            border-top-left-radius: 0.5em;
+            border-top-right-radius: 0.5em;
+        }
+
+        .site_title p {
+            width: 125px;
+            margin-top: -85px;
+            line-height: 0.9em;
+            margin-left: 88px;
+            text-align: center;
+        }
+
+
+        .fixed-footer {
+            width: 100%;
+            position: fixed;
+            background: #333;
+            padding: 10px 0;
+            color: #fff;
+        }
+
+        .fixed-footer {
+            bottom: 0;
+        }
+
+        /*chat box*/
+        #oulist a {
+            color: rgba(82, 179, 217, 0.9);
+        }
+
+        #chat1 {
+            bottom: 50px;
+            /*//float: left;*/
+            right: 10px;
+            position: fixed;
+            z-index: 100001;
+            color: #066061;
+        }
+
+        .fa-wechat:hover {
+            color: #26b8b8;
+        }
+
+        .chat li:nth-child(2) {
+            /*//margin-top: 60px;*/
+        }
+
+        #onlineChatBox {
+            overflow-y: auto;
+            height: 65%;
+            width: 230px;
+            background: #fff;
+            margin-top: 67px;
+            float: right;
+            border-radius: 2px;
+            margin-right: 0px;
+            overflow-y: scroll;
+            border: 1px solid #dbd8d8;
+        }
+
+        #chatbox {
+            /*overflow-y: scroll; 
+                height: auto; 
+                width: 350px; 
+                margin-right: 10px; 
+                margin-top: 280px; 
+                background: #e5e5e5; 
+                float: right;
+                bottom: 0;
+                max-height: 200px;*/
+            overflow-y: scroll;
+            height: 38%;
+            width: 333px;
+            margin-right: 10px;
+            /*//margin-top: 265px;*/
+            background: rgb(229, 229, 229) none repeat scroll 0% 0%;
+            float: right;
+            display: block;
+            position: fixed;
+            /*//bottom: -325px;*/
+            right: 225px;
+            bottom: 60px;
+        }
+
+            #chatbox .menu1 {
+                padding-top: 4px;
+                padding-left: 10px;
+                background-color: #26b8b8;
+                position: fixed;
+                width: 320px;
+                margin-top: -2px;
+            }
+
+        .text_area {
+            height: 100px;
+            bottom: 60px;
+            position: fixed;
+            z-index: 9;
+        }
+
+        @media screen and (max-width: 480px) {
+            .nav > li > a.dash_board {
+                display: none;
+            }
+
+            .nav > li {
+                width: fit-content;
+                /*margin-left: 65px;*/
+            }
+
+            .open, .profile {
+                margin-top: -90px;
+            }
+
+            .toggle {
+                width: 50px;
+                margin-top: 10px;
+            }
+
+            .switch_menu {
+                margin-top: 12px;
+                margin-left: 70px;
+            }
+
+            .top_nav .navbar-right li a {
+                margin-top: -3px;
+            }
+
+            .site_title img {
+                margin-top: 2px;
+                margin-left: -17px;
+            }
+
+            #onlineChatBox {
+                height: 200px;
+                width: 230px;
+            }
+
+            #chatbox {
+                width: 260px;
+                margin-right: -210px;
+                /*//margin-top: 10px;*/
+                max-height: 210px;
+                bottom: 105px;
+            }
+
+                #chatbox .menu1 {
+                    width: 250px;
+                }
+
+            #chat1 {
+                bottom: 100px;
+                right: 20px;
+            }
+
+            .textarea {
+                width: 190px;
+                bottom: 0px;
+                margin-left: 5px;
+            }
+
+            .sendbtn {
+                position: absolute;
+                padding-left: 197px;
+                bottom: -3px;
+            }
+
+            .main-chatbox {
+                height: 75%;
+                margin-top: 25%;
+            }
+
+            .text_area {
+                height: 100px;
+                bottom: 110px;
+                position: fixed;
+            }
+        }
+
+
+        .auto-style1 {
+            width: 440px;
+        }
+    </style>
+    <script>
+        var topsss = screen.height - 490;
+        var left = screen.width - 420;
+        function openWindow() {
+            window.open("HelpDeskChat.aspx", "", "toolbar=no,titlebar=no,location=no,scrollbars=yes,resizable=no,top=" + topsss + ",left=" + left + ",width=450,height=550");
+        }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VKGR1M1RJT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-VKGR1M1RJT');
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-548XSKP');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body class="nav-md">
+    <form runat="server" id="frmadmin">
+        <div class="container body">
+            <div class="main_container">
+                <html>
+                <body>
+                    <!-- Google Tag Manager (noscript) -->
+                    <noscript>
+                        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-548XSKP"
+                            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+                    </noscript>
+                    <!-- End Google Tag Manager (noscript) -->
+                    <div class="col-md-3 left_col">
+                        <div class="left_col scroll-view">
+                            <div class="navbar nav_title" style="border: 0;">
+                                <a <%--href="login/fdashboard.htm?orgCode=2-Excise Automation"--%> class="site_title">
+                                    <img style="" src="common/theme/assets/img/Logo_circle.png" alt="" /><p style="width: 100px;"><span style="font-size: 13px"><b>Integrated Excise Management System</b></span></p>
+                                </a>
+                            </div>
+                            <div class="clearfix"></div>
+                            <br />
+                            <!-- sidebar menu -->
+                            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu" style="margin-top: 20px;">
+
+                                <div class="menu_section">
+                                    <ul class="nav side-menu">
+
+                                        <li><a id="UM" visible="false" runat="server">User Management<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none; overflow-style: move">
+
+                                                <li id="Li1" runat="server">
+                                                    <a href="GenderMasterList"><span style="color: #fff; font-size: 12px;">Case Management Masters</span></a></li>
+                                                <li id="Li2" runat="server">
+                                                    <a href="DigitalSignatureList"><span style="color: #fff; font-size: 12px;">Digital Signature</span></a></li>
+                                                <li id="ORG" runat="server">
+                                                    <a href="OrgList"><span style="color: #fff; font-size: 12px;">Organisation</span></a></li>
+                                                <li>
+                                                    <a id="A5" visible="false" runat="server" href="LicenseTypeMasterList.aspx"><span style="color: #fff; font-size: 12px;">License Masters</span></a></li>
+                                                <li id="RP" runat="server">
+                                                    <a href="RolePermissionList"><span style="color: #fff; font-size: 12px;">Role Permission</span></a></li>
+                                                <li id="UMM" runat="server">
+                                                    <a href="StateList"><span style="color: #fff; font-size: 12px;">User Management Masters</span></a></li>
+                                                <li id="REG" runat="server">
+                                                    <a href="DepartmentMasterList.aspx"><span style="color: #fff; font-size: 12px;">User Registration</span></a></li>
+                                                <li id="WF" runat="server">
+                                                    <a href="WorkFlowLIst"><span style="color: #fff; font-size: 12px;">Work Flow</span></a></li>
+                                                <%--<li>
+                                                    <asp:LinkButton ID="UserReport" OnClick="UserReport_Click" runat="server"><span style="color:#fff;font-size:12px;">User Report</span></asp:LinkButton></li>--%>
+                                            </ul>
+                                        </li>
+                                        <li><a id="DB" visible="false" href="User_Mgmt" runat="server">Dash Board<span class="fa fa-chevron-down"></span></a>
+                                        </li>
+                                        <li><a id="DLM" visible="false" runat="server">DigiLocker<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="DIG" visible="false" runat="server">
+                                                    <a href="DigiLocker"><span style="color: #fff; font-size: 12px;">DigiLocker</span></a></li>
+                                                <li>
+                                            </ul>
+                                        </li>
+                                        <li><a id="REP" visible="false" runat="server">Reports<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="MR" visible="false" runat="server">
+                                                    <a id="masterReports" runat="server" href="MasterReportsList"><span style="color: #fff; font-size: 12px;">Master Reports</span></a></li>
+                                                <li>
+                                                <li id="UR" runat="server">
+                                                    <a href="UserReports"><span style="color: #fff; font-size: 12px;">User Reports</span></a></li>
+                                                <%--  <asp:LinkButton ID="btnUserReports"  OnClick="UserReport_Click" runat="server"><span style="color:#fff;font-size:12px;">User Reports</span></asp:LinkButton></li>--%>
+                                                <li>
+                                            </ul>
+                                        </li>
+                                        <li><a id="AT" runat="server" visible="false">Administrative Tools<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li>
+                                                    <a id="A2" visible="false" runat="server" href="SeverConfigList"><span style="color: #fff; font-size: 12px;">Report Server Config</span></a></li>
+                                                <li>
+                                                    <a id="D1" visible="false" runat="server" href="DocumentFormatList"><span style="color: #fff; font-size: 12px;">Document ID Formats</span></a></li>
+                                                <li>
+                                                    <a id="ST" visible="false" runat="server" href="SystemSettingList.aspx"><span style="color: #fff; font-size: 12px;">System Setting</span></a></li>
+                                                <li>
+                                                    <a id="CHF" visible="false" runat="server" href="ChangeFinancialYearList.aspx"><span style="color: #fff; font-size: 12px;">Change Financial Year</span></a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li><a id="CHY" runat="server" visible="false">Change Financial Year<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li>
+                                                    <a id="CFY" visible="false" runat="server" href="ChangeFinancialYearList.aspx"><span style="color: #fff; font-size: 12px;">Change Financial Year</span></a></li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <%-- <li><a id="LI"  runat="server" visible="false" >License Master<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">--%>
+                                        <%--<li>
+                                                  <a id="A4" visible="false" runat="server" href="LicenseSubTypeList.aspx"> <span style="color:#fff;font-size:12px;">License Sub</span></a></li>--%>
+                                        <%--<li>
+                                                  <a id="A5" visible="false" runat="server" href="LicenseTypeMasterList.aspx"> <span style="color:#fff;font-size:12px;">License Masters</span></a></li>--%>
+                                        <%-- <li>
+                                                  <a id="Fee" visible="false" runat="server" href="LicenseFeeList.aspx"> <span style="color:#fff;font-size:12px;">License Fee </span></a></li>
+                                            <li>
+                                                  <a id="App" visible="false" runat="server" href="LicenseApplicationList.aspx"> <span style="color:#fff;font-size:12px;">License Application </span></a></li>--%>
+                                        <%-- </ul>
+                                        </li>--%>
+                                        <%--<li>
+                                            <asp:LinkButton ID="CL" Visible="false" OnClick="CL_Click1" runat="server"><span style="color:#fff;font-size:14px;">Chemical LAB</span></asp:LinkButton></li>--%>
+                                        <%--  <li ID="CM" Visible="false" runat="server">
+                                         <asp:LinkButton  OnClick="CMS_Click" runat="server"><span style="color:#fff;font-size:14px;">Case Management</span></asp:LinkButton></li>--%>
+                                        <li><a id="DD" runat="server">Daily Dairy<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="DD1" runat="server">
+                                                    <a href="User_Profile.aspx"><span style="color: #fff; font-size: 12px;">Profile</span></a></li>
+                                                <li id="DD2" runat="server">
+                                                    <a href="Daily_Dairy_Entry_Raid_List.aspx"><span style="color: #fff; font-size: 12px;">Daily Dairy Entry</span></a></li>
+                                                <%--  <li id="DD3" runat="server">
+                                                   <a href="Dairy_Daily_Otherthan_Raid.aspx" ><span style="color:#fff;font-size:12px;">Daily Diary Entry Otherthan Raid</span></a></li>
+                                                    <li id="DD4" runat="server">
+                                                    <a href="DigiLocker" ><span style="color:#fff;font-size:12px;">Events</span></a></li>--%>
+                                                     <li id="Li3" runat="server">
+                                                    <a href="MobileappReport.aspx"><span style="color: #fff; font-size: 12px;">Reports</span></a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li><a id="CRH" visible="false" runat="server">Court Regn. & Hearing<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li>
+                                                    <a id="DMEntry_key" runat="server" href="DME_List.aspx"><span style="color: #fff; font-size: 12px;">DM Case Registration</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="DMES_key" runat="server" href="DMH_List.aspx"><span style="color: #fff; font-size: 12px;">DM Case Hearing</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="DMH_List_key" runat="server" href="EXCase_Registration_List.aspx"><span style="color: #fff; font-size: 12px;">Excise Commissioner Court</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="DMEE_key1" runat="server" href="EXCase_List.aspx"><span style="color: #fff; font-size: 12px;">Exise Commissioner Court Hearing</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="SEC_E" runat="server" href="SEC_Registration_List"><span style="color: #fff; font-size: 12px;">Secretary Court Registration</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="SEC_C" runat="server" href="SECCase_List"><span style="color: #fff; font-size: 12px;">Secretary Court Hearing</span></a>
+                                                </li>
+                                                  <li id="DMER" runat="server">
+                                                    <a href="CourtReports.aspx"><span style="color: #fff; font-size: 12px;">Reports</span></a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li><a id="CM" visible="false" runat="server">Case Management<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="cms" runat="server">
+                                                    <a href="Cmsreports.aspx"><span style="color: #fff; font-size: 12px;">Case Management Reports</span></a></li>
+                                                <%--  <asp:LinkButton ID="btnUserReports"  OnClick="UserReport_Click" runat="server"><span style="color:#fff;font-size:12px;">User Reports</span></asp:LinkButton></li>--%>
+                                                <li>
+                                                <li>
+                                                    <a id="sho" runat="server" href="SHO_DashBoard.aspx"><span style="color: #fff; font-size: 12px;">SHO DashBoard</span></a></li>
+                                                <li><a id="a29" runat="server" href="SeizureList"><span style="color: #fff; font-size: 12px;">Seizure List</span></a></li>
+                                                <li>
+                                                    <a id="A6" runat="server" href="BasicIformationForm"><span style="color: #fff; font-size: 12px;">Basic Information </span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A7" runat="server" href="ExcisableArticlesSeizedList"><span style="color: #fff; font-size: 12px;">Excise Articles Seized</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A13" runat="server" href="VehicleList"><span style="color: #fff; font-size: 12px;">Vehicle</span></a></li>
+                                                <li>
+                                                    <a id="A14" runat="server" href="ApparatusList"><span style="color: #fff; font-size: 12px;">Apparatus</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A15" runat="server" href="PropertyList"><span style="color: #fff; font-size: 12px;">Property</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A16" runat="server" href="MoneyList"><span style="color: #fff; font-size: 12px;">Money</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A18" runat="server" href="Accuseddetailslist"><span style="color: #fff; font-size: 12px;">Accused Details</span></a></li>
+                                                <li>
+                                                    <a id="A19" runat="server" href="OffencesCommittedList"><span style="color: #fff; font-size: 12px;">Accused Offences</span></a>
+                                                </li>
+                                                <%--<li>
+                                                      <a id="A20"  runat="server" href="CaseHistoryList"><span style="color:#fff;font-size:12px;">Accused Case History</span></a>
+                                                    </li>--%>
+                                                <li>
+                                                    <a id="A22" runat="server" href="RaidTeamList"><span style="color: #fff; font-size: 12px;">Raid Team </span></a></li>
+                                                <li>
+                                                    <a id="A23" runat="server" href="WitnessList"><span style="color: #fff; font-size: 12px;">Witness</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A8" runat="server" href="FIRList"><span style="color: #fff; font-size: 12px;">FIR</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A9" runat="server" href="ChargesheetList"><span style="color: #fff; font-size: 12px;">Chargesheet</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A10" runat="server" href="BailList"><span style="color: #fff; font-size: 12px;">Bail</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A11" runat="server" href="CognizanceList"><span style="color: #fff; font-size: 12px;">Cognizance</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A1" runat="server" href="AppearanceList"><span style="color: #fff; font-size: 12px;">Appearance</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A12" runat="server" href="PolicePaperSupplyList"><span style="color: #fff; font-size: 12px;">Supply of Police Paper</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A17" runat="server" href="TrailChargesheetList"><span style="color: #fff; font-size: 12px;">Charges Framed</span></a></li>
+                                                <li>
+                                                    <a id="A21" runat="server" href="ProsecutionEvidenceList"><span style="color: #fff; font-size: 12px;">Prosecution Evidence</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A24" runat="server" href="AccusedStatementList"><span style="color: #fff; font-size: 12px;">Accused Statement</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A25" runat="server" href="DefenceStatementList"><span style="color: #fff; font-size: 12px;">Defence Statement</span></a></li>
+                                                <li>
+                                                    <a id="A26" runat="server" href="FinalArgumentList"><span style="color: #fff; font-size: 12px;">Final Argument</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A27" runat="server" href="JudgementList"><span style="color: #fff; font-size: 12px;">Judgement</span></a>
+                                                </li>
+                                                <%-- <li>
+                                                      <a id="A28" runat="server" href="TrailCaseHistoryList"><span style="color:#fff;font-size:12px;">Case Trial History </span></a>
+                                                    </li>--%>
+                                                <li>
+                                                    <a id="A36" runat="server" href="DMOrderDetailsList.aspx"><span style="color: #fff; font-size: 12px;">DM Order Details</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A37" runat="server" href="ExciseCommissionerOrderDetailsList.aspx"><span style="color: #fff; font-size: 12px;">Excise Commissioner Order Details</span></a>
+                                                </li>
+                                                <li>
+                                                    <a id="A38" runat="server" href="AppealList.aspx"><span style="color: #fff; font-size: 12px;">Appeal</span></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a id="SCM" visible="false" runat="server">Supply Chain Management<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="SCM1" visible="false" runat="server">
+                                                    <a href="PartyTypeMasterList"><span style="color: #fff; font-size: 12px;">SCM Masters</span></a></li>
+                                                <li>
+                                                <li id="SM" visible="false" runat="server">
+                                                    <a href="SCMSugarCanePurchaseRegList"><span style="color: #fff; font-size: 12px;">Sugar Mill</span></a></li>
+                                                <li id="DIS" visible="false" runat="server">
+                                                    <a href="RawMaterialReceiptList"><span style="color: #fff; font-size: 12px;">Distilleries</span></a></li>
+                                                <li id="MTP" visible="false" runat="server">
+                                                    <a href="RawMaterialReceiptList"><span style="color: #fff; font-size: 12px;">M & TP</span></a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a id="EA" visible="false" runat="server">Excise Automation<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="NCD" visible="false" runat="server">
+                                                    <a href="CustomerMasterList"><span style="color: #fff; font-size: 12px;">NOC Customer Details</span></a></li>
+                                                <li id="MADD" visible="false" runat="server">
+                                                    <a href="IndentList"><span style="color: #fff; font-size: 12px;">Molasses Allocation</span></a></li>
+                                                <li id="EIA" visible="false" runat="server">
+                                                    <a href="MntpAlloctionRequestList.aspx"><span style="color: #fff; font-size: 12px;">ENA/SDS Allocation</span></a></li>
+                                                <li id="PER" visible="false" runat="server">
+                                                    <a href="PermitList.aspx"><span style="color: #fff; font-size: 12px;">Permit</span></a></li>
+                                                <li id="LIC" visible="false" runat="server">
+                                                    <a href="LicenseApplicationList.aspx"><span style="color: #fff; font-size: 12px;">License Application</span></a></li>
+                                                <li id="RR" visible="false" runat="server">
+                                                    <a href="ReleaseRequestList"><span style="color: #fff; font-size: 12px;">Release Request</span></a></li>
+                                                <li id="MASM" visible="false" runat="server">
+                                                    <a href="MolassesProvisionalProductionList"><span style="color: #fff; font-size: 12px;">Molasses Allocation</span></a></li>
+                                                <li id="NOC" visible="false" runat="server">
+                                                    <a href="NOCApplicationList"><span style="color: #fff; font-size: 12px;">NOC</span></a></li>
+                                                <li id="PAS" visible="false" runat="server">
+                                                    <a href="RequestForPassList"><span style="color: #fff; font-size: 12px;">Pass</span></a></li>
+                                                <li id="ENP" visible="false" runat="server">
+                                                    <a href="RequestForTransportList"><span style="color: #fff; font-size: 12px;">Transport Pass</span></a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a id="HD1" runat="server">Help Desk <span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="HDM" runat="server">
+                                                    <a href="TicketStatusLIst"><span style="color: #fff; font-size: 12px;">Help Desk Master</span></a></li>
+                                                <li id="HDT" runat="server">
+                                                    <a href="HelpDeskList"><span style="color: #fff; font-size: 12px;">Help Desk Tickets</span></a></li>
+
+                                            </ul>
+                                        </li>
+                                         <li><a id="CMP" visible="false" runat="server">Complaint <span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li id="CPL" runat="server">
+                                                    <a href="ComplaintList.aspx"><span style="color: #fff; font-size: 12px;">Complaint </span></a></li> 
+                                                <li id="CGL" runat="server">
+                                                    <a href="ComplaintGrievance.aspx"><span style="color: #fff; font-size: 12px;">Complaint/Grievance </span></a></li>
+                                                 <li id="SFL" runat="server">
+                                                    <a href="Suggestionfrom.aspx"><span style="color: #fff; font-size: 12px;">Suggestion From</span></a></li>
+                                                  <li id="CSF" runat="server">
+                                                    <a href=" ComplaintsStatusForm.aspx"><span style="color: #fff; font-size: 12px;"> Complaints Status From</span></a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a id="CHE" visible="false" runat="server">Chemical Lab Masters<span class="fa fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu" style="display: none" style="overflow-style: move">
+                                                <li>
+                                                    <%--Bhavin--%>
+                                                    <%--<a href="StateList.aspx"><span style="color: #fff; font-size: 12px;">Sample Form</span></a>--%>
+                                                </li>
+                                                <li>
+                                                    <%--<a><span style="color: #fff; font-size: 12px;">Report</span></a>--%>
+                                                    <a href="UserReports.aspx"><span style="color: #fff; font-size: 12px;">Report</span></a>
+                                                </li>
+                                                <li>
+                                                    <%--Bhavin--%>
+                                                    <%-- <a><span style="color: #fff; font-size: 12px;">District</span></a></li>--%>
+                                                    <a href="DistrictList.aspx"><span style="color: #fff; font-size: 12px;">District</span></a>
+                                                    <%--End--%>
+                                                <li>
+                                                    <a href="DistrictUserList.aspx"><span style="color: #fff; font-size: 12px;">District Users</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="ThanaList.aspx"><span style="color: #fff; font-size: 12px;">Thana</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="DistilleryList.aspx"><span style="color: #fff; font-size: 12px;">Distillery</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="TypeofLiquorList.aspx"><span style="color: #fff; font-size: 12px;">Type of Liquor</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="SubLiquorList.aspx"><span style="color: #fff; font-size: 12px;">Sub Type</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="ParameterList.aspx"><span style="color: #fff; font-size: 12px;">Parameter</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="AssignParameterList.aspx"><span style="color: #fff; font-size: 12px;">Assign Parameter</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="SizeList.aspx"><span style="color: #fff; font-size: 12px;">Size</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="BrandList.aspx"><span style="color: #fff; font-size: 12px;">Brand Name</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="CompactorMapList.aspx"><span style="color: #fff; font-size: 12px;">Compactor Mapping</span></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="top_nav" style="font-size: 15px;">
+                        <div class="nav_menu">
+                            <nav class="" role="navigation" style="margin-top: 30px;">
+                                <div id="navtoggle" runat="server" class="nav toggle">
+                                    <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                                </div>
+                                <ul id="dashboard" runat="server" class="nav navbar-nav" style="margin-left: -25px;">
+                                    <li>
+                                        <asp:LinkButton runat="server" ID="lnkDashBoard" Text="DashBoard" OnClick="lnkDashBoard_Click"></asp:LinkButton>
+
+                                    </li>
+                                </ul>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li class="profile">
+                                        <img src="common/theme/images/keonics-logo (1).png" style="float: right; height: 36px; margin-right: 5px;">
+                                        <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="border-radius: 0.3em; margin-right: 110px; font-size: 14px; line-height: 20px">Welcome  
+                                                <asp:Label ID="lblUser" runat="server"></asp:Label>
+                                            <!--                                <span class=" fa fa-angle-down"></span>-->
+                                            <span class="glyphicon glyphicon-chevron-down"></span>
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right" style="border-top-left-radius: 0.5em; border-top-right-radius: 0.5em;">
+
+                                            <li>
+                                                <asp:LinkButton ID="btnLogOut" Text="Log Out" runat="server" OnClick="btnLogOut_Click"></asp:LinkButton>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li style="text-align: center">
+                                        <a></a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+
+                    <a class="" onclick="openWindow()" id="chat1" style=""><i class="fa fa-wechat" style="font-size: 50px;"></i></a>
+                    <div class="fixed-footer" style="z-index: 11;">
+                        <div class="loginfooter" style="text-align: center;">
+                            <p style="color: #FFF; float: left; margin-left: 10px; font-size: 14px;">© Department of Prohibition, Excise and Registration , Govt. of Bihar</p>
+                            <p style="color: #FFF; float: right; margin-right: 10px; font-size: 14px;">Designed, Developed and Maintained by KEONICS</p>
+                        </div>
+                    </div>
+                    <div class="main-chatbox" style="display: none">
+                        <div id="onlineChatBox"
+                            style="">
+                            <div class="menu1" style="padding-top: 4px; padding-left: 10px;">
+                                <span style="color: white; font-weight: bold;">Online User List</span>
+                                <img
+                                    src="img/40-delete-button.png" onclick="closeChatBox('onlineChatBox');"
+                                    style="width: 16px; height: 20px; float: right; margin-right: 5px; margin-top: 2px; cursor: pointer;" />
+                            </div>
+                            <div id="oulist" style="margin-top: 7px;">
+                            </div>
+                        </div>
+                        <div id="chatbox"
+                            style="">
+                            <ol class="chat" id="chatboxol">
+                                <div class="menu1" style="">
+                                    <span id="chatwith" style="color: white;"></span>
+                                    <img
+                                        src="img/40-delete-button.png" onclick="closeChatBox('chatbox');"
+                                        style="width: 16px; height: 20px; float: right; margin-right: 5px; margin-top: 2px; cursor: pointer;" />
+                                </div>
+                            </ol>
+                            <div class="text_area" style="">
+                                <div class=""></div>
+                                <!-- 			<input class="textarea" type="text" rows="1" placeholder="Type here!" /> -->
+                                <textarea class="textarea" id="sendtext" rows="1" cols="30"
+                                    placeholder="Type here...!"></textarea>
+                                <div class="sendbtn">
+                                    <img src="img/sendbtn.png"
+                                        style="height: 53px; width: 53px; cursor: pointer"
+                                        onclick="sendMsg();" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" id="cuser" value="Superuser" />
+                    <script src="common/theme/js/bootstrap.min.js"></script>
+                    <!-- gauge js -->
+                    <script type="text/javascript" src="common/theme/js/gauge/gauge.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/gauge/gauge_demo.js"></script>
+                    <!-- chart js -->
+                    <script src="common/theme/js/chartjs/chart.min.js"></script>
+                    <!-- bootstrap progress js -->
+                    <script src="common/theme/js/progressbar/bootstrap-progressbar.min.js"></script>
+                    <script src="common/theme/js/nicescroll/jquery.nicescroll.min.js"></script>
+                    <!-- icheck -->
+                    <script src="common/theme/js/icheck/icheck.min.js"></script>
+                    <!-- daterangepicker -->
+                    <script type="text/javascript" src="common/theme/js/moment.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/datepicker/daterangepicker.js"></script>
+                    <script src="common/theme/js/custom.js"></script>
+                    <!-- flot js -->
+                    <!--[if lte IE 8]><script type="text/javascript" src="common/theme/js/excanvas.min.js"></script><![endif]-->
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.pie.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.orderBars.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.time.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/date.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.spline.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.stack.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/curvedLines.js"></script>
+                    <script type="text/javascript" src="common/theme/js/flot/jquery.flot.resize.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-2.0.1.min.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/gdp-data.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+                    <script type="text/javascript" src="common/theme/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+                </body>
+                </html>
+            </div>
+            <div class="right_col" role="main">
+                <asp:ContentPlaceHolder ID="BodyContent" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+

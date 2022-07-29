@@ -1,0 +1,46 @@
+D:\IEMS\UserManagement_IEMS\Usermngt.Entities\bin\Debug\Usermngt.Entities.dll
+D:\IEMS\UserManagement_IEMS\Usermngt.Entities\bin\Debug\Usermngt.Entities.pdb
+D:\IEMS\UserManagement_IEMS\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+D:\IEMS\UserManagement_IEMS\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+D:\IEMS\UserManagement_IEMS\CaseMgmt\bin\Usermngt.Entities.dll
+D:\IEMS\UserManagement_IEMS\CaseMgmt\bin\Usermngt.Entities.pdb
+D:\IEMS\UserManagement_IEMS\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+E:\IEMS\bck\UserManagement_IEMS\CaseMgmt\bin\Usermngt.Entities.dll
+E:\IEMS\bck\UserManagement_IEMS\CaseMgmt\bin\Usermngt.Entities.pdb
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\Usermngt.Entities.dll
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\Usermngt.Entities.pdb
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\Usermngt.Entities.dll
+D:\BHIHAR\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+D:\BHIHAR\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+D:\BHIHAR\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+D:\IEMS\UserMgmt\UserMgmt\Usermngt.Entities.dll
+D:\IEMS\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+D:\IEMS\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+D:\IEMS\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+D:\final\UserMgmt\UserMgmt\Usermngt.Entities.dll
+D:\final\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+D:\final\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+D:\final\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+D:\final\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+E:\IEMS\UserMgmt\UserMgmt\Usermngt.Entities.dll
+E:\IEMS\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+E:\IEMS\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+E:\IEMS\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+E:\IEMS\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\Usermngt.Entities.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+E:\partha\New folder\UserMgmt\UserMgmt\Usermngt.Entities.dll
+E:\partha\New folder\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+E:\partha\New folder\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+E:\partha\New folder\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+E:\partha\New folder\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb
+E:\UserMgmt\UserMgmt\Usermngt.Entities.dll
+E:\UserMgmt\UserMgmt\Usermngt.Entities.pdb
+E:\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.csprojResolveAssemblyReference.cache
+E:\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.dll
+E:\UserMgmt\Usermngt.Entities\obj\Debug\Usermngt.Entities.pdb

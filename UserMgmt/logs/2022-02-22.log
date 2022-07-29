@@ -1,0 +1,124 @@
+2022-02-22 09:55:20.0128 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 09:55:25.6404 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 09:55:29.7254 INFO Get Product Type Master List Success
+2022-02-22 09:55:29.8381 INFO Get User Success :vishnu_sgr
+2022-02-22 09:55:46.6486 INFO Sugarcanepurchase Get List Success
+2022-02-22 09:55:46.7043 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 09:55:46.7991 INFO Get Product Type Master List Success
+2022-02-22 09:55:46.9248 INFO Get User Success :vishnu_sgr
+2022-02-22 09:55:48.6870 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:55:50.8377 INFO Get Product Type Master List Success
+2022-02-22 09:55:51.0811 INFO Get User Success :vishnu_sgr
+2022-02-22 09:55:57.3604 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:55:57.4691 INFO Get Party Master List Success
+2022-02-22 09:56:32.8587 INFO Get Product Type Master List Success
+2022-02-22 09:56:32.9695 INFO Get User Success :vishnu_sgr
+2022-02-22 09:57:24.1197 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:57:25.1109 INFO Get Product Type Master List Success
+2022-02-22 09:57:25.2304 INFO Get User Success :vishnu_sgr
+2022-02-22 09:57:27.3789 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:57:27.4911 INFO Get Party Master List Success
+2022-02-22 09:58:12.0099 INFO Get Product Type Master List Success
+2022-02-22 09:58:12.1250 INFO Get User Success :vishnu_sgr
+2022-02-22 09:58:28.0839 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:58:29.1599 INFO Get Product Type Master List Success
+2022-02-22 09:58:29.2696 INFO Get User Success :vishnu_sgr
+2022-02-22 09:58:31.0257 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:58:31.1364 INFO Get Party Master List Success
+2022-02-22 09:58:32.8934 INFO Get Product Type Master List Success
+2022-02-22 09:58:33.0097 INFO Get User Success :vishnu_sgr
+2022-02-22 09:58:42.6583 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:58:44.0104 INFO Get Product Type Master List Success
+2022-02-22 09:58:44.1851 INFO Get User Success :vishnu_sgr
+2022-02-22 09:58:46.7802 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-22 09:58:46.8989 INFO Get Party Master List Success
+2022-02-22 09:58:50.0052 INFO Get Product Type Master List Success
+2022-02-22 09:58:50.1748 INFO Get User Success :vishnu_sgr
+2022-02-22 09:59:05.8894 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 09:59:06.0859 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 09:59:06.2135 INFO Get Product Type Master List Success
+2022-02-22 09:59:06.3252 INFO Get User Success :bdbl_dis
+2022-02-22 09:59:08.9504 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 09:59:11.7190 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 09:59:13.0062 INFO Get Product Type Master List Success
+2022-02-22 09:59:13.3807 INFO Get User Success :bdbl_dis
+2022-02-22 09:59:15.4619 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 09:59:20.1916 INFO Get VAT Master List Success
+2022-02-22 09:59:20.2654 INFO Get Product Type Master List Success
+2022-02-22 09:59:20.3811 INFO Get User Success :bdbl_dis
+2022-02-22 09:59:24.2697 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 09:59:24.3335 INFO Get VAT Master List Success
+2022-02-22 09:59:24.4592 INFO Get Product Type Master List Success
+2022-02-22 09:59:24.5739 INFO Get User Success :bdbl_dis
+2022-02-22 09:59:38.7011 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-02-22 11:28:29.0128 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 11:28:33.3893 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 11:28:37.6561 INFO Get Product Type Master List Success
+2022-02-22 11:28:37.8564 INFO Get User Success :vishnu_sgr
+2022-02-22 11:28:44.3520 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 11:28:44.4288 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 11:30:02.5664 INFO Get Product Type Master List Success
+2022-02-22 11:30:02.7987 INFO Get User Success :vishnu_sgr
+2022-02-22 11:55:41.5848 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:56:03.6024 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:56:13.7451 INFO Get Product Type Master List Success
+2022-02-22 11:56:14.1552 INFO Get User Success :hpcl_ec_sgr
+2022-02-22 11:56:41.1527 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:56:41.2135 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:58:28.1310 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:58:28.1880 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:58:31.5596 INFO Get Product Type Master List Success
+2022-02-22 11:58:31.7196 INFO Get User Success :hpcl_ec_sgr
+2022-02-22 11:58:36.3031 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:59:28.2806 INFO Get Pass List Success
+2022-02-22 11:59:28.3375 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:59:28.4172 INFO Get Product Type Master List Success
+2022-02-22 11:59:28.5339 INFO Get User Success :hpcl_ec_sgr
+2022-02-22 11:59:32.3739 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:59:32.4297 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 11:59:37.6302 INFO Get Product Type Master List Success
+2022-02-22 11:59:37.9962 INFO Get User Success :hpcl_ec_sgr
+2022-02-22 12:01:43.9156 INFO Get User Success :116-HPCL Biofuels Ltd, EC
+2022-02-22 12:01:43.9704 INFO Get Product Master List Success
+2022-02-22 12:01:55.9572 INFO Get Product Type Master List Success
+2022-02-22 12:01:56.0737 INFO Get User Success :hpcl_ec_sgr
+2022-02-22 12:02:12.2895 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 12:02:12.4346 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 12:02:13.9510 INFO Get Product Type Master List Success
+2022-02-22 12:02:14.0603 INFO Get User Success :vishnu_sgr
+2022-02-22 12:02:18.5848 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 12:02:18.6427 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 12:02:21.9046 INFO Get Product Type Master List Success
+2022-02-22 12:02:22.0822 INFO Get User Success :vishnu_sgr
+2022-02-22 12:02:23.6139 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 12:03:06.9545 INFO Get Pass List Success
+2022-02-22 12:03:07.0103 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-22 12:03:07.0711 INFO Get Product Type Master List Success
+2022-02-22 12:03:07.4695 INFO Get User Success :vishnu_sgr
+2022-02-22 12:03:33.1480 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:03:33.3106 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:03:33.4891 INFO Get Product Type Master List Success
+2022-02-22 12:03:33.5514 INFO Get User Success :vishnu_sgrbo
+2022-02-22 12:03:36.1133 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:03:36.1686 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:03:36.2450 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:04:11.0520 INFO Get Pass List Success
+2022-02-22 12:04:11.1096 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:04:11.1790 INFO Get Product Type Master List Success
+2022-02-22 12:04:11.3418 INFO Get User Success :vishnu_sgrbo
+2022-02-22 12:04:23.0602 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:05:00.2153 INFO Get Pass List Success
+2022-02-22 12:05:06.1540 INFO Get User Success :125-Vishnu Sugar Mills Ltd, Bond Officer 
+2022-02-22 12:05:06.5298 INFO Get Dispach Master List Success
+2022-02-22 12:05:15.8642 INFO Get VAT Master List Success
+2022-02-22 12:05:18.0964 INFO Get Pass List Success
+2022-02-22 12:05:18.4234 INFO Get Product Type Master List Success
+2022-02-22 12:05:18.8428 INFO Get User Success :vishnu_sgrbo

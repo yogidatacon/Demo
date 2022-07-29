@@ -1,0 +1,57 @@
+D:\IEMS\UserManagement_IEMS\Usermngt.DAL\bin\Debug\Usermngt.DAL.dll
+D:\IEMS\UserManagement_IEMS\Usermngt.DAL\bin\Debug\Usermngt.DAL.pdb
+D:\IEMS\UserManagement_IEMS\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+D:\IEMS\UserManagement_IEMS\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+D:\IEMS\UserManagement_IEMS\CaseMgmt\bin\Usermngt.DAL.dll
+D:\IEMS\UserManagement_IEMS\CaseMgmt\bin\Usermngt.DAL.pdb
+D:\IEMS\UserManagement_IEMS\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+E:\IEMS\bck\UserManagement_IEMS\CaseMgmt\bin\Usermngt.DAL.dll
+E:\IEMS\bck\UserManagement_IEMS\CaseMgmt\bin\Usermngt.DAL.pdb
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\NLog.config
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\Usermngt.DAL.dll
+E:\IEMS\bck\UserManagement_IEMS\UserMgmt\Usermngt.DAL.pdb
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+E:\IEMS\bck\UserManagement_IEMS\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+D:\BHIHAR\UserMgmt\UserMgmt\NLog.config
+D:\BHIHAR\UserMgmt\UserMgmt\Usermngt.DAL.dll
+D:\BHIHAR\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+D:\BHIHAR\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+D:\BHIHAR\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+D:\BHIHAR\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+D:\IEMS\UserMgmt\UserMgmt\NLog.config
+D:\IEMS\UserMgmt\UserMgmt\Usermngt.DAL.dll
+D:\IEMS\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+D:\IEMS\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+D:\IEMS\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+D:\IEMS\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+D:\final\UserMgmt\UserMgmt\NLog.config
+D:\final\UserMgmt\UserMgmt\Usermngt.DAL.dll
+D:\final\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+D:\final\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+D:\final\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+D:\final\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+E:\IEMS\UserMgmt\UserMgmt\NLog.config
+E:\IEMS\UserMgmt\UserMgmt\Usermngt.DAL.dll
+E:\IEMS\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+E:\IEMS\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+E:\IEMS\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+E:\IEMS\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\NLog.config
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\Usermngt.DAL.dll
+D:\New IEMS 13-9-21\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+D:\New IEMS 13-9-21\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+E:\partha\New folder\UserMgmt\UserMgmt\NLog.config
+E:\partha\New folder\UserMgmt\UserMgmt\Usermngt.DAL.dll
+E:\partha\New folder\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+E:\partha\New folder\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+E:\partha\New folder\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+E:\partha\New folder\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb
+E:\UserMgmt\UserMgmt\NLog.config
+E:\UserMgmt\UserMgmt\Usermngt.DAL.dll
+E:\UserMgmt\UserMgmt\Usermngt.DAL.pdb
+E:\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.csprojResolveAssemblyReference.cache
+E:\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.dll
+E:\UserMgmt\Usermngt.DAL\obj\Debug\Usermngt.DAL.pdb

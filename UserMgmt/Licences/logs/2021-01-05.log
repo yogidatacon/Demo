@@ -1,0 +1,445 @@
+2021-01-05 13:07:28.2390 INFO Get User Success :44-Administrator
+2021-01-05 13:07:35.5445 INFO Get State List Success
+2021-01-05 13:07:48.9444 INFO Get Role Level List Success
+2021-01-05 13:07:50.2113 INFO Get access_type List Success
+2021-01-05 13:07:50.9858 INFO Get view_Role_master List Success
+2021-01-05 13:07:52.2942 INFO Get State List Success
+2021-01-05 13:07:52.9662 INFO Get Division List Success
+2021-01-05 13:08:01.3814 INFO Org Get List Success
+2021-01-05 13:08:02.7181 INFO Get SubModule Sucess
+2021-01-05 13:08:29.0168 INFO Get SubModule Sucess
+2021-01-05 13:08:37.4199 INFO Get State List Success
+2021-01-05 13:13:44.2175 INFO Get State List Success
+2021-01-05 13:13:44.2175 INFO Get Division List Success
+2021-01-05 13:25:06.0860 INFO Get User Success :44-Administrator
+2021-01-05 13:25:09.4633 INFO Get State List Success
+2021-01-05 13:25:31.9453 INFO Get State List Success
+2021-01-05 13:25:54.5496 INFO Get Division List Success
+2021-01-05 13:26:01.1436 INFO Get Division List Success
+2021-01-05 13:37:54.5286 INFO Get State List Success
+2021-01-05 13:37:58.2004 INFO Get State List Success
+2021-01-05 13:38:00.2907 INFO Get view_Role_master List Success
+2021-01-05 13:38:10.0344 INFO Get State List Success
+2021-01-05 13:38:19.5920 INFO Get Division List Success
+2021-01-05 15:25:45.5188 INFO Get User Success :44-Administrator
+2021-01-05 15:25:54.3435 INFO Org Get List Success
+2021-01-05 15:25:59.5065 INFO Module Get List Success
+2021-01-05 15:26:02.6804 INFO Org Get List Success
+2021-01-05 15:26:02.6984 INFO Get SubModule Sucess
+2021-01-05 15:26:21.9610 INFO Get SubModule Sucess
+2021-01-05 15:26:26.6949 INFO Get SubModule Sucess
+2021-01-05 15:26:28.8979 INFO Get SubModule Sucess
+2021-01-05 15:26:39.3705 INFO Get TabNames List Success
+2021-01-05 15:26:40.2208 INFO Module Get List Success
+2021-01-05 15:26:42.6579 INFO Org Get List Success
+2021-01-05 15:26:42.6609 INFO Get SubModule Sucess
+2021-01-05 15:30:12.7227 INFO Get User Success :44-Administrator
+2021-01-05 15:30:29.2315 INFO Org Get List Success
+2021-01-05 15:30:31.5256 INFO Module Get List Success
+2021-01-05 15:30:32.9587 INFO Org Get List Success
+2021-01-05 15:30:32.9587 INFO Get SubModule Sucess
+2021-01-05 15:30:34.6437 INFO Get SubModule Sucess
+2021-01-05 15:30:37.2720 INFO Org Get List Success
+2021-01-05 15:30:37.2720 INFO Module Get List Success
+2021-01-05 15:30:37.2720 INFO Get TabNames List Success
+2021-01-05 15:30:39.3349 INFO Get TabNames List Success
+2021-01-05 15:30:40.3961 INFO Org Get List Success
+2021-01-05 15:30:40.3961 INFO Module Get List Success
+2021-01-05 15:30:40.3961 INFO Get SubModule Sucess
+2021-01-05 15:30:40.3961 INFO Get WorkFlow List Success
+2021-01-05 15:30:46.9765 INFO Get TabNames List Success
+2021-01-05 15:32:10.7271 INFO Get State List Success
+2021-01-05 15:32:13.3896 INFO Get State List Success
+2021-01-05 15:32:18.5841 INFO Get Existing data Fail :state_master
+2021-01-05 15:32:33.6271 INFO Insert State Success :S1-S1
+2021-01-05 15:32:37.9539 INFO Get State List Success
+2021-01-05 15:34:57.6891 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-05 15:34:57.8103 INFO Get User Success :harinagar_dis
+2021-01-05 15:35:16.4694 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-05 15:35:26.2084 INFO Get User Success :144-Police Banka
+2021-01-05 15:35:26.2084 INFO Get User Success :police_Banka
+2021-01-05 15:35:42.6465 INFO Get User Success :144-Police Banka
+2021-01-05 15:35:42.6465 INFO Get User Success :police_Banka
+2021-01-05 15:39:28.4474 INFO Get User Success :144-Police Banka
+2021-01-05 15:39:36.3851 INFO Get User Success :44-Administrator
+2021-01-05 15:39:40.3454 INFO Get State List Success
+2021-01-05 15:39:49.5269 INFO Org Get List Success
+2021-01-05 15:39:50.0523 INFO Get view_Role_master List Success
+2021-01-05 15:40:04.1664 INFO Org Get List Success
+2021-01-05 15:40:04.1664 INFO Get Role Level List Success
+2021-01-05 15:40:04.1664 INFO Get access_type List Success
+2021-01-05 15:40:04.1789 INFO Get view_Role_master List Success
+2021-01-05 15:40:04.1927 INFO Get Users List Success
+2021-01-05 15:50:55.5423 INFO Get User Success :144-Police Banka
+2021-01-05 15:50:55.5879 INFO Get User Success :police_Banka
+2021-01-05 15:50:57.6481 INFO Get User Success :144-Police Banka
+2021-01-05 15:50:57.6481 INFO Get User Success :144-Police Banka
+2021-01-05 15:54:39.1375 INFO Get User Success :144-Police Banka
+2021-01-05 15:54:39.1963 INFO Get User Success :police_Banka
+2021-01-05 15:55:17.1354 INFO Get User Success :police_Banka
+2021-01-05 15:55:45.0236 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.7546 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.7888 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.8190 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.8480 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.8867 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.9156 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.9445 INFO Get User Success :police_Banka
+2021-01-05 15:57:15.9814 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.0108 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.0377 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.0762 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.0990 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.1789 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.2108 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.2548 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.3017 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.3193 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.3668 INFO Get User Success :police_Banka
+2021-01-05 15:57:16.3957 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.4592 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.4782 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.5061 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.5400 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.5909 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.6148 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.6447 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.6776 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.7116 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.7395 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.7885 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.8603 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.9121 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.9620 INFO Get User Success :police_Banka
+2021-01-05 15:57:17.9889 INFO Get User Success :police_Banka
+2021-01-05 15:57:18.0198 INFO Get User Success :police_Banka
+2021-01-05 15:57:18.0527 INFO Get User Success :police_Banka
+2021-01-05 15:57:18.1339 INFO Get User Success :police_Banka
+2021-01-05 15:57:18.1797 INFO Get User Success :police_Banka
+2021-01-05 15:57:18.2246 INFO Get User Success :police_Banka
+2021-01-05 15:58:11.6859 INFO Get User Success :144-Police Banka
+2021-01-05 15:58:11.7532 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.3789 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.4213 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.4585 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.4885 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.5264 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.5531 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.5851 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.6136 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.6448 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.6927 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.7126 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.7395 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.7774 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.8074 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.8812 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.9106 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.9285 INFO Get User Success :police_Banka
+2021-01-05 15:58:23.9574 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.0545 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.0834 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.1152 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.1351 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.1638 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.1921 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.2394 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.2703 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.3052 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.3352 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.3641 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.3950 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.4319 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.4605 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.4955 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.5204 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.5563 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.5892 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.6161 INFO Get User Success :police_Banka
+2021-01-05 15:58:25.6331 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.6788 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.7097 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.7406 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.7713 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.8206 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.8524 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.8814 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.9125 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.9434 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.9604 INFO Get User Success :police_Banka
+2021-01-05 15:58:30.9893 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.0242 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.0521 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.0701 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.1140 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.1339 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.1619 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.1987 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.2227 INFO Get User Success :police_Banka
+2021-01-05 15:58:31.2576 INFO Get User Success :police_Banka
+2021-01-05 15:58:37.0354 INFO Get User Success :police_Banka
+2021-01-05 15:59:07.7739 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.7724 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.8054 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.8354 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.8672 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.8952 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.9331 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.9640 INFO Get User Success :police_Banka
+2021-01-05 15:59:09.9909 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.0238 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.0508 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.0687 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.1026 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.1181 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.1641 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.1950 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.2250 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.2559 INFO Get User Success :police_Banka
+2021-01-05 15:59:10.2852 INFO Get User Success :police_Banka
+2021-01-05 15:59:57.2333 INFO Get User Success :144-Police Banka
+2021-01-05 15:59:57.2428 INFO Get User Success :police_Banka
+2021-01-05 16:00:05.9583 INFO Get User Success :police_Banka
+2021-01-05 16:00:05.9954 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.0243 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.0545 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.0829 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.1271 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.1476 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.1778 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.2277 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.2555 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.2852 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.3266 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.3548 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.3810 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.4268 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.4459 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.4739 INFO Get User Success :police_Banka
+2021-01-05 16:00:06.5114 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.5832 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.6011 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.6291 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.6610 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.6979 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.7268 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.8066 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.8345 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.8525 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.8804 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.9178 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.9487 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.9756 INFO Get User Success :police_Banka
+2021-01-05 16:00:07.9916 INFO Get User Success :police_Banka
+2021-01-05 16:00:08.0365 INFO Get User Success :police_Banka
+2021-01-05 16:00:08.0683 INFO Get User Success :police_Banka
+2021-01-05 16:00:08.1017 INFO Get User Success :police_Banka
+2021-01-05 16:00:08.1505 INFO Get User Success :police_Banka
+2021-01-05 16:00:08.1794 INFO Get User Success :police_Banka
+2021-01-05 16:00:08.2074 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.2412 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.2702 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.3071 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.3370 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.3669 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.3988 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.4268 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.4637 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.4896 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.5059 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.5357 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.5697 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.5978 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.6298 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.6783 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.7235 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.7659 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.7861 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.8241 INFO Get User Success :police_Banka
+2021-01-05 16:00:13.8501 INFO Get User Success :police_Banka
+2021-01-05 16:00:43.9112 INFO Get User Success :police_Banka
+2021-01-05 16:00:43.9421 INFO Get User Success :police_Banka
+2021-01-05 16:00:43.9911 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.0200 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.0390 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.0686 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.1069 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.1295 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.1674 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.1968 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.2266 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.2445 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.2748 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.3042 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.3357 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.3646 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.3955 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.4328 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.4628 INFO Get User Success :police_Banka
+2021-01-05 16:00:44.4918 INFO Get User Success :police_Banka
+2021-01-05 16:07:10.8749 INFO Get User Success :144-Police Banka
+2021-01-05 16:07:15.0137 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.0532 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.0987 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.1181 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.1466 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.1767 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.2146 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.2441 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.2699 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.3015 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.3368 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.3706 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.3999 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.4295 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.4572 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.4957 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.5246 INFO Get User Success :police_Banka
+2021-01-05 16:07:15.5526 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.6141 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.6530 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.6820 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.7119 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.7388 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.7767 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.8186 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.8534 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.8804 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.8973 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.9262 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.9601 INFO Get User Success :police_Banka
+2021-01-05 16:07:16.9781 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.0060 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.0419 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.0731 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.1010 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.1298 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.1986 INFO Get User Success :police_Banka
+2021-01-05 16:07:17.2385 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.4168 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.4477 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.4757 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.4936 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.5205 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.5564 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.5724 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.6165 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.6345 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.6819 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.7241 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.7630 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.8020 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.8389 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.8709 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.9008 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.9297 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.9586 INFO Get User Success :police_Banka
+2021-01-05 16:07:22.9766 INFO Get User Success :police_Banka
+2021-01-05 16:07:23.0055 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.0716 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.1025 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.1314 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.1634 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.1943 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.2761 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.3216 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.3495 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.3844 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.4114 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.4303 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.4762 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.5111 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.5380 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.5729 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.6148 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.6328 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.6617 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.6956 INFO Get User Success :police_Banka
+2021-01-05 16:07:28.7136 INFO Get User Success :police_Banka
+2021-01-05 16:07:46.0854 INFO Get User Success :police_Banka
+2021-01-05 16:16:35.4710 INFO Get User Success :44-Administrator
+2021-01-05 16:17:33.7370 INFO Get User Success :44-Administrator
+2021-01-05 16:20:55.2410 INFO Get User Success :44-Administrator
+2021-01-05 16:20:59.5245 INFO Get State List Success
+2021-01-05 16:21:01.0358 INFO Get Role Level List Success
+2021-01-05 16:21:02.5776 INFO Get view_Role_master List Success
+2021-01-05 16:21:35.4712 INFO Get view_Role_master List Success
+2021-01-05 16:21:58.5563 INFO Get view_Role_master List Success
+2021-01-05 16:22:05.2061 INFO Org Get List Success
+2021-01-05 16:22:05.2122 INFO Get Role Level List Success
+2021-01-05 16:22:05.2122 INFO Get access_type List Success
+2021-01-05 16:22:05.2122 INFO Get view_Role_master List Success
+2021-01-05 16:22:05.2334 INFO Get Users List Success
+2021-01-05 16:22:06.8646 INFO Get view_Role_master List Success
+2021-01-05 16:22:30.6312 INFO Get access_type List Success
+2021-01-05 16:22:39.3567 INFO Get view_Role_master List Success
+2021-01-05 16:23:12.0733 INFO Get view_Role_master List Success
+2021-01-05 16:24:55.8136 INFO Get Party Type Master List Success
+2021-01-05 16:24:57.7378 INFO Get Product Master List Success
+2021-01-05 16:24:59.4527 INFO Get Product Type Master List Success
+2021-01-05 16:25:46.2396 INFO Get Product Type Master List Success
+2021-01-05 16:27:01.2255 INFO Get VAT Master List Success
+2021-01-05 16:28:00.8130 INFO Get VAT Master List Success
+2021-01-05 16:28:03.4072 INFO Get Product Type Master List Success
+2021-01-05 16:28:03.4181 INFO Get VAT Master List Success
+2021-01-05 16:28:12.3030 INFO Get Product Type Master List Success
+2021-01-05 16:28:12.3030 INFO Get VAT Master List Success
+2021-01-05 16:28:13.1853 INFO Get Product Type Master List Success
+2021-01-05 16:28:13.1962 INFO Get VAT Master List Success
+2021-01-05 16:28:13.3836 INFO Get Product Type Master List Success
+2021-01-05 16:28:13.3836 INFO Get VAT Master List Success
+2021-01-05 16:28:13.5568 INFO Get Product Type Master List Success
+2021-01-05 16:28:13.5668 INFO Get VAT Master List Success
+2021-01-05 16:28:14.8169 INFO Get Product Master List Success
+2021-01-05 16:28:16.0164 INFO Get Product Type Master List Success
+2021-01-05 16:28:16.0264 INFO Get VAT Master List Success
+2021-01-05 16:28:23.1586 INFO Get Product Type Master List Success
+2021-01-05 16:28:23.1685 INFO Get VAT Master List Success
+2021-01-05 16:28:23.6785 INFO Get Product Type Master List Success
+2021-01-05 16:28:23.6785 INFO Get VAT Master List Success
+2021-01-05 16:28:23.9588 INFO Get Product Type Master List Success
+2021-01-05 16:28:23.9588 INFO Get VAT Master List Success
+2021-01-05 16:28:24.1572 INFO Get Product Type Master List Success
+2021-01-05 16:28:24.1682 INFO Get VAT Master List Success
+2021-01-05 16:28:24.3358 INFO Get Product Type Master List Success
+2021-01-05 16:28:24.3358 INFO Get VAT Master List Success
+2021-01-05 16:28:24.5173 INFO Get Product Type Master List Success
+2021-01-05 16:28:24.5303 INFO Get VAT Master List Success
+2021-01-05 16:28:39.1684 INFO Get Product Type Master List Success
+2021-01-05 16:28:39.1794 INFO Get VAT Master List Success
+2021-01-05 16:28:53.7436 INFO Get Product Master List Success
+2021-01-05 16:28:55.0654 INFO Get Product Type Master List Success
+2021-01-05 16:28:55.0764 INFO Get VAT Master List Success
+2021-01-05 16:28:56.7901 INFO Get Product Master List Success
+2021-01-05 16:29:30.1428 INFO Get UOM List Success
+2021-01-05 16:29:32.2267 INFO Get UOM List Success
+2021-01-05 16:30:53.8473 INFO Get UOM List Success
+2021-01-05 16:30:53.8583 INFO Get VAT Master List Success
+2021-01-05 16:33:25.6705 INFO Get VAT Type Master List Success
+2021-01-05 16:33:27.0975 INFO Get VAT Master List Success
+2021-01-05 16:33:31.3023 INFO Get VAT Type Master List Success
+2021-01-05 16:33:32.5708 INFO Get VAT Master List Success
+2021-01-05 16:33:34.9215 INFO Get VAT Master List Success
+2021-01-05 16:33:36.3497 INFO Get Party Type Master List Success
+2021-01-05 16:33:36.3497 INFO Get UOM List Success
+2021-01-05 16:33:36.3497 INFO Get Product Type Master List Success
+2021-01-05 16:33:36.3497 INFO Get VAT Type Master List Success
+2021-01-05 16:33:36.3826 INFO Get VAT Details Fail :Field not found in row: party_name
+2021-01-05 16:33:36.3826 INFO Get Party Master List Success
+2021-01-05 16:33:36.3826 INFO Get Product Master List Success
+2021-01-05 16:33:55.8438 INFO Get Dispach Master List Success
+2021-01-05 16:33:56.8891 INFO Get Dispach Master List Success
+2021-01-05 17:24:54.3202 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-05 17:24:54.4236 INFO Get User Success :com
+2021-01-05 17:25:10.2373 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-05 17:25:10.2530 INFO Get User Success :101-B Kartikey Dhanji
+2021-01-05 17:28:24.7624 INFO Get User Success :144-Police Banka
+2021-01-05 17:36:30.7913 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-05 17:36:30.8852 INFO Get User Success :harinagar_dis
+2021-01-05 17:38:54.2016 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-05 17:38:54.3063 INFO Get User Success :harinagar_dis
+2021-01-05 18:04:23.9478 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-05 18:04:24.0261 INFO Get User Success :harinagar_dis
+2021-01-05 18:04:27.1272 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-01-05 18:27:18.0189 INFO Get User Success :104-Riga Distillery Division
+2021-01-05 18:27:18.0991 INFO Get User Success :riga_dis

@@ -1,0 +1,274 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+@import url(http://fonts.googleapis.com/css?family=Economica|Unica+One|Baumans|Roboto+Condensed:400,700|Didact+Gothic|Open+Sans+Condensed:300);
+@import url(responsive-table.css);
+
+input[type="text"] {
+    margin-bottom: 0 !important;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+    height: 60px;
+}
+
+html,
+body {
+    height: 100%;
+    /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by its height */
+    margin: 0 auto -60px;
+    /* Pad bottom by footer height */
+    padding: 0 0 60px;
+}
+
+#footer {
+    background-color: #f5f5f5;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 700px) {
+
+    #footer {
+        margin-left: -20px;
+        margin-right: -20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .logo {
+        font-size: 10px;
+    }
+
+    .input-sm {
+        padding: 1px 5px;
+    }
+
+    .notes, .logoContainer {
+        display: none;
+    }
+
+    .table-condensed tbody > tr > td {
+        padding: 2px;
+    }
+
+    hr {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .input-group-addon {
+        display: none;
+    }
+
+}
+
+/* Custom page CSS - Override Bootstrap CSS
+-------------------------------------------------- */
+
+.invTotal {
+    text-align: right;
+    font-weight: bold;
+}
+
+.page-header {
+    padding-top: 15px !important;
+}
+
+
+
+div.inline {
+    display: inline;
+}
+
+#invGrandTotalTop > h4 {
+    margin: 0;
+    padding-top: 10px;
+}
+
+.container {
+    width: auto;
+    max-width: 1200px;
+}
+
+.container .credit {
+    margin: 20px 0;
+}
+
+#deleteRow {
+    cursor: pointer;
+}
+
+.logoContainer {
+    text-align: right;
+}
+
+.logo {
+    font-size: 35px;
+    line-height: 30px;
+    font-family: 'Economica', sans-serif;
+}
+
+.companyInfo {
+    float:right;
+}
+
+#deleteRow {
+    font-size: 25px;
+    color: #d43f3a;
+}
+
+/*Inline editing styles*/
+.edit {
+    width: 300px;
+    height: 25px;
+    padding-left: 5px;
+    padding-right: 20px;
+    margin: 0;
+    border-left: 3px solid #428bca;
+    border-bottom: 1px #ccc solid;
+}
+
+.edit:hover {
+    border: 1px solid #ecf0f1;
+    background: #ecf0f1;
+    border-left: 3px solid #e74c3c;
+    cursor: pointer;
+}
+
+.required {
+    border-left: 3px solid #e74c3c;
+    background: #f2dede;
+}
+
+/* Autocomplete - Additional Information Box */
+
+.additionalInfo h4 {
+    margin: 0 0 4px 0 !important;
+}
+
+.additionalInfo {
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+}
+
+.additionalInfo span {
+    margin-left: -999em;
+    position: absolute;
+    font-size: 0.9em;
+}
+
+.additionalInfo:hover span {
+    /*opacity:0.9;*/
+    /*filter:alpha(opacity=90);*/
+    border-radius: 5px 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+    font-family: Calibri, Tahoma, Geneva, sans-serif;
+    color: #000;
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    z-index: 99;
+    margin-left: 0;
+    width: 200px;
+}
+
+.additionalInfo:hover img {
+    border: 0;
+    margin: -10px 0 0 -55px;
+    float: left;
+    position: absolute;
+}
+
+.additionalInfoColor {
+    padding: 10px;
+    background: #fcf8e3;
+    border: 1px solid #fbeed5;
+}
+
+.button
+    {        
+        display: inline-block;
+        white-space: nowrap;
+        background-color: #ddd;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ccc));
+        background-image: -webkit-linear-gradient(top, #eee, #ccc);
+        background-image: -moz-linear-gradient(top, #eee, #ccc);
+        background-image: -ms-linear-gradient(top, #eee, #ccc);
+        background-image: -o-linear-gradient(top, #eee, #ccc);
+        background-image: linear-gradient(top, #eee, #ccc);
+        border: 1px solid #777;
+        padding: 0 1.5em;
+        margin: 0.5em;
+        font: bold 1em/2em Arial, Helvetica;
+        text-decoration: none;
+        color: #333;
+        text-shadow: 0 1px 0 rgba(255,255,255,.8);
+        -moz-border-radius: .2em;
+        -webkit-border-radius: .2em;
+        border-radius: .2em;
+        -moz-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.3);
+        -webkit-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.3);
+        box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.3);
+    }
+    
+    .button:hover
+    {
+        background-color: #eee;        
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#fafafa), to(#ddd));
+        background-image: -webkit-linear-gradient(top, #fafafa, #ddd);
+        background-image: -moz-linear-gradient(top, #fafafa, #ddd);
+        background-image: -ms-linear-gradient(top, #fafafa, #ddd);
+        background-image: -o-linear-gradient(top, #fafafa, #ddd);
+        background-image: linear-gradient(top, #fafafa, #ddd);
+    }
+    
+    .button:active
+    {
+        -moz-box-shadow: 0 0 4px 2px rgba(0,0,0,.3) inset;
+        -webkit-box-shadow: 0 0 4px 2px rgba(0,0,0,.3) inset;
+        box-shadow: 0 0 4px 2px rgba(0,0,0,.3) inset;
+        position: relative;
+        top: 1px;
+    }
+    
+    .button:focus
+    {
+        outline: 0;
+        background: #fafafa;
+    }    
+    
+    .button:before
+    {
+        background: #ccc;
+        background: rgba(0,0,0,.1);
+        float: left;        
+        width: 1em;
+        text-align: center;
+        font-size: 1.5em;
+        margin: 0 1em 0 -1em;
+        padding: 0 .2em;
+        -moz-box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+        -webkit-box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+        box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+        -moz-border-radius: .15em 0 0 .15em;
+        -webkit-border-radius: .15em 0 0 .15em;
+        border-radius: .15em 0 0 .15em;     
+        pointer-events: none;		
+    }
+    .button ul{
+        display: inline-block;
+    }

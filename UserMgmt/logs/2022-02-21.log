@@ -1,0 +1,67 @@
+2022-02-21 11:53:15.7221 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-02-21 11:53:22.9315 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-02-21 11:53:29.2587 INFO Get Product Type Master List Success
+2022-02-21 11:53:29.5230 INFO Get User Success :bharat_dis
+2022-02-21 11:53:45.8006 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-02-21 11:53:50.7751 INFO Get Product Type Master List Success
+2022-02-21 11:53:51.0437 INFO Get User Success :bharat_dis
+2022-02-21 11:54:05.8753 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-02-21 11:54:05.9461 INFO Get Product Type Master List Success
+2022-02-21 11:54:06.3954 INFO Get User Success :bharat_dis
+2022-02-21 11:54:09.4496 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-02-21 11:54:09.6112 INFO Get VAT Master List Success
+2022-02-21 11:54:09.6675 INFO Get Product Type Master List Success
+2022-02-21 11:54:10.1633 INFO Get User Success :bharat_dis
+2022-02-21 11:54:40.9731 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2022-02-21 11:54:48.0634 INFO Get VAT Master List Success
+2022-02-21 11:54:48.1499 INFO Get Product Type Master List Success
+2022-02-21 11:54:48.4206 INFO Get User Success :bharat_dis
+2022-02-21 17:54:22.6140 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-21 17:54:53.3088 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-21 17:54:58.2190 INFO Get Product Type Master List Success
+2022-02-21 17:54:58.3436 INFO Get User Success :vishnu_sgr
+2022-02-21 17:55:08.1511 INFO Sugarcanepurchase Get List Success
+2022-02-21 17:55:08.2039 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-21 17:55:08.2962 INFO Get Product Type Master List Success
+2022-02-21 17:55:08.4497 INFO Get User Success :vishnu_sgr
+2022-02-21 17:55:10.2935 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-21 17:55:11.9599 INFO Get Product Type Master List Success
+2022-02-21 17:55:12.1612 INFO Get User Success :vishnu_sgr
+2022-02-21 17:55:14.1496 INFO Get User Fail :115--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-21 17:55:14.3131 INFO Get Party Master List Success
+2022-02-21 17:57:07.8541 INFO Get Product Type Master List Success
+2022-02-21 17:57:08.0132 INFO Get User Success :vishnu_sgr
+2022-02-21 17:57:55.8255 INFO Sugarcanepurchase Get List Success
+2022-02-21 17:57:55.8784 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-21 17:57:55.9302 INFO Get Product Type Master List Success
+2022-02-21 17:57:56.0867 INFO Get User Success :vishnu_sgr
+2022-02-21 17:57:59.0838 INFO Get User Success :115-Vishnu Sugar Mills Ltd
+2022-02-21 17:57:59.1469 INFO Get Report  Success
+2022-02-21 17:57:59.1997 INFO GetFinacListValues Success
+2022-02-21 17:57:59.3022 INFO Get Party Master List Success
+2022-02-21 17:57:59.3516 INFO Get Product Type Master List Success
+2022-02-21 17:57:59.4613 INFO Get User Success :vishnu_sgr
+2022-02-21 17:58:08.6731 INFO Get VAT Master List Success
+2022-02-21 17:58:11.3177 INFO Get Party Master Details Success
+2022-02-21 17:58:24.4711 INFO Get Report  Success
+2022-02-21 17:58:24.7533 INFO Get GetSeverList Success
+2022-02-21 17:59:03.6739 INFO Get GetSeverList Success
+2022-02-21 18:01:23.3318 INFO Get User Success :111-New Swadeshi Sugar Mills
+2022-02-21 18:01:29.3367 INFO Get User Success :111-New Swadeshi Sugar Mills
+2022-02-21 18:01:32.9785 INFO Get Product Type Master List Success
+2022-02-21 18:01:33.1281 INFO Get User Success :newswadeshi_sgr
+2022-02-21 18:01:46.5927 INFO Sugarcanepurchase Get List Success
+2022-02-21 18:01:46.6459 INFO Get User Success :111-New Swadeshi Sugar Mills
+2022-02-21 18:01:46.7376 INFO Get Product Type Master List Success
+2022-02-21 18:01:46.8942 INFO Get User Success :newswadeshi_sgr
+2022-02-21 18:01:57.3892 INFO Get User Fail :111--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-21 18:01:59.7274 INFO Get Product Type Master List Success
+2022-02-21 18:01:59.9887 INFO Get User Success :newswadeshi_sgr
+2022-02-21 18:03:44.7335 INFO Get User Fail :111--Index and length must refer to a location within the string.
+Parameter name: length
+2022-02-21 18:03:44.8857 INFO Get Party Master List Success
+2022-02-21 18:03:47.1796 INFO Get Product Type Master List Success
+2022-02-21 18:03:47.3343 INFO Get User Success :newswadeshi_sgr

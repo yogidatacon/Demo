@@ -1,0 +1,315 @@
+2021-11-22 10:46:32.0604 INFO Get User Success :44-Administrator
+2021-11-22 10:46:32.2678 INFO Get User Success :44-Administrator
+2021-11-22 10:46:32.3102 INFO Get Product Type Master List Success
+2021-11-22 10:46:32.3296 INFO Get User Success :Admin
+2021-11-22 10:46:37.6093 INFO Get Party Master List Success
+2021-11-22 10:46:37.6602 INFO GetFinacListValues Success
+2021-11-22 10:46:37.6612 INFO Get Product Type Master List Success
+2021-11-22 10:46:37.6612 INFO Get User Success :Admin
+2021-11-22 10:46:42.2252 INFO Get Party Master List Success
+2021-11-22 10:46:42.2252 INFO GetFinacListValues Success
+2021-11-22 10:47:01.1190 INFO Get Party Master List Success
+2021-11-22 10:47:01.1190 INFO GetFinacListValues Success
+2021-11-22 10:47:09.2993 INFO Get Party Master List Success
+2021-11-22 10:47:09.3009 INFO GetFinacListValues Success
+2021-11-22 12:56:30.4864 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-11-22 12:56:30.6452 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-11-22 12:56:30.7575 INFO Get Product Type Master List Success
+2021-11-22 12:56:30.7786 INFO Get User Success :newswadeshi_dis
+2021-11-22 12:56:40.1285 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-11-22 12:56:40.1520 INFO Get Report  Success
+2021-11-22 12:56:42.6009 INFO Get Party Master List Success
+2021-11-22 12:56:42.6009 INFO Get Product Type Master List Success
+2021-11-22 12:56:42.6009 INFO Get User Success :newswadeshi_dis
+2021-11-22 12:56:48.3388 INFO Get VAT Master List Success
+2021-11-22 12:56:57.7600 INFO Get GetSeverList Success
+2021-11-22 12:59:40.2966 INFO Get VAT Master List Success
+2021-11-22 12:59:47.7021 INFO Get GetSeverList Success
+2021-11-22 13:01:29.1520 INFO Get VAT Master List Success
+2021-11-22 13:01:35.2113 INFO Get GetSeverList Success
+2021-11-22 13:09:56.9870 INFO Get GetSeverList Success
+2021-11-22 16:36:17.8550 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:36:18.0257 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:36:18.1191 INFO Get Product Type Master List Success
+2021-11-22 16:36:18.1294 INFO Get User Success :sonasati_dis
+2021-11-22 16:36:45.8521 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:36:52.5169 INFO Get Product Type Master List Success
+2021-11-22 16:36:52.5249 INFO Get User Success :sonasati_dis
+2021-11-22 16:36:54.6326 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:36:54.6742 INFO Get Product Type Master List Success
+2021-11-22 16:36:54.6842 INFO Get User Success :sonasati_dis
+2021-11-22 16:36:56.5149 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:36:56.5452 INFO Get VAT Master List Success
+2021-11-22 16:36:56.5596 INFO Get Product Type Master List Success
+2021-11-22 16:36:56.5596 INFO Get User Success :sonasati_dis
+2021-11-22 16:36:59.7084 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:36:59.7242 INFO Get VAT Master List Success
+2021-11-22 16:37:01.4070 INFO Get Product Type Master List Success
+2021-11-22 16:37:01.4130 INFO Get User Success :sonasati_dis
+2021-11-22 16:37:48.7219 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:37:48.7409 INFO Get Form84 List Success
+2021-11-22 16:37:48.7572 INFO Get Product Type Master List Success
+2021-11-22 16:37:48.7572 INFO Get User Success :sonasati_dis
+2021-11-22 16:37:51.8022 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:37:51.8022 INFO Get VAT Master List Success
+2021-11-22 16:37:51.8022 INFO Get VAT Master List Success
+2021-11-22 16:37:51.8022 INFO Get VAT Master List Success
+2021-11-22 16:37:51.8177 INFO Get VAT Master List Success
+2021-11-22 16:37:51.8177 INFO Get VAT Master List Success
+2021-11-22 16:37:51.8177 INFO Get VAT Master List Success
+2021-11-22 16:37:51.8354 INFO Get Product Type Master List Success
+2021-11-22 16:37:51.8354 INFO Get User Success :sonasati_dis
+2021-11-22 16:38:32.2343 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:38:32.2393 INFO Get Form84 List Success
+2021-11-22 16:38:32.2393 INFO Get Product Type Master List Success
+2021-11-22 16:38:32.2393 INFO Get User Success :sonasati_dis
+2021-11-22 16:38:40.9811 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:38:40.9811 INFO Get VAT Master List Success
+2021-11-22 16:38:40.9811 INFO Get VAT Master List Success
+2021-11-22 16:38:40.9811 INFO Get VAT Master List Success
+2021-11-22 16:38:40.9811 INFO Get VAT Master List Success
+2021-11-22 16:38:40.9891 INFO Get VAT Master List Success
+2021-11-22 16:38:40.9891 INFO Get VAT Master List Success
+2021-11-22 16:38:40.9891 INFO Get Product Type Master List Success
+2021-11-22 16:38:40.9891 INFO Get User Success :sonasati_dis
+2021-11-22 16:38:43.8883 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:38:43.9124 INFO Get Product Type Master List Success
+2021-11-22 16:38:43.9124 INFO Get User Success :sonasati_dis
+2021-11-22 16:38:50.0425 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:38:50.0425 INFO Get Product Type Master List Success
+2021-11-22 16:38:50.0554 INFO Get User Success :sonasati_dis
+2021-11-22 16:38:51.8626 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:38:51.8670 INFO Get VAT Master List Success
+2021-11-22 16:38:51.8670 INFO Get VAT Master List Success
+2021-11-22 16:38:51.8802 INFO Get Product Type Master List Success
+2021-11-22 16:38:51.8802 INFO Get User Success :sonasati_dis
+2021-11-22 16:39:04.4906 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:39:04.5233 INFO Get Product Type Master List Success
+2021-11-22 16:39:04.5233 INFO Get User Success :sonasati_dis
+2021-11-22 16:39:09.3819 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:39:09.4342 INFO Get Product Type Master List Success
+2021-11-22 16:39:09.4342 INFO Get User Success :sonasati_dis
+2021-11-22 16:39:14.8063 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:39:14.8063 INFO Get Product Type Master List Success
+2021-11-22 16:39:14.8193 INFO Get User Success :sonasati_dis
+2021-11-22 16:39:18.3548 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:39:18.5937 INFO Get Product Type Master List Success
+2021-11-22 16:39:18.6009 INFO Get User Success :sonasati_dis
+2021-11-22 16:39:24.9272 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:39:24.9272 INFO Get Product Type Master List Success
+2021-11-22 16:39:24.9436 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:29.2327 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:29.2327 INFO Get Product Type Master List Success
+2021-11-22 16:41:29.2437 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:30.6247 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:30.6247 INFO Get Product Type Master List Success
+2021-11-22 16:41:30.6357 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:32.6510 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:32.6510 INFO Get VAT Master List Success
+2021-11-22 16:41:32.6510 INFO Get VAT Master List Success
+2021-11-22 16:41:32.6740 INFO Get Product Type Master List Success
+2021-11-22 16:41:32.6800 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:36.2430 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:36.2430 INFO Get Product Type Master List Success
+2021-11-22 16:41:36.2542 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:38.2977 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:38.3047 INFO Get VAT Master List Success
+2021-11-22 16:41:38.3047 INFO Get VAT Master List Success
+2021-11-22 16:41:38.3047 INFO Get Product Type Master List Success
+2021-11-22 16:41:38.3220 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:43.6436 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:43.6526 INFO Get Form84 List Success
+2021-11-22 16:41:43.6526 INFO Get Product Type Master List Success
+2021-11-22 16:41:43.6625 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:44.5143 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:44.5213 INFO Get VAT Master List Success
+2021-11-22 16:41:44.5213 INFO Get Product Type Master List Success
+2021-11-22 16:41:44.5213 INFO Get User Success :sonasati_dis
+2021-11-22 16:41:46.7065 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:41:46.7095 INFO Get VAT Master List Success
+2021-11-22 16:41:48.1557 INFO Get Product Type Master List Success
+2021-11-22 16:41:48.1637 INFO Get User Success :sonasati_dis
+2021-11-22 16:42:03.3852 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:42:03.3852 INFO Get Form84 List Success
+2021-11-22 16:42:03.3852 INFO Get Product Type Master List Success
+2021-11-22 16:42:03.3977 INFO Get User Success :sonasati_dis
+2021-11-22 16:42:05.5395 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:42:05.5395 INFO Get VAT Master List Success
+2021-11-22 16:42:05.5395 INFO Get VAT Master List Success
+2021-11-22 16:42:05.5395 INFO Get VAT Master List Success
+2021-11-22 16:42:05.5524 INFO Get VAT Master List Success
+2021-11-22 16:42:05.5524 INFO Get VAT Master List Success
+2021-11-22 16:42:05.5524 INFO Get VAT Master List Success
+2021-11-22 16:42:05.5524 INFO Get Product Type Master List Success
+2021-11-22 16:42:05.5681 INFO Get User Success :sonasati_dis
+2021-11-22 16:42:09.9222 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:42:09.9272 INFO Get Form84 List Success
+2021-11-22 16:42:09.9435 INFO Get Product Type Master List Success
+2021-11-22 16:42:09.9435 INFO Get User Success :sonasati_dis
+2021-11-22 16:42:11.7270 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:42:11.7270 INFO Get VAT Master List Success
+2021-11-22 16:42:11.7270 INFO Get VAT Master List Success
+2021-11-22 16:42:11.7400 INFO Get Product Type Master List Success
+2021-11-22 16:42:11.7400 INFO Get User Success :sonasati_dis
+2021-11-22 16:44:19.6853 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:44:19.6853 INFO Get Product Type Master List Success
+2021-11-22 16:44:19.6983 INFO Get User Success :sonasati_dis
+2021-11-22 16:44:21.3215 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:44:21.3215 INFO Get VAT Master List Success
+2021-11-22 16:44:21.3215 INFO Get VAT Master List Success
+2021-11-22 16:44:21.3335 INFO Get Product Type Master List Success
+2021-11-22 16:44:21.3335 INFO Get User Success :sonasati_dis
+2021-11-22 16:44:23.8902 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:44:23.8962 INFO Get Product Type Master List Success
+2021-11-22 16:44:23.8962 INFO Get User Success :sonasati_dis
+2021-11-22 16:44:28.1646 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:44:28.1840 INFO Get Product Type Master List Success
+2021-11-22 16:44:28.1840 INFO Get User Success :sonasati_dis
+2021-11-22 16:44:34.4047 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:44:34.4047 INFO Get Product Type Master List Success
+2021-11-22 16:44:34.4166 INFO Get User Success :sonasati_dis
+2021-11-22 16:44:37.7799 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:44:38.0439 INFO Get Product Type Master List Success
+2021-11-22 16:44:38.0439 INFO Get User Success :sonasati_dis
+2021-11-22 16:45:28.6560 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:48:46.7628 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:48:46.9532 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:48:47.0369 INFO Get Product Type Master List Success
+2021-11-22 16:48:47.0369 INFO Get User Success :sonasati_dis
+2021-11-22 16:48:52.2264 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:48:55.7016 INFO Get Product Type Master List Success
+2021-11-22 16:48:55.7076 INFO Get User Success :sonasati_dis
+2021-11-22 16:48:58.4715 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:48:58.4986 INFO Get Product Type Master List Success
+2021-11-22 16:48:58.5055 INFO Get User Success :sonasati_dis
+2021-11-22 16:49:02.0081 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:49:02.0081 INFO Get VAT Master List Success
+2021-11-22 16:49:02.0294 INFO Get Product Type Master List Success
+2021-11-22 16:49:02.0358 INFO Get User Success :sonasati_dis
+2021-11-22 16:49:30.2997 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:49:30.3178 INFO Get Form84 List Success
+2021-11-22 16:49:30.3343 INFO Get Product Type Master List Success
+2021-11-22 16:49:30.3343 INFO Get User Success :sonasati_dis
+2021-11-22 16:49:32.3603 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:49:32.3603 INFO Get VAT Master List Success
+2021-11-22 16:49:32.3673 INFO Get VAT Master List Success
+2021-11-22 16:49:32.3673 INFO Get VAT Master List Success
+2021-11-22 16:49:32.3673 INFO Get VAT Master List Success
+2021-11-22 16:49:32.3802 INFO Get VAT Master List Success
+2021-11-22 16:49:32.3802 INFO Get VAT Master List Success
+2021-11-22 16:49:32.3983 INFO Get Product Type Master List Success
+2021-11-22 16:49:32.3983 INFO Get User Success :sonasati_dis
+2021-11-22 16:50:41.0217 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:50:41.0217 INFO Get VAT Master List Success
+2021-11-22 16:50:41.0217 INFO Get VAT Master List Success
+2021-11-22 16:50:41.0217 INFO Get VAT Master List Success
+2021-11-22 16:50:41.0217 INFO Get VAT Master List Success
+2021-11-22 16:50:41.0217 INFO Get VAT Master List Success
+2021-11-22 16:50:41.0217 INFO Get VAT Master List Success
+2021-11-22 16:52:21.7673 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:52:21.8658 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:52:21.9346 INFO Get Product Type Master List Success
+2021-11-22 16:52:21.9456 INFO Get User Success :sonasati_dis
+2021-11-22 16:52:33.9513 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:18.4726 INFO Get Product Type Master List Success
+2021-11-22 16:53:18.4806 INFO Get User Success :sonasati_dis
+2021-11-22 16:53:20.8305 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:20.8532 INFO Get VAT Master List Success
+2021-11-22 16:53:20.8794 INFO Get Product Type Master List Success
+2021-11-22 16:53:20.8794 INFO Get User Success :sonasati_dis
+2021-11-22 16:53:24.0037 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:24.0154 INFO Get Form84 List Success
+2021-11-22 16:53:24.0409 INFO Get Product Type Master List Success
+2021-11-22 16:53:24.0409 INFO Get User Success :sonasati_dis
+2021-11-22 16:53:26.3099 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:26.3099 INFO Get VAT Master List Success
+2021-11-22 16:53:26.3209 INFO Get VAT Master List Success
+2021-11-22 16:53:26.3209 INFO Get VAT Master List Success
+2021-11-22 16:53:26.3209 INFO Get VAT Master List Success
+2021-11-22 16:53:26.3339 INFO Get VAT Master List Success
+2021-11-22 16:53:26.3339 INFO Get VAT Master List Success
+2021-11-22 16:53:28.4356 INFO Get Product Type Master List Success
+2021-11-22 16:53:28.4439 INFO Get User Success :sonasati_dis
+2021-11-22 16:53:33.1248 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:33.1318 INFO Get Form84 List Success
+2021-11-22 16:53:33.1486 INFO Get Product Type Master List Success
+2021-11-22 16:53:33.1486 INFO Get User Success :sonasati_dis
+2021-11-22 16:53:35.0685 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:35.0685 INFO Get VAT Master List Success
+2021-11-22 16:53:35.0884 INFO Get VAT Master List Success
+2021-11-22 16:53:36.6500 INFO Get Product Type Master List Success
+2021-11-22 16:53:36.6620 INFO Get User Success :sonasati_dis
+2021-11-22 16:53:43.2056 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:53:43.2303 INFO Get Product Type Master List Success
+2021-11-22 16:53:43.2303 INFO Get User Success :sonasati_dis
+2021-11-22 16:55:50.5938 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 16:55:50.5938 INFO Get VAT Master List Success
+2021-11-22 16:55:50.6127 INFO Get VAT Master List Success
+2021-11-22 16:55:50.6167 INFO Get Product Type Master List Success
+2021-11-22 16:55:50.6167 INFO Get User Success :sonasati_dis
+2021-11-22 17:03:58.3902 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:03:58.3902 INFO Get VAT Master List Success
+2021-11-22 17:03:58.3970 INFO Get VAT Master List Success
+2021-11-22 17:07:09.8588 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:07:09.9642 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:07:10.0439 INFO Get Product Type Master List Success
+2021-11-22 17:07:10.0559 INFO Get User Success :sonasati_dis
+2021-11-22 17:07:14.4607 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:07:18.7047 INFO Get Product Type Master List Success
+2021-11-22 17:07:18.7127 INFO Get User Success :sonasati_dis
+2021-11-22 17:07:27.4151 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:07:27.4530 INFO Get Product Type Master List Success
+2021-11-22 17:07:27.4600 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:00.8256 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:00.8256 INFO Get VAT Master List Success
+2021-11-22 17:08:00.8483 INFO Get Product Type Master List Success
+2021-11-22 17:08:00.8483 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:03.2005 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:03.2005 INFO Get VAT Master List Success
+2021-11-22 17:08:05.5648 INFO Get Product Type Master List Success
+2021-11-22 17:08:05.5715 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:11.4704 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:11.4774 INFO Get Form84 List Success
+2021-11-22 17:08:11.4952 INFO Get Product Type Master List Success
+2021-11-22 17:08:11.4952 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:12.5826 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:12.6066 INFO Get Product Type Master List Success
+2021-11-22 17:08:12.6135 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:14.1914 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:14.1964 INFO Get VAT Master List Success
+2021-11-22 17:08:14.1964 INFO Get VAT Master List Success
+2021-11-22 17:08:16.3234 INFO Get Product Type Master List Success
+2021-11-22 17:08:16.3234 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:20.1080 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:20.1289 INFO Get Product Type Master List Success
+2021-11-22 17:08:20.1358 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:23.7186 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:24.1924 INFO Get Product Type Master List Success
+2021-11-22 17:08:24.1924 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:33.9416 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:33.9416 INFO Get Product Type Master List Success
+2021-11-22 17:08:33.9591 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:36.2862 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:36.2862 INFO Get Product Type Master List Success
+2021-11-22 17:08:36.3012 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:38.6577 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:38.6647 INFO Get Product Type Master List Success
+2021-11-22 17:08:38.6647 INFO Get User Success :sonasati_dis
+2021-11-22 17:08:57.6934 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:08:58.1783 INFO Get Product Type Master List Success
+2021-11-22 17:08:58.1783 INFO Get User Success :sonasati_dis
+2021-11-22 17:10:43.8234 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:10:51.8865 INFO Get Product Type Master List Success
+2021-11-22 17:10:51.8865 INFO Get User Success :sonasati_dis
+2021-11-22 17:11:28.8179 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:11:29.5374 INFO Get Product Type Master List Success
+2021-11-22 17:11:29.5374 INFO Get User Success :sonasati_dis
+2021-11-22 17:11:33.2774 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:11:33.2774 INFO Get Product Type Master List Success
+2021-11-22 17:11:33.2883 INFO Get User Success :sonasati_dis
+2021-11-22 17:11:40.5863 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:11:44.2978 INFO Get Product Type Master List Success
+2021-11-22 17:11:44.3047 INFO Get User Success :sonasati_dis
+2021-11-22 17:12:24.6780 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-22 17:14:36.8958 INFO Get Product Type Master List Success
+2021-11-22 17:14:36.8958 INFO Get User Success :sonasati_dis

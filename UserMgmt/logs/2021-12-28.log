@@ -1,0 +1,456 @@
+2021-12-28 09:34:50.5230 INFO Get User Success :101-Commissioner
+2021-12-28 09:34:55.4447 INFO Get User Success :101-Commissioner
+2021-12-28 09:34:57.0819 INFO Get Product Type Master List Success
+2021-12-28 09:34:58.6778 INFO Get User Success :com
+2021-12-28 09:35:02.5506 INFO Get User Success :101-Commissioner
+2021-12-28 09:35:05.2227 INFO Get Product Type Master List Success
+2021-12-28 09:35:06.0565 INFO Get User Success :com
+2021-12-28 09:35:33.0558 INFO Get User Success :101-Commissioner
+2021-12-28 09:35:34.3310 INFO Get Product Type Master List Success
+2021-12-28 09:35:35.3784 INFO Get User Success :com
+2021-12-28 09:39:06.3714 INFO Get User Success :101-Commissioner
+2021-12-28 09:39:49.2626 INFO Get Product Type Master List Success
+2021-12-28 09:39:49.5065 INFO Get User Success :com
+2021-12-28 09:39:53.6185 INFO Get User Success :101-Commissioner
+2021-12-28 09:39:54.9832 INFO Get Product Type Master List Success
+2021-12-28 09:39:55.2185 INFO Get User Success :com
+2021-12-28 09:40:04.3520 INFO Get User Success :101-Commissioner
+2021-12-28 09:40:05.8228 INFO Get Product Type Master List Success
+2021-12-28 09:40:06.0460 INFO Get User Success :com
+2021-12-28 09:46:08.4708 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:46:08.5802 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:46:08.6335 INFO Get Product Type Master List Success
+2021-12-28 09:46:11.8917 INFO Get User Success :bharat_dis
+2021-12-28 09:46:21.6467 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:46:23.1754 INFO Get Indent List Success
+2021-12-28 09:46:23.1939 INFO Get Product Type Master List Success
+2021-12-28 09:46:24.4047 INFO Get User Success :bharat_dis
+2021-12-28 09:46:46.1124 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:50:01.9633 INFO Get Indent List Success
+2021-12-28 09:50:01.9633 INFO Get Product Type Master List Success
+2021-12-28 09:50:02.7656 INFO Get User Success :bharat_dis
+2021-12-28 09:50:05.7898 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:50:08.5362 INFO Get Product Type Master List Success
+2021-12-28 09:50:08.8105 INFO Get User Success :bharat_dis
+2021-12-28 09:50:11.2441 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:50:12.6116 INFO Get Product Type Master List Success
+2021-12-28 09:50:12.8578 INFO Get User Success :bharat_dis
+2021-12-28 09:50:16.7940 INFO Get User Success :376-Bharath Sugar Mills (Distillery Division)
+2021-12-28 09:55:45.3441 INFO Get Product Type Master List Success
+2021-12-28 09:55:48.2473 INFO Get User Success :bharat_dis
+2021-12-28 09:55:57.4762 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 09:55:57.5201 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 09:55:57.5463 INFO Get Product Type Master List Success
+2021-12-28 09:55:59.6365 INFO Get User Success :harinagar_dis
+2021-12-28 09:56:05.1085 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 10:21:46.5150 INFO Get Product Type Master List Success
+2021-12-28 10:21:46.9562 INFO Get User Success :harinagar_dis
+2021-12-28 10:22:13.3882 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 10:22:13.4276 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 10:22:13.4525 INFO Get Product Type Master List Success
+2021-12-28 10:22:14.7310 INFO Get User Success :newswadeshi_dis
+2021-12-28 10:22:17.5230 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 10:22:21.1917 INFO Get Product Type Master List Success
+2021-12-28 10:22:21.4928 INFO Get User Success :newswadeshi_dis
+2021-12-28 10:23:03.8475 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:23:03.9183 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:23:03.9183 INFO Get Product Type Master List Success
+2021-12-28 10:23:05.1168 INFO Get User Success :bdbl_dis
+2021-12-28 10:23:07.9177 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:23:09.7977 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:23:10.8108 INFO Get Product Type Master List Success
+2021-12-28 10:23:11.0975 INFO Get User Success :bdbl_dis
+2021-12-28 10:23:14.4285 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:24:06.9220 INFO Get Product Type Master List Success
+2021-12-28 10:24:07.7092 INFO Get User Success :bdbl_dis
+2021-12-28 10:24:13.7186 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:24:29.1673 INFO Get Product Type Master List Success
+2021-12-28 10:24:29.9858 INFO Get User Success :bdbl_dis
+2021-12-28 10:24:30.5366 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:24:30.5984 INFO Get Product Type Master List Success
+2021-12-28 10:24:31.3814 INFO Get User Success :bdbl_dis
+2021-12-28 10:24:33.7854 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:24:35.1580 INFO Get Product Type Master List Success
+2021-12-28 10:24:35.8366 INFO Get User Success :bdbl_dis
+2021-12-28 10:28:59.5740 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:28:59.6740 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:28:59.6896 INFO Get Product Type Master List Success
+2021-12-28 10:29:02.6156 INFO Get User Success :bdbl_dis
+2021-12-28 10:29:06.4564 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:29:08.1620 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:29:08.9132 INFO Get Product Type Master List Success
+2021-12-28 10:29:09.1817 INFO Get User Success :bdbl_dis
+2021-12-28 10:29:15.5717 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:29:17.1288 INFO Get Product Type Master List Success
+2021-12-28 10:29:17.8361 INFO Get User Success :bdbl_dis
+2021-12-28 10:29:39.2464 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:29:43.8832 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:29:56.3527 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:30:04.0830 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:30:18.3642 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:30:18.3642 INFO Get Product Master List Success
+2021-12-28 10:30:21.6870 INFO Get RR List Success
+2021-12-28 10:30:23.8941 INFO Get Product Type Master List Success
+2021-12-28 10:30:24.1349 INFO Get User Success :bdbl_dis
+2021-12-28 10:30:27.8504 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 10:30:27.8504 INFO Get Product Master List Success
+2021-12-28 10:30:27.8504 INFO Get State List Success
+2021-12-28 10:30:27.8504 INFO Get NOC Sucess:691
+2021-12-28 10:30:30.5062 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-2021/231
+2021-12-28 10:30:31.2081 INFO Get NOC Details Success
+2021-12-28 10:30:31.2081 INFO Get Customer Details Success
+2021-12-28 10:30:32.6496 INFO Check WorkFlow List Success
+2021-12-28 10:30:32.9201 INFO Get Product Type Master List Success
+2021-12-28 10:30:33.6694 INFO Get User Success :bdbl_dis
+2021-12-28 10:30:43.5910 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 10:30:43.6766 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 10:30:43.7135 INFO Get Product Type Master List Success
+2021-12-28 10:30:45.2409 INFO Get User Success :harinagar_dis
+2021-12-28 10:30:48.7644 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 10:30:48.7644 INFO Get Product Master List Success
+2021-12-28 10:30:51.4817 INFO Get RR List Success
+2021-12-28 10:30:53.2430 INFO Get Product Type Master List Success
+2021-12-28 10:30:53.5165 INFO Get User Success :harinagar_dis
+2021-12-28 10:30:57.4188 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-12-28 10:30:57.4188 INFO Get Product Master List Success
+2021-12-28 10:30:57.4397 INFO Get State List Success
+2021-12-28 10:30:57.4412 INFO Get NOC Sucess:691
+2021-12-28 10:31:00.9102 INFO Get NOC Sucess:Req/WC/HDD/ETH-NOC/2021-2022/8
+2021-12-28 10:31:01.5653 INFO Get NOC Details Success
+2021-12-28 10:31:01.5663 INFO Get Customer Details Success
+2021-12-28 10:31:03.1765 INFO Check WorkFlow List Success
+2021-12-28 10:31:03.6171 INFO Get Product Type Master List Success
+2021-12-28 10:31:03.9270 INFO Get User Success :harinagar_dis
+2021-12-28 12:15:51.8938 INFO Get User Success :101-Commissioner
+2021-12-28 12:16:21.1666 INFO Get User Success :101-Commissioner
+2021-12-28 12:16:24.3543 INFO Get Product Type Master List Success
+2021-12-28 12:16:25.1738 INFO Get User Success :com
+2021-12-28 12:16:29.7503 INFO Get User Success :101-Commissioner
+2021-12-28 12:16:29.7544 INFO Get Report  Success
+2021-12-28 12:16:29.7544 INFO Get Product Type Master List Success
+2021-12-28 12:16:31.0180 INFO Get User Success :com
+2021-12-28 12:17:53.3021 INFO Get GetSeverList Success
+2021-12-28 13:17:45.0703 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:17:45.3286 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:17:45.9608 INFO Get Product Type Master List Success
+2021-12-28 13:17:50.0173 INFO Get User Success :hpcl_ec
+2021-12-28 13:18:04.6500 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:18:06.5812 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:18:09.6227 INFO Get Product Type Master List Success
+2021-12-28 13:18:10.5669 INFO Get User Success :hpcl_ec
+2021-12-28 13:18:14.3462 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:18:28.4515 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:18:28.5634 INFO Get Dispach Master List Success
+2021-12-28 13:21:05.9231 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:21:06.3932 INFO Get Dispach Master List Success
+2021-12-28 13:23:20.9845 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:23:21.0556 INFO Get Dispach Master List Success
+2021-12-28 13:23:22.6371 INFO Get VAT Master List Success
+2021-12-28 13:23:22.7151 INFO Get VAT Master List Success
+2021-12-28 13:23:22.7898 INFO Get Product Type Master List Success
+2021-12-28 13:23:24.1395 INFO Get User Success :hpcl_ec
+2021-12-28 13:23:38.6621 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:23:41.7658 INFO Get Product Type Master List Success
+2021-12-28 13:23:42.4730 INFO Get User Success :hpcl_ec
+2021-12-28 13:23:56.1482 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:23:59.4390 INFO Get Product Type Master List Success
+2021-12-28 13:24:00.5573 INFO Get User Success :hpcl_ec
+2021-12-28 13:24:09.6727 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:24:10.9353 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:24:14.5230 INFO Get Product Type Master List Success
+2021-12-28 13:24:15.7527 INFO Get User Success :hpcl_ec
+2021-12-28 13:24:18.4406 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:24:49.8475 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:24:49.9167 INFO Get Dispach Master List Success
+2021-12-28 13:25:45.3823 INFO Get VAT Master List Success
+2021-12-28 13:25:45.4582 INFO Get VAT Master List Success
+2021-12-28 13:25:45.5285 INFO Get Product Type Master List Success
+2021-12-28 13:25:47.9873 INFO Get User Success :hpcl_ec
+2021-12-28 13:26:45.7754 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:10.9209 INFO Get Pass List Success
+2021-12-28 13:27:10.9959 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:18.1644 INFO Get Product Type Master List Success
+2021-12-28 13:27:18.6533 INFO Get User Success :hpcl_ec
+2021-12-28 13:27:19.1602 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:20.2003 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:22.4381 INFO Get Product Type Master List Success
+2021-12-28 13:27:23.3804 INFO Get User Success :hpcl_ec
+2021-12-28 13:27:27.7010 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:34.4269 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:34.4970 INFO Get Dispach Master List Success
+2021-12-28 13:27:36.0341 INFO Get VAT Master List Success
+2021-12-28 13:27:36.1107 INFO Get VAT Master List Success
+2021-12-28 13:27:36.1819 INFO Get Product Type Master List Success
+2021-12-28 13:27:37.1676 INFO Get User Success :hpcl_ec
+2021-12-28 13:27:48.0744 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:27:48.1459 INFO Get Dispach Master List Success
+2021-12-28 13:27:56.4131 INFO Get VAT Master List Success
+2021-12-28 13:27:56.4887 INFO Get VAT Master List Success
+2021-12-28 13:28:19.5725 INFO Get Product Type Master List Success
+2021-12-28 13:28:20.6438 INFO Get User Success :hpcl_ec
+2021-12-28 13:28:25.2728 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:28:50.4264 INFO Get Pass List Success
+2021-12-28 13:28:50.5006 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:30:10.1770 INFO Get Product Type Master List Success
+2021-12-28 13:30:11.1937 INFO Get User Success :hpcl_ec
+2021-12-28 13:30:12.0907 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:30:13.1870 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:30:16.1872 INFO Get Product Type Master List Success
+2021-12-28 13:30:17.1890 INFO Get User Success :hpcl_ec
+2021-12-28 13:30:22.1423 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:30:38.3404 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:30:38.4089 INFO Get Dispach Master List Success
+2021-12-28 13:30:39.9495 INFO Get VAT Master List Success
+2021-12-28 13:30:40.0234 INFO Get VAT Master List Success
+2021-12-28 13:30:40.7882 INFO Get Product Type Master List Success
+2021-12-28 13:30:41.4516 INFO Get User Success :hpcl_ec
+2021-12-28 13:30:46.5776 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:30:46.6461 INFO Get Dispach Master List Success
+2021-12-28 13:30:53.2750 INFO Get VAT Master List Success
+2021-12-28 13:30:53.3487 INFO Get VAT Master List Success
+2021-12-28 13:33:45.7398 INFO Get Product Type Master List Success
+2021-12-28 13:33:46.7902 INFO Get User Success :hpcl_ec
+2021-12-28 13:33:53.0237 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:34:13.2620 INFO Get Pass List Success
+2021-12-28 13:34:13.3331 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:34:14.9853 INFO Get Product Type Master List Success
+2021-12-28 13:34:15.9557 INFO Get User Success :hpcl_ec
+2021-12-28 13:34:16.9329 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:34:17.8877 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:34:19.2016 INFO Get Product Type Master List Success
+2021-12-28 13:34:19.8524 INFO Get User Success :hpcl_ec
+2021-12-28 13:34:25.0256 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:34:34.7470 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:34:34.8145 INFO Get Dispach Master List Success
+2021-12-28 13:34:37.2547 INFO Get VAT Master List Success
+2021-12-28 13:34:37.3270 INFO Get VAT Master List Success
+2021-12-28 13:35:36.6028 INFO Get Product Type Master List Success
+2021-12-28 13:35:40.9224 INFO Get User Success :hpcl_ec
+2021-12-28 13:36:11.5856 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:36:11.7605 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:36:12.1833 INFO Get Product Type Master List Success
+2021-12-28 13:36:13.8137 INFO Get User Success :hpcl_ec
+2021-12-28 13:36:17.2047 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:36:18.3355 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:36:20.3250 INFO Get Product Type Master List Success
+2021-12-28 13:36:21.3296 INFO Get User Success :hpcl_ec
+2021-12-28 13:36:23.6864 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:36:56.3959 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:36:56.4647 INFO Get Dispach Master List Success
+2021-12-28 13:36:58.2827 INFO Get VAT Master List Success
+2021-12-28 13:36:58.3616 INFO Get VAT Master List Success
+2021-12-28 13:36:58.6977 INFO Get Product Type Master List Success
+2021-12-28 13:36:59.8323 INFO Get User Success :hpcl_ec
+2021-12-28 13:37:04.9036 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 13:37:04.9718 INFO Get Dispach Master List Success
+2021-12-28 13:37:09.5569 INFO Get VAT Master List Success
+2021-12-28 13:37:09.6314 INFO Get VAT Master List Success
+2021-12-28 13:37:21.5145 INFO Get Product Type Master List Success
+2021-12-28 13:37:22.0530 INFO Get User Success :hpcl_ec
+2021-12-28 13:38:09.9630 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:38:10.1978 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:38:10.4036 INFO Get Product Type Master List Success
+2021-12-28 13:38:11.7999 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:38:32.0728 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:38:32.6600 INFO Get Indent List Success
+2021-12-28 13:38:32.7362 INFO Get Product Type Master List Success
+2021-12-28 13:38:33.1829 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:38:36.8198 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:38:37.0749 INFO Get Allotment List Success
+2021-12-28 13:38:37.6943 INFO Get Product Type Master List Success
+2021-12-28 13:38:38.1197 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:38:46.9345 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:38:46.9939 INFO Get Party Master List Success
+2021-12-28 13:38:47.0676 INFO Get Indent List Success
+2021-12-28 13:38:47.1214 INFO Get Product Type Master List Success
+2021-12-28 13:38:47.5716 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:40:37.1187 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:40:37.1936 INFO Get Party Master List Success
+2021-12-28 13:42:29.5806 INFO Get Indent List Success
+2021-12-28 13:42:29.6487 INFO Get Product Type Master List Success
+2021-12-28 13:42:31.0587 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:42:37.3196 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:42:37.4587 INFO Get Party Master List Success
+2021-12-28 13:47:55.5121 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:48:15.2109 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:48:15.8544 INFO Get Product Type Master List Success
+2021-12-28 13:48:23.1422 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:49:12.5910 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:49:13.8838 INFO Get Indent List Success
+2021-12-28 13:49:13.9945 INFO Get Product Type Master List Success
+2021-12-28 13:49:15.1735 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:49:20.5477 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:49:21.3799 INFO Get Party Master List Success
+2021-12-28 13:49:21.4561 INFO Get Product Master List Success
+2021-12-28 13:49:21.5256 INFO Get Product Type Master List Success
+2021-12-28 13:49:22.0008 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:49:26.0809 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:49:26.2955 INFO Get Allotment List Success
+2021-12-28 13:49:26.8781 INFO Get Product Type Master List Success
+2021-12-28 13:49:27.3720 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:49:32.4365 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:49:32.5195 INFO Get Party Master List Success
+2021-12-28 13:49:34.1261 INFO Get Indent List Success
+2021-12-28 13:49:34.1941 INFO Get Product Type Master List Success
+2021-12-28 13:49:35.1447 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:49:39.4668 INFO Get Indent List Success
+2021-12-28 13:49:42.9568 INFO Get Party Master List Success
+2021-12-28 13:50:37.3724 INFO Get Indent List Success
+2021-12-28 13:50:39.7391 INFO Get Party Master List Success
+2021-12-28 13:50:43.2001 INFO Get Indent List Success
+2021-12-28 13:53:08.3292 INFO Get Party Master List Success
+2021-12-28 13:53:15.9655 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:53:16.5871 INFO Get Indent List Success
+2021-12-28 13:53:16.6545 INFO Get Product Type Master List Success
+2021-12-28 13:53:17.1341 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:53:41.2733 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:53:41.4877 INFO Get Allotment List Success
+2021-12-28 13:53:45.5792 INFO Get Product Type Master List Success
+2021-12-28 13:53:47.1852 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:54:01.2294 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:54:01.3055 INFO Get Party Master List Success
+2021-12-28 13:54:02.1598 INFO Get Indent List Success
+2021-12-28 13:54:02.2271 INFO Get Product Type Master List Success
+2021-12-28 13:54:03.7410 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:54:12.5437 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:54:12.6220 INFO Get Party Master List Success
+2021-12-28 13:55:02.2864 INFO Get Indent List Success
+2021-12-28 13:55:02.3552 INFO Get Product Type Master List Success
+2021-12-28 13:55:02.8785 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:55:07.6069 INFO Get Indent List Success
+2021-12-28 13:56:26.7287 INFO Get Party Master List Success
+2021-12-28 13:56:41.7328 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:56:42.4003 INFO Get Indent List Success
+2021-12-28 13:56:42.4686 INFO Get Product Type Master List Success
+2021-12-28 13:56:43.0326 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:56:52.4084 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:56:52.6859 INFO Get Allotment List Success
+2021-12-28 13:56:53.7034 INFO Get Product Type Master List Success
+2021-12-28 13:56:54.7273 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:57:05.4251 INFO Get User Success :108-New Swadeshi Distillery Unit
+2021-12-28 13:57:05.4979 INFO Get Party Master List Success
+2021-12-28 13:57:06.0428 INFO Get Indent List Success
+2021-12-28 13:57:06.1097 INFO Get Product Type Master List Success
+2021-12-28 13:57:06.6595 INFO Get User Success :newswadeshi_dis
+2021-12-28 13:57:09.3778 INFO Get Indent List Success
+2021-12-28 13:57:11.2690 INFO Get Party Master List Success
+2021-12-28 14:08:59.2762 INFO Get User Success :207-excise_Rohtas
+2021-12-28 14:09:16.7100 INFO Get Product Type Master List Success
+2021-12-28 14:09:17.6783 INFO Get User Success :excise_Rohtas
+2021-12-28 14:09:38.7226 INFO Get User Success :207-excise_Rohtas
+2021-12-28 16:38:52.4059 INFO Get User Success :207-excise_Rohtas
+2021-12-28 16:38:52.9588 INFO Get Product Type Master List Success
+2021-12-28 16:38:53.4589 INFO Get User Success :excise_Rohtas
+2021-12-28 16:39:08.0187 INFO Get User Success :207-excise_Rohtas
+2021-12-28 16:39:16.1417 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 16:39:24.9359 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 16:39:29.1916 INFO Get Product Type Master List Success
+2021-12-28 16:39:30.3276 INFO Get User Success :hpcl_ec
+2021-12-28 16:39:43.6535 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 16:39:47.4770 INFO Get Product Type Master List Success
+2021-12-28 16:39:48.0841 INFO Get User Success :hpcl_ec
+2021-12-28 16:39:54.8293 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 16:39:56.7273 INFO Get Product Type Master List Success
+2021-12-28 16:39:57.3380 INFO Get User Success :hpcl_ec
+2021-12-28 16:40:00.3030 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-12-28 16:40:06.9589 INFO Get Product Type Master List Success
+2021-12-28 16:40:07.7748 INFO Get User Success :hpcl_ec
+2021-12-28 17:25:32.7320 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:25:41.6299 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:25:44.0116 INFO Get Product Type Master List Success
+2021-12-28 17:25:44.6025 INFO Get User Success :hasanpur_sgr
+2021-12-28 17:25:49.1428 INFO Sugarcanepurchase Get List Success
+2021-12-28 17:25:49.2097 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:25:50.8968 INFO Get Product Type Master List Success
+2021-12-28 17:25:51.8246 INFO Get User Success :hasanpur_sgr
+2021-12-28 17:25:53.3616 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:25:57.9802 INFO Get Product Type Master List Success
+2021-12-28 17:25:58.5107 INFO Get User Success :hasanpur_sgr
+2021-12-28 17:26:00.7460 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:27:02.2040 INFO Get Product Type Master List Success
+2021-12-28 17:27:03.2729 INFO Get User Success :hasanpur_sgr
+2021-12-28 17:27:10.9665 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:30:40.9826 INFO Get Product Type Master List Success
+2021-12-28 17:30:41.5600 INFO Get User Success :hasanpur_sgr
+2021-12-28 17:30:51.2527 INFO Get User Success :110-Hasanpur Sugar Mills
+2021-12-28 17:55:51.2300 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:55:51.5228 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:55:54.8535 INFO Get Product Type Master List Success
+2021-12-28 17:55:55.8614 INFO Get User Success :bdbl_dis
+2021-12-28 17:56:00.0822 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:56:02.1482 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:56:04.8323 INFO Get Product Type Master List Success
+2021-12-28 17:56:05.3038 INFO Get User Success :bdbl_dis
+2021-12-28 17:56:11.7974 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:56:13.1497 INFO Get Product Type Master List Success
+2021-12-28 17:56:13.6146 INFO Get User Success :bdbl_dis
+2021-12-28 17:56:17.1772 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:56:18.0166 INFO Get VAT Master List Success
+2021-12-28 17:56:19.4887 INFO Get Product Type Master List Success
+2021-12-28 17:56:19.9527 INFO Get User Success :bdbl_dis
+2021-12-28 17:56:22.6542 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 17:56:22.7349 INFO Get VAT Master List Success
+2021-12-28 17:56:28.7712 INFO Get Product Type Master List Success
+2021-12-28 17:56:29.2291 INFO Get User Success :bdbl_dis
+2021-12-28 18:02:43.9696 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 18:02:47.6010 INFO Get VAT Master List Success
+2021-12-28 18:02:49.3607 INFO Get Product Type Master List Success
+2021-12-28 18:02:49.8409 INFO Get User Success :bdbl_dis
+2021-12-28 18:02:53.6905 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 18:02:53.7610 INFO Get VAT Master List Success
+2021-12-28 18:03:00.0540 INFO Get Product Type Master List Success
+2021-12-28 18:03:00.5007 INFO Get User Success :bdbl_dis
+2021-12-28 18:04:47.6925 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-12-28 18:04:49.8651 INFO Get VAT Master List Success
+2021-12-28 19:47:37.3882 INFO Get User Success :207-excise_Rohtas
+2021-12-28 19:47:40.7106 INFO Get Product Type Master List Success
+2021-12-28 19:47:43.4114 INFO Get User Success :excise_Rohtas
+2021-12-28 19:47:58.1075 INFO Get Product Type Master List Success
+2021-12-28 19:47:58.1820 INFO Get User Success :excise_Rohtas
+2021-12-28 19:48:02.6035 INFO Get Thana List Success
+2021-12-28 19:48:02.9241 INFO Get Product Type Master List Success
+2021-12-28 19:48:02.9994 INFO Get User Success :excise_Rohtas
+2021-12-28 19:48:06.1202 INFO Get Product Type Master List Success
+2021-12-28 19:48:06.1905 INFO Get User Success :excise_Rohtas
+2021-12-28 19:57:52.2866 INFO Get User Success :207-excise_Rohtas
+2021-12-28 19:57:52.4662 INFO Get Product Type Master List Success
+2021-12-28 19:57:52.5400 INFO Get User Success :excise_Rohtas
+2021-12-28 19:58:05.1443 INFO Get Product Type Master List Success
+2021-12-28 19:58:05.2142 INFO Get User Success :excise_Rohtas
+2021-12-28 19:58:16.3302 INFO Get Thana List Success
+2021-12-28 19:58:16.6523 INFO Get Product Type Master List Success
+2021-12-28 19:58:16.7256 INFO Get User Success :excise_Rohtas
+2021-12-28 19:58:21.3635 INFO Get Product Type Master List Success
+2021-12-28 19:58:21.4389 INFO Get User Success :excise_Rohtas
+2021-12-28 19:58:25.1806 INFO Get Product Type Master List Success
+2021-12-28 19:58:25.2530 INFO Get User Success :excise_Rohtas
+2021-12-28 20:00:06.2805 INFO Get Product Type Master List Success
+2021-12-28 20:00:06.3545 INFO Get User Success :excise_Rohtas
+2021-12-28 20:00:21.4835 INFO Get Product Type Master List Success
+2021-12-28 20:00:21.5553 INFO Get User Success :excise_Rohtas
+2021-12-28 20:00:29.3486 INFO Get Product Type Master List Success
+2021-12-28 20:00:29.4184 INFO Get User Success :excise_Rohtas
+2021-12-28 20:00:35.0893 INFO Get Thana List Success
+2021-12-28 20:00:35.4195 INFO Get Product Type Master List Success
+2021-12-28 20:00:35.4913 INFO Get User Success :excise_Rohtas
+2021-12-28 20:00:39.0486 INFO Get Product Type Master List Success
+2021-12-28 20:00:39.1184 INFO Get User Success :excise_Rohtas
+2021-12-28 20:00:41.5226 INFO Get Product Type Master List Success
+2021-12-28 20:00:41.5924 INFO Get User Success :excise_Rohtas
+2021-12-28 20:10:50.7779 INFO Get User Success :207-excise_Rohtas
+2021-12-28 20:10:50.9576 INFO Get Product Type Master List Success
+2021-12-28 20:10:51.0334 INFO Get User Success :excise_Rohtas
+2021-12-28 20:10:53.5080 INFO Get User Success :207-excise_Rohtas
+2021-12-28 20:10:53.5729 INFO Get Report  Success
+2021-12-28 20:10:55.8873 INFO Get Product Type Master List Success
+2021-12-28 20:10:55.9576 INFO Get User Success :excise_Rohtas
+2021-12-28 20:11:01.9444 INFO Get User Success :207-excise_Rohtas
+2021-12-28 20:11:02.0911 INFO Get Product Type Master List Success
+2021-12-28 20:11:02.1621 INFO Get User Success :excise_Rohtas
+2021-12-28 20:11:10.0178 INFO Get GetSeverList Success
+2021-12-28 20:11:54.6249 INFO Get GetSeverList Success
+2021-12-28 20:18:22.9242 INFO Get User Success :207-excise_Rohtas
+2021-12-28 20:18:23.1027 INFO Get Product Type Master List Success
+2021-12-28 20:18:23.1772 INFO Get User Success :excise_Rohtas
+2021-12-28 20:18:32.2121 INFO Get Product Type Master List Success
+2021-12-28 20:18:32.2859 INFO Get User Success :excise_Rohtas

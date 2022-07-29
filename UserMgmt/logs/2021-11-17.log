@@ -1,0 +1,510 @@
+2021-11-17 13:00:12.8112 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:00:16.2576 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:00:16.3508 INFO Get Product Type Master List Success
+2021-11-17 13:00:16.3610 INFO Get User Success :mtp1
+2021-11-17 13:00:51.0880 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:00:51.1056 INFO Check WorkFlow List Success
+2021-11-17 13:00:52.7448 INFO Get Product Type Master List Success
+2021-11-17 13:00:52.7497 INFO Get User Success :mtp1
+2021-11-17 13:01:18.8176 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:01:18.8494 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:01:18.8494 INFO Get Product Type Master List Success
+2021-11-17 13:01:18.8494 INFO Get User Success :bhedo
+2021-11-17 13:01:22.3356 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:01:22.3356 INFO Check WorkFlow List Success
+2021-11-17 13:01:23.9333 INFO Get Product Type Master List Success
+2021-11-17 13:01:23.9373 INFO Get User Success :bhedo
+2021-11-17 13:01:26.5825 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:01:26.5825 INFO Get License_Type List Success
+2021-11-17 13:01:28.2842 INFO Get License Fee List Success
+2021-11-17 13:01:28.2842 INFO Get State List Success
+2021-11-17 13:01:28.2842 INFO Check WorkFlow List Success
+2021-11-17 13:01:30.8031 INFO Get Division List Success
+2021-11-17 13:01:31.5635 INFO Get Product Type Master List Success
+2021-11-17 13:01:31.5635 INFO Get User Success :bhedo
+2021-11-17 13:01:40.6985 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:01:40.6985 INFO Get License_Type List Success
+2021-11-17 13:05:37.1566 INFO Get License Fee List Success
+2021-11-17 13:05:37.1566 INFO Get State List Success
+2021-11-17 13:05:37.1566 INFO Check WorkFlow List Success
+2021-11-17 13:05:41.3944 INFO Get Division List Success
+2021-11-17 13:05:57.5461 INFO Get Product Type Master List Success
+2021-11-17 13:05:57.5461 INFO Get User Success :bhedo
+2021-11-17 13:06:53.1001 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:06:53.1001 INFO Get License_Type List Success
+2021-11-17 13:09:06.6429 INFO Get License Fee List Success
+2021-11-17 13:09:06.6429 INFO Get State List Success
+2021-11-17 13:09:06.6429 INFO Check WorkFlow List Success
+2021-11-17 13:09:15.2123 INFO Get Division List Success
+2021-11-17 13:09:16.5234 INFO Get Product Type Master List Success
+2021-11-17 13:09:16.5234 INFO Get User Success :bhedo
+2021-11-17 13:10:53.9018 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:10:55.5567 INFO Get Product Type Master List Success
+2021-11-17 13:10:55.5607 INFO Get User Success :bhedo
+2021-11-17 13:11:06.9991 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:11:07.0151 INFO Get Allotment List Success
+2021-11-17 13:11:07.6065 INFO Get NOC Sucess:Req/BJ/MTP/PER/2020-21/2020-21/2
+2021-11-17 13:11:07.6095 INFO Get Product Master List Success
+2021-11-17 13:11:07.6095 INFO Get UOM List Success
+2021-11-17 13:11:08.2801 INFO Get Allotment Details Success
+2021-11-17 13:11:08.4971 INFO Get Product Type Master List Success
+2021-11-17 13:11:08.5011 INFO Get User Success :bhedo
+2021-11-17 13:11:14.3369 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:11:14.7791 INFO Get Product Type Master List Success
+2021-11-17 13:11:14.7841 INFO Get User Success :bhedo
+2021-11-17 13:11:17.5372 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 13:11:17.5372 INFO Check WorkFlow List Success
+2021-11-17 13:11:19.1525 INFO Get Product Type Master List Success
+2021-11-17 13:11:19.1574 INFO Get User Success :bhedo
+2021-11-17 13:11:44.8746 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:11:44.9104 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:11:44.9284 INFO Get Product Type Master List Success
+2021-11-17 13:11:44.9284 INFO Get User Success :mtp1
+2021-11-17 13:11:49.3444 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:11:49.3444 INFO Check WorkFlow List Success
+2021-11-17 13:11:50.9299 INFO Get Product Type Master List Success
+2021-11-17 13:11:50.9299 INFO Get User Success :mtp1
+2021-11-17 13:14:32.2331 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:14:33.0335 INFO Get Allotment List Success
+2021-11-17 13:14:33.0575 INFO Get Product Type Master List Success
+2021-11-17 13:14:33.0612 INFO Get User Success :mtp1
+2021-11-17 13:14:47.6640 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:14:49.0653 INFO Get Party Master List Success
+2021-11-17 13:14:49.0653 INFO Get Product Master List Success
+2021-11-17 13:14:49.0653 INFO Get Allotment Details Success
+2021-11-17 13:14:49.0773 INFO Get Party Master List Success
+2021-11-17 13:14:49.0970 INFO Check WorkFlow List Success
+2021-11-17 13:14:49.5292 INFO Get Product Type Master List Success
+2021-11-17 13:14:49.5292 INFO Get User Success :mtp1
+2021-11-17 13:15:01.9563 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:15:03.4195 INFO Get Allotment List Success
+2021-11-17 13:15:03.4235 INFO Get Product Type Master List Success
+2021-11-17 13:15:03.4235 INFO Get User Success :mtp1
+2021-11-17 13:15:37.3170 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:15:38.9610 INFO Get Product Type Master List Success
+2021-11-17 13:15:38.9610 INFO Get User Success :mtp1
+2021-11-17 13:15:42.0055 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:15:42.0055 INFO Check WorkFlow List Success
+2021-11-17 13:15:43.7680 INFO Get Product Type Master List Success
+2021-11-17 13:15:43.7680 INFO Get User Success :mtp1
+2021-11-17 13:16:11.5484 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:16:11.5484 INFO Get License_Type List Success
+2021-11-17 13:16:13.0092 INFO Get License Fee List Success
+2021-11-17 13:16:13.0092 INFO Get State List Success
+2021-11-17 13:16:13.0092 INFO Check WorkFlow List Success
+2021-11-17 13:16:13.0142 INFO Get Product Type Master List Success
+2021-11-17 13:16:13.0142 INFO Get User Success :mtp1
+2021-11-17 13:24:40.4127 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:24:48.7038 INFO Get Product Type Master List Success
+2021-11-17 13:24:48.7038 INFO Get User Success :mtp1
+2021-11-17 13:28:32.1020 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:28:34.2354 INFO Get Product Type Master List Success
+2021-11-17 13:28:34.2354 INFO Get User Success :mtp1
+2021-11-17 13:28:53.0373 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:30:05.1279 INFO Get Product Type Master List Success
+2021-11-17 13:30:05.1279 INFO Get User Success :mtp1
+2021-11-17 13:30:58.6897 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:31:00.6857 INFO Get Product Type Master List Success
+2021-11-17 13:31:00.6857 INFO Get User Success :mtp1
+2021-11-17 13:31:05.5123 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:31:06.3671 INFO Get Product Type Master List Success
+2021-11-17 13:31:06.3671 INFO Get User Success :mtp1
+2021-11-17 13:31:11.5988 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:31:13.2413 INFO Get Product Type Master List Success
+2021-11-17 13:31:13.2413 INFO Get User Success :mtp1
+2021-11-17 13:33:10.1215 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:33:12.0206 INFO Get Product Type Master List Success
+2021-11-17 13:33:12.0206 INFO Get User Success :mtp1
+2021-11-17 13:33:18.7362 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:33:19.6853 INFO Get Product Type Master List Success
+2021-11-17 13:33:19.6906 INFO Get User Success :mtp1
+2021-11-17 13:33:23.5244 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:33:25.3725 INFO Get Product Type Master List Success
+2021-11-17 13:33:25.3775 INFO Get User Success :mtp1
+2021-11-17 13:33:32.5525 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:33:32.5525 INFO Get Allotment List Success
+2021-11-17 13:33:32.5864 INFO Get Product Type Master List Success
+2021-11-17 13:33:32.5917 INFO Get User Success :mtp1
+2021-11-17 13:33:35.0203 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:33:35.0203 INFO Get Allotment List Success
+2021-11-17 13:33:35.0307 INFO Get Product Type Master List Success
+2021-11-17 13:33:35.0307 INFO Get User Success :mtp1
+2021-11-17 13:33:35.8995 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:33:35.8995 INFO Get Allotment List Success
+2021-11-17 13:33:35.8995 INFO Get Product Type Master List Success
+2021-11-17 13:33:35.9075 INFO Get User Success :mtp1
+2021-11-17 13:43:02.4456 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:47:04.5937 INFO Get Product Type Master List Success
+2021-11-17 13:47:04.5937 INFO Get User Success :mtp1
+2021-11-17 13:47:08.2798 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:47:08.2798 INFO Get Allotment List Success
+2021-11-17 13:47:08.2798 INFO Get Product Type Master List Success
+2021-11-17 13:47:08.2798 INFO Get User Success :mtp1
+2021-11-17 13:47:09.1924 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:47:09.1924 INFO Get Allotment List Success
+2021-11-17 13:47:09.1924 INFO Get Product Type Master List Success
+2021-11-17 13:47:09.1924 INFO Get User Success :mtp1
+2021-11-17 13:47:10.5089 INFO Get User Success :353-M and TP Unit
+2021-11-17 13:47:12.0467 INFO Get Product Type Master List Success
+2021-11-17 13:47:12.0467 INFO Get User Success :mtp1
+2021-11-17 14:40:59.9023 INFO Get User Success :353-M and TP Unit
+2021-11-17 14:41:01.2334 INFO Get Allotment List Success
+2021-11-17 14:41:01.2334 INFO Get Product Type Master List Success
+2021-11-17 14:41:01.2494 INFO Get User Success :mtp1
+2021-11-17 14:41:05.3626 INFO Get User Success :353-M and TP Unit
+2021-11-17 14:41:15.9730 INFO Get Party Master List Success
+2021-11-17 14:41:15.9730 INFO Get Product Master List Success
+2021-11-17 14:41:15.9730 INFO Get Allotment Details Success
+2021-11-17 14:41:15.9730 INFO Get Party Master List Success
+2021-11-17 14:41:15.9860 INFO Check WorkFlow List Success
+2021-11-17 14:41:31.2157 INFO Get Product Type Master List Success
+2021-11-17 14:41:31.2237 INFO Get User Success :mtp1
+2021-11-17 14:41:43.7910 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 14:41:43.8358 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 14:41:43.8358 INFO Get Product Type Master List Success
+2021-11-17 14:41:43.8458 INFO Get User Success :bhedo
+2021-11-17 14:41:47.8304 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 14:41:49.4627 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 14:41:49.8906 INFO Check WorkFlow List Success
+2021-11-17 14:41:50.0501 INFO Get Allotment List Success
+2021-11-17 14:41:50.7211 INFO Get Product Type Master List Success
+2021-11-17 14:41:50.7211 INFO Get User Success :bhedo
+2021-11-17 14:41:57.5979 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 14:41:58.8681 INFO Check WorkFlow List Success
+2021-11-17 14:41:58.8771 INFO Get Allotment List Success
+2021-11-17 14:41:58.8977 INFO Get Product Type Master List Success
+2021-11-17 14:41:58.8977 INFO Get User Success :bhedo
+2021-11-17 14:42:01.7440 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 14:42:05.0533 INFO Get Party Master List Success
+2021-11-17 14:42:05.0533 INFO Get Product Master List Success
+2021-11-17 14:42:05.0613 INFO Get Allotment Details Success
+2021-11-17 14:42:05.0613 INFO Get Party Master List Success
+2021-11-17 14:42:05.0613 INFO Check WorkFlow List Success
+2021-11-17 14:45:01.1167 INFO Get Product Type Master List Success
+2021-11-17 14:45:01.1167 INFO Get User Success :bhedo
+2021-11-17 14:46:18.9066 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:18.9815 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:18.9865 INFO Get Product Type Master List Success
+2021-11-17 14:46:18.9865 INFO Get User Success :bdbl_dis
+2021-11-17 14:46:23.8355 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:23.8455 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:25.6366 INFO Get Product Type Master List Success
+2021-11-17 14:46:25.6426 INFO Get User Success :bdbl_dis
+2021-11-17 14:46:30.1518 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:30.1757 INFO Get Pass List Success
+2021-11-17 14:46:30.1757 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:30.2087 INFO Get Product Type Master List Success
+2021-11-17 14:46:30.2087 INFO Get User Success :bdbl_dis
+2021-11-17 14:46:38.0907 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:46:38.0932 INFO Get Dispach Master List Success
+2021-11-17 14:51:40.2810 INFO Get VAT Master List Success
+2021-11-17 14:51:40.2810 INFO Get Pass List Success
+2021-11-17 14:51:40.3139 INFO Get Product Type Master List Success
+2021-11-17 14:51:40.3139 INFO Get User Success :bdbl_dis
+2021-11-17 14:51:50.1653 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:51:50.1653 INFO Get Dispach Master List Success
+2021-11-17 14:53:26.7409 INFO Get VAT Master List Success
+2021-11-17 14:53:26.7409 INFO Get Pass List Success
+2021-11-17 14:53:26.7498 INFO Get Product Type Master List Success
+2021-11-17 14:53:26.7498 INFO Get User Success :bdbl_dis
+2021-11-17 14:53:33.6288 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 14:53:33.6288 INFO Get Dispach Master List Success
+2021-11-17 14:56:20.5518 INFO Get VAT Master List Success
+2021-11-17 14:57:11.5750 INFO Get Pass List Success
+2021-11-17 14:57:11.5829 INFO Get Product Type Master List Success
+2021-11-17 14:57:11.5829 INFO Get User Success :bdbl_dis
+2021-11-17 15:38:25.8498 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:38:30.9188 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:38:30.9811 INFO Get Product Type Master List Success
+2021-11-17 15:38:30.9980 INFO Get User Success :sonasati_dis
+2021-11-17 15:39:12.8427 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:39:14.1988 INFO Get RR List Success
+2021-11-17 15:39:14.2496 INFO Get Product Type Master List Success
+2021-11-17 15:39:14.2496 INFO Get User Success :sonasati_dis
+2021-11-17 15:39:28.6366 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:39:28.6436 INFO Get RR List Success
+2021-11-17 15:39:28.6436 INFO Get RR No Sucess:Req/GO/SOD/RR/2020-21/6
+2021-11-17 15:39:28.6750 INFO Get RR List Success
+2021-11-17 15:39:28.6750 INFO Get Product Type Master List Success
+2021-11-17 15:39:28.6875 INFO Get User Success :sonasati_dis
+2021-11-17 15:39:33.4639 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:39:34.8282 INFO Get RR List Success
+2021-11-17 15:39:35.2741 INFO Get Product Type Master List Success
+2021-11-17 15:39:35.2801 INFO Get User Success :sonasati_dis
+2021-11-17 15:39:42.6613 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:39:42.7227 INFO Get RR Details Fail:A command is already in progress: select * from exciseautomation.eascm_docs where doc_id='164' and doc_type_code='RRL' order by eascm_docs_id
+2021-11-17 15:39:42.7445 INFO Get RR List Success
+2021-11-17 15:39:44.1741 INFO Get Product Type Master List Success
+2021-11-17 15:39:44.1741 INFO Get User Success :sonasati_dis
+2021-11-17 15:40:20.5088 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:40:21.9533 INFO Get RR List Success
+2021-11-17 15:40:22.3963 INFO Get Product Type Master List Success
+2021-11-17 15:40:22.4063 INFO Get User Success :sonasati_dis
+2021-11-17 15:40:26.7373 INFO Get User Success :109-Sona Sati Organics Pvt Ltd
+2021-11-17 15:41:06.6909 INFO Get RR List Success
+2021-11-17 15:41:06.6909 INFO Get Product Type Master List Success
+2021-11-17 15:41:06.7049 INFO Get User Success :sonasati_dis
+2021-11-17 15:41:38.3678 INFO Get User Success :135-Assistant Commissioner
+2021-11-17 15:41:38.4063 INFO Get User Success :135-Assistant Commissioner
+2021-11-17 15:41:38.4063 INFO Get Product Type Master List Success
+2021-11-17 15:41:38.4063 INFO Get User Success :ecedo
+2021-11-17 15:41:42.2437 INFO Get User Success :135-Assistant Commissioner
+2021-11-17 15:41:43.7260 INFO Get RR List Success
+2021-11-17 15:41:43.7479 INFO Get User Success :135-Assistant Commissioner
+2021-11-17 15:41:44.3052 INFO Get RR List Success
+2021-11-17 15:41:45.4813 INFO Get Product Type Master List Success
+2021-11-17 15:41:45.4853 INFO Get User Success :ecedo
+2021-11-17 15:41:54.7261 INFO Get User Success :135-Assistant Commissioner
+2021-11-17 15:41:54.7322 INFO Get RR Details Success
+2021-11-17 15:41:54.7539 INFO Get RR List Success
+2021-11-17 15:41:56.5360 INFO Get Product Type Master List Success
+2021-11-17 15:41:56.5360 INFO Get User Success :ecedo
+2021-11-17 15:42:03.6191 INFO Get User Success :135-Assistant Commissioner
+2021-11-17 15:42:05.0586 INFO Get RR List Success
+2021-11-17 15:42:05.7366 INFO Get Product Type Master List Success
+2021-11-17 15:42:05.7366 INFO Get User Success :ecedo
+2021-11-17 15:42:45.4159 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 15:42:45.4588 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 15:42:45.4588 INFO Get Product Type Master List Success
+2021-11-17 15:42:45.4588 INFO Get User Success :wcedo
+2021-11-17 15:49:05.7633 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 15:49:13.5124 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:49:13.5546 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:49:13.5706 INFO Get Product Type Master List Success
+2021-11-17 15:49:13.5766 INFO Get User Success :bhedo
+2021-11-17 15:49:16.5762 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:49:21.6423 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:49:23.7502 INFO Check WorkFlow List Success
+2021-11-17 15:49:24.0232 INFO Get Allotment List Success
+2021-11-17 15:49:24.4618 INFO Get Product Type Master List Success
+2021-11-17 15:49:24.4668 INFO Get User Success :bhedo
+2021-11-17 15:49:27.0399 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:49:28.4240 INFO Get Party Master List Success
+2021-11-17 15:49:28.4240 INFO Get Product Master List Success
+2021-11-17 15:49:28.4240 INFO Get Allotment Details Success
+2021-11-17 15:49:28.4375 INFO Get Party Master List Success
+2021-11-17 15:49:28.4375 INFO Check WorkFlow List Success
+2021-11-17 15:49:29.5759 INFO Get Product Type Master List Success
+2021-11-17 15:49:29.5809 INFO Get User Success :bhedo
+2021-11-17 15:57:50.7959 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:57:50.9085 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:57:50.9418 INFO Get Product Type Master List Success
+2021-11-17 15:57:50.9418 INFO Get User Success :bhedo
+2021-11-17 15:57:55.2139 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:57:55.2328 INFO Check WorkFlow List Success
+2021-11-17 15:57:58.0361 INFO Get Product Type Master List Success
+2021-11-17 15:57:58.0361 INFO Get User Success :bhedo
+2021-11-17 15:58:00.9072 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:58:07.2452 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:58:09.1578 INFO Check WorkFlow List Success
+2021-11-17 15:58:09.4040 INFO Get Allotment List Success
+2021-11-17 15:58:09.8317 INFO Get Product Type Master List Success
+2021-11-17 15:58:09.8317 INFO Get User Success :bhedo
+2021-11-17 15:58:13.0370 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 15:58:15.0246 INFO Get Party Master List Success
+2021-11-17 15:58:15.0246 INFO Get Product Master List Success
+2021-11-17 15:58:15.0370 INFO Get Allotment Details Success
+2021-11-17 15:58:15.0370 INFO Get Party Master List Success
+2021-11-17 15:58:15.0527 INFO Check WorkFlow List Success
+2021-11-17 15:58:16.6741 INFO Get Product Type Master List Success
+2021-11-17 15:58:16.6741 INFO Get User Success :bhedo
+2021-11-17 16:06:46.2588 INFO Get User Success :353-M and TP Unit
+2021-11-17 16:06:46.3686 INFO Get User Success :353-M and TP Unit
+2021-11-17 16:06:46.4150 INFO Get Product Type Master List Success
+2021-11-17 16:06:46.4240 INFO Get User Success :mtp1
+2021-11-17 16:07:04.1992 INFO Get User Success :353-M and TP Unit
+2021-11-17 16:07:08.6584 INFO Get Product Type Master List Success
+2021-11-17 16:07:08.6584 INFO Get User Success :mtp1
+2021-11-17 16:18:45.3478 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:18:45.4464 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:18:45.4599 INFO Get Product Type Master List Success
+2021-11-17 16:18:45.4698 INFO Get User Success :bdbl_dis
+2021-11-17 16:19:06.6544 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:19:06.6544 INFO Get Product Master List Success
+2021-11-17 16:19:07.1397 INFO Get RR List Success
+2021-11-17 16:19:07.1857 INFO Get Product Type Master List Success
+2021-11-17 16:19:07.1857 INFO Get User Success :bdbl_dis
+2021-11-17 16:19:12.9068 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:19:12.9068 INFO Get Product Master List Success
+2021-11-17 16:19:12.9068 INFO Get State List Success
+2021-11-17 16:19:12.9223 INFO Get NOC Sucess:473
+2021-11-17 16:19:15.3445 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/2
+2021-11-17 16:19:15.3445 INFO Get Product Type Master List Success
+2021-11-17 16:19:15.3445 INFO Get User Success :bdbl_dis
+2021-11-17 16:19:28.3003 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:19:28.3003 INFO Get Product Master List Success
+2021-11-17 16:19:28.7207 INFO Get RR List Success
+2021-11-17 16:19:28.7207 INFO Get Product Type Master List Success
+2021-11-17 16:19:28.7207 INFO Get User Success :bdbl_dis
+2021-11-17 16:19:32.9321 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:19:32.9321 INFO Get Product Master List Success
+2021-11-17 16:19:32.9400 INFO Get State List Success
+2021-11-17 16:19:32.9400 INFO Get NOC Sucess:473
+2021-11-17 16:21:14.0259 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/2021-2022/2
+2021-11-17 16:21:14.0259 INFO Get Product Type Master List Success
+2021-11-17 16:21:14.0342 INFO Get User Success :bdbl_dis
+2021-11-17 16:21:29.8330 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:21:29.8330 INFO Get Product Master List Success
+2021-11-17 16:21:30.2628 INFO Get RR List Success
+2021-11-17 16:21:30.2641 INFO Get Product Type Master List Success
+2021-11-17 16:21:30.2641 INFO Get User Success :bdbl_dis
+2021-11-17 16:21:35.7015 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:21:35.7015 INFO Get Product Master List Success
+2021-11-17 16:21:35.7015 INFO Get State List Success
+2021-11-17 16:21:35.7015 INFO Get NOC Sucess:473
+2021-11-17 16:21:42.4980 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/2021-2022/2
+2021-11-17 16:23:38.1355 INFO Get NOC Details Success
+2021-11-17 16:23:38.1414 INFO Get Customer Details Success
+2021-11-17 16:23:40.1193 INFO Get Product Type Master List Success
+2021-11-17 16:23:40.1253 INFO Get User Success :bdbl_dis
+2021-11-17 16:24:41.2144 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:24:41.2144 INFO Get Product Master List Success
+2021-11-17 16:24:41.6249 INFO Get RR List Success
+2021-11-17 16:24:41.6249 INFO Get Product Type Master List Success
+2021-11-17 16:24:41.6249 INFO Get User Success :bdbl_dis
+2021-11-17 16:24:46.0486 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:24:46.0486 INFO Get Product Master List Success
+2021-11-17 16:24:46.0616 INFO Get State List Success
+2021-11-17 16:24:46.0616 INFO Get NOC Sucess:473
+2021-11-17 16:24:47.7200 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/2021-2022/2
+2021-11-17 16:24:47.9948 INFO Get NOC Details Success
+2021-11-17 16:24:47.9948 INFO Get Customer Details Success
+2021-11-17 16:24:48.5264 INFO Get Product Type Master List Success
+2021-11-17 16:24:48.5324 INFO Get User Success :bdbl_dis
+2021-11-17 16:24:54.5358 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:24:54.5358 INFO Get Product Master List Success
+2021-11-17 16:24:55.0814 INFO Get RR List Success
+2021-11-17 16:24:55.0814 INFO Get Product Type Master List Success
+2021-11-17 16:24:55.0814 INFO Get User Success :bdbl_dis
+2021-11-17 16:25:01.3672 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:25:01.3672 INFO Get Product Master List Success
+2021-11-17 16:25:01.3732 INFO Get State List Success
+2021-11-17 16:25:01.3732 INFO Get NOC Sucess:473
+2021-11-17 16:25:03.0668 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/2021-2022/2
+2021-11-17 16:25:03.0668 INFO Get Product Type Master List Success
+2021-11-17 16:25:03.0668 INFO Get User Success :bdbl_dis
+2021-11-17 16:25:07.6647 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:25:07.6647 INFO Get Product Master List Success
+2021-11-17 16:25:08.0800 INFO Get RR List Success
+2021-11-17 16:25:08.0800 INFO Get Product Type Master List Success
+2021-11-17 16:25:08.0800 INFO Get User Success :bdbl_dis
+2021-11-17 16:25:10.9938 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2021-11-17 16:25:10.9938 INFO Get Product Master List Success
+2021-11-17 16:25:10.9998 INFO Get State List Success
+2021-11-17 16:25:10.9998 INFO Get NOC Sucess:473
+2021-11-17 16:25:12.3727 INFO Get NOC Sucess:Req/BH/BDB/NOC/2020-21/2021-2022/2
+2021-11-17 16:25:12.6510 INFO Get NOC Details Success
+2021-11-17 16:25:12.6550 INFO Get Customer Details Success
+2021-11-17 16:25:13.7752 INFO Get Product Type Master List Success
+2021-11-17 16:25:13.7812 INFO Get User Success :bdbl_dis
+2021-11-17 16:26:52.5412 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 16:26:52.6172 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 16:26:52.6382 INFO Get Product Type Master List Success
+2021-11-17 16:26:52.6422 INFO Get User Success :wcedo
+2021-11-17 16:26:55.4878 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 16:26:56.8119 INFO Get RR List Success
+2021-11-17 16:26:56.8549 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 16:26:57.3611 INFO Get RR List Success
+2021-11-17 16:26:58.1930 INFO Get Product Type Master List Success
+2021-11-17 16:26:58.1930 INFO Get User Success :wcedo
+2021-11-17 16:27:09.7439 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 16:27:09.7529 INFO Get RR Details Success
+2021-11-17 16:27:09.7749 INFO Get RR List Success
+2021-11-17 16:27:11.4410 INFO Get Product Type Master List Success
+2021-11-17 16:27:11.4410 INFO Get User Success :wcedo
+2021-11-17 16:28:11.2032 INFO Get User Success :99-Assistant Commissioner
+2021-11-17 16:28:12.7125 INFO Get RR List Success
+2021-11-17 16:28:13.4308 INFO Get Product Type Master List Success
+2021-11-17 16:28:13.4368 INFO Get User Success :wcedo
+2021-11-17 16:30:05.4695 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 16:30:05.5052 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 16:30:05.5052 INFO Get Product Type Master List Success
+2021-11-17 16:30:05.5052 INFO Get User Success :bhedo
+2021-11-17 16:30:09.8196 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 16:30:11.5859 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 16:30:12.0965 INFO Check WorkFlow List Success
+2021-11-17 16:30:12.2720 INFO Get Allotment List Success
+2021-11-17 16:30:12.8585 INFO Get Product Type Master List Success
+2021-11-17 16:30:12.8585 INFO Get User Success :bhedo
+2021-11-17 16:30:15.4606 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 16:30:16.8006 INFO Get Party Master List Success
+2021-11-17 16:30:16.8006 INFO Get Product Master List Success
+2021-11-17 16:30:16.8006 INFO Get Allotment Details Success
+2021-11-17 16:30:16.8115 INFO Get Party Master List Success
+2021-11-17 16:30:16.8115 INFO Check WorkFlow List Success
+2021-11-17 16:30:17.7592 INFO Get Product Type Master List Success
+2021-11-17 16:30:17.7592 INFO Get User Success :bhedo
+2021-11-17 16:30:40.6079 INFO Allotement Approve Sucess:285
+2021-11-17 16:30:40.6349 INFO Get User Success :341-Assistant Commissioner, Bhojpur
+2021-11-17 16:30:41.6918 INFO Check WorkFlow List Success
+2021-11-17 16:30:42.4383 INFO Get Allotment List Success
+2021-11-17 16:30:43.6277 INFO Get Product Type Master List Success
+2021-11-17 16:30:43.6277 INFO Get User Success :bhedo
+2021-11-17 17:17:16.5344 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:17:17.5442 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:17:17.6123 INFO Get Product Type Master List Success
+2021-11-17 17:17:17.6239 INFO Get User Success :mtp1
+2021-11-17 17:17:20.3867 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:17:20.4048 INFO Check WorkFlow List Success
+2021-11-17 17:17:22.3589 INFO Get Product Type Master List Success
+2021-11-17 17:17:22.3589 INFO Get User Success :mtp1
+2021-11-17 17:17:26.1078 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:17:26.1078 INFO Get License_Type List Success
+2021-11-17 17:17:27.9766 INFO Get License Fee List Success
+2021-11-17 17:17:27.9766 INFO Get State List Success
+2021-11-17 17:17:27.9836 INFO Check WorkFlow List Success
+2021-11-17 17:17:27.9836 INFO Get Product Type Master List Success
+2021-11-17 17:17:27.9836 INFO Get User Success :mtp1
+2021-11-17 17:19:30.1571 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:19:30.1571 INFO Check WorkFlow List Success
+2021-11-17 17:19:32.4896 INFO Get Product Type Master List Success
+2021-11-17 17:19:32.5003 INFO Get User Success :mtp1
+2021-11-17 17:19:34.9198 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:19:34.9198 INFO Get License_Type List Success
+2021-11-17 17:19:36.0046 INFO Get License Fee List Success
+2021-11-17 17:19:36.0046 INFO Get State List Success
+2021-11-17 17:19:36.0216 INFO Check WorkFlow List Success
+2021-11-17 17:19:36.0216 INFO Get Product Type Master List Success
+2021-11-17 17:19:36.0216 INFO Get User Success :mtp1
+2021-11-17 17:19:53.1279 INFO Get Division List Success
+2021-11-17 17:20:23.6545 INFO Get Existing data Success : lic_application
+2021-11-17 17:20:26.9081 INFO Get Existing data Fail :lic_application
+2021-11-17 17:20:26.9081 INFO Get License_Type List Success
+2021-11-17 17:37:22.4172 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:37:35.4181 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:37:35.4699 INFO Get Product Type Master List Success
+2021-11-17 17:37:35.4699 INFO Get User Success :mtp1
+2021-11-17 17:37:40.2543 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:37:40.2723 INFO Check WorkFlow List Success
+2021-11-17 17:37:42.1675 INFO Get Product Type Master List Success
+2021-11-17 17:37:42.1724 INFO Get User Success :mtp1
+2021-11-17 17:37:50.4665 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:37:50.4712 INFO Check WorkFlow List Success
+2021-11-17 17:38:28.1116 INFO Get Product Type Master List Success
+2021-11-17 17:38:28.1116 INFO Get User Success :mtp1
+2021-11-17 17:38:32.6493 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:38:32.6493 INFO Check WorkFlow List Success
+2021-11-17 17:38:34.4865 INFO Get Product Type Master List Success
+2021-11-17 17:38:34.4865 INFO Get User Success :mtp1
+2021-11-17 17:38:37.1091 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:38:37.1091 INFO Get License_Type List Success
+2021-11-17 17:38:38.3637 INFO Get License Fee List Success
+2021-11-17 17:38:38.3637 INFO Get State List Success
+2021-11-17 17:38:38.3637 INFO Check WorkFlow List Success
+2021-11-17 17:38:39.2906 INFO Get Division List Success
+2021-11-17 17:38:40.6743 INFO Get Product Type Master List Success
+2021-11-17 17:38:40.6743 INFO Get User Success :mtp1
+2021-11-17 17:38:50.1459 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:38:50.1459 INFO Check WorkFlow List Success
+2021-11-17 17:38:52.1917 INFO Get Product Type Master List Success
+2021-11-17 17:38:52.1917 INFO Get User Success :mtp1
+2021-11-17 17:45:02.0118 INFO Get User Success :353-M and TP Unit
+2021-11-17 17:45:02.0138 INFO Get License_Type List Success
+2021-11-17 17:45:05.2499 INFO Get License Fee List Success
+2021-11-17 17:45:05.2499 INFO Get State List Success
+2021-11-17 17:45:05.2499 INFO Check WorkFlow List Success
+2021-11-17 17:45:05.2658 INFO Get Product Type Master List Success
+2021-11-17 17:45:05.2658 INFO Get User Success :mtp1
+2021-11-17 17:45:16.8394 INFO Get Division List Success
+2021-11-17 17:45:25.3427 INFO Get Existing data Fail :lic_application
+2021-11-17 17:45:25.3427 INFO Get License_Type List Success

@@ -1,0 +1,685 @@
+2021-03-01 10:36:29.1346 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 10:36:29.2583 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 10:36:29.3853 INFO Get User Success :harinagar_dis
+2021-03-01 10:36:47.7419 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 10:36:50.3859 INFO Get User Success :harinagar_dis
+2021-03-01 10:36:57.9119 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 10:36:57.9399 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 10:36:58.0111 INFO Get User Success :harinagar_dis
+2021-03-01 10:36:59.6830 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:38.7575 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:38.8363 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:38.9954 INFO Get User Success :harinagar_dis
+2021-03-01 12:06:40.9551 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:42.6961 INFO Get User Success :harinagar_dis
+2021-03-01 12:06:45.5983 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:45.6113 INFO Get User Success :harinagar_dis
+2021-03-01 12:06:49.2751 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:49.3498 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:06:49.3558 INFO Get VAT Master List Success
+2021-03-01 12:06:49.3558 INFO Get User Success :harinagar_dis
+2021-03-01 12:13:32.1535 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:13:32.2436 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:13:32.3618 INFO Get User Success :harinagar_dis
+2021-03-01 12:13:36.1341 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:13:37.5014 INFO Get User Success :harinagar_dis
+2021-03-01 12:13:39.6825 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:13:39.6825 INFO Get User Success :harinagar_dis
+2021-03-01 12:13:41.5944 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:13:41.6531 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:13:41.6531 INFO Get VAT Master List Success
+2021-03-01 12:13:41.6682 INFO Get User Success :harinagar_dis
+2021-03-01 12:21:45.0250 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:21:45.1038 INFO Get RR List Success
+2021-03-01 12:21:45.1257 INFO Get User Success :harinagar_dis
+2021-03-01 12:21:50.6632 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:21:50.7243 INFO Get RR List Success
+2021-03-01 12:21:57.6284 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:21:57.6284 INFO Get State List Success
+2021-03-01 12:21:57.6434 INFO Get User Success :harinagar_dis
+2021-03-01 12:21:58.6360 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:21:58.6360 INFO Get Indent List Success
+2021-03-01 12:21:58.6580 INFO Get User Success :harinagar_dis
+2021-03-01 12:22:01.4273 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 12:22:01.4315 INFO Get Indent List Success
+2021-03-01 12:22:07.9625 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:07.9894 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:08.4967 INFO Get User Success :com
+2021-03-01 12:22:11.7056 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:11.7543 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:11.7543 INFO Check WorkFlow List Success
+2021-03-01 12:22:11.8541 INFO Get RR List Success
+2021-03-01 12:22:11.8541 INFO Get User Success :com
+2021-03-01 12:22:14.0041 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:14.0041 INFO Check WorkFlow List Success
+2021-03-01 12:22:14.0720 INFO Get RR List Success
+2021-03-01 12:22:14.0720 INFO Get User Success :com
+2021-03-01 12:22:14.7164 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:14.7164 INFO Check WorkFlow List Success
+2021-03-01 12:22:14.7784 INFO Get RR List Success
+2021-03-01 12:22:14.7926 INFO Get User Success :com
+2021-03-01 12:22:19.3143 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:19.3143 INFO Check WorkFlow List Success
+2021-03-01 12:22:19.3631 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:19.3631 INFO Check WorkFlow List Success
+2021-03-01 12:22:19.3711 INFO Get Allotment List Success
+2021-03-01 12:22:19.3890 INFO Get User Success :com
+2021-03-01 12:22:21.6736 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:21.6736 INFO Get Party Master List Success
+2021-03-01 12:22:21.6818 INFO Get Indent List Success
+2021-03-01 12:22:21.6818 INFO Get Allotment Details Success
+2021-03-01 12:22:21.6818 INFO Get Indent List Success
+2021-03-01 12:22:21.6969 INFO Get Party Master List Success
+2021-03-01 12:22:21.7230 INFO Check WorkFlow List Success
+2021-03-01 12:22:21.7362 INFO Get User Success :com
+2021-03-01 12:22:35.3424 INFO Allotement Approve Sucess:20
+2021-03-01 12:22:35.3716 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:35.3716 INFO Check WorkFlow List Success
+2021-03-01 12:22:35.3716 INFO Get Allotment List Success
+2021-03-01 12:22:35.3716 INFO Get User Success :com
+2021-03-01 12:22:41.7320 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:41.7320 INFO Check WorkFlow List Success
+2021-03-01 12:22:41.7320 INFO Get Allotment List Success
+2021-03-01 12:22:41.7440 INFO Get User Success :com
+2021-03-01 12:22:42.3197 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:42.3197 INFO Check WorkFlow List Success
+2021-03-01 12:22:42.3257 INFO Get Allotment List Success
+2021-03-01 12:22:42.3376 INFO Get User Success :com
+2021-03-01 12:22:42.9554 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:42.9554 INFO Check WorkFlow List Success
+2021-03-01 12:22:42.9554 INFO Get Allotment List Success
+2021-03-01 12:22:42.9819 INFO Get User Success :com
+2021-03-01 12:22:43.8260 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:43.8260 INFO Check WorkFlow List Success
+2021-03-01 12:22:43.8260 INFO Get Allotment List Success
+2021-03-01 12:22:43.8260 INFO Get User Success :com
+2021-03-01 12:22:45.9517 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:45.9517 INFO Check WorkFlow List Success
+2021-03-01 12:22:45.9627 INFO Get Allotment List Success
+2021-03-01 12:22:45.9627 INFO Get User Success :com
+2021-03-01 12:22:46.4404 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:46.4404 INFO Check WorkFlow List Success
+2021-03-01 12:22:46.4404 INFO Get Allotment List Success
+2021-03-01 12:22:46.4505 INFO Get User Success :com
+2021-03-01 12:22:47.6739 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:47.6739 INFO Check WorkFlow List Success
+2021-03-01 12:22:47.6739 INFO Get Allotment List Success
+2021-03-01 12:22:47.6847 INFO Get User Success :com
+2021-03-01 12:22:51.9146 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:51.9425 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:51.9425 INFO Check WorkFlow List Success
+2021-03-01 12:22:52.0086 INFO Get RR List Success
+2021-03-01 12:22:52.0136 INFO Get User Success :com
+2021-03-01 12:22:54.5214 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:54.5214 INFO Check WorkFlow List Success
+2021-03-01 12:22:54.5444 INFO Get User Success :101-Commissioner
+2021-03-01 12:22:54.5444 INFO Check WorkFlow List Success
+2021-03-01 12:22:54.5444 INFO Get Allotment List Success
+2021-03-01 12:22:54.5444 INFO Get User Success :com
+2021-03-01 12:23:04.3668 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:04.3967 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:04.8943 INFO Get User Success :hodyco
+2021-03-01 12:23:18.8102 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:18.8102 INFO Check WorkFlow List Success
+2021-03-01 12:23:18.8332 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:18.8332 INFO Check WorkFlow List Success
+2021-03-01 12:23:18.8412 INFO Get Allotment List Success
+2021-03-01 12:23:18.8412 INFO Get User Success :hodyco
+2021-03-01 12:23:30.6313 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:30.6313 INFO Get Party Master List Success
+2021-03-01 12:23:30.6383 INFO Get Indent List Success
+2021-03-01 12:23:30.6383 INFO Get Allotment Details Success
+2021-03-01 12:23:30.6383 INFO Get Indent List Success
+2021-03-01 12:23:30.6383 INFO Get Party Master List Success
+2021-03-01 12:23:30.6555 INFO Check WorkFlow List Success
+2021-03-01 12:23:30.6555 INFO Get User Success :hodyco
+2021-03-01 12:23:49.4825 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:49.4825 INFO Check WorkFlow List Success
+2021-03-01 12:23:49.5153 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:49.5153 INFO Check WorkFlow List Success
+2021-03-01 12:23:49.5153 INFO Get Allotment List Success
+2021-03-01 12:23:49.5270 INFO Get User Success :hodyco
+2021-03-01 12:23:54.2697 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:54.2697 INFO Check WorkFlow List Success
+2021-03-01 12:23:54.2757 INFO Get Allotment List Success
+2021-03-01 12:23:54.2757 INFO Get User Success :hodyco
+2021-03-01 12:23:55.6753 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:23:55.6753 INFO Check WorkFlow List Success
+2021-03-01 12:23:55.6823 INFO Get Allotment List Success
+2021-03-01 12:23:55.6823 INFO Get User Success :hodyco
+2021-03-01 12:24:00.6487 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:24:00.6517 INFO Get Party Master List Success
+2021-03-01 12:24:00.6517 INFO Get Indent List Success
+2021-03-01 12:24:00.6517 INFO Get Allotment Details Success
+2021-03-01 12:24:00.6517 INFO Get Indent List Success
+2021-03-01 12:24:00.6656 INFO Get Party Master List Success
+2021-03-01 12:24:00.6656 INFO Check WorkFlow List Success
+2021-03-01 12:24:00.6656 INFO Get User Success :hodyco
+2021-03-01 12:24:25.5026 INFO Allotement Approve Sucess:22
+2021-03-01 12:24:25.5313 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:24:25.5313 INFO Check WorkFlow List Success
+2021-03-01 12:24:25.5313 INFO Get Allotment List Success
+2021-03-01 12:24:25.5430 INFO Get User Success :hodyco
+2021-03-01 12:24:32.0260 INFO Get User Success :101-Commissioner
+2021-03-01 12:24:32.0499 INFO Get User Success :101-Commissioner
+2021-03-01 12:24:32.5328 INFO Get User Success :com
+2021-03-01 12:24:34.8186 INFO Get User Success :101-Commissioner
+2021-03-01 12:24:34.8186 INFO Check WorkFlow List Success
+2021-03-01 12:24:34.8435 INFO Get User Success :101-Commissioner
+2021-03-01 12:24:34.8435 INFO Check WorkFlow List Success
+2021-03-01 12:24:34.8435 INFO Get Allotment List Success
+2021-03-01 12:24:34.8545 INFO Get User Success :com
+2021-03-01 12:24:36.9795 INFO Get User Success :101-Commissioner
+2021-03-01 12:24:36.9795 INFO Get Party Master List Success
+2021-03-01 12:24:36.9795 INFO Get Indent List Success
+2021-03-01 12:24:36.9795 INFO Get Allotment Details Success
+2021-03-01 12:24:36.9940 INFO Get Indent List Success
+2021-03-01 12:24:36.9940 INFO Get Party Master List Success
+2021-03-01 12:24:36.9940 INFO Check WorkFlow List Success
+2021-03-01 12:24:36.9940 INFO Get User Success :com
+2021-03-01 12:27:25.8273 INFO Get User Success :101-Commissioner
+2021-03-01 12:27:25.8273 INFO Check WorkFlow List Success
+2021-03-01 12:27:25.8273 INFO Get Allotment List Success
+2021-03-01 12:27:25.8392 INFO Get User Success :com
+2021-03-01 12:27:29.2304 INFO Get User Success :101-Commissioner
+2021-03-01 12:27:29.2304 INFO Check WorkFlow List Success
+2021-03-01 12:27:29.2304 INFO Get Allotment List Success
+2021-03-01 12:27:29.2304 INFO Get User Success :com
+2021-03-01 12:27:43.6178 INFO Get User Success :101-Commissioner
+2021-03-01 12:27:43.6198 INFO Get Party Master List Success
+2021-03-01 12:27:43.6198 INFO Get Indent List Success
+2021-03-01 12:27:43.6198 INFO Get Allotment Details Success
+2021-03-01 12:27:43.6198 INFO Get Indent List Success
+2021-03-01 12:27:43.6198 INFO Get Party Master List Success
+2021-03-01 12:27:43.6369 INFO Check WorkFlow List Success
+2021-03-01 12:27:43.6369 INFO Get User Success :com
+2021-03-01 12:27:48.0508 INFO Get User Success :101-Commissioner
+2021-03-01 12:27:48.0508 INFO Check WorkFlow List Success
+2021-03-01 12:27:48.0568 INFO Get Allotment List Success
+2021-03-01 12:27:48.0568 INFO Get User Success :com
+2021-03-01 12:27:52.1971 INFO Get User Success :101-Commissioner
+2021-03-01 12:27:52.1971 INFO Get Party Master List Success
+2021-03-01 12:27:52.1971 INFO Get Indent List Success
+2021-03-01 12:27:52.1971 INFO Get Allotment Details Success
+2021-03-01 12:27:52.1971 INFO Get Indent List Success
+2021-03-01 12:27:52.2125 INFO Get Party Master List Success
+2021-03-01 12:27:52.2125 INFO Check WorkFlow List Success
+2021-03-01 12:27:52.2125 INFO Get User Success :com
+2021-03-01 12:27:54.8670 INFO Get User Success :101-Commissioner
+2021-03-01 12:27:54.8690 INFO Check WorkFlow List Success
+2021-03-01 12:27:54.8690 INFO Get Allotment List Success
+2021-03-01 12:27:54.8690 INFO Get User Success :com
+2021-03-01 12:28:08.4683 INFO Get User Success :101-Commissioner
+2021-03-01 12:28:08.4683 INFO Check WorkFlow List Success
+2021-03-01 12:28:08.4683 INFO Get Allotment List Success
+2021-03-01 12:28:08.4794 INFO Get User Success :com
+2021-03-01 12:28:09.2988 INFO Get User Success :101-Commissioner
+2021-03-01 12:28:09.2988 INFO Check WorkFlow List Success
+2021-03-01 12:28:09.2988 INFO Get Allotment List Success
+2021-03-01 12:28:09.3118 INFO Get User Success :com
+2021-03-01 12:28:16.0674 INFO Get User Success :101-Commissioner
+2021-03-01 12:28:16.0674 INFO Get Party Master List Success
+2021-03-01 12:28:16.0734 INFO Get Indent List Success
+2021-03-01 12:28:16.0734 INFO Get Allotment Details Success
+2021-03-01 12:28:16.0734 INFO Get Indent List Success
+2021-03-01 12:28:16.0734 INFO Get Party Master List Success
+2021-03-01 12:28:16.0734 INFO Check WorkFlow List Success
+2021-03-01 12:28:16.0908 INFO Get User Success :com
+2021-03-01 12:28:33.6000 INFO Allotement Approve Sucess:22
+2021-03-01 12:28:33.6220 INFO Get User Success :101-Commissioner
+2021-03-01 12:28:33.6220 INFO Check WorkFlow List Success
+2021-03-01 12:28:33.6220 INFO Get Allotment List Success
+2021-03-01 12:28:33.6220 INFO Get User Success :com
+2021-03-01 12:28:39.8533 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:28:39.8783 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:28:40.3616 INFO Get User Success :hodyco
+2021-03-01 12:28:42.7141 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:28:42.7141 INFO Check WorkFlow List Success
+2021-03-01 12:28:42.7400 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:28:42.7400 INFO Check WorkFlow List Success
+2021-03-01 12:28:42.7450 INFO Get Allotment List Success
+2021-03-01 12:28:42.7450 INFO Get User Success :hodyco
+2021-03-01 12:28:45.8824 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:28:45.8844 INFO Check WorkFlow List Success
+2021-03-01 12:28:45.8844 INFO Get Allotment List Success
+2021-03-01 12:28:45.8844 INFO Get User Success :hodyco
+2021-03-01 12:40:04.3791 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:04.4578 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:04.9955 INFO Get User Success :com
+2021-03-01 12:40:08.0210 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:08.0251 INFO Check WorkFlow List Success
+2021-03-01 12:40:08.0708 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:08.0727 INFO Check WorkFlow List Success
+2021-03-01 12:40:08.0727 INFO Get Allotment List Success
+2021-03-01 12:40:08.1019 INFO Get User Success :com
+2021-03-01 12:40:12.4653 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:12.4653 INFO Check WorkFlow List Success
+2021-03-01 12:40:12.4653 INFO Get Allotment List Success
+2021-03-01 12:40:12.4653 INFO Get User Success :com
+2021-03-01 12:40:13.1374 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:13.1374 INFO Check WorkFlow List Success
+2021-03-01 12:40:13.1374 INFO Get Allotment List Success
+2021-03-01 12:40:13.1716 INFO Get User Success :com
+2021-03-01 12:40:19.2393 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:19.2443 INFO Get Party Master List Success
+2021-03-01 12:40:19.2443 INFO Get Indent List Success
+2021-03-01 12:40:19.2604 INFO Get Allotment Details Success
+2021-03-01 12:40:19.2604 INFO Get Indent List Success
+2021-03-01 12:40:19.2604 INFO Get Party Master List Success
+2021-03-01 12:40:19.3037 INFO Check WorkFlow List Success
+2021-03-01 12:40:19.3159 INFO Get User Success :com
+2021-03-01 12:40:22.9209 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:22.9209 INFO Check WorkFlow List Success
+2021-03-01 12:40:22.9209 INFO Get Allotment List Success
+2021-03-01 12:40:22.9320 INFO Get User Success :com
+2021-03-01 12:40:24.2499 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:24.2499 INFO Check WorkFlow List Success
+2021-03-01 12:40:24.2599 INFO Get Allotment List Success
+2021-03-01 12:40:24.2599 INFO Get User Success :com
+2021-03-01 12:40:24.9821 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:24.9821 INFO Check WorkFlow List Success
+2021-03-01 12:40:24.9821 INFO Get Allotment List Success
+2021-03-01 12:40:24.9951 INFO Get User Success :com
+2021-03-01 12:40:27.9159 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:27.9638 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:27.9638 INFO Check WorkFlow List Success
+2021-03-01 12:40:28.0397 INFO Get RR List Success
+2021-03-01 12:40:28.0458 INFO Get User Success :com
+2021-03-01 12:40:29.9634 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:29.9634 INFO Check WorkFlow List Success
+2021-03-01 12:40:29.9890 INFO Get User Success :101-Commissioner
+2021-03-01 12:40:29.9890 INFO Check WorkFlow List Success
+2021-03-01 12:40:29.9969 INFO Get Allotment List Success
+2021-03-01 12:40:29.9969 INFO Get User Success :com
+2021-03-01 12:40:43.1028 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:40:43.1288 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:40:43.6207 INFO Get User Success :hodyco
+2021-03-01 12:40:46.1843 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:40:46.1843 INFO Check WorkFlow List Success
+2021-03-01 12:40:46.2086 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:40:46.2086 INFO Check WorkFlow List Success
+2021-03-01 12:40:46.2136 INFO Get Allotment List Success
+2021-03-01 12:40:46.2295 INFO Get User Success :hodyco
+2021-03-01 12:40:49.8993 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:40:49.9013 INFO Get Party Master List Success
+2021-03-01 12:40:49.9013 INFO Get Indent List Success
+2021-03-01 12:40:49.9013 INFO Get Allotment Details Success
+2021-03-01 12:40:49.9013 INFO Get Indent List Success
+2021-03-01 12:40:49.9013 INFO Get Party Master List Success
+2021-03-01 12:40:49.9232 INFO Check WorkFlow List Success
+2021-03-01 12:40:49.9232 INFO Get User Success :hodyco
+2021-03-01 12:41:14.9033 INFO Allotement Approve Sucess:23
+2021-03-01 12:41:14.9288 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:41:14.9288 INFO Check WorkFlow List Success
+2021-03-01 12:41:14.9338 INFO Get Allotment List Success
+2021-03-01 12:41:14.9338 INFO Get User Success :hodyco
+2021-03-01 12:41:20.5929 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:20.6208 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:21.1080 INFO Get User Success :com
+2021-03-01 12:41:23.1839 INFO Sugarcanepurchase Get List Success
+2021-03-01 12:41:23.1839 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:23.1839 INFO Get User Success :com
+2021-03-01 12:41:25.5449 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:25.5665 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:25.5665 INFO Check WorkFlow List Success
+2021-03-01 12:41:25.6415 INFO Get RR List Success
+2021-03-01 12:41:25.6415 INFO Get User Success :com
+2021-03-01 12:41:27.2325 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:27.2325 INFO Check WorkFlow List Success
+2021-03-01 12:41:27.2654 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:27.2654 INFO Check WorkFlow List Success
+2021-03-01 12:41:27.2654 INFO Get Allotment List Success
+2021-03-01 12:41:27.2766 INFO Get User Success :com
+2021-03-01 12:41:28.9508 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:28.9508 INFO Get Party Master List Success
+2021-03-01 12:41:28.9508 INFO Get Indent List Success
+2021-03-01 12:41:28.9508 INFO Get Allotment Details Success
+2021-03-01 12:41:28.9650 INFO Get Indent List Success
+2021-03-01 12:41:28.9650 INFO Get Party Master List Success
+2021-03-01 12:41:28.9650 INFO Check WorkFlow List Success
+2021-03-01 12:41:28.9650 INFO Get User Success :com
+2021-03-01 12:41:36.1635 INFO Allotement Approve Sucess:23
+2021-03-01 12:41:36.1850 INFO Get User Success :101-Commissioner
+2021-03-01 12:41:36.1850 INFO Check WorkFlow List Success
+2021-03-01 12:41:36.1850 INFO Get Allotment List Success
+2021-03-01 12:41:36.1850 INFO Get User Success :com
+2021-03-01 12:42:05.4182 INFO Get User Success :101-Commissioner
+2021-03-01 12:42:05.4182 INFO Check WorkFlow List Success
+2021-03-01 12:42:05.4182 INFO Get Allotment List Success
+2021-03-01 12:42:05.4312 INFO Get User Success :com
+2021-03-01 12:42:07.3870 INFO Get User Success :101-Commissioner
+2021-03-01 12:42:07.3870 INFO Check WorkFlow List Success
+2021-03-01 12:42:07.3870 INFO Get Allotment List Success
+2021-03-01 12:42:07.4010 INFO Get User Success :com
+2021-03-01 12:42:07.8654 INFO Get User Success :101-Commissioner
+2021-03-01 12:42:07.8654 INFO Check WorkFlow List Success
+2021-03-01 12:42:07.8704 INFO Get Allotment List Success
+2021-03-01 12:42:07.8704 INFO Get User Success :com
+2021-03-01 12:43:55.3498 INFO Get User Success :101-Commissioner
+2021-03-01 12:43:55.4269 INFO Get User Success :101-Commissioner
+2021-03-01 12:43:55.9882 INFO Get User Success :com
+2021-03-01 12:44:00.6450 INFO Get User Success :101-Commissioner
+2021-03-01 12:44:00.6450 INFO Check WorkFlow List Success
+2021-03-01 12:44:00.6957 INFO Get User Success :101-Commissioner
+2021-03-01 12:44:00.6976 INFO Check WorkFlow List Success
+2021-03-01 12:44:00.6976 INFO Get Allotment List Success
+2021-03-01 12:44:00.7280 INFO Get User Success :com
+2021-03-01 12:44:03.0849 INFO Get User Success :101-Commissioner
+2021-03-01 12:44:03.0888 INFO Check WorkFlow List Success
+2021-03-01 12:44:03.0888 INFO Get Allotment List Success
+2021-03-01 12:44:03.0888 INFO Get User Success :com
+2021-03-01 12:44:04.2492 INFO Get User Success :101-Commissioner
+2021-03-01 12:44:04.2492 INFO Check WorkFlow List Success
+2021-03-01 12:44:04.2492 INFO Get Allotment List Success
+2021-03-01 12:44:04.2842 INFO Get User Success :com
+2021-03-01 12:44:08.3775 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:44:08.4005 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:44:08.8945 INFO Get User Success :hodyco
+2021-03-01 12:44:12.3198 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:44:12.3198 INFO Check WorkFlow List Success
+2021-03-01 12:44:12.3478 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:44:12.3478 INFO Check WorkFlow List Success
+2021-03-01 12:44:12.3478 INFO Get Allotment List Success
+2021-03-01 12:44:12.3669 INFO Get User Success :hodyco
+2021-03-01 12:44:14.3649 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:44:14.3707 INFO Get Party Master List Success
+2021-03-01 12:44:14.3707 INFO Get Indent List Success
+2021-03-01 12:44:14.3867 INFO Get Allotment Details Success
+2021-03-01 12:44:14.3867 INFO Get Indent List Success
+2021-03-01 12:44:14.3867 INFO Get Party Master List Success
+2021-03-01 12:44:14.4306 INFO Check WorkFlow List Success
+2021-03-01 12:44:14.4395 INFO Get User Success :hodyco
+2021-03-01 12:44:58.4413 INFO Allotement Approve Sucess:17
+2021-03-01 12:44:58.4647 INFO Get User Success :100-Deputy Commissioner
+2021-03-01 12:44:58.4647 INFO Check WorkFlow List Success
+2021-03-01 12:44:58.4787 INFO Get Allotment List Success
+2021-03-01 12:44:58.4787 INFO Get User Success :hodyco
+2021-03-01 12:45:03.8650 INFO Get User Success :101-Commissioner
+2021-03-01 12:45:03.8890 INFO Get User Success :101-Commissioner
+2021-03-01 12:45:04.3906 INFO Get User Success :com
+2021-03-01 12:45:08.4550 INFO Get User Success :101-Commissioner
+2021-03-01 12:45:08.4550 INFO Check WorkFlow List Success
+2021-03-01 12:45:08.4859 INFO Get User Success :101-Commissioner
+2021-03-01 12:45:08.4859 INFO Check WorkFlow List Success
+2021-03-01 12:45:08.4859 INFO Get Allotment List Success
+2021-03-01 12:45:08.4973 INFO Get User Success :com
+2021-03-01 12:45:10.1699 INFO Get User Success :101-Commissioner
+2021-03-01 12:45:10.1699 INFO Get Party Master List Success
+2021-03-01 12:45:10.1699 INFO Get Indent List Success
+2021-03-01 12:45:10.1699 INFO Get Allotment Details Success
+2021-03-01 12:45:10.1828 INFO Get Indent List Success
+2021-03-01 12:45:10.1828 INFO Get Party Master List Success
+2021-03-01 12:45:10.1828 INFO Check WorkFlow List Success
+2021-03-01 12:45:10.1978 INFO Get User Success :com
+2021-03-01 12:47:05.8499 INFO Get GetSeverList Success
+2021-03-01 12:48:57.5990 INFO Get GetSeverList Success
+2021-03-01 12:51:41.4809 INFO Get User Success :101-Commissioner
+2021-03-01 12:51:41.5607 INFO Get User Success :101-Commissioner
+2021-03-01 12:51:42.0956 INFO Get User Success :com
+2021-03-01 12:51:46.8283 INFO Get User Success :101-Commissioner
+2021-03-01 12:51:46.8283 INFO Check WorkFlow List Success
+2021-03-01 12:51:46.8794 INFO Get User Success :101-Commissioner
+2021-03-01 12:51:46.8794 INFO Check WorkFlow List Success
+2021-03-01 12:51:46.8886 INFO Get Allotment List Success
+2021-03-01 12:51:46.9335 INFO Get User Success :com
+2021-03-01 12:51:50.0581 INFO Get User Success :101-Commissioner
+2021-03-01 12:51:50.0581 INFO Get Party Master List Success
+2021-03-01 12:51:50.0581 INFO Get Indent List Success
+2021-03-01 12:51:50.0785 INFO Get Allotment Details Success
+2021-03-01 12:51:50.0785 INFO Get Indent List Success
+2021-03-01 12:51:50.0904 INFO Get Party Master List Success
+2021-03-01 12:51:50.1205 INFO Check WorkFlow List Success
+2021-03-01 12:51:50.1205 INFO Get User Success :com
+2021-03-01 12:52:27.0458 INFO Get GetSeverList Success
+2021-03-01 12:57:22.5821 INFO Get GetSeverList Success
+2021-03-01 12:57:51.8594 INFO Get GetSeverList Success
+2021-03-01 12:59:53.9255 INFO Get GetSeverList Success
+2021-03-01 13:11:33.9475 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:11:34.0273 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:11:34.1707 INFO Get User Success :harinagar_dis
+2021-03-01 13:11:37.7502 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:11:42.0062 INFO Get User Success :harinagar_dis
+2021-03-01 13:11:45.6592 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:11:45.6842 INFO Get User Success :harinagar_dis
+2021-03-01 13:23:11.3977 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:23:11.4974 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:23:11.6473 INFO Get User Success :harinagar_dis
+2021-03-01 13:23:13.8376 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:23:16.4823 INFO Get User Success :101-Commissioner
+2021-03-01 13:23:16.5074 INFO Get User Success :101-Commissioner
+2021-03-01 13:23:16.9992 INFO Get User Success :com
+2021-03-01 13:23:19.6838 INFO Get User Success :101-Commissioner
+2021-03-01 13:23:19.6838 INFO Check WorkFlow List Success
+2021-03-01 13:23:19.7797 INFO Get User Success :101-Commissioner
+2021-03-01 13:23:19.7797 INFO Check WorkFlow List Success
+2021-03-01 13:23:19.8183 INFO Get Allotment List Success
+2021-03-01 13:23:19.8723 INFO Get User Success :com
+2021-03-01 13:23:21.7949 INFO Get User Success :101-Commissioner
+2021-03-01 13:23:21.7949 INFO Get Party Master List Success
+2021-03-01 13:23:21.8104 INFO Get Indent List Success
+2021-03-01 13:23:21.8104 INFO Get Allotment Details Success
+2021-03-01 13:23:21.8284 INFO Get Indent List Success
+2021-03-01 13:23:21.8284 INFO Get Party Master List Success
+2021-03-01 13:23:21.8702 INFO Check WorkFlow List Success
+2021-03-01 13:23:21.8702 INFO Get User Success :com
+2021-03-01 13:23:33.8968 INFO Get GetSeverList Success
+2021-03-01 13:25:26.1702 INFO Get GetSeverList Success
+2021-03-01 13:49:32.8239 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:49:32.9027 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:49:33.0334 INFO Get User Success :harinagar_dis
+2021-03-01 13:49:34.8819 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:49:45.4202 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:50:03.0458 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 13:50:03.1219 INFO Get User Success :harinagar_dis
+2021-03-01 14:00:23.3659 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 14:00:23.4461 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 14:00:23.5868 INFO Get User Success :harinagar_dis
+2021-03-01 14:00:26.3867 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 14:00:35.2205 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 14:01:23.0026 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 14:01:23.0767 INFO Get User Success :harinagar_dis
+2021-03-01 15:39:20.1475 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 15:39:20.2274 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 15:39:20.3654 INFO Get User Success :harinagar_dis
+2021-03-01 15:39:27.1382 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2021-03-01 15:39:31.0344 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:39:31.0573 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:39:31.0573 INFO Get User Success :hpcl_ec
+2021-03-01 15:39:33.1667 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:39:35.3802 INFO Get User Success :hpcl_ec
+2021-03-01 15:39:38.2033 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:39:39.8023 INFO Get User Success :hpcl_ec
+2021-03-01 15:39:47.2035 INFO Get UOM List Success
+2021-03-01 15:39:47.2035 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:39:47.2136 INFO Get Party Master List Success
+2021-03-01 15:39:47.2136 INFO Get User Success :hpcl_ec
+2021-03-01 15:40:18.4369 INFO Get User Success :44-Administrator
+2021-03-01 15:40:18.4591 INFO Get User Success :44-Administrator
+2021-03-01 15:40:18.4651 INFO Get User Success :Admin
+2021-03-01 15:40:21.1859 INFO Get Party Type Master List Success
+2021-03-01 15:40:21.1859 INFO Get User Success :Admin
+2021-03-01 15:40:23.6588 INFO Get VAT Master List Success
+2021-03-01 15:40:23.6730 INFO Get User Success :Admin
+2021-03-01 15:40:38.4467 INFO Get VAT Master List Success
+2021-03-01 15:40:44.6021 INFO Get Party Type Master List Success
+2021-03-01 15:40:44.6021 INFO Get UOM List Success
+2021-03-01 15:40:44.6061 INFO Get Product Type Master List Success
+2021-03-01 15:40:44.6061 INFO Get VAT Type Master List Success
+2021-03-01 15:40:44.6361 INFO Get VAT Details Fail :Field not found in row: party_name
+2021-03-01 15:40:44.6361 INFO Get Party Master List Success
+2021-03-01 15:40:44.6361 INFO Get Product Master List Success
+2021-03-01 15:40:44.6361 INFO Get User Success :Admin
+2021-03-01 15:41:11.7538 INFO Get VAT Master List Success
+2021-03-01 15:41:11.7599 INFO Get User Success :Admin
+2021-03-01 15:41:13.5438 INFO Get Party Type Master List Success
+2021-03-01 15:41:13.5438 INFO Get UOM List Success
+2021-03-01 15:41:13.5438 INFO Get Product Type Master List Success
+2021-03-01 15:41:13.5438 INFO Get VAT Type Master List Success
+2021-03-01 15:41:13.5438 INFO Get User Success :Admin
+2021-03-01 15:41:21.5694 INFO Get VAT Master List Success
+2021-03-01 15:41:21.5754 INFO Get User Success :Admin
+2021-03-01 15:41:31.0760 INFO Get VAT Master List Success
+2021-03-01 15:41:32.4478 INFO Get Party Type Master List Success
+2021-03-01 15:41:32.4478 INFO Get UOM List Success
+2021-03-01 15:41:32.4478 INFO Get Product Type Master List Success
+2021-03-01 15:41:32.4478 INFO Get VAT Type Master List Success
+2021-03-01 15:41:32.4658 INFO Get VAT Details Fail :Field not found in row: party_name
+2021-03-01 15:41:32.4658 INFO Get Party Master List Success
+2021-03-01 15:41:32.4658 INFO Get Product Master List Success
+2021-03-01 15:41:32.4658 INFO Get User Success :Admin
+2021-03-01 15:41:59.4611 INFO Get VAT Master List Success
+2021-03-01 15:41:59.4681 INFO Get User Success :Admin
+2021-03-01 15:42:01.1052 INFO Get Party Type Master List Success
+2021-03-01 15:42:01.1052 INFO Get UOM List Success
+2021-03-01 15:42:01.1052 INFO Get Product Type Master List Success
+2021-03-01 15:42:01.1052 INFO Get VAT Type Master List Success
+2021-03-01 15:42:01.1052 INFO Get User Success :Admin
+2021-03-01 15:42:03.2912 INFO Get Party Master List Success
+2021-03-01 15:42:15.9606 INFO Get Product Master List Success
+2021-03-01 15:42:36.8271 INFO Get Existing data Fail :VAT_Master
+2021-03-01 15:42:51.1118 INFO Insert VAT Master Success :HPSMST0015-Syrup Tank 2
+2021-03-01 15:42:51.1645 INFO Get VAT Master List Success
+2021-03-01 15:42:51.1709 INFO Get User Success :Admin
+2021-03-01 15:43:07.6821 INFO Get VAT Master List Success
+2021-03-01 15:43:13.2736 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:43:13.2986 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:43:13.3115 INFO Get User Success :hpcl_ec
+2021-03-01 15:43:15.3156 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:43:17.2046 INFO Get User Success :hpcl_ec
+2021-03-01 15:43:19.4159 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:43:20.8434 INFO Get User Success :hpcl_ec
+2021-03-01 15:43:26.6508 INFO Get UOM List Success
+2021-03-01 15:43:26.6508 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:43:26.6508 INFO Get Party Master List Success
+2021-03-01 15:43:26.6508 INFO Get User Success :hpcl_ec
+2021-03-01 15:49:01.7224 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:49:03.5064 INFO Get User Success :hpcl_ec
+2021-03-01 15:49:10.3019 INFO Get UOM List Success
+2021-03-01 15:49:10.3089 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:49:10.3089 INFO Get Party Master List Success
+2021-03-01 15:56:23.8186 INFO Get User Success :hpcl_ec
+2021-03-01 15:56:27.5667 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:56:29.5075 INFO Get User Success :hpcl_ec
+2021-03-01 15:56:32.0258 INFO Get UOM List Success
+2021-03-01 15:56:32.0258 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:56:32.0258 INFO Get Party Master List Success
+2021-03-01 15:56:32.0417 INFO Get User Success :hpcl_ec
+2021-03-01 15:59:48.2945 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:59:48.3733 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:59:48.4272 INFO Get User Success :hpcl_ec
+2021-03-01 15:59:50.8847 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:59:53.3329 INFO Get User Success :hpcl_ec
+2021-03-01 15:59:55.6494 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 15:59:57.6420 INFO Get User Success :hpcl_ec
+2021-03-01 16:00:00.2391 INFO Get UOM List Success
+2021-03-01 16:00:00.2391 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:00:00.2551 INFO Get Party Master List Success
+2021-03-01 16:00:00.2641 INFO Get User Success :hpcl_ec
+2021-03-01 16:02:07.3366 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:02:09.6592 INFO Get User Success :hpcl_ec
+2021-03-01 16:02:17.8701 INFO Get UOM List Success
+2021-03-01 16:02:17.8701 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:02:17.8701 INFO Get Party Master List Success
+2021-03-01 16:08:03.3909 INFO Get User Success :hpcl_ec
+2021-03-01 16:08:12.3568 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:08:12.3847 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:08:12.4136 INFO Get User Success :hpcl_ec
+2021-03-01 16:08:14.6344 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:08:34.2393 INFO Get User Success :hpcl_ec
+2021-03-01 16:08:37.4666 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:13:07.8662 INFO Get User Success :hpcl_ec
+2021-03-01 16:13:11.5245 INFO Get UOM List Success
+2021-03-01 16:13:11.5285 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:13:11.5285 INFO Get Party Master List Success
+2021-03-01 16:13:11.5285 INFO Get User Success :hpcl_ec
+2021-03-01 16:15:40.9706 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:15:43.0598 INFO Get User Success :hpcl_ec
+2021-03-01 16:15:56.7278 INFO Get UOM List Success
+2021-03-01 16:15:56.7388 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:15:56.7388 INFO Get Party Master List Success
+2021-03-01 16:15:56.7501 INFO Get User Success :hpcl_ec
+2021-03-01 16:34:53.6277 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:34:53.7147 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:34:53.7772 INFO Get User Success :hpcl_ec
+2021-03-01 16:34:56.2922 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:35:00.4224 INFO Get User Success :hpcl_ec
+2021-03-01 16:35:02.4346 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:35:04.2838 INFO Get User Success :hpcl_ec
+2021-03-01 16:35:07.1236 INFO Get UOM List Success
+2021-03-01 16:35:07.1236 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:35:07.1236 INFO Get Party Master List Success
+2021-03-01 16:35:07.1425 INFO Get User Success :hpcl_ec
+2021-03-01 16:35:41.5425 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:35:52.4757 INFO Get User Success :hpcl_ec
+2021-03-01 16:35:55.5016 INFO Get UOM List Success
+2021-03-01 16:35:55.5016 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:35:55.5016 INFO Get Party Master List Success
+2021-03-01 16:35:55.5156 INFO Get User Success :hpcl_ec
+2021-03-01 16:39:04.3821 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:39:27.6629 INFO Get User Success :hpcl_ec
+2021-03-01 16:39:34.9750 INFO Get UOM List Success
+2021-03-01 16:39:34.9790 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:39:34.9790 INFO Get Party Master List Success
+2021-03-01 16:39:35.0010 INFO Get User Success :hpcl_ec
+2021-03-01 16:43:21.0368 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:21.1176 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:21.1926 INFO Get User Success :hpcl_ec
+2021-03-01 16:43:25.4997 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:27.3335 INFO Get User Success :hpcl_ec
+2021-03-01 16:43:29.1507 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:30.6950 INFO Get User Success :hpcl_ec
+2021-03-01 16:43:33.3300 INFO Get UOM List Success
+2021-03-01 16:43:33.3300 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:33.3388 INFO Get Party Master List Success
+2021-03-01 16:43:33.3388 INFO Get User Success :hpcl_ec
+2021-03-01 16:43:48.3590 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:50.1008 INFO Get User Success :hpcl_ec
+2021-03-01 16:43:54.3743 INFO Get UOM List Success
+2021-03-01 16:43:54.3853 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:43:54.3853 INFO Get Party Master List Success
+2021-03-01 16:43:55.6394 INFO Get User Success :hpcl_ec
+2021-03-01 16:47:25.9524 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:47:27.5888 INFO Get User Success :hpcl_ec
+2021-03-01 16:47:30.4377 INFO Get UOM List Success
+2021-03-01 16:47:30.4377 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:47:30.4377 INFO Get Party Master List Success
+2021-03-01 16:47:30.4536 INFO Get User Success :hpcl_ec
+2021-03-01 16:55:14.3021 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:55:15.1266 INFO Get User Success :hpcl_ec
+2021-03-01 16:55:17.5849 INFO Get UOM List Success
+2021-03-01 16:55:17.5889 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 16:55:17.5889 INFO Get Party Master List Success
+2021-03-01 16:55:17.5889 INFO Get User Success :hpcl_ec
+2021-03-01 17:04:18.0384 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:04:18.1261 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:04:18.1820 INFO Get User Success :hpcl_ec
+2021-03-01 17:04:20.7211 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:04:22.5539 INFO Get User Success :hpcl_ec
+2021-03-01 17:04:24.7635 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:04:26.5029 INFO Get User Success :hpcl_ec
+2021-03-01 17:04:32.0823 INFO Get UOM List Success
+2021-03-01 17:04:32.0823 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:04:32.0943 INFO Get Party Master List Success
+2021-03-01 17:04:32.1069 INFO Get User Success :hpcl_ec
+2021-03-01 17:41:39.7112 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:41:39.7888 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:41:39.8509 INFO Get User Success :hpcl_ec
+2021-03-01 17:41:42.4460 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:41:44.7463 INFO Get User Success :hpcl_ec
+2021-03-01 17:41:47.1793 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:41:48.3719 INFO Get User Success :hpcl_ec
+2021-03-01 17:41:51.3126 INFO Get UOM List Success
+2021-03-01 17:41:51.3126 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 17:41:51.3126 INFO Get Party Master List Success
+2021-03-01 17:41:51.3307 INFO Get User Success :hpcl_ec
+2021-03-01 18:09:31.2789 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 18:09:31.3596 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 18:09:31.4246 INFO Get User Success :hpcl_ec
+2021-03-01 18:09:33.5792 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 18:09:35.4120 INFO Get User Success :hpcl_ec
+2021-03-01 18:09:37.6091 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 18:09:39.1142 INFO Get User Success :hpcl_ec
+2021-03-01 18:09:41.7502 INFO Get UOM List Success
+2021-03-01 18:09:41.7502 INFO Get User Success :107-HPCL Biofuels Limited, Distillery Division, EC
+2021-03-01 18:09:41.7502 INFO Get Party Master List Success
+2021-03-01 18:09:41.7665 INFO Get User Success :hpcl_ec

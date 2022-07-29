@@ -1,0 +1,482 @@
+2020-11-10 10:14:36.7658 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:14:41.8939 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:14:41.8983 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:16:48.0318 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:16:48.4228 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:16:48.4228 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:16:51.3639 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:16:51.3639 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:24:43.3953 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:24:43.3988 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:26:06.7382 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:26:13.0077 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:26:13.0077 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:29:18.8622 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:29:18.8663 INFO Get RR List Success
+2020-11-10 10:29:18.8663 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:29:22.7537 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:29:22.7567 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 10:30:06.5683 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:30:11.7195 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:30:11.7195 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:30:32.4080 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 10:30:32.4080 INFO Get RR List Success
+2020-11-10 11:13:36.3532 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:13:44.0995 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:13:44.1031 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:13:50.8205 INFO Sugarcanepurchase Get List Success
+2020-11-10 11:13:50.8205 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:13:50.8463 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:14:02.1471 INFO MIR GetList Sucess
+2020-11-10 11:14:02.1506 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:14:02.1506 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:14:03.5165 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:14:03.5438 INFO Get Party Master List Success
+2020-11-10 11:14:03.5714 INFO Get VAT Master List Success
+2020-11-10 11:14:03.5714 INFO MIR GetPassDetails Sucess
+2020-11-10 11:14:08.1017 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:16:26.7795 INFO MIR Insertion Sucess:2-003
+2020-11-10 11:16:26.8238 INFO MIR GetList Sucess
+2020-11-10 11:16:26.8238 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:16:26.8355 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:16:28.3950 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:16:28.3980 INFO Get Party Master List Success
+2020-11-10 11:16:28.3980 INFO Get VAT Master List Success
+2020-11-10 11:16:28.3980 INFO MIR GetPassDetails Sucess
+2020-11-10 11:16:28.3980 INFO MIR GetDetails Sucess
+2020-11-10 11:16:28.4146 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:17:55.3069 INFO MIR GetList Sucess
+2020-11-10 11:17:55.3069 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:17:55.3069 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:17:55.8960 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:17:55.8990 INFO Get Party Master List Success
+2020-11-10 11:17:55.8990 INFO Get VAT Master List Success
+2020-11-10 11:17:55.8990 INFO MIR GetPassDetails Sucess
+2020-11-10 11:17:55.8990 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:16.2274 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:20.7509 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:20.7509 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:22.4259 INFO Sugarcanepurchase Get List Success
+2020-11-10 11:28:22.4289 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:22.4289 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:23.5133 INFO MIR GetList Sucess
+2020-11-10 11:28:23.5133 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:23.5133 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:29.9943 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:29.9943 INFO Get Party Master List Success
+2020-11-10 11:28:29.9943 INFO Get VAT Master List Success
+2020-11-10 11:28:30.0091 INFO MIR GetPassDetails Sucess
+2020-11-10 11:28:30.0091 INFO MIR GetDetails Sucess
+2020-11-10 11:28:30.0091 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:56.5194 INFO MIR GetList Sucess
+2020-11-10 11:28:56.5194 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:56.5244 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:58.4057 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:28:58.4057 INFO Get Party Master List Success
+2020-11-10 11:28:58.4167 INFO Get VAT Master List Success
+2020-11-10 11:28:58.4167 INFO MIR GetPassDetails Sucess
+2020-11-10 11:28:58.4167 INFO Get User Success :49-Harinagar Sugar Mills Limited
+2020-11-10 11:30:35.0443 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:30:38.3588 INFO Sugarcanepurchase Get List Success
+2020-11-10 11:30:38.3588 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:30:38.3588 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:30:40.6904 INFO Get Party Master List Success
+2020-11-10 11:30:40.6904 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:30:40.7132 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:30:43.3460 INFO MIR GetList Sucess
+2020-11-10 11:30:43.3460 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:30:43.3511 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:31:07.7698 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:31:07.7745 INFO Get Party Master List Success
+2020-11-10 11:31:07.7745 INFO Get VAT Master List Success
+2020-11-10 11:31:07.7745 INFO MIR GetPassDetails Sucess
+2020-11-10 11:31:07.7745 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:31:36.3482 INFO MIR GetList Sucess
+2020-11-10 11:31:36.3482 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:31:36.3531 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:31:47.5832 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:31:47.5861 INFO Get Party Master List Success
+2020-11-10 11:31:47.5861 INFO Get VAT Master List Success
+2020-11-10 11:31:47.6012 INFO MIR GetPassDetails Sucess
+2020-11-10 11:31:47.6012 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:33:47.3683 INFO MIR Insertion Sucess:3-016
+2020-11-10 11:33:47.3879 INFO MIR GetList Sucess
+2020-11-10 11:33:47.3879 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:33:47.3879 INFO Get User Success :85-Majhaulia Sugar Industries Pvt Ltd
+2020-11-10 11:36:38.8518 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-10 11:36:42.7516 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-10 11:36:42.7676 INFO Get Indent List Success
+2020-11-10 11:36:42.7899 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-10 11:36:44.6296 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-10 11:36:44.6320 INFO Get Indent List Success
+2020-11-10 11:36:44.7442 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-10 11:36:44.7590 INFO Get Party Master List Success
+2020-11-10 11:36:44.7590 INFO Get Product Master List Success
+2020-11-10 11:36:44.7590 INFO Get User Success :51-Harinagar Sugar Mills Limited, Distillery Division
+2020-11-10 12:02:42.2893 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:02:48.1158 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:02:48.1192 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:02:51.8696 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:02:51.8696 INFO Get RR List Success
+2020-11-10 12:07:00.1279 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:07:16.9003 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:07:42.4407 INFO Get RR List Success
+2020-11-10 12:07:42.4447 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:07:47.8683 INFO Get RR List Success
+2020-11-10 12:07:47.8955 INFO Get Balance Request Pass Success
+2020-11-10 12:07:56.8739 INFO Get RR List Success
+2020-11-10 12:07:56.8739 INFO Get Balance Request Pass Success
+2020-11-10 12:08:54.8476 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:09:53.0636 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:09:53.0636 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:09:56.5404 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:10:25.4812 INFO Get RR List Fail:A command is already in progress: select a.*,b.Cust_name from exciseautomation.noc a inner join exciseautomation.customer_master b on a.customer_id=b.customer_id order by noc_id
+2020-11-10 12:10:25.4812 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:10:28.1257 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:10:28.1257 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:10:32.9936 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:12:53.8981 INFO Get RR List Success
+2020-11-10 12:12:53.8981 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:13:01.4219 INFO Get RR List Success
+2020-11-10 12:13:01.4314 INFO Get Balance Request Pass Success
+2020-11-10 12:14:39.5620 INFO Get RR List Success
+2020-11-10 12:21:23.1662 INFO Get RR List Success
+2020-11-10 12:22:23.1340 INFO Get RR List Success
+2020-11-10 12:23:11.4841 INFO Get RR List Success
+2020-11-10 12:31:35.9137 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:31:41.9339 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:31:41.9339 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:31:46.0146 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:31:46.0365 INFO Get RR List Success
+2020-11-10 12:31:46.0427 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:31:50.0995 INFO Get RR List Success
+2020-11-10 12:31:52.7912 INFO Get RR List Success
+2020-11-10 12:32:16.9889 INFO Get Balance Request Pass Success
+2020-11-10 12:32:44.9141 INFO Get RR List Success
+2020-11-10 12:32:55.4875 INFO Get Balance Request Pass Success
+2020-11-10 12:33:29.2610 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:33:33.0963 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:35:56.3640 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:35:56.3670 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:35:59.7447 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:35:59.7447 INFO Get RR List Success
+2020-11-10 12:35:59.7447 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:36:56.5543 INFO Get RR List Success
+2020-11-10 12:37:15.7663 INFO Get RR List Success
+2020-11-10 12:37:15.7663 INFO Get Balance Request Pass Success
+2020-11-10 12:39:47.4009 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:39:50.7415 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:04.4161 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:04.4161 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:11.1459 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:11.1479 INFO Get RR List Success
+2020-11-10 12:42:11.1479 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:14.6094 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:14.6094 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:15.6704 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:15.6704 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:56.8995 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:42:56.8995 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:43:39.2967 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:43:39.2967 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:44:06.6024 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 12:44:06.6024 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:00:51.8906 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:00:54.4707 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:00:54.4768 INFO Get MF2 List Success
+2020-11-10 13:00:54.5167 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:00:57.9695 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:00:57.9695 INFO Get Party Master List Success
+2020-11-10 13:00:57.9782 INFO Get Party Master List Success
+2020-11-10 13:00:57.9782 INFO Get Product Master List Success
+2020-11-10 13:00:57.9910 INFO Get VAT Master List Success
+2020-11-10 13:00:58.0338 INFO Get MF2  Details Success
+2020-11-10 13:00:58.0580 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:00.4742 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:00.4772 INFO Get MF2 List Success
+2020-11-10 13:01:00.4772 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:02.9776 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:02.9776 INFO Get Party Master List Success
+2020-11-10 13:01:02.9776 INFO Get Party Master List Success
+2020-11-10 13:01:02.9776 INFO Get Product Master List Success
+2020-11-10 13:01:02.9776 INFO Get VAT Master List Success
+2020-11-10 13:01:02.9938 INFO Get MF2  Details Success
+2020-11-10 13:01:02.9938 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:10.6719 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:10.6719 INFO Get MF2 List Success
+2020-11-10 13:01:10.6719 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:11.9023 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:01:11.9023 INFO Get Party Master List Success
+2020-11-10 13:01:11.9023 INFO Get Party Master List Success
+2020-11-10 13:01:11.9023 INFO Get Product Master List Success
+2020-11-10 13:01:11.9133 INFO Get VAT Master List Success
+2020-11-10 13:01:11.9133 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:20:01.7339 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:03.6913 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:03.6981 INFO Get Indent List Success
+2020-11-10 13:20:03.7406 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:04.7482 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:04.7482 INFO Get Indent List Success
+2020-11-10 13:20:04.8280 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:04.8280 INFO Get Party Master List Success
+2020-11-10 13:20:04.8400 INFO Get Product Master List Success
+2020-11-10 13:20:04.8400 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:08.1372 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:08.1372 INFO Get Indent List Success
+2020-11-10 13:20:08.1372 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:10.0708 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 13:20:10.0708 INFO Get Indent List Success
+2020-11-10 13:20:19.5728 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:20:22.1427 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:20:22.1482 INFO Get MF2 List Success
+2020-11-10 13:20:22.1482 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:20:23.4085 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 13:20:23.4085 INFO Get Party Master List Success
+2020-11-10 13:20:23.4135 INFO Get Party Master List Success
+2020-11-10 13:20:23.4135 INFO Get Product Master List Success
+2020-11-10 13:20:23.4394 INFO Get VAT Master List Success
+2020-11-10 13:20:23.4654 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:14:45.2909 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:14:48.1986 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:14:48.1986 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:15:04.1789 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:15:04.1789 INFO Get MF2 List Success
+2020-11-10 14:15:04.1789 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:15:06.8483 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:15:06.8548 INFO Get Party Master List Success
+2020-11-10 14:15:06.8548 INFO Get Party Master List Success
+2020-11-10 14:15:06.8548 INFO Get Product Master List Success
+2020-11-10 14:15:06.8683 INFO Get VAT Master List Success
+2020-11-10 14:15:06.8954 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:18:10.4844 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:18:10.4844 INFO Get MF2 List Success
+2020-11-10 14:18:10.4917 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:18:11.7993 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:18:11.7993 INFO Get Party Master List Success
+2020-11-10 14:18:11.8053 INFO Get Party Master List Success
+2020-11-10 14:18:11.8053 INFO Get Product Master List Success
+2020-11-10 14:18:11.8053 INFO Get VAT Master List Success
+2020-11-10 14:18:11.8053 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:05.7520 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:08.0888 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:08.1220 INFO Get MF2 List Success
+2020-11-10 14:38:08.1603 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:09.3654 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:09.3713 INFO Get Party Master List Success
+2020-11-10 14:38:09.3713 INFO Get Party Master List Success
+2020-11-10 14:38:09.3713 INFO Get Product Master List Success
+2020-11-10 14:38:09.3853 INFO Get VAT Master List Success
+2020-11-10 14:38:09.4142 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:52.7119 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:38:52.7119 INFO Get Party Master List Success
+2020-11-10 14:38:52.7119 INFO Get Party Master List Success
+2020-11-10 14:38:52.7119 INFO Get Product Master List Success
+2020-11-10 14:38:52.7119 INFO Get VAT Master List Success
+2020-11-10 14:38:52.7270 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:40:02.2958 INFO Get Users List Success
+2020-11-10 14:40:03.7022 INFO Org Get List Success
+2020-11-10 14:40:03.7022 INFO Get Party Master List Success
+2020-11-10 14:40:03.7022 INFO Get Role Level List Success
+2020-11-10 14:40:03.7120 INFO Get access_type List Success
+2020-11-10 14:40:03.7712 INFO Get view_Role_master List Success :Input string was not in a correct format.
+2020-11-10 14:40:03.7840 INFO Get State List Success
+2020-11-10 14:40:03.7905 INFO Get Dept List Success
+2020-11-10 14:40:03.7905 INFO Get Users List Success
+2020-11-10 14:43:43.2854 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:43:47.8548 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:43:47.8548 INFO Get MF2 List Success
+2020-11-10 14:43:47.8548 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:43:50.8551 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:43:50.8551 INFO Get Party Master List Success
+2020-11-10 14:43:50.8551 INFO Get Party Master List Success
+2020-11-10 14:43:50.8551 INFO Get Product Master List Success
+2020-11-10 14:43:50.8551 INFO Get VAT Master List Success
+2020-11-10 14:43:50.8715 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:10.1985 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:10.1985 INFO Get MF2 List Success
+2020-11-10 14:44:10.1985 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:11.6459 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:11.6488 INFO Get Party Master List Success
+2020-11-10 14:44:11.6488 INFO Get Party Master List Success
+2020-11-10 14:44:11.6488 INFO Get Product Master List Success
+2020-11-10 14:44:11.6488 INFO Get VAT Master List Success
+2020-11-10 14:44:11.6488 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:33.6419 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:33.6419 INFO Get MF2 List Success
+2020-11-10 14:44:33.6419 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:37.3633 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:44:37.3633 INFO Get Party Master List Success
+2020-11-10 14:44:37.3683 INFO Get Party Master List Success
+2020-11-10 14:44:37.3683 INFO Get Product Master List Success
+2020-11-10 14:44:37.3683 INFO Get VAT Master List Success
+2020-11-10 14:44:37.3683 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:54:23.5435 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 14:54:25.6850 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 14:54:25.6989 INFO Get Indent List Success
+2020-11-10 14:54:25.7398 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 14:54:26.9519 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 14:54:26.9519 INFO Get Indent List Success
+2020-11-10 14:54:27.0257 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 14:54:27.0257 INFO Get Party Master List Success
+2020-11-10 14:54:27.0257 INFO Get Product Master List Success
+2020-11-10 14:54:27.0407 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 14:58:02.2761 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:58:04.8008 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:58:04.8076 INFO Get MF2 List Success
+2020-11-10 14:58:04.8457 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:58:06.1463 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:58:06.1522 INFO Get Party Master List Success
+2020-11-10 14:58:06.1522 INFO Get Party Master List Success
+2020-11-10 14:58:06.1522 INFO Get Product Master List Success
+2020-11-10 14:58:06.1682 INFO Get VAT Master List Success
+2020-11-10 14:58:06.2189 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:58:56.1900 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:58:56.1900 INFO Get Party Master List Success
+2020-11-10 14:58:56.1961 INFO Get Party Master List Success
+2020-11-10 14:58:56.1961 INFO Get Product Master List Success
+2020-11-10 14:58:56.1961 INFO Get VAT Master List Success
+2020-11-10 14:58:56.1961 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:59:09.2878 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:59:09.2923 INFO Get MF3 List Success
+2020-11-10 14:59:09.2923 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:59:10.6041 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 14:59:10.6041 INFO Get VAT Master List Success
+2020-11-10 14:59:10.6041 INFO Get Product Master List Success
+2020-11-10 14:59:10.6041 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:29:32.1080 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:29:37.3991 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:29:37.4417 INFO Get Indent List Success
+2020-11-10 15:29:37.6300 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:29:53.5024 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:29:53.5024 INFO Get Indent List Success
+2020-11-10 15:29:53.5829 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:29:53.5877 INFO Get Party Master List Success
+2020-11-10 15:29:53.5877 INFO Get Product Master List Success
+2020-11-10 15:29:53.5877 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:31:24.9485 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:31:24.9485 INFO Get Party Master List Success
+2020-11-10 15:31:24.9485 INFO Get Product Master List Success
+2020-11-10 15:31:24.9485 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 15:54:57.7836 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:54:59.7358 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:54:59.7413 INFO Get MF2 List Success
+2020-11-10 15:54:59.7813 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:55:01.1310 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:55:01.1358 INFO Get Party Master List Success
+2020-11-10 15:55:01.1358 INFO Get Party Master List Success
+2020-11-10 15:55:01.1358 INFO Get Product Master List Success
+2020-11-10 15:55:01.1519 INFO Get VAT Master List Success
+2020-11-10 15:55:01.1802 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:57:09.6498 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 15:57:09.6498 INFO Get Party Master List Success
+2020-11-10 15:57:09.6498 INFO Get Party Master List Success
+2020-11-10 15:57:09.6498 INFO Get Product Master List Success
+2020-11-10 15:57:09.6498 INFO Get VAT Master List Success
+2020-11-10 15:57:09.6657 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:27:59.3302 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:28:39.1370 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:28:39.1370 INFO Get MF2 List Success
+2020-11-10 16:28:39.1840 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:28:40.8021 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:28:40.8068 INFO Get Party Master List Success
+2020-11-10 16:28:40.8068 INFO Get Party Master List Success
+2020-11-10 16:28:40.8068 INFO Get Product Master List Success
+2020-11-10 16:28:40.8212 INFO Get VAT Master List Success
+2020-11-10 16:28:40.8493 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:29:31.4478 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:29:34.6223 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:29:34.6223 INFO Get MF2 List Success
+2020-11-10 16:29:34.6223 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:29:36.7594 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:29:36.7594 INFO Get Party Master List Success
+2020-11-10 16:29:36.7594 INFO Get Party Master List Success
+2020-11-10 16:29:36.7594 INFO Get Product Master List Success
+2020-11-10 16:29:36.7594 INFO Get VAT Master List Success
+2020-11-10 16:29:36.7594 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:34:25.2855 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:34:25.2882 INFO Get Party Master List Success
+2020-11-10 16:34:25.2882 INFO Get Party Master List Success
+2020-11-10 16:34:25.2882 INFO Get Product Master List Success
+2020-11-10 16:34:25.2882 INFO Get VAT Master List Success
+2020-11-10 16:34:25.2882 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:46:34.6248 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:46:36.5871 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:46:36.5871 INFO Get MF2 List Success
+2020-11-10 16:46:36.6359 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:46:38.2326 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:46:38.2326 INFO Get Party Master List Success
+2020-11-10 16:46:38.2416 INFO Get Party Master List Success
+2020-11-10 16:46:38.2416 INFO Get Product Master List Success
+2020-11-10 16:46:38.2416 INFO Get VAT Master List Success
+2020-11-10 16:46:38.2829 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:47:39.7846 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:47:39.7846 INFO Get Party Master List Success
+2020-11-10 16:47:39.7903 INFO Get Party Master List Success
+2020-11-10 16:47:39.7903 INFO Get Product Master List Success
+2020-11-10 16:47:39.7903 INFO Get VAT Master List Success
+2020-11-10 16:47:39.7903 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:48:03.4385 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:48:03.4385 INFO Get Party Master List Success
+2020-11-10 16:48:03.4385 INFO Get Party Master List Success
+2020-11-10 16:48:03.4454 INFO Get Product Master List Success
+2020-11-10 16:48:03.4454 INFO Get VAT Master List Success
+2020-11-10 16:48:03.4454 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:48:14.9643 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:48:14.9643 INFO Get Party Master List Success
+2020-11-10 16:48:14.9643 INFO Get Party Master List Success
+2020-11-10 16:48:14.9643 INFO Get Product Master List Success
+2020-11-10 16:48:14.9778 INFO Get VAT Master List Success
+2020-11-10 16:48:14.9778 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:53:23.1016 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:53:23.1016 INFO Get Party Master List Success
+2020-11-10 16:53:23.1016 INFO Get Party Master List Success
+2020-11-10 16:53:23.1016 INFO Get Product Master List Success
+2020-11-10 16:53:23.1016 INFO Get VAT Master List Success
+2020-11-10 16:53:23.1208 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:54:34.2752 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:54:34.2752 INFO Get Party Master List Success
+2020-11-10 16:54:34.2752 INFO Get Party Master List Success
+2020-11-10 16:54:34.2752 INFO Get Product Master List Success
+2020-11-10 16:54:34.2752 INFO Get VAT Master List Success
+2020-11-10 16:54:34.2903 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:55:05.9737 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:55:05.9766 INFO Get Party Master List Success
+2020-11-10 16:55:05.9766 INFO Get Party Master List Success
+2020-11-10 16:55:05.9766 INFO Get Product Master List Success
+2020-11-10 16:55:05.9766 INFO Get VAT Master List Success
+2020-11-10 16:55:05.9766 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:59:20.5464 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:59:22.4783 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:59:22.4783 INFO Get MF2 List Success
+2020-11-10 16:59:22.5298 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:59:23.8132 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 16:59:23.8192 INFO Get Party Master List Success
+2020-11-10 16:59:23.8192 INFO Get Party Master List Success
+2020-11-10 16:59:23.8392 INFO Get Product Master List Success
+2020-11-10 16:59:23.8392 INFO Get VAT Master List Success
+2020-11-10 16:59:23.8731 INFO Get User Success :16-Harinagar Sugar
+2020-11-10 17:10:38.3730 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:50.6332 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:50.6332 INFO Get Indent List Success
+2020-11-10 17:10:50.6812 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:53.0049 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:53.0082 INFO Get Indent List Success
+2020-11-10 17:10:53.0468 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:53.0468 INFO Get Allotment List Success
+2020-11-10 17:10:53.0641 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:54.3830 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:54.3830 INFO Get Allotment List Success
+2020-11-10 17:10:54.4638 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:10:54.4638 INFO Get Party Master List Success
+2020-11-10 17:10:54.4757 INFO Get Indent List Success
+2020-11-10 17:10:54.4757 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:11:51.7004 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:11:51.7004 INFO Get Indent List Success
+2020-11-10 17:11:51.7004 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:11:53.0709 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:11:53.0709 INFO Get Indent List Success
+2020-11-10 17:11:56.4505 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 17:11:56.4505 INFO Get Party Master List Success
+2020-11-10 17:11:56.4505 INFO Get Product Master List Success
+2020-11-10 17:11:56.4605 INFO Get User Success :18-Harinagar Distillery
+2020-11-10 18:00:31.2051 INFO Get VAT Type Master List Success

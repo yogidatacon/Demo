@@ -1,0 +1,27 @@
+﻿
+    .ui-datepicker-trigger {
+    background: url(images/calendar-icon.png) no-repeat left top;
+    border: none;
+    width: 35px;
+    height: 35px;
+    text-indent: -999999px;
+    margin-left: 3px !important;
+}
+
+    .ui-datepicker-trigger:hover {
+        background: url(images/calendar-icon-hover.png) no-repeat left top;
+    }
+
+    .ui-datepicker-trigger {
+    background: url(images/calendar-icon.png) no-repeat left top;
+    border: none;
+    width: 35px;
+    height: 35px;
+    text-indent: -999999px;
+    margin-left: 3px !important;
+}
+
+    .ui-datepicker-trigger:hover {
+        background: url(images/calendar-icon-hover.png) no-repeat left top;
+    }
+
