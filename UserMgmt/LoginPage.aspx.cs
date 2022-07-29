@@ -32,6 +32,7 @@ namespace UserMgmt
         protected void Unnamed_ServerClick(object sender, EventArgs e)
         {
             //AntiForgery.Validate();
+            //Anti Forgery ...
             NpgsqlConnection conn = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["CASEMGMT"].ToString());
             try
             {
