@@ -15,6 +15,9 @@ using System.Web.UI.WebControls;
 
 namespace UserMgmt
 {
+    /// <summary>
+    /// checking github
+    /// </summary>
     public partial class ForgotPassword : System.Web.UI.Page
     {
         string userid = "";
