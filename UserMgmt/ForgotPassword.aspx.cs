@@ -112,6 +112,11 @@ namespace UserMgmt
 
         }
 
+        /// <summary>
+        /// Encrypts the password to enhance confidentiality of passswords
+        /// </summary>
+        /// <param name="encryptString"></param>
+        /// <returns></returns>
         public string encrypt(string encryptString)
         {
             string EncryptionKey = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
