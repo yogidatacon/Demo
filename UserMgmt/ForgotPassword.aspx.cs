@@ -106,6 +106,11 @@ namespace UserMgmt
         {
 
         }
+        /// <summary>
+        /// Demo of github working
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         protected void lnkDelete_Click(object sender, EventArgs e)
         {
