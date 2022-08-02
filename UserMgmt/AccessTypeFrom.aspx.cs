@@ -183,7 +183,11 @@ namespace UserMgmt
                 }
             }
         }
-
+        /// <summary>
+        /// cancel button actions
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         protected void btnCancel_Click(object sender, EventArgs e)
         {
             Session["UserID"] = Session["UserID"].ToString();
