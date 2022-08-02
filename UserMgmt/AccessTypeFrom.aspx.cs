@@ -85,7 +85,11 @@ namespace UserMgmt
         {
             Response.Redirect("~/AccessTypeList");
         }
-
+        /// <summary>
+        /// showing statelist
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         protected void StateMaster_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/StateList");
