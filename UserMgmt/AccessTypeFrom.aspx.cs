@@ -76,7 +76,11 @@ namespace UserMgmt
                 }
             }
         }
-
+        /// <summary>
+        /// Rdirecting to access type list
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         protected void ShowRecord_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/AccessTypeList");
